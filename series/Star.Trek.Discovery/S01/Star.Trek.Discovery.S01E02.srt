@@ -1,0 +1,2295 @@
+﻿1
+00:00:06,006 --> 00:00:10,969
+UMA SÉRIE ORIGINAL NETFLIX
+
+2
+00:00:12,513 --> 00:00:14,598
+-Isto é motim.
+-Ande, Saru.
+
+3
+00:00:14,681 --> 00:00:15,933
+Alvo travado.
+
+4
+00:00:16,934 --> 00:00:18,310
+-Fogo.
+-Suspenda a ordem.
+
+5
+00:00:20,562 --> 00:00:23,315
+Capitão, por favor,
+eu estou tentando salvá-la.
+
+6
+00:00:24,191 --> 00:00:25,734
+Estou tentando salvar vocês.
+
+7
+00:00:27,694 --> 00:00:28,946
+Afaste-se.
+
+8
+00:00:29,530 --> 00:00:30,489
+Capitão, naves.
+
+9
+00:00:30,572 --> 00:00:32,241
+Sinais de dobra espacial detectados.
+
+10
+00:00:51,760 --> 00:00:54,221
+Embaixador Sarek.
+É bom vê-lo novamente.
+
+11
+00:00:54,972 --> 00:00:56,139
+Obrigado por nos receber.
+
+12
+00:00:56,223 --> 00:00:57,266
+SETE ANOS ANTES
+
+13
+00:00:57,349 --> 00:00:58,433
+O prazer é nosso.
+
+14
+00:00:58,517 --> 00:01:01,895
+Como discutido, esta é minha tutelada,
+Michael Burnham.
+
+15
+00:01:02,145 --> 00:01:05,190
+Olá, Michael.
+Bem-vinda à <i>USS Shenzhou</i>.
+
+16
+00:01:05,649 --> 00:01:08,068
+E parabéns por sua formatura.
+
+17
+00:01:08,193 --> 00:01:10,153
+Respeito deve ser merecido,
+assim como simpatia.
+
+18
+00:01:10,654 --> 00:01:13,824
+No entanto, as sutilezas diplomáticas
+devem ser observadas.
+
+19
+00:01:13,907 --> 00:01:15,534
+Isto não é uma negociação.
+
+20
+00:01:15,617 --> 00:01:16,785
+Primeiro contato, então.
+
+21
+00:01:17,578 --> 00:01:20,664
+A única humana a frequentar
+o Centro de Aprendizagem de Vulcano
+
+22
+00:01:20,747 --> 00:01:23,125
+e Academia de Ciências
+retorna ao seu povo.
+
+23
+00:01:23,208 --> 00:01:26,461
+-Entende a analogia, mais ou menos.
+-Menos.
+
+24
+00:01:27,754 --> 00:01:28,881
+Vou deixá-las agora.
+
+25
+00:01:29,464 --> 00:01:30,799
+Vida longa e próspera.
+
+26
+00:01:32,634 --> 00:01:33,468
+Comporte-se.
+
+27
+00:01:36,388 --> 00:01:37,264
+Ativando.
+
+28
+00:01:43,103 --> 00:01:45,981
+Em Vulcano, a tecnologia
+de transportador de vetores laterais
+
+29
+00:01:46,064 --> 00:01:49,151
+foi descartada devido à enorme
+quantidade de energia necessária.
+
+30
+00:01:49,234 --> 00:01:51,570
+A Frota Estelar retirou
+esse modelo também.
+
+31
+00:01:52,112 --> 00:01:54,948
+<i>Shenzhou</i> é antiga,
+mas nos leva aonde precisamos ir.
+
+32
+00:01:55,032 --> 00:01:57,409
+<i>Atenção, toda a tripulação.</i>
+<i>Preparar para entrar em órbita.</i>
+
+33
+00:01:57,492 --> 00:01:59,578
+Este nave não está de acordo
+com seus padrões?
+
+34
+00:01:59,703 --> 00:02:01,872
+Eu não tenho padrões
+se tratando desta nave.
+
+35
+00:02:02,456 --> 00:02:05,709
+Sempre tive a intenção de me juntar
+ao Grupo Expedicionário Vulcano.
+
+36
+00:02:06,043 --> 00:02:10,088
+Às vezes, o universo permite
+o surgimento de memórias inesperadas.
+
+37
+00:02:10,547 --> 00:02:12,883
+Clichês emocionais não era
+o que eu esperava.
+
+38
+00:02:14,092 --> 00:02:16,720
+Você esteve realmente
+muito tempo longe dos humanos.
+
+39
+00:02:17,846 --> 00:02:20,015
+Eu diria que você é confiante demais
+
+40
+00:02:20,098 --> 00:02:22,392
+-mas eu vi seu histórico.
+-Assim como eu vi o seu.
+
+41
+00:02:22,476 --> 00:02:24,645
+E sua confiança é justificada.
+
+42
+00:02:28,065 --> 00:02:29,149
+Assim como a sua.
+
+43
+00:02:33,320 --> 00:02:34,655
+Pronta para ver seu novo lar?
+
+44
+00:02:39,785 --> 00:02:40,953
+Capitão na Ponte.
+
+45
+00:02:42,829 --> 00:02:44,081
+Não é tão ruim, certo?
+
+46
+00:02:51,880 --> 00:02:53,423
+<i>Há uma pequena mas detectável</i>
+
+47
+00:02:53,507 --> 00:02:55,968
+<i>perda de eficiência</i>
+<i>nas bobinas de condução.</i>
+
+48
+00:02:57,469 --> 00:02:58,762
+Parece ser funcional.
+
+49
+00:03:00,222 --> 00:03:02,349
+Compreendo sua hesitação, Michael.
+
+50
+00:03:02,432 --> 00:03:05,185
+É difícil deixar Vulcano
+e tudo que você conhece para trás.
+
+51
+00:03:05,769 --> 00:03:06,770
+Mas eu lhe asseguro,
+
+52
+00:03:07,437 --> 00:03:10,148
+este pode ser seu novo lar,
+se você quiser que seja.
+
+53
+00:03:10,732 --> 00:03:11,567
+Obrigada...
+
+54
+00:03:12,734 --> 00:03:13,569
+capitão.
+
+55
+00:03:17,739 --> 00:03:18,866
+Quantas naves Klingon
+
+56
+00:03:18,949 --> 00:03:20,826
+-entraram no sistema?
+-Rastreando.
+
+57
+00:03:22,286 --> 00:03:23,412
+Vinte e quatro, capitão.
+
+58
+00:03:25,080 --> 00:03:28,083
+O Alto Conselho Klingon
+consiste em 24 casas.
+
+59
+00:03:29,209 --> 00:03:30,836
+Isso não pode ser uma coincidência.
+
+60
+00:03:31,879 --> 00:03:33,130
+O número de naves.
+
+61
+00:03:33,630 --> 00:03:37,301
+Sugere que alguém esteja tentando
+unificar seu império novamente.
+
+62
+00:03:38,427 --> 00:03:39,553
+Contra nós.
+
+63
+00:03:42,306 --> 00:03:45,225
+Comandante Burnham,
+você colocou em perigo sua nave,
+
+64
+00:03:45,684 --> 00:03:49,438
+e seus companheiros.
+Você atacou um oficial superior.
+
+65
+00:03:50,022 --> 00:03:51,857
+Você violou a cadeia de comando.
+
+66
+00:03:52,441 --> 00:03:54,109
+Está dispensada de serviço.
+
+67
+00:03:55,068 --> 00:03:57,029
+Segurança, levem-na para detenção.
+
+68
+00:03:57,112 --> 00:03:58,030
+Sim, capitão.
+
+69
+00:05:41,758 --> 00:05:44,553
+Onde está T'Kuvma?
+
+70
+00:05:45,470 --> 00:05:47,347
+Eu atendo ao chamado sagrado
+
+71
+00:05:47,431 --> 00:05:49,391
+do Farol de Kahless,
+
+72
+00:05:49,474 --> 00:05:51,351
+e aquele que o enviou
+
+73
+00:05:51,435 --> 00:05:53,228
+ignora minha presença?
+
+74
+00:05:53,562 --> 00:05:56,190
+Seu líder atrasa minha viagem.
+
+75
+00:05:56,273 --> 00:05:57,107
+Por quê?
+
+76
+00:05:57,608 --> 00:05:59,234
+Que ameaça para o Império
+
+77
+00:05:59,318 --> 00:06:01,195
+se espalha através das estrelas?
+
+78
+00:06:01,904 --> 00:06:04,448
+Traga seu líder imediatamente.
+
+79
+00:06:04,907 --> 00:06:08,118
+Não desperdice mais meu tempo.
+
+80
+00:06:08,702 --> 00:06:09,578
+"Minha presença."
+
+81
+00:06:10,662 --> 00:06:12,205
+"Minha viagem."
+
+82
+00:06:13,290 --> 00:06:14,625
+"Meu tempo."
+
+83
+00:06:14,708 --> 00:06:16,335
+Ninguém fala de "meu dever"
+
+84
+00:06:17,211 --> 00:06:19,755
+ou "minha honra".
+
+85
+00:06:20,255 --> 00:06:22,132
+Mostre respeito, T'Kuvma.
+
+86
+00:06:22,215 --> 00:06:24,259
+Você não é nada.
+
+87
+00:06:24,343 --> 00:06:25,761
+Você não obteve
+
+88
+00:06:25,844 --> 00:06:29,014
+um assento neste conselho.
+
+89
+00:06:29,681 --> 00:06:30,891
+E, no entanto, sou o único
+
+90
+00:06:30,974 --> 00:06:33,727
+que lidera o caminho
+para a ressurreição de nosso Império.
+
+91
+00:06:34,644 --> 00:06:37,522
+<i>Quando criança</i>
+
+92
+00:06:37,606 --> 00:06:39,441
+<i>meu destino foi iluminado</i>
+
+93
+00:06:39,525 --> 00:06:42,319
+<i>pela luz de Kahless.</i>
+
+94
+00:06:43,487 --> 00:06:47,324
+<i>Esta nave pertencia ao meu pai.</i>
+
+95
+00:06:47,699 --> 00:06:52,079
+<i>Após sua morte, ficou abandonada...</i>
+
+96
+00:06:53,956 --> 00:06:55,791
+<i>até que eu a descobri</i>
+
+97
+00:06:56,250 --> 00:07:00,838
+<i>e prometi restaurar a honra</i>
+<i>da minha casa.</i>
+
+98
+00:07:04,716 --> 00:07:07,135
+Isto aqui não é
+seu parque de diversões.
+
+99
+00:07:08,929 --> 00:07:10,639
+Mostrem respeito à minha casa!
+
+100
+00:07:19,189 --> 00:07:22,401
+<i>Mas não há honra sem união.</i>
+
+101
+00:07:23,026 --> 00:07:25,612
+<i>Não há lar para nenhum de nós,</i>
+
+102
+00:07:25,696 --> 00:07:28,323
+<i>a menos que seja compartilhado</i>
+<i>por todos.</i>
+
+103
+00:07:29,741 --> 00:07:31,785
+Você fala em união
+
+104
+00:07:31,869 --> 00:07:36,456
+mas você desonra esta nave
+
+105
+00:07:36,540 --> 00:07:37,791
+com párias
+
+106
+00:07:37,875 --> 00:07:39,168
+e vermes.
+
+107
+00:07:39,626 --> 00:07:41,253
+Olhem em volta!
+
+108
+00:07:41,336 --> 00:07:43,881
+Esta nave sagrada voa
+de novo por causa do meu Senhor.
+
+109
+00:07:44,339 --> 00:07:48,176
+Ele mesmo criou uma forma de ocultá-la
+sob um manto de invisibilidade.
+
+110
+00:07:50,053 --> 00:07:52,848
+Minha casa está aberta a todos.
+
+111
+00:07:54,808 --> 00:07:56,768
+Incluindo aqueles
+
+112
+00:07:56,852 --> 00:08:00,147
+rejeitados por você, Kol.
+
+113
+00:08:00,230 --> 00:08:02,024
+Mas minha casa está unida
+
+114
+00:08:02,107 --> 00:08:03,901
+por uma única doutrina:
+
+115
+00:08:03,984 --> 00:08:06,653
+Permanecer Klingon.
+
+116
+00:08:07,195 --> 00:08:09,322
+Já basta de ouvir esse idiota.
+
+117
+00:08:09,406 --> 00:08:11,908
+A Casa de D'Ghor vai ouvir mais.
+
+118
+00:08:12,993 --> 00:08:13,827
+Assim como
+
+119
+00:08:13,911 --> 00:08:15,287
+a Casa Mokai.
+
+120
+00:08:18,457 --> 00:08:20,417
+Um dia em breve,
+
+121
+00:08:21,210 --> 00:08:24,922
+eu vou colocá-lo de volta em seu lugar,
+T'Kuvma.
+
+122
+00:08:27,299 --> 00:08:29,718
+Como você propõe nos unir?
+
+123
+00:08:30,636 --> 00:08:32,554
+Nós nos tornamos complacentes
+
+124
+00:08:33,639 --> 00:08:37,601
+desde a última vez que batalhamos
+
+125
+00:08:37,684 --> 00:08:39,811
+contra a Federação em Donatu V.
+
+126
+00:08:40,604 --> 00:08:43,857
+Nossa pureza é uma ameaça para eles.
+
+127
+00:08:44,816 --> 00:08:47,194
+Eles desejam nos arrastar
+
+128
+00:08:47,277 --> 00:08:49,321
+para a sujeira onde humanos,
+
+129
+00:08:49,780 --> 00:08:51,573
+Vulcanos,
+
+130
+00:08:51,657 --> 00:08:53,408
+Telaritas,
+
+131
+00:08:53,492 --> 00:08:56,662
+e Andorianos sujos se misturam.
+
+132
+00:08:56,745 --> 00:08:59,039
+A nave deles é apenas um grão.
+
+133
+00:08:59,831 --> 00:09:01,083
+Que ameaça
+
+134
+00:09:01,166 --> 00:09:03,877
+uma nave oferece?
+
+135
+00:09:04,169 --> 00:09:05,587
+Grandes líderes,
+
+136
+00:09:05,671 --> 00:09:08,340
+tudo o que eu digo acontecerá.
+
+137
+00:09:08,799 --> 00:09:10,843
+Olhe para as estrelas...
+
+138
+00:09:13,136 --> 00:09:15,389
+nosso destino chegou.
+
+139
+00:09:23,689 --> 00:09:26,316
+As naves estelares <i>Clarke</i>, <i>Shran</i>,
+<i>T'Plana Hath</i>, <i>Kerala</i>,
+
+140
+00:09:26,400 --> 00:09:30,529
+<i>Sue</i>,<i> Rye</i>, <i>Earhart</i>, <i>Dana</i>, <i>Edison</i>,
+e <i>Yeager</i> saíram de dobra.
+
+141
+00:09:30,988 --> 00:09:32,114
+Onde está o almirante?
+
+142
+00:09:32,865 --> 00:09:34,908
+A <i>Europa</i> ainda está
+a 800 UAs de distância.
+
+143
+00:09:35,158 --> 00:09:35,993
+Capitão.
+
+144
+00:09:36,076 --> 00:09:38,828
+Os Klingons não estão mais bloqueando
+a comunicação da nave.
+
+145
+00:09:38,954 --> 00:09:40,998
+-Januzzi, abra um canal.
+-Sim, capitão.
+
+146
+00:09:42,332 --> 00:09:44,001
+Nave Klingon não identificada.
+
+147
+00:09:44,501 --> 00:09:48,046
+Aqui é a Capitão Philippa Georgiou
+da <i>USS Shenzhou</i>.
+
+148
+00:09:48,630 --> 00:09:51,884
+Estamos nas fronteiras
+do espaço da Federação,
+
+149
+00:09:51,967 --> 00:09:53,427
+mas não se enganem,
+
+150
+00:09:53,719 --> 00:09:57,014
+vocês e seu artefato
+estão em nosso território.
+
+151
+00:09:57,848 --> 00:10:02,269
+Lamentamos que esta situação tenha
+resultado na morte de seu guerreiro.
+
+152
+00:10:02,811 --> 00:10:04,563
+Oferecemos duas opções:
+
+153
+00:10:05,189 --> 00:10:06,356
+Partir imediatamente,
+
+154
+00:10:06,857 --> 00:10:08,400
+ou abrir um diálogo conosco.
+
+155
+00:10:09,401 --> 00:10:10,777
+Torcemos que seja a última,
+
+156
+00:10:11,278 --> 00:10:14,281
+para que possamos reatar laços
+com o Império Klingon,
+
+157
+00:10:15,282 --> 00:10:16,450
+e provar para vocês
+
+158
+00:10:17,117 --> 00:10:19,244
+que agora, como sempre...
+
+159
+00:10:19,328 --> 00:10:20,787
+Aqui vem.
+
+160
+00:10:20,871 --> 00:10:22,372
+A mentira deles.
+
+161
+00:10:22,456 --> 00:10:23,916
+...nós viemos em paz.
+
+162
+00:10:25,542 --> 00:10:26,460
+Não!
+
+163
+00:10:26,543 --> 00:10:27,836
+Eles não vêm!
+
+164
+00:10:27,920 --> 00:10:32,799
+Eles vêm destruir nossa individualidade.
+
+165
+00:10:32,883 --> 00:10:35,844
+Vamos nos erguer juntos
+
+166
+00:10:36,553 --> 00:10:39,097
+e dar-lhes o combate que eles merecem?
+
+167
+00:10:39,180 --> 00:10:41,641
+Permanecer Klingon!
+
+168
+00:10:44,019 --> 00:10:44,895
+Fogo!
+
+169
+00:10:50,024 --> 00:10:52,068
+-Estações de batalha.
+-Aumentando escudos.
+
+170
+00:11:00,410 --> 00:11:01,787
+Operações, relatório de danos.
+
+171
+00:11:04,039 --> 00:11:06,708
+-Alferes Connor?
+-Transferindo operações para estação.
+
+172
+00:11:06,792 --> 00:11:09,294
+Choque direto, fissuras no casco,
+deques 13 a 15.
+
+173
+00:11:09,378 --> 00:11:12,172
+Campos de força de emergência
+no local, anteparos segurando.
+
+174
+00:11:13,048 --> 00:11:15,300
+-Tático secundário desconectado.
+-Escudos?
+
+175
+00:11:15,384 --> 00:11:17,010
+No máximo, e aguentando por enquanto.
+
+176
+00:11:17,094 --> 00:11:18,762
+Controle, manobra evasiva sete-alfa.
+
+177
+00:11:31,900 --> 00:11:34,152
+-Connor, dá para chegar na enfermaria?
+-Sim, capitão.
+
+178
+00:11:34,236 --> 00:11:37,614
+O <i>USS T'Plana Hath</i> está sob
+ataque pesado de três naves Klingon.
+
+179
+00:11:37,698 --> 00:11:40,158
+Detmer, estabeleça rumo 219 ponto seis.
+
+180
+00:11:40,242 --> 00:11:41,577
+Sim, capitão.
+
+181
+00:11:45,163 --> 00:11:47,040
+-Sr. Gant?
+-Feisers armados e prontos.
+
+182
+00:11:47,124 --> 00:11:48,792
+-Travando no alvo.
+-Fogo.
+
+183
+00:12:00,888 --> 00:12:02,723
+Computador,
+qual a gravidade dos danos?
+
+184
+00:12:04,850 --> 00:12:07,936
+<i>Você foi confinada à detenção.</i>
+<i>Consulta negada.</i>
+
+185
+00:12:11,565 --> 00:12:12,399
+Quem está aí?
+
+186
+00:12:15,611 --> 00:12:16,737
+Onde estão os médicos?
+
+187
+00:12:17,905 --> 00:12:19,406
+Connor. O que aconteceu?
+
+188
+00:12:20,448 --> 00:12:21,699
+A Ponte foi atingida.
+
+189
+00:12:21,783 --> 00:12:23,869
+Quem mais está ferido?
+A capitão está bem?
+
+190
+00:12:24,453 --> 00:12:26,288
+Ela me disse para vir para a enfermaria.
+
+191
+00:12:27,247 --> 00:12:28,665
+Mas aqui não é a enfermaria.
+
+192
+00:12:29,333 --> 00:12:31,919
+Estamos em guerra.
+Você deveria estar na Ponte.
+
+193
+00:12:33,045 --> 00:12:34,129
+Não posso ajudar.
+
+194
+00:12:35,422 --> 00:12:36,840
+Estou presa por motim.
+
+195
+00:12:41,637 --> 00:12:42,971
+Por que estamos lutando?
+
+196
+00:12:45,307 --> 00:12:46,642
+Somos da Frota Estelar.
+
+197
+00:12:48,393 --> 00:12:51,063
+Somos exploradores, não soldados.
+
+198
+00:12:51,897 --> 00:12:54,024
+Connor, você foi atingido na cabeça.
+
+199
+00:12:54,608 --> 00:12:56,777
+Ative o painel de comunicação
+e chame o Dr. Nambue.
+
+200
+00:12:57,569 --> 00:12:59,947
+Sim, eu... preciso de ajuda.
+
+201
+00:13:19,466 --> 00:13:20,300
+Michael.
+
+202
+00:13:21,301 --> 00:13:22,135
+Michael.
+
+203
+00:13:24,471 --> 00:13:25,305
+Michael?
+
+204
+00:13:38,318 --> 00:13:40,320
+Minha mente para sua mente.
+
+205
+00:13:46,910 --> 00:13:48,912
+Meus pensamentos
+para seus pensamentos.
+
+206
+00:13:50,247 --> 00:13:51,331
+Volte para mim.
+
+207
+00:14:02,926 --> 00:14:04,469
+<i>Grande fissura no casco.</i>
+
+208
+00:14:04,887 --> 00:14:06,346
+<i>Grande fissura no casco.</i>
+
+209
+00:14:08,432 --> 00:14:09,391
+<i>Deque Um,</i>
+
+210
+00:14:09,808 --> 00:14:10,851
+<i>Deque Três,</i>
+
+211
+00:14:11,226 --> 00:14:12,561
+<i>Deque Seis,</i>
+
+212
+00:14:12,644 --> 00:14:13,562
+<i>Deque Sete,</i>
+
+213
+00:14:14,021 --> 00:14:15,022
+<i>Deque Oito,</i>
+
+214
+00:14:15,480 --> 00:14:16,565
+<i>Deque Nove.</i>
+
+215
+00:14:33,957 --> 00:14:34,958
+Situação.
+
+216
+00:14:35,042 --> 00:14:36,084
+ALERTA
+FISSURA NO CASCO
+
+217
+00:14:36,168 --> 00:14:39,004
+Fissuras adicionais de casco
+deques Um, Três e Seis até...
+
+218
+00:14:42,216 --> 00:14:43,050
+Nove.
+
+219
+00:14:47,054 --> 00:14:47,888
+A detenção.
+
+220
+00:14:51,892 --> 00:14:54,061
+<i>Escudos em 15 por cento.</i>
+
+221
+00:14:54,603 --> 00:14:58,398
+<i>Desviando abastecimento principal</i>
+<i>de deques comprometidos para Ponte.</i>
+
+222
+00:15:00,359 --> 00:15:02,569
+<i>Falhas de campo</i>
+<i>de contenção iminentes.</i>
+
+223
+00:15:03,070 --> 00:15:06,073
+<i>Toda a equipe de reparos,</i>
+<i>evacuar imediatamente.</i>
+
+224
+00:15:20,379 --> 00:15:21,505
+Sarek?
+
+225
+00:15:23,590 --> 00:15:24,675
+Como isso é possível?
+
+226
+00:15:25,384 --> 00:15:27,469
+Uma fusão mental a 1.000 anos-luz?
+
+227
+00:15:27,553 --> 00:15:29,054
+Mais do que uma fusão mental.
+
+228
+00:15:29,596 --> 00:15:30,889
+Desde que você era criança,
+
+229
+00:15:31,473 --> 00:15:33,725
+desde o bombardeio
+ao Centro de Aprendizagem,
+
+230
+00:15:33,809 --> 00:15:37,020
+aquele ato de terror
+que mudou para sempre o seu destino,
+
+231
+00:15:37,104 --> 00:15:40,482
+uma parte de mim, meu <i>katra</i>,
+esteve com você.
+
+232
+00:15:40,899 --> 00:15:44,111
+Também nos permite
+esta forma única de conexão.
+
+233
+00:15:45,112 --> 00:15:46,613
+Eu vejo pela sua prisão
+
+234
+00:15:46,697 --> 00:15:50,367
+que meu conselho sobre os Klingons
+não rendeu o resultado que esperava.
+
+235
+00:15:50,450 --> 00:15:53,579
+Não pude convencer a Capitão Georgiou
+a atacar os Klingons primeiro.
+
+236
+00:15:54,162 --> 00:15:55,873
+Então, tomei em minhas próprias mãos.
+
+237
+00:15:57,833 --> 00:15:58,750
+Está desapontado.
+
+238
+00:15:59,459 --> 00:16:00,376
+Como deveria estar.
+
+239
+00:16:00,460 --> 00:16:02,838
+Eu não vim aqui para julgar suas ações.
+
+240
+00:16:03,422 --> 00:16:05,382
+Eu vim porque senti o seu...
+
+241
+00:16:06,215 --> 00:16:08,009
+-seu desespero.
+-Qual o problema?
+
+242
+00:16:08,302 --> 00:16:12,431
+Comunicar-me com você desta maneira
+traz um custo físico significativo.
+
+243
+00:16:14,683 --> 00:16:15,517
+Então me deixe.
+
+244
+00:16:17,186 --> 00:16:18,020
+Por favor.
+
+245
+00:16:18,812 --> 00:16:21,815
+Você acha que vim aqui
+apenas para me despedir?
+
+246
+00:16:22,399 --> 00:16:26,111
+Eu não arriscaria meu bem-estar
+por tal sentimentalismo.
+
+247
+00:16:26,612 --> 00:16:29,114
+Morte e destruição caírem
+sobre a Frota Estelar,
+
+248
+00:16:29,656 --> 00:16:31,241
+isso era de se esperar.
+
+249
+00:16:31,867 --> 00:16:34,536
+O que não posso tolerar
+é um desperdício de recursos.
+
+250
+00:16:35,370 --> 00:16:36,205
+Você é talentosa.
+
+251
+00:16:36,997 --> 00:16:37,831
+Você é corajosa.
+
+252
+00:16:38,916 --> 00:16:39,875
+Deve fazer melhor.
+
+253
+00:16:40,875 --> 00:16:42,210
+Porque sei que você pode.
+
+254
+00:16:43,545 --> 00:16:46,507
+Você nunca foi de reforçar
+minha autoestima.
+
+255
+00:16:48,926 --> 00:16:51,678
+Talvez seja nisso
+onde eu falhei com você.
+
+256
+00:16:52,763 --> 00:16:55,224
+Não importa a sua vergonha,
+reúna sua força.
+
+257
+00:16:56,390 --> 00:16:58,518
+Ache uma forma de ajudar
+quem precisa de você.
+
+258
+00:17:02,105 --> 00:17:04,441
+Vida longa e próspera.
+
+259
+00:17:31,134 --> 00:17:34,179
+Nave de guerra em vetor de ataque.
+Eles travaram em nós.
+
+260
+00:17:34,263 --> 00:17:37,391
+Desviar toda energia de sistemas
+não essenciais para escudos de popa.
+
+261
+00:17:42,896 --> 00:17:44,314
+<i>Remaneje energia se necessário.</i>
+
+262
+00:17:44,398 --> 00:17:47,734
+<i>Transportadores devem estar a postos</i>
+<i>para emergência...</i>
+
+263
+00:17:57,994 --> 00:17:59,328
+-Operações.
+-Sim, capitão.
+
+264
+00:17:59,580 --> 00:18:01,123
+O campo de força de emergência
+está segurando.
+
+265
+00:18:01,248 --> 00:18:03,000
+Motores de escudos
+e impulso desligados.
+
+266
+00:18:03,082 --> 00:18:04,792
+Estamos completamente desabilitados.
+
+267
+00:18:04,877 --> 00:18:07,171
+Continuam vindo.
+Logo atrás de nós, armas quentes.
+
+268
+00:18:14,136 --> 00:18:15,637
+A nave de guerra Klingon se retirou.
+
+269
+00:18:16,471 --> 00:18:18,390
+-Por que não acabaram conosco?
+-Não precisam.
+
+270
+00:18:19,766 --> 00:18:20,767
+Capitão.
+
+271
+00:18:22,269 --> 00:18:24,771
+Estamos sendo sugados para
+o anel de detritos da estrela binária.
+
+272
+00:18:24,855 --> 00:18:26,773
+O campo gravitacional está nos atraindo.
+
+273
+00:18:27,274 --> 00:18:29,318
+-Ativar propulsores reversos.
+-Não respondem.
+
+274
+00:18:30,611 --> 00:18:32,196
+Escudos ainda estão desativados.
+
+275
+00:18:42,706 --> 00:18:43,665
+Impacto iminente.
+
+276
+00:18:45,667 --> 00:18:46,502
+Todos a bordo.
+
+277
+00:18:46,960 --> 00:18:49,463
+Aqui é a capitão.
+Preparem-se para evacuar.
+
+278
+00:19:16,323 --> 00:19:18,450
+Mensagem chegando da <i>Europa</i>.
+
+279
+00:19:22,412 --> 00:19:25,082
+Obrigada pela ajuda com o raio trator,
+almirante.
+
+280
+00:19:25,207 --> 00:19:26,917
+<i>O que diabos aconteceu, Philippa?</i>
+
+281
+00:19:27,251 --> 00:19:29,211
+Nós saudamos. Eles dispararam.
+
+282
+00:19:29,378 --> 00:19:32,172
+A <i>Shenzhou</i>, <i>Clarke</i>,
+e <i>Yeager</i> foram abatidas do nosso lado.
+
+283
+00:19:32,256 --> 00:19:35,676
+-Tivemos fortes baixas.
+-<i>Pelo que posso ver, eles também.</i>
+
+284
+00:19:36,260 --> 00:19:38,095
+Talvez estejam prontos para negociar.
+
+285
+00:19:38,262 --> 00:19:40,097
+Abra um canal para a capitânia Klingon.
+
+286
+00:19:40,681 --> 00:19:42,099
+Atenção líder Klingon.
+
+287
+00:19:42,641 --> 00:19:44,059
+Sou o Almirante Brett Anderson.
+
+288
+00:19:44,141 --> 00:19:46,936
+Eu falo com a autoridade
+de toda a Federação
+
+289
+00:19:47,020 --> 00:19:48,647
+ao propor um cessar-fogo
+
+290
+00:19:48,730 --> 00:19:51,984
+para que possamos resolver este conflito
+sem derramar mais sangue.
+
+291
+00:19:52,067 --> 00:19:53,944
+Você quer responder, meu senhor?
+
+292
+00:19:56,864 --> 00:19:58,073
+Começar transmissão.
+
+293
+00:19:59,575 --> 00:20:00,409
+Almirante,
+
+294
+00:20:01,118 --> 00:20:03,203
+eu sou T'Kuvma.
+
+295
+00:20:04,204 --> 00:20:06,707
+Fico satisfeito por você estar aqui.
+
+296
+00:20:07,958 --> 00:20:11,420
+Estivemos esperando
+por alguém digno de nossa atenção.
+
+297
+00:20:12,129 --> 00:20:15,132
+Sua oferta de cessar-fogo foi aceita.
+
+298
+00:20:15,382 --> 00:20:16,216
+Ótimo.
+
+299
+00:20:16,298 --> 00:20:18,884
+Porque se estamos combatendo,
+não estamos conversando.
+
+300
+00:20:20,554 --> 00:20:23,891
+Prepare-se para receber o meu enviado.
+
+301
+00:20:25,350 --> 00:20:26,894
+Vamos nos preparar para sua chegada.
+
+302
+00:20:32,316 --> 00:20:34,610
+Que ninguém duvide
+
+303
+00:20:34,693 --> 00:20:37,529
+que posso tornar minhas próprias naves
+
+304
+00:20:37,613 --> 00:20:39,448
+invisíveis.
+
+305
+00:20:40,449 --> 00:20:42,201
+Vamos acabar com isso, para...
+
+306
+00:20:46,205 --> 00:20:47,206
+O que foi isso?
+
+307
+00:20:50,792 --> 00:20:53,128
+-A <i>Europa</i> perdeu contato.
+-O que está acontecendo?
+
+308
+00:20:53,212 --> 00:20:55,589
+Não posso explicar isso.
+Há uma fonte de energia desconhecida
+
+309
+00:20:55,672 --> 00:20:57,841
+-interferindo em nosso scanner.
+-Gere imagens.
+
+310
+00:21:43,637 --> 00:21:44,513
+Capitão.
+
+311
+00:21:44,596 --> 00:21:47,975
+Há uma fissura voluntária
+de contenção antimatéria na <i>Europa</i>.
+
+312
+00:21:48,058 --> 00:21:51,228
+-Eles vão se autodestruir.
+-Escudos a 47 por cento.
+
+313
+00:22:26,972 --> 00:22:30,017
+Nós sofremos perdas,
+
+314
+00:22:32,019 --> 00:22:37,232
+mas a Federação sofreu muito mais.
+
+315
+00:22:37,316 --> 00:22:38,150
+Líderes,
+
+316
+00:22:38,859 --> 00:22:40,277
+voltem para Qo'noS.
+
+317
+00:22:40,360 --> 00:22:43,822
+Declarem em toda parte
+
+318
+00:22:43,906 --> 00:22:46,116
+que a raça Klingon
+
+319
+00:22:46,200 --> 00:22:48,118
+luta como um império unido
+
+320
+00:22:48,202 --> 00:22:50,037
+novamente.
+
+321
+00:22:50,662 --> 00:22:52,372
+Abram seus corações para aquele
+
+322
+00:22:52,456 --> 00:22:54,208
+que nos trouxe este grande dia.
+
+323
+00:22:55,083 --> 00:22:57,002
+Sigam a luz.
+
+324
+00:22:58,003 --> 00:22:59,880
+Sigam T'Kuvma.
+
+325
+00:23:01,965 --> 00:23:05,761
+T'Kuvma o Inesquecível!
+
+326
+00:23:06,428 --> 00:23:10,390
+T'Kuvma o Inesquecível!
+
+327
+00:23:11,058 --> 00:23:14,603
+T'Kuvma o Inesquecível!
+
+328
+00:23:22,194 --> 00:23:25,405
+Capitão, as naves Klingon estão dobrando
+para fora do sistema.
+
+329
+00:23:28,534 --> 00:23:29,368
+Todas menos uma.
+
+330
+00:23:29,993 --> 00:23:31,620
+A capitânia Klingon está sinalizando.
+
+331
+00:23:31,703 --> 00:23:34,623
+Estão transmitindo em todos
+os espectros subespaciais.
+
+332
+00:23:36,500 --> 00:23:39,044
+<i>Membros da Federação,</i>
+
+333
+00:23:39,628 --> 00:23:43,090
+<i>o que você chamam</i>
+<i>de suas fronteiras mais remotas</i>
+
+334
+00:23:43,674 --> 00:23:47,970
+<i>eu chamo de próximo demais</i>
+<i>do território Klingon.</i>
+
+335
+00:23:48,595 --> 00:23:53,642
+<i>Vocês só vivem agora para servir como</i>
+<i>testemunhas da supremacia Klingon,</i>
+
+336
+00:23:54,726 --> 00:23:56,812
+<i>para serem meus arautos.</i>
+
+337
+00:23:57,604 --> 00:24:00,148
+<i>Nós não desejamos conhecer vocês,</i>
+
+338
+00:24:00,230 --> 00:24:02,983
+<i>mas vocês conhecerão</i>
+<i>nossas grandes casas</i>
+
+339
+00:24:03,068 --> 00:24:05,487
+<i>unificadas sob Kahless</i>
+
+340
+00:24:05,571 --> 00:24:07,197
+<i>renascido em mim,</i>
+
+341
+00:24:07,990 --> 00:24:08,991
+<i>T'Kuvma.</i>
+
+342
+00:24:11,869 --> 00:24:15,914
+Computador, implementar protocolo
+de evacuação de emergência de celas.
+
+343
+00:24:15,998 --> 00:24:18,792
+<i>Negado. Protocolos éticos</i>
+<i>de evacuação de prisioneiros</i>
+
+344
+00:24:18,876 --> 00:24:21,003
+<i>ocorrem apenas</i>
+<i>em circunstâncias vitais.</i>
+
+345
+00:24:21,086 --> 00:24:24,423
+Esta é uma circunstância vital.
+Eu vou morrer aqui se não puder sair.
+
+346
+00:24:24,506 --> 00:24:25,757
+<i>Especulação.</i>
+
+347
+00:24:25,841 --> 00:24:28,677
+<i>Pedido para iniciar</i>
+<i>protocolos éticos negado.</i>
+
+348
+00:24:29,635 --> 00:24:32,012
+Quanto tempo até 
+o campo de contenção falhar?
+
+349
+00:24:32,097 --> 00:24:34,391
+<i>Aproximadamente oito minutos.</i>
+
+350
+00:24:34,474 --> 00:24:36,852
+Após os quais eu irei morrer.
+Confirmado?
+
+351
+00:24:37,436 --> 00:24:38,353
+<i>Confirmado.</i>
+
+352
+00:24:39,396 --> 00:24:41,315
+O corredor fora da cela está intacto
+
+353
+00:24:41,398 --> 00:24:43,734
+-e ainda pressurizado?
+-<i>Afirmativo.</i>
+
+354
+00:24:44,193 --> 00:24:46,486
+Então, sair da minha cela
+pela porta blindada
+
+355
+00:24:46,570 --> 00:24:48,530
+até o corredor garante
+minha sobrevivência.
+
+356
+00:24:48,947 --> 00:24:53,118
+<i>Negativo. Exposição ao vácuo</i>
+<i>do espaço por mais de 15 segundos</i>
+
+357
+00:24:53,202 --> 00:24:56,830
+<i>resultaria em dificuldade respiratória,</i>
+<i>choque, e asfixia,</i>
+
+358
+00:24:56,914 --> 00:24:59,124
+<i>antes que você pudesse</i>
+<i>alcançar a porta blindada.</i>
+
+359
+00:24:59,665 --> 00:25:02,835
+Mas se abrir um orifício de um metro
+no campo de contenção
+
+360
+00:25:02,918 --> 00:25:05,421
+a despressurização rápida
+me jogará até porta blindada
+
+361
+00:25:05,504 --> 00:25:06,839
+em menos de seis segundos.
+
+362
+00:25:06,924 --> 00:25:09,635
+<i>Afirmativo,</i>
+<i>mas você será incapaz de abrir a porta</i>
+
+363
+00:25:09,718 --> 00:25:11,428
+<i>em seu estado físico debilitado.</i>
+
+364
+00:25:11,678 --> 00:25:14,389
+Então eticamente,
+você deveria abrir a porta para mim.
+
+365
+00:25:14,640 --> 00:25:15,641
+<i>Deliberando.</i>
+
+366
+00:25:16,808 --> 00:25:18,018
+<i>Pedido confirmado.</i>
+
+367
+00:25:18,685 --> 00:25:20,312
+<i>Protocolos éticos ativados.</i>
+
+368
+00:25:20,646 --> 00:25:23,398
+<i>Chance de sobrevivência</i>
+<i>estimada em 43 por cento.</i>
+
+369
+00:25:23,982 --> 00:25:26,610
+-Eu aceito.
+-<i>Despressurização começando agora.</i>
+
+370
+00:25:34,952 --> 00:25:36,828
+"Toda guerra é baseada
+em dissimulação.
+
+371
+00:25:36,912 --> 00:25:40,040
+Quando você for capaz de atacar,
+você deve parecer incapaz."
+
+372
+00:25:40,123 --> 00:25:42,584
+Sun Tzu. Eu reconheço a citação.
+
+373
+00:25:42,960 --> 00:25:45,671
+Mas temo não estarmos
+enganando ninguém.
+
+374
+00:25:45,754 --> 00:25:47,673
+Nós não somos capazes de atacar.
+
+375
+00:25:47,756 --> 00:25:49,466
+Não temos armas, nem motor de dobra.
+
+376
+00:25:49,550 --> 00:25:51,301
+Nenhuma chance de reagir.
+
+377
+00:25:51,385 --> 00:25:52,928
+Os Klingons nos pegaram.
+
+378
+00:25:54,346 --> 00:25:56,765
+As naves da Federação
+estão escondidas...
+
+379
+00:25:57,222 --> 00:25:59,975
+ou feitas em pedaços.
+
+380
+00:26:00,059 --> 00:26:02,269
+Eles não representam nenhuma ameaça.
+
+381
+00:26:02,354 --> 00:26:04,857
+Então a batalha está ganha.
+
+382
+00:26:05,148 --> 00:26:05,983
+Sim.
+
+383
+00:26:07,109 --> 00:26:09,319
+Temos torpedos de fótons.
+
+384
+00:26:09,403 --> 00:26:10,529
+Não podemos dispará-los,
+
+385
+00:26:10,612 --> 00:26:13,323
+mas podemos carregar as ogivas
+em um transporte.
+
+386
+00:26:13,448 --> 00:26:15,617
+Um que seja pequeno o bastante
+para evitar os sensores.
+
+387
+00:26:15,701 --> 00:26:19,580
+Após o impacto, podemos fazer
+um disparo letal diretamente no casco.
+
+388
+00:26:19,663 --> 00:26:20,747
+Ardiloso, Saru.
+
+389
+00:26:21,957 --> 00:26:22,958
+Eu aprovo.
+
+390
+00:26:24,500 --> 00:26:27,711
+E nossos mortos?
+
+391
+00:26:28,172 --> 00:26:29,715
+Eles flutuam
+
+392
+00:26:30,799 --> 00:26:32,676
+soltos no campo de batalha,
+
+393
+00:26:33,260 --> 00:26:35,554
+para em breve se perderem.
+
+394
+00:26:35,929 --> 00:26:38,348
+Ocupe todos de recuperá-los.
+
+395
+00:26:38,432 --> 00:26:41,643
+Prepararei cada um dos mortos
+para sepultamento
+
+396
+00:26:42,436 --> 00:26:44,855
+com as minhas próprias mãos.
+
+397
+00:26:44,938 --> 00:26:47,191
+Usaremos uma cápsula operária
+para carregar o torpedo.
+
+398
+00:26:47,274 --> 00:26:49,651
+É pequena o bastante
+para ser confundida com detrito.
+
+399
+00:26:49,735 --> 00:26:51,236
+Esteja pronto em dez minutos.
+
+400
+00:26:51,320 --> 00:26:52,571
+Eu também farei uma análise
+
+401
+00:26:52,654 --> 00:26:55,032
+determinando locais de impacto
+para otimizar danos.
+
+402
+00:26:55,115 --> 00:26:56,283
+Faça doer, Saru.
+
+403
+00:26:56,366 --> 00:26:58,285
+Ah, há um problema, capitão.
+
+404
+00:26:58,368 --> 00:27:00,204
+As cápsulas
+não possuem piloto automático.
+
+405
+00:27:00,287 --> 00:27:02,581
+E o transportador
+não pode penetrar os escudos.
+
+406
+00:27:02,956 --> 00:27:03,874
+Não precisaremos.
+
+407
+00:27:05,000 --> 00:27:06,043
+Eu vou pilotar.
+
+408
+00:27:07,419 --> 00:27:09,546
+Capitão, isto é uma missão suicida.
+
+409
+00:27:09,630 --> 00:27:12,049
+Sua prioridade é reativar
+os motores de impulso,
+
+410
+00:27:12,132 --> 00:27:15,886
+para poder tirar a <i>Shenzhou</i> daqui
+antes que eu detone as ogivas.
+
+411
+00:27:15,969 --> 00:27:18,263
+T'Kuvma atraiu a Frota Estelar
+para um massacre.
+
+412
+00:27:19,932 --> 00:27:21,099
+É hora de eu dar o troco.
+
+413
+00:27:23,310 --> 00:27:25,604
+Capitão, você não pode fazer isso.
+
+414
+00:27:31,527 --> 00:27:34,238
+T'Kuvma se ungiu
+como o próximo messias Klingon.
+
+415
+00:27:35,072 --> 00:27:37,032
+Se você o matar,
+você o tornará um mártir.
+
+416
+00:27:37,906 --> 00:27:40,242
+Alguém por quem eles poderão lutar
+incessantemente.
+
+417
+00:27:40,827 --> 00:27:42,371
+Isso pode até ser o que ele quer.
+
+418
+00:27:43,455 --> 00:27:44,665
+Mas se você o capturar,
+
+419
+00:27:45,666 --> 00:27:47,543
+você faz dele um símbolo de derrota.
+
+420
+00:27:48,710 --> 00:27:49,545
+De vergonha.
+
+421
+00:27:50,629 --> 00:27:52,631
+E se o levar
+como prisioneiro de guerra,
+
+422
+00:27:53,131 --> 00:27:56,802
+você dá recursos para a Federação
+estabelecer a paz.
+
+423
+00:27:58,345 --> 00:27:59,680
+Como pode ter feito isso?
+
+424
+00:28:02,015 --> 00:28:04,726
+Achei que era a única forma
+de evitar uma grande guerra.
+
+425
+00:28:06,436 --> 00:28:08,772
+Quando você chegou a bordo
+há sete anos,
+
+426
+00:28:08,856 --> 00:28:12,442
+me preocupei que sua educação vulcana
+um dia interferiria em sua humanidade.
+
+427
+00:28:13,777 --> 00:28:16,780
+Você sabe por que Sarek pediu a mim
+para aceitá-la?
+
+428
+00:28:18,323 --> 00:28:20,784
+Eu era uma humana
+que tinha visto uma vida de perdas,
+
+429
+00:28:20,868 --> 00:28:22,619
+mas ainda assim escolheu a esperança.
+
+430
+00:28:26,373 --> 00:28:28,542
+Que ego eu tive.
+
+431
+00:28:30,752 --> 00:28:34,965
+Achando que eu poderia retirar a concha
+que os Vulcanos colocaram ao seu redor.
+
+432
+00:28:36,133 --> 00:28:38,051
+Eu estava tão segura de minhas ações.
+
+433
+00:28:38,552 --> 00:28:39,636
+Até convencida
+
+434
+00:28:40,387 --> 00:28:43,515
+de que você estava pronta
+para a cadeira de capitão.
+
+435
+00:28:47,978 --> 00:28:49,980
+Em pensar que eu a conhecia tão pouco.
+
+436
+00:28:51,063 --> 00:28:53,065
+Quer saber como
+eu me voltei contra você?
+
+437
+00:28:54,902 --> 00:28:57,487
+Eu acreditei que salvar você
+
+438
+00:28:58,322 --> 00:28:59,156
+e a tripulação
+
+439
+00:29:00,155 --> 00:29:02,699
+era mais importante
+que os princípios da Frota Estelar.
+
+440
+00:29:03,869 --> 00:29:04,828
+Isso foi lógico?
+
+441
+00:29:05,829 --> 00:29:06,830
+Emocional?
+
+442
+00:29:09,875 --> 00:29:11,001
+Eu não sei.
+
+443
+00:29:15,964 --> 00:29:18,383
+Deixe-me levar as ogivas em seu lugar.
+
+444
+00:29:32,731 --> 00:29:34,066
+Estão recolhendo seus mortos.
+
+445
+00:29:49,498 --> 00:29:51,083
+-Saru, esqueça a cápsula.
+<i>-Capitão?</i>
+
+446
+00:29:51,164 --> 00:29:54,209
+Prepare os transportadores
+e mande a Engenharia nos encontrar lá
+
+447
+00:29:54,293 --> 00:29:55,669
+com uma ogiva de torpedo.
+
+448
+00:29:56,713 --> 00:29:57,840
+Eu sei como o pegaremos.
+
+449
+00:30:11,061 --> 00:30:14,690
+Um guerreiro que morre dormindo...
+
+450
+00:30:15,107 --> 00:30:16,817
+OGIVA DE FÓTON
+
+451
+00:30:17,526 --> 00:30:18,861
+<i>...não é nada mais</i>
+
+452
+00:30:20,235 --> 00:30:24,072
+<i>do que carne e osso.</i>
+
+453
+00:30:25,158 --> 00:30:27,411
+Tática aconselha
+que elas tenham as coordenadas
+
+454
+00:30:27,492 --> 00:30:29,161
+de um oficial Klingon abatido.
+
+455
+00:30:30,163 --> 00:30:32,291
+<i>Um guerreiro que perece</i>
+
+456
+00:30:33,584 --> 00:30:35,460
+<i>honorável em batalha</i>
+
+457
+00:30:35,544 --> 00:30:36,795
+<i>é abençoado.</i>
+
+458
+00:30:39,047 --> 00:30:41,925
+<i>A morte de um herói</i>
+<i>traz orgulho para uma vida</i>
+
+459
+00:30:43,635 --> 00:30:47,639
+dada em defesa de nossa raça.
+
+460
+00:30:48,599 --> 00:30:50,601
+<i>E conforto em saber</i>
+
+461
+00:30:50,682 --> 00:30:52,309
+<i>que uma nova vida o espera</i>
+
+462
+00:30:52,394 --> 00:30:54,146
+<i>em Sto-Vo-Kor.</i>
+
+463
+00:31:06,617 --> 00:31:11,330
+<i>Junte-se a seus louvados camaradas,</i>
+
+464
+00:31:11,872 --> 00:31:14,708
+<i>irmãos e irmãs,</i>
+
+465
+00:31:15,709 --> 00:31:17,711
+<i>pois vocês não estão sozinhos,</i>
+
+466
+00:31:18,253 --> 00:31:24,051
+<i>e montem guarda em meio</i>
+<i>à Frota Sombria para sempre.</i>
+
+467
+00:31:31,850 --> 00:31:34,937
+Os sensores confirmar perda
+de estabilidade e atitude do ambiente.
+
+468
+00:31:36,855 --> 00:31:38,982
+Nenhuma atividade de armas
+na nave Klingon.
+
+469
+00:31:39,483 --> 00:31:41,401
+Estão à deriva.
+Seus escudos, desativados.
+
+470
+00:31:41,483 --> 00:31:44,319
+Vou transportá-la para uma área
+com o menor sinal de vida.
+
+471
+00:31:44,863 --> 00:31:46,448
+Vamos capturar nosso prisioneiro.
+
+472
+00:31:50,953 --> 00:31:51,828
+Ativar.
+
+473
+00:32:15,602 --> 00:32:18,522
+Esta é a seção traseira da Ponte.
+T'Kuvma deve estar próximo.
+
+474
+00:33:43,607 --> 00:33:45,526
+Burnham,
+perdi os sinais vitais da capitão.
+
+475
+00:33:46,109 --> 00:33:47,903
+<i>Burnham?</i>
+
+476
+00:33:48,278 --> 00:33:50,447
+-Tire-nos daqui agora.
+-N<i>ão posso transportá-la</i>
+
+477
+00:33:50,531 --> 00:33:51,740
+<i>sem um sinal vital.</i>
+
+478
+00:33:51,823 --> 00:33:53,492
+<i>Não vou embora sem o corpo dela.</i>
+
+479
+00:33:53,575 --> 00:33:55,160
+Mais Klingons estão chegando.
+
+480
+00:33:55,244 --> 00:33:56,787
+<i>Se ela está morta e você está em perigo,</i>
+
+481
+00:33:56,870 --> 00:33:59,498
+-<i>eu não tenho escolha.</i>
+-Não!
+
+482
+00:34:22,855 --> 00:34:25,399
+Sua vida será lembrada para sempre.
+
+483
+00:34:25,482 --> 00:34:27,150
+Por todos os Klingons.
+
+484
+00:34:28,277 --> 00:34:29,319
+Sua morte
+
+485
+00:34:29,403 --> 00:34:31,780
+será uma causa
+
+486
+00:34:31,864 --> 00:34:33,156
+que unirá a todos nós.
+
+487
+00:34:37,286 --> 00:34:40,330
+Você está ouvindo isso?
+
+488
+00:34:41,748 --> 00:34:43,542
+Não, meu senhor.
+
+489
+00:34:43,873 --> 00:34:45,375
+As palavras
+
+490
+00:34:45,460 --> 00:34:48,255
+que dissemos quando crianças
+
+491
+00:34:49,047 --> 00:34:51,550
+<i>em honra a Kahless.</i>
+
+492
+00:34:54,469 --> 00:34:56,680
+A quem procuramos?
+
+493
+00:34:58,015 --> 00:34:58,849
+Kahless.
+
+494
+00:34:58,932 --> 00:35:01,310
+Como o encontramos?
+
+495
+00:35:01,935 --> 00:35:03,604
+Juntos.
+
+496
+00:35:03,979 --> 00:35:06,773
+Dê-nos luz para ver.
+
+497
+00:35:07,774 --> 00:35:08,650
+Para sempre.
+
+498
+00:35:09,026 --> 00:35:14,948
+Ele sempre se esconderá de nós?
+
+499
+00:35:18,410 --> 00:35:19,286
+Nunca.
+
+500
+00:35:33,759 --> 00:35:36,053
+<i>Pela acusação de abandono de função,</i>
+
+501
+00:35:36,929 --> 00:35:39,348
+<i>pela acusação de agredir</i>
+<i>um colega oficial</i>
+
+502
+00:35:40,682 --> 00:35:42,184
+<i>e pela acusação de motim,</i>
+
+503
+00:35:44,311 --> 00:35:45,604
+<i>por todas essas acusações,</i>
+
+504
+00:35:46,188 --> 00:35:47,231
+<i>como se declara?</i>
+
+505
+00:35:49,691 --> 00:35:50,526
+Culpada.
+
+506
+00:35:52,611 --> 00:35:54,321
+A acusada não pode ser ouvida.
+
+507
+00:36:00,035 --> 00:36:01,411
+Culpada em todas as acusações.
+
+508
+00:36:01,493 --> 00:36:03,662
+Há algo que gostaria
+de dizer em sua defesa
+
+509
+00:36:03,745 --> 00:36:05,580
+antes que uma sentença
+seja determinada?
+
+510
+00:36:10,462 --> 00:36:12,422
+Desde minha infância em Vulcano,
+
+511
+00:36:13,423 --> 00:36:16,510
+eu fui criada para acreditar
+que servir era meu propósito.
+
+512
+00:36:17,970 --> 00:36:20,305
+E eu trouxe essa convicção
+para a Frota Estelar.
+
+513
+00:36:21,139 --> 00:36:24,059
+Eu sonhei com o dia em que
+eu comandaria minha própria nave,
+
+514
+00:36:24,768 --> 00:36:28,772
+e promoveria os nobres objetivos
+desta grande instituição.
+
+515
+00:36:32,359 --> 00:36:33,443
+Esse sonho acabou.
+
+516
+00:36:35,612 --> 00:36:37,364
+A única nave que conheço em ruínas.
+
+517
+00:36:40,242 --> 00:36:41,118
+Minha tripulação...
+
+518
+00:36:44,371 --> 00:36:45,205
+se foi.
+
+519
+00:36:48,458 --> 00:36:49,293
+Minha capitão.
+
+520
+00:36:55,382 --> 00:36:56,341
+Minha amiga.
+
+521
+00:36:58,093 --> 00:36:59,803
+Eu queria protegê-los da guerra.
+
+522
+00:37:00,971 --> 00:37:01,930
+Do inimigo.
+
+523
+00:37:03,265 --> 00:37:04,766
+E agora estamos em guerra...
+
+524
+00:37:07,519 --> 00:37:08,604
+e eu sou o inimigo.
+
+525
+00:37:12,149 --> 00:37:15,652
+É nossa decisão que a ré,
+Comandante Michael Burnham,
+
+526
+00:37:15,736 --> 00:37:17,154
+perca sua patente
+
+527
+00:37:17,237 --> 00:37:20,741
+e seja condenada à prisão perpétua.
+
+528
+00:38:30,394 --> 00:38:32,396
+Legendas: Caio Xavier
+
