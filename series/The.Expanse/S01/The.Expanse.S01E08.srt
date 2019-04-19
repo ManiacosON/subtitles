@@ -1,0 +1,2411 @@
+1
+00:00:05,992 --> 00:00:07,882
+<i>Anteriormente...</i>
+
+2
+00:00:07,883 --> 00:00:11,635
+<i>Forneci uma nave para a APE
+para uma missão em Ceres.</i>
+
+3
+00:00:11,636 --> 00:00:13,760
+<i>O nome daquela nave era Scopuli.</i>
+
+4
+00:00:13,761 --> 00:00:17,453
+<i>Preciso dessa nave para salvar
+um sobrevivente Lionel Polanski.</i>
+
+5
+00:00:17,454 --> 00:00:20,260
+<i>Nossa rotina de vigilância do
+núcleo diplomático logou um</i>
+
+6
+00:00:20,261 --> 00:00:23,880
+aviso urgente com o Embaixador
+DeGraaf e seu colega em Marte.
+
+7
+00:00:23,881 --> 00:00:27,725
+Disse a DeGraaf que Marte estava
+dando tecnologia secreta à APE.
+
+8
+00:00:27,726 --> 00:00:30,656
+Minhas credenciais diplomáticas
+foram revogadas.
+
+9
+00:00:30,657 --> 00:00:32,809
+Fui banido de Marte para sempre.
+
+10
+00:00:32,810 --> 00:00:35,899
+Muitos Marcianos deram suas
+vidas para estarmos nesta nave.
+
+11
+00:00:35,900 --> 00:00:38,113
+Tem algum corpo que
+precisamos dar um jeito?
+
+12
+00:00:38,114 --> 00:00:39,709
+<i>Tenente Lopez.</i>
+
+13
+00:00:42,411 --> 00:00:44,874
+<i>Sou consultor da
+Davila Aerospatiale.</i>
+
+14
+00:00:44,875 --> 00:00:46,183
+Espionagem?
+
+15
+00:00:46,184 --> 00:00:48,683
+Roubo códigos e tecnologia
+da Tycho há dois anos.
+
+16
+00:00:48,684 --> 00:00:51,559
+- Por que está na nossa nave?
+- Miller, está demitido.
+
+17
+00:00:52,226 --> 00:00:55,520
+Sou como um vírus ruim
+que não pode deter.
+
+18
+00:00:57,548 --> 00:00:59,213
+<i>Aquela nave que
+estava procurando,</i>
+
+19
+00:00:59,214 --> 00:01:01,304
+<i>Anubis, ela nunca
+apareceu por aqui.</i>
+
+20
+00:01:01,305 --> 00:01:04,954
+<i>A Anubis 1-A ainda está aqui em
+Eros recolhendo as taxas.</i>
+
+21
+00:01:04,955 --> 00:01:08,282
+<i>Um cara com grandes ideias,
+quer enfrentar os bandidos,</i>
+
+22
+00:01:08,283 --> 00:01:09,979
+até que isso não
+custe nada a ele.
+
+23
+00:01:09,980 --> 00:01:13,183
+- Que merda está falando?
+- Do palhaço lá em cima,
+
+24
+00:01:13,184 --> 00:01:15,925
+que assim que o soltar,
+vai nos entregar aos grandões.
+
+25
+00:01:15,926 --> 00:01:19,040
+Estou falando de Mickies
+virem nos derrubar.
+
+26
+00:01:19,041 --> 00:01:21,291
+Naomi estava certa
+em ter medo de você.
+
+27
+00:01:21,292 --> 00:01:23,206
+<i>Precisa de alguém
+para te proteger.</i>
+
+28
+00:01:23,207 --> 00:01:25,620
+- Um parceiro.
+- Não pode vir comigo.
+
+29
+00:01:25,621 --> 00:01:29,495
+<i>James Holden pode ter
+problemas com autoridade,</i>
+
+30
+00:01:29,496 --> 00:01:32,333
+mas eu não vejo
+um mentor terrorista.
+
+31
+00:01:32,334 --> 00:01:35,663
+Vamos mandar trazê-lo
+para uma longa conversa.
+
+32
+00:01:35,664 --> 00:01:38,038
+<i>Seu espião
+foi comprometido.</i>
+
+33
+00:01:38,039 --> 00:01:41,427
+O relatório final dele disse
+que Holden estava indo para Eros
+
+34
+00:01:41,828 --> 00:01:44,362
+em uma nave da MRPM,
+
+35
+00:01:44,363 --> 00:01:47,032
+com transponder falsos
+dado por Fred Johnson.
+
+36
+00:01:47,033 --> 00:01:49,105
+<i>Então eu ordenei
+uma operação secreta.</i>
+
+37
+00:01:49,106 --> 00:01:50,920
+Vamos tirar Holden do jogo.
+
+38
+00:01:50,921 --> 00:01:52,537
+Merda.
+
+39
+00:01:53,740 --> 00:01:57,474
+BALSA DE TRÂNSITO DO CINTURÃO
+A CAMINHO DA ESTAÇÃO EROS
+
+40
+00:02:23,107 --> 00:02:24,475
+Primeira vez?
+
+41
+00:02:24,476 --> 00:02:27,078
+- Primeira vez do quê?
+- Primeira vez no espaço?
+
+42
+00:02:27,079 --> 00:02:29,771
+Sim.
+
+43
+00:02:30,093 --> 00:02:31,964
+Nascido e criado em Ceres então?
+
+44
+00:02:31,965 --> 00:02:33,618
+Sim.
+
+45
+00:02:33,769 --> 00:02:35,419
+Dizem que
+se cresceu numa estação,
+
+46
+00:02:35,420 --> 00:02:37,859
+você desenvolve
+uma agorafobia natural.
+
+47
+00:02:37,860 --> 00:02:39,555
+De viver no subsolo.
+Nos túneis.
+
+48
+00:02:39,556 --> 00:02:42,528
+Não está acostumado
+aos grandes espaços abertos.
+
+49
+00:02:43,528 --> 00:02:45,247
+Costumava ser esse cara.
+
+50
+00:02:45,248 --> 00:02:49,334
+Passa mais tempo falando dos
+outros que fazendo o que deve.
+
+51
+00:02:50,122 --> 00:02:53,323
+Ele poderia se preocupar um
+pouco com a higiene do ouvido.
+
+52
+00:02:54,723 --> 00:02:58,107
+Você parece um pouco nervoso,
+só isso.
+
+53
+00:02:58,108 --> 00:03:02,723
+Sabe, se identificar o medo,
+pode superá-lo.
+
+54
+00:03:03,133 --> 00:03:04,877
+E depois se acostumar com isso.
+
+55
+00:03:04,878 --> 00:03:08,199
+Venho voando todo mês
+há um ano e meio.
+
+56
+00:03:08,200 --> 00:03:10,466
+- Vendedor?
+- Não, eu estou...
+
+57
+00:03:10,467 --> 00:03:12,772
+Estou me preparando
+para a Nauvoo.
+
+58
+00:03:12,773 --> 00:03:14,297
+A Nauvoo.
+
+59
+00:03:16,602 --> 00:03:17,938
+Mórmon?
+
+60
+00:03:17,939 --> 00:03:19,291
+Sim.
+
+61
+00:03:20,011 --> 00:03:22,400
+Um tipo diferente de vendedor.
+
+62
+00:03:22,401 --> 00:03:24,281
+Mas não use isso contra mim.
+
+63
+00:03:24,282 --> 00:03:27,782
+Bom, havia uma época
+que eu usaria.
+
+64
+00:03:28,893 --> 00:03:31,312
+Mas não mais?
+
+65
+00:03:35,055 --> 00:03:38,905
+Me perdoe por dizer,
+mas não tenho a impressão
+
+66
+00:03:38,906 --> 00:03:41,471
+que você aceitou Jesus Cristo
+no seu coração.
+
+67
+00:03:41,472 --> 00:03:43,297
+Acho que não estou
+tão desesperado.
+
+68
+00:03:43,298 --> 00:03:44,837
+Todos nós estamos.
+
+69
+00:03:44,838 --> 00:03:46,647
+Se formos honestos
+com nós mesmos.
+
+70
+00:03:48,282 --> 00:03:50,236
+Deixa eu perguntar uma coisa.
+
+71
+00:03:52,042 --> 00:03:54,800
+Vocês vão ficar
+nessa nave enorme,
+
+72
+00:03:54,801 --> 00:03:57,781
+vão sair por aí,
+pelo além,
+
+73
+00:03:58,677 --> 00:04:00,570
+por 100 anos.
+
+74
+00:04:01,320 --> 00:04:04,204
+O que vai acontecer
+se chegarem lá,
+
+75
+00:04:05,806 --> 00:04:07,523
+e não tiver nada.
+
+76
+00:04:07,524 --> 00:04:11,242
+O planeta enorme que escolheram
+não valeu de nada.
+
+77
+00:04:11,243 --> 00:04:14,562
+Digo, ninguém sabe
+realmente o que tem lá.
+
+78
+00:04:15,871 --> 00:04:18,238
+Não pode voltar.
+
+79
+00:04:18,239 --> 00:04:21,262
+Bem, você está certo
+sobre não poder voltar.
+
+80
+00:04:22,407 --> 00:04:24,206
+Mas se esse for o caso,
+
+81
+00:04:25,344 --> 00:04:26,744
+Deus só estará nos revelando
+
+82
+00:04:26,745 --> 00:04:29,464
+que ainda não acabamos
+nossa busca.
+
+83
+00:04:30,769 --> 00:04:33,528
+E isso não te assusta?
+
+84
+00:04:33,529 --> 00:04:35,609
+Sim, claro que sim.
+
+85
+00:04:36,400 --> 00:04:38,746
+Mas me coloco
+nas mãos de Deus.
+
+86
+00:04:39,890 --> 00:04:41,991
+A verdadeira fé é um risco.
+
+87
+00:04:41,992 --> 00:04:43,632
+Sabe, e com grandes risco vem...
+
+88
+00:04:43,633 --> 00:04:46,286
+Sim, eu sei o resto.
+
+89
+00:04:46,892 --> 00:04:48,399
+É.
+
+90
+00:04:50,366 --> 00:04:53,653
+A TENSÃO AUMENTA ENTRE MARTE,
+A TERRA E O CINTURÃO
+
+91
+00:04:53,654 --> 00:04:55,584
+É, quem sabe.
+
+92
+00:04:55,585 --> 00:04:59,055
+Vocês podem estar saindo
+na hora certa.
+
+93
+00:05:00,586 --> 00:05:04,416
+ASTEROIDE BA-834024112
+NO CINTURÃO
+
+94
+00:05:18,042 --> 00:05:21,543
+A única coisa que temos aqui
+é este adorável asteroide
+
+95
+00:05:21,544 --> 00:05:25,029
+Bravo-Alpha 834024112.
+
+96
+00:05:25,030 --> 00:05:28,415
+Sem vida,
+sem habitat de emergência, nada.
+
+97
+00:05:29,014 --> 00:05:31,262
+Essas foram as coordenadas
+que nos deram.
+
+98
+00:05:32,255 --> 00:05:34,135
+<i>É só uma rocha.</i>
+
+99
+00:05:34,794 --> 00:05:37,963
+Alex, dê uma volta,
+vamos dar uma olhada.
+
+100
+00:05:37,964 --> 00:05:39,802
+Entendido, Chefe.
+
+101
+00:05:56,592 --> 00:05:58,123
+Alex, segure aí.
+
+102
+00:05:58,124 --> 00:05:59,922
+Volte um pouco.
+
+103
+00:06:12,934 --> 00:06:14,317
+Bem ali.
+
+104
+00:06:14,318 --> 00:06:16,389
+Dentro daquela fenda.
+
+105
+00:06:28,583 --> 00:06:30,936
+Essa foi bem estacionada.
+
+106
+00:06:30,937 --> 00:06:33,002
+Mal é vista no radar.
+
+107
+00:06:33,003 --> 00:06:35,162
+É uma nave secreta.
+
+108
+00:06:36,203 --> 00:06:39,038
+Iguais as que acabaram com
+a Donnager.
+
+109
+00:06:39,585 --> 00:06:41,562
+E a Cant.
+
+110
+00:06:41,879 --> 00:06:43,514
+Eu meio que quero explodi-la.
+
+111
+00:06:43,515 --> 00:06:45,567
+Calma aí, parceiro.
+
+112
+00:06:45,568 --> 00:06:48,198
+Essas coisas tendem
+a atirar de volta.
+
+113
+00:06:50,936 --> 00:06:53,936
+CabronesTeam
+Apresenta
+
+114
+00:06:57,164 --> 00:07:00,064
+[S01E08] - Salvage
+
+115
+00:07:01,617 --> 00:07:03,617
+Legenda:
+MatMaggi | MateusMM | Absynth
+
+116
+00:07:03,618 --> 00:07:05,618
+Legenda:
+Arr0w | jaiwsoon | DeVil
+
+117
+00:07:05,619 --> 00:07:07,619
+Revisão:
+MatMaggi | JotaKretli
+
+118
+00:07:14,672 --> 00:07:19,672
+NAUVOO DA N.S.U.D.
+(EM CONSTRUÇÃO)
+
+119
+00:07:27,895 --> 00:07:31,673
+ESTAÇÃO TYCHO
+NO CINTURÃO
+
+120
+00:07:34,176 --> 00:07:35,994
+É o máximo que conseguiu?
+
+121
+00:07:35,995 --> 00:07:38,144
+É o nível quatro
+de criptografia da MRPM.
+
+122
+00:07:38,145 --> 00:07:40,786
+Se eu fizer algo errado, posso
+apagar todos os dados.
+
+123
+00:07:40,787 --> 00:07:44,641
+Muitos soldados Marcianos deram
+a vida por essa informação.
+
+124
+00:07:44,642 --> 00:07:46,688
+Preciso saber o por quê.
+
+125
+00:07:55,494 --> 00:07:56,912
+PROCURANDO
+TRANSMISSÃO FALHOU
+
+126
+00:07:56,913 --> 00:07:58,274
+SEM REDE
+TRANSMISSÃO FALHOU
+
+127
+00:08:01,250 --> 00:08:04,108
+SEM REDE
+TRANSMISSÃO FALHOU
+
+128
+00:08:06,186 --> 00:08:08,310
+Preciso que veja uma coisa.
+
+129
+00:08:08,311 --> 00:08:09,878
+Estou meio ocupado.
+
+130
+00:08:22,433 --> 00:08:23,780
+O que é isso?
+
+131
+00:08:23,781 --> 00:08:26,124
+Esperava que pudesse
+nos dizer.
+
+132
+00:08:26,713 --> 00:08:28,194
+Parece morto.
+
+133
+00:08:28,787 --> 00:08:30,965
+Certo, ajudou muito.
+
+134
+00:08:32,357 --> 00:08:36,473
+Reflexo de FEM praticamente zero
+em todas bandas.
+
+135
+00:08:36,474 --> 00:08:38,742
+Boa tecnologia secreta.
+
+136
+00:08:38,743 --> 00:08:40,297
+Já sabemos disso.
+
+137
+00:08:40,298 --> 00:08:42,396
+Quem tem naves como essa?
+
+138
+00:08:42,397 --> 00:08:44,662
+Marte, é claro.
+
+139
+00:08:44,663 --> 00:08:46,667
+Mas esse é um modelo
+que nunca vi antes.
+
+140
+00:08:46,668 --> 00:08:48,688
+- Deve ser novo.
+- Não é marciano.
+
+141
+00:08:48,689 --> 00:08:50,292
+Ninguém constrói
+uma nave assim.
+
+142
+00:08:50,293 --> 00:08:51,636
+Ninguém tem condições.
+
+143
+00:08:58,143 --> 00:09:00,546
+É isso que o Fred Johnson
+disse que ia encontrar.
+
+144
+00:09:00,547 --> 00:09:02,547
+Não acho que ele sabia
+o que estava aqui.
+
+145
+00:09:02,548 --> 00:09:03,875
+Mentira.
+
+146
+00:09:05,245 --> 00:09:08,658
+Um nave secreta perto de
+uma pedra parece só uma pedra,
+
+147
+00:09:08,659 --> 00:09:12,154
+a não ser que saiba exatamente
+onde procurar.
+
+148
+00:09:12,155 --> 00:09:14,375
+Vocês estão aqui
+para salvá-la.
+
+149
+00:09:14,376 --> 00:09:16,344
+Não estamos
+em uma missão de salvamento.
+
+150
+00:09:16,345 --> 00:09:19,175
+Fred Johnson é um terrorista,
+não pode...
+
+151
+00:09:19,176 --> 00:09:21,327
+Não estamos
+em missão de salvamento!
+
+152
+00:09:24,277 --> 00:09:26,759
+Estamos procurando
+por sobreviventes.
+
+153
+00:09:26,760 --> 00:09:28,844
+E algumas respostas,
+se tivermos sorte.
+
+154
+00:09:28,845 --> 00:09:30,538
+A câmara principal
+está aberta.
+
+155
+00:09:30,539 --> 00:09:32,765
+Mas o casco parece
+estar intacto.
+
+156
+00:09:32,766 --> 00:09:35,136
+Pode ter ar lá dentro.
+
+157
+00:09:37,544 --> 00:09:39,104
+Tudo bem, então.
+
+158
+00:09:39,695 --> 00:09:41,009
+Vamos entrar.
+
+159
+00:09:41,010 --> 00:09:43,810
+Lembra da última vez
+que entramos em uma dessas?
+
+160
+00:09:43,811 --> 00:09:47,271
+Bem, dessa vez
+temos as nossas armas.
+
+161
+00:09:49,711 --> 00:09:52,213
+Coloque o traje,
+vai vir conosco.
+
+162
+00:09:52,214 --> 00:09:56,969
+- Eu? Por quê?
+- E conheça seu segurança.
+
+163
+00:10:02,230 --> 00:10:04,571
+Ele vale tanto
+quanto quebrar uma unha,
+
+164
+00:10:04,572 --> 00:10:07,107
+se acontecer algo,
+perde a carona.
+
+165
+00:10:09,009 --> 00:10:10,748
+Entendido, Capitão.
+
+166
+00:10:12,673 --> 00:10:14,418
+Vá.
+
+167
+00:10:40,724 --> 00:10:42,730
+<i>Está vendo nossos trajes?</i>
+
+168
+00:10:46,058 --> 00:10:49,207
+<i>Sim, tudo parece ótimo.</i>
+
+169
+00:10:49,941 --> 00:10:51,824
+<i>Isso é uma besteira.</i>
+
+170
+00:10:51,825 --> 00:10:55,377
+<i>- Não podem me tratar como...
+- "Canário em uma mina?''</i>
+
+171
+00:10:55,755 --> 00:10:58,539
+<i>Certo, pessoal.
+Segurem-se.</i>
+
+172
+00:10:58,540 --> 00:11:00,734
+<i>Túnel de encaixe engatado.</i>
+
+173
+00:11:00,735 --> 00:11:03,575
+A conexão está boa.
+
+174
+00:11:07,995 --> 00:11:09,757
+<i>Depois de você.</i>
+
+175
+00:11:44,314 --> 00:11:46,788
+<i>Parece que alguém foi pra fora.</i>
+
+176
+00:11:47,091 --> 00:11:49,131
+<i>Seu tipo de nave.</i>
+
+177
+00:12:29,959 --> 00:12:32,389
+<i>A lataria está quebrada
+por dentro.</i>
+
+178
+00:12:33,052 --> 00:12:35,566
+<i>Alguém forçou pra sair daqui.</i>
+
+179
+00:13:02,386 --> 00:13:04,814
+<i>Esse é um traje Belter.</i>
+
+180
+00:13:04,815 --> 00:13:08,094
+<i>Esta com certeza
+não é uma nave Belter.</i>
+
+181
+00:13:20,469 --> 00:13:24,038
+<i>Isso explica o que houve
+com a tripulação da Scopuli.</i>
+
+182
+00:13:28,347 --> 00:13:30,289
+<i>Esta é a nave.</i>
+
+183
+00:13:31,316 --> 00:13:33,364
+<i>A que acabou com a Cant.</i>
+
+184
+00:13:36,443 --> 00:13:38,132
+<i>Tem que ser.</i>
+
+185
+00:13:46,341 --> 00:13:48,159
+<i>Vou checar a engenharia.</i>
+
+186
+00:13:48,160 --> 00:13:50,480
+<i>Ver como está o reator.</i>
+
+187
+00:13:50,481 --> 00:13:53,441
+<i>Irei com você.
+Amos, vá a cabine de comando.</i>
+
+188
+00:13:53,442 --> 00:13:55,796
+<i>Precisamos ver o sistema
+e os logs da nave.</i>
+
+189
+00:13:55,797 --> 00:13:57,174
+<i>Leve-o com você.</i>
+
+190
+00:13:57,175 --> 00:13:58,868
+<i>Ele vai ser útil.</i>
+
+191
+00:14:04,427 --> 00:14:06,464
+<i>Venha, Piu-piu.</i>
+
+192
+00:14:08,337 --> 00:14:10,305
+<i>A cabine de comando
+deve ser lá em cima.</i>
+
+193
+00:14:10,406 --> 00:14:11,974
+<i>Depois de você.</i>
+
+194
+00:14:13,435 --> 00:14:15,348
+<i>Vocês precisam
+de mais gente lá.</i>
+
+195
+00:14:15,349 --> 00:14:17,241
+<i>Deixe-me ver o que
+posso fazer.</i>
+
+196
+00:14:19,218 --> 00:14:21,650
+Certo, querida,
+o que tem para mim?
+
+197
+00:14:26,307 --> 00:14:28,660
+Acho que dará tudo certo.
+
+198
+00:14:54,346 --> 00:14:56,749
+<i>- Já pensou sobre eles?
+- Quem?</i>
+
+199
+00:14:56,750 --> 00:14:58,084
+<i>McDowell.</i>
+
+200
+00:14:58,085 --> 00:15:01,450
+<i>Byers, Paj, Ade.</i>
+
+201
+00:15:02,327 --> 00:15:04,400
+<i>Acho que tentei não pensar.</i>
+
+202
+00:15:05,566 --> 00:15:07,861
+<i>Não conhecia bem nenhum deles.</i>
+
+203
+00:15:08,880 --> 00:15:11,800
+<i>Não fui para a Cant
+para fazer amigos.</i>
+
+204
+00:15:12,584 --> 00:15:14,800
+<i>E porque foi para a Cant?</i>
+
+205
+00:15:15,949 --> 00:15:18,600
+<i>Porque não teria que ter
+conversas como esta.</i>
+
+206
+00:15:20,827 --> 00:15:23,513
+<i>Escolheu uma hora estranha
+para virar tagarela.</i>
+
+207
+00:15:24,101 --> 00:15:26,050
+<i>Nós vivemos em
+tempos estranhos.</i>
+
+208
+00:15:29,672 --> 00:15:30,972
+<i>O quê?</i>
+
+209
+00:15:32,165 --> 00:15:35,164
+<i>Lembra dos gatos de vidro
+do McDowell?</i>
+
+210
+00:15:35,715 --> 00:15:37,589
+<i>Aquelas estatuetas
+no escritório dele.</i>
+
+211
+00:15:37,590 --> 00:15:38,890
+<i>Sim.</i>
+
+212
+00:15:39,290 --> 00:15:41,000
+<i>Uma vez, no turno da noite,</i>
+
+213
+00:15:41,350 --> 00:15:43,184
+<i>eu peguei ele
+acariciando-as.</i>
+
+214
+00:15:44,784 --> 00:15:46,884
+<i>Ele disse estar limpando-as
+e que eram</i>
+
+215
+00:15:46,885 --> 00:15:48,985
+<i>eram antiguidades
+com grau de investimento.</i>
+
+216
+00:15:48,986 --> 00:15:51,700
+<i>Realmente gostaria de
+ter começado essa história.</i>
+
+217
+00:16:05,979 --> 00:16:08,700
+Todas as câmaras de vácuo
+estão abertas.
+
+218
+00:16:09,633 --> 00:16:14,189
+Sem dúvidas de que esta nave
+foi abandonada de propósito.
+
+219
+00:16:15,678 --> 00:16:17,228
+<i>Os hangares
+também estão vazios.</i>
+
+220
+00:16:17,766 --> 00:16:21,700
+<i>Devia ser uma nave auxiliar
+estacionada lá. Mas não tem.</i>
+
+221
+00:16:23,994 --> 00:16:27,000
+Pessoal,
+acredito que alguém fugiu.
+
+222
+00:16:37,198 --> 00:16:38,850
+<i>A cabine de comando está livre.</i>
+
+223
+00:16:57,993 --> 00:16:59,600
+<i>Parece que achamos um cofre.</i>
+
+224
+00:17:05,742 --> 00:17:07,150
+<i>Com algo dentro nele.</i>
+
+225
+00:17:07,151 --> 00:17:09,300
+<i>Maravilha,
+outro maldito cofre.</i>
+
+226
+00:17:11,807 --> 00:17:15,750
+<i>Naomi, há energia reserva
+no painel de controle.</i>
+
+227
+00:17:16,533 --> 00:17:19,137
+<i>Todos os sistemas verdes.
+Quer que eu ligue o reator?</i>
+
+228
+00:17:19,138 --> 00:17:21,550
+<i>Será mais rápido se
+tivermos iluminação.</i>
+
+229
+00:17:22,359 --> 00:17:24,500
+<i>Sim, só deixe pronto.</i>
+
+230
+00:17:43,843 --> 00:17:45,643
+<i>Alguém desligou
+por fora da comporta.</i>
+
+231
+00:18:04,187 --> 00:18:06,100
+<i>O reator foi
+desligado corretamente.</i>
+
+232
+00:18:07,545 --> 00:18:10,145
+<i>Então por que alguém
+teria que forçá-lo a fazer isso?</i>
+
+233
+00:18:14,452 --> 00:18:15,752
+<i>Naomi.</i>
+
+234
+00:18:28,628 --> 00:18:30,200
+<i>O que diabos é isso?</i>
+
+235
+00:18:37,614 --> 00:18:41,617
+PRÉDIO DA ONU
+NOVA YORK
+
+236
+00:18:43,657 --> 00:18:45,457
+A Estação Tycho pingou
+a Nathan Hale
+
+237
+00:18:45,458 --> 00:18:47,030
+por volta de 4 horas atrás.
+
+238
+00:18:47,771 --> 00:18:50,021
+Queriam saber por que
+a nave de batalha da MNU
+
+239
+00:18:50,022 --> 00:18:52,122
+- foi na direção deles.
+- E o que disseram?
+
+240
+00:18:52,317 --> 00:18:55,167
+Uma história plausível sobre
+mau funcionamento de reatores
+
+241
+00:18:55,168 --> 00:18:57,168
+e urgencia em aportar-se
+temporáriamente.
+
+242
+00:18:58,024 --> 00:18:59,624
+Não achamos que eles
+acreditaram.
+
+243
+00:18:59,775 --> 00:19:01,075
+Não importa.
+
+244
+00:19:01,076 --> 00:19:02,740
+Estaremos na porta
+deles em 3 dias
+
+245
+00:19:02,771 --> 00:19:04,571
+e não é tempo hábil
+para Fred Johnson
+
+246
+00:19:04,598 --> 00:19:06,448
+desmontar e esconder
+toda a tecnologia
+
+247
+00:19:06,449 --> 00:19:07,921
+do programa secreto, não é?
+
+248
+00:19:07,922 --> 00:19:10,902
+Sim, assumindo que eles tenham,
+em primeiro lugar.
+
+249
+00:19:10,903 --> 00:19:13,000
+- Acharemos algo.
+- Senhor, se embarcamos
+
+250
+00:19:13,001 --> 00:19:14,501
+e procurarmos
+nessa estação...
+
+251
+00:19:14,502 --> 00:19:16,102
+Tycho é uma
+Corporação Terrestre,
+
+252
+00:19:16,103 --> 00:19:17,403
+temos jurisdição.
+
+253
+00:19:17,404 --> 00:19:18,804
+Os Belters não concordam.
+
+254
+00:19:18,805 --> 00:19:21,226
+Acharão que mentimos
+e a APE irá checar isso.
+
+255
+00:19:21,227 --> 00:19:23,413
+Está feito.
+Mexam-se.
+
+256
+00:19:25,163 --> 00:19:26,763
+James Holden.
+Não aprendemos nada
+
+257
+00:19:26,764 --> 00:19:28,064
+sobre um homem morto.
+
+258
+00:19:28,065 --> 00:19:29,415
+Ordens do Secretário-Geral.
+
+259
+00:19:29,416 --> 00:19:30,816
+Fará dele um mártir.
+
+260
+00:19:30,817 --> 00:19:33,949
+James Holden será morto ao acaso
+na violência das ruas de Eros.
+
+261
+00:19:33,950 --> 00:19:35,750
+A capital do assassinato
+do Cinturão.
+
+262
+00:19:35,751 --> 00:19:37,371
+Lugar errado,
+na hora errada.
+
+263
+00:19:43,450 --> 00:19:44,850
+O que foi agora?
+
+264
+00:19:46,343 --> 00:19:49,374
+Frank DeGraaf foi encontrado
+morto em sua casa esta manhã.
+
+265
+00:19:52,029 --> 00:19:53,630
+Ele tirou sua própria vida.
+
+266
+00:19:55,118 --> 00:19:56,418
+Jesus.
+
+267
+00:19:59,230 --> 00:20:00,530
+Sinto muito.
+
+268
+00:20:02,257 --> 00:20:03,923
+Podemos terminar depois.
+
+269
+00:20:04,100 --> 00:20:05,530
+Podemos terminar agora.
+
+270
+00:20:19,442 --> 00:20:21,642
+<i>Estamos indo lá para
+olhar de perto.</i>
+
+271
+00:20:21,643 --> 00:20:25,357
+<i>- Alex, seu drone avistou algo?</i>
+<i>- Negativo.</i>
+
+272
+00:20:25,358 --> 00:20:27,130
+Não há nenhuma outra
+alma a bordo.
+
+273
+00:20:27,618 --> 00:20:30,480
+Sem corpos, sem pessoas.
+Nada...
+
+274
+00:21:01,384 --> 00:21:03,130
+<i>Posso checar os logs para você.</i>
+
+275
+00:21:04,086 --> 00:21:05,780
+<i>Eu vou checar os logs.</i>
+
+276
+00:21:07,369 --> 00:21:10,230
+<i>Não vou deixá-lo fuçar
+e chamar alguém que não devia.</i>
+
+277
+00:21:11,737 --> 00:21:13,637
+<i>No entanto,
+sinta-se livre para tentar.</i>
+
+278
+00:21:49,284 --> 00:21:51,530
+<i>Já viu algo parecido antes?</i>
+
+279
+00:21:53,208 --> 00:21:54,930
+<i>Nada, nem de perto.</i>
+
+280
+00:21:56,866 --> 00:21:58,716
+<i>Talvez seja
+alguma tecnologia secreta.</i>
+
+281
+00:21:59,309 --> 00:22:00,732
+<i>Um nanofluido derramado</i>
+
+282
+00:22:00,733 --> 00:22:03,230
+<i>que congelou quando
+entrou ar na nave.</i>
+
+283
+00:22:18,529 --> 00:22:20,380
+<i>O nome da nave é
+"Ann-u-bis."</i>
+
+284
+00:22:22,430 --> 00:22:23,730
+<i>"Ann-u-bis"?</i>
+
+285
+00:22:24,126 --> 00:22:26,130
+<i>Soletrado
+A-N-U-B-I-S?</i>
+
+286
+00:22:30,382 --> 00:22:31,930
+<i>A pronúncia é "Anubis".</i>
+
+287
+00:22:32,416 --> 00:22:33,980
+<i>É o deus egípcio dos mortos.</i>
+
+288
+00:22:39,276 --> 00:22:40,880
+<i>"Ann-u-bis"
+também serve.</i>
+
+289
+00:22:45,377 --> 00:22:47,031
+<i>Tudo bem pessoal,
+vamos revisar.</i>
+
+290
+00:22:47,032 --> 00:22:50,680
+Então a tripulação dessa nave
+fodona abordou a Scopuli,
+
+291
+00:22:50,681 --> 00:22:53,549
+usou ela como isca
+para atacar a Cant,
+
+292
+00:22:53,550 --> 00:22:57,080
+<i>ejeta a tripulação,
+menos Lionel Polanski,</i>
+
+293
+00:22:57,081 --> 00:22:59,027
+<i>que de alguma forma
+sobreviveu,</i>
+
+294
+00:22:59,028 --> 00:23:01,192
+<i>Toma o controle, e então</i>
+
+295
+00:23:01,193 --> 00:23:04,165
+desliga tudo,
+deixa o ar entrar na nave
+
+296
+00:23:04,166 --> 00:23:06,712
+e então deixa um míssil nuclear,
+uma obra de arte,
+
+297
+00:23:06,713 --> 00:23:08,180
+toda secreta
+
+298
+00:23:08,680 --> 00:23:10,130
+presa numa rocha.
+
+299
+00:23:10,685 --> 00:23:12,310
+<i>Isso faz sentido para alguém?</i>
+
+300
+00:23:12,311 --> 00:23:15,418
+<i>A nave está em boas condições,
+por que foram embora?</i>
+
+301
+00:23:15,419 --> 00:23:17,161
+<i>Estamos deixando
+passar algo aqui.</i>
+
+302
+00:23:17,162 --> 00:23:18,562
+<i>Pessoal.</i>
+
+303
+00:23:18,832 --> 00:23:20,957
+<i>Consegui acessar o navegador.</i>
+
+304
+00:23:20,958 --> 00:23:24,194
+<i>Quem estava nesta nave
+partiu de Eros para...</i>
+
+305
+00:23:24,195 --> 00:23:25,884
+<i>A Estação Febe.</i>
+
+306
+00:23:25,885 --> 00:23:27,671
+<i>Febe?</i>
+
+307
+00:23:28,425 --> 00:23:30,825
+<i>Lopez disse que encontraram
+todos mortos em Febe</i>
+
+308
+00:23:30,826 --> 00:23:32,831
+<i>por algum tóxico derramado
+ou algo assim.</i>
+
+309
+00:23:32,832 --> 00:23:34,932
+<i>Talvez seja disso o que
+ele estava falando.</i>
+
+310
+00:23:36,932 --> 00:23:39,280
+<i>Estou tendo um mal
+pressentimento sobre isso.</i>
+
+311
+00:23:42,572 --> 00:23:44,354
+<i>Holden, atrás de você!</i>
+
+312
+00:23:45,992 --> 00:23:47,780
+- <i>Jesus!</i>
+- <i>Recuar!</i>
+
+313
+00:23:49,761 --> 00:23:51,130
+<i>Estamos voltando.</i>
+
+314
+00:23:56,837 --> 00:23:58,780
+<i>Naomi, o que está acontecendo?</i>
+
+315
+00:24:01,922 --> 00:24:04,488
+<i>Acho que aquilo está
+absorvendo a energia do reator.</i>
+
+316
+00:24:04,489 --> 00:24:05,880
+<i>Vou desligar tudo.</i>
+
+317
+00:24:11,030 --> 00:24:12,330
+<i>O que aconteceu?</i>
+
+318
+00:24:12,515 --> 00:24:14,628
+<i>Tivemos que cortar a energia.
+Aguarde.</i>
+
+319
+00:24:20,977 --> 00:24:24,481
+<i>Por um segundo, pareceu
+que aquilo estava...</i>
+
+320
+00:24:24,482 --> 00:24:27,350
+- <i>Estava vivo.</i>
+- <i>Sim.</i>
+
+321
+00:24:27,785 --> 00:24:29,085
+<i>Amos,</i>
+
+322
+00:24:29,299 --> 00:24:32,067
+<i>corte os núcleos de computador.
+Está na hora de partir.</i>
+
+323
+00:24:36,060 --> 00:24:38,611
+<i>Alex. Encontramos um possível
+risco biológico,</i>
+
+324
+00:24:38,612 --> 00:24:40,712
+<i>precisamos de uma
+descontaminação completa.</i>
+
+325
+00:24:40,713 --> 00:24:43,155
+Não iria deixá-los
+voltar sem fazer isso.
+
+326
+00:24:43,156 --> 00:24:45,568
+<i>Devemos guardar estes
+no compartimento de carga,</i>
+
+327
+00:24:45,569 --> 00:24:47,973
+<i>em caso de precisarmos
+abandoná-los rápido.</i>
+
+328
+00:24:51,468 --> 00:24:53,199
+<i>Tire a gente daqui.</i>
+
+329
+00:25:10,944 --> 00:25:12,786
+Estão indo para Eros, não é?
+
+330
+00:25:12,880 --> 00:25:14,180
+Não estão?
+
+331
+00:25:15,001 --> 00:25:18,280
+Se esse Lionel Polanski estiver
+em algum lugar, só pode ser lá.
+
+332
+00:25:18,538 --> 00:25:20,230
+Conheço aquele lugar.
+
+333
+00:25:21,195 --> 00:25:24,230
+Eu tenho controle dos sistemas
+em toda Eros.
+
+334
+00:25:24,564 --> 00:25:26,630
+Deixe-me ajudá-los
+a encontrá-lo.
+
+335
+00:25:27,555 --> 00:25:29,455
+E se eu fizer isso,
+vocês me deixam ir.
+
+336
+00:25:29,456 --> 00:25:30,756
+Tudo bem.
+
+337
+00:25:30,873 --> 00:25:32,930
+Quando encontrarmos Polanski.
+
+338
+00:25:33,230 --> 00:25:34,630
+Não antes.
+
+339
+00:25:40,055 --> 00:25:42,624
+Alguma objeção em tornar
+aquela nave numa sucata?
+
+340
+00:25:42,625 --> 00:25:44,168
+- De jeito nenhum.
+- Bem, eu...
+
+341
+00:25:44,169 --> 00:25:45,727
+Qualquer um menos você.
+
+342
+00:25:45,728 --> 00:25:47,128
+Destrua-a.
+
+343
+00:25:48,296 --> 00:25:50,391
+Olha, vocês tem o controle
+daquela nave.
+
+344
+00:25:50,392 --> 00:25:53,839
+É uma moeda de troca. Por que
+destruir algo que controlam?
+
+345
+00:25:53,840 --> 00:25:55,539
+Porque aquela nave é uma arma,
+
+346
+00:25:55,540 --> 00:25:57,611
+e aquela coisa parece
+ser uma arma também.
+
+347
+00:25:57,612 --> 00:26:01,889
+E nem Fred Johnson, a Terra,
+Marte ou qualquer um deve tê-la.
+
+348
+00:26:01,890 --> 00:26:04,672
+Torpedos armados e prontos.
+
+349
+00:26:07,912 --> 00:26:09,212
+Atire.
+
+350
+00:26:40,734 --> 00:26:42,330
+Lembrem-se da Cant.
+
+351
+00:26:47,871 --> 00:26:50,286
+ESTAÇÃO EROS
+PROTETORADO DA ONU + RPM
+
+352
+00:26:50,287 --> 00:26:52,086
+NO CINTURÃO
+
+353
+00:27:11,774 --> 00:27:13,681
+<i>Os serviços de polícia
+da Estação Eros</i>
+
+354
+00:27:13,682 --> 00:27:16,635
+<i>são providos pela
+Corporação de Segurança CPM.</i>
+
+355
+00:27:16,636 --> 00:27:20,555
+<i>Confie na CPM para todas as suas
+necessidades de segurança.</i>
+
+356
+00:27:56,376 --> 00:27:57,726
+Droga!
+
+357
+00:28:00,726 --> 00:28:02,876
+Estava pensando se
+você poderia me ajudar.
+
+358
+00:28:02,877 --> 00:28:06,228
+- Filho da...
+- Estou procurando a minha nave.
+
+359
+00:28:06,599 --> 00:28:07,927
+É, a Anubis.
+
+360
+00:28:07,928 --> 00:28:11,193
+- Veja na tabela.
+- Eu já vi. Está aqui.
+
+361
+00:28:11,194 --> 00:28:13,601
+Olha, é a nave
+da minha filha...
+
+362
+00:28:13,602 --> 00:28:15,803
+E só estou tentando
+ter certeza
+
+363
+00:28:15,804 --> 00:28:19,187
+que ela voou até aqui,
+ou se talvez ela trocou
+
+364
+00:28:19,188 --> 00:28:21,108
+a passagem
+por outras coisas,
+
+365
+00:28:21,109 --> 00:28:24,464
+talvez por um pouco
+de vida mais barata.
+
+366
+00:28:25,096 --> 00:28:27,260
+Nós não damos
+essa informação.
+
+367
+00:28:27,261 --> 00:28:30,610
+Só estou tentando
+encontrá-la.
+
+368
+00:28:30,611 --> 00:28:33,289
+Quer dizer,
+se ela estiver aqui.
+
+369
+00:28:35,639 --> 00:28:37,216
+Ela vai ficar em apuros.
+
+370
+00:28:37,217 --> 00:28:39,061
+Filho da...
+
+371
+00:28:42,227 --> 00:28:43,733
+Que tal...
+
+372
+00:28:45,096 --> 00:28:47,030
+Eu te patrocinar uma rodada.
+
+373
+00:28:51,924 --> 00:28:54,030
+Dá mais sorte
+quando não é o seu dinheiro.
+
+374
+00:29:02,961 --> 00:29:04,311
+Socorro.
+
+375
+00:29:06,009 --> 00:29:07,480
+Me solte!
+
+376
+00:29:09,565 --> 00:29:10,915
+Anubis.
+
+377
+00:29:14,079 --> 00:29:16,130
+Lionel Polanski?
+
+378
+00:29:17,895 --> 00:29:20,485
+Parado aí!
+Não se mova.
+
+379
+00:29:23,550 --> 00:29:26,134
+Está falando
+porque está farto.
+
+380
+00:29:26,135 --> 00:29:30,024
+Está falando como
+uma pessoa farta falaria.
+
+381
+00:29:30,025 --> 00:29:33,128
+Você precisa falar assim.
+
+382
+00:29:34,927 --> 00:29:36,277
+Semi.
+
+383
+00:29:36,427 --> 00:29:38,038
+Você parece sóbrio.
+
+384
+00:29:38,039 --> 00:29:40,297
+É a maior surpresa da noite.
+
+385
+00:29:40,298 --> 00:29:42,195
+Eu estava
+seguindo um exemplo.
+
+386
+00:29:42,196 --> 00:29:44,564
+Julgando pela marca no peito
+do mestre da doca,
+
+387
+00:29:44,565 --> 00:29:46,819
+eu diria que estava pisando
+em um exemplo.
+
+388
+00:29:47,369 --> 00:29:48,968
+Por que está em Eros?
+
+389
+00:29:50,127 --> 00:29:53,663
+Não é algo oficial,
+nem nada algo do tipo.
+
+390
+00:29:54,180 --> 00:29:56,134
+Na verdade, eu não estou...
+
+391
+00:29:56,135 --> 00:29:58,433
+Empregado oficialmente.
+
+392
+00:29:59,475 --> 00:30:01,763
+Isso está ficando
+cada vez melhor.
+
+393
+00:30:04,612 --> 00:30:06,308
+Abram a porta.
+
+394
+00:30:07,801 --> 00:30:09,936
+Vou levar este daqui
+para uma caminhada.
+
+395
+00:30:18,162 --> 00:30:20,133
+E onde está
+meu maldito chapéu?
+
+396
+00:30:34,769 --> 00:30:38,708
+Me faz um número quatro,
+cru na tigela.
+
+397
+00:30:41,836 --> 00:30:43,585
+Só quero um café.
+
+398
+00:30:44,812 --> 00:30:46,477
+Dois números quatro.
+
+399
+00:30:46,478 --> 00:30:48,031
+É por minha conta.
+
+400
+00:30:48,621 --> 00:30:52,478
+Faça o meu estilo burrito,
+comum.
+
+401
+00:30:52,479 --> 00:30:54,591
+E mais o café.
+
+402
+00:30:58,810 --> 00:31:00,299
+Tudo bem, Semi.
+
+403
+00:31:01,438 --> 00:31:03,136
+Você pode rastrear a menina.
+
+404
+00:31:03,748 --> 00:31:05,132
+Para mim.
+
+405
+00:31:05,133 --> 00:31:07,315
+Com as câmeras de segurança.
+
+406
+00:31:07,316 --> 00:31:09,742
+Cara, geralmente
+prendemos gente por causa disso.
+
+407
+00:31:09,743 --> 00:31:12,496
+E eu te disse, não é mais
+como nos velhos tempos.
+
+408
+00:31:12,497 --> 00:31:14,593
+O novo contrato de segurança.
+
+409
+00:31:14,594 --> 00:31:18,126
+Esses caras da CPM são um bando
+de criminosos com distintivos.
+
+410
+00:31:18,127 --> 00:31:20,333
+Fecharam o acesso
+às câmeras públicas
+
+411
+00:31:20,334 --> 00:31:22,362
+enquanto renovam o sistema.
+
+412
+00:31:22,363 --> 00:31:26,114
+Estão só configurando nossa rede
+enquanto ninguém está atento.
+
+413
+00:31:26,845 --> 00:31:28,912
+De qualquer modo,
+o que sabe dessa garota?
+
+414
+00:31:28,913 --> 00:31:30,816
+Por que ela está em Eros?
+
+415
+00:31:30,817 --> 00:31:33,866
+Confie em seu intestino antes
+da sua cabeça ficar no caminho.
+
+416
+00:31:33,867 --> 00:31:38,223
+É, eu costumava falar
+só besteiras naquele tempo.
+
+417
+00:31:38,224 --> 00:31:42,052
+Igual o caminho para o inferno
+está cheio de boas intenções.
+
+418
+00:31:43,262 --> 00:31:45,662
+Quando fui expulso da força,
+te dei aquele chapéu
+
+419
+00:31:45,663 --> 00:31:47,835
+então você usaria ele,
+
+420
+00:31:47,836 --> 00:31:50,189
+para não cometer
+os mesmos erros que eu.
+
+421
+00:31:50,190 --> 00:31:53,346
+Acho que esqueci
+em Ceres.
+
+422
+00:31:53,347 --> 00:31:54,775
+Sim, esqueceu em Ceres.
+
+423
+00:31:54,776 --> 00:31:58,079
+E agora procura esta menina
+por todo o Sistema Solar?
+
+424
+00:31:58,080 --> 00:31:59,930
+É demitido.
+
+425
+00:32:00,056 --> 00:32:01,726
+O que ainda diz
+em sua cabeça
+
+426
+00:32:01,727 --> 00:32:03,464
+que esta menina
+quer ser resgatada?
+
+427
+00:32:03,465 --> 00:32:05,528
+Ela pode ser uma chefona
+da APE,
+
+428
+00:32:05,529 --> 00:32:08,636
+que ajudou a bombardear as naves
+para iniciar a maldita guerra.
+
+429
+00:32:08,637 --> 00:32:11,444
+Que atirará na sua cabeça
+assim que se aproximar.
+
+430
+00:32:11,445 --> 00:32:14,030
+Sim, talvez.
+
+431
+00:32:15,694 --> 00:32:18,502
+Mas ainda vai arriscar,
+não é?
+
+432
+00:32:19,200 --> 00:32:20,874
+Não importa o que eu diga.
+
+433
+00:32:22,008 --> 00:32:24,234
+Não importa
+o que você descubra.
+
+434
+00:32:31,384 --> 00:32:33,317
+Eu acredito nela.
+
+435
+00:32:37,421 --> 00:32:38,884
+Isso é tudo que eu preciso.
+
+436
+00:32:43,120 --> 00:32:44,680
+É tudo que eu preciso.
+
+437
+00:32:49,697 --> 00:32:51,347
+Acha que estou louco?
+
+438
+00:32:58,295 --> 00:33:00,983
+Certamente vão procurar
+esses registros em todo lugar.
+
+439
+00:33:00,984 --> 00:33:03,364
+Sabia que não aceitaria
+um não como resposta.
+
+440
+00:33:06,863 --> 00:33:10,355
+Lionel Polanski.
+Foi o nome que usou no registro.
+
+441
+00:33:10,356 --> 00:33:12,773
+Alguém com esse nome
+está no Falcão Azul.
+
+442
+00:33:12,774 --> 00:33:15,074
+- O que é? Onde?
+- É um hotel para viciados.
+
+443
+00:33:15,075 --> 00:33:16,391
+Mas não é um bom lugar.
+
+444
+00:33:16,392 --> 00:33:17,981
+Falo com você mais tarde,
+amigo.
+
+445
+00:33:26,497 --> 00:33:28,602
+<i>Senhor, a Nathan Hale
+acabou de virar</i>
+
+446
+00:33:28,603 --> 00:33:31,345
+<i>e está desacelerando
+em velocidade total.</i>
+
+447
+00:33:32,203 --> 00:33:34,419
+<i>Repetiram o pedido
+para atracar para reparos,</i>
+
+448
+00:33:34,420 --> 00:33:36,069
+<i>alegam avaria do reator.</i>
+
+449
+00:33:36,070 --> 00:33:39,404
+<i>Mas acreditamos que alteram
+deliberadamente a assinatura.</i>
+
+450
+00:33:39,405 --> 00:33:41,050
+Qual é o tempo de chegada?
+
+451
+00:33:41,051 --> 00:33:42,945
+<i>Cerca de dois dias, senhor.</i>
+
+452
+00:33:43,648 --> 00:33:45,230
+Mantenha-me informado.
+
+453
+00:33:47,224 --> 00:33:48,551
+<i>Você disse que conseguiu.</i>
+
+454
+00:33:48,552 --> 00:33:50,754
+- Espero que não seja uma carta.
+- Não é.
+
+455
+00:33:50,755 --> 00:33:53,347
+É um registro em tempo real
+da batalha da Donnager,
+
+456
+00:33:53,348 --> 00:33:54,723
+até ao milésimo de segundo,
+
+457
+00:33:54,724 --> 00:33:57,047
+com registros completos
+de sensores e análises.
+
+458
+00:33:57,048 --> 00:33:59,460
+Deve ter vindo
+diretamente do CCI.
+
+459
+00:33:59,461 --> 00:34:02,520
+Também podem receber imagens
+de alta resolução das naves.
+
+460
+00:34:02,521 --> 00:34:04,380
+Foram capazes
+de identificá-las?
+
+461
+00:34:04,381 --> 00:34:06,082
+Não pelo que vejo aqui.
+
+462
+00:34:06,083 --> 00:34:09,563
+Mas foram possíveis recolher
+assinaturas de acionamento.
+
+463
+00:34:10,288 --> 00:34:13,351
+Voaram mais perto
+dessas naves
+
+464
+00:34:13,352 --> 00:34:15,313
+que qualquer outra pessoa
+no sistema.
+
+465
+00:34:15,618 --> 00:34:17,419
+Infelizmente, para eles.
+
+466
+00:34:18,577 --> 00:34:20,812
+Vai querer ver isso
+com seus olhos.
+
+467
+00:34:25,591 --> 00:34:27,411
+Então o que vai fazer agora?
+
+468
+00:34:30,639 --> 00:34:33,343
+Este lugar era
+a joia do Cinturão.
+
+469
+00:34:33,344 --> 00:34:35,512
+Queria poder ter visto
+no ápice dela.
+
+470
+00:34:35,513 --> 00:34:36,893
+Mas não é um lugar ruim.
+
+471
+00:34:36,894 --> 00:34:40,128
+Estou dizendo, se vocês gostam
+de costelas com quiabo,
+
+472
+00:34:40,129 --> 00:34:41,524
+este lugar no Nível Seis...
+
+473
+00:34:41,525 --> 00:34:43,962
+Por favor, cale a boca.
+
+474
+00:34:45,944 --> 00:34:47,399
+Aqui está.
+
+475
+00:34:48,877 --> 00:34:51,071
+Último lugar
+onde o nome Lionel Polanski
+
+476
+00:34:51,072 --> 00:34:53,136
+apareceu nas redes foi aqui.
+
+477
+00:34:55,808 --> 00:34:59,622
+TIME TAC PRONTO
+A POLÍCIA NÃO RESPONDERÁ
+
+478
+00:34:59,623 --> 00:35:01,301
+HOTEL FALCÃO AZUL
+
+479
+00:35:21,948 --> 00:35:24,074
+O sistema está bagunçado hoje.
+
+480
+00:35:26,118 --> 00:35:30,677
+<i>Da última vez que estive aqui
+essa maquina não funcionava.</i>
+
+481
+00:35:55,728 --> 00:35:57,563
+<i>Agora sim.</i>
+
+482
+00:36:04,970 --> 00:36:06,318
+Pronto.
+
+483
+00:36:12,223 --> 00:36:14,125
+- Posso ajudar?
+- Procuro um amigo
+
+484
+00:36:14,126 --> 00:36:15,777
+que reservou um quarto aqui.
+
+485
+00:36:15,778 --> 00:36:17,431
+Lionel Polanski.
+
+486
+00:36:22,096 --> 00:36:23,893
+É um amigo especial.
+
+487
+00:36:25,745 --> 00:36:27,405
+É aniversário dele.
+
+488
+00:36:52,536 --> 00:36:55,457
+Tem um "L. Polanski,"
+no quarto 22.
+
+489
+00:36:55,458 --> 00:36:59,410
+- Chamo ele?
+- Não, é uma surpresa. Obrigado.
+
+490
+00:37:17,730 --> 00:37:20,481
+Talvez eu deva subir sozinho.
+Para não assustá-lo.
+
+491
+00:37:20,782 --> 00:37:22,516
+Leve o Amos.
+
+492
+00:37:22,817 --> 00:37:24,368
+Sozinho é melhor.
+
+493
+00:38:05,778 --> 00:38:07,444
+Estamos ficando sem munição.
+
+494
+00:38:53,776 --> 00:38:55,764
+James Holden.
+
+495
+00:38:57,502 --> 00:39:00,325
+É uma merda ser seguido,
+não é?
+
+496
+00:39:02,990 --> 00:39:04,640
+Você é um policial?
+
+497
+00:39:06,759 --> 00:39:08,168
+Não sou mais.
+
+498
+00:39:12,836 --> 00:39:14,574
+Obrigado pela ajuda.
+
+499
+00:39:14,575 --> 00:39:16,486
+Quem é você?
+
+500
+00:39:17,525 --> 00:39:19,644
+Mais alguém sabia
+que você vinha aqui?
+
+501
+00:39:19,645 --> 00:39:22,367
+Não.
+Acho que não.
+
+502
+00:39:24,609 --> 00:39:26,198
+Agora eles sabem.
+
+503
+00:39:32,269 --> 00:39:35,461
+Kenzo.
+Aquele filho da puta.
+
+504
+00:39:35,462 --> 00:39:38,736
+Semi, vai ser alertado
+do Falcão Azul,
+
+505
+00:39:38,737 --> 00:39:40,509
+terá tiros,
+um monte de corpos.
+
+506
+00:39:40,510 --> 00:39:43,247
+Espero que você
+que responda o pedido.
+
+507
+00:39:44,272 --> 00:39:46,035
+Precisamos conversar.
+
+508
+00:39:48,354 --> 00:39:52,931
+- Quem é você? E o que faz aqui?
+- Estou indo ao quarto 22.
+
+509
+00:39:52,932 --> 00:39:57,839
+Logo, outros bandidos virão,
+dessa vez com distintivos.
+
+510
+00:39:57,840 --> 00:40:02,049
+Toque-me de novo,
+e terá outro corpo no chão.
+
+511
+00:40:25,562 --> 00:40:27,118
+Não faça isso!
+
+512
+00:40:55,952 --> 00:40:57,516
+Julie?
+
+513
+00:41:01,002 --> 00:41:02,843
+Quem é Julie?
+
+514
+00:41:03,522 --> 00:41:06,270
+Meu Deus.
+Que cheiro é esse?
+
+515
+00:41:06,271 --> 00:41:07,571
+Suor.
+
+516
+00:41:08,339 --> 00:41:09,639
+Doença.
+
+517
+00:41:11,059 --> 00:41:12,798
+Ozônio?
+
+518
+00:41:23,258 --> 00:41:25,225
+Scopuli.
+
+519
+00:41:44,973 --> 00:41:47,474
+Alguém
+teve uma briga feia aqui.
+
+520
+00:41:51,770 --> 00:41:53,831
+Não,
+eles estavam desligando tudo.
+
+521
+00:41:54,632 --> 00:41:56,433
+Igual ao reator.
+
+522
+00:41:59,774 --> 00:42:01,818
+Ninguém toque em nada.
+
+523
+00:42:04,279 --> 00:42:06,041
+Espere!
+
+524
+00:42:12,896 --> 00:42:14,730
+Meu Deus.
+
+525
+00:42:17,249 --> 00:42:19,023
+Jesus.
+
+526
+00:42:26,553 --> 00:42:28,002
+Julie.
+
+527
+00:42:31,053 --> 00:42:34,053
+Twitter:
+@CabronesTeam
+
+528
+00:42:34,054 --> 00:42:37,054
+Legende conosco:
+www.CabronesTeam.weebly.com
+
+529
+00:42:37,055 --> 00:42:40,055
+Curta The Expanse Brasil:
+www.fb.com/TheExpanseBrasil
+
