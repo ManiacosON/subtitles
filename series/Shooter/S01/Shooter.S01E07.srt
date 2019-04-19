@@ -1,0 +1,2296 @@
+﻿1
+00:00:01,133 --> 00:00:02,384
+<i>Anteriormente, em</i> Atirador...
+
+2
+00:00:02,467 --> 00:00:05,846
+Preciso falar com Kasper.
+Alexander Prosovich me deu o número.
+
+3
+00:00:05,930 --> 00:00:08,557
+Você está falando com ele, Sr. Swagger.
+
+4
+00:00:09,391 --> 00:00:11,393
+Voydian deixou informações para mim.
+
+5
+00:00:11,476 --> 00:00:14,104
+Foram todos escritos pela mesma
+jornalista, Karlyna Ordenko.
+
+6
+00:00:14,188 --> 00:00:16,356
+Algo sobre uma cidade chamada Graznyole.
+
+7
+00:00:16,440 --> 00:00:21,403
+Dimitri Voydian, um dia você o pega,
+no próximo, ele é encontrado em pedaços.
+
+8
+00:00:22,404 --> 00:00:23,405
+Anexo B.
+
+9
+00:00:23,530 --> 00:00:26,575
+Parece que estivemos contratando
+mercenários para operações clandestinas.
+
+10
+00:00:26,658 --> 00:00:27,993
+São vários
+crimes de guerra nisso.
+
+11
+00:00:28,743 --> 00:00:30,829
+Alguém nos viu olhando e nos bloqueou.
+
+12
+00:00:31,038 --> 00:00:32,206
+Ele está sob custódia.
+
+13
+00:00:32,289 --> 00:00:35,000
+Ele está violando inúmeros artigos
+do Código Militar.
+
+14
+00:00:35,084 --> 00:00:36,251
+Com quem preciso falar então?
+
+15
+00:00:36,335 --> 00:00:37,544
+O Secretário da Defesa.
+
+16
+00:00:37,627 --> 00:00:38,628
+<i>A conta não fecha.</i>
+
+17
+00:00:38,712 --> 00:00:41,256
+-Acredita em mim agora?
+-Acredito em você agora.
+
+18
+00:00:41,340 --> 00:00:42,716
+Precisamos falar sobre sua bala.
+
+19
+00:00:42,799 --> 00:00:44,218
+Há quatro rifles no mundo que
+
+20
+00:00:44,301 --> 00:00:46,345
+são fortes o bastante para
+atirar uma bala dessas.
+
+21
+00:00:46,428 --> 00:00:48,555
+{\an8}É um<i> Black King</i>, e esse é um deles.
+
+22
+00:00:48,638 --> 00:00:51,683
+Se encontrar os outros <i>Black Kings,</i>
+encontrará seu atirador.
+
+23
+00:01:45,112 --> 00:01:46,738
+<i>Até sabermos se há um informante aqui,</i>
+
+24
+00:01:46,821 --> 00:01:48,365
+<i>temos de manter as aparências.</i>
+
+25
+00:01:48,448 --> 00:01:50,993
+Significa que terei de brigar com você
+por tudo relacionado ao Swagger.
+
+26
+00:01:51,076 --> 00:01:53,328
+-Entendido, senhor.
+-Onde ele está?
+
+27
+00:01:54,246 --> 00:01:55,289
+<i>Não tenho ideia.</i>
+
+28
+00:01:55,372 --> 00:01:56,540
+<i>Ele tem um plano?</i>
+
+29
+00:01:57,082 --> 00:01:58,458
+<i>Sim, está procurando pelo atirador.</i>
+
+30
+00:01:59,543 --> 00:02:02,212
+<i>Sinceramente, não sei muito mais.</i>
+<i>Ele não fala muito.</i>
+
+31
+00:02:02,629 --> 00:02:04,756
+<i>Fique perto dele.</i>
+<i>Continue criando essa confiança.</i>
+
+32
+00:02:04,839 --> 00:02:05,840
+<i>Farei isso.</i>
+
+33
+00:02:06,341 --> 00:02:07,426
+<i>Infelizmente, sem o Payne,</i>
+
+34
+00:02:07,509 --> 00:02:10,554
+<i>minhas pistas às conexões do Voydian</i>
+<i>a tudo isso se foram,</i>
+
+35
+00:02:11,138 --> 00:02:13,557
+<i>mas ainda estou convencida</i>
+<i>de que os russos estão atrás de tudo.</i>
+
+36
+00:02:13,640 --> 00:02:16,393
+<i>Certo. Se vamos fazer isso,</i>
+<i>precisamos fazer do jeito certo.</i>
+
+37
+00:02:16,476 --> 00:02:18,645
+<i>Não podemos demonstrar que sabemos</i>
+<i>o quão fundo isso está.</i>
+
+38
+00:02:19,271 --> 00:02:20,647
+<i>São negócios como sempre.</i>
+
+39
+00:02:48,342 --> 00:02:53,055
+Rifle Black King à venda.
+
+40
+00:02:53,888 --> 00:02:54,889
+INFORMAÇÕES DA ARMA
+
+41
+00:03:00,020 --> 00:03:02,606
+FÓRUM DE MENSAGENS
+CLUBE DE AMANTES DE ARMAS
+
+42
+00:03:03,273 --> 00:03:06,735
+{\an8}VENHA VER UM LENDÁRIO<i> BLACK KING</i>
+A SEMANA TODA
+
+43
+00:03:14,493 --> 00:03:15,869
+<i>Li seu arquivo sobre os russos.</i>
+
+44
+00:03:15,952 --> 00:03:17,079
+É bem feito.
+
+45
+00:03:17,621 --> 00:03:18,788
+Obrigada, senhor.
+
+46
+00:03:18,872 --> 00:03:20,915
+Só porque todos têm ligação
+com Dimitri Voydian, não
+
+47
+00:03:20,999 --> 00:03:22,917
+significa necessariamente
+que Payne os matou.
+
+48
+00:03:23,293 --> 00:03:25,545
+Ele não soa como conspirador.
+
+49
+00:03:26,546 --> 00:03:28,423
+Karlyna Ordenko, preciso falar com ela.
+
+50
+00:03:28,507 --> 00:03:29,674
+Então fale com ela.
+
+51
+00:03:48,068 --> 00:03:49,069
+<i>Oi.</i>
+
+52
+00:03:49,611 --> 00:03:53,073
+<i>Mary finalmente dormiu,</i>
+<i>então tenho um minuto para dizer oi.</i>
+
+53
+00:03:54,116 --> 00:03:57,077
+<i>Hoje, tomamos chocolate mentolado,</i>
+<i>seu favorito.</i>
+
+54
+00:03:57,577 --> 00:03:59,288
+<i>De alguma forma, acabamos com tudo.</i>
+
+55
+00:04:01,123 --> 00:04:02,124
+<i>Queria que estivesse aqui.</i>
+
+56
+00:04:02,874 --> 00:04:05,043
+<i>É nos momentos simples</i>
+<i>que sentimos mais saudades.</i>
+
+57
+00:04:14,553 --> 00:04:15,929
+<i>Também queria estar aí.</i>
+
+58
+00:04:17,055 --> 00:04:19,516
+<i>Se serve de consolo, estou progredindo.</i>
+
+59
+00:04:20,392 --> 00:04:22,352
+<i>Isso está quase acabado, eu juro.</i>
+
+60
+00:04:23,520 --> 00:04:24,521
+<i>Eu te amo.</i>
+
+61
+00:04:38,410 --> 00:04:41,871
+Jules, viu o tutu da Mary?
+Ela quer usá-lo.
+
+62
+00:04:41,955 --> 00:04:43,165
+Sim, está na gaveta de cima.
+
+63
+00:04:43,748 --> 00:04:46,335
+Ela rearrumou tudo. Não consigo achar.
+
+64
+00:04:46,418 --> 00:04:47,461
+O quê?
+
+65
+00:04:49,171 --> 00:04:50,255
+Vou te ajudar.
+
+66
+00:04:54,259 --> 00:04:55,635
+Certo, vamos ver.
+
+67
+00:05:41,181 --> 00:05:43,975
+ATIRADOR
+
+68
+00:05:50,524 --> 00:05:52,901
+-Lonnie.
+-Jack. Entre.
+
+69
+00:05:58,490 --> 00:06:00,033
+{\an8}Nossa, Lon, o que você fez,
+
+70
+00:06:00,116 --> 00:06:02,118
+{\an8}roubou essas cadeiras
+da Guilda do Pirulito?
+
+71
+00:06:04,329 --> 00:06:05,789
+De qualquer forma,
+obrigado por me liberar.
+
+72
+00:06:06,873 --> 00:06:08,833
+Não me deu muita escolha, não?
+
+73
+00:06:10,084 --> 00:06:13,087
+Você está de bom humor para alguém
+cujo rosto está em todos os jornais.
+
+74
+00:06:14,589 --> 00:06:16,425
+Todas as missões têm tropeços.
+
+75
+00:06:16,925 --> 00:06:19,928
+{\an8}Um pneu furado é um tropeço.
+Você está acabado, Jack.
+
+76
+00:06:20,304 --> 00:06:22,722
+{\an8}Da forma mais espetacular possível,
+se me permite dizer.
+
+77
+00:06:24,391 --> 00:06:25,434
+{\an8}Acho que deveria se aposentar.
+
+78
+00:06:26,435 --> 00:06:30,021
+{\an8}Será muito bem compensado,
+e vamos te levar a um bom lugar.
+
+79
+00:06:30,104 --> 00:06:31,398
+{\an8}O que acha de Fiji?
+
+80
+00:06:35,610 --> 00:06:37,571
+{\an8}Vamos lá, Capitão Bligh.
+
+81
+00:06:40,824 --> 00:06:44,077
+{\an8}Não acho boa coisa.
+
+82
+00:06:44,328 --> 00:06:46,455
+{\an8}Qual é, cara? Não pode me tocar.
+
+83
+00:06:47,205 --> 00:06:50,584
+{\an8}Certo? Não vou a Fiji
+ou a qualquer outro lugar.
+
+84
+00:06:52,126 --> 00:06:55,422
+{\an8}Quero 10 milhões de dólares
+ou vou a público com tudo.
+
+85
+00:06:56,172 --> 00:06:58,425
+{\an8}A resolução é uma merda,
+
+86
+00:06:58,508 --> 00:07:01,094
+{\an8}é a filmagem do celular
+da tela do meu laptop.
+
+87
+00:07:01,177 --> 00:07:03,597
+{\an8}A original é bem melhor.
+
+88
+00:07:03,680 --> 00:07:08,393
+{\an8}Assim como todas as páginas da cópia
+completa do arquivo do Anexo B,
+
+89
+00:07:08,477 --> 00:07:11,688
+{\an8}que também tenho em minha posse.
+
+90
+00:07:13,482 --> 00:07:15,359
+{\an8}Então estava mesmo com as provas.
+
+91
+00:07:15,442 --> 00:07:16,443
+{\an8}Sim.
+
+92
+00:07:16,943 --> 00:07:19,446
+{\an8}Peguei do corpo do Dimitri Voydian.
+
+93
+00:07:19,529 --> 00:07:22,532
+{\an8}Pensei que seria uma boa segurança.
+
+94
+00:07:23,116 --> 00:07:24,576
+{\an8}Acho que estava certo.
+
+95
+00:07:25,159 --> 00:07:26,160
+{\an8}Não.
+
+96
+00:07:26,620 --> 00:07:27,621
+{\an8}Você estava errado.
+
+97
+00:07:28,872 --> 00:07:35,295
+Sabe, se tivesse vindo aqui e me dado
+o pendrive, eu teria te premiado.
+
+98
+00:07:40,675 --> 00:07:42,010
+E por que eu faria isso?
+
+99
+00:07:42,093 --> 00:07:45,347
+Não sei. Lealdade, talvez.
+
+100
+00:07:46,765 --> 00:07:49,809
+Porque teria conseguido minha gratidão.
+
+101
+00:07:51,102 --> 00:07:53,480
+E porque sempre te considerei um amigo.
+
+102
+00:07:57,484 --> 00:08:01,905
+{\an8}Você fala bonito para alguém
+que me cercou com quatro guardas armados.
+
+103
+00:08:03,365 --> 00:08:04,366
+{\an8}Jack!
+
+104
+00:08:04,574 --> 00:08:05,784
+{\an8}Se eu quisesse te matar,
+
+105
+00:08:05,867 --> 00:08:09,371
+{\an8}teria te jogado do meu jato
+a 10 quilômetros de altura.
+
+106
+00:08:10,955 --> 00:08:12,332
+Você é realmente burro assim?
+
+107
+00:08:13,082 --> 00:08:16,002
+{\an8}Não vou te dar 10 milhões de dólares
+nem nada mais.
+
+108
+00:08:16,836 --> 00:08:19,172
+{\an8}De agora em diante, você está sozinho.
+
+109
+00:08:27,431 --> 00:08:29,558
+Então acredito que terei de
+encontrar os federais.
+
+110
+00:08:31,309 --> 00:08:32,310
+Vá em frente.
+
+111
+00:08:33,645 --> 00:08:38,024
+{\an8}A propósito, é o Capitão Ahab
+que tem uma perna, do Moby Dick.
+
+112
+00:08:38,400 --> 00:08:41,110
+{\an8}Vou te dar uma cópia, vai precisar de algo
+para ler enquanto espera o julgamento.
+
+113
+00:08:44,656 --> 00:08:45,657
+Bom te ver.
+
+114
+00:09:07,804 --> 00:09:08,805
+Coronel Singer.
+
+115
+00:09:10,640 --> 00:09:11,641
+Quem?
+
+116
+00:09:12,100 --> 00:09:14,227
+Você conhece o Coronel Singer a vida toda,
+
+117
+00:09:14,310 --> 00:09:17,689
+e agora, do nada, ele acessa
+arquivos confidenciais sobre o Anexo B?
+
+118
+00:09:19,733 --> 00:09:21,776
+Você cavou a cova dele
+quando pediu para ele te ajudar,
+
+119
+00:09:22,444 --> 00:09:23,570
+agora terá de encher a cova.
+
+120
+00:09:25,071 --> 00:09:26,448
+Singer não sabe de nada.
+
+121
+00:09:26,531 --> 00:09:27,657
+Ele sabe sobre você.
+
+122
+00:09:29,367 --> 00:09:30,785
+Ele sabe sobre o Anexo B.
+
+123
+00:09:31,911 --> 00:09:35,123
+Há uma diferença
+entre ser cuidadoso e ser paranoico.
+
+124
+00:09:37,375 --> 00:09:38,710
+Singer não é perigoso.
+
+125
+00:09:39,753 --> 00:09:41,505
+E também não é uma velha senhora.
+
+126
+00:09:42,464 --> 00:09:43,882
+Vão sentir falta dele.
+
+127
+00:09:44,298 --> 00:09:49,721
+Sabe, acho que você
+está se esquecendo do seu lugar.
+
+128
+00:09:50,639 --> 00:09:51,681
+Meu lugar?
+
+129
+00:09:53,224 --> 00:09:54,601
+Quem diabos você acha que é?
+
+130
+00:09:55,560 --> 00:09:57,395
+É um bêbado com acesso de segurança.
+
+131
+00:09:59,397 --> 00:10:03,401
+E é o babaca que achou
+que seria mais esperto que eu.
+
+132
+00:10:05,194 --> 00:10:09,365
+Agora pare com suas besteiras,
+e vamos lidar com Singer.
+
+133
+00:10:35,725 --> 00:10:37,268
+Nadine Memphis. Falamos ao telefone.
+
+134
+00:10:39,353 --> 00:10:40,605
+É amiga de Alexi?
+
+135
+00:10:40,689 --> 00:10:42,982
+Não exatamente.
+Sou uma agente especial do FBI.
+
+136
+00:10:43,567 --> 00:10:45,151
+Só preciso de um pouco do seu tempo.
+
+137
+00:10:47,779 --> 00:10:51,407
+Sou uma mulher muito ocupada, Srta. FBI.
+Não tenho tempo para assédio.
+
+138
+00:10:51,991 --> 00:10:55,161
+A jornalista ucraniana de nome
+Karlyna Ordenko desapareceu.
+
+139
+00:10:55,244 --> 00:10:56,370
+Preciso falar com ela.
+
+140
+00:10:57,706 --> 00:11:00,166
+Ficaria muito grata se pudesse
+fazer umas perguntas discretas.
+
+141
+00:11:05,171 --> 00:11:07,090
+Temo não poder ajudá-la.
+
+142
+00:11:08,717 --> 00:11:10,677
+O FBI já sabe
+
+143
+00:11:10,760 --> 00:11:14,514
+de algumas operações
+potencialmente ilegais ligadas a você.
+
+144
+00:11:16,600 --> 00:11:18,852
+Só precisa de um empurrãozinho
+para derrubar os dominós.
+
+145
+00:11:18,935 --> 00:11:22,105
+Ambas sabemos que se tivesse algo,
+já teria usado.
+
+146
+00:11:22,188 --> 00:11:23,648
+Você está certa. Faríamos isso.
+
+147
+00:11:24,232 --> 00:11:25,233
+Podem entrar.
+
+148
+00:11:26,275 --> 00:11:28,111
+FBI! Mostrem as mãos.
+
+149
+00:11:28,695 --> 00:11:30,279
+Mostrem as mãos. De joelhos.
+
+150
+00:11:31,906 --> 00:11:33,282
+Senhora, mostre suas mãos.
+
+151
+00:11:34,200 --> 00:11:35,535
+Este é um salão de beleza.
+
+152
+00:11:35,619 --> 00:11:38,329
+Você é dona de três salões de beleza
+para lavar dinheiro,
+
+153
+00:11:38,412 --> 00:11:42,291
+um cassino ilegal na 8ª,
+dois prostíbulos e, é claro,
+
+154
+00:11:42,375 --> 00:11:45,128
+todo o esquema de tráfico de drogas russo
+no noroeste do Pacífico.
+
+155
+00:11:45,795 --> 00:11:47,631
+Está desperdiçando seu tempo.
+
+156
+00:11:47,797 --> 00:11:49,966
+Eu tenho todo o tempo do mundo.
+
+157
+00:11:50,717 --> 00:11:52,093
+E você?
+
+158
+00:11:53,803 --> 00:11:56,723
+Pelo que está procurando?
+Talvez eu possa ser útil.
+
+159
+00:12:06,566 --> 00:12:08,985
+EXPOSIÇÃO DE ARMAS
+
+160
+00:12:19,245 --> 00:12:20,580
+O que você acha?
+É uma das minhas favoritas.
+
+161
+00:12:20,997 --> 00:12:22,540
+-Eu gosto.
+-É.
+
+162
+00:12:24,668 --> 00:12:26,044
+O que acha? Você quer?
+
+163
+00:12:38,264 --> 00:12:40,391
+-Obrigado.
+-Você é o Sr. Jones?
+
+164
+00:12:40,975 --> 00:12:42,268
+Sou sim, senhor.
+
+165
+00:12:42,351 --> 00:12:44,854
+Você carregou as balas do Whitefield
+no tiro na mosca de 900 metros
+
+166
+00:12:44,938 --> 00:12:46,064
+no Nacional de Missoula, certo?
+
+167
+00:12:46,648 --> 00:12:48,232
+Sim, foi um ótimo tiro.
+
+168
+00:12:48,316 --> 00:12:49,609
+Vou dizer, com certeza foi.
+
+169
+00:12:49,693 --> 00:12:51,569
+Mas foram suas balas que deram a vantagem.
+
+170
+00:12:51,903 --> 00:12:53,446
+Ele devia dividir os ganhos com você.
+
+171
+00:12:54,030 --> 00:12:55,031
+O que posso fazer por você?
+
+172
+00:12:55,239 --> 00:12:59,077
+Minha família finalmente decidiu se livrar
+de alguns dos rifles do meu pai. E...
+
+173
+00:12:59,869 --> 00:13:01,120
+Conhece alguém aqui na exposição
+
+174
+00:13:01,204 --> 00:13:04,082
+que possa se interessar por
+um Johnson 1941 original?
+
+175
+00:13:05,917 --> 00:13:08,461
+Paul Helling talvez.
+Ele tem um estande do outro lado.
+
+176
+00:13:09,003 --> 00:13:10,546
+-Não dá para não ver.
+-Sério?
+
+177
+00:13:10,630 --> 00:13:13,299
+Vai por mim. Diga que eu te mandei.
+
+178
+00:13:13,382 --> 00:13:15,301
+-Farei isso. Obrigado.
+-Obrigado.
+
+179
+00:13:15,635 --> 00:13:17,971
+Já disse que essa coisa
+de pistola é para mocinhas.
+
+180
+00:13:18,054 --> 00:13:20,056
+Se quer poder da parada, sangue e...
+
+181
+00:13:27,146 --> 00:13:28,231
+Com licença.
+
+182
+00:13:28,356 --> 00:13:29,941
+-Sim?
+-Você é Paul Helling?
+
+183
+00:13:30,441 --> 00:13:32,068
+Foi o nome que me deram.
+
+184
+00:13:32,944 --> 00:13:36,114
+SC. Jones me mandou para você.
+Disse que você poderia me ajudar.
+
+185
+00:13:36,197 --> 00:13:39,951
+Certo. Se quer vender algo,
+teria que ser algo especial.
+
+186
+00:13:40,034 --> 00:13:41,619
+Só me interesso pelo melhor.
+
+187
+00:13:41,703 --> 00:13:44,622
+Qual o rifle mais chique que tem?
+
+188
+00:13:45,248 --> 00:13:47,709
+Tentando medir o preço
+antes de me mostrar?
+
+189
+00:13:50,378 --> 00:13:53,339
+Tudo bem. Não te culpo.
+
+190
+00:13:53,422 --> 00:13:55,884
+Muito esperto.
+
+191
+00:13:55,967 --> 00:13:57,468
+Mas aqui está a coisa,
+
+192
+00:13:58,427 --> 00:14:01,264
+a maioria das armas longas não valem
+muito mais do que você pagou.
+
+193
+00:14:01,347 --> 00:14:02,473
+Geralmente, menos.
+
+194
+00:14:03,307 --> 00:14:05,852
+Bem, e quanto a, tipo,
+uma arma bem especial?
+
+195
+00:14:05,935 --> 00:14:08,479
+Tipo essa que eu li sobre, o <i>Black King.</i>
+
+196
+00:14:09,147 --> 00:14:10,439
+Você tem um<i> Black King</i> aí?
+
+197
+00:14:13,276 --> 00:14:16,029
+Cara, quem me dera. Como eu queria.
+
+198
+00:14:16,112 --> 00:14:17,113
+Eu também queria.
+
+199
+00:14:18,489 --> 00:14:19,657
+Mas só fizeram quatro?
+
+200
+00:14:19,741 --> 00:14:20,742
+Foi.
+
+201
+00:14:21,910 --> 00:14:22,911
+Aqui.
+
+202
+00:14:24,412 --> 00:14:25,621
+Deixe-me te mostrar algo.
+
+203
+00:14:32,045 --> 00:14:35,882
+Cada uma das armas foi marcada
+com seu próprio rei.
+
+204
+00:14:36,549 --> 00:14:38,592
+Vê ali? Temos o rei de copas.
+
+205
+00:14:39,803 --> 00:14:40,970
+Minha nossa.
+
+206
+00:14:42,138 --> 00:14:43,139
+Já atirou com ela?
+
+207
+00:14:44,098 --> 00:14:46,350
+Se eu já atirei com ela?
+
+208
+00:14:46,434 --> 00:14:47,435
+Aqui.
+
+209
+00:14:50,396 --> 00:14:51,397
+Vê isso?
+
+210
+00:14:51,647 --> 00:14:54,943
+Tiro de 807 metros.
+
+211
+00:14:55,401 --> 00:14:56,402
+Isso é impressionante.
+
+212
+00:14:56,903 --> 00:14:59,739
+Não é nada comparado ao
+que esse cara pode fazer.
+
+213
+00:15:00,198 --> 00:15:02,200
+Aqui, dê uma olhada.
+
+214
+00:15:02,450 --> 00:15:03,451
+Olhe isso.
+
+215
+00:15:05,244 --> 00:15:06,245
+Certo, veja isso.
+
+216
+00:15:14,503 --> 00:15:15,964
+<i>Ele não consegue esse tiro.</i>
+
+217
+00:15:16,672 --> 00:15:18,967
+<i>Nossa, cara. São cerca de 1372 metros.</i>
+
+218
+00:15:25,765 --> 00:15:31,145
+São seis tiros. Em sequência.
+1372 metros, todos no preto.
+
+219
+00:15:31,229 --> 00:15:35,108
+Recebi isso ontem. Foi uma ótima hora.
+
+220
+00:15:36,692 --> 00:15:37,735
+Qual o nome do cara?
+
+221
+00:15:38,611 --> 00:15:40,822
+-Lon Scott.
+-Lon Scott?
+
+222
+00:15:42,448 --> 00:15:44,283
+-Ele é um baita atirador.
+-É, sim.
+
+223
+00:15:51,415 --> 00:15:52,666
+Espere aí um pouco.
+
+224
+00:15:53,376 --> 00:15:54,961
+Alguém já te disse
+que você parece com o <i>Marine</i>
+
+225
+00:15:55,044 --> 00:15:56,295
+que atirou no presidente?
+
+226
+00:15:56,379 --> 00:15:57,380
+Swagger?
+
+227
+00:15:58,631 --> 00:16:00,049
+-Não, cara. Desculpe-me.
+-Espere aí.
+
+228
+00:16:01,009 --> 00:16:02,093
+Só quero olhar melhor.
+
+229
+00:16:02,676 --> 00:16:04,095
+Quero que saia da minha frente.
+
+230
+00:16:05,638 --> 00:16:06,806
+Só que quero olhar melhor...
+
+231
+00:16:45,887 --> 00:16:47,721
+-Memphis.
+<i>-Sou eu.</i>
+
+232
+00:16:47,805 --> 00:16:49,140
+Acho que encontramos nosso atirador.
+
+233
+00:16:50,016 --> 00:16:51,184
+O nome é Lon Scott.
+
+234
+00:16:51,267 --> 00:16:53,602
+<i>Acabei de ver um vídeo dele</i>
+<i>atirando um</i> Black King.
+
+235
+00:16:54,312 --> 00:16:55,438
+Lon Scott?
+
+236
+00:16:56,147 --> 00:16:58,732
+CEO da Anhur Dynamics?
+Isso não faz nenhum sentido.
+
+237
+00:16:59,108 --> 00:17:00,443
+<i>Ainda não.</i>
+
+238
+00:17:00,526 --> 00:17:03,279
+<i>Então estou indo para a matriz</i>
+<i>deles na Virgínia, fazer uma visita,</i>
+
+239
+00:17:03,362 --> 00:17:04,780
+<i>começar a juntar as peças.</i>
+
+240
+00:17:04,864 --> 00:17:08,409
+E entrei numa pequena confusão em Bozeman.
+
+241
+00:17:08,868 --> 00:17:11,745
+Se parar no radar do FBI,
+você talvez queira abafar para mim.
+
+242
+00:17:11,829 --> 00:17:13,372
+Pequena confusão? O que quer dizer?
+
+243
+00:17:13,456 --> 00:17:15,124
+-Memphis.
+<i>-Obrigado.</i>
+
+244
+00:17:15,208 --> 00:17:16,209
+Meu escritório.
+
+245
+00:17:17,668 --> 00:17:18,711
+O que está havendo?
+
+246
+00:17:19,003 --> 00:17:20,004
+Feche a porta.
+
+247
+00:17:22,715 --> 00:17:25,384
+Acabei de ouvir que houve um tiroteio
+numa exibição de armas em Montana.
+
+248
+00:17:25,969 --> 00:17:29,013
+-Feridos?
+-Um ferido, sem risco de morte.
+
+249
+00:17:29,680 --> 00:17:30,681
+É um alívio.
+
+250
+00:17:30,764 --> 00:17:32,808
+Seria, se várias testemunhas
+não tivessem visto Swagger
+
+251
+00:17:32,892 --> 00:17:34,060
+no meio do lugar.
+
+252
+00:17:35,311 --> 00:17:36,312
+Alguma prova?
+
+253
+00:17:36,437 --> 00:17:37,438
+Certo, olhe.
+
+254
+00:17:39,023 --> 00:17:42,485
+Sei que está falando com ele.
+Precisa dizer para ele ter mais cuidado.
+
+255
+00:18:00,294 --> 00:18:01,295
+Isaac?
+
+256
+00:18:03,714 --> 00:18:05,008
+<i>Vamos dar uma volta.</i>
+
+257
+00:18:05,799 --> 00:18:07,093
+Deveríamos ser vistos juntos?
+
+258
+00:18:07,676 --> 00:18:08,677
+É importante.
+
+259
+00:18:09,595 --> 00:18:10,638
+Por que não podemos conversar aqui?
+
+260
+00:18:12,640 --> 00:18:15,559
+Olhe, eu te devo uma.
+Vou endireitar as coisas, vai por mim.
+
+261
+00:18:16,560 --> 00:18:18,187
+Não tem nada a temer comigo.
+
+262
+00:18:27,863 --> 00:18:28,948
+Oi, Jim.
+
+263
+00:18:35,579 --> 00:18:36,580
+Aqui.
+
+264
+00:18:37,665 --> 00:18:40,001
+Agradeço muito, e estou anotando tudo.
+
+265
+00:18:45,464 --> 00:18:46,465
+Bob Lee está vivo?
+
+266
+00:18:48,592 --> 00:18:49,635
+O quê?
+
+267
+00:18:50,511 --> 00:18:51,554
+Ele está vivo?
+
+268
+00:18:53,973 --> 00:18:55,349
+Qual é, Jim?
+Sabe que ele não está.
+
+269
+00:18:55,433 --> 00:18:56,434
+Sei?
+
+270
+00:18:58,352 --> 00:18:59,478
+Nunca acharam o corpo dele.
+
+271
+00:18:59,853 --> 00:19:02,690
+Jim, não entendo o que está acontecendo.
+
+272
+00:19:02,773 --> 00:19:07,361
+Acolhemos você na nossa casa, Julie.
+Nos abrimos para essa loucura.
+
+273
+00:19:08,321 --> 00:19:11,240
+Espero que entenda o quanto
+sua irmã fez por você.
+
+274
+00:19:11,824 --> 00:19:14,493
+Entendo. E sou muito grata.
+
+275
+00:19:15,661 --> 00:19:19,332
+Quanto antes superarmos isso, melhor.
+
+276
+00:19:41,645 --> 00:19:45,191
+Sem endereço residencial para Lon Scott.
+
+277
+00:19:56,077 --> 00:19:57,078
+Droga.
+
+278
+00:20:35,741 --> 00:20:36,825
+Boa tarde.
+
+279
+00:20:37,451 --> 00:20:39,370
+Estava boa até 30 segundos atrás.
+
+280
+00:20:40,246 --> 00:20:41,455
+Não achei
+que estivesse rápido.
+
+281
+00:20:41,539 --> 00:20:44,333
+Não estava. Farol traseiro está quebrado.
+
+282
+00:20:44,417 --> 00:20:46,544
+Sério? Deve ter acabado de acontecer.
+
+283
+00:20:46,960 --> 00:20:49,588
+Vou precisar ver
+seus documentos, por favor.
+
+284
+00:20:49,672 --> 00:20:50,714
+Claro.
+
+285
+00:20:58,847 --> 00:21:01,559
+E... merda!
+
+286
+00:21:01,642 --> 00:21:03,060
+Não vai acreditar nisso, cara,
+
+287
+00:21:03,144 --> 00:21:05,313
+mas acho que deixei
+minha carteira no motel.
+
+288
+00:21:06,647 --> 00:21:07,690
+E onde você está ficando?
+
+289
+00:21:08,316 --> 00:21:10,151
+Skyline Motel, aqui na estrada.
+
+290
+00:21:10,234 --> 00:21:13,362
+Vim visitar meus sogros,
+mas não quero ficar com eles, então...
+
+291
+00:21:14,988 --> 00:21:16,615
+Você é o dono deste veículo?
+
+292
+00:21:16,699 --> 00:21:18,201
+Sim, senhor. Leo McGovern.
+
+293
+00:21:19,493 --> 00:21:22,621
+Certo. Espere aí, Leo. Vou questionar.
+
+294
+00:21:27,293 --> 00:21:28,336
+Desculpe-me.
+
+295
+00:21:41,682 --> 00:21:43,351
+Número Bloqueado: Encontrei sua repórter.
+
+296
+00:21:53,319 --> 00:21:54,320
+Fale comigo.
+
+297
+00:21:54,445 --> 00:21:57,030
+Meu pessoal fez contato com Ordenko.
+
+298
+00:21:58,449 --> 00:22:00,368
+-Onde ela está?
+<i>-Ela está em Moscou.</i>
+
+299
+00:22:00,451 --> 00:22:02,995
+Mas está com medo
+de ser encontrada pela FSB,
+
+300
+00:22:03,078 --> 00:22:05,706
+então ela vai para um novo local
+de tempos em tempos.
+
+301
+00:22:05,789 --> 00:22:07,666
+-Ela tem acesso a um computador?
+<i>-Tem.</i>
+
+302
+00:22:08,083 --> 00:22:10,878
+Quero que diga para ela me ligar
+no Skype às 10h, hora de Moscou.
+
+303
+00:22:10,961 --> 00:22:12,004
+Estarei esperando.
+
+304
+00:22:30,189 --> 00:22:31,774
+IGREJA BETHANY
+
+305
+00:23:31,083 --> 00:23:34,211
+DOAÇÕES
+
+306
+00:24:15,252 --> 00:24:17,296
+-Quem está no comando?
+-Tenente, senhor.
+
+307
+00:24:19,006 --> 00:24:20,007
+Dentro.
+
+308
+00:24:26,179 --> 00:24:28,391
+Soube que teve um cliente
+interessante hoje.
+
+309
+00:24:29,475 --> 00:24:31,184
+Diga-me tudo o que conversaram.
+
+310
+00:24:31,935 --> 00:24:33,562
+Já falei para a polícia.
+
+311
+00:24:35,188 --> 00:24:36,231
+Agora vai dizer para mim.
+
+312
+00:24:56,460 --> 00:24:58,211
+Srta. Ordenko, consegue me ouvir?
+
+313
+00:24:59,046 --> 00:25:00,172
+<i>Sim, consigo.</i>
+
+314
+00:25:00,255 --> 00:25:03,467
+Sou a Agente Especial Nadine Memphis,
+sou do FBI.
+
+315
+00:25:03,551 --> 00:25:05,344
+Fico feliz de conseguir falar com você.
+
+316
+00:25:06,136 --> 00:25:07,304
+<i>Não tenho muito tempo.</i>
+
+317
+00:25:07,388 --> 00:25:08,389
+Certo.
+
+318
+00:25:08,764 --> 00:25:12,351
+Sei que estava tentando conseguir
+informações para Dimitri Voydian,
+
+319
+00:25:12,435 --> 00:25:14,061
+ele ia me passá-las.
+
+320
+00:25:14,144 --> 00:25:15,563
+<i>Onde está Dimitri?</i>
+
+321
+00:25:16,814 --> 00:25:17,815
+Ele está morto.
+
+322
+00:25:21,318 --> 00:25:22,319
+<i>Ele era um bom homem.</i>
+
+323
+00:25:23,862 --> 00:25:24,863
+<i>Um patriota.</i>
+
+324
+00:25:26,949 --> 00:25:28,701
+<i>E o microdrive, também se foi?</i>
+
+325
+00:25:29,326 --> 00:25:32,705
+Sim. Tinha mais coisas, além de Graznyole?
+
+326
+00:25:33,288 --> 00:25:35,332
+<i>Tinha muito mais que só Graznyole.</i>
+
+327
+00:25:35,708 --> 00:25:37,334
+<i>Eles arrasaram vilas inteiras.</i>
+
+328
+00:25:37,876 --> 00:25:41,088
+<i>Eu vi a fumaça saindo</i>
+<i>das pilhas de corpos queimados,</i>
+
+329
+00:25:41,171 --> 00:25:43,632
+<i>crianças chorando, procurando pelas mães.</i>
+
+330
+00:25:44,132 --> 00:25:46,051
+<i>O que eles fizeram não foi humano.</i>
+
+331
+00:25:49,472 --> 00:25:51,223
+<i>Nenhum governo pode ficar</i>
+<i>no caminho deles.</i>
+
+332
+00:25:52,516 --> 00:25:53,684
+<i>E agora, a prova se foi.</i>
+
+333
+00:25:53,767 --> 00:25:57,730
+Posso te proteger, Karlyna.
+Olhe, quero que vá à embaixada americana.
+
+334
+00:25:57,813 --> 00:26:00,065
+Vou ligar para eles.
+Posso estar num avião em algumas horas.
+
+335
+00:26:00,357 --> 00:26:02,610
+<i>Não estarei segura na embaixada americana.</i>
+
+336
+00:26:03,193 --> 00:26:05,654
+<i>O microdrive tinha muito mais informações.</i>
+
+337
+00:26:05,738 --> 00:26:08,491
+<i>Informações muito confidenciais.</i>
+
+338
+00:26:08,574 --> 00:26:10,868
+<i>Arquivos sobre o envolvimento americano.</i>
+
+339
+00:26:13,787 --> 00:26:15,498
+<i>Os chamados arquivos do Anexo B.</i>
+
+340
+00:26:15,581 --> 00:26:17,040
+Espere. O que é Anexo B?
+
+341
+00:26:17,541 --> 00:26:19,084
+<i>Todas as operações...</i>
+
+342
+00:26:20,753 --> 00:26:21,754
+<i>...CIA...</i>
+
+343
+00:26:25,382 --> 00:26:27,885
+<i>-...Dinâmica.</i>
+-Repete, Karlyna.
+
+344
+00:26:29,136 --> 00:26:31,263
+<i>...pelas mortes de muitos civis.</i>
+
+345
+00:26:31,346 --> 00:26:33,932
+Não te entendo, Karlyna.
+Está cortando a chamada.
+
+346
+00:26:34,016 --> 00:26:36,143
+<i>Meu Deus, eles me encontraram.</i>
+<i>Me encontraram!</i>
+
+347
+00:26:36,226 --> 00:26:37,394
+Karlyna?
+
+348
+00:26:38,103 --> 00:26:39,229
+Karlyna!
+
+349
+00:26:39,312 --> 00:26:40,814
+<i>-Karlyna!</i>
+<i>-Parem!</i>
+
+350
+00:26:42,608 --> 00:26:43,609
+<i>Karlyna!</i>
+
+351
+00:26:53,494 --> 00:26:55,996
+<i>Até breve, Agente Memphis.</i>
+
+352
+00:27:17,893 --> 00:27:19,812
+-Sim, o que foi?
+-Você tem um problemão.
+
+353
+00:27:21,229 --> 00:27:22,272
+Ele achou o atirador.
+
+354
+00:27:25,442 --> 00:27:26,610
+De que diabos está falando?
+
+355
+00:27:26,694 --> 00:27:28,320
+Lon Scott. É ele, certo?
+
+356
+00:27:28,403 --> 00:27:29,488
+<i>Esta é uma linha segura?</i>
+
+357
+00:27:29,572 --> 00:27:31,281
+Agora está preocupado se a merda é segura?
+
+358
+00:27:31,364 --> 00:27:34,034
+Fiz uma pergunta. Lon Scott é o atirador?
+
+359
+00:27:37,245 --> 00:27:39,122
+O cara é praticamente um Howard Hughes.
+
+360
+00:27:39,206 --> 00:27:42,125
+Ele está completamente fora do mapa.
+Não iria se expor.
+
+361
+00:27:42,209 --> 00:27:45,921
+Ele se expôs, tá legal?
+Ele abriu o zíper inteiro.
+
+362
+00:27:46,004 --> 00:27:49,842
+Bob Lee está indo para a Virginia.
+Acho que ele está planejando um encontro.
+
+363
+00:27:50,217 --> 00:27:51,844
+Lon tem bastante proteção, confie em mim.
+
+364
+00:27:51,927 --> 00:27:53,679
+<i>Você percebe o quão ferrados estamos?</i>
+
+365
+00:27:53,762 --> 00:27:57,099
+A CIA contratou um mercenário privado
+para assassinar
+
+366
+00:27:57,182 --> 00:27:58,684
+um estrangeiro em solo americano.
+
+367
+00:27:59,267 --> 00:28:00,352
+São só boatos.
+
+368
+00:28:04,314 --> 00:28:07,776
+A coisa começou ruim. Agora está pior.
+
+369
+00:28:09,194 --> 00:28:10,821
+Se eu fosse você, faria as malas.
+
+370
+00:28:11,404 --> 00:28:13,031
+Não tenho malas, Johnson.
+
+371
+00:28:13,866 --> 00:28:14,908
+E quanto a você?
+
+372
+00:28:16,201 --> 00:28:17,202
+Babaca.
+
+373
+00:28:25,210 --> 00:28:28,547
+Poderia Bob Lee Swagger Ainda Estar Vivo?
+
+374
+00:28:30,257 --> 00:28:31,258
+Bizarro, não?
+
+375
+00:28:32,676 --> 00:28:33,719
+Meio que como Elvis.
+
+376
+00:28:36,471 --> 00:28:38,682
+Odeio quando a imprensa não
+esquece de algo.
+
+377
+00:28:39,391 --> 00:28:41,434
+O almoço está pronto.
+
+378
+00:28:42,435 --> 00:28:43,562
+Mary, vamos.
+
+379
+00:28:49,067 --> 00:28:51,069
+Última chance de responder à pergunta.
+
+380
+00:28:52,237 --> 00:28:55,323
+Nós todos seríamos implicados.
+Você sabe que estou certo.
+
+381
+00:28:55,407 --> 00:28:56,491
+Certo sobre o quê?
+
+382
+00:28:58,827 --> 00:29:01,454
+Nada. Jim só estava mencionando
+
+383
+00:29:01,538 --> 00:29:04,041
+como a imprensa não consegue
+deixar as coisas pra lá.
+
+384
+00:29:05,292 --> 00:29:06,334
+Vou pegar a Mary.
+
+385
+00:29:15,427 --> 00:29:18,722
+Jesus Cristo, Memphis.
+Isso não pode esperar até eu subir?
+
+386
+00:29:18,806 --> 00:29:20,557
+Karlyna Ordenko está morta.
+
+387
+00:29:21,308 --> 00:29:22,935
+Ela foi assassinada ontem,
+enquanto eu assistia.
+
+388
+00:29:24,102 --> 00:29:26,146
+<i>Meu Deus, eles me encontraram.</i>
+<i>Me encontraram!</i>
+
+389
+00:29:31,985 --> 00:29:33,153
+Quem?
+
+390
+00:29:34,071 --> 00:29:37,407
+Eram definitivamente profissionais.
+FSB russa. Ou pior.
+
+391
+00:29:41,870 --> 00:29:43,205
+Senhor, eles sabem quem eu sou.
+
+392
+00:29:43,288 --> 00:29:44,790
+É hora de entregarmos as coisas.
+
+393
+00:29:44,873 --> 00:29:46,208
+Marcarei reunião com o diretor.
+
+394
+00:29:46,291 --> 00:29:48,877
+Não. Quero dizer, não podemos provar nada.
+
+395
+00:29:49,753 --> 00:29:51,129
+Nem consigo achar os artigos
+que ela escreveu,
+
+396
+00:29:51,213 --> 00:29:52,339
+além dos que já imprimimos.
+
+397
+00:29:54,507 --> 00:29:55,843
+Ela está sendo apagada.
+
+398
+00:30:00,806 --> 00:30:01,807
+Vai a algum lugar?
+
+399
+00:30:02,557 --> 00:30:05,060
+Não, só junto todas as minhas coisas
+como um exercício.
+
+400
+00:30:05,143 --> 00:30:06,645
+Pode parar. Não vai a lugar algum.
+
+401
+00:30:06,729 --> 00:30:10,733
+Karlyna Ordenko está morta. Você a vendeu.
+Ela morreu por sua causa.
+
+402
+00:30:11,399 --> 00:30:13,276
+Acha que quero esse tipo de coisa?
+
+403
+00:30:14,027 --> 00:30:17,155
+Ela não morreu por minha causa, por sua.
+E agora, por sua causa, tenho que fugir.
+
+404
+00:30:17,239 --> 00:30:19,532
+Quem fez isso, Kasper? Quem a matou?
+
+405
+00:30:19,616 --> 00:30:22,535
+Se soubesse que você estava me envolvendo
+com chacais como Grigory Krukov,
+
+406
+00:30:22,619 --> 00:30:24,287
+eu teria te mandado se ferrar.
+
+407
+00:30:24,371 --> 00:30:25,706
+Quem é Grigory Krukov?
+
+408
+00:30:29,126 --> 00:30:30,418
+Quer me prender?
+
+409
+00:30:30,502 --> 00:30:33,046
+Faça isso agora. Do contrário, saia daqui.
+
+410
+00:30:33,505 --> 00:30:37,134
+Cansei de falar com você.
+Quem fala com você acaba morto.
+
+411
+00:31:20,886 --> 00:31:22,429
+Você sabe que Swagger
+está a caminho daqui, certo?
+
+412
+00:31:23,972 --> 00:31:24,973
+Eu esperava que sim.
+
+413
+00:31:25,724 --> 00:31:26,725
+Pelo amor de Deus, por quê?
+
+414
+00:31:26,809 --> 00:31:29,686
+Porque você falhou.
+Agora, vou acabar com isso.
+
+415
+00:31:30,270 --> 00:31:32,815
+Swagger é muito mais esperto
+do que nós imaginávamos.
+
+416
+00:31:32,898 --> 00:31:35,192
+Mais esperto que você. Não nós.
+
+417
+00:31:35,275 --> 00:31:37,652
+Disse o cara que postou vídeos
+de si mesmo no YouTube.
+
+418
+00:31:41,656 --> 00:31:42,908
+Swagger é um caçador,
+
+419
+00:31:43,408 --> 00:31:46,119
+talvez, um dos melhores
+que este país já produziu.
+
+420
+00:31:48,080 --> 00:31:51,041
+Se ele achasse que eu o estava caçando,
+ele nunca teria vindo.
+
+421
+00:31:51,124 --> 00:31:53,210
+O truque é fazê-lo achar
+que está no controle.
+
+422
+00:31:53,710 --> 00:31:56,629
+Agora ele acha, então o vídeo funcionou.
+
+423
+00:31:56,713 --> 00:31:58,048
+Não quero ser um babaca,
+
+424
+00:31:59,382 --> 00:32:02,260
+mas se ele está vindo, ele vem com tudo.
+
+425
+00:32:02,928 --> 00:32:04,805
+Aprecio sua preocupação, Hugh.
+
+426
+00:32:05,597 --> 00:32:08,725
+Talvez seus instintos paternais
+estariam melhor focados em Jack Payne.
+
+427
+00:32:10,685 --> 00:32:13,730
+Parece que ele estava com
+os arquivos do Anexo B o tempo todo.
+
+428
+00:32:14,356 --> 00:32:16,524
+Por favor, me diga que ele está
+trancado em algum lugar aqui.
+
+429
+00:32:16,608 --> 00:32:19,652
+Não. Mas não será difícil de encontrar.
+
+430
+00:32:20,570 --> 00:32:22,405
+Ele quer 10 milhões de dólares
+pelos arquivos.
+
+431
+00:32:24,950 --> 00:32:26,284
+Se eu fosse você, eu pagaria.
+
+432
+00:32:27,535 --> 00:32:29,830
+Merda.
+
+433
+00:32:35,168 --> 00:32:39,965
+PORTAL DE BUSCA INTERNA DO FBI
+GRIGORY KRUKOV
+
+434
+00:32:42,425 --> 00:32:45,053
+Ministério Russo do Comércio:
+Afiliados Corporativos 2015
+
+435
+00:33:26,178 --> 00:33:27,220
+Obrigada.
+
+436
+00:33:39,482 --> 00:33:41,902
+Oi, sou a Agente Especial Nadine Memphis.
+
+437
+00:33:41,985 --> 00:33:43,778
+Jim, certo? Cunhado de Julie Swagger?
+
+438
+00:33:43,862 --> 00:33:45,780
+Sim, Agente Memphis.
+
+439
+00:33:46,573 --> 00:33:48,366
+Tenho algo que acho que vai querer ver.
+
+440
+00:34:12,849 --> 00:34:15,978
+-Boa tarde.
+-Pacote para Lon Scott.
+
+441
+00:34:16,061 --> 00:34:17,062
+Eu recebo por ele.
+
+442
+00:34:17,187 --> 00:34:18,939
+Diz que ele tem que assinar.
+
+443
+00:34:20,357 --> 00:34:23,735
+O Sr. Scott não está aqui.
+Posso assinar ou você pode devolver.
+
+444
+00:34:25,988 --> 00:34:27,114
+Vou só deixar aqui.
+
+445
+00:34:35,830 --> 00:34:37,582
+Cara, acho que você tem
+uma entrega para mim.
+
+446
+00:34:39,792 --> 00:34:40,793
+Acho que não.
+
+447
+00:34:40,961 --> 00:34:44,881
+Que tal checar as entregas do dia?
+Me economiza uma viagem ao centro.
+
+448
+00:34:47,092 --> 00:34:48,510
+Claro, estou estacionado ali.
+
+449
+00:35:00,230 --> 00:35:02,440
+Não vim te matar.
+Só quero conversar, tá legal?
+
+450
+00:35:02,524 --> 00:35:03,733
+Foi o que disse à mãe do Donny?
+
+451
+00:35:03,816 --> 00:35:04,943
+Não tive escolha.
+
+452
+00:35:05,027 --> 00:35:07,404
+Ela tinha 70 anos, cara. Ela não fez nada.
+
+453
+00:35:07,487 --> 00:35:09,948
+Se não fosse eu, teria sido outra pessoa.
+
+454
+00:35:10,407 --> 00:35:11,408
+Não deveria ter ido lá.
+
+455
+00:35:11,574 --> 00:35:13,160
+Você não deveria ter ido lá!
+
+456
+00:35:15,787 --> 00:35:17,580
+Só não quero que ninguém mais se machuque.
+
+457
+00:35:25,755 --> 00:35:30,468
+É a Claire. Recebi um pacote
+estranho para o Sr. Scott.
+
+458
+00:35:30,552 --> 00:35:32,095
+Se não começarmos a trabalhar juntos...
+
+459
+00:35:32,179 --> 00:35:33,180
+Juntos?
+
+460
+00:35:34,056 --> 00:35:36,141
+Você parece presumir que preciso de você.
+
+461
+00:35:36,224 --> 00:35:40,645
+Sei que está indo atrás de Lon Scott,
+e vai precisar de ajuda.
+
+462
+00:35:41,313 --> 00:35:43,065
+Os caras que encontrou em Idaho
+
+463
+00:35:43,731 --> 00:35:45,817
+eram uma pequena fração
+dos homens que ele comanda.
+
+464
+00:35:45,900 --> 00:35:47,527
+Eu acabei com eles.
+
+465
+00:35:47,944 --> 00:35:49,571
+Algum dia, farei o mesmo com você.
+
+466
+00:35:50,822 --> 00:35:52,949
+Quer queira admitir ou não,
+precisa da minha ajuda.
+
+467
+00:35:53,866 --> 00:35:55,452
+Não pode impedir esses caras sozinho.
+
+468
+00:35:56,828 --> 00:35:58,705
+O quão longe está disposto a ir,
+Capitão Johnson?
+
+469
+00:35:59,872 --> 00:36:01,833
+Está disposto a destruir sua vida
+para salvar a minha?
+
+470
+00:36:02,500 --> 00:36:05,837
+Vai se entregar?
+Ir preso por matar a mãe do Donny?
+
+471
+00:36:09,716 --> 00:36:10,883
+Achei que não.
+
+472
+00:36:11,718 --> 00:36:14,096
+Não está tentando me ajudar,
+está tentando se ajudar.
+
+473
+00:36:14,179 --> 00:36:15,847
+Neste momento, não faz diferença.
+
+474
+00:36:15,930 --> 00:36:18,141
+Só porque você percebeu que é descartável,
+
+475
+00:36:18,225 --> 00:36:19,559
+não faz de nós parceiros.
+
+476
+00:36:22,854 --> 00:36:24,397
+Não significa que não precisamos ser.
+
+477
+00:36:59,099 --> 00:37:01,726
+Não se preocupe. Posso abafar aqui.
+
+478
+00:37:01,809 --> 00:37:04,104
+Só queria que soubesse da situação.
+
+479
+00:37:04,562 --> 00:37:05,563
+Vou cuidar disso.
+
+480
+00:37:06,564 --> 00:37:07,565
+Obrigada por cuidar disso.
+
+481
+00:37:25,167 --> 00:37:27,544
+-Que diabos você está fazendo?
+-Cale a boca!
+
+482
+00:37:27,627 --> 00:37:29,045
+Você foi até o FBI?
+
+483
+00:37:29,129 --> 00:37:30,922
+Quero dizer, quão idiota você pode ser?
+
+484
+00:37:32,215 --> 00:37:34,426
+Você não gosta de mim, Jim, tudo bem.
+
+485
+00:37:35,177 --> 00:37:36,678
+Não gosta do Bob Lee, tudo bem.
+
+486
+00:37:36,761 --> 00:37:40,307
+Mas se ameaçar a minha filha de novo,
+
+487
+00:37:40,390 --> 00:37:43,226
+Deus me ajude, vou te enterrar
+no seu próprio quintal,
+
+488
+00:37:43,310 --> 00:37:46,688
+e nunca pensarei em você de novo.
+Você me entende?
+
+489
+00:37:46,771 --> 00:37:49,065
+Sim, eu entendo. Jesus.
+
+490
+00:37:49,149 --> 00:37:50,608
+Jesus não pode te ajudar.
+
+491
+00:37:51,734 --> 00:37:54,112
+Você vai sair da cidade agora,
+numa viagem de negócios.
+
+492
+00:37:54,237 --> 00:37:55,238
+Viagem de negócios?
+
+493
+00:37:55,322 --> 00:37:56,823
+Não vai voltar até tudo isso acabar.
+
+494
+00:37:57,532 --> 00:37:59,992
+Fui clara?
+
+495
+00:38:00,243 --> 00:38:01,244
+E quanto à Anne?
+
+496
+00:38:02,579 --> 00:38:05,665
+Se minha irmã soubesse o que você fez,
+ela me ajudaria a cavar o buraco.
+
+497
+00:38:14,132 --> 00:38:15,633
+-Você está limpo?
+<i>-Limpo?</i>
+
+498
+00:38:15,717 --> 00:38:18,886
+Graças a você, tenho que fazer as malas e
+arrastar minha esposa para o Afeganistão.
+
+499
+00:38:19,721 --> 00:38:22,098
+-Você me ferrou, cara.
+<i>-Sinto muito, Justin.</i>
+
+500
+00:38:22,182 --> 00:38:24,976
+Estou fazendo o melhor que posso.
+É só coisa de um ano.
+
+501
+00:38:25,059 --> 00:38:27,229
+Vai por mim, a alternativa era pior.
+
+502
+00:38:27,312 --> 00:38:30,732
+Faça-me um favor e perca meu contato.
+Não sei o que aconteceu com você,
+
+503
+00:38:30,815 --> 00:38:32,317
+<i>mas não quero mais te conhecer.</i>
+
+504
+00:38:49,917 --> 00:38:53,963
+<i>Quando você for ao mercado amanhã,</i>
+<i>não se esqueça de pegar mirtilos.</i>
+
+505
+00:38:55,757 --> 00:38:56,799
+Não me esquecerei.
+
+506
+00:39:21,408 --> 00:39:23,034
+Karlyna Ordenko está morta.
+
+507
+00:39:23,117 --> 00:39:26,162
+Creio que um homem chamado Grigory Krukov
+deu a ordem de matá-la.
+
+508
+00:39:26,246 --> 00:39:28,164
+Ele é um membro da elite da FSB.
+
+509
+00:39:28,665 --> 00:39:32,419
+<i>A cobertura diplomática dele é que é um</i>
+<i>delegado sênior do Ministério do Comércio,</i>
+
+510
+00:39:32,502 --> 00:39:34,421
+<i>que está diretamente conectado</i>
+<i>à Anhur Dynamics.</i>
+
+511
+00:39:34,504 --> 00:39:35,505
+<i>Fiz umas pesquisas,</i>
+
+512
+00:39:35,588 --> 00:39:39,217
+<i>e parece que nosso bom e velho amigo</i>
+<i>Jack Payne trabalhou na Anhur.</i>
+
+513
+00:39:39,301 --> 00:39:41,761
+Todas as estradas levam a Anhur Dynamics.
+
+514
+00:39:47,475 --> 00:39:50,019
+Preciso de você aqui.
+É hora de acabar com isso.
+
+515
+00:39:50,520 --> 00:39:52,397
+<i>Por favor, não posso fazer isso sem você.</i>
+
+516
+00:39:53,690 --> 00:39:54,691
+Entre.
+
+517
+00:40:00,029 --> 00:40:01,573
+-O que foi?
+-Preciso de um favor.
+
+518
+00:40:06,286 --> 00:40:07,370
+Preciso que me suspenda.
+
+519
+00:40:08,580 --> 00:40:10,832
+Suspender você?
+De que diabos está falando?
+
+520
+00:40:10,915 --> 00:40:12,417
+Preciso que confie em mim nessa.
+
+521
+00:40:33,896 --> 00:40:36,691
+<i>Boa tarde, Anhur Dynamics.</i>
+<i>Como posso redirecionar sua chamada?</i>
+
+522
+00:40:36,774 --> 00:40:40,236
+Quero falar com Lon Scott.
+Diga a ele que é Bob Lee Swagger.
+
+523
+00:40:40,737 --> 00:40:45,450
+ESQUECEU ISSO EM SEATTLE
+
+524
+00:40:47,243 --> 00:40:48,328
+Sim?
+
+525
+00:40:48,411 --> 00:40:52,081
+Quando arma uma isca,
+é importante que tire seu cheiro dela.
+
+526
+00:40:53,165 --> 00:40:55,585
+Do contrário, até um animal faminto
+saberá que é uma armadilha.
+
+527
+00:40:57,587 --> 00:40:59,964
+E o que o animal faminto fará?
+
+528
+00:41:01,090 --> 00:41:02,509
+<i>Você está prestes a descobrir.</i>
+
