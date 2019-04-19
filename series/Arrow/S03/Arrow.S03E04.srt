@@ -1,0 +1,3094 @@
+﻿1
+00:00:01,577 --> 00:00:04,141
+<i>Meu nome é Oliver Queen.</i>
+
+2
+00:00:04,142 --> 00:00:06,148
+<i>Depois de cinco anos
+no inferno,</i>
+
+3
+00:00:06,149 --> 00:00:08,757
+<i>voltei para casa
+com um único objetivo...</i>
+
+4
+00:00:08,758 --> 00:00:10,569
+<i>Salvar a minha cidade.</i>
+
+5
+00:00:10,570 --> 00:00:12,902
+<i>Agora outros se juntaram
+à minha cruzada.</i>
+
+6
+00:00:12,903 --> 00:00:15,208
+<i>Para eles, sou Oliver Queen.</i>
+
+7
+00:00:15,209 --> 00:00:17,068
+<i>Mas para o resto
+de Starling,</i>
+
+8
+00:00:17,069 --> 00:00:21,740
+<i>sou outra pessoa.
+Sou algo diferente.</i>
+
+9
+00:00:21,741 --> 00:00:23,704
+<i>Anteriormente...</i>
+
+10
+00:00:24,414 --> 00:00:26,916
+Quem quer que tenha feito isso,
+vou encontrá-lo.
+
+11
+00:00:26,917 --> 00:00:28,274
+Há algo sobre o Malcolm
+
+12
+00:00:28,275 --> 00:00:30,910
+que você e o Oliver
+precisam saber.
+
+13
+00:00:30,911 --> 00:00:32,267
+Malcolm é...
+
+14
+00:00:35,859 --> 00:00:38,204
+Não quero ferir alguém
+ou me ferir,
+
+15
+00:00:38,205 --> 00:00:40,751
+e acho que você pode
+me ensinar como.
+
+16
+00:00:40,752 --> 00:00:42,804
+Você é minha família.
+Preciso de você.
+
+17
+00:00:45,540 --> 00:00:46,863
+Parece que vai para casa.
+
+18
+00:00:46,864 --> 00:00:48,974
+Thea parece diferente
+para você?
+
+19
+00:00:51,136 --> 00:00:52,452
+Cadê ela?
+
+20
+00:00:53,279 --> 00:00:55,224
+Cadê a Sara?
+
+21
+00:00:56,540 --> 00:00:58,693
+Ela veio aqui pela Liga
+há duas semanas.
+
+22
+00:00:59,304 --> 00:01:01,174
+Não ouvimos
+dela desde então.
+
+23
+00:01:03,973 --> 00:01:05,645
+Tem algo
+que preciso te contar.
+
+24
+00:01:10,440 --> 00:01:11,969
+Sara está morta?
+
+25
+00:01:20,973 --> 00:01:22,378
+Sinto muito.
+
+26
+00:01:23,791 --> 00:01:25,676
+Foi uma flechada,
+não foi?
+
+27
+00:01:25,677 --> 00:01:27,021
+Como sabe disso?
+
+28
+00:01:29,044 --> 00:01:30,396
+Onde está o corpo?
+
+29
+00:01:30,780 --> 00:01:32,235
+- Nyssa...
+- Onde?
+
+30
+00:01:33,294 --> 00:01:35,716
+Nós a enterramos
+no túmulo de 7 anos atrás.
+
+31
+00:01:46,926 --> 00:01:48,512
+Ela sabe algo.
+
+32
+00:01:48,513 --> 00:01:51,084
+Quero que siga-a,
+mas tenha cuidado.
+
+33
+00:01:52,013 --> 00:01:53,369
+Tenho que encontrar a Thea.
+
+34
+00:02:00,178 --> 00:02:01,530
+Oi.
+
+35
+00:02:02,396 --> 00:02:03,748
+Desculpe o atraso.
+
+36
+00:02:03,749 --> 00:02:05,548
+Tarde é o seu "pontual",
+Ollie.
+
+37
+00:02:05,549 --> 00:02:08,322
+Lá se vai minha promessa
+das coisas serem diferentes.
+
+38
+00:02:08,323 --> 00:02:11,139
+- Relaxe, está tudo bem.
+- Jantar por minha conta.
+
+39
+00:02:11,140 --> 00:02:13,630
+Com qual dinheiro?
+Você não está falido?
+
+40
+00:02:16,281 --> 00:02:19,273
+- Você não está?
+- Não muito, na verdade.
+
+41
+00:02:20,342 --> 00:02:21,854
+Quando decidi voltar,
+
+42
+00:02:21,855 --> 00:02:24,107
+não tinha ideia
+do que eu queria fazer
+
+43
+00:02:24,108 --> 00:02:26,178
+e percebi
+que senti falta da boate.
+
+44
+00:02:26,179 --> 00:02:29,351
+E descobri
+que muitas pessoas sentem.
+
+45
+00:02:30,191 --> 00:02:31,803
+Tenho investidores.
+
+46
+00:02:31,804 --> 00:02:34,127
+Eles vão me ajudar
+a comprar de volta a Foundry
+
+47
+00:02:34,128 --> 00:02:35,451
+da Consolidações Queen.
+
+48
+00:02:35,452 --> 00:02:38,044
+Estou muito feliz por você.
+Isso é fantástico.
+
+49
+00:02:39,362 --> 00:02:41,056
+Você parece diferente.
+
+50
+00:02:42,209 --> 00:02:45,036
+- Mais forte.
+- Depois do ano passado, eu...
+
+51
+00:02:46,078 --> 00:02:48,186
+Eu não vi outra maneira
+de superar.
+
+52
+00:02:48,187 --> 00:02:49,591
+E é isso?
+
+53
+00:02:50,294 --> 00:02:53,871
+Você não está...
+Vendo alguém, ou...
+
+54
+00:02:54,261 --> 00:02:56,916
+Espero que o Roy não tenha
+pedido para perguntar isso.
+
+55
+00:02:56,917 --> 00:03:00,224
+Não. Só estou tentando entender
+porque você está tão diferente.
+
+56
+00:03:00,553 --> 00:03:03,621
+Que tal apenas ser
+o meu irmão mais velho?
+
+57
+00:03:04,365 --> 00:03:05,766
+Certo.
+
+58
+00:03:14,302 --> 00:03:17,124
+O alvo está se movendo.
+Indo na direção norte.
+
+59
+00:03:19,778 --> 00:03:22,115
+- Ele parou.
+- O que ele está fazendo?
+
+60
+00:03:24,645 --> 00:03:26,177
+Comprando sorvete.
+
+61
+00:03:27,686 --> 00:03:29,749
+Ele não parece
+um terrorista.
+
+62
+00:03:29,750 --> 00:03:31,870
+Os melhores nunca parecem.
+
+63
+00:03:31,871 --> 00:03:33,922
+Por que Waller quer
+que eu mate esse cara?
+
+64
+00:03:33,923 --> 00:03:35,226
+Você faz muitas perguntas.
+
+65
+00:03:35,227 --> 00:03:37,046
+Siga as ordens
+e elimine o alvo.
+
+66
+00:03:37,047 --> 00:03:38,671
+Ou ele é
+seu melhor amigo também?
+
+67
+00:03:38,672 --> 00:03:41,126
+Eu sou apenas uma arma
+que ela pode apontar
+
+68
+00:03:41,127 --> 00:03:42,433
+para quem não gosta?
+
+69
+00:03:42,434 --> 00:03:44,458
+Exatamente o que você é.
+
+70
+00:03:49,571 --> 00:03:52,347
+- Ele está se movendo.
+- Melhor não perder tempo.
+
+71
+00:04:06,295 --> 00:04:07,601
+Nyssa.
+
+72
+00:04:34,485 --> 00:04:36,258
+Você tem
+as minhas condolências.
+
+73
+00:04:36,951 --> 00:04:38,772
+E as do meu pai,
+Ra's al Ghul.
+
+74
+00:04:38,773 --> 00:04:41,147
+Não quero
+as suas condolências.
+
+75
+00:04:42,006 --> 00:04:44,825
+E, definitivamente,
+não quero as do seu pai.
+
+76
+00:04:48,373 --> 00:04:50,471
+Ela morreu
+com flechas no peito.
+
+77
+00:04:51,332 --> 00:04:53,832
+Acha que isso aconteceria
+se ela não te conhecesse?
+
+78
+00:04:55,211 --> 00:04:58,109
+Foi você quem a levou
+para a escuridão.
+
+79
+00:04:58,110 --> 00:05:00,659
+Você, e o seu pai.
+
+80
+00:05:00,660 --> 00:05:02,404
+Sei que está de luto.
+
+81
+00:05:03,110 --> 00:05:04,754
+Mas eu também estou.
+
+82
+00:05:06,097 --> 00:05:08,947
+Não mostrei a escuridão
+para a Sara, Laurel.
+
+83
+00:05:09,411 --> 00:05:12,010
+Ela já a tinha
+quando nos conhecemos.
+
+84
+00:05:13,010 --> 00:05:15,636
+Quando a encontrei,
+sozinha,
+
+85
+00:05:16,162 --> 00:05:19,281
+faminta e aterrorizada,
+eu a protegi.
+
+86
+00:05:20,837 --> 00:05:22,651
+Coloquei a Sara
+em meu coração
+
+87
+00:05:22,652 --> 00:05:24,691
+e a amei
+com toda a minha alma.
+
+88
+00:05:27,881 --> 00:05:29,588
+E a jaqueta...
+
+89
+00:05:30,941 --> 00:05:32,962
+Dei como presente
+para a Sara.
+
+90
+00:05:34,962 --> 00:05:36,920
+Você não está apta
+para usá-la.
+
+91
+00:05:41,073 --> 00:05:42,619
+Ela está se movendo.
+
+92
+00:05:42,620 --> 00:05:44,642
+- Onde?
+- Foi visitar o túmulo da Sara.
+
+93
+00:05:44,643 --> 00:05:47,436
+Agora, está no andar de cima
+de um despejo na Amsterdam.
+
+94
+00:05:47,437 --> 00:05:48,982
+Pode ser
+onde ela está ficando.
+
+95
+00:05:48,983 --> 00:05:50,652
+Esconderijo da Liga
+ou algo assim.
+
+96
+00:05:50,653 --> 00:05:51,971
+Mande-me o endereço.
+
+97
+00:06:20,421 --> 00:06:22,237
+Está pronta para falar?
+
+98
+00:06:24,363 --> 00:06:26,445
+Não há nada para conversar.
+
+99
+00:06:27,762 --> 00:06:30,474
+As buscas
+pelo assassino de Sara pararam.
+
+100
+00:06:31,908 --> 00:06:34,796
+- E preciso da sua ajuda.
+- Mas não preciso da sua.
+
+101
+00:06:34,797 --> 00:06:36,097
+Sério?
+
+102
+00:06:36,648 --> 00:06:39,740
+Reunimos provas
+e estamos conduzindo.
+
+103
+00:06:39,741 --> 00:06:41,041
+Está visitando cemitérios
+
+104
+00:06:41,042 --> 00:06:43,027
+e escondendo-se
+em esconderijos da Liga.
+
+105
+00:06:43,028 --> 00:06:44,732
+Não estou me escondendo.
+
+106
+00:06:46,262 --> 00:06:47,865
+E aqui
+não é meu esconderijo.
+
+107
+00:06:47,866 --> 00:06:50,315
+Era o da Sara
+quando estava em Starling.
+
+108
+00:07:04,515 --> 00:07:06,134
+Era o favorito dela.
+
+109
+00:07:13,083 --> 00:07:14,383
+Certo.
+
+110
+00:07:17,260 --> 00:07:19,936
+Você disse
+que ela estava aqui pela Liga.
+
+111
+00:07:20,248 --> 00:07:22,740
+Isso sugere que o alvo dela
+é também o assassino.
+
+112
+00:07:22,741 --> 00:07:24,367
+Concordo.
+
+113
+00:07:24,368 --> 00:07:26,460
+Exceto se ele não fosse
+o alvo dela.
+
+114
+00:07:26,461 --> 00:07:28,891
+Sara veio a Starling
+para confirmar rumores...
+
+115
+00:07:28,892 --> 00:07:31,118
+Sussurros
+sobre um inimigo da Liga.
+
+116
+00:07:31,119 --> 00:07:33,619
+- Quem?
+- Malcolm Merlyn.
+
+117
+00:07:35,441 --> 00:07:36,797
+Ele está vivo.
+
+118
+00:07:48,547 --> 00:07:51,000
+Merlyn era membro
+da Liga de Assassinos.
+
+119
+00:07:51,001 --> 00:07:53,438
+Meu pais o liberou
+de suas obrigações conosco
+
+120
+00:07:53,439 --> 00:07:56,358
+achando que ele respeitaria
+seu código de conduta.
+
+121
+00:07:57,536 --> 00:07:59,561
+Vocês são
+assassinos profissionais.
+
+122
+00:07:59,562 --> 00:08:01,739
+Esse é um nível muito baixo.
+
+123
+00:08:01,740 --> 00:08:05,261
+Os empreendimento do Merlyn
+violaram os princípios da Liga.
+
+124
+00:08:05,746 --> 00:08:08,416
+Quando o matou, consideramos
+o assunto como resolvido.
+
+125
+00:08:08,417 --> 00:08:12,237
+Mas soubemos de uma fonte segura
+que ele fingiu a morte dele.
+
+126
+00:08:12,238 --> 00:08:14,612
+- Qual foi a fonte?
+- A mãe do Oliver.
+
+127
+00:08:14,613 --> 00:08:18,162
+Ela não é conhecida
+por sua honestidade.
+
+128
+00:08:18,522 --> 00:08:19,822
+Sem ofensas.
+
+129
+00:08:19,823 --> 00:08:23,032
+Só não creio que ele morreu
+e, de repente, está vivo.
+
+130
+00:08:23,033 --> 00:08:24,561
+Também não creio.
+
+131
+00:08:25,418 --> 00:08:27,095
+Então encontramos isso.
+
+132
+00:08:29,363 --> 00:08:31,669
+Sara tirou há 2 semanas.
+
+133
+00:08:35,015 --> 00:08:37,337
+A polícia
+não encontrou o corpo?
+
+134
+00:08:37,338 --> 00:08:39,488
+Merlyn tem recursos
+em toda Starling.
+
+135
+00:08:39,489 --> 00:08:42,156
+Aposto
+que tinha um no necrotério.
+
+136
+00:08:42,157 --> 00:08:44,367
+Desde que souberam
+que o Merlyn está vivo,
+
+137
+00:08:44,368 --> 00:08:47,209
+a Liga está a procura dele
+por todo o mundo.
+
+138
+00:08:47,210 --> 00:08:50,616
+Seguindo cada rumor,
+cada sussurro.
+
+139
+00:08:50,617 --> 00:08:53,125
+E um desses sussurros
+era sobre ele estar de volta.
+
+140
+00:08:53,126 --> 00:08:54,851
+Ela o seguiu até aqui.
+
+141
+00:08:54,852 --> 00:08:56,418
+Refaremos os passos dela.
+
+142
+00:08:56,419 --> 00:08:58,175
+Disse que achou
+provas sobre ela.
+
+143
+00:08:58,176 --> 00:08:59,608
+Sim.
+Roy?
+
+144
+00:08:59,609 --> 00:09:01,818
+Achamos um papel em branco
+na bota de Sara,
+
+145
+00:09:01,819 --> 00:09:04,352
+mas por que ela teria
+um pedaço de papel em branco?
+
+146
+00:09:05,187 --> 00:09:06,487
+Tem fogo?
+
+147
+00:09:13,895 --> 00:09:15,361
+Inacreditável.
+
+148
+00:09:16,002 --> 00:09:18,992
+Meu pai tinha um caderno
+com a escrita oculta assim.
+
+149
+00:09:18,993 --> 00:09:21,369
+Ele recebeu do Merlyn,
+imagino.
+
+150
+00:09:22,239 --> 00:09:23,596
+Isso é tinta fantasma.
+
+151
+00:09:23,597 --> 00:09:25,990
+Uma forma da Liga
+esconder segredos.
+
+152
+00:09:25,991 --> 00:09:27,553
+É letra da Sara.
+
+153
+00:09:27,554 --> 00:09:29,811
+Notas
+sobre sua caçada ao Merlyn.
+
+154
+00:09:29,812 --> 00:09:32,495
+- Oliver, não há muito aqui.
+- Só algumas coisas.
+
+155
+00:09:32,496 --> 00:09:34,667
+Jansen,
+ponto de interrogação.
+
+156
+00:09:38,324 --> 00:09:40,985
+Papai ajudará,
+ponto de interrogação.
+
+157
+00:09:41,721 --> 00:09:43,421
+Sara entrou em contato
+com o Lance.
+
+158
+00:09:43,422 --> 00:09:45,595
+Se soubesse algo,
+não acha que ele contaria?
+
+159
+00:09:45,596 --> 00:09:47,022
+Só se ela contou a ele.
+
+160
+00:09:48,467 --> 00:09:50,768
+O que importa
+é o que ele disse a ela.
+
+161
+00:09:50,769 --> 00:09:52,591
+E como descobriremos?
+
+162
+00:09:54,586 --> 00:09:56,042
+Cavalheiros, um conselho.
+
+163
+00:09:56,043 --> 00:09:57,949
+Quando prenderem
+um agente de apostas,
+
+164
+00:09:57,950 --> 00:09:59,966
+chequem se o chefe
+não é um cliente dele.
+
+165
+00:09:59,967 --> 00:10:02,687
+Isso foi o que ele mandou dizer.
+Mas o que me preocupa,
+
+166
+00:10:02,688 --> 00:10:04,831
+continuem fazendo
+o trabalho de vocês.
+
+167
+00:10:04,832 --> 00:10:07,592
+Pago a primeira rodada hoje.
+Agora, caiam fora.
+
+168
+00:10:08,070 --> 00:10:10,382
+- Pagando rodadas?
+- Comprando amor.
+
+169
+00:10:10,383 --> 00:10:13,199
+Para ganhar um policial,
+o fígado é o caminho mais curto.
+
+170
+00:10:13,200 --> 00:10:14,637
+Como se sente?
+
+171
+00:10:14,638 --> 00:10:17,011
+Bem.
+Tem um minuto?
+
+172
+00:10:17,012 --> 00:10:18,313
+Tenho sim.
+
+173
+00:10:18,314 --> 00:10:21,340
+Tenho que falar com você.
+É sobre a Sara.
+
+174
+00:10:22,287 --> 00:10:23,587
+Ela...
+
+175
+00:10:24,898 --> 00:10:26,279
+Ela me ligou.
+
+176
+00:10:26,280 --> 00:10:28,618
+Disse
+que estava investigando algo.
+
+177
+00:10:28,619 --> 00:10:30,930
+Algo chamado Jansen?
+
+178
+00:10:36,613 --> 00:10:40,454
+Sim.
+Ken Zhi Jansen.
+
+179
+00:10:40,455 --> 00:10:42,707
+Repassei o último endereço
+conhecido dele.
+
+180
+00:10:43,530 --> 00:10:45,088
+Sara estava aqui.
+
+181
+00:10:45,408 --> 00:10:47,363
+Ela me pediu
+para não falar nada a você.
+
+182
+00:10:47,364 --> 00:10:50,527
+Deveria ter dito.
+Sinto muito.
+
+183
+00:10:50,528 --> 00:10:52,678
+Tudo bem.
+Ela estava...
+
+184
+00:10:53,293 --> 00:10:55,379
+Ela está
+em um trabalho misterioso.
+
+185
+00:10:55,380 --> 00:10:58,954
+Sim.
+Espero que não se envolva.
+
+186
+00:10:58,955 --> 00:11:01,457
+Não. Só estou fazendo
+um favor à Sara.
+
+187
+00:11:04,066 --> 00:11:05,539
+E ela?
+
+188
+00:11:08,741 --> 00:11:10,041
+Volto já.
+
+189
+00:11:15,821 --> 00:11:17,248
+O que faz aqui?
+
+190
+00:11:17,790 --> 00:11:20,140
+Oliver contou sobre seus planos
+de envolver você
+
+191
+00:11:20,141 --> 00:11:21,641
+na caçada
+do assassino da Sara.
+
+192
+00:11:21,642 --> 00:11:23,313
+Estou cuidando disso.
+
+193
+00:11:23,314 --> 00:11:27,264
+- Seu pai não sabe disso?
+- Não, ele não sabe.
+
+194
+00:11:27,265 --> 00:11:29,016
+E nem pode.
+Tem problemas cardíacos.
+
+195
+00:11:29,017 --> 00:11:31,139
+Ele tem o direito
+de vingar a filha.
+
+196
+00:11:31,140 --> 00:11:32,522
+Isso não é da sua conta.
+
+197
+00:11:32,523 --> 00:11:35,897
+Sara era tudo para mim,
+então é da minha conta.
+
+198
+00:11:35,898 --> 00:11:38,129
+E o que ela diria
+se estivesse aqui agora?
+
+199
+00:11:38,130 --> 00:11:41,360
+Quase não te reconheci
+sem a fantasia de Halloween.
+
+200
+00:11:41,361 --> 00:11:43,387
+Sara voltou também?
+
+201
+00:11:43,926 --> 00:11:45,664
+Não, ela não voltou.
+
+202
+00:11:48,770 --> 00:11:52,341
+Mas pediu para lhe dizer
+que sente muito a sua falta.
+
+203
+00:11:55,112 --> 00:11:58,103
+O endereço do Jansen
+que dei à sua irmã.
+
+204
+00:11:58,104 --> 00:12:01,938
+Ela me prometeu que não teria
+nenhum tipo de assassinato.
+
+205
+00:12:01,939 --> 00:12:05,118
+- Ainda é o caso?
+- Garanto a você, sr. Lance,
+
+206
+00:12:05,119 --> 00:12:07,992
+o único objetivo aqui
+é a justiça.
+
+207
+00:12:18,095 --> 00:12:20,635
+Essa era a próxima pista
+que a Sara ia seguir?
+
+208
+00:12:20,636 --> 00:12:22,410
+Jansen é um monge budista.
+
+209
+00:12:22,411 --> 00:12:25,079
+Há 9 anos, ele enfrentava
+uma deportação para a China.
+
+210
+00:12:25,080 --> 00:12:26,816
+Merlyn pagou
+pela defesa dele.
+
+211
+00:12:26,817 --> 00:12:29,707
+E ele devolve o favor
+deixando-o ficar no jardim dele.
+
+212
+00:12:29,708 --> 00:12:31,036
+Monastério.
+
+213
+00:12:31,037 --> 00:12:33,552
+Devemos dividir nossas forças,
+posições opostas.
+
+214
+00:12:33,553 --> 00:12:34,886
+Concordo, mas não...
+
+215
+00:12:37,803 --> 00:12:40,251
+Nunca entendi
+o que a Sara viu nela.
+
+216
+00:12:40,252 --> 00:12:42,759
+Dividam-se,
+mas tomem cuidado.
+
+217
+00:12:42,760 --> 00:12:44,071
+Entendido.
+
+218
+00:13:50,776 --> 00:13:52,299
+<i>Oliver,
+encontramos o Jansen.</i>
+
+219
+00:13:53,693 --> 00:13:54,993
+Negativo.
+
+220
+00:13:56,113 --> 00:13:57,552
+Eu o vejo.
+
+221
+00:13:58,786 --> 00:14:01,839
+Quem quer que esteja aí,
+não é o Jansen.
+
+222
+00:14:06,241 --> 00:14:08,479
+Mestre Jansen, sou Nyssa,
+
+223
+00:14:08,480 --> 00:14:10,849
+filha de Ra's al Ghul,
+herdeira do demônio.
+
+224
+00:14:10,850 --> 00:14:12,828
+Irá me dizer
+onde Malcolm Merlyn está
+
+225
+00:14:12,829 --> 00:14:15,093
+ou irei te matar
+aqui mesmo.
+
+226
+00:14:21,806 --> 00:14:23,106
+Olá, Nyssa.
+
+227
+00:14:33,684 --> 00:14:34,984
+Onde ele está?
+
+228
+00:14:53,211 --> 00:14:56,333
+O que aconteceu?
+Acharam o assassino da Sara?
+
+229
+00:15:00,292 --> 00:15:01,996
+Temos um suspeito.
+
+230
+00:15:01,997 --> 00:15:03,508
+Malcolm Merlyn está vivo.
+
+231
+00:15:03,993 --> 00:15:06,475
+Sara estava aqui
+procurando por ele.
+
+232
+00:15:06,476 --> 00:15:08,305
+Achamos
+que ele a achou antes.
+
+233
+00:15:08,306 --> 00:15:11,163
+- E onde ele está agora?
+- Estamos tentando descobrir.
+
+234
+00:15:11,164 --> 00:15:13,644
+Ele escapou de nós hoje.
+
+235
+00:15:13,645 --> 00:15:17,533
+Mas o acertei com um flecha
+com nanotecnologia.
+
+236
+00:15:17,534 --> 00:15:21,427
+Felicity fez um programa
+que rastreia as partículas.
+
+237
+00:15:21,428 --> 00:15:23,425
+- A flecha rastreadora.
+- Essa mesmo.
+
+238
+00:15:23,960 --> 00:15:26,175
+Conseguiu acertá-lo
+mas não o matou?
+
+239
+00:15:26,176 --> 00:15:28,866
+- Eu o marquei.
+- Com um cortezinho.
+
+240
+00:15:29,500 --> 00:15:31,120
+Ele está marcado.
+
+241
+00:15:31,121 --> 00:15:33,871
+Não há onde ele ir nesse mundo
+que eu não possa achá-lo.
+
+242
+00:15:33,872 --> 00:15:35,172
+E quando achar?
+
+243
+00:15:36,470 --> 00:15:38,537
+Não sou mais um assassino,
+Laurel.
+
+244
+00:15:38,538 --> 00:15:39,838
+Merlyn é.
+
+245
+00:15:40,273 --> 00:15:43,810
+Ele matou o Tommy
+e mais 502 inocentes.
+
+246
+00:15:45,025 --> 00:15:47,473
+Quantos mais ele precisa matar
+até você o parar?
+
+247
+00:15:47,474 --> 00:15:49,586
+Acha que é isso
+que a sua irmã queria?
+
+248
+00:15:49,587 --> 00:15:51,527
+Sim, eu acho.
+
+249
+00:15:56,583 --> 00:15:57,949
+Deixe-me falar com ela.
+
+250
+00:16:03,659 --> 00:16:05,409
+Merlyn pode tentar falar
+com a Thea.
+
+251
+00:16:05,410 --> 00:16:06,716
+Deixe comigo.
+
+252
+00:16:10,083 --> 00:16:11,783
+O programa
+da flecha rastreadora...
+
+253
+00:16:12,181 --> 00:16:15,425
+Tem o monitoramento remoto
+de Central City da Felicity?
+
+254
+00:16:15,426 --> 00:16:17,776
+Não, ela disse que um idiota
+conseguiria usá-lo.
+
+255
+00:16:18,181 --> 00:16:21,146
+Vou tentar não me ofender.
+
+256
+00:16:22,181 --> 00:16:23,611
+Estarei nas ruas.
+
+257
+00:16:23,612 --> 00:16:25,183
+Fale comigo
+quando o encontrar.
+
+258
+00:16:25,184 --> 00:16:26,484
+Entendido.
+
+259
+00:16:52,441 --> 00:16:53,741
+Está feito.
+
+260
+00:16:56,328 --> 00:16:57,628
+Laurel.
+
+261
+00:16:57,629 --> 00:16:59,917
+Descobri que Merlyn
+não só está vivo,
+
+262
+00:16:59,918 --> 00:17:01,359
+como ele matou minha irmã.
+
+263
+00:17:01,360 --> 00:17:03,708
+Sei que entende
+por que não quero conversar.
+
+264
+00:17:04,075 --> 00:17:05,565
+Eu entendo.
+
+265
+00:17:06,579 --> 00:17:08,104
+Eu também a amava.
+
+266
+00:17:13,925 --> 00:17:15,306
+Sinto muito pela sua perda.
+
+267
+00:17:16,484 --> 00:17:17,917
+Eu prometi para a Sara.
+
+268
+00:17:18,946 --> 00:17:20,515
+E prometo para você.
+
+269
+00:17:21,095 --> 00:17:23,508
+Nós vamos encontrar
+Malcolm Merlyn.
+
+270
+00:17:24,526 --> 00:17:26,195
+Aparentemente,
+vocês já acharam.
+
+271
+00:17:27,212 --> 00:17:29,035
+E o Oliver devia
+tê-lo matado.
+
+272
+00:17:29,036 --> 00:17:30,341
+Devia.
+
+273
+00:17:34,539 --> 00:17:36,694
+Se o Oliver
+se encontrar com Merlyn,
+
+274
+00:17:37,550 --> 00:17:39,973
+ele vai deixá-lo viver
+ou fugir.
+
+275
+00:17:41,284 --> 00:17:43,123
+Você não pode
+deixar isso acontecer.
+
+276
+00:17:43,864 --> 00:17:46,797
+Você precisa achar o Merlyn.
+
+277
+00:17:47,549 --> 00:17:49,608
+Você precisa fazer
+o que for necessário.
+
+278
+00:18:01,605 --> 00:18:04,264
+A reabertura ainda
+é daqui a três semanas.
+
+279
+00:18:04,265 --> 00:18:06,757
+Parece que você ainda tem
+muito trabalho a fazer.
+
+280
+00:18:06,758 --> 00:18:09,623
+- Precisa de ajuda?
+- Obrigada, mas...
+
+281
+00:18:09,624 --> 00:18:11,175
+Não acho
+que seja uma boa ideia.
+
+282
+00:18:11,176 --> 00:18:12,782
+Só como amigos.
+
+283
+00:18:13,133 --> 00:18:14,890
+E como antigos
+colegas de trabalho.
+
+284
+00:18:18,974 --> 00:18:23,122
+Verde bonsai, nevoeiro outubro,
+ou abacate?
+
+285
+00:18:29,333 --> 00:18:31,365
+<i>Merlyn parou.
+Peguei a posição dele.</i>
+
+286
+00:18:31,366 --> 00:18:33,437
+- Prossiga.
+- Fábrica de ar-condicionado.
+
+287
+00:18:33,438 --> 00:18:35,116
+Entre as ruas 18 e Nelson.
+
+288
+00:18:35,716 --> 00:18:37,060
+Falo com a Nyssa?
+
+289
+00:18:37,061 --> 00:18:40,432
+Não. Ela pode matá-lo
+antes de eu obter respostas.
+
+290
+00:18:40,433 --> 00:18:41,738
+Concordo.
+
+291
+00:18:51,738 --> 00:18:54,534
+O lugar está vazio.
+Ele não está aqui, Diggle.
+
+292
+00:18:54,535 --> 00:18:56,875
+<i>Olá, Oliver.
+Está absolutamente correto.</i>
+
+293
+00:18:56,876 --> 00:18:58,176
+Não estou na...
+
+294
+00:18:58,177 --> 00:19:00,169
+O que é,
+uma fábrica de ar-condicionado?
+
+295
+00:19:00,170 --> 00:19:02,744
+É um belo truque seu,
+mas lamento que não funcionou.
+
+296
+00:19:02,745 --> 00:19:04,134
+Quando eu te achar...
+
+297
+00:19:04,135 --> 00:19:07,040
+<i>Com certeza vai achar.
+Precisamos conversar.</i>
+
+298
+00:19:07,487 --> 00:19:10,163
+Mas prefiro um local
+menos favorável a conflitos.
+
+299
+00:19:10,537 --> 00:19:12,680
+Nelson Plaza
+na rua Coldwater com a Quinta,
+
+300
+00:19:12,681 --> 00:19:15,612
+embaixo das escadas.
+É um lugar bastante público,
+
+301
+00:19:15,613 --> 00:19:17,475
+e vai querer ir
+sem a sua máscara.
+
+302
+00:19:18,192 --> 00:19:19,778
+<i>Isso deve permanecer
+entre nós.</i>
+
+303
+00:19:19,779 --> 00:19:24,637
+Se eu ver um dos seus sócios,
+prometo que não vai me ver.
+
+304
+00:19:46,123 --> 00:19:48,905
+Olá, Oliver!
+Como está?
+
+305
+00:19:50,131 --> 00:19:53,240
+Você conquistou muito
+com esta cidade, eu vejo.
+
+306
+00:19:53,241 --> 00:19:55,123
+Não estou aqui
+para discutir Starling.
+
+307
+00:19:55,124 --> 00:19:58,068
+- Acha que matei Sara Lance.
+- Como saberia que está morta?
+
+308
+00:19:58,714 --> 00:20:02,466
+Estas ruas eram minhas
+antes de você reivindicá-las.
+
+309
+00:20:02,467 --> 00:20:04,048
+Esta ainda é a minha cidade.
+
+310
+00:20:04,877 --> 00:20:08,143
+Escolhi aqui porque multidão
+garante minha invisibilidade.
+
+311
+00:20:08,144 --> 00:20:11,315
+Além disso,
+soube que você não mata mais.
+
+312
+00:20:11,316 --> 00:20:13,565
+Estou considerando
+uma exceção.
+
+313
+00:20:13,566 --> 00:20:16,048
+Ra's al Ghul pôs uma recompensa
+pela minha cabeça.
+
+314
+00:20:16,977 --> 00:20:20,322
+O que eu ganharia por matar
+o amor da vida da filha dele?
+
+315
+00:20:20,323 --> 00:20:22,896
+- É ilógico!
+- Sara volta para Starling.
+
+316
+00:20:23,716 --> 00:20:26,870
+Você volta para Starling.
+Sara é assassinada.
+
+317
+00:20:26,871 --> 00:20:31,726
+Eu voltei pelo mais simples
+e nobre motivo, pela Thea.
+
+318
+00:20:31,727 --> 00:20:34,306
+Há seis meses, durante o cerco,
+ela quase foi morta
+
+319
+00:20:34,307 --> 00:20:38,045
+por um dos soldados
+Mirakuru do Slade Wilson.
+
+320
+00:20:38,046 --> 00:20:39,346
+Eu a protegi!
+
+321
+00:20:39,347 --> 00:20:40,735
+Você está mentindo.
+
+322
+00:20:41,087 --> 00:20:43,112
+Thea foi embora
+antes dos ataques.
+
+323
+00:20:43,113 --> 00:20:44,788
+Infelizmente, não foi.
+
+324
+00:20:44,789 --> 00:20:47,572
+Mas você não saberia disso,
+porque estava sendo...
+
+325
+00:20:47,573 --> 00:20:51,134
+Do que se chama hoje?
+"O Arqueiro."
+
+326
+00:20:51,135 --> 00:20:54,626
+Naquela noite, eu percebi
+que a Thea precisa de mim!
+
+327
+00:20:54,627 --> 00:20:56,265
+Fique longe dela.
+
+328
+00:20:56,266 --> 00:20:59,767
+Não se preocupe,
+mantive minha distância.
+
+329
+00:21:02,703 --> 00:21:05,938
+Mas o mundo
+é um lugar perigoso,
+
+330
+00:21:06,270 --> 00:21:08,456
+e você está muito distraído
+para protegê-la.
+
+331
+00:21:08,457 --> 00:21:11,006
+- Você é um assassino.
+- Sim, eu sou.
+
+332
+00:21:11,007 --> 00:21:14,876
+Mas juro pela vida
+da Thea,
+
+333
+00:21:17,079 --> 00:21:20,001
+eu não sou o assassino
+da Sara Lance.
+
+334
+00:21:37,867 --> 00:21:40,778
+Pelo seu olhar, precisa de algo
+mais forte do que café.
+
+335
+00:21:40,779 --> 00:21:43,503
+- Você está bem?
+- Estou, e você?
+
+336
+00:21:44,570 --> 00:21:46,336
+Lá em Corto Maltese,
+eu te prometi
+
+337
+00:21:46,337 --> 00:21:48,125
+que não haveria
+mais segredos.
+
+338
+00:21:48,816 --> 00:21:52,387
+Sem mentiras.
+E estou tentando honrar isso.
+
+339
+00:21:53,056 --> 00:21:54,436
+Certo...
+
+340
+00:21:57,111 --> 00:21:59,998
+Descobri algo ontem à noite
+que será difícil de ouvir.
+
+341
+00:22:01,304 --> 00:22:05,206
+Acho que é o que a mãe
+estava tentando nos contar
+
+342
+00:22:05,207 --> 00:22:07,407
+na noite em que ela morreu,
+logo antes que...
+
+343
+00:22:10,511 --> 00:22:14,113
+Na noite do cerco,
+você estava na estação.
+
+344
+00:22:14,114 --> 00:22:17,431
+Sim, eu...
+Não foi legal,
+
+345
+00:22:17,432 --> 00:22:21,531
+eu fui atacada por um
+daqueles loucos mascarados,
+
+346
+00:22:21,532 --> 00:22:23,130
+e ele tentou me sufocar.
+
+347
+00:22:24,598 --> 00:22:28,262
+Mas ele levou um tiro
+de um policial, eu acho.
+
+348
+00:22:28,263 --> 00:22:29,692
+Você o viu?
+
+349
+00:22:30,764 --> 00:22:32,064
+Não.
+
+350
+00:22:33,815 --> 00:22:35,409
+Por que está perguntando?
+
+351
+00:22:35,936 --> 00:22:37,781
+Não foi um policial, Thea.
+
+352
+00:22:40,018 --> 00:22:41,597
+Foi Malcolm Merlyn.
+
+353
+00:22:46,204 --> 00:22:47,504
+Ele está morto.
+
+354
+00:22:49,487 --> 00:22:52,629
+- Como sabe disso?
+- Um amigo da Sara o viu.
+
+355
+00:22:53,943 --> 00:22:55,243
+Ela tem certeza.
+
+356
+00:22:57,358 --> 00:23:00,163
+Se ele estivesse tentando
+te contatar, já o teria feito.
+
+357
+00:23:00,164 --> 00:23:01,464
+Tudo bem?
+
+358
+00:23:01,465 --> 00:23:04,279
+Obrigada por me contar.
+
+359
+00:23:06,823 --> 00:23:10,198
+É um dos meu investidores,
+Eu...
+
+360
+00:23:12,631 --> 00:23:14,051
+Você está bem?
+
+361
+00:23:16,104 --> 00:23:18,621
+Sim.
+Estou bem...
+
+362
+00:23:19,560 --> 00:23:22,064
+É como você disse.
+Se ele quisesse me contatar,
+
+363
+00:23:22,065 --> 00:23:23,935
+provavelmente
+já o teria feito.
+
+364
+00:23:35,815 --> 00:23:37,245
+Onde está o Oliver?
+
+365
+00:23:37,246 --> 00:23:39,214
+Fora, cuidando
+de um negócio de família.
+
+366
+00:23:39,215 --> 00:23:41,109
+Como se não tivesse
+nada mais urgente.
+
+367
+00:23:41,110 --> 00:23:43,806
+Ele não está fazendo nada.
+Rastreou Merlyn ontem.
+
+368
+00:23:44,215 --> 00:23:46,939
+- Ele o matou?
+- Não.
+
+369
+00:23:48,157 --> 00:23:49,865
+Ele me jurou
+que não matou Sara.
+
+370
+00:23:49,866 --> 00:23:51,820
+E você sabe que ele mente.
+
+371
+00:23:51,821 --> 00:23:53,122
+Eu acredito nele.
+
+372
+00:23:53,123 --> 00:23:56,072
+Porque me jurou
+pela vida da filha.
+
+373
+00:24:01,652 --> 00:24:04,639
+Ouvimos rumores que Merlyn
+teve outro filho.
+
+374
+00:24:05,329 --> 00:24:06,932
+Mas não conseguimos
+confirmar.
+
+375
+00:24:10,374 --> 00:24:12,357
+- Você sabe quem ele é.
+- Eu sei.
+
+376
+00:24:12,832 --> 00:24:16,309
+Se eu for obrigada
+a descobrir sozinha,
+
+377
+00:24:18,204 --> 00:24:21,636
+talvez eu exija um preço
+de quem está protegendo.
+
+378
+00:24:21,637 --> 00:24:22,987
+É a Thea.
+
+379
+00:24:23,605 --> 00:24:26,292
+Minha irmã
+é filha do Merlyn.
+
+380
+00:24:29,395 --> 00:24:33,373
+Foi por isso que ele voltou
+para Starling.
+
+381
+00:24:33,374 --> 00:24:36,273
+Porque ela voltou.
+Ele está protegendo-a.
+
+382
+00:24:36,650 --> 00:24:39,697
+E por isso você poupou
+a vida dele. Duas vezes.
+
+383
+00:24:39,698 --> 00:24:41,574
+Não teve nada a ver
+com isso.
+
+384
+00:24:42,842 --> 00:24:46,017
+Ele me explicou,
+do jeito estranho dele,
+
+385
+00:24:46,407 --> 00:24:47,875
+que ele ama a Thea.
+
+386
+00:24:48,917 --> 00:24:51,290
+E depois jurou
+pela vida dela.
+
+387
+00:24:51,291 --> 00:24:53,343
+E eu estou jurando
+pela minha própria vida
+
+388
+00:24:53,344 --> 00:24:55,935
+que trarei justiça
+ao assassino da Sara.
+
+389
+00:24:56,459 --> 00:24:59,596
+- Nyssa. Nyssa!
+- Oliver, espere.
+
+390
+00:24:59,597 --> 00:25:01,700
+- Precisamos detê-la!
+- Precisamos?
+
+391
+00:25:01,701 --> 00:25:03,867
+Entendo por que não pode
+matar o Merlyn,
+
+392
+00:25:03,868 --> 00:25:06,346
+todos os motivos.
+
+393
+00:25:06,347 --> 00:25:08,073
+Pode ou não ter matado
+a Sara.
+
+394
+00:25:08,074 --> 00:25:09,973
+- Ele não matou.
+- De qualquer jeito!
+
+395
+00:25:09,974 --> 00:25:12,910
+O mundo é um lugar melhor
+sem Malcolm Merlyn nele.
+
+396
+00:25:13,338 --> 00:25:15,309
+Você jurou não matar.
+
+397
+00:25:16,639 --> 00:25:17,939
+Nyssa não.
+
+398
+00:25:25,797 --> 00:25:27,492
+Onde está a sua esposa?
+
+399
+00:25:27,493 --> 00:25:30,314
+Tatsu. Ela precisou ir
+a outro lugar.
+
+400
+00:25:30,315 --> 00:25:31,929
+Ela não gosta de mim.
+
+401
+00:25:32,314 --> 00:25:34,932
+Está errado.
+Ela odeia você.
+
+402
+00:25:35,616 --> 00:25:37,469
+Ela não está feliz
+por eu estar aqui.
+
+403
+00:25:37,996 --> 00:25:39,296
+Nem eu.
+
+404
+00:25:42,253 --> 00:25:43,634
+Matei um homem hoje.
+
+405
+00:25:45,366 --> 00:25:46,897
+Sequer sei o motivo.
+
+406
+00:25:48,115 --> 00:25:49,848
+Às vezes, é melhor assim.
+
+407
+00:25:49,849 --> 00:25:52,082
+Seguir ordens às cegas
+é melhor?
+
+408
+00:25:52,634 --> 00:25:54,335
+Não sou cego, Oliver.
+
+409
+00:25:54,920 --> 00:25:58,623
+Estou focado
+no que é mais importante.
+
+410
+00:25:58,624 --> 00:26:00,117
+Deveria fazer o mesmo.
+
+411
+00:26:00,519 --> 00:26:03,643
+Não cabe a nós sabermos
+o motivo das missões.
+
+412
+00:26:03,644 --> 00:26:06,420
+Não percebi que ter
+consciência era um fardo.
+
+413
+00:26:17,268 --> 00:26:19,865
+- O que está jogando?
+- Um jogo de leitura.
+
+414
+00:26:19,866 --> 00:26:23,632
+Posso tentar?
+Quero melhorar meu cantonês.
+
+415
+00:26:23,633 --> 00:26:26,089
+Meu pai não deixou
+você usar meu computador.
+
+416
+00:26:26,090 --> 00:26:29,120
+Tudo bem.
+Por que não fazemos um acordo?
+
+417
+00:26:29,121 --> 00:26:31,563
+Você não tem nada.
+É um vagabundo.
+
+418
+00:26:32,303 --> 00:26:36,196
+Este vagabundo tem algo
+que você não tem.
+
+419
+00:26:36,711 --> 00:26:38,011
+Altura.
+
+420
+00:26:38,682 --> 00:26:42,418
+Sabe os doces que seus pais
+deixam sobre a geladeira?
+
+421
+00:26:44,046 --> 00:26:45,702
+Eu te dou dois pedaços.
+
+422
+00:26:45,703 --> 00:26:47,321
+- Cinco.
+- Três.
+
+423
+00:26:47,322 --> 00:26:48,655
+Cinco.
+
+424
+00:26:48,656 --> 00:26:50,965
+Está bem, cinco.
+Dê-me o computador.
+
+425
+00:26:59,739 --> 00:27:01,389
+Preciso me encontrar
+com a Waller.
+
+426
+00:27:02,098 --> 00:27:03,428
+Como você...
+
+427
+00:27:03,429 --> 00:27:05,223
+- Akio!
+- Não é culpa dele.
+
+428
+00:27:05,224 --> 00:27:07,131
+Preciso de um encontro.
+Faça acontecer.
+
+429
+00:27:07,132 --> 00:27:11,630
+- Waller vai querer um motivo.
+- Ferris Air, voo 637.
+
+430
+00:27:11,631 --> 00:27:13,224
+Ela vai saber.
+
+431
+00:27:14,166 --> 00:27:16,976
+Obrigada pela ajuda,
+não precisava fazer tudo isso.
+
+432
+00:27:16,977 --> 00:27:18,277
+Gosto de pintar.
+
+433
+00:27:18,704 --> 00:27:22,222
+Ajuda a desligar o cérebro.
+É bem zen.
+
+434
+00:27:22,812 --> 00:27:25,475
+Queria mesmo
+que estivesse flertando comigo
+
+435
+00:27:25,476 --> 00:27:29,549
+porque você todo prestativo
+e zen está me assustando.
+
+436
+00:27:41,026 --> 00:27:44,135
+- Afaste-se dele.
+- Não estou aqui por ele.
+
+437
+00:27:44,136 --> 00:27:45,436
+Thea.
+
+438
+00:28:01,412 --> 00:28:04,173
+Thea?
+Thea, você está aqui?
+
+439
+00:28:18,567 --> 00:28:21,190
+Malcolm Merlyn está vivo
+e é o pai da Thea.
+
+440
+00:28:21,191 --> 00:28:22,767
+Algo mais que não contou?
+
+441
+00:28:22,768 --> 00:28:25,388
+- O que conseguiu na delegacia?
+- Não muito.
+
+442
+00:28:26,116 --> 00:28:28,540
+Mas consegui isso
+da câmera de trânsito.
+
+443
+00:28:28,541 --> 00:28:30,542
+Foi gravado
+10 minutos atrás.
+
+444
+00:28:30,543 --> 00:28:33,643
+Depois de procurar informações
+da Nyssa e da Thea,
+
+445
+00:28:33,644 --> 00:28:35,065
+procurei coisas estranhas.
+
+446
+00:28:35,066 --> 00:28:36,811
+Mas isso
+definitivamente conta.
+
+447
+00:28:38,543 --> 00:28:39,885
+Sara.
+
+448
+00:28:39,886 --> 00:28:41,517
+Nunca falou muito
+do vazamento.
+
+449
+00:28:41,518 --> 00:28:44,465
+Mas disse que as comunicações
+estavam desatualizadas.
+
+450
+00:28:44,466 --> 00:28:46,813
+- Sinal de fumaça.
+- Uma mensagem para Malcolm.
+
+451
+00:28:46,814 --> 00:28:50,340
+Aposto minha carteira que
+significa "pegamos sua filha".
+
+452
+00:28:50,341 --> 00:28:52,559
+Não importa,
+tenho a localização com o vídeo.
+
+453
+00:28:53,049 --> 00:28:54,423
+"Temos", não é?
+
+454
+00:28:54,424 --> 00:28:56,993
+Preciso que cubra o perímetro.
+Thea não pode te ver.
+
+455
+00:28:56,994 --> 00:28:58,323
+Entendido.
+
+456
+00:28:58,324 --> 00:29:00,249
+Ela já sabe
+que sei do Arqueiro.
+
+457
+00:29:00,250 --> 00:29:03,439
+Não com uma dose
+de tranquilizante no corpo.
+
+458
+00:29:04,807 --> 00:29:07,412
+Oliver.
+É minha culpa.
+
+459
+00:29:07,413 --> 00:29:10,941
+Eu mandei Nyssa atrás do Merlyn
+para fazer o necessário.
+
+460
+00:29:10,942 --> 00:29:13,239
+- Tudo bem.
+- Sei que não é uma assassino.
+
+461
+00:29:14,432 --> 00:29:15,732
+Mas ele é.
+
+462
+00:29:16,289 --> 00:29:19,068
+Independente do que signifique
+para você ou para a Thea,
+
+463
+00:29:21,569 --> 00:29:22,869
+saiba disso.
+
+464
+00:29:31,056 --> 00:29:34,345
+Quando eu estiver livre,
+vou matar você!
+
+465
+00:29:35,110 --> 00:29:37,432
+Desculpe
+por te envolver nisso.
+
+466
+00:29:37,922 --> 00:29:39,629
+Minha briga é com o seu pai.
+
+467
+00:29:39,630 --> 00:29:42,854
+Meu pai está morto há anos,
+sua psicopata.
+
+468
+00:29:42,855 --> 00:29:45,402
+Não Robert Queen.
+Seu verdadeiro pai.
+
+469
+00:29:45,403 --> 00:29:47,639
+Al Sa-Her.
+"O Mago."
+
+470
+00:29:48,279 --> 00:29:50,990
+Conhecido para os novatos
+como Malcolm Merlyn.
+
+471
+00:29:50,991 --> 00:29:53,336
+Você sabe o que ele
+vai fazer quando chegar.
+
+472
+00:29:53,337 --> 00:29:54,792
+Sei que ele vai morrer.
+
+473
+00:29:54,793 --> 00:29:57,754
+Meu pai me ensinou como cortar
+para a morte demorar dias.
+
+474
+00:29:57,755 --> 00:29:59,505
+Parece o pai do ano.
+
+475
+00:29:59,506 --> 00:30:03,749
+Meu pai pode ser o demônio,
+mas o seu é o diabo.
+
+476
+00:30:11,053 --> 00:30:12,353
+Corra!
+
+477
+00:30:17,469 --> 00:30:19,854
+Nós dois lidamos
+com o luto diferentemente.
+
+478
+00:30:44,060 --> 00:30:47,097
+Há um engano
+que precisamos esclarecer.
+
+479
+00:30:47,098 --> 00:30:49,394
+Uma conversa
+que estou ansiosa para ter
+
+480
+00:30:49,395 --> 00:30:51,322
+sobre seu corpo
+apodrecendo.
+
+481
+00:31:19,552 --> 00:31:20,852
+Vai, Oliver.
+
+482
+00:31:22,424 --> 00:31:23,968
+Ele matou a Sara.
+
+483
+00:31:24,746 --> 00:31:26,075
+O Tommy.
+
+484
+00:31:26,452 --> 00:31:28,435
+Ele vai corromper
+a sua irmã.
+
+485
+00:31:31,066 --> 00:31:32,560
+Há sangue em minhas mãos.
+
+486
+00:31:33,389 --> 00:31:35,297
+Quase demais
+para contemplar.
+
+487
+00:31:36,774 --> 00:31:38,781
+Mas nem uma gota
+é da Sara.
+
+488
+00:31:38,782 --> 00:31:41,581
+- Mate-o!
+- Não matei sua amada!
+
+489
+00:31:42,798 --> 00:31:45,501
+Seu pai duvidou
+da lealdade de Sara
+
+490
+00:31:45,502 --> 00:31:47,812
+a partir do momento
+que você a levou para casa.
+
+491
+00:31:48,603 --> 00:31:49,944
+Conhece seu pai.
+
+492
+00:31:50,798 --> 00:31:52,341
+O que ele é capaz de fazer.
+
+493
+00:31:52,969 --> 00:31:55,432
+Ele matará sem hesitação.
+
+494
+00:31:55,433 --> 00:31:58,031
+Realmente precisa
+que eu diga o que ele faria
+
+495
+00:31:58,032 --> 00:32:00,747
+com uma degenerada que roubasse
+o coração da sua filha?
+
+496
+00:32:12,232 --> 00:32:14,077
+Nyssa não acredita
+em mim, Oliver.
+
+497
+00:32:16,211 --> 00:32:17,768
+Se não acredita em mim,
+
+498
+00:32:18,885 --> 00:32:20,185
+acredite nela.
+
+499
+00:32:21,735 --> 00:32:23,035
+Mate-me.
+
+500
+00:32:35,122 --> 00:32:37,230
+Você pode não ter
+matado a Sara,
+
+501
+00:32:39,301 --> 00:32:41,034
+mas ainda é um assassino.
+
+502
+00:32:43,146 --> 00:32:46,159
+O que vai fazer?
+Vai me prender?
+
+503
+00:32:46,573 --> 00:32:50,011
+Poderia trazer a polícia aqui
+em três minutos.
+
+504
+00:32:50,012 --> 00:32:51,844
+Em metade disso,
+eu terei escapado
+
+505
+00:32:51,845 --> 00:32:54,117
+de qualquer prisão
+que me coloquem.
+
+506
+00:32:54,118 --> 00:32:56,050
+Você sabe disso,
+ela também.
+
+507
+00:32:56,051 --> 00:32:59,381
+Fomos treinados pela Liga,
+nenhuma prisão nos mantém!
+
+508
+00:33:00,749 --> 00:33:03,272
+Nem mesmo a sua
+em Lian Yu.
+
+509
+00:33:04,791 --> 00:33:08,750
+O que te deixa
+com apenas uma opção.
+
+510
+00:33:11,834 --> 00:33:13,203
+Quebrar seu juramento,
+
+511
+00:33:14,960 --> 00:33:16,260
+e me matar.
+
+512
+00:33:18,723 --> 00:33:20,380
+Matar o pai da sua irmã.
+
+513
+00:33:36,556 --> 00:33:38,860
+- Thea está bem?
+- Falei agora com ela, está.
+
+514
+00:33:38,861 --> 00:33:41,208
+Não sabe quem a pegou
+ou o motivo.
+
+515
+00:33:46,980 --> 00:33:49,579
+- Posso ter merecido isso.
+- Você merece pior.
+
+516
+00:33:50,294 --> 00:33:53,526
+- O que está acontecendo?
+- Merlyn não matou Sara.
+
+517
+00:33:54,627 --> 00:33:56,802
+Significa que quem fez isso
+continua por aí.
+
+518
+00:33:57,224 --> 00:33:58,630
+Você é um idiota
+
+519
+00:33:59,296 --> 00:34:01,604
+que insulta a memória
+de quem uma vez amou.
+
+520
+00:34:01,605 --> 00:34:04,102
+Honrarei a memória dela
+achando e punindo
+
+521
+00:34:04,103 --> 00:34:05,899
+a pessoa que fez isso.
+
+522
+00:34:07,041 --> 00:34:08,459
+A verdadeira pessoa.
+
+523
+00:34:09,966 --> 00:34:11,266
+Nyssa.
+
+524
+00:34:12,834 --> 00:34:15,218
+Enquanto Malcolm Merlyn
+estiver em minha cidade,
+
+525
+00:34:15,219 --> 00:34:17,040
+a Liga não tocará nele.
+
+526
+00:34:18,357 --> 00:34:20,002
+Ele está sob minha proteção.
+
+527
+00:34:20,473 --> 00:34:22,954
+Provocará a ira
+da Liga dos Assassinos?
+
+528
+00:34:22,955 --> 00:34:26,410
+Farei o que eu tiver
+que fazer
+
+529
+00:34:27,163 --> 00:34:29,007
+para conseguir o tempo
+
+530
+00:34:29,008 --> 00:34:31,241
+para achar quem realmente
+matou Sara.
+
+531
+00:34:31,242 --> 00:34:33,112
+Fez um inimigo hoje.
+
+532
+00:34:34,304 --> 00:34:36,049
+Um com uma longa memória.
+
+533
+00:34:39,711 --> 00:34:41,011
+Oliver.
+
+534
+00:34:45,831 --> 00:34:47,145
+Tem certeza?
+
+535
+00:34:47,146 --> 00:34:49,643
+Se não tivesse,
+nunca teria o deixado ir.
+
+536
+00:34:50,408 --> 00:34:52,542
+- Prometo.
+- O que perdi?
+
+537
+00:34:57,336 --> 00:34:59,143
+Odeio Hong Kong.
+
+538
+00:34:59,144 --> 00:35:01,026
+E odeio
+voos transatlânticos.
+
+539
+00:35:01,027 --> 00:35:03,495
+E não me faça citar o fato
+
+540
+00:35:03,496 --> 00:35:05,941
+de ser convocada
+por um dos meus agentes.
+
+541
+00:35:05,942 --> 00:35:07,937
+Ferris Air, voo 637.
+
+542
+00:35:07,938 --> 00:35:09,868
+Paris para Hong Kong
+sem escalas.
+
+543
+00:35:09,869 --> 00:35:12,544
+Você impediu aquele voo
+de ser atingido sobre Lian Yu.
+
+544
+00:35:12,545 --> 00:35:15,720
+- Estava me observando?
+- Pelo satélite Keyhole Hexagon.
+
+545
+00:35:15,721 --> 00:35:17,459
+Como mais saberia
+que você possui
+
+546
+00:35:17,460 --> 00:35:19,438
+as capacidades
+das quais necessito?
+
+547
+00:35:20,105 --> 00:35:23,043
+O negócio com o cargueiro
+ano passado.
+
+548
+00:35:23,858 --> 00:35:26,017
+Impressionante.
+Estamos terminados?
+
+549
+00:35:26,018 --> 00:35:28,775
+Só começando, na verdade.
+Adam Castwidth,
+
+550
+00:35:31,285 --> 00:35:32,892
+o homem que me fez matar.
+
+551
+00:35:33,306 --> 00:35:35,285
+Ele era treinador
+de Edward Fyers.
+
+552
+00:35:35,718 --> 00:35:38,723
+- E ele trabalhou para você.
+- Não é da sua conta, sr. Queen.
+
+553
+00:35:38,724 --> 00:35:41,097
+Acho que é.
+Acho que sr. Castwidth
+
+554
+00:35:41,098 --> 00:35:43,413
+tinha um USB
+detalhando tudo.
+
+555
+00:35:43,414 --> 00:35:46,186
+Ele sabia que você mandou Fyers
+derrubar aquele avião.
+
+556
+00:35:46,187 --> 00:35:48,071
+E acho que você
+o queria calado.
+
+557
+00:35:48,072 --> 00:35:50,906
+E o mundo pensa que está morto,
+sr. Queen.
+
+558
+00:35:51,281 --> 00:35:53,076
+O conveniente sobre
+um homem morto
+
+559
+00:35:53,077 --> 00:35:55,071
+é que ninguém tende
+a acreditar nele.
+
+560
+00:35:55,072 --> 00:35:58,882
+Que tal mortos que colocam
+informações em um USB
+
+561
+00:35:58,883 --> 00:36:02,382
+nas mãos de todo blogueiro
+e jornalista deste hemisfério?
+
+562
+00:36:02,383 --> 00:36:04,494
+Se algo acontecer
+com a família do Maseo,
+
+563
+00:36:04,495 --> 00:36:07,944
+e você vai passar um bom tempo
+depondo para o comitê do Senado.
+
+564
+00:36:08,265 --> 00:36:12,303
+O mundo é um lugar
+mais complicado do que acha.
+
+565
+00:36:13,904 --> 00:36:16,273
+Edward Fyers achou
+que derrubaria o avião
+
+566
+00:36:16,274 --> 00:36:18,542
+para desestabilizar
+a economia chinesa.
+
+567
+00:36:19,943 --> 00:36:22,212
+Na verdade, eu queria eliminar
+um único alvo.
+
+568
+00:36:22,213 --> 00:36:25,465
+Então explodiu um avião
+cheio de pessoas inocentes
+
+569
+00:36:25,466 --> 00:36:27,317
+para eliminar um homem.
+
+570
+00:36:27,318 --> 00:36:28,618
+Não.
+
+571
+00:36:28,987 --> 00:36:30,747
+Para eliminar uma mulher.
+
+572
+00:36:31,121 --> 00:36:32,593
+Chien Na Wei.
+
+573
+00:36:34,875 --> 00:36:37,794
+Há dois anos,
+tivemos uma única chance.
+
+574
+00:36:38,795 --> 00:36:40,980
+E você salvou a vida dela.
+
+575
+00:36:40,981 --> 00:36:42,832
+E agora ela está
+em Hong Kong.
+
+576
+00:36:42,833 --> 00:36:44,717
+Preciso saber o motivo.
+
+577
+00:36:54,678 --> 00:36:56,863
+Achei que iria voltar
+para o seu pai.
+
+578
+00:36:56,864 --> 00:36:59,315
+Achei que eu te devia
+um adeus.
+
+579
+00:36:59,316 --> 00:37:02,251
+Pretendo cumprir a promessa
+que fiz à Sara.
+
+580
+00:37:02,252 --> 00:37:03,569
+E a você.
+
+581
+00:37:05,089 --> 00:37:07,563
+Acaba comigo saber
+que ele ainda está por aí.
+
+582
+00:37:07,564 --> 00:37:08,864
+Merlyn.
+
+583
+00:37:09,295 --> 00:37:10,595
+Alguém.
+
+584
+00:37:12,545 --> 00:37:15,648
+- Acaba comigo.
+- Dói em mim também.
+
+585
+00:37:18,217 --> 00:37:19,936
+Vejo que está treinando.
+
+586
+00:37:20,537 --> 00:37:23,040
+- E usando a jaqueta.
+- Se você for ficar aí
+
+587
+00:37:23,041 --> 00:37:27,245
+e dizer que não sou durona
+ou forte suficiente, não fique.
+
+588
+00:37:28,746 --> 00:37:31,096
+No cemitério, eu teria dito.
+
+589
+00:37:32,633 --> 00:37:35,634
+Mas desde lá, você me lembrou
+que o metal mais forte
+
+590
+00:37:35,635 --> 00:37:37,604
+é forjado na chama
+mais quente.
+
+591
+00:37:37,605 --> 00:37:39,505
+E o que isso significa?
+
+592
+00:37:42,559 --> 00:37:44,695
+Não esqueça
+de fortalecer os quadris.
+
+593
+00:37:46,896 --> 00:37:48,865
+É de onde o poder vem.
+
+594
+00:37:55,490 --> 00:37:57,374
+<i>Aqui é a Sara.
+Deixe um recado.</i>
+
+595
+00:37:57,375 --> 00:38:00,827
+Sara.
+Querida, sou eu.
+
+596
+00:38:00,828 --> 00:38:03,546
+Sei que disse para ligar
+só em caso de uma emergência.
+
+597
+00:38:03,547 --> 00:38:05,148
+E não é.
+Está tudo bem.
+
+598
+00:38:05,149 --> 00:38:06,456
+Mas, eu...
+
+599
+00:38:08,417 --> 00:38:10,170
+Só quero ouvir a sua voz.
+
+600
+00:38:11,789 --> 00:38:13,689
+Sei que onde estiver,
+está se cuidando.
+
+601
+00:38:13,690 --> 00:38:16,625
+Mas não significa
+que eu não me preocupo.
+
+602
+00:38:16,626 --> 00:38:20,029
+Então, não precisa
+retornar a ligação.
+
+603
+00:38:20,030 --> 00:38:21,772
+Só quero
+que você se lembre...
+
+604
+00:38:24,073 --> 00:38:25,434
+Que eu te amo.
+
+605
+00:38:35,278 --> 00:38:36,812
+Você está bem?
+
+606
+00:38:36,813 --> 00:38:38,848
+Não é a primeira vez
+que fui sequestrada.
+
+607
+00:38:38,849 --> 00:38:42,352
+Não foi o que eu quis dizer.
+Nunca imaginei você esfregando.
+
+608
+00:38:42,353 --> 00:38:44,570
+A menos que um SPA
+estivesse envolvido.
+
+609
+00:38:46,090 --> 00:38:48,874
+Eu falei
+com o detetive Lance.
+
+610
+00:38:48,875 --> 00:38:51,278
+Ele não acha que ela
+incomodará você de novo.
+
+611
+00:38:51,279 --> 00:38:54,230
+Por que ela veio
+atrás de mim?
+
+612
+00:38:54,231 --> 00:38:57,466
+Talvez ela achou que os Queens
+ainda tivessem dinheiro.
+
+613
+00:38:57,467 --> 00:38:58,869
+Quem me dera.
+
+614
+00:38:58,870 --> 00:39:01,771
+Mas obrigada por vir
+e ver como eu estava.
+
+615
+00:39:01,772 --> 00:39:04,123
+Sempre vou cuidar de você.
+
+616
+00:39:04,124 --> 00:39:05,424
+Sempre.
+
+617
+00:39:06,409 --> 00:39:08,728
+Desculpe, pessoal,
+eu não quis interromper.
+
+618
+00:39:09,329 --> 00:39:11,047
+Eu já estava de saída.
+
+619
+00:39:11,048 --> 00:39:12,383
+Tenha cuidado.
+
+620
+00:39:16,986 --> 00:39:18,655
+Achei que tinha gente
+para isso.
+
+621
+00:39:18,656 --> 00:39:20,240
+Está meio parado.
+
+622
+00:39:20,941 --> 00:39:24,546
+Mas você tem o mesmo olhar
+preocupado que meu irmão tinha.
+
+623
+00:39:24,547 --> 00:39:26,147
+Sério, estou bem.
+
+624
+00:39:27,247 --> 00:39:28,848
+Que bom.
+
+625
+00:39:28,849 --> 00:39:31,367
+Eu queria ter certeza
+que você estava bem.
+
+626
+00:39:31,368 --> 00:39:33,803
+E eu queria me desculpar.
+
+627
+00:39:33,804 --> 00:39:35,755
+Sinto muito
+por não conseguir impedi-la.
+
+628
+00:39:38,307 --> 00:39:40,610
+Você tentou.
+Sério.
+
+629
+00:39:41,511 --> 00:39:43,730
+Aqueles foram
+uns movimentos legais.
+
+630
+00:39:44,882 --> 00:39:48,185
+O que você faz com o Arqueiro
+está claramente recompensando.
+
+631
+00:39:49,286 --> 00:39:52,489
+Talvez eu devesse me candidatar
+como segurança aqui.
+
+632
+00:39:52,490 --> 00:39:54,120
+Eu já cuidei disso.
+
+633
+00:39:54,908 --> 00:39:57,895
+Mas posso precisar
+de um assistente de gerente.
+
+634
+00:40:00,296 --> 00:40:01,614
+Mesmo?
+
+635
+00:40:01,615 --> 00:40:04,433
+Preciso de alguém
+que conheça esse lugar como eu.
+
+636
+00:40:06,086 --> 00:40:08,538
+- Com certeza.
+- Puramente platônico.
+
+637
+00:40:08,539 --> 00:40:09,938
+Entendido.
+
+638
+00:40:14,277 --> 00:40:16,145
+É o meu designer.
+
+639
+00:40:16,146 --> 00:40:17,815
+Preciso atender.
+
+640
+00:40:20,116 --> 00:40:22,035
+- Oi.
+- Você está segura?
+
+641
+00:40:23,336 --> 00:40:24,696
+Agora estou.
+
+642
+00:40:25,264 --> 00:40:27,386
+<i>- Aquela mulher foi embora?</i>
+- Por enquanto.
+
+643
+00:40:28,287 --> 00:40:30,998
+- E o seu irmão?
+- Ele está por fora.
+
+644
+00:40:30,999 --> 00:40:32,345
+<i>Não sabe de nada.</i>
+
+645
+00:40:33,046 --> 00:40:36,132
+Mas obrigada, pai.
+
+646
+00:40:36,133 --> 00:40:37,484
+<i>Pelo quê?</i>
+
+647
+00:40:38,285 --> 00:40:40,169
+Por cuidar de mim.
+
+648
+00:40:40,170 --> 00:40:42,105
+Eu prometi a você, Thea.
+
+649
+00:40:42,106 --> 00:40:44,641
+<i>Nunca vou deixar
+ninguém machucar você.</i>
+
+650
+00:41:02,191 --> 00:41:03,877
+Os boatos eram verdadeiros.
+
+651
+00:41:04,778 --> 00:41:07,080
+Malcolm Merlyn
+está em Starling.
+
+652
+00:41:07,081 --> 00:41:09,483
+<i>Há tristeza em sua voz.</i>
+
+653
+00:41:11,084 --> 00:41:12,786
+<i>Ta-er Al-Sahfer.</i>
+
+654
+00:41:14,487 --> 00:41:15,800
+Ela sucumbiu.
+
+655
+00:41:15,801 --> 00:41:18,876
+- Sara Lance morreu.
+- Morreu.
+
+656
+00:41:20,777 --> 00:41:22,846
+Atingida no coração
+por uma flecha.
+
+657
+00:41:23,547 --> 00:41:26,517
+- Foi o Merlyn?
+- Aparentemente.
+
+658
+00:41:28,518 --> 00:41:31,521
+Fiz um juramento de sangue
+para vingá-la.
+
+659
+00:41:31,522 --> 00:41:35,024
+Al Sa-Her enfrentará
+a justiça da Liga.
+
+660
+00:41:35,025 --> 00:41:37,860
+Mas pelos crimes dele
+contra nosso código.
+
+661
+00:41:37,861 --> 00:41:40,813
+- Mas Sara...
+- Nunca foi uma de nós.
+
+662
+00:41:44,434 --> 00:41:45,953
+E o Queen?
+
+663
+00:41:47,054 --> 00:41:50,122
+Ele jurou proteger o Merlyn
+a qualquer custo.
+
+664
+00:41:50,123 --> 00:41:52,308
+Se isso for verdade,
+
+665
+00:41:52,309 --> 00:41:55,017
+então o Oliver Queen
+está em guerra conosco.
+
