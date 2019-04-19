@@ -1,0 +1,2659 @@
+﻿1
+00:00:07,762 --> 00:00:10,898
+<i>Seu navio foi rendido
+e agora está sob nosso controle.</i>
+
+2
+00:00:11,807 --> 00:00:14,188
+<i>Todos para o hangar.</i>
+
+3
+00:00:18,354 --> 00:00:20,490
+<i>Vamos, soldados!
+Entrem!</i>
+
+4
+00:00:20,922 --> 00:00:24,536
+<i>Agora, pessoal!
+Andem! Andem!</i>
+
+5
+00:00:26,348 --> 00:00:28,001
+<i>Façam como foi mandado.</i>
+
+6
+00:00:28,844 --> 00:00:30,936
+<i>Fiquem onde estão!</i>
+
+7
+00:00:32,674 --> 00:00:35,863
+<i>- Parados!
+- A segurança foi violada!</i>
+
+8
+00:00:36,617 --> 00:00:38,220
+Onde está o mestre de armas?
+
+9
+00:00:38,347 --> 00:00:40,374
+Precisamos chegar no arsenal.
+Vamos lá.
+
+10
+00:00:41,025 --> 00:00:42,336
+M.A.!
+
+11
+00:00:48,339 --> 00:00:52,190
+<i>Agora, pessoal, andem!
+Entrem no hangar. Agora!</i>
+
+12
+00:00:52,634 --> 00:00:55,407
+Essa é a nossa chance antes
+que tragam reforços a bordo.
+
+13
+00:00:55,408 --> 00:00:58,411
+Não, se os provocarmos agora,
+eles matarão todo mundo.
+
+14
+00:00:58,412 --> 00:01:00,555
+Haverá um momento,
+mas não é agora.
+
+15
+00:01:03,706 --> 00:01:06,434
+Você estava de férias na Jamaica
+quando o vírus surgiu.
+
+16
+00:01:06,435 --> 00:01:09,651
+Ficou presa num barco pesqueiro.
+Nós te pegamos com a Bertrise.
+
+17
+00:01:09,652 --> 00:01:12,647
+- Não estou entendendo.
+- Eles vieram roubar a cura.
+
+18
+00:01:12,648 --> 00:01:14,915
+Eles não podem
+te ligar ao Quincy.
+
+19
+00:01:15,885 --> 00:01:18,027
+Vamos lá, Quincy.
+Fique conosco. Está bem?
+
+20
+00:01:18,028 --> 00:01:19,492
+Quincy, olhe para mim.
+
+21
+00:01:21,041 --> 00:01:23,865
+Ele está perdendo muito sangue.
+Ele tem uma hemorragia!
+
+22
+00:01:23,992 --> 00:01:25,605
+- Dê-me aquele pano!
+- Qual pano?
+
+23
+00:01:25,606 --> 00:01:27,262
+Bem ali, passe-o para mim!
+
+24
+00:01:30,405 --> 00:01:33,520
+Escute, babaca, se algo
+acontecer com a dra. Scott,
+
+25
+00:01:33,521 --> 00:01:35,552
+esse homem será
+sua apólice de seguro.
+
+26
+00:01:35,553 --> 00:01:38,364
+Você precisa buscar
+o médico do navio agora!
+
+27
+00:01:54,356 --> 00:01:57,109
+Vasculhem o laboratório,
+encontrem a amostra primordial.
+
+28
+00:01:57,110 --> 00:01:59,779
+Levaremos o equipamento pesado
+no barco, depois.
+
+29
+00:01:59,780 --> 00:02:03,637
+Agora quero computadores,
+amostras, culturas, pesquisas.
+
+30
+00:02:04,748 --> 00:02:06,629
+Não deixaremos
+nada para trás.
+
+31
+00:02:08,289 --> 00:02:10,891
+<i>Façam como mandarem
+e ninguém será ferido!</i>
+
+32
+00:02:12,285 --> 00:02:16,306
+- Isso não é bom, não mesmo.
+- Agora, pessoal, andem!
+
+33
+00:02:16,307 --> 00:02:18,903
+Se nos trancarem lá
+estaremos fritos.
+
+34
+00:02:18,904 --> 00:02:20,517
+O que diabos devemos fazer?
+
+35
+00:02:20,518 --> 00:02:22,636
+<i>Vamos, pessoal!
+Andem!</i>
+
+36
+00:02:22,805 --> 00:02:24,416
+Temos que fazer algo aqui.
+
+37
+00:02:24,417 --> 00:02:25,922
+Nos reuniremos na sala CD.
+
+38
+00:02:25,923 --> 00:02:28,261
+- Cheguem lá quando puderem.
+- O quê?
+
+39
+00:02:28,683 --> 00:02:30,019
+Pare!
+
+40
+00:02:39,527 --> 00:02:42,244
+2ª Temporada | Episódio 1
+-= Unreal City =-
+
+41
+00:02:46,256 --> 00:02:48,536
+Legenda:
+John93 | tolentino | PedroSPJ
+
+42
+00:02:48,537 --> 00:02:50,405
+Legenda:
+VUno | IceBreaker
+
+43
+00:02:50,406 --> 00:02:52,283
+Revisão:
+PenélopeC | VUno
+
+44
+00:02:54,462 --> 00:02:57,248
+[InSUBs]
+Qualidade é InSUBstituível!
+
+45
+00:03:11,088 --> 00:03:14,847
+<i>Vamos descarregar os palets
+e levar a van de volta à Avocet.</i>
+
+46
+00:03:14,848 --> 00:03:16,154
+<i>Tudo bem, chefe.</i>
+
+47
+00:03:19,439 --> 00:03:21,983
+- Veja se selaram as caixas.
+- Verei.
+
+48
+00:03:43,755 --> 00:03:46,763
+As chaves da van.
+Agora.
+
+49
+00:03:54,261 --> 00:03:56,330
+Vamos, crianças.
+Vamos.
+
+50
+00:03:56,331 --> 00:03:58,451
+Equipe Cobra, é a Equipe Abutre.
+Na escuta?
+
+51
+00:03:58,452 --> 00:04:00,077
+- Papai?
+- Time Cobra, na escuta?
+
+52
+00:04:00,078 --> 00:04:02,477
+Está tudo bem, querida.
+Estamos bem.
+
+53
+00:04:02,680 --> 00:04:04,188
+Conseguiremos
+passar por isso.
+
+54
+00:04:04,194 --> 00:04:05,445
+Estão na escuta?
+
+55
+00:04:05,446 --> 00:04:06,696
+Ainda não temos contato.
+
+56
+00:04:06,697 --> 00:04:10,051
+Devemos nos encontrar no pátio
+dos contêineres. Isso não mudou.
+
+57
+00:04:10,726 --> 00:04:12,887
+Ainda estão matando pessoas
+naquele estádio.
+
+58
+00:04:12,888 --> 00:04:14,208
+Eu sei.
+
+59
+00:04:19,125 --> 00:04:21,366
+Quão difícil
+pode ser encontrá-los?
+
+60
+00:04:21,367 --> 00:04:23,287
+Eles estão usando
+uniformes da marinha.
+
+61
+00:04:23,288 --> 00:04:26,273
+Eles balearam dois patrulheiros,
+já devem estar longe agora.
+
+62
+00:04:26,274 --> 00:04:28,718
+Nada desacelera em Olympia,
+ouviu?
+
+63
+00:04:28,719 --> 00:04:31,386
+- A máquina continua se movendo.
+- Sim, senhora.
+
+64
+00:04:36,778 --> 00:04:40,295
+<i>Vão para o hangar.
+Vamos!</i>
+
+65
+00:04:41,683 --> 00:04:42,984
+Façam eles se sentarem.
+
+66
+00:04:42,985 --> 00:04:45,604
+<i>Sentem-se!
+Ponha as mãos onde eu possa ver!</i>
+
+67
+00:04:45,605 --> 00:04:47,855
+Faça uma busca,
+veja se esquecemos alguém.
+
+68
+00:04:47,856 --> 00:04:49,539
+- Aguente, Quincy.
+- Vamos lá.
+
+69
+00:04:49,540 --> 00:04:51,044
+- Traga-o aqui.
+- Aguenta aí.
+
+70
+00:04:51,045 --> 00:04:52,383
+Doutor!
+
+71
+00:04:56,689 --> 00:04:59,247
+- O médico está aqui, está bem?
+- Tudo bem.
+
+72
+00:04:59,248 --> 00:05:00,600
+Vamos ver a ferida dele.
+
+73
+00:05:01,343 --> 00:05:03,365
+Esse homem
+precisa ir à enfermaria agora!
+
+74
+00:05:03,366 --> 00:05:06,367
+Não dispensarei os meus homens.
+O que for fazer, faça aqui.
+
+75
+00:05:08,096 --> 00:05:09,995
+Ele está com febre.
+Abram a escotilha.
+
+76
+00:05:10,527 --> 00:05:12,820
+- Abram a escotilha!
+- Abram!
+
+77
+00:05:17,499 --> 00:05:19,097
+Fique comigo, está bem?
+
+78
+00:05:28,474 --> 00:05:30,738
+Vá. Agora.
+Agora!
+
+79
+00:05:37,297 --> 00:05:40,184
+- Está muito apertado?
+- Estou bem. Estou bem.
+
+80
+00:05:49,367 --> 00:05:52,455
+- Não atirem!
+- Capitão, ela tomou o navio.
+
+81
+00:05:52,456 --> 00:05:55,210
+Não consigo contatar o COC,
+comunicações ou o passadiço.
+
+82
+00:05:55,211 --> 00:05:58,085
+- Não entendo, o que ela quer?
+- Você não acreditaria.
+
+83
+00:05:58,086 --> 00:05:59,430
+Em que país estamos?
+
+84
+00:05:59,431 --> 00:06:01,135
+Sabem se a Alisha
+está envolvida?
+
+85
+00:06:01,136 --> 00:06:02,642
+Isso não importa agora.
+
+86
+00:06:02,655 --> 00:06:04,397
+- Como se sente?
+- Ela atravessou.
+
+87
+00:06:04,398 --> 00:06:07,522
+- Ele perdeu muito sangue.
+- Estou bem. O que faremos?
+
+88
+00:06:07,523 --> 00:06:10,294
+Temos que voltar ao James.
+Tem barcos pequenos no porto,
+
+89
+00:06:10,295 --> 00:06:13,369
+- talvez um BICR.
+- Não, ela já tomou o píer.
+
+90
+00:06:13,370 --> 00:06:17,085
+Com os helicópteros circulando
+o navio, nem nos aproximaríamos.
+
+91
+00:06:17,086 --> 00:06:20,618
+Agora a dra. Scott
+é a nossa missão primária,
+
+92
+00:06:20,619 --> 00:06:22,292
+e ela é prisioneira
+da Granderson.
+
+93
+00:06:22,293 --> 00:06:23,694
+A Avocet
+tem guardas armados,
+
+94
+00:06:23,695 --> 00:06:25,745
+cerca elétrica
+e câmeras em todos andares.
+
+95
+00:06:25,746 --> 00:06:27,631
+Vimos blindados
+e armas em Olympia.
+
+96
+00:06:27,632 --> 00:06:30,178
+Mataremos todos os patrulheiros
+sem o nosso navio?
+
+97
+00:06:30,179 --> 00:06:33,722
+4 de nós contra 80 deles,
+não gosto das probabilidades.
+
+98
+00:06:36,640 --> 00:06:38,678
+Vocês se lembram do Russ,
+certo?
+
+99
+00:06:39,743 --> 00:06:41,347
+Certo, pessoal,
+esse é o plano.
+
+100
+00:06:41,348 --> 00:06:43,960
+O Russ ficará com vocês
+e o vovô por um tempo, certo?
+
+101
+00:06:43,961 --> 00:06:45,328
+Você morrerá,
+igual a mamãe.
+
+102
+00:06:45,329 --> 00:06:47,810
+- Não pode nos deixar.
+- Não, Sammy, não deixarei.
+
+103
+00:06:47,811 --> 00:06:50,307
+Tudo bem, Sam.
+Faça o que o papai disser.
+
+104
+00:06:50,476 --> 00:06:53,670
+Vamos, abracem o pai de vocês.
+Todos temos afazeres agora.
+
+105
+00:06:55,531 --> 00:06:58,733
+- Eu te amo, pai.
+- Eu também te amo, filho.
+
+106
+00:06:59,757 --> 00:07:01,420
+Venha cá, docinho.
+
+107
+00:07:02,958 --> 00:07:04,505
+Tenha cuidado, pai.
+
+108
+00:07:07,887 --> 00:07:09,198
+Certo.
+
+109
+00:07:17,623 --> 00:07:20,099
+- Vamos indo.
+- Aonde vamos?
+
+110
+00:07:20,100 --> 00:07:22,091
+Derrubar a abelha rainha.
+
+111
+00:07:22,221 --> 00:07:23,920
+Para fazer isso,
+
+112
+00:07:25,162 --> 00:07:27,520
+vamos atingi-la
+onde mais dói.
+
+113
+00:07:34,668 --> 00:07:38,537
+Conseguimos tomar o controle
+do Nathan James.
+
+114
+00:07:38,538 --> 00:07:41,315
+Meu pessoal está coletando
+todo o seu trabalho,
+
+115
+00:07:41,316 --> 00:07:42,762
+enquanto conversamos.
+
+116
+00:07:42,763 --> 00:07:46,002
+Agora, com sua pesquisa
+e suas amostras,
+
+117
+00:07:46,003 --> 00:07:47,603
+o dr. Hamada e a equipe dele
+
+118
+00:07:47,604 --> 00:07:50,466
+eventualmente aprenderão
+a fazer a cura sozinhos.
+
+119
+00:07:50,467 --> 00:07:52,480
+Não seria melhor para todos
+
+120
+00:07:52,481 --> 00:07:54,882
+se vocês concordassem
+em trabalhar juntos?
+
+121
+00:07:54,883 --> 00:07:56,367
+Trabalhar juntos?
+
+122
+00:07:56,676 --> 00:07:59,333
+No quê?
+No seu experimento Darwiniano?
+
+123
+00:07:59,514 --> 00:08:02,665
+Salve quem você julgar digno
+e o quê?
+
+124
+00:08:02,860 --> 00:08:04,319
+Simplesmente
+esqueça o resto?
+
+125
+00:08:04,320 --> 00:08:07,286
+- Talvez eu tenha exagerado...
+- "Bárbaros no portão".
+
+126
+00:08:07,382 --> 00:08:09,329
+Acredito que foi assim
+que os chamou.
+
+127
+00:08:09,443 --> 00:08:11,324
+Doutora, eu vi
+um homem crescido
+
+128
+00:08:11,325 --> 00:08:15,774
+espancar uma criança de 12 anos
+até a morte por uma máscara.
+
+129
+00:08:15,775 --> 00:08:18,902
+Vi uma mulher esfaquear
+a própria irmã
+
+130
+00:08:18,903 --> 00:08:20,354
+por uma lata de feijão.
+
+131
+00:08:20,355 --> 00:08:24,316
+O apocalipse está aqui,
+e esteve aqui por muito tempo.
+
+132
+00:08:25,511 --> 00:08:29,163
+Mas estou disposta
+a ajustar minha filosofia
+
+133
+00:08:29,164 --> 00:08:30,904
+às suas sensibilidades
+
+134
+00:08:30,905 --> 00:08:34,204
+se você me ajudar a pôr
+o laboratório para funcionar.
+
+135
+00:08:35,957 --> 00:08:37,527
+E o comandante?
+
+136
+00:08:38,781 --> 00:08:40,081
+E meus amigos?
+
+137
+00:08:40,082 --> 00:08:42,102
+O melhor que pode fazer
+pelos seus amigos
+
+138
+00:08:42,103 --> 00:08:44,336
+é deixá-los saber
+que você decidiu cooperar.
+
+139
+00:08:44,337 --> 00:08:47,360
+Isso irá parar
+essa carnificina insensata.
+
+140
+00:08:47,905 --> 00:08:49,564
+Está dizendo
+que ajudará a todos?
+
+141
+00:08:49,565 --> 00:08:51,818
+- Eu vou.
+- Então prove.
+
+142
+00:08:52,415 --> 00:08:54,064
+E como sugere
+que eu faça isso?
+
+143
+00:08:54,065 --> 00:08:56,813
+Está desperdiçando doses
+em pessoas saudáveis.
+
+144
+00:08:56,814 --> 00:08:59,283
+Deixe-me ir às ruas
+com o que tenho sobrando,
+
+145
+00:08:59,301 --> 00:09:01,485
+salvar as pessoas
+que estão doentes.
+
+146
+00:09:05,923 --> 00:09:07,978
+O quê?
+Acha que tentarei fugir?
+
+147
+00:09:09,066 --> 00:09:10,463
+Acho que é bobagem.
+
+148
+00:09:10,464 --> 00:09:13,494
+E, dado o estado do mundo,
+acho que é pouco.
+
+149
+00:09:13,735 --> 00:09:17,240
+Mas, se isso
+é o que importa para você...
+
+150
+00:09:36,731 --> 00:09:38,031
+Certo, se preparem.
+
+151
+00:09:53,748 --> 00:09:56,050
+- Limpo!
+- Rápido, rápido.
+
+152
+00:09:57,421 --> 00:09:58,721
+Vamos lá.
+
+153
+00:09:58,722 --> 00:10:00,074
+Rápido, rápido.
+
+154
+00:10:03,011 --> 00:10:04,429
+Parece que tem energia.
+
+155
+00:10:05,659 --> 00:10:07,265
+Sim, graças à minha nora
+
+156
+00:10:07,266 --> 00:10:09,552
+e outras milhares
+de pessoas de Olympia.
+
+157
+00:10:10,052 --> 00:10:11,418
+Vocês ficarão seguros aqui.
+
+158
+00:11:10,137 --> 00:11:11,479
+Está sentindo esse calor?
+
+159
+00:11:16,427 --> 00:11:17,838
+Deve ser o O'Connor.
+
+160
+00:11:26,814 --> 00:11:29,224
+Não é isso.
+Tem que estar aqui!
+
+161
+00:11:29,225 --> 00:11:31,576
+Procurem em tudo!
+Sei que está aqui.
+
+162
+00:11:31,915 --> 00:11:34,848
+Olhem em tudo que é dela!
+Revistem o navio inteiro!
+
+163
+00:11:34,849 --> 00:11:36,810
+Temos que achar
+a amostra primordial!
+
+164
+00:12:08,774 --> 00:12:11,228
+A próxima será
+entre seus olhos.
+
+165
+00:12:12,109 --> 00:12:13,425
+Certo.
+
+166
+00:12:17,332 --> 00:12:18,732
+Calma, criança.
+
+167
+00:12:18,733 --> 00:12:21,448
+O que está fazendo aqui?
+Está doente?
+
+168
+00:12:21,450 --> 00:12:22,962
+Pareço estar doente?
+Não.
+
+169
+00:12:22,963 --> 00:12:25,150
+Só precisei de um lugar
+para passar a noite.
+
+170
+00:12:26,577 --> 00:12:27,877
+Aqui.
+
+171
+00:12:28,339 --> 00:12:29,723
+Você parece estar com fome.
+
+172
+00:12:29,848 --> 00:12:31,148
+Não quero sua comida.
+
+173
+00:12:31,149 --> 00:12:33,170
+Consigo o que eu preciso
+no subterrâneo.
+
+174
+00:12:33,171 --> 00:12:34,700
+E não estou doente.
+
+175
+00:12:34,701 --> 00:12:38,288
+Pintei aquele "X" vermelho
+para afastar panacas como você.
+
+176
+00:12:39,722 --> 00:12:41,081
+Tudo bem, então.
+
+177
+00:12:42,691 --> 00:12:44,986
+Abaixe a arma.
+Vamos conversar como adultos.
+
+178
+00:12:44,987 --> 00:12:48,147
+Se está aqui, é porque trabalha
+para a mulher da Avocet.
+
+179
+00:12:48,161 --> 00:12:50,282
+Não me levará
+para morrer em Olympia.
+
+180
+00:12:50,283 --> 00:12:51,583
+Não.
+
+181
+00:12:51,821 --> 00:12:54,490
+Estou com o navio da Marinha
+dos EUA. Eu tenho a cura.
+
+182
+00:12:54,491 --> 00:12:56,674
+Para trás.
+
+183
+00:12:58,306 --> 00:13:02,436
+Criança, estou te dizendo,
+eu sou um dos mocinhos.
+
+184
+00:13:02,677 --> 00:13:04,723
+E do que estava falando?
+Avocet?
+
+185
+00:13:04,876 --> 00:13:06,445
+Está falando
+da sra. Granderson?
+
+186
+00:13:06,446 --> 00:13:09,192
+Os homens dela vêm à noite
+fingindo serem médicos,
+
+187
+00:13:09,193 --> 00:13:11,009
+mas estão só
+tirando os doentes daqui
+
+188
+00:13:11,010 --> 00:13:12,828
+para poder
+trazer o pessoal dela.
+
+189
+00:13:13,057 --> 00:13:14,483
+"O pessoal dela"?
+
+190
+00:13:15,628 --> 00:13:17,429
+Você realmente
+não faz ideia.
+
+191
+00:13:17,444 --> 00:13:18,760
+Não, cara.
+
+192
+00:13:20,228 --> 00:13:23,093
+Faça-me um favor?
+Sente-se.
+
+193
+00:13:23,611 --> 00:13:25,194
+Comece do começo.
+
+194
+00:13:27,856 --> 00:13:31,118
+- Aonde está me levando?
+- Para a ala executiva.
+
+195
+00:13:31,246 --> 00:13:34,578
+Sua mãe quer você e a dra. Scott
+em quartos mais confortáveis.
+
+196
+00:13:35,820 --> 00:13:38,594
+Ela se importa com você.
+Eventualmente você verá isso.
+
+197
+00:13:38,595 --> 00:13:42,075
+Incluindo Perseu,
+Hércules e Aquiles.
+
+198
+00:13:45,014 --> 00:13:46,314
+Façam suas listas.
+
+199
+00:13:46,315 --> 00:13:48,979
+Haverá um teste sobre isso
+no final da semana.
+
+200
+00:13:50,515 --> 00:13:52,115
+Todas essas pessoas...
+
+201
+00:13:53,396 --> 00:13:56,223
+Elas sabem o que minha mãe
+está fazendo aqui?
+
+202
+00:13:57,632 --> 00:14:00,879
+Pergunte a qualquer uma delas,
+ouvirá a mesma coisa.
+
+203
+00:14:01,856 --> 00:14:03,258
+Estão agradecidas.
+
+204
+00:14:03,974 --> 00:14:06,971
+Todos aqui têm um trabalho,
+todos nós contribuímos.
+
+205
+00:14:07,985 --> 00:14:09,394
+É uma comunidade.
+
+206
+00:14:16,818 --> 00:14:18,986
+Como você não tomou
+o laboratório primeiro?
+
+207
+00:14:18,987 --> 00:14:20,885
+Era o mais importante
+do seu trabalho.
+
+208
+00:14:20,886 --> 00:14:22,719
+- Vamos encontrar.
+- É bom encontrar,
+
+209
+00:14:22,720 --> 00:14:25,532
+porque não podemos fazer a cura
+sem a amostra primordial.
+
+210
+00:14:25,533 --> 00:14:26,849
+Entendeu?
+
+211
+00:14:32,401 --> 00:14:34,741
+Ele está estável,
+mas precisa de mais pontos,
+
+212
+00:14:34,742 --> 00:14:37,115
+e se o grampo soltar,
+ele sangrará em segundos.
+
+213
+00:14:37,116 --> 00:14:40,054
+Ouviu, Quincy?
+Tenha cuidado ao se mover.
+
+214
+00:14:40,358 --> 00:14:42,156
+Onde está
+a amostra primordial?
+
+215
+00:14:47,121 --> 00:14:48,421
+Ei! Ele não o roubou.
+
+216
+00:14:48,440 --> 00:14:50,568
+Estava no passadiço
+quando tomaram o navio.
+
+217
+00:14:50,569 --> 00:14:52,455
+Talvez ele a escondeu antes.
+
+218
+00:14:52,890 --> 00:14:55,686
+Você deve ter adrenalina
+ou algo do tipo para animá-lo.
+
+219
+00:14:55,687 --> 00:14:58,085
+Não acelerarei o coração dele.
+Isso o mataria.
+
+220
+00:14:58,908 --> 00:15:00,518
+Não faça-me pedir de novo.
+
+221
+00:15:21,012 --> 00:15:22,312
+Passando.
+
+222
+00:15:26,450 --> 00:15:27,817
+Aqui vamos nós.
+
+223
+00:16:11,580 --> 00:16:14,149
+<i>Dê ré.
+Venha.</i>
+
+224
+00:16:14,150 --> 00:16:15,497
+<i>Venha.</i>
+
+225
+00:16:19,180 --> 00:16:20,480
+<i>Pare.</i>
+
+226
+00:16:50,341 --> 00:16:51,737
+Vocês estão atrasados.
+
+227
+00:16:51,738 --> 00:16:53,907
+O que fizeram?
+Pegaram o caminho mais longo?
+
+228
+00:16:53,908 --> 00:16:56,527
+Alguns babacas
+tentaram roubar nossos trajes.
+
+229
+00:16:56,654 --> 00:16:58,156
+Acredita nisso?
+
+230
+00:16:58,157 --> 00:17:01,484
+É essa cidade, cara.
+É tudo uma loucura.
+
+231
+00:17:01,485 --> 00:17:03,357
+É.
+Nem me diga.
+
+232
+00:17:08,970 --> 00:17:11,655
+Vocês são novos por aqui?
+Nunca vi vocês antes.
+
+233
+00:17:29,039 --> 00:17:31,519
+- Vamos! Mãos ao alto!
+- Para o chão, agora!
+
+234
+00:17:31,520 --> 00:17:34,005
+Vão para lá.
+Todos ajoelhados.
+
+235
+00:17:34,006 --> 00:17:36,062
+- Deixe-nos ver suas mãos!
+- Mãos ao alto!
+
+236
+00:17:36,063 --> 00:17:37,884
+<i>- Fiquem todos juntos.
+- Vamos!</i>
+
+237
+00:17:37,885 --> 00:17:39,327
+<i>Vão para lá.</i>
+
+238
+00:17:54,048 --> 00:17:56,217
+Chega mais, irmão.
+Pegue a cura.
+
+239
+00:17:56,218 --> 00:17:58,767
+Preparem o pagamento.
+Eu só aceito comida enlatada.
+
+240
+00:17:58,852 --> 00:18:01,047
+- Aqui está.
+- Tome duas vezes ao dia,
+
+241
+00:18:01,048 --> 00:18:03,590
+de manhã e à noite,
+ou a cura não funcionará.
+
+242
+00:18:03,591 --> 00:18:05,826
+Quem é o próximo?
+Não sejam tímidos.
+
+243
+00:18:05,827 --> 00:18:08,837
+Não se preocupem.
+Tem suficiente para todos.
+
+244
+00:18:08,838 --> 00:18:10,527
+Qual é?
+
+245
+00:18:16,438 --> 00:18:18,706
+As pessoas
+fazem isso mesmo?
+
+246
+00:18:18,707 --> 00:18:21,042
+As pessoas sempre
+se aproveitam dos doentes.
+
+247
+00:18:21,043 --> 00:18:22,863
+Isso tem acontecido
+há meses.
+
+248
+00:18:23,911 --> 00:18:26,973
+Achávamos que estávamos
+lutando contra isso.
+
+249
+00:18:30,085 --> 00:18:32,198
+Não.
+Por favor...
+
+250
+00:18:32,661 --> 00:18:33,990
+Esperem.
+
+251
+00:18:35,405 --> 00:18:37,620
+Tenho algo
+que irá fazer vocês melhorarem.
+
+252
+00:18:38,868 --> 00:18:40,664
+Tenho a verdadeira cura.
+
+253
+00:18:42,584 --> 00:18:45,406
+A Granderson acha
+que isso é insignificante.
+
+254
+00:18:46,902 --> 00:18:50,271
+Isso não é insignificante.
+
+255
+00:18:50,272 --> 00:18:52,810
+Tem que acreditar em mim,
+eu não sabia
+
+256
+00:18:52,813 --> 00:18:54,674
+o que ela
+estava fazendo em Olympia.
+
+257
+00:18:54,675 --> 00:18:58,247
+Tirando o Hamada, a maioria
+dos médicos, da equipe...
+
+258
+00:18:58,947 --> 00:19:00,916
+Nós achávamos
+que estávamos ajudando.
+
+259
+00:19:00,923 --> 00:19:02,425
+Você terá tempo
+para se redimir
+
+260
+00:19:02,426 --> 00:19:04,195
+quando os outros
+vierem me procurar.
+
+261
+00:19:05,111 --> 00:19:06,585
+E eles virão.
+
+262
+00:19:38,629 --> 00:19:39,945
+Escadas!
+
+263
+00:20:13,515 --> 00:20:15,575
+Não atire!
+Estou do seu lado!
+
+264
+00:20:15,576 --> 00:20:17,828
+Estou com Thorwald,
+com os rebeldes.
+
+265
+00:20:18,242 --> 00:20:19,542
+Quais rebeldes?
+
+266
+00:20:19,543 --> 00:20:21,498
+Eles nos chamam
+de senhores da guerra.
+
+267
+00:20:21,499 --> 00:20:23,879
+Posso te mostrar.
+Posso te levar até o cara.
+
+268
+00:20:31,639 --> 00:20:34,341
+Já se passaram horas.
+Onde ele está?
+
+269
+00:20:34,342 --> 00:20:36,853
+Ele está bem, Ashley.
+Ele ficará bem.
+
+270
+00:20:37,634 --> 00:20:39,938
+Vamos, Ash.
+Tome um pouco de sopa.
+
+271
+00:20:42,283 --> 00:20:45,881
+Sim, sente-se ali.
+Coma um pouco.
+
+272
+00:20:46,488 --> 00:20:47,804
+Aqui.
+
+273
+00:20:53,320 --> 00:20:55,688
+Eu sempre soube
+que o Tommy sobreviveria a isso.
+
+274
+00:20:55,689 --> 00:20:57,852
+Se alguém podia sobreviver
+era o meu filho.
+
+275
+00:20:57,853 --> 00:20:59,925
+Ele sabia o que estava em jogo
+para todos.
+
+276
+00:20:59,926 --> 00:21:02,561
+Ele não nos deixou falhar antes
+e não deixará agora.
+
+277
+00:21:02,562 --> 00:21:03,874
+Eu falhei com ele.
+
+278
+00:21:04,505 --> 00:21:07,165
+Se ele não tivesse chegado
+em Olympia quando chegou...
+
+279
+00:21:08,309 --> 00:21:10,058
+Se esta cidade
+é uma indicação
+
+280
+00:21:10,059 --> 00:21:12,611
+do que o nosso país se tornou,
+sr. Chandler...
+
+281
+00:21:12,906 --> 00:21:16,349
+Até onde sei, você é um herói
+por ter sobrevivido tanto tempo.
+
+282
+00:21:22,419 --> 00:21:23,906
+Sam, qual é o problema?
+
+283
+00:21:23,907 --> 00:21:27,169
+Não estou
+me sentindo muito bem.
+
+284
+00:21:32,701 --> 00:21:34,549
+<i>Entendo.
+Vou cuidar disso.</i>
+
+285
+00:21:43,214 --> 00:21:45,399
+Cara, estamos sentados aqui
+há horas.
+
+286
+00:21:45,400 --> 00:21:47,460
+- Todos estão suando em bicas.
+- Sente-se!
+
+287
+00:21:47,461 --> 00:21:50,304
+- Precisamos usar o banheiro.
+- Cruz, venha. Acalme-se.
+
+288
+00:21:51,982 --> 00:21:53,618
+Qual é, cara?
+
+289
+00:21:54,294 --> 00:21:55,740
+Saiam de cima de mim!
+
+290
+00:21:56,691 --> 00:21:59,179
+- Tudo bem!
+- Viu o que está havendo aqui?
+
+291
+00:21:59,180 --> 00:22:00,930
+- Está sentindo?
+- Sim, está quente.
+
+292
+00:22:00,931 --> 00:22:03,798
+- Abriremos a porta.
+- O problema não é o termostato.
+
+293
+00:22:03,799 --> 00:22:06,925
+O motor superaqueceu porque
+não há ninguém para consertá-lo.
+
+294
+00:22:06,926 --> 00:22:08,401
+Se a caixa redutora quebrar
+
+295
+00:22:08,402 --> 00:22:10,537
+este navio será inútil
+para todos.
+
+296
+00:22:10,538 --> 00:22:13,722
+Presumo que esse seja um bem
+que seu pessoal não pode perder.
+
+297
+00:22:14,408 --> 00:22:17,317
+- Pode consertá-lo?
+- Meu engenheiro pode.
+
+298
+00:22:17,779 --> 00:22:20,313
+Mas, em troca, você nos levará
+para o refeitório.
+
+299
+00:22:20,314 --> 00:22:23,950
+Tem comida, água e as pessoas
+poderão usar o banheiro.
+
+300
+00:22:23,951 --> 00:22:26,763
+Você não está em posição
+para negociar conosco.
+
+301
+00:22:27,733 --> 00:22:29,414
+Você está certo sobre isso.
+
+302
+00:22:29,549 --> 00:22:31,142
+Você está
+absolutamente certo.
+
+303
+00:22:32,407 --> 00:22:34,510
+Mas está vendo
+o que está acontecendo aqui?
+
+304
+00:22:36,697 --> 00:22:39,175
+Eu não serei capaz de controlar
+o meu pessoal.
+
+305
+00:22:43,671 --> 00:22:44,987
+Vamos!
+
+306
+00:22:45,474 --> 00:22:46,952
+Não posso me apressar.
+
+307
+00:22:46,953 --> 00:22:49,557
+Toda a casa de máquinas
+pode explodir.
+
+308
+00:22:51,605 --> 00:22:52,905
+Certo.
+
+309
+00:22:58,930 --> 00:23:00,914
+Pronto.
+Consegui.
+
+310
+00:23:01,456 --> 00:23:02,840
+Quanto tempo até resfriar?
+
+311
+00:23:02,841 --> 00:23:05,193
+O ar passando
+por essa ventilação está a 4°C.
+
+312
+00:23:05,194 --> 00:23:06,813
+Não vai demorar muito.
+
+313
+00:23:24,029 --> 00:23:26,038
+Isso é mesmo necessário?
+
+314
+00:23:26,039 --> 00:23:28,090
+Como iremos usar o banheiro?
+
+315
+00:23:28,091 --> 00:23:30,094
+Não foi com isso
+que concordamos.
+
+316
+00:23:30,475 --> 00:23:33,445
+Eu disse que iria movê-los,
+não disse que seria confortável.
+
+317
+00:23:34,288 --> 00:23:35,588
+Vá.
+
+318
+00:23:37,929 --> 00:23:39,261
+Ande!
+
+319
+00:23:42,850 --> 00:23:44,324
+Continue andando.
+
+320
+00:23:53,637 --> 00:23:55,727
+Está tudo bem, amigão.
+Aguente firme.
+
+321
+00:24:01,009 --> 00:24:02,324
+Ele está com febre.
+
+322
+00:24:02,325 --> 00:24:04,181
+Não tem nada
+nos armários de remédios?
+
+323
+00:24:04,182 --> 00:24:05,558
+Nem mesmo uma aspirina.
+
+324
+00:24:05,559 --> 00:24:07,781
+Não podemos deixar o Sam morrer.
+Não podemos.
+
+325
+00:24:07,782 --> 00:24:10,245
+A cura funciona.
+É só um efeito colateral.
+
+326
+00:24:10,246 --> 00:24:12,253
+Temos que abaixar
+essa febre.
+
+327
+00:24:12,588 --> 00:24:15,032
+Temos água.
+Deem um banho frio nele.
+
+328
+00:24:15,033 --> 00:24:16,401
+Voltarei em alguns minutos.
+
+329
+00:24:16,402 --> 00:24:19,644
+- Aonde você vai?
+- Procurar uma farmácia.
+
+330
+00:24:20,896 --> 00:24:23,076
+Aqui.
+Vamos levá-lo lá para cima.
+
+331
+00:24:23,077 --> 00:24:24,400
+Vamos lá, amigão.
+
+332
+00:24:25,637 --> 00:24:27,141
+Vai doer?
+
+333
+00:24:27,142 --> 00:24:30,002
+Não, não doerá
+nem um pouquinho.
+
+334
+00:24:30,003 --> 00:24:32,064
+Todos nós
+nos sentiremos melhor em breve.
+
+335
+00:24:40,668 --> 00:24:42,389
+Sinto muito.
+Eu...
+
+336
+00:24:43,361 --> 00:24:45,051
+Eu só tenho mais uma.
+
+337
+00:24:49,649 --> 00:24:51,346
+Meu bebê viverá?
+
+338
+00:25:10,388 --> 00:25:12,200
+Você é um garoto grande
+e corajoso.
+
+339
+00:25:25,047 --> 00:25:28,463
+Bem-vindos à Avocet.
+Entre e vire à esquerda.
+
+340
+00:25:28,650 --> 00:25:31,234
+- Qual é a sua qualificação?
+- Eletrônica.
+
+341
+00:25:31,235 --> 00:25:34,025
+Preciso ver as pulseiras.
+Qualificação?
+
+342
+00:25:34,513 --> 00:25:38,091
+Preciso ver pulseiras
+para provar que foram testados.
+
+343
+00:25:38,092 --> 00:25:39,971
+Preciso ver as pulseiras.
+
+344
+00:25:39,972 --> 00:25:42,429
+- Qual é a sua qualificação?
+- Não entendo.
+
+345
+00:25:42,430 --> 00:25:44,329
+Nós estamos saudáveis,
+todos nós.
+
+346
+00:25:44,330 --> 00:25:45,861
+Desculpe.
+Não posso fazer nada.
+
+347
+00:25:45,862 --> 00:25:48,393
+Se não nos deixam entrar,
+aonde deveremos ir?
+
+348
+00:25:48,762 --> 00:25:50,643
+Obrigada.
+Bem-vindos à Avocet.
+
+349
+00:25:50,644 --> 00:25:51,952
+Obrigada.
+
+350
+00:25:53,524 --> 00:25:56,086
+- Qual é a sua qualificação?
+- Segurança.
+
+351
+00:25:56,087 --> 00:25:57,986
+Obrigada.
+Bem-vindo à Avocet.
+
+352
+00:25:57,987 --> 00:26:01,557
+Não. Precisaremos de explosivos
+maiores se formos por esse lado.
+
+353
+00:26:03,208 --> 00:26:05,294
+O que faz aqui?
+Por que não está na usina?
+
+354
+00:26:05,295 --> 00:26:07,208
+- Não, não. Eles são legais.
+- Parados!
+
+355
+00:26:07,209 --> 00:26:09,929
+Eles são legais.
+Eles estão comigo.
+
+356
+00:26:09,930 --> 00:26:13,408
+Eles tomaram a usina,
+mataram os caras da Granderson.
+
+357
+00:26:13,409 --> 00:26:16,285
+Perdemos o elemento surpresa?
+Ela saberá que estamos indo.
+
+358
+00:26:16,286 --> 00:26:18,990
+Tomamos a usina, não significa
+que cortamos a energia.
+
+359
+00:26:18,991 --> 00:26:22,094
+Até onde a Granderson sabe,
+o império dela está intacto.
+
+360
+00:26:22,095 --> 00:26:23,825
+Esse é o tenente Burk.
+
+361
+00:26:24,268 --> 00:26:26,608
+Sou o comandante Tom Chandler,
+Marinha dos EUA.
+
+362
+00:26:26,609 --> 00:26:28,942
+- Nosso navio aportou de manhã.
+- Sei quem são.
+
+363
+00:26:28,943 --> 00:26:31,204
+Vi você cooperando
+com a Granderson no píer.
+
+364
+00:26:31,205 --> 00:26:32,774
+Eu não te conheço.
+
+365
+00:26:33,528 --> 00:26:36,673
+A essa altura, não confio
+em ninguém que conheci aqui,
+
+366
+00:26:36,674 --> 00:26:38,860
+mas sei que a Granderson
+teme e odeia vocês,
+
+367
+00:26:38,861 --> 00:26:40,314
+então vou agir
+sob a premissa
+
+368
+00:26:40,315 --> 00:26:42,820
+de que o inimigo do meu inimigo
+pode ser meu amigo.
+
+369
+00:26:42,821 --> 00:26:45,758
+Se for esse o caso,
+podemos nos ajudar.
+
+370
+00:26:46,722 --> 00:26:49,503
+Os helicópteros da Granderson
+pairando sobre o seu navio
+
+371
+00:26:49,511 --> 00:26:53,103
+- não estão lá para te proteger?
+- Não exatamente, não.
+
+372
+00:26:57,881 --> 00:26:59,616
+Abaixem suas armas.
+
+373
+00:27:08,808 --> 00:27:10,294
+Ela te enganou.
+
+374
+00:27:10,415 --> 00:27:13,255
+- Ela tinha boas referências.
+- É verdade que têm a cura?
+
+375
+00:27:13,256 --> 00:27:15,409
+A doutora que a inventou
+é refém na Avocet,
+
+376
+00:27:15,410 --> 00:27:18,038
+junto com as instalações
+necessárias para fazer mais.
+
+377
+00:27:18,039 --> 00:27:20,598
+Ambos, ela e o laboratório,
+devem sobreviver à luta,
+
+378
+00:27:20,599 --> 00:27:22,037
+de qualquer jeito.
+
+379
+00:27:22,179 --> 00:27:23,509
+Você está atrasado.
+
+380
+00:27:23,603 --> 00:27:26,143
+- Tomaremos a Avocet essa noite.
+- Vocês?
+
+381
+00:27:26,293 --> 00:27:28,786
+- Eles têm mais homens e armas.
+- O quê?
+
+382
+00:27:29,335 --> 00:27:32,325
+Vão ligar para a Granderson
+e pedir a rendição dela?
+
+383
+00:27:32,326 --> 00:27:34,107
+Assim que cortarmos
+a eletricidade,
+
+384
+00:27:34,108 --> 00:27:37,064
+ela mandará tudo que tem
+para recuperá-la.
+
+385
+00:27:37,391 --> 00:27:40,603
+Da Avocet e do meu navio.
+
+386
+00:27:41,517 --> 00:27:43,386
+Ambos estarão vulneráveis.
+
+387
+00:27:44,316 --> 00:27:46,729
+Ambos serão tomados por nós.
+
+388
+00:27:48,524 --> 00:27:50,285
+Então pararemos a matança
+em Olympia
+
+389
+00:27:50,286 --> 00:27:53,113
+e voltaremos à tarefa
+de curar o mundo.
+
+390
+00:27:54,146 --> 00:27:58,249
+Ajude-me a executar o meu plano
+e a derrubaremos juntos.
+
+391
+00:27:58,502 --> 00:28:01,384
+Mesmo que ela mande dúzias
+de patrulheiros para a usina
+
+392
+00:28:01,385 --> 00:28:04,006
+você não poderá tomar a Avocet
+com um ataque frontal.
+
+393
+00:28:04,007 --> 00:28:05,805
+Tem uma ideia melhor?
+
+394
+00:28:06,821 --> 00:28:08,857
+O que você acha
+que estamos fazendo aqui?
+
+395
+00:28:14,905 --> 00:28:17,012
+Tudo bem, Quincy.
+Você está bem?
+
+396
+00:28:17,013 --> 00:28:19,093
+Não gosto disso,
+de nada disso.
+
+397
+00:28:19,094 --> 00:28:21,331
+Se desistirmos,
+podemos levá-lo à enfermaria.
+
+398
+00:28:21,332 --> 00:28:25,131
+Não, se acharem o que procuram,
+eles matarão todos nós.
+
+399
+00:28:28,992 --> 00:28:30,868
+- Bem?
+- Não posso acelerar
+
+400
+00:28:30,869 --> 00:28:33,480
+ou o coração dele parará.
+Preciso de uns minutos.
+
+401
+00:28:59,883 --> 00:29:01,191
+Vigie-os.
+
+402
+00:29:42,463 --> 00:29:44,177
+Você tem 5 minutos.
+
+403
+00:29:52,826 --> 00:29:55,417
+Seu louco.
+Como voltou para o navio?
+
+404
+00:29:55,418 --> 00:29:57,865
+Escalei a corrente da âncora.
+Saí bem no nariz.
+
+405
+00:29:57,866 --> 00:29:59,447
+- Inacreditável.
+- Sim.
+
+406
+00:29:59,448 --> 00:30:01,273
+O que diabos faremos agora?
+
+407
+00:30:03,671 --> 00:30:06,713
+Iremos até o arsenal,
+abriremos a porta
+
+408
+00:30:06,714 --> 00:30:09,320
+- e botaremos para quebrar.
+- Botaremos para quebrar.
+
+409
+00:30:26,929 --> 00:30:29,073
+Encontrei isso no quarto
+do dr. Tophet.
+
+410
+00:30:32,105 --> 00:30:35,118
+Mamãe, você e a garota
+virão comigo.
+
+411
+00:30:35,684 --> 00:30:37,050
+Elas não irão
+a lugar algum.
+
+412
+00:30:37,051 --> 00:30:38,686
+De jeito nenhum,
+de forma alguma.
+
+413
+00:30:38,687 --> 00:30:41,869
+Esperem, todos.
+Vamos ficar calmos.
+
+414
+00:30:41,870 --> 00:30:46,261
+Tem 170 de nós nesse navio.
+E uns 25 de vocês?
+
+415
+00:30:46,351 --> 00:30:50,062
+Podem derrubar alguns de nós,
+mas acabaemos com vocês.
+
+416
+00:30:57,593 --> 00:30:59,264
+Eu irei!
+
+417
+00:30:59,265 --> 00:31:00,892
+Só deixem a minha filha aqui.
+
+418
+00:31:00,893 --> 00:31:03,082
+- Mamãe!
+- Está tudo bem, querida.
+
+419
+00:31:05,833 --> 00:31:07,171
+Está tudo bem, docinho.
+
+420
+00:31:07,172 --> 00:31:09,498
+Ela irá ver seu papai
+e eles voltarão logo.
+
+421
+00:31:09,499 --> 00:31:10,805
+Sente-o.
+
+422
+00:31:15,384 --> 00:31:18,136
+Onde você a escondeu, grandão?
+Sei que foi você.
+
+423
+00:31:18,264 --> 00:31:20,097
+Mesmo que eu
+a tenha escondido...
+
+424
+00:31:21,253 --> 00:31:23,174
+por que eu te diria?
+
+425
+00:31:23,458 --> 00:31:24,761
+Maldição.
+
+426
+00:31:24,762 --> 00:31:27,079
+- Você dirá, ou eu...
+- Não farão nada, Quincy!
+
+427
+00:31:27,080 --> 00:31:28,701
+Precisam de você
+e da dra. Scott.
+
+428
+00:31:28,702 --> 00:31:30,309
+Tenho um presente para você.
+
+429
+00:31:31,352 --> 00:31:34,097
+Quincy! Seja o que for,
+dê o que eles querem!
+
+430
+00:31:34,098 --> 00:31:37,368
+- Por favor!
+- Sim, você pode estar certo.
+
+431
+00:31:37,369 --> 00:31:40,243
+Podemos precisar dele,
+mas não precisamos dela.
+
+432
+00:31:40,244 --> 00:31:43,325
+- É melhor começarem a falar...
+- Maldito covarde!
+
+433
+00:31:46,734 --> 00:31:49,287
+- Qual é o problema de vocês?
+- Eu contarei até 5.
+
+434
+00:31:49,288 --> 00:31:51,911
+Não preciso explicar
+o que acontece se não falarem.
+
+435
+00:31:51,912 --> 00:31:53,225
+Tudo bem.
+
+436
+00:31:54,561 --> 00:31:55,931
+Por favor.
+
+437
+00:31:57,781 --> 00:31:59,108
+Eu a escondi.
+
+438
+00:31:59,489 --> 00:32:01,145
+Eu sei onde está.
+
+439
+00:32:02,974 --> 00:32:04,630
+Eu vou matá-la.
+Você sabe que vou.
+
+440
+00:32:04,631 --> 00:32:05,937
+Tudo bem.
+
+441
+00:32:07,271 --> 00:32:10,020
+Tudo bem.
+Tudo bem.
+
+442
+00:32:13,603 --> 00:32:15,279
+Eu te amo, Kelly.
+
+443
+00:32:18,930 --> 00:32:21,793
+- Eu sinto muito.
+- Onde está?
+
+444
+00:32:23,129 --> 00:32:24,991
+Você nunca a encontrará.
+
+445
+00:33:10,679 --> 00:33:12,605
+Bem-vindo
+à cidade dos rejeitados.
+
+446
+00:33:13,539 --> 00:33:17,566
+- Pessoas vivem aqui?
+- Haviam 487 na última contagem.
+
+447
+00:33:17,567 --> 00:33:19,677
+A maioria deles
+tenta chegar em Avocet
+
+448
+00:33:19,678 --> 00:33:21,625
+mas não são considerados
+valiosos.
+
+449
+00:33:22,483 --> 00:33:26,448
+A Granderson oferece segurança
+aos escolhidos dela,
+
+450
+00:33:26,449 --> 00:33:28,109
+uma aparência
+de normalidade.
+
+451
+00:33:28,709 --> 00:33:31,496
+O resto acaba achando
+o caminho para o subterrâneo.
+
+452
+00:33:31,857 --> 00:33:34,211
+Ela tomará
+o máximo possível da cidade
+
+453
+00:33:34,808 --> 00:33:36,536
+e então virá atrás de nós.
+
+454
+00:33:36,537 --> 00:33:38,096
+É só uma questão de tempo.
+
+455
+00:33:38,240 --> 00:33:40,693
+E os patrulheiros
+que trabalham para a Granderson.
+
+456
+00:33:41,756 --> 00:33:43,903
+Eles sabem o que ela faz
+em Olympia?
+
+457
+00:33:44,465 --> 00:33:46,374
+Levando os doentes
+para o matadouro
+
+458
+00:33:46,375 --> 00:33:48,003
+e queimando-os
+como combustível?
+
+459
+00:33:48,004 --> 00:33:50,659
+As pessoas farão tudo
+o que puderem para sobreviver.
+
+460
+00:33:50,660 --> 00:33:52,346
+Eles fazem
+suas próprias escolhas.
+
+461
+00:33:52,932 --> 00:33:55,360
+Ela deve ter tentado
+recrutar você.
+
+462
+00:33:55,738 --> 00:33:57,306
+Ela tentou.
+
+463
+00:34:02,240 --> 00:34:05,744
+Sei que tudo que aconteceu
+nos últimos dias
+
+464
+00:34:05,745 --> 00:34:08,130
+tem sido muito confuso
+para você.
+
+465
+00:34:08,484 --> 00:34:10,599
+O mundo agora é confuso
+
+466
+00:34:10,992 --> 00:34:12,742
+para todos nós.
+
+467
+00:34:12,974 --> 00:34:14,857
+Mas eu te asseguro
+
+468
+00:34:15,467 --> 00:34:19,077
+que estou tentando causar
+o mínimo de dano possível.
+
+469
+00:34:20,227 --> 00:34:21,944
+Mas você deveria saber
+
+470
+00:34:23,539 --> 00:34:25,562
+que o dr. Tophet morreu.
+
+471
+00:34:25,563 --> 00:34:28,179
+Ele tirou a própria vida
+para não nos dizer
+
+472
+00:34:28,180 --> 00:34:30,298
+onde ele escondeu
+a amostra primordial.
+
+473
+00:34:31,646 --> 00:34:33,088
+Então.
+
+474
+00:34:34,121 --> 00:34:37,462
+Preciso da sua ajuda
+para colocar um fim nisso tudo.
+
+475
+00:34:41,103 --> 00:34:44,731
+O único jeito
+disso tudo terminar
+
+476
+00:34:44,732 --> 00:34:47,351
+é se você desistir.
+
+477
+00:34:49,348 --> 00:34:52,881
+Como uma tenente
+da Marinha dos EUA
+
+478
+00:34:53,030 --> 00:34:56,553
+estou qualificada
+para aceitar sua rendição.
+
+479
+00:34:59,277 --> 00:35:01,097
+Minha rendição?
+
+480
+00:35:01,745 --> 00:35:03,271
+Não.
+
+481
+00:35:05,111 --> 00:35:07,233
+Você ficará comigo,
+garotinha.
+
+482
+00:35:08,274 --> 00:35:12,160
+Veja quem se renderá
+a quem.
+
+483
+00:35:49,550 --> 00:35:51,366
+Acha mesmo
+que sairá impune?
+
+484
+00:35:51,367 --> 00:35:52,667
+Cale-se!
+
+485
+00:35:59,952 --> 00:36:01,925
+Eu tenho
+toda a pesquisa dela.
+
+486
+00:36:02,505 --> 00:36:04,961
+Eu poderia fazer a cura,
+mesmo sem a ajuda dela.
+
+487
+00:36:05,025 --> 00:36:06,991
+Se eu tivesse
+a amostra primordial.
+
+488
+00:36:08,668 --> 00:36:10,551
+Este é o grande "se"
+do momento.
+
+489
+00:36:12,831 --> 00:36:14,180
+Espere um minuto.
+
+490
+00:36:17,792 --> 00:36:19,636
+Chame a Granderson no rádio.
+
+491
+00:36:23,062 --> 00:36:25,517
+Eles jogaram o corpo dele
+no mar.
+
+492
+00:36:28,165 --> 00:36:30,044
+Tranque esse idiota
+na sala de mapas.
+
+493
+00:36:30,045 --> 00:36:31,363
+O que você está fazendo?
+
+494
+00:36:33,679 --> 00:36:35,163
+Quer ir para o round 2?
+
+495
+00:36:36,402 --> 00:36:38,722
+Se ele tentar sair,
+atire nele.
+
+496
+00:36:41,701 --> 00:36:44,911
+Tenente Foster,
+você vai fazer uma viagem.
+
+497
+00:36:44,912 --> 00:36:46,471
+Não, espere.
+
+498
+00:36:47,078 --> 00:36:49,783
+Tire suas mãos de mim,
+solte-me!
+
+499
+00:36:49,784 --> 00:36:51,084
+Cuidado.
+
+500
+00:36:52,191 --> 00:36:54,059
+<i>Espere, não.
+Espere.</i>
+
+501
+00:37:08,065 --> 00:37:09,765
+Pensei que iríamos
+ao laboratório.
+
+502
+00:37:09,766 --> 00:37:11,634
+Granderson quer ver a gênio.
+
+503
+00:37:11,635 --> 00:37:13,884
+O assistente dela
+escondeu algo importante.
+
+504
+00:37:13,885 --> 00:37:15,571
+Ele preferiu morrer a falar.
+
+505
+00:37:15,861 --> 00:37:18,285
+- O dr. Tophet?
+- Eu não sei o nome dele.
+
+506
+00:37:29,758 --> 00:37:31,284
+Estão descendo?
+
+507
+00:37:47,216 --> 00:37:48,700
+Vão em frente.
+
+508
+00:37:49,100 --> 00:37:50,521
+Eu cuido dele.
+
+509
+00:37:52,042 --> 00:37:53,794
+Pensei que você
+tivesse ido embora.
+
+510
+00:37:53,866 --> 00:37:55,414
+Eu fiz um novo amigo.
+
+511
+00:37:55,415 --> 00:37:57,545
+Ele me disse
+o que estava acontecendo aqui.
+
+512
+00:37:57,650 --> 00:37:59,689
+Achei que eu tinha que ver
+por mim mesmo.
+
+513
+00:38:09,085 --> 00:38:10,697
+Como você está, Sammy?
+
+514
+00:38:12,468 --> 00:38:13,952
+Não funcionou.
+
+515
+00:38:14,045 --> 00:38:16,222
+Banho gelado,
+mas ele ainda está com febre.
+
+516
+00:38:16,794 --> 00:38:18,345
+Precisamos ligar
+para o papai.
+
+517
+00:38:18,346 --> 00:38:21,041
+Não iremos trazer seu pai
+de volta para cá.
+
+518
+00:38:21,042 --> 00:38:22,659
+O Russ voltará.
+
+519
+00:38:22,660 --> 00:38:25,878
+E o Sammy ficará bem.
+
+520
+00:38:26,913 --> 00:38:30,479
+- Vou dar 20 minutos a ele.
+- Você não vai dar nada a ele.
+
+521
+00:38:30,480 --> 00:38:32,732
+Eu posso ir lá fora,
+ninguém vai me ver.
+
+522
+00:38:32,888 --> 00:38:35,222
+Não, você não irá
+a lugar nenhum.
+
+523
+00:38:35,223 --> 00:38:37,339
+Você ficará aqui conosco.
+
+524
+00:38:39,667 --> 00:38:42,045
+Não vou deixar o Sam morrer.
+
+525
+00:38:44,071 --> 00:38:45,387
+Veja...
+
+526
+00:38:47,987 --> 00:38:50,912
+O suboficial foi a pé.
+
+527
+00:38:50,993 --> 00:38:52,519
+Isso leva tempo.
+
+528
+00:38:52,801 --> 00:38:57,080
+E se houver remédio por aí,
+ele encontrará.
+
+529
+00:39:04,480 --> 00:39:07,994
+E se alguém for,
+esse alguém será eu.
+
+530
+00:39:09,201 --> 00:39:10,754
+20 minutos.
+
+531
+00:39:41,800 --> 00:39:43,454
+Há uma velha
+saída de incêndio
+
+532
+00:39:43,455 --> 00:39:46,144
+que passa por trás
+e termina atrás das lixeiras.
+
+533
+00:39:46,145 --> 00:39:48,588
+Eu olhei todo o lugar,
+é a única saída segura.
+
+534
+00:39:48,589 --> 00:39:50,609
+- Solte-me, eu não vou...
+- Vamos.
+
+535
+00:39:51,417 --> 00:39:53,449
+Solte-me,
+tire suas mãos de mim.
+
+536
+00:39:53,450 --> 00:39:54,774
+Aquela é a Kara?
+
+537
+00:39:55,206 --> 00:39:57,153
+Meu Deus, não.
+
+538
+00:39:58,340 --> 00:40:00,491
+Eles devem
+ter descoberto a gravidez.
+
+539
+00:40:00,635 --> 00:40:04,920
+Eles usarão as células-tronco
+do bebê para recriar a vacina.
+
+540
+00:40:04,921 --> 00:40:06,616
+Vá, use a escada do telhado.
+
+541
+00:40:06,617 --> 00:40:08,644
+Vou cuidar dela
+e achar a Alisha também.
+
+542
+00:40:08,645 --> 00:40:10,586
+De jeito nenhum,
+sei aonde vão levá-la.
+
+543
+00:40:10,587 --> 00:40:11,916
+Posso te mostrar.
+
+544
+00:40:13,141 --> 00:40:14,788
+Mulher difícil.
+
+545
+00:40:16,846 --> 00:40:18,630
+- Vamos.
+- Sim, doutor.
+
+546
+00:40:18,631 --> 00:40:20,926
+Coloque-a na mesa
+e aqueça o equipamento.
+
+547
+00:40:21,258 --> 00:40:23,830
+Não!
+
+548
+00:40:23,831 --> 00:40:25,533
+Parem!
+
+549
+00:40:25,534 --> 00:40:28,218
+Rápido,
+vamos tirar o macacão dela.
+
+550
+00:40:28,219 --> 00:40:31,266
+- Não consigo.
+- Abra ele!
+
+551
+00:40:31,267 --> 00:40:33,542
+- Vamos. Rápido!
+- Ajude-me!
+
+552
+00:40:36,168 --> 00:40:38,376
+O porão da Avocet
+é bem aqui em cima.
+
+553
+00:40:38,377 --> 00:40:39,797
+Ela nem nos ouvirá chegando.
+
+554
+00:40:39,798 --> 00:40:41,921
+Já que é do seu jeito,
+espero que seu amigo
+
+555
+00:40:41,922 --> 00:40:44,737
+- nos dê tempo o bastante.
+- Desligando em 5 minutos.
+
+556
+00:40:44,738 --> 00:40:46,948
+Achem nosso pessoal
+e protejam o laboratório.
+
+557
+00:40:46,949 --> 00:40:49,778
+Façam o que tiverem que fazer.
+Eu só quero a Granderson.
+
+558
+00:40:51,918 --> 00:40:54,158
+- Acalme-se.
+- Tenente!
+
+559
+00:40:54,159 --> 00:40:55,605
+- Não!
+- Escute-me.
+
+560
+00:40:57,296 --> 00:40:58,932
+Quer salvar seu bebê?
+
+561
+00:40:58,945 --> 00:41:00,536
+Tenente, me escute.
+
+562
+00:41:00,537 --> 00:41:04,299
+Ouviu o que eu disse?
+Você quer salvar seu bebê?
+
+563
+00:41:04,413 --> 00:41:06,752
+Porque não faço cirurgias
+desde a faculdade.
+
+564
+00:41:07,157 --> 00:41:09,362
+Se quiser que ao menos
+um de vocês sobreviva
+
+565
+00:41:09,852 --> 00:41:12,076
+precisa se acalmar
+e ficar parada.
+
+566
+00:41:12,077 --> 00:41:13,513
+Você entendeu?
+
+567
+00:41:21,542 --> 00:41:23,558
+Legende conosco!
+@InSUBs | www.insubs.com
+
