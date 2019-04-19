@@ -1,0 +1,1443 @@
+60
+00:03:17,995 --> 00:03:19,835
+<i>Dizem que sou problema</i>
+
+61
+00:03:19,836 --> 00:03:21,836
+<i>Dizem que sou ruim</i>
+
+62
+00:03:21,837 --> 00:03:23,591
+<i>Dizem que sou má</i>
+
+63
+00:03:23,592 --> 00:03:25,680
+<i>E isso me deixa feliz</i>
+
+64
+00:03:25,681 --> 00:03:27,534
+<i>Uma suja malvada</i>
+
+65
+00:03:27,535 --> 00:03:29,252
+<i>Até os ossos</i>
+
+66
+00:03:29,253 --> 00:03:31,229
+<i>Seu pior pesadelo</i>
+
+67
+00:03:31,230 --> 00:03:33,057
+<i>Não pode me mandar embora</i>
+
+68
+00:03:33,058 --> 00:03:35,135
+<i>Eu tenho travessura</i>
+
+69
+00:03:35,136 --> 00:03:37,106
+<i>Em meu sangue</i>
+
+70
+00:03:37,107 --> 00:03:38,579
+<i>Mas a culpa é minha?</i>
+
+71
+00:03:38,580 --> 00:03:40,568
+<i>Eu nunca tive amor</i>
+
+72
+00:03:40,569 --> 00:03:42,492
+<i>Acham que sou insensível</i>
+
+73
+00:03:42,493 --> 00:03:44,354
+<i>Um ladrãozinho de nada</i>
+
+74
+00:03:44,355 --> 00:03:46,148
+<i>Sinto-me tão inútil</i>
+
+75
+00:03:46,149 --> 00:03:48,089
+<i>Incompreendido</i>
+
+76
+00:03:48,720 --> 00:03:52,468
+<i>Espelho, espelho meu</i>
+
+77
+00:03:52,469 --> 00:03:56,210
+<i>Quem é o mais malvado
+de todos?</i>
+
+78
+00:03:56,211 --> 00:04:00,865
+<i>Bem-vindo
+ao meu mundo perverso</i>
+
+79
+00:04:00,866 --> 00:04:02,623
+<i>Mundo perverso</i>
+
+80
+00:04:02,624 --> 00:04:04,580
+<i>Sou podre até a alma, alma</i>
+
+81
+00:04:04,581 --> 00:04:06,431
+<i>Podre até a alma</i>
+
+82
+00:04:06,432 --> 00:04:08,558
+<i>Sou podre até a alma, alma</i>
+
+83
+00:04:08,559 --> 00:04:10,057
+<i>Quem pediria por mais?</i>
+
+84
+00:04:10,058 --> 00:04:12,227
+<i>Não sou nada parecido
+com a criança</i>
+
+85
+00:04:12,228 --> 00:04:13,807
+<i>Com a criança ao lado</i>
+
+86
+00:04:13,808 --> 00:04:17,502
+<i>Sou podre até...</i>
+
+87
+00:04:17,503 --> 00:04:20,188
+<i>Sou podre até a alma</i>
+
+88
+00:04:25,649 --> 00:04:27,420
+<i>Chame-me de traidora</i>
+
+89
+00:04:27,421 --> 00:04:29,322
+<i>Chame-me de aberração</i>
+
+90
+00:04:29,323 --> 00:04:31,208
+<i>Como você pode dizer isso?</i>
+
+91
+00:04:31,209 --> 00:04:33,102
+<i>Sou apenas única</i>
+
+92
+00:04:33,103 --> 00:04:34,953
+<i>O que, eu, um traidor?</i>
+
+93
+00:04:34,954 --> 00:04:36,865
+<i>Não estou te dando cobertura?</i>
+
+94
+00:04:36,866 --> 00:04:38,615
+<i>Não somos amigos?</i>
+
+95
+00:04:38,616 --> 00:04:40,517
+<i>Qual o problema nisso?</i>
+
+96
+00:04:40,518 --> 00:04:42,369
+<i>Então, sou desajustada?</i>
+
+97
+00:04:42,370 --> 00:04:44,254
+<i>Então, sou sedutora?</i>
+
+98
+00:04:44,255 --> 00:04:46,177
+<i>Parti seu coração?</i>
+
+99
+00:04:46,178 --> 00:04:48,174
+<i>Eu te magoei?</i>
+
+100
+00:04:48,175 --> 00:04:50,010
+<i>O passado é passado</i>
+
+101
+00:04:50,011 --> 00:04:51,862
+<i>Perdoe, esqueça</i>
+
+102
+00:04:51,863 --> 00:04:53,332
+<i>Na verdade</i>
+
+103
+00:04:53,333 --> 00:04:56,109
+<i>- Você ainda não viu nada...</i>
+
+104
+00:04:56,110 --> 00:05:00,037
+<i>Espelho, espelho meu</i>
+
+105
+00:05:00,038 --> 00:05:03,802
+<i>Quem é o mais malvado
+de todos?</i>
+
+106
+00:05:03,803 --> 00:05:08,283
+<i>Bem-vindo
+ao meu mundo perverso</i>
+
+107
+00:05:08,284 --> 00:05:11,451
+<i>- Mundo perverso</i>
+
+108
+00:05:34,399 --> 00:05:36,563
+<i>Sou podre até a alma, alma</i>
+
+109
+00:05:36,564 --> 00:05:38,300
+<i>Podre até a alma</i>
+
+110
+00:05:38,301 --> 00:05:40,414
+<i>Sou podre até a alma, alma</i>
+
+111
+00:05:40,415 --> 00:05:41,953
+<i>Quem pediria por mais?</i>
+
+112
+00:05:41,954 --> 00:05:43,952
+<i>Não sou nada parecido
+com a criança</i>
+
+113
+00:05:43,953 --> 00:05:45,725
+<i>Com a criança ao lado</i>
+
+114
+00:05:45,726 --> 00:05:49,508
+<i>Sou podre até...</i>
+
+115
+00:05:49,509 --> 00:05:52,070
+<i>Sou podre até a alma</i>
+
+408
+00:27:12,578 --> 00:27:16,458
+<i>Olhe para você, olhe para mim,
+eu não sei quem ser</i>
+
+409
+00:27:16,459 --> 00:27:18,194
+<i>Mãe</i>
+
+410
+00:27:19,580 --> 00:27:21,400
+<i>Isso é errado?
+Isso é certo?</i>
+
+411
+00:27:21,401 --> 00:27:23,332
+<i>Ser um ladrão das noites</i>
+
+412
+00:27:23,333 --> 00:27:26,200
+<i>Mãe</i>
+
+413
+00:27:26,201 --> 00:27:30,257
+<i>Diga-me o que fazer</i>
+
+417
+00:27:41,071 --> 00:27:43,399
+<i>Eu já fui como você,
+minha criança</i>
+
+418
+00:27:43,400 --> 00:27:45,685
+<i>Levemente insegura</i>
+
+419
+00:27:45,686 --> 00:27:48,137
+<i>Também perguntei
+para minha mãe</i>
+
+420
+00:27:48,138 --> 00:27:50,520
+<i>Pensei que eu era madura</i>
+
+421
+00:27:50,521 --> 00:27:53,036
+<i>Mas coloquei
+meu coração de lado</i>
+
+422
+00:27:53,037 --> 00:27:55,199
+<i>E usei minha cabeça</i>
+
+423
+00:27:55,200 --> 00:27:57,382
+<i>Agora acho que é hora
+de você aprender</i>
+
+424
+00:27:57,383 --> 00:28:01,012
+<i>O que a velha mãe disse</i>
+
+425
+00:28:02,057 --> 00:28:05,048
+<i>Você não quer ser má
+como eu?</i>
+
+426
+00:28:05,049 --> 00:28:07,737
+<i>Você não quer perversa?</i>
+
+427
+00:28:07,738 --> 00:28:13,418
+<i>Não quer fazer maldades
+no seu cotidiano?</i>
+
+428
+00:28:13,419 --> 00:28:19,086
+<i>Bem, você pode gastar sua vida
+ajudando aos pobres</i>
+
+429
+00:28:19,087 --> 00:28:24,785
+<i>Mas quando se é má,
+menos é mais</i>
+
+430
+00:28:24,786 --> 00:28:30,445
+<i>Não quer ser impiedosa
+e malévola e insana?</i>
+
+431
+00:28:30,446 --> 00:28:35,983
+<i>Não quer ser muito boa
+em ser má?</i>
+
+432
+00:28:35,984 --> 00:28:41,053
+<i>Toda a minha vida eu tentei
+fazer o pior que podia</i>
+
+433
+00:28:41,054 --> 00:28:44,053
+<i>Construí minha vitória</i>
+
+434
+00:28:44,054 --> 00:28:46,842
+<i>Fiz meu plano infalível</i>
+
+435
+00:28:46,843 --> 00:28:49,900
+<i>Agora chegou a hora,
+minha querida</i>
+
+436
+00:28:49,901 --> 00:28:52,584
+<i>Para você tomar o seu lugar</i>
+
+437
+00:28:52,585 --> 00:28:55,423
+<i>Prometa-me
+que tentará ser</i>
+
+438
+00:28:55,424 --> 00:28:58,057
+<i>Uma desgraça total</i>
+
+439
+00:28:58,742 --> 00:29:01,593
+<i>Você não quer ser má
+como eu?</i>
+
+440
+00:29:01,594 --> 00:29:04,333
+<i>Não quer cruel?</i>
+
+441
+00:29:04,334 --> 00:29:10,032
+<i>Não quer ser desagradável
+e brutal e descolada?</i>
+
+442
+00:29:10,033 --> 00:29:12,255
+<i>E quando conseguir
+aquela varinha</i>
+
+443
+00:29:12,256 --> 00:29:15,649
+<i>Seu reino começará</i>
+
+444
+00:29:15,650 --> 00:29:18,100
+<i>Quem quer uma rainha má</i>
+
+445
+00:29:18,101 --> 00:29:21,323
+<i>Sem um saco cheio
+de pecados?</i>
+
+446
+00:29:21,324 --> 00:29:23,540
+<i>Não que ser sem coração</i>
+
+447
+00:29:23,541 --> 00:29:26,811
+<i>E dura como uma pedra?</i>
+
+448
+00:29:26,812 --> 00:29:30,272
+<i>Não quer ser má
+de lamber os dedos</i>
+
+449
+00:29:30,273 --> 00:29:32,388
+<i>Até os ossos?</i>
+
+450
+00:29:32,389 --> 00:29:35,140
+<i>Não cabe a nós ponderar</i>
+
+451
+00:29:35,141 --> 00:29:37,868
+<i>Isso já foi ordenado</i>
+
+452
+00:29:37,869 --> 00:29:40,729
+<i>Você e eu
+devemos reinar juntas</i>
+
+453
+00:29:40,730 --> 00:29:43,440
+<i>A liberdade
+logo será reconquistada</i>
+
+454
+00:29:43,441 --> 00:29:46,451
+<i>Senhora do universo</i>
+
+455
+00:29:46,452 --> 00:29:49,354
+<i>Poderosa e forte</i>
+
+456
+00:29:49,355 --> 00:29:52,141
+<i>Filha, escute-me,
+ajude-me, junte-se a mim</i>
+
+457
+00:29:52,142 --> 00:29:55,204
+<i>Não cantará comigo?</i>
+
+458
+00:29:55,205 --> 00:29:58,230
+<i>Agora nós seremos más,
+é verdade</i>
+
+459
+00:29:58,231 --> 00:30:00,876
+<i>Nunca pensaremos duas vezes</i>
+
+460
+00:30:00,877 --> 00:30:03,031
+<i>E seremos maldosas</i>
+
+461
+00:30:03,032 --> 00:30:05,800
+<i>Sim, maldosas, isso é legal</i>
+
+462
+00:30:06,428 --> 00:30:08,719
+<i>Em apenas uma hora ou duas</i>
+
+463
+00:30:08,720 --> 00:30:11,939
+<i>Nosso futuro
+será seguro e certo</i>
+
+464
+00:30:11,940 --> 00:30:14,499
+<i>Esta apresentação
+de mãe e filha</i>
+
+465
+00:30:14,500 --> 00:30:17,668
+<i>Será mostrada em turnê</i>
+
+466
+00:30:17,669 --> 00:30:20,109
+<i>Se você quer ser má</i>
+
+467
+00:30:20,110 --> 00:30:23,413
+<i>E péssima e livre</i>
+
+468
+00:30:23,414 --> 00:30:26,389
+<i>Então deve agradecer
+a sua estrela da sorte</i>
+
+469
+00:30:26,390 --> 00:30:29,784
+<i>Por ter nascido
+a garota que você é</i>
+
+470
+00:30:29,785 --> 00:30:34,383
+<i>A filha de uma rainha
+extremamente má</i>
+
+471
+00:30:34,384 --> 00:30:40,355
+<i>Como eu!</i>
+
+961
+01:00:53,479 --> 01:00:56,363
+<i>Eu já disse que estou
+apaixonado por você?</i>
+
+962
+01:00:56,364 --> 01:00:59,335
+<i>E eu já disse que não há nada
+que eu possa fazer?</i>
+
+963
+01:00:59,336 --> 01:01:02,171
+<i>Eu já disse que sonho
+com você todos os dias?</i>
+
+964
+01:01:02,172 --> 01:01:04,044
+<i>Bem, deixe-me dizer
+em voz alta</i>
+
+965
+01:01:04,045 --> 01:01:06,305
+<i>Se não se importar</i>
+
+966
+01:01:07,676 --> 01:01:09,676
+<i>Se não se importar</i>
+
+967
+01:01:11,026 --> 01:01:14,053
+<i>Conheci essa garota
+que mudou o meu mundo</i>
+
+968
+01:01:14,054 --> 01:01:16,984
+<i>Agora eu vivo por ela
+e nunca vou parar</i>
+
+969
+01:01:16,985 --> 01:01:19,965
+<i>Nunca pensei que isso pudesse
+acontecer com um cara como eu</i>
+
+970
+01:01:19,966 --> 01:01:22,955
+<i>Mas veja só o que você fez,
+estou de joelhos por você</i>
+
+971
+01:01:22,956 --> 01:01:25,958
+<i>Porque o meu amor
+por você é sem medidas</i>
+
+972
+01:01:25,959 --> 01:01:29,086
+<i>- Nunca imaginei que seria assim
+- Quem imaginou?</i>
+
+973
+01:01:29,087 --> 01:01:31,840
+<i>Meu amor por você é sem igual</i>
+
+974
+01:01:31,841 --> 01:01:35,267
+<i>Meu amor é sem igual</i>
+
+975
+01:01:35,268 --> 01:01:38,113
+<i>Sem igual</i>
+
+976
+01:01:38,114 --> 01:01:39,717
+<i>- É...
+- Sem igual</i>
+
+977
+01:01:39,718 --> 01:01:41,250
+<i>- Sem...
+- Igual!</i>
+
+978
+01:01:41,251 --> 01:01:43,724
+<i>E eu trocaria meu reino
+por um beijo seu</i>
+
+979
+01:01:43,725 --> 01:01:46,654
+<i>Eu já disse que estou
+apaixonado por você?</i>
+
+980
+01:01:46,655 --> 01:01:49,593
+<i>E eu já disse que não há nada
+que eu possa fazer?</i>
+
+981
+01:01:49,594 --> 01:01:52,624
+<i>Eu já disse que sonho
+com você todos os dias?</i>
+
+982
+01:01:52,625 --> 01:01:56,478
+<i>Deixe-me dizer em voz alta,
+se não se importar</i>
+
+983
+01:01:58,095 --> 01:02:00,059
+<i>Se não se importar</i>
+
+984
+01:02:01,492 --> 01:02:04,446
+<i>Preciso saber o que fazer,
+vamos, dê-me um sinal</i>
+
+985
+01:02:04,447 --> 01:02:07,397
+<i>Precisa me mostrar
+que sempre será minha</i>
+
+986
+01:02:07,398 --> 01:02:10,402
+<i>Não quero viver mais
+nenhum minuto sem você</i>
+
+987
+01:02:10,403 --> 01:02:13,388
+<i>Porque se não sentir o mesmo,
+não sei o que vou fazer</i>
+
+988
+01:02:13,389 --> 01:02:16,209
+<i>Porque o meu amor
+por você é sem igual</i>
+
+989
+01:02:16,210 --> 01:02:19,611
+<i>- Nunca imaginei que seria assim
+- Quem imaginou?</i>
+
+990
+01:02:19,612 --> 01:02:22,306
+<i>Meu amor por você é sem igual</i>
+
+991
+01:02:22,307 --> 01:02:25,714
+<i>Meu amor é sem igual</i>
+
+992
+01:02:25,715 --> 01:02:28,824
+<i>Sem igual</i>
+
+993
+01:02:28,825 --> 01:02:30,128
+<i>- É...
+- Sem igual</i>
+
+994
+01:02:30,129 --> 01:02:31,526
+<i>- Sem...
+- Igual!</i>
+
+995
+01:02:31,527 --> 01:02:35,069
+<i>E eu trocaria meu reino
+por um beijo seu, vamos lá</i>
+
+996
+01:02:46,052 --> 01:02:47,520
+<i>Isso aí</i>
+
+997
+01:02:48,783 --> 01:02:50,464
+<i>Isso aí</i>
+
+998
+01:02:51,862 --> 01:02:54,819
+<i>Porque o meu amor
+por você é sem igual</i>
+
+999
+01:02:54,820 --> 01:02:58,176
+<i>- Nunca imaginei que seria assim
+- Quem imaginou?</i>
+
+1000
+01:02:58,177 --> 01:03:00,733
+<i>Meu amor por você é sem igual</i>
+
+1001
+01:03:00,734 --> 01:03:04,283
+<i>Meu amor é sem igual</i>
+
+1002
+01:03:04,284 --> 01:03:07,448
+<i>Sem igual</i>
+
+1003
+01:03:07,449 --> 01:03:08,749
+<i>- É...
+- Sem igual</i>
+
+1004
+01:03:08,750 --> 01:03:10,051
+<i>- Sem...
+- Igual!</i>
+
+1005
+01:03:10,052 --> 01:03:13,547
+<i>E eu trocaria meu reino
+por um beijo seu, vamos lá</i>
+
+1127
+01:12:12,400 --> 01:12:17,059
+<i>Um milhão de pensamentos
+na minha cabeça</i>
+
+1128
+01:12:17,060 --> 01:12:21,571
+<i>Devo permitir
+que meu coração escute?</i>
+
+1129
+01:12:22,123 --> 01:12:26,586
+<i>Porque até agora,
+andei na linha</i>
+
+1130
+01:12:26,587 --> 01:12:30,881
+<i>Nada perdido,
+mas algo faz falta</i>
+
+1131
+01:12:32,227 --> 01:12:36,787
+<i>Não consigo decidir
+o que é certo ou errado</i>
+
+1132
+01:12:36,788 --> 01:12:41,386
+<i>De que modo devo agir?</i>
+
+1133
+01:12:41,387 --> 01:12:46,222
+<i>Se eu soubesse
+o que meu coração me dizia</i>
+
+1134
+01:12:46,223 --> 01:12:48,165
+<i>Não sei o que estou sentindo</i>
+
+1135
+01:12:48,166 --> 01:12:52,161
+<i>Isso é só um sonho?</i>
+
+1136
+01:12:55,684 --> 01:13:00,396
+<i>Se eu pudesse ler os sinais
+na minha frente</i>
+
+1137
+01:13:00,397 --> 01:13:01,987
+<i>Encontraria o caminho</i>
+
+1138
+01:13:01,988 --> 01:13:06,335
+<i>para quem devo ser</i>
+
+1139
+01:13:09,055 --> 01:13:11,747
+<i>Se eu pudesse...</i>
+
+1140
+01:13:14,827 --> 01:13:17,187
+<i>Estou louca?</i>
+
+1141
+01:13:17,188 --> 01:13:21,719
+<i>Talvez possamos dar certo</i>
+
+1142
+01:13:24,154 --> 01:13:27,732
+<i>Você ainda vai ficar comigo</i>
+
+1143
+01:13:27,733 --> 01:13:30,725
+<i>Quando toda a magia...</i>
+
+1144
+01:13:30,726 --> 01:13:35,222
+<i>Acabar?</i>
+
+1145
+01:13:35,941 --> 01:13:40,787
+<i>Se eu soubesse
+o que meu coração me dizia</i>
+
+1146
+01:13:40,788 --> 01:13:42,739
+<i>Não sei o que estou sentindo</i>
+
+1147
+01:13:42,740 --> 01:13:46,658
+<i>Isso é só um sonho?</i>
+
+1148
+01:13:49,480 --> 01:13:52,407
+<i>Se eu pudesse</i>
+
+1149
+01:13:54,042 --> 01:13:56,969
+<i>Se eu pudesse</i>
+
+1150
+01:13:58,880 --> 01:14:01,807
+<i>Se eu pudesse</i>
+
+1151
+01:14:03,426 --> 01:14:06,881
+<i>Se eu pudesse</i>
+
+1152
+01:14:06,882 --> 01:14:10,100
+<i>Se eu pudesse...</i>
+
+1250
+01:21:32,004 --> 01:21:34,847
+<i>Um milhão de pensamentos</i>
+
+1251
+01:21:34,848 --> 01:21:37,003
+<i>Em minha mente</i>
+
+1252
+01:21:37,004 --> 01:21:39,488
+<i>Devo deixar o meu coração</i>
+
+1253
+01:21:39,489 --> 01:21:41,834
+<i>Continuar escutando?</i>
+
+1254
+01:21:42,455 --> 01:21:44,991
+<i>Sei que é a hora</i>
+
+1255
+01:21:44,992 --> 01:21:47,512
+<i>De dizer adeus</i>
+
+1256
+01:21:47,513 --> 01:21:52,501
+<i>É tão difícil de abrir mão</i>
+
+1257
+01:22:04,668 --> 01:22:06,902
+Minha querida senhorita,
+
+1258
+01:22:06,903 --> 01:22:10,486
+é com muito orgulho
+e muito prazer
+
+1259
+01:22:10,487 --> 01:22:12,752
+que te recebemos
+essa noite.
+
+1260
+01:22:12,753 --> 01:22:15,704
+Convidamos
+você para relaxar.
+
+1261
+01:22:15,705 --> 01:22:17,393
+Vamos puxar uma cadeira,
+
+1262
+01:22:17,394 --> 01:22:20,916
+enquanto a sala de jantar
+apresenta o seu jantar.
+
+1263
+01:22:20,917 --> 01:22:23,171
+<i>Seja nossa convidada</i>
+
+1264
+01:22:23,172 --> 01:22:25,343
+<i>Teste nosso serviço</i>
+
+1265
+01:22:25,344 --> 01:22:28,062
+<i>Amarre o guardanapo
+em seu pescoço, querida</i>
+
+1266
+01:22:28,063 --> 01:22:30,399
+<i>- E providenciaremos o resto
+- Isso mesmo</i>
+
+1267
+01:22:30,400 --> 01:22:32,394
+<i>Sopa do dia,
+ótimos aperitivos</i>
+
+1268
+01:22:32,395 --> 01:22:34,637
+<i>Por que vivemos para servir?</i>
+
+1269
+01:22:34,638 --> 01:22:37,039
+<i>Experimente aquele ali,
+está delicioso</i>
+
+1270
+01:22:37,040 --> 01:22:39,661
+<i>Não acredita em mim?
+Peça os pratos</i>
+
+1271
+01:22:39,662 --> 01:22:42,079
+<i>Eles podem dançar,
+eles podem dançar</i>
+
+1272
+01:22:42,080 --> 01:22:44,203
+<i>Afinal, senhorita,
+aqui é a França</i>
+
+1273
+01:22:44,204 --> 01:22:47,586
+<i>E o jantar daqui nunca
+fica em segundo lugar</i>
+
+1274
+01:22:47,587 --> 01:22:50,775
+<i>Vamos lá, vá em frente
+e veja o menu</i>
+
+1275
+01:22:50,776 --> 01:22:53,257
+<i>Vá em frente, dê uma olhada
+e então você será...</i>
+
+1276
+01:22:53,258 --> 01:22:55,774
+<i>Nossa convidada</i>
+
+1277
+01:22:55,775 --> 01:22:57,766
+<i>Seja nossa convidada</i>
+
+1278
+01:23:00,573 --> 01:23:02,603
+<i>Seja nossa convidada</i>
+
+1279
+01:23:02,604 --> 01:23:04,963
+<i>Contamos piadas,
+tenho meus truques</i>
+
+1280
+01:23:04,964 --> 01:23:07,361
+<i>Com meus amigos castiçais</i>
+
+1281
+01:23:07,362 --> 01:23:11,669
+<i>E tudo tem o sabor perfeito,
+pode apostar</i>
+
+1282
+01:23:11,670 --> 01:23:13,950
+<i>Venha e levante seu copo</i>
+
+1283
+01:23:13,951 --> 01:23:17,732
+<i>Você ganhou um passe livre
+para ser nosso convidado</i>
+
+1284
+01:23:17,733 --> 01:23:21,229
+<i>Se estiver estressado,
+sugerimos refeições requintadas</i>
+
+1285
+01:23:21,230 --> 01:23:25,587
+<i>Seja nosso convidado</i>
+
+1286
+01:23:28,209 --> 01:23:30,442
+<i>Seja nosso convidado</i>
+
+1287
+01:23:32,721 --> 01:23:34,326
+<i>Seja nosso convidado</i>
+
+1597
+01:47:01,755 --> 01:47:03,971
+<i>Vamos agitar!<i></i></i>
+
+1598
+01:47:06,553 --> 01:47:08,742
+<i>Você pode fazer acontecer</i>
+
+1599
+01:47:10,797 --> 01:47:12,861
+<i>Reis e rainhas,
+é a nossa vez de governar</i>
+
+1600
+01:47:12,862 --> 01:47:14,717
+<i>Escrever no livro
+a nossa história</i>
+
+1601
+01:47:14,718 --> 01:47:16,988
+<i>Esses somos nós
+assumindo essa noite</i>
+
+1602
+01:47:18,652 --> 01:47:20,802
+<i>Quebre o feitiço,
+nós nascemos desse jeito</i>
+
+1603
+01:47:20,803 --> 01:47:22,844
+<i>Seja você mesmo,
+esqueça o DNA</i>
+
+1604
+01:47:22,845 --> 01:47:24,908
+<i>Todos levantem as mãos
+e digam:</i>
+
+1605
+01:47:26,474 --> 01:47:28,525
+<i>Soem o alarme,
+fiquem de pé</i>
+
+1606
+01:47:28,526 --> 01:47:30,532
+<i>Vamos agitar
+e seguir essa batida</i>
+
+1607
+01:47:30,533 --> 01:47:32,633
+<i>Dance até seu coração
+ser selvagem e livre</i>
+
+1608
+01:47:34,238 --> 01:47:36,578
+<i>Sentindo o poder,
+deixe tudo sair</i>
+
+1609
+01:47:36,579 --> 01:47:38,615
+<i>Como se vê no espelho,
+grite</i>
+
+1610
+01:47:38,616 --> 01:47:40,965
+<i>Nós temos as chaves
+dos nossos reinos</i>
+
+1611
+01:47:44,016 --> 01:47:46,040
+<i>Vamos agitar</i>
+
+1612
+01:47:48,207 --> 01:47:51,892
+<i>Começar uma reação em cadeia
+e nunca deixar acabar</i>
+
+1613
+01:47:51,893 --> 01:47:53,847
+<i>Vamos agitar</i>
+
+1614
+01:47:56,208 --> 01:47:59,913
+<i>Você pode fazer acontecer
+com toda sua força de vontade</i>
+
+1615
+01:47:59,914 --> 01:48:02,258
+<i>- Vamos agitar
+- Agitar</i>
+
+1616
+01:48:02,259 --> 01:48:04,382
+<i>- Vamos lá
+- Precisamos agitar</i>
+
+1617
+01:48:04,383 --> 01:48:06,333
+<i>- Para a direita
+- Preparem-se, agitem</i>
+
+1618
+01:48:06,334 --> 01:48:08,666
+<i>- Para a esquerda
+- Precisamos agitar</i>
+
+1619
+01:48:08,667 --> 01:48:10,867
+<i>É hora de agitar essa coisa</i>
+
+1620
+01:48:10,868 --> 01:48:12,869
+<i>Vamos fazer acontecer agora</i>
+
+1621
+01:48:12,870 --> 01:48:15,054
+<i>Vou criar o meu futuro,
+ignorar os boatos</i>
+
+1622
+01:48:15,055 --> 01:48:16,787
+<i>Mostrar como
+a paixão deve soar</i>
+
+1623
+01:48:16,788 --> 01:48:18,561
+<i>Disseram que eu deveria
+me afastar</i>
+
+1624
+01:48:18,562 --> 01:48:20,542
+<i>Julgando-me por causa
+do meu passado</i>
+
+1625
+01:48:20,543 --> 01:48:22,570
+<i>Estou pensando em mudar
+o meu caminho</i>
+
+1626
+01:48:22,571 --> 01:48:24,569
+<i>Não, não serei mais assim</i>
+
+1627
+01:48:24,570 --> 01:48:26,662
+<i>Sentindo o poder,
+deixando tudo sair</i>
+
+1628
+01:48:26,663 --> 01:48:28,667
+<i>Como se vê no espelho,
+grite</i>
+
+1629
+01:48:28,668 --> 01:48:30,916
+<i>Nós temos as chaves
+dos nossos reinos</i>
+
+1630
+01:48:33,863 --> 01:48:35,746
+<i>Vamos agitar</i>
+
+1631
+01:48:37,184 --> 01:48:38,486
+<i>Vamos agitar isso</i>
+
+1632
+01:48:38,487 --> 01:48:41,872
+<i>Começar uma reação em cadeia
+e nunca deixar acabar</i>
+
+1633
+01:48:41,873 --> 01:48:44,643
+<i>- Vamos agitar
+- Vamos agitar isso</i>
+
+1634
+01:48:45,192 --> 01:48:46,826
+<i>Vamos agitar isso</i>
+
+1635
+01:48:46,827 --> 01:48:49,858
+<i>Você pode fazer acontecer
+com toda sua força de vontade</i>
+
+1636
+01:48:49,859 --> 01:48:52,266
+<i>- Vamos agitar
+- Vamos agitar</i>
+
+1637
+01:48:52,267 --> 01:48:54,422
+<i>- Vamos lá
+- Nós temos que agitar isso</i>
+
+1638
+01:48:54,423 --> 01:48:56,479
+<i>- Isso mesmo, agite
+- Vamos agitar</i>
+
+1639
+01:48:56,480 --> 01:48:58,502
+<i>Precisamos agitar</i>
+
+1640
+01:48:58,503 --> 01:49:00,716
+<i>Preparem-se, agitem</i>
+
+1641
+01:49:00,717 --> 01:49:02,589
+<i>Precisamos agitar</i>
+
+1642
+01:49:02,590 --> 01:49:04,785
+<i>- Preparem-se, agitem
+- Vamos lá</i>
+
+1643
+01:49:04,786 --> 01:49:06,555
+<i>Três, dois, um</i>
+
+1644
+01:49:21,832 --> 01:49:23,886
+<i>Vamos agitar</i>
+
+1645
+01:49:25,308 --> 01:49:26,608
+<i>Vamos agitar</i>
+
+1646
+01:49:26,609 --> 01:49:29,915
+<i>Começar uma reação em cadeia,
+nunca deixar acabar</i>
+
+1647
+01:49:29,916 --> 01:49:32,917
+<i>- Vamos agitar
+- Vamos agitar</i>
+
+1648
+01:49:32,918 --> 01:49:34,640
+<i>Vamos agitar isso aqui</i>
+
+1649
+01:49:34,641 --> 01:49:37,977
+<i>Você pode fazer acontecer
+com toda sua força de vontade</i>
+
+1650
+01:49:37,978 --> 01:49:40,257
+<i>- Vamos agitar
+- Prepare-se, agite</i>
+
+1651
+01:49:40,258 --> 01:49:42,431
+<i>- Vamos lá
+- Precisamos agitar</i>
+
+1652
+01:49:42,432 --> 01:49:44,332
+<i>- Para a esquerda
+- Prepare-se, agite</i>
+
+1653
+01:49:44,333 --> 01:49:46,363
+<i>- Para a direita
+- Temos que agitar</i>
+
+1654
+01:49:46,364 --> 01:49:47,664
+<i>O quê?</i>
+
+1655
+01:49:57,357 --> 01:49:59,433
+<i>Vamos agitar</i>
+
+1656
+01:50:01,662 --> 01:50:03,576
+<i>Começar uma reação...</i>
+
+1659
+01:50:09,471 --> 01:50:11,868
+<i>- Você pode fazer acontecer</i>
+
+1660
+01:50:11,869 --> 01:50:13,294
+<i>com a sua força de vontade</i>
+
+1661
+01:50:13,295 --> 01:50:15,853
+<i>- Vamos agitar
+- Prepare-se, Agite</i>
+
+1662
+01:50:15,854 --> 01:50:17,756
+<i>- Vamos
+- Temos que agitar</i>
+
+1663
+01:50:17,757 --> 01:50:19,607
+<i>- Para a direita
+- Prepare-se, agite</i>
+
+1664
+01:50:19,608 --> 01:50:21,917
+<i>- Para a esquerda
+- Precisamos agitar</i>
+
+1665
+01:50:23,391 --> 01:50:25,185
+<i>Eu acredito, eu acredito</i>
+
+1666
+01:50:25,556 --> 01:50:27,013
+<i>Eu acredito</i>
+
+1667
+01:50:27,014 --> 01:50:29,006
+<i>Eu acredito, eu acredito</i>
+
+1668
+01:50:29,007 --> 01:50:31,019
+<i>Eu acredito, eu acredito,
+eu acredito</i>
+
+1669
+01:50:31,020 --> 01:50:33,112
+<i>Eu acredito</i>
+
+1670
+01:50:33,113 --> 01:50:34,912
+<i>Não tenha medo
+de ser quem você é</i>
+
+1671
+01:50:34,913 --> 01:50:37,278
+<i>Apenas grite bem alto
+e siga as estrelas</i>
+
+1672
+01:50:37,279 --> 01:50:39,128
+<i>Esqueça o passado, acabou</i>
+
+1673
+01:50:39,129 --> 01:50:41,731
+<i>Somos os mais jovens,
+nosso caminho está à frente</i>
+
+1674
+01:50:43,461 --> 01:50:45,613
+<i>Aprendemos a dar
+a volta por cima</i>
+
+1675
+01:50:45,614 --> 01:50:48,645
+<i>Aprendemos a virar a página</i>
+
+1676
+01:50:48,646 --> 01:50:52,566
+<i>Então deixaremos
+os nossos sonhos</i>
+
+1677
+01:50:52,567 --> 01:50:54,787
+<i>Decolarem</i>
+
+1678
+01:50:54,788 --> 01:50:58,400
+<i>E os nossos corações
+explodirem</i>
+
+1679
+01:50:58,401 --> 01:51:00,605
+<i>Sabia que isso é verdade?</i>
+
+1680
+01:51:01,209 --> 01:51:05,040
+<i>Tudo é possível</i>
+
+1681
+01:51:05,041 --> 01:51:08,827
+<i>Não há nada
+que não possamos fazer</i>
+
+1682
+01:51:08,828 --> 01:51:12,957
+<i>É uma chama linda e selvagem</i>
+
+1683
+01:51:13,389 --> 01:51:18,159
+<i>- E eu acredito em você
+- Eu acredito, eu acredito</i>
+
+1684
+01:51:18,160 --> 01:51:20,132
+<i>Acredito, acredito, acredito</i>
+
+1685
+01:51:20,133 --> 01:51:22,017
+<i>Eu acredito</i>
+
+1686
+01:51:22,018 --> 01:51:24,508
+<i>Eu acredito em você</i>
+
+1687
+01:51:24,509 --> 01:51:27,394
+<i>Acredito, acredito, acredito</i>
+
+1688
+01:51:27,395 --> 01:51:30,312
+<i>Acredito, acredito</i>
+
+1689
+01:51:30,313 --> 01:51:32,710
+<i>Eu acredito em você</i>
+
+1690
+01:51:32,711 --> 01:51:35,837
+<i>Acredito, acredito, acredito</i>
+
+1691
+01:51:35,838 --> 01:51:39,271
+<i>Porque eu acredito em você</i>
+
+1692
+01:51:39,272 --> 01:51:41,909
+<i>Acredito, acredito, acredito</i>
+
+1693
+01:51:41,910 --> 01:51:44,344
+<i>Acredito, acredito</i>
+
+1694
+01:51:44,345 --> 01:51:48,444
+<i>Eu acredito em você</i>
+
+1695
+01:51:48,445 --> 01:51:50,995
+<b>Entregue-se à sua inSanidade!
+Legende conosco.</b>
+
+1696
+01:51:50,996 --> 01:51:52,996
+<b>www.inSanos.tv
+twitter.com/inSanosTV</b>
+
