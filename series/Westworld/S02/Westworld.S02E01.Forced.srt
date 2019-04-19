@@ -1,0 +1,405 @@
+1
+00:00:01,632 --> 00:00:02,532
+<i>Anteriormente em
+Westworld</i>
+
+2
+00:00:02,591 --> 00:00:03,774
+<i>Bem-vindo a Westworld.</i>
+
+3
+00:00:03,983 --> 00:00:05,440
+<i>Qual prefere?</i>
+
+4
+00:00:06,440 --> 00:00:08,481
+<i>Este lugar é a resposta</i>
+
+5
+00:00:08,482 --> 00:00:10,649
+<i>para aquela pergunta
+que tem feito a você mesmo.</i>
+
+6
+00:00:10,941 --> 00:00:11,941
+<i>Que pergunta?</i>
+
+7
+00:00:12,232 --> 00:00:13,232
+<i>Quem é você, realmente.</i>
+
+8
+00:00:13,816 --> 00:00:16,482
+<i>Não é um empreendimento
+ou um parque temático,</i>
+
+9
+00:00:17,066 --> 00:00:18,607
+<i>mas um mundo inteiro.</i>
+
+10
+00:00:18,941 --> 00:00:20,649
+<i>E criamos a própria vida.</i>
+
+11
+00:00:21,024 --> 00:00:22,024
+<i>Olá, Dolores.</i>
+
+12
+00:00:22,691 --> 00:00:25,108
+<i>Às vezes, sinto que o mundo
+lá fora está me chamando.</i>
+
+13
+00:00:25,482 --> 00:00:27,231
+<i>Sussurrando:
+"há mais alguma coisa".</i>
+
+14
+00:00:27,232 --> 00:00:28,232
+<i>E um dia, em breve,</i>
+
+15
+00:00:28,524 --> 00:00:30,774
+<i>teremos a vida
+com que ambos temos sonhado.</i>
+
+16
+00:00:31,691 --> 00:00:34,148
+<i>Os convidados estão aqui
+porque querem um sinal</i>
+
+17
+00:00:34,149 --> 00:00:35,440
+<i>do que podiam ser.</i>
+
+18
+00:00:35,691 --> 00:00:38,357
+<i>O herói... Ou o vilão.</i>
+
+19
+00:00:39,983 --> 00:00:42,066
+<i>Venho aqui há trinta anos.</i>
+
+20
+00:00:42,315 --> 00:00:43,982
+<i>Afinal de contas,
+é o dono deste lugar.</i>
+
+21
+00:00:43,983 --> 00:00:45,816
+<i>O homem do dinheiro. Delos.</i>
+
+22
+00:00:46,149 --> 00:00:48,148
+<i>Acho que existe
+um significado mais profundo</i>
+
+23
+00:00:48,149 --> 00:00:49,440
+<i>no centro do labirinto.</i>
+
+24
+00:00:49,649 --> 00:00:51,815
+<i>Se procura a moral da história</i>
+
+25
+00:00:51,816 --> 00:00:54,314
+<i>pergunte, muito simples.
+- Preciso de uma pá.</i>
+
+26
+00:00:54,315 --> 00:00:56,983
+<i>O homem a quem perguntaria
+morreu há 35 anos.</i>
+
+27
+00:00:58,774 --> 00:01:00,024
+<i>Teve um sócio?</i>
+
+28
+00:01:00,607 --> 00:01:01,607
+<i>Arnold.</i>
+
+29
+00:01:02,399 --> 00:01:05,190
+<i>A sua busca
+pela consciência consumiu-o.</i>
+
+30
+00:01:06,024 --> 00:01:08,824
+<i>Penso que poderá haver
+algo de errado com este mundo.</i>
+
+31
+00:01:09,190 --> 00:01:10,983
+<i>Tem escutado vozes?</i>
+
+32
+00:01:11,357 --> 00:01:13,941
+<i>O Arnold tem falado
+com você outra vez?</i>
+
+33
+00:01:14,440 --> 00:01:15,858
+<i>Ele construiu um jogo.</i>
+
+34
+00:01:16,274 --> 00:01:18,399
+<i>Disse que eu ia ajudá-lo.</i>
+
+35
+00:01:18,941 --> 00:01:20,024
+<i>Ajudá-lo a fazer o quê?</i>
+
+36
+00:01:21,717 --> 00:01:23,292
+<i>A única coisa
+a impedir os anfitriões</i>
+
+37
+00:01:23,317 --> 00:01:26,024
+<i>de nos desfazer em pedaços
+é uma linha do seu código.</i>
+
+38
+00:01:26,357 --> 00:01:28,691
+<i>Os anfitriões não podem
+te fazer mal, teoricamente.</i>
+
+39
+00:01:29,024 --> 00:01:30,482
+<i>Cessar todas as funções motoras.</i>
+
+40
+00:01:33,983 --> 00:01:36,149
+<i>Num momento sou
+uma menininha,</i>
+
+41
+00:01:36,357 --> 00:01:38,030
+<i>no outro estou
+de volta a Sweetwater.</i>
+
+42
+00:01:38,055 --> 00:01:39,554
+<i>Não sei dizer qual deles é real.</i>
+
+43
+00:01:39,858 --> 00:01:41,356
+<i>A preocupação
+de que os anfitriões</i>
+
+44
+00:01:41,357 --> 00:01:43,524
+<i>recordarão algumas
+das suas experiências</i>
+
+45
+00:01:43,941 --> 00:01:45,066
+<i>e agirão em conformidade.</i>
+
+46
+00:01:45,607 --> 00:01:47,356
+<i>Temos algum
+problema comportamental</i>
+
+47
+00:01:47,357 --> 00:01:48,481
+<i>com a madame.</i>
+
+48
+00:01:48,482 --> 00:01:49,482
+<i>Que quer dizer isso?</i>
+
+49
+00:01:49,899 --> 00:01:53,066
+<i>Que afinal não sou maluca.
+E que nada disso importa.</i>
+
+50
+00:01:54,816 --> 00:01:56,273
+<i>Isso não é um erro.</i>
+
+51
+00:01:56,274 --> 00:01:58,649
+<i>E, por alguma razão, não quer
+que eu conte a ninguém.</i>
+
+52
+00:01:59,232 --> 00:02:02,192
+<i>Esta é Charlotte Hale,
+diretora-executiva</i>
+
+53
+00:02:02,199 --> 00:02:03,732
+<i>da nossa administração.</i>
+
+54
+00:02:04,566 --> 00:02:06,065
+<i>O nosso interesse neste lugar</i>
+
+55
+00:02:06,066 --> 00:02:07,607
+<i>está inteiramente no código.</i>
+
+56
+00:02:08,315 --> 00:02:09,991
+<i>Alguém tem usado
+os nossos anfitriões</i>
+
+57
+00:02:10,016 --> 00:02:11,932
+<i>para fazer sair dados do parque.</i>
+
+58
+00:02:16,524 --> 00:02:17,899
+<i>O que é isso, Bernard?</i>
+
+59
+00:02:18,649 --> 00:02:20,149
+<i>Pra mim não se parece com nada.</i>
+
+60
+00:02:20,415 --> 00:02:22,916
+<i>Os engenheiros humanos
+não estavam aptos aos testes,</i>
+
+61
+00:02:22,941 --> 00:02:25,982
+<i>por isso construí você.</i>
+- Meu Deus, sou...
+
+62
+00:02:25,983 --> 00:02:26,983
+<i>Arnold.</i>
+
+63
+00:02:27,008 --> 00:02:28,649
+<i>Sei onde termina
+o seu labirinto.</i>
+
+64
+00:02:28,858 --> 00:02:32,274
+<i>Percebe agora
+o que o centro representa?</i>
+
+65
+00:02:32,816 --> 00:02:34,816
+<i>Que voz quero ouvir?</i>
+
+66
+00:02:35,108 --> 00:02:37,691
+<i>Todo... esse...</i>
+
+67
+00:02:37,983 --> 00:02:38,983
+<i>tempo.</i>
+
+68
+00:02:40,315 --> 00:02:43,149
+<i>Ele insistiu que não podíamos
+abrir o parque,</i>
+
+69
+00:02:43,357 --> 00:02:45,566
+<i>por isso te modificou, Dolores.</i>
+
+70
+00:02:46,649 --> 00:02:48,899
+<i>Vai me ajudar
+a destruir este lugar.</i>
+
+71
+00:02:51,875 --> 00:02:52,983
+<i>Vou sair daqui.</i>
+
+72
+00:02:52,984 --> 00:02:55,274
+<i>Vocês dois vão me ajudar.</i>
+
+73
+00:02:55,649 --> 00:02:58,273
+<i>Sabe quão longe essas pessoas
+estarão dispostas a ir</i>
+
+74
+00:02:58,274 --> 00:03:00,415
+<i>para proteger
+a sua propriedade intelectual?</i>
+
+75
+00:03:00,440 --> 00:03:01,691
+<i>Vou precisar de aliados.</i>
+
+76
+00:03:02,858 --> 00:03:04,607
+<i>Essas coisas que está fazendo...</i>
+
+77
+00:03:05,066 --> 00:03:07,816
+<i>Já parou para perguntar
+por que está fazendo isso?</i>
+
+78
+00:03:09,482 --> 00:03:10,649
+<i>Foge!</i>
+
+79
+00:03:13,399 --> 00:03:15,432
+<i>É hora de escrever
+a minha própria história.</i>
+
+80
+00:03:16,649 --> 00:03:19,315
+<i>Esses violentos deleites
+tem fins violentos.</i>
+
+81
+00:03:21,748 --> 00:03:23,648
+<i>Ocorreu um evento.</i>
+
+82
+00:03:23,649 --> 00:03:25,773
+<i>Equipe de resposta enviada.</i>
+
+83
+00:03:25,774 --> 00:03:28,399
+<i>Estou saindo.
+Estou no controle.</i>
+
+84
+00:03:29,108 --> 00:03:32,399
+<i>Envie equipes para a cerimônia.
+Busca e destruição.</i>
+
+85
+00:03:32,899 --> 00:03:34,858
+<i>Este mundo não te pertence.</i>
+
+86
+00:03:35,274 --> 00:03:36,274
+<i>Pertence a nós.</i>
+
+87
+00:03:36,816 --> 00:03:40,315
+<i>Desde criança, sempre adorei
+uma boa história.</i>
+
+88
+00:03:41,429 --> 00:03:43,749
+<i>Arrumei a informação
+que me pediu.</i>
+
+89
+00:03:43,774 --> 00:03:45,190
+<i>A localização da sua filha.</i>
+
+90
+00:03:48,983 --> 00:03:52,269
+<i>Espero que apreciem
+esta última peça.</i>
+
+91
+00:03:52,723 --> 00:03:54,123
+<i>Apreciem muito.</i>
