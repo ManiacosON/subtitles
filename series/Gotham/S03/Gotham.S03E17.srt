@@ -1,0 +1,3384 @@
+﻿1
+00:00:00,796 --> 00:00:02,258
+<i>Anteriormente em Gotham...</i>
+
+2
+00:00:02,259 --> 00:00:03,851
+Vocês tem 5 minutos.
+
+3
+00:00:03,852 --> 00:00:06,030
+As Empresas Wayne
+controlam Indian Hill,
+
+4
+00:00:06,031 --> 00:00:09,663
+mas quem comanda
+as Empresas Wayne?
+
+5
+00:00:09,664 --> 00:00:12,079
+Uma arma está a caminho
+para destruir a cidade.
+
+6
+00:00:12,081 --> 00:00:14,991
+Não posso enfrentar
+Nygma e Barbara
+
+7
+00:00:14,993 --> 00:00:16,424
+e o resto deles sozinho.
+
+8
+00:00:16,426 --> 00:00:17,878
+Você quer um exército, certo?
+
+9
+00:00:17,880 --> 00:00:20,317
+Que tal um exército
+de aberrações?
+
+10
+00:00:20,319 --> 00:00:22,194
+Quem ordenou
+o assassinato do meu pai?
+
+11
+00:00:22,196 --> 00:00:24,123
+Frank Gordon.
+Seu tio.
+
+12
+00:00:24,125 --> 00:00:26,136
+Tem o direito
+de ficar em silêncio.
+
+13
+00:00:28,346 --> 00:00:31,439
+Doca 9C.
+É onde a arma chegará.
+
+14
+00:00:31,441 --> 00:00:33,923
+Jim, devo esperar um pedido?
+
+15
+00:00:34,037 --> 00:00:36,333
+O que está indo para...
+
+16
+00:00:36,334 --> 00:00:38,134
+a Doca 9C?
+
+17
+00:00:38,135 --> 00:00:41,682
+Agora eu sei quem eu sou.
+Sou o Charada.
+
+18
+00:00:42,276 --> 00:00:43,576
+É bom ver você, também.
+
+19
+00:00:43,577 --> 00:00:45,176
+Como estão as coisas
+com Selina?
+
+20
+00:00:45,177 --> 00:00:47,544
+Isso...
+é para isso que fui feito.
+
+21
+00:00:47,545 --> 00:00:48,913
+O clone está no lugar.
+
+22
+00:00:48,914 --> 00:00:50,310
+Bom dia, Alfred.
+
+23
+00:00:50,779 --> 00:00:52,079
+E para você,
+Patrão Bruce.
+
+24
+00:00:52,081 --> 00:00:53,748
+Precisa se juntar
+a Corte, Jim.
+
+25
+00:00:53,750 --> 00:00:55,584
+Uma mulher chamada Kathryn
+irá ligar.
+
+26
+00:00:55,586 --> 00:00:57,242
+Ele teria
+tanto orgulho de você.
+
+27
+00:00:57,244 --> 00:00:58,544
+Não!
+
+28
+00:01:00,502 --> 00:01:01,802
+Kathryn, eu presumo.
+
+29
+00:01:01,803 --> 00:01:04,538
+<i>Eu matei meu tio.
+E não me desculpo por isso.</i>
+
+30
+00:01:04,539 --> 00:01:05,889
+<i>É hora de nos encontrarmos.</i>
+
+31
+00:01:05,890 --> 00:01:07,679
+<i>Pensei a mesma coisa.</i>
+
+32
+00:01:36,112 --> 00:01:37,543
+Olá?
+
+33
+00:01:38,151 --> 00:01:39,555
+Alguém em casa?
+
+34
+00:01:39,556 --> 00:01:42,461
+Quando ele chegar, vamos pedir
+para aumentar a temperatura.
+
+35
+00:01:42,645 --> 00:01:44,769
+Está mais frio aqui
+do que lá fora.
+
+36
+00:01:48,819 --> 00:01:50,170
+Fascinante.
+
+37
+00:01:50,639 --> 00:01:53,344
+Sei que está empenhado
+em se vingar de Nygma e todos
+
+38
+00:01:53,345 --> 00:01:56,569
+e formando um exército
+de aberrações é um bom plano.
+
+39
+00:01:56,570 --> 00:01:58,809
+Foi minha ideia, mas...
+
+40
+00:01:58,810 --> 00:02:00,110
+Quieta.
+
+41
+00:02:00,653 --> 00:02:01,953
+Acho que ouvi algo.
+
+42
+00:02:02,175 --> 00:02:03,475
+Você acha que é ele?
+
+43
+00:02:14,093 --> 00:02:15,393
+Sr. Fries.
+
+44
+00:02:17,877 --> 00:02:19,177
+Bem-vindo ao lar.
+
+45
+00:02:23,207 --> 00:02:24,784
+Vejo que ainda
+me responsabiliza
+
+46
+00:02:24,785 --> 00:02:28,085
+por toda a retórica
+que cuspi durante a campanha.
+
+47
+00:02:28,086 --> 00:02:30,281
+Você expulsou pessoas
+como eu de Gotham.
+
+48
+00:02:30,570 --> 00:02:32,326
+Sabemos que só disse
+aquelas coisas
+
+49
+00:02:32,327 --> 00:02:34,889
+pois era o que os eleitores
+queriam ouvir.
+
+50
+00:02:36,550 --> 00:02:38,619
+Seus experimentos,
+Sr. Fries.
+
+51
+00:02:39,495 --> 00:02:41,835
+Está tentando reverter
+a sua condição, não é?
+
+52
+00:02:41,836 --> 00:02:43,257
+Eu posso ajudá-lo.
+
+53
+00:02:44,039 --> 00:02:45,339
+Por que você faria isso?
+
+54
+00:02:45,340 --> 00:02:47,764
+Meus inimigos tiraram
+tudo de mim.
+
+55
+00:02:47,765 --> 00:02:49,436
+Tentaram me matar.
+
+56
+00:02:50,265 --> 00:02:52,327
+Ajude-me a ter
+a minha vingança...
+
+57
+00:02:52,328 --> 00:02:55,448
+e quando recuperar meu trono,
+darei todo recurso que precisar
+
+58
+00:02:55,449 --> 00:02:57,375
+para sair
+dessa prisão de gelo.
+
+59
+00:03:01,238 --> 00:03:02,809
+Mesmo se eu quisesse
+dizer sim,
+
+60
+00:03:02,810 --> 00:03:05,337
+eu só posso sobreviver
+algumas horas fora do frio
+
+61
+00:03:05,338 --> 00:03:06,638
+sem meu traje.
+
+62
+00:03:07,540 --> 00:03:10,437
+E você não o tem
+pois ele está trancado...
+
+63
+00:03:10,439 --> 00:03:12,408
+em um esconderijo
+das Empresas Wayne...
+
+64
+00:03:12,409 --> 00:03:14,314
+desde que escapou
+de Indian Hill.
+
+65
+00:03:16,241 --> 00:03:17,541
+Ivy?
+
+66
+00:03:22,448 --> 00:03:23,748
+<i>Meu traje?</i>
+
+67
+00:03:29,855 --> 00:03:32,044
+Então, Sr. Fries...
+
+68
+00:03:32,881 --> 00:03:34,650
+vai se juntar a nós?
+
+69
+00:03:38,351 --> 00:03:40,851
+<b>The_Tozz e Cabrones
+apresentam...</b>
+
+70
+00:03:40,852 --> 00:03:43,852
+<b>GOTHAM - S03E17
+"The Primal Riddle"</b>
+
+71
+00:03:49,969 --> 00:03:51,269
+Onde estamos?
+
+72
+00:03:51,270 --> 00:03:54,012
+Onde estamos
+não é importante, James.
+
+73
+00:03:54,948 --> 00:03:57,386
+O que importa é porque
+você está aqui.
+
+74
+00:03:57,769 --> 00:03:59,427
+Sabe porque
+eu matei meu tio.
+
+75
+00:03:59,428 --> 00:04:00,842
+Sim, eu sei.
+
+76
+00:04:01,349 --> 00:04:03,576
+Frank matou o seu pai.
+
+77
+00:04:03,935 --> 00:04:05,576
+O que preciso saber é se...
+
+78
+00:04:05,577 --> 00:04:08,386
+você nos responsabiliza
+pela ação dele.
+
+79
+00:04:08,800 --> 00:04:10,435
+Frank agiu sozinho.
+
+80
+00:04:10,637 --> 00:04:12,056
+Ele admitiu.
+
+81
+00:04:13,222 --> 00:04:14,522
+Ótimo.
+
+82
+00:04:15,220 --> 00:04:16,923
+Então podemos prosseguir.
+
+83
+00:04:17,509 --> 00:04:21,268
+A cidade precisa de você agora
+mais do que nunca, James.
+
+84
+00:04:21,269 --> 00:04:23,871
+Há turbulência à frente...
+
+85
+00:04:23,872 --> 00:04:26,033
+e bons homens como você
+serão necessários
+
+86
+00:04:26,034 --> 00:04:27,390
+para mantê-la unida.
+
+87
+00:04:27,391 --> 00:04:29,203
+<i>Mas não se engane...</i>
+
+88
+00:04:29,204 --> 00:04:33,743
+a Corte, e apenas a Corte,
+pode salvar Gotham.
+
+89
+00:04:34,462 --> 00:04:36,071
+Então o que quer
+que eu faça?
+
+90
+00:04:36,282 --> 00:04:39,323
+Prove sua lealdade
+para a Corte.
+
+91
+00:04:40,137 --> 00:04:42,095
+Matar meu tio
+não foi o suficiente?
+
+92
+00:04:42,097 --> 00:04:43,832
+Isso foi entre você e Frank.
+
+93
+00:04:43,833 --> 00:04:45,975
+Não teve nada a ver
+com nós.
+
+94
+00:04:47,397 --> 00:04:50,297
+Quando a hora chegar,
+vamos chamá-lo.
+
+95
+00:04:51,192 --> 00:04:53,997
+E o corpo de Frank?
+Ainda está na casa.
+
+96
+00:04:53,998 --> 00:04:56,122
+Nós já cuidamos disso.
+
+97
+00:04:59,493 --> 00:05:02,805
+- De quem é esse cadáver?
+- O tio de Jim, Frank Gordon.
+
+98
+00:05:03,241 --> 00:05:05,325
+- Nunca o conheci.
+- Eles não se falavam.
+
+99
+00:05:05,326 --> 00:05:07,008
+Você viu o Jim?
+
+100
+00:05:07,009 --> 00:05:08,763
+Está trabalhando em um caso.
+
+101
+00:05:08,764 --> 00:05:11,254
+Ou está entrando pela porta
+enquanto conversamos.
+
+102
+00:05:11,255 --> 00:05:14,677
+Jim, entre, temos má noticias
+para você.
+
+103
+00:05:15,508 --> 00:05:16,829
+O que está acontecendo?
+
+104
+00:05:16,831 --> 00:05:18,224
+Sinto muito.
+
+105
+00:05:18,226 --> 00:05:20,963
+Achamos o corpo do seu tio
+está manhã.
+
+106
+00:05:22,434 --> 00:05:25,151
+Foi encontrado fora do porto.
+Fiz minha autopsia.
+
+107
+00:05:25,152 --> 00:05:28,051
+As queimaduras indicam que foi
+baleado à curta distância.
+
+108
+00:05:28,052 --> 00:05:29,603
+Estão fazendo a balística.
+
+109
+00:05:29,604 --> 00:05:31,248
+Você o viu no cemitério ontem.
+
+110
+00:05:31,249 --> 00:05:33,858
+Ele parecia irritado.
+Ele disse alguma coisa?
+
+111
+00:05:34,249 --> 00:05:37,933
+Não. Ele apenas parou
+para prestar respeito.
+
+112
+00:05:38,546 --> 00:05:40,383
+Não conversamos muito.
+
+113
+00:05:41,064 --> 00:05:42,801
+Obrigado, Lee,
+eu assumo daqui.
+
+114
+00:05:43,186 --> 00:05:45,286
+É só isso?
+Essa é sua reação?
+
+115
+00:05:45,589 --> 00:05:46,983
+O que quer que eu diga?
+
+116
+00:05:48,339 --> 00:05:49,900
+Eu conheço você.
+
+117
+00:05:49,901 --> 00:05:51,606
+Está escondendo algo.
+
+118
+00:05:51,607 --> 00:05:53,406
+- Você sabe de algo.
+- Lee, qual é?
+
+119
+00:05:53,407 --> 00:05:54,831
+Ele acabou de perder o tio.
+
+120
+00:05:54,832 --> 00:05:57,256
+Sim, Harvey, continue dando
+cobertura para ele.
+
+121
+00:05:57,257 --> 00:05:58,862
+Meu pêsames.
+
+122
+00:06:02,190 --> 00:06:05,375
+Ela está certa.
+Você sabe de algo, não sabe?
+
+123
+00:06:05,802 --> 00:06:07,575
+Tio Frank se matou.
+
+124
+00:06:07,577 --> 00:06:10,039
+Disse que era o único modo
+de eu entrar na Corte.
+
+125
+00:06:10,041 --> 00:06:11,424
+Funcionou?
+
+126
+00:06:11,426 --> 00:06:13,771
+Eu me encontrei com uma mulher
+chamada Kathryn.
+
+127
+00:06:13,773 --> 00:06:17,393
+Ela disse que tenho que provar
+minha lealdade primeiro.
+
+128
+00:06:17,508 --> 00:06:20,096
+Veja, eu vejo a necessidade
+de parecer legal.
+
+129
+00:06:20,098 --> 00:06:22,222
+Mas neste momento,
+a Corte tem uma arma...
+
+130
+00:06:22,223 --> 00:06:23,622
+que pode destruir tudo.
+
+131
+00:06:23,623 --> 00:06:26,152
+Não temos tempo de ficar
+sentados sem fazer nada.
+
+132
+00:06:26,153 --> 00:06:28,814
+Não gosto disso mais que você,
+mas se forçar demais...
+
+133
+00:06:28,815 --> 00:06:31,718
+perderemos a única chance
+que temos de acabar com isso.
+
+134
+00:06:31,719 --> 00:06:33,866
+E tio Frank terá morrido
+em vão.
+
+135
+00:06:33,867 --> 00:06:36,739
+Certo, então,
+o que faremos agora?
+
+136
+00:06:37,280 --> 00:06:39,183
+Kathryn mandou voltar
+ao trabalho.
+
+137
+00:06:39,184 --> 00:06:41,965
+- Manter as aparências.
+- Não deve ser tão difícil.
+
+138
+00:06:42,443 --> 00:06:44,529
+- Veja quem reapareceu.
+O CHARADA ATACA
+
+139
+00:06:47,730 --> 00:06:49,611
+Olá?
+
+140
+00:06:50,051 --> 00:06:51,675
+Ed?
+
+141
+00:06:52,339 --> 00:06:53,913
+É a Bárbara.
+
+142
+00:06:54,151 --> 00:06:57,146
+A velha amiga
+que você está evitando.
+
+143
+00:06:59,327 --> 00:07:03,294
+Eu lhe permito me chamar de Ed
+porque temos uma história.
+
+144
+00:07:03,295 --> 00:07:05,072
+Mas meu nome...
+
+145
+00:07:07,134 --> 00:07:08,836
+É "O Charada".
+
+146
+00:07:09,179 --> 00:07:11,060
+Assim dizem nas manchetes.
+
+147
+00:07:11,870 --> 00:07:13,521
+Agora, por que está aqui?
+
+148
+00:07:13,815 --> 00:07:15,492
+Quando o Pinguim
+era prefeito...
+
+149
+00:07:15,493 --> 00:07:18,092
+ele mencionou
+algum grupo misterioso?
+
+150
+00:07:18,093 --> 00:07:20,852
+Um que controla
+o poder em Gotham das sombras
+
+151
+00:07:20,853 --> 00:07:23,040
+com total impunidade?
+
+152
+00:07:23,041 --> 00:07:26,134
+- Não.
+- Não cheguei onde estou...
+
+153
+00:07:26,135 --> 00:07:28,341
+só para descobrir que há
+alguém acima de mim.
+
+154
+00:07:28,342 --> 00:07:30,678
+Venho tentando descobrir
+quem eles são,
+
+155
+00:07:30,679 --> 00:07:34,005
+mas ninguém nessa cidade
+parece saber quem eles são.
+
+156
+00:07:34,006 --> 00:07:36,084
+E como é que você sabe
+sobre eles?
+
+157
+00:07:36,434 --> 00:07:38,600
+Jim Gordon me contou
+sobre eles.
+
+158
+00:07:38,601 --> 00:07:41,281
+Qual o interesse dele
+em tudo isso?
+
+159
+00:07:41,282 --> 00:07:44,741
+Ele não falou. Mas me pediu
+para investigar...
+
+160
+00:07:44,743 --> 00:07:49,215
+um carregamento
+que chegou na doca 9C ontem.
+
+161
+00:07:49,217 --> 00:07:52,942
+O encarregado estava protegendo
+uma caixa vinda de Indian Hill.
+
+162
+00:07:52,944 --> 00:07:54,989
+- O que havia dentro?
+- Eu não sei.
+
+163
+00:07:54,991 --> 00:07:57,880
+Antes que eu pudesse descobrir,
+um assassino mascarado
+
+164
+00:07:57,882 --> 00:08:00,047
+massacrou metade
+dos meus homens.
+
+165
+00:08:01,490 --> 00:08:03,244
+O que você sabe?
+
+166
+00:08:03,246 --> 00:08:05,527
+Quando eu estava
+em Indian Hill...
+
+167
+00:08:05,529 --> 00:08:08,326
+o Professor Strange citou
+um tipo de...
+
+168
+00:08:08,327 --> 00:08:10,426
+grupo poderoso e secreto,
+
+169
+00:08:10,427 --> 00:08:12,111
+mas ele não me disse
+quem seriam.
+
+170
+00:08:13,697 --> 00:08:17,324
+Esta foi a única charada
+que não decifrei.
+
+171
+00:08:18,843 --> 00:08:20,924
+Eu irei...
+
+172
+00:08:21,173 --> 00:08:23,759
+encontrar a resposta
+que você procura.
+
+173
+00:08:24,685 --> 00:08:26,719
+Mas farei do meu jeito.
+
+174
+00:08:26,948 --> 00:08:30,459
+Vai fazer disso uma grande
+produção, não vai?
+
+175
+00:08:30,460 --> 00:08:32,720
+Somente alguém com poder
+e conexões
+
+176
+00:08:32,721 --> 00:08:34,783
+pode ter informações
+desse grupo.
+
+177
+00:08:34,784 --> 00:08:37,571
+Preciso falar
+com a elite de Gotham.
+
+178
+00:08:37,572 --> 00:08:40,200
+E nada melhor para atrair
+a burguesia do que...
+
+179
+00:08:40,201 --> 00:08:42,688
+uma noite de abertura
+no teatro.
+
+180
+00:08:43,108 --> 00:08:45,249
+Onde me levarás?
+
+181
+00:08:46,167 --> 00:08:47,742
+Fale!
+
+182
+00:08:48,055 --> 00:08:50,417
+Pois não ireis além daqui.
+
+183
+00:08:58,836 --> 00:09:01,508
+Eu disse, fantasma...
+
+184
+00:09:01,744 --> 00:09:04,237
+<i>Fale seu objetivo...</i>
+
+185
+00:09:05,010 --> 00:09:08,265
+ou não irei além disso!
+
+186
+00:09:08,267 --> 00:09:10,323
+<i>Meu assunto...</i>
+
+187
+00:09:10,324 --> 00:09:12,645
+<i>não é com você,
+Príncipe da Dinamarca.</i>
+
+188
+00:09:12,646 --> 00:09:15,203
+Mas com o seu público.
+
+189
+00:09:21,137 --> 00:09:24,324
+Eu vim para falar
+com vocês!
+
+190
+00:09:24,325 --> 00:09:27,262
+A classe dominante de Gotham.
+
+191
+00:09:27,263 --> 00:09:31,098
+Vocês guardaram um segredo
+por muito tempo.
+
+192
+00:09:31,099 --> 00:09:32,927
+Mas esta noite...
+
+193
+00:09:33,460 --> 00:09:36,908
+irei sequestrar
+e torturar um de vocês...
+
+194
+00:09:36,910 --> 00:09:38,418
+para expor a verdade.
+
+195
+00:09:38,419 --> 00:09:41,988
+Então, espalhem para todos
+os seus amigos...
+
+196
+00:09:41,989 --> 00:09:45,638
+o Charada está chegando!
+
+197
+00:09:46,561 --> 00:09:48,063
+<i>Além disso...</i>
+
+198
+00:09:48,065 --> 00:09:52,998
+achei sua atuação parada
+e superficial.
+
+199
+00:09:58,675 --> 00:10:01,072
+"E cena"!
+
+200
+00:10:18,198 --> 00:10:20,228
+E isso,
+meu velho amigo...
+
+201
+00:10:20,230 --> 00:10:21,530
+é xeque-mate.
+
+202
+00:10:25,830 --> 00:10:27,343
+Bom jogo, Alfred.
+
+203
+00:10:29,147 --> 00:10:31,256
+Você me deixou ganhar,
+não, Patrão Bruce?
+
+204
+00:10:31,406 --> 00:10:33,942
+- De modo algum, Alfred.
+- De modo algum o caramba.
+
+205
+00:10:34,663 --> 00:10:36,448
+Isso não é comum de você,
+não é?
+
+206
+00:10:36,758 --> 00:10:39,210
+E para ser honesto,
+você não tem sido o mesmo...
+
+207
+00:10:39,211 --> 00:10:40,880
+nos últimos dias, não é?
+
+208
+00:10:41,216 --> 00:10:42,651
+Não sei do que está falando.
+
+209
+00:10:42,652 --> 00:10:45,475
+Acho que sabe do que falo,
+então vamos lá.
+
+210
+00:10:49,397 --> 00:10:50,697
+Fale logo.
+
+211
+00:10:52,599 --> 00:10:54,424
+No outro dia,
+quando cheguei em casa,
+
+212
+00:10:54,425 --> 00:10:56,803
+perguntou como estavam
+as coisas com Selina.
+
+213
+00:10:56,805 --> 00:10:59,236
+<i>Fiz parecer
+como se houvesse esperança.</i>
+
+214
+00:11:00,535 --> 00:11:02,062
+Eu menti.
+
+215
+00:11:03,040 --> 00:11:05,448
+Ela disse que nunca queria
+me ver novamente.
+
+216
+00:11:06,099 --> 00:11:07,561
+Eu estava envergonhado.
+
+217
+00:11:07,563 --> 00:11:09,520
+Tinha medo que você...
+
+218
+00:11:09,522 --> 00:11:12,640
+perguntasse sobre ver a Selina
+e eu menti e...
+
+219
+00:11:14,264 --> 00:11:16,133
+Eu só não queria
+falar sobre isso.
+
+220
+00:11:16,134 --> 00:11:19,769
+Bem...
+Eu entendo, Patrão B.
+
+221
+00:11:21,855 --> 00:11:24,357
+E muito obrigado
+por ser tão sincero.
+
+222
+00:11:25,948 --> 00:11:28,296
+E eu não me preocuparia
+com a Srta. Kyle.
+
+223
+00:11:28,297 --> 00:11:30,783
+Você sabe,
+o tempo tem um jeito
+
+224
+00:11:30,784 --> 00:11:33,634
+de consertar essas coisas,
+não é?
+
+225
+00:11:36,573 --> 00:11:38,861
+Falando nisso,
+preciso verificar o jantar.
+
+226
+00:11:40,555 --> 00:11:42,824
+- Alfred.
+- Senhor?
+
+227
+00:11:44,881 --> 00:11:46,214
+Obrigado.
+
+228
+00:11:48,434 --> 00:11:49,948
+Você é um bom amigo.
+
+229
+00:11:50,947 --> 00:11:52,830
+Fico feliz em ouvir isso,
+senhor.
+
+230
+00:12:17,102 --> 00:12:18,402
+Sou eu.
+
+231
+00:12:19,272 --> 00:12:20,916
+Está acontecendo de novo.
+
+232
+00:12:26,344 --> 00:12:29,000
+Então, não tem ninguém
+faltando na plateia.
+
+233
+00:12:29,759 --> 00:12:31,400
+Esse é o Hamlet?
+
+234
+00:12:31,641 --> 00:12:34,228
+Acho que não era
+para ele "ser".
+
+235
+00:12:35,096 --> 00:12:36,798
+Esteve com o Nygma
+recentemente.
+
+236
+00:12:36,799 --> 00:12:39,156
+Sabe que segredo é esse
+que ele está falando?
+
+237
+00:12:39,157 --> 00:12:42,186
+Não, não tenho ideia.
+Acho que acabou de inventar.
+
+238
+00:12:42,187 --> 00:12:44,405
+Capitão,
+verificamos tudo.
+
+239
+00:12:44,406 --> 00:12:45,757
+Está bem.
+
+240
+00:13:01,869 --> 00:13:03,680
+Isso é tudo
+o que tem aqui dentro.
+
+241
+00:13:11,634 --> 00:13:14,170
+- É uma charada.
+- Que novidade.
+
+242
+00:13:14,171 --> 00:13:18,166
+Escrito em pentâmetro iâmbico
+como um soneto shakespeariano.
+
+243
+00:13:18,167 --> 00:13:20,988
+"Eu sou um homem
+que ocupa uma posição alta,
+
+244
+00:13:20,989 --> 00:13:23,641
+que mostra duas caras
+a todos aqueles que governar.
+
+245
+00:13:23,642 --> 00:13:27,283
+Uma fraude, um criminoso,
+e uma vez político.
+
+246
+00:13:27,284 --> 00:13:30,801
+Gotham, distrito eleitoral
+de tolos é meu altar."
+
+247
+00:13:31,327 --> 00:13:33,047
+<i>Um político de duas caras...</i>
+
+248
+00:13:33,048 --> 00:13:35,246
+cujo distrito eleitoral
+é Gotham.
+
+249
+00:13:35,247 --> 00:13:38,069
+- O prefeito?
+- "Fraude, criminoso".
+
+250
+00:13:38,070 --> 00:13:39,980
+Parece estar
+descrevendo o Pinguim,
+
+251
+00:13:39,981 --> 00:13:41,808
+mas isso não faz
+nenhum sentido.
+
+252
+00:13:41,809 --> 00:13:44,565
+Ed contou a Lucius
+que ele matou Pinguim.
+
+253
+00:13:44,688 --> 00:13:45,988
+Aubrey James.
+
+254
+00:13:45,989 --> 00:13:48,640
+Foi recentemente reempossado
+e ele foi prefeito antes.
+
+255
+00:13:48,642 --> 00:13:51,072
+"Uma vez político,"
+mas por que não pegá-lo?
+
+256
+00:13:51,073 --> 00:13:52,607
+Por que nos contar antes?
+
+257
+00:13:52,608 --> 00:13:54,425
+Porque Nygma
+quer fazer um show disso
+
+258
+00:13:54,426 --> 00:13:55,877
+e nos fazer parecer inúteis.
+
+259
+00:13:55,878 --> 00:13:58,472
+Ligue para o prefeito.
+Diga que estamos a caminho.
+
+260
+00:14:04,345 --> 00:14:07,274
+Não precisamos do Nygma.
+Ele já devia estar morto.
+
+261
+00:14:07,275 --> 00:14:09,334
+Ele está obcecado
+em encontrar a resposta,
+
+262
+00:14:09,335 --> 00:14:11,092
+que é uma solução
+fácil para nós.
+
+263
+00:14:11,093 --> 00:14:13,514
+Assim que ele encontrar,
+vamos nos livrar dele.
+
+264
+00:14:13,515 --> 00:14:15,136
+Eu prometo.
+
+265
+00:14:15,138 --> 00:14:18,045
+E como fazer uma cena no teatro
+vai nos ajudar?
+
+266
+00:14:18,047 --> 00:14:19,447
+Não ajuda.
+
+267
+00:14:20,414 --> 00:14:21,953
+Mas me ajuda...
+
+268
+00:14:21,954 --> 00:14:25,794
+a me anunciar totalmente
+no palco de Gotham.
+
+269
+00:14:25,795 --> 00:14:27,620
+Se perdoa o trocadilho.
+
+270
+00:14:28,105 --> 00:14:31,031
+Quer se tornar famoso?
+Tente morrer.
+
+271
+00:14:31,032 --> 00:14:34,273
+- Posso lhe ajudar com isso.
+- Certo, já chega.
+
+272
+00:14:35,590 --> 00:14:37,676
+Qual é o seu plano de verdade?
+
+273
+00:14:38,658 --> 00:14:40,482
+Sequestrar o Prefeito James.
+
+274
+00:14:41,468 --> 00:14:43,966
+O homem governou
+este lugar por 10 anos.
+
+275
+00:14:43,967 --> 00:14:47,167
+Se alguém sabe sobre esse
+misterioso grupo, é ele.
+
+276
+00:14:47,168 --> 00:14:48,861
+Poderia ter dito isso.
+
+277
+00:14:48,862 --> 00:14:51,292
+Eu poderia tê-lo trazido aqui.
+Torturá-lo.
+
+278
+00:14:51,293 --> 00:14:54,392
+Certo. Mas antes
+eu tinha que dizer ao DPCG
+
+279
+00:14:54,393 --> 00:14:56,086
+o que eu ia fazer.
+
+280
+00:14:56,087 --> 00:14:59,281
+De que outra forma eu devia
+constrangê-los publicamente?
+
+281
+00:14:59,283 --> 00:15:02,448
+Meus crimes devem viver
+de acordo com o meu nome!
+
+282
+00:15:02,450 --> 00:15:03,917
+Sem exceção.
+
+283
+00:15:03,918 --> 00:15:06,635
+E se o prefeito não souber nada
+sobre esse grupo?
+
+284
+00:15:07,370 --> 00:15:08,673
+E então?
+
+285
+00:15:08,675 --> 00:15:10,535
+Tenho um plano B
+para desmascará-los,
+
+286
+00:15:10,537 --> 00:15:14,878
+mas primeiro,
+preciso de algo de vocês.
+
+287
+00:15:14,981 --> 00:15:17,545
+Tem um bar de motoqueiros
+na Spaulding com a Oitava.
+
+288
+00:15:17,546 --> 00:15:19,597
+Cheio de valentões,
+vagabundos.
+
+289
+00:15:19,598 --> 00:15:22,159
+Preciso de uma bomba...
+
+290
+00:15:22,160 --> 00:15:23,628
+<i>para detonar lá.</i>
+
+291
+00:15:24,245 --> 00:15:25,546
+Hoje à noite.
+
+292
+00:15:26,221 --> 00:15:27,579
+Aviso-as o momento.
+
+293
+00:15:27,580 --> 00:15:29,458
+<i>Diga, gênio...</i>
+
+294
+00:15:29,460 --> 00:15:30,913
+como quer pegar Aubrey James
+
+295
+00:15:30,914 --> 00:15:33,280
+agora que contou ao DPGC
+que vai atrás dele?
+
+296
+00:15:33,281 --> 00:15:34,651
+É simples.
+
+297
+00:15:35,335 --> 00:15:37,111
+Eles irão trazê-lo até mim.
+
+298
+00:15:42,110 --> 00:15:44,516
+Sabe quantos corruptos
+há na cidade?
+
+299
+00:15:44,518 --> 00:15:46,442
+Essa charada pode ser
+para qualquer um.
+
+300
+00:15:46,444 --> 00:15:49,147
+- Caramba, isso é delicioso!
+- Tanto faz, Sr. Prefeito.
+
+301
+00:15:49,149 --> 00:15:51,262
+Gostaríamos de levá-lo
+para um esconderijo.
+
+302
+00:15:51,264 --> 00:15:52,667
+Imediatamente.
+
+303
+00:15:52,669 --> 00:15:55,339
+Não viu os fortões ali?
+
+304
+00:15:55,341 --> 00:15:57,285
+Estou perfeitamente
+seguro aqui.
+
+305
+00:15:57,286 --> 00:15:59,449
+Além do mais,
+o que o Charada quer comigo?
+
+306
+00:15:59,450 --> 00:16:00,870
+Não temos certeza.
+
+307
+00:16:00,871 --> 00:16:03,146
+Ele disse algo
+à plateia do teatro...
+
+308
+00:16:03,147 --> 00:16:04,726
+sobre um segredo.
+
+309
+00:16:05,721 --> 00:16:07,577
+Minha vida é um livro aberto.
+
+310
+00:16:09,830 --> 00:16:12,250
+Sente-se bem, Sr. Prefeito?
+Você parece meio...
+
+311
+00:16:12,251 --> 00:16:15,030
+É o açúcar no meu sangue.
+Comi muito desses doces.
+
+312
+00:16:15,220 --> 00:16:16,612
+Onde está meu remédio?
+
+313
+00:16:17,281 --> 00:16:18,882
+Espere.
+Onde conseguiu isso aí?
+
+314
+00:16:18,883 --> 00:16:20,667
+De um cidadão agradecido.
+Por quê?
+
+315
+00:16:23,606 --> 00:16:25,619
+- Ferrou.
+- Nygma.
+
+316
+00:16:26,983 --> 00:16:28,307
+Isso é ruim.
+
+317
+00:16:40,453 --> 00:16:41,865
+Estou passando.
+
+318
+00:16:49,464 --> 00:16:51,319
+É, vou recusar.
+
+319
+00:16:51,713 --> 00:16:53,274
+Não pode estar falando sério.
+
+320
+00:16:53,276 --> 00:16:56,378
+Já vi covas mais convidativas
+que este lugar.
+
+321
+00:16:57,315 --> 00:16:59,806
+Strange me ferrou toda.
+
+322
+00:16:59,807 --> 00:17:02,661
+Convenceu-me de que eu era
+um tipo de "deusa"...
+
+323
+00:17:02,663 --> 00:17:04,860
+e demorou muito tempo
+para eu superar isso.
+
+324
+00:17:04,861 --> 00:17:07,695
+Esse lugar pode ser ruim,
+mas Gotham é pior.
+
+325
+00:17:07,696 --> 00:17:10,432
+Ei, aberração!
+Está no meio do expediente.
+
+326
+00:17:10,612 --> 00:17:11,997
+Volte ao trabalho.
+
+327
+00:17:14,158 --> 00:17:15,920
+Você não tem que ouvir isso.
+
+328
+00:17:16,158 --> 00:17:20,210
+- Deveria detonar o cara.
+- Sim, mas ele é meu chefe.
+
+329
+00:17:20,490 --> 00:17:24,138
+Bridgit, não há nada de errado
+em ser uma aberração.
+
+330
+00:17:25,146 --> 00:17:27,793
+Eu sou uma aberração.
+E o Pinguim também.
+
+331
+00:17:28,262 --> 00:17:29,970
+Seu lugar é conosco.
+
+332
+00:17:31,970 --> 00:17:34,398
+Já nos conhecemos,
+não é?
+
+333
+00:17:34,530 --> 00:17:36,246
+Sim. Sou Ivy Pepper.
+
+334
+00:17:36,247 --> 00:17:37,758
+Amiga da Selina.
+
+335
+00:17:38,619 --> 00:17:41,610
+É, eu sei. Dei de cara
+com um capanga do Strange.
+
+336
+00:17:41,611 --> 00:17:44,938
+Tive um surto de crescimento.
+E olha, não reclamo disso.
+
+337
+00:17:45,821 --> 00:17:47,130
+Ivy.
+
+338
+00:17:47,696 --> 00:17:49,710
+E você é parte disso?
+
+339
+00:17:49,799 --> 00:17:53,100
+Sim. É como se fôssemos
+uma família.
+
+340
+00:17:53,663 --> 00:17:55,705
+Não precisa mais ficar sozinha.
+
+341
+00:17:57,818 --> 00:18:00,299
+Eu poderia matar seu chefe
+para melhorar o trato.
+
+342
+00:18:03,175 --> 00:18:04,485
+Não.
+
+343
+00:18:08,713 --> 00:18:10,110
+Ei, você.
+
+344
+00:18:10,111 --> 00:18:11,411
+Peço demissão.
+
+345
+00:18:21,266 --> 00:18:23,082
+Obrigado por me receber.
+
+346
+00:18:23,891 --> 00:18:25,838
+As hemorragias nasais
+estão piorando.
+
+347
+00:18:25,839 --> 00:18:28,025
+Você fez o certo ao vir aqui.
+
+348
+00:18:28,197 --> 00:18:30,566
+- Contou algo ao Alfred?
+- Nada.
+
+349
+00:18:31,010 --> 00:18:33,513
+Eu disse que estava cansado
+e fugi pelo meu quarto.
+
+350
+00:18:40,157 --> 00:18:41,690
+Estou morrendo, não estou?
+
+351
+00:18:42,091 --> 00:18:43,443
+Sim.
+
+352
+00:18:43,787 --> 00:18:45,286
+Sinto muito.
+
+353
+00:18:45,288 --> 00:18:48,563
+O processo que trouxe você
+para este mundo foi falho.
+
+354
+00:18:49,428 --> 00:18:51,514
+Eu morrerei antes
+do Bruce voltar?
+
+355
+00:18:51,515 --> 00:18:54,766
+Não, bem antes disso
+Bruce Wayne voltará a Gotham.
+
+356
+00:18:57,194 --> 00:18:59,955
+Sei que pedimos muito a você.
+
+357
+00:19:01,007 --> 00:19:04,323
+Após Indian Hill,
+eu fiquei sem rumo.
+
+358
+00:19:05,742 --> 00:19:07,518
+Vocês me deram um propósito.
+
+359
+00:19:09,153 --> 00:19:11,336
+É mais do que a maioria diria.
+
+360
+00:19:11,337 --> 00:19:13,494
+Fico feliz
+que veja dessa forma.
+
+361
+00:19:15,426 --> 00:19:17,068
+Quando Bruce voltar...
+
+362
+00:19:19,121 --> 00:19:21,061
+as pessoas morrerão,
+não é?
+
+363
+00:19:21,665 --> 00:19:22,970
+Muitas pessoas.
+
+364
+00:19:22,972 --> 00:19:26,124
+Não se apegou a alguém,
+não é?
+
+365
+00:19:26,626 --> 00:19:28,364
+<i>Ao Alfred, talvez?</i>
+
+366
+00:19:28,814 --> 00:19:30,887
+- Você falou com carinho dele.
+- Não.
+
+367
+00:19:32,833 --> 00:19:34,384
+Só quero saber.
+
+368
+00:19:36,052 --> 00:19:38,039
+O número é imaterial.
+
+369
+00:19:39,489 --> 00:19:42,601
+O que importa é
+que Gotham deve cair.
+
+370
+00:19:42,965 --> 00:19:45,927
+E por conta de seu sacrifício,
+ela irá.
+
+371
+00:19:48,020 --> 00:19:49,926
+Podemos contar com você?
+
+372
+00:19:51,418 --> 00:19:52,718
+Sim.
+
+373
+00:19:55,043 --> 00:19:57,424
+A pressão está caindo!
+Temos que estabilizá-lo!
+
+374
+00:19:57,426 --> 00:19:59,968
+Cerquem a emergência.
+Acesso só com distintivo.
+
+375
+00:19:59,970 --> 00:20:01,475
+Ninguém entra sem estar...
+
+376
+00:20:01,477 --> 00:20:03,220
+- doente ou morrendo.
+- Afirmativo.
+
+377
+00:20:03,222 --> 00:20:05,342
+Nygma sabe que aqui é
+perto da prefeitura.
+
+378
+00:20:05,343 --> 00:20:07,722
+- Nós o trouxemos até ele.
+- Deixe-o se mostrar.
+
+379
+00:20:07,724 --> 00:20:09,306
+Tenho unidade por toda parte.
+
+380
+00:20:09,308 --> 00:20:11,007
+Mas o que não percebemos,
+Harvey?
+
+381
+00:20:11,009 --> 00:20:13,620
+O que Aubrey saberia
+que é importante para o Nygma?
+
+382
+00:20:13,622 --> 00:20:17,876
+<i>Chamando o Detetive
+James Gordon.</i>
+
+383
+00:20:17,877 --> 00:20:20,376
+- De onde isso vem?
+- Da comunicações. 2º piso.
+
+384
+00:20:20,377 --> 00:20:21,677
+É uma armadilha.
+
+385
+00:20:21,678 --> 00:20:23,876
+Por favor, não me mate.
+
+386
+00:20:24,169 --> 00:20:25,548
+Fique aqui.
+
+387
+00:20:26,529 --> 00:20:29,283
+<i>Então, Jimbo, sei que deve
+estar se perguntando...</i>
+
+388
+00:20:29,285 --> 00:20:32,988
+<i>o que quero daquele palerma
+do Aubrey James.</i>
+
+389
+00:20:33,542 --> 00:20:37,475
+<i>Acontece que ele tem respostas
+para uma charada.</i>
+
+390
+00:20:37,476 --> 00:20:41,243
+<i>Uma que você lançou quando
+mandou Barbara para a Doca 9C.</i>
+
+391
+00:20:41,245 --> 00:20:45,217
+<i>A pergunta é:
+Quem comanda Gotham?</i>
+
+392
+00:20:46,824 --> 00:20:48,468
+- Tenho que sair daqui.
+- Não.
+
+393
+00:20:48,469 --> 00:20:51,162
+Sr. Prefeito, está sem condição
+de se levantar.
+
+394
+00:20:53,685 --> 00:20:56,509
+- Jim. Diga que o pegou.
+- Ele não estava lá.
+
+395
+00:20:56,511 --> 00:20:59,608
+Mas o segredo que ele busca
+é a Corte.
+
+396
+00:20:59,617 --> 00:21:01,699
+<i>Lidocaína e intravenosa.</i>
+
+397
+00:21:03,142 --> 00:21:05,169
+- É melhor voltar rápido.
+- O que foi?
+
+398
+00:21:05,170 --> 00:21:07,607
+Teve algum tipo de explosão.
+Muitas vítimas.
+
+399
+00:21:07,608 --> 00:21:09,648
+- Tenho um mau pressentimento.
+- É ele.
+
+400
+00:21:09,650 --> 00:21:11,333
+Não saia do lado do prefeito!
+
+401
+00:21:11,758 --> 00:21:13,827
+- Só pessoal autorizado.
+- Que se dane.
+
+402
+00:21:13,829 --> 00:21:15,324
+Meus amigos explodiram!
+
+403
+00:21:26,343 --> 00:21:27,837
+Olá, Aubrey.
+
+404
+00:21:49,216 --> 00:21:51,656
+- Temos companhia.
+- Onde ela está?
+
+405
+00:21:52,609 --> 00:21:54,639
+- Não está aqui.
+- Sei que ela e Nygma...
+
+406
+00:21:54,640 --> 00:21:56,260
+sequestraram o Prefeito James.
+
+407
+00:21:56,262 --> 00:21:59,455
+Nygma mencionou a Doca 9C
+e ela é a única a quem contei.
+
+408
+00:21:59,689 --> 00:22:02,974
+- Nygma tem uma boca grande.
+- Deixe-me entender direito.
+
+409
+00:22:03,016 --> 00:22:06,398
+Toda essa idiotice de Charada
+com o Nygma é real?
+
+410
+00:22:06,722 --> 00:22:09,688
+Que foi? Ele com certeza
+já sabe de tudo.
+
+411
+00:22:10,863 --> 00:22:12,580
+Ouvi um boato...
+
+412
+00:22:12,582 --> 00:22:15,679
+de que ele machucou bem feio
+vocês dois há um tempo.
+
+413
+00:22:15,681 --> 00:22:17,411
+Fico surpreso
+por o defenderem.
+
+414
+00:22:17,649 --> 00:22:19,695
+Escutem, digam-me
+onde eles estão...
+
+415
+00:22:19,696 --> 00:22:21,207
+eu pego o Nygma...
+
+416
+00:22:21,841 --> 00:22:23,908
+mas dou à Barbara
+um passe livre.
+
+417
+00:22:28,772 --> 00:22:30,970
+É verdade.
+Odeio o cara.
+
+418
+00:22:31,944 --> 00:22:33,444
+Mas não sei onde estão.
+
+419
+00:22:37,449 --> 00:22:38,749
+Harvey?
+
+420
+00:22:39,389 --> 00:22:41,197
+Certo. Já chego aí.
+
+421
+00:22:41,854 --> 00:22:43,475
+Nygma mandou outra charada.
+
+422
+00:22:43,477 --> 00:22:45,496
+Eu não devia
+ter envolvido Barbara nisso.
+
+423
+00:22:45,497 --> 00:22:48,024
+Torçam para que eu chegue
+até ela primeiro.
+
+424
+00:22:49,252 --> 00:22:51,406
+Você deveria ter entregado
+aquele louco.
+
+425
+00:22:51,407 --> 00:22:53,674
+Ninguém quer o Nygma morto
+mais do que eu.
+
+426
+00:22:54,554 --> 00:22:57,737
+- Mas não posso trair Barbara.
+- Sim.
+
+427
+00:22:57,738 --> 00:23:00,147
+Porque ela sempre quer
+o melhor para você.
+
+428
+00:23:04,478 --> 00:23:07,569
+Escute, você está brincando
+com peixes grandes aqui.
+
+429
+00:23:07,570 --> 00:23:09,888
+Não vai querer mexer
+com essas pessoas.
+
+430
+00:23:09,889 --> 00:23:13,900
+Veja, tudo que você diz
+só me deixa mais intrigado.
+
+431
+00:23:14,380 --> 00:23:16,120
+E determinado!
+
+432
+00:23:16,918 --> 00:23:20,531
+Eu serei aquele
+que os desmascará!
+
+433
+00:23:20,532 --> 00:23:21,832
+Você é louco.
+
+434
+00:23:23,037 --> 00:23:25,340
+Lembra-se de mim, Aubrey?
+
+435
+00:23:26,349 --> 00:23:28,220
+Eu conheço essa voz.
+
+436
+00:23:28,221 --> 00:23:30,052
+Fico tão feliz.
+
+437
+00:23:30,765 --> 00:23:33,159
+Pensei que ela havia
+sido silenciada.
+
+438
+00:23:33,160 --> 00:23:35,390
+Colocamos aquela caixa
+na sua cabeça.
+
+439
+00:23:36,618 --> 00:23:40,051
+Foi divertido. Devíamos fazer
+de novo pelos velhos tempos.
+
+440
+00:23:40,603 --> 00:23:42,231
+Você não entende, não é?
+
+441
+00:23:42,975 --> 00:23:46,082
+Essas pessoas são como Deus.
+Eles veem e ouvem tudo.
+
+442
+00:23:46,083 --> 00:23:47,766
+Eles saberão que falei.
+
+443
+00:23:48,620 --> 00:23:50,139
+- Então é a caixa!
+- Não.
+
+444
+00:23:50,140 --> 00:23:51,967
+Por favor, tudo menos isso.
+
+445
+00:23:56,155 --> 00:23:58,268
+Eles se chamam de "Corte".
+
+446
+00:23:59,863 --> 00:24:01,163
+E?
+
+447
+00:24:02,004 --> 00:24:05,195
+<i>É tudo que sei.
+Nunca encontrei essas pessoas.</i>
+
+448
+00:24:05,197 --> 00:24:07,349
+Só fiz o que me pediram.
+Eu juro.
+
+449
+00:24:10,625 --> 00:24:13,363
+Muito bom!
+Obrigado, Sr. Prefeito.
+
+450
+00:24:13,364 --> 00:24:15,062
+Você tem sido muito útil.
+
+451
+00:24:16,580 --> 00:24:18,068
+Útil?
+
+452
+00:24:18,069 --> 00:24:20,049
+Ele só nos deu a "Corte".
+
+453
+00:24:20,050 --> 00:24:22,928
+Ele nos deu uma prova concreta
+da existência deles.
+
+454
+00:24:23,181 --> 00:24:25,061
+Agora saberão
+que não estou blefando.
+
+455
+00:24:25,678 --> 00:24:28,991
+- Do que está falando?
+- Vou forçar a Corte...
+
+456
+00:24:28,992 --> 00:24:30,980
+a se revelarem.
+
+457
+00:24:31,483 --> 00:24:34,431
+Qual a única coisa que tem medo
+toda organização secreta?
+
+458
+00:24:34,838 --> 00:24:36,644
+Ser exposta.
+
+459
+00:24:37,263 --> 00:24:38,563
+Bingo.
+
+460
+00:24:41,066 --> 00:24:43,334
+Finalmente.
+Trouxe o que pedi?
+
+461
+00:24:49,471 --> 00:24:51,568
+É hora de chamar a atenção
+da Corte.
+
+462
+00:24:53,812 --> 00:24:55,112
+Querida...
+
+463
+00:24:55,809 --> 00:24:58,438
+Gordon veio até a boate.
+Ele sabe de tudo.
+
+464
+00:24:59,623 --> 00:25:01,810
+Você nunca devia ter
+envolvido o Nygma.
+
+465
+00:25:14,096 --> 00:25:16,921
+Peguei só coisa boa, Otto.
+
+466
+00:25:18,929 --> 00:25:20,849
+De nada.
+
+467
+00:25:23,174 --> 00:25:24,602
+Olá, Selina.
+
+468
+00:25:26,814 --> 00:25:30,540
+- O que faz aqui?
+- Eu queria ver você.
+
+469
+00:25:31,165 --> 00:25:32,734
+Senti sua falta.
+
+470
+00:25:32,735 --> 00:25:35,452
+Você caiu de cabeça?
+Mandei você ficar longe.
+
+471
+00:25:35,453 --> 00:25:36,853
+Mandou?
+
+472
+00:25:37,617 --> 00:25:39,017
+Eu esqueci.
+
+473
+00:25:40,158 --> 00:25:42,147
+Por que você está
+desse jeito?
+
+474
+00:25:42,594 --> 00:25:46,905
+Sinto muito.
+Não dormi bem ontem.
+
+475
+00:25:49,200 --> 00:25:52,926
+Só vim alimentar meu gato.
+Se você não vai sair, eu vou.
+
+476
+00:25:52,927 --> 00:25:55,168
+Prometi para mim mesmo
+que ficaria longe.
+
+477
+00:25:55,910 --> 00:25:57,902
+Que seria mais seguro assim,
+mas...
+
+478
+00:25:58,352 --> 00:26:01,494
+- As coisas mudaram.
+- Do que está falando?
+
+479
+00:26:01,834 --> 00:26:03,256
+Quer saber?
+Não me importa.
+
+480
+00:26:03,258 --> 00:26:05,257
+Só não esteja aqui
+quando eu voltar.
+
+481
+00:26:05,259 --> 00:26:06,851
+Selina, espere.
+
+482
+00:26:11,222 --> 00:26:13,342
+Eu não sou o Bruce.
+
+483
+00:26:17,362 --> 00:26:20,112
+- Jim?
+- Lee, não é uma boa hora.
+
+484
+00:26:20,113 --> 00:26:24,368
+A autópsia do seu tio.
+Não houve combinação balística.
+
+485
+00:26:24,369 --> 00:26:28,262
+Mas havia rasgos microscópicos
+na ferida após ele ter morrido.
+
+486
+00:26:28,402 --> 00:26:29,884
+O que está dizendo?
+
+487
+00:26:29,886 --> 00:26:32,299
+Alguém tirou a bala
+que matou o seu tio...
+
+488
+00:26:32,301 --> 00:26:33,896
+e a trocou por outra.
+
+489
+00:26:33,905 --> 00:26:36,427
+Um velho truque da máfia
+para encobrir homicídios.
+
+490
+00:26:36,429 --> 00:26:38,308
+- Está exagerando, Lee.
+- Não estou.
+
+491
+00:26:38,310 --> 00:26:40,505
+E acho que você sabe
+o que houve.
+
+492
+00:26:40,892 --> 00:26:42,320
+Ouça.
+
+493
+00:26:42,321 --> 00:26:44,496
+Precisa largar isso.
+Pode se machucar.
+
+494
+00:26:44,497 --> 00:26:46,565
+Acha que ligo
+com o que ocorre comigo.
+
+495
+00:26:46,566 --> 00:26:48,312
+Estou cansada de ver você...
+
+496
+00:26:48,313 --> 00:26:50,435
+<i>destruir a vida das pessoas
+e sair ileso.</i>
+
+497
+00:26:50,437 --> 00:26:52,349
+Quando eu descobrir
+o que você fez...
+
+498
+00:26:52,351 --> 00:26:55,341
+vou fazer que pague por isso.
+E vou gostar disso.
+
+499
+00:26:55,343 --> 00:26:56,743
+Jim!
+
+500
+00:27:04,758 --> 00:27:07,503
+- Onde está a charada?
+- Lucius e eu averiguamos...
+
+501
+00:27:07,505 --> 00:27:09,396
+mas talvez você tenha
+melhor sorte.
+
+502
+00:27:10,142 --> 00:27:13,020
+"Você pode me ver,
+mas não pode me tocar.
+
+503
+00:27:13,654 --> 00:27:16,623
+Quando liga um interruptor,
+entro na sua casa.
+
+504
+00:27:16,624 --> 00:27:19,013
+Quando liga novamente,
+só eu vou lhe deixar."
+
+505
+00:27:19,420 --> 00:27:21,432
+- Onde estou?"
+- Ele está provocando.
+
+506
+00:27:21,433 --> 00:27:26,279
+Se ele matar James, a mídia
+vai nos linchar no noticiário.
+
+507
+00:27:26,280 --> 00:27:29,875
+- Harvey, você é um gênio.
+- Diga-me algo que não sei.
+
+508
+00:27:31,372 --> 00:27:33,106
+<i>Tenho uma pergunta.</i>
+
+509
+00:27:33,107 --> 00:27:36,293
+<i>O que é essa Corte
+misteriosa...</i>
+
+510
+00:27:36,294 --> 00:27:39,395
+<i>que controla a balança do poder
+em Gotham?</i>
+
+511
+00:27:39,396 --> 00:27:41,131
+Alvarez, vá ao Canal 7!
+
+512
+00:27:41,132 --> 00:27:43,332
+Descubra onde o Nygma
+está transmitindo.
+
+513
+00:27:43,333 --> 00:27:47,787
+<i>Deixarão a cabeça do nosso
+querido prefeito explodir</i>
+
+514
+00:27:47,788 --> 00:27:50,389
+<i>para se manter
+no anonimato?</i>
+
+515
+00:27:55,382 --> 00:27:57,817
+- Está vendo televisão?
+- Estou.
+
+516
+00:27:57,819 --> 00:28:00,948
+A Corte não pode
+ser exposta.
+
+517
+00:28:01,802 --> 00:28:05,826
+Nós mesmos limparíamos isso,
+mas tem muita gente olhando.
+
+518
+00:28:05,828 --> 00:28:10,124
+<i>Entretanto, isso nos oferece
+uma oportunidade, James.</i>
+
+519
+00:28:10,125 --> 00:28:12,034
+Para eu provar
+a minha lealdade.
+
+520
+00:28:12,871 --> 00:28:15,851
+Quer que eu encontre o Nygma
+e o leve para você?
+
+521
+00:28:15,853 --> 00:28:19,559
+Entendo que isso deixe você
+em uma posição difícil.
+
+522
+00:28:19,560 --> 00:28:22,347
+Ele é assassino de policial.
+O lugar dele é na cadeia.
+
+523
+00:28:22,349 --> 00:28:25,050
+<i>Se rejeitar, essa conversa
+será nossa última.</i>
+
+524
+00:28:25,052 --> 00:28:26,635
+A escolha é sua.
+
+525
+00:28:28,068 --> 00:28:29,468
+Era a Corte.
+
+526
+00:28:29,949 --> 00:28:32,645
+- Se o entregar, estou dentro.
+- E vão matar o cara.
+
+527
+00:28:32,646 --> 00:28:35,866
+Se não nunca os impediremos
+de destruir a cidade.
+
+528
+00:28:36,921 --> 00:28:38,747
+<i>Sei o que está pensando,
+Aubrey.</i>
+
+529
+00:28:38,748 --> 00:28:42,687
+Que a polícia achará você,
+que eles vão resgatar você.
+
+530
+00:28:42,688 --> 00:28:46,403
+Mas eu dei ao DPGC
+muitas chances de salvar você.
+
+531
+00:28:46,404 --> 00:28:49,411
+<i>Mas eles não são páreo
+para mim!</i>
+
+532
+00:28:52,160 --> 00:28:53,958
+Nós dois estamos mortos.
+
+533
+00:28:54,559 --> 00:28:56,582
+Você não entende, não é?
+
+534
+00:28:57,496 --> 00:29:00,210
+A Corte não negociará
+com você.
+
+535
+00:29:00,875 --> 00:29:03,346
+Você me subestima,
+Sr. James.
+
+536
+00:29:07,388 --> 00:29:09,493
+- Olá.
+- Nygma.
+
+537
+00:29:11,814 --> 00:29:13,500
+<i>Jim, sinto muito.</i>
+
+538
+00:29:13,501 --> 00:29:16,511
+Não posso ocupar a linha.
+Espero uma ligação importante.
+
+539
+00:29:16,512 --> 00:29:20,022
+<i>Quer saber quem comanda Gotham?
+Eu tenho a resposta.</i>
+
+540
+00:29:20,023 --> 00:29:23,448
+Venha ao DPGC.
+Eu conto a você.
+
+541
+00:29:24,094 --> 00:29:27,223
+- Acho que não vou não.
+- Então nunca saberá a verdade.
+
+542
+00:29:27,224 --> 00:29:29,530
+Acha que contei a Barbara
+tudo que sei?
+
+543
+00:29:30,300 --> 00:29:34,035
+Você sempre foi esperto, Jim.
+Respeito isso.
+
+544
+00:29:34,036 --> 00:29:36,211
+<i>Esvazie o DPGC.</i>
+
+545
+00:29:36,212 --> 00:29:40,409
+<i>Quero que seja só você e eu.
+Sozinho.</i>
+
+546
+00:29:40,410 --> 00:29:44,456
+<i>E esse idiota com a bomba
+no pescoço.</i>
+
+547
+00:29:51,038 --> 00:29:52,561
+Acha que ele virá?
+
+548
+00:29:52,562 --> 00:29:55,137
+O que guia o Nygma
+também é a fraqueza dele.
+
+549
+00:29:55,138 --> 00:29:56,569
+Ele virá.
+
+550
+00:29:56,570 --> 00:30:00,696
+Não é como se todos em Gotham
+dependessem do seu sucesso.
+
+551
+00:30:00,697 --> 00:30:02,440
+Sim, sem pressão.
+
+552
+00:30:05,318 --> 00:30:06,996
+- Boa sorte, amigo.
+- Obrigado.
+
+553
+00:30:13,465 --> 00:30:15,906
+- Onde está o Ed?
+- Aquele maluco me deixou.
+
+554
+00:30:15,908 --> 00:30:18,481
+Ele me enviou sozinho!
+Quero o esquadrão antibombas!
+
+555
+00:30:18,483 --> 00:30:19,891
+Sente-se e cale a boca.
+
+556
+00:30:22,311 --> 00:30:25,382
+Ed?
+Só há nós dois aqui.
+
+557
+00:30:27,654 --> 00:30:30,405
+Só queria ter certeza
+que não era uma armadilha.
+
+558
+00:30:34,262 --> 00:30:35,762
+Sente-se, Aubrey.
+
+559
+00:30:39,063 --> 00:30:41,139
+Disse que tinha
+a minha resposta, Jim.
+
+560
+00:30:41,141 --> 00:30:44,106
+Seria uma decepção
+se fosse uma mentira.
+
+561
+00:30:44,107 --> 00:30:45,840
+Ainda mais
+para o Prefeito James.
+
+562
+00:30:45,841 --> 00:30:47,244
+Diga o que ele quer.
+
+563
+00:30:47,700 --> 00:30:49,100
+Ele fala muito.
+
+564
+00:30:50,493 --> 00:30:52,501
+Deveria ir em frente
+e explodi-lo.
+
+565
+00:30:52,503 --> 00:30:54,347
+<i>Vou retirar o seu distintivo,
+Gordon.</i>
+
+566
+00:30:55,851 --> 00:30:57,345
+Não estou blefando, Jim.
+
+567
+00:30:57,438 --> 00:30:58,938
+Nem eu.
+
+568
+00:30:59,655 --> 00:31:01,876
+Qual o alcance daquela coisa?
+Estou bem aqui?
+
+569
+00:31:01,877 --> 00:31:04,344
+Ou devo ir
+para debaixo da mesa.
+
+570
+00:31:04,345 --> 00:31:06,835
+Quero a resposta, Jim!
+
+571
+00:31:10,699 --> 00:31:15,160
+Eu o mato e ainda saio daqui
+com você como meu refém.
+
+572
+00:31:18,491 --> 00:31:20,797
+Não.
+
+573
+00:31:21,772 --> 00:31:23,172
+Não!
+
+574
+00:31:25,058 --> 00:31:26,458
+Qual é?
+
+575
+00:31:27,830 --> 00:31:30,374
+Há uma frequência de rádio
+bloqueando o sinal...
+
+576
+00:31:30,375 --> 00:31:32,418
+- entre o detonador e a bomba.
+- Como?
+
+577
+00:31:32,571 --> 00:31:35,815
+Tabitha.
+Ela ainda odeia você.
+
+578
+00:31:35,816 --> 00:31:39,201
+Ela me ligou e contou
+como desarmar a bomba.
+
+579
+00:31:42,102 --> 00:31:44,072
+Admito,
+eu não previ isso.
+
+580
+00:31:44,748 --> 00:31:46,860
+Mas não muda nada.
+
+581
+00:31:47,635 --> 00:31:50,311
+Quero saber...
+
+582
+00:31:51,151 --> 00:31:52,791
+quem é a Corte!
+
+583
+00:31:54,205 --> 00:31:55,845
+Ou o Aubrey morre.
+
+584
+00:31:57,756 --> 00:31:59,156
+Não!
+
+585
+00:32:02,366 --> 00:32:04,169
+Quer saber
+quem comanda Gotham?
+
+586
+00:32:04,822 --> 00:32:06,750
+<i>Deixe o Prefeito James ir.</i>
+
+587
+00:32:07,418 --> 00:32:09,021
+<i>E dê uma volta comigo.</i>
+
+588
+00:32:09,022 --> 00:32:10,512
+Mas se puxar o gatilho...
+
+589
+00:32:10,513 --> 00:32:12,717
+nunca terá a resposta
+que está procurando.
+
+590
+00:32:14,536 --> 00:32:16,532
+Já me enganou uma vez,
+Jim...
+
+591
+00:32:17,391 --> 00:32:18,791
+Que vergonha.
+
+592
+00:32:19,650 --> 00:32:21,620
+Se me enganar de novo...
+
+593
+00:32:22,954 --> 00:32:24,284
+não vai acontecer!
+
+594
+00:32:24,285 --> 00:32:26,382
+<i>Então a charada
+vai continuar sem solução.</i>
+
+595
+00:32:33,772 --> 00:32:35,172
+Tudo bem.
+
+596
+00:32:41,998 --> 00:32:43,398
+Vamos.
+
+597
+00:32:46,006 --> 00:32:47,771
+<i>Deixe-me ver se entendi...</i>
+
+598
+00:32:48,079 --> 00:32:52,644
+A limusine aparece,
+literalmente, do nada...
+
+599
+00:32:52,645 --> 00:32:56,273
+e essa senhora sinistra
+diz para entrar pois...
+
+600
+00:32:56,275 --> 00:32:58,890
+"você pode ser muito mais"?
+
+601
+00:32:59,283 --> 00:33:00,683
+E você entrou?
+
+602
+00:33:01,016 --> 00:33:02,628
+Não tinha onde ir.
+
+603
+00:33:02,629 --> 00:33:04,491
+Onde esteve
+nos últimos meses?
+
+604
+00:33:04,492 --> 00:33:05,892
+Não importa.
+
+605
+00:33:06,113 --> 00:33:07,913
+O importante
+é que deixe Gotham.
+
+606
+00:33:07,914 --> 00:33:09,550
+- Imediatamente.
+- Por quê?
+
+607
+00:33:10,470 --> 00:33:11,964
+Porque a cidade
+foi julgada.
+
+608
+00:33:11,966 --> 00:33:15,058
+- E algo ruim acontecerá.
+- Julgada por quem?
+
+609
+00:33:17,477 --> 00:33:19,037
+Pelas pessoas
+que levaram você?
+
+610
+00:33:19,727 --> 00:33:22,866
+Espere, suas roupas,
+seu cabelo?
+
+611
+00:33:23,032 --> 00:33:24,457
+<i>O jeito que fala?</i>
+
+612
+00:33:27,422 --> 00:33:28,954
+Onde está o Bruce?
+
+613
+00:33:28,955 --> 00:33:31,657
+- Selina...
+- O que fez com ele?
+
+614
+00:33:31,658 --> 00:33:33,515
+Ele está bem.
+Não está em Gotham.
+
+615
+00:33:33,516 --> 00:33:35,041
+Nada de ruim
+acontecerá a ele.
+
+616
+00:33:35,042 --> 00:33:37,244
+- Onde ele está?
+- Não importa.
+
+617
+00:33:37,245 --> 00:33:39,877
+Confie em mim.
+Precisa sair hoje de Gotham.
+
+618
+00:33:39,878 --> 00:33:41,549
+Confiar em você?
+
+619
+00:33:43,616 --> 00:33:45,874
+- Nem conheço você.
+- Aonde está indo?
+
+620
+00:33:46,669 --> 00:33:48,169
+- Contar ao Alfred
+- Selina...
+
+621
+00:33:48,171 --> 00:33:49,973
+Deixe-me ir!
+
+622
+00:33:49,975 --> 00:33:52,878
+- Selina, ninguém pode saber.
+- Então por que me contou?
+
+623
+00:33:55,761 --> 00:33:57,664
+Porque me importo
+com você.
+
+624
+00:33:57,951 --> 00:33:59,609
+E se eu puder salvar alguém...
+
+625
+00:33:59,610 --> 00:34:01,351
+quero que seja você.
+
+626
+00:34:04,432 --> 00:34:07,744
+Essa é a diferença
+entre você e Bruce Wayne.
+
+627
+00:34:09,827 --> 00:34:11,969
+Ele tentaria
+salvar a todos.
+
+628
+00:34:13,579 --> 00:34:16,201
+Pode fingir
+o quanto quiser,
+
+629
+00:34:16,202 --> 00:34:19,211
+mas nunca será ele.
+
+630
+00:34:19,581 --> 00:34:22,621
+Você é nada.
+Nem uma pessoa de verdade.
+
+631
+00:34:24,173 --> 00:34:25,573
+Você não se importa.
+
+632
+00:34:28,702 --> 00:34:30,397
+Está errada sobre mim.
+
+633
+00:34:31,556 --> 00:34:32,956
+Eu me importo sim.
+
+634
+00:34:33,908 --> 00:34:35,584
+E não deixarei
+que diga ao Alfred.
+
+635
+00:34:35,585 --> 00:34:36,985
+É mesmo?
+
+636
+00:34:37,678 --> 00:34:39,078
+Então como vai me parar?
+
+637
+00:35:13,863 --> 00:35:15,538
+Lembra-se daquela noite...
+
+638
+00:35:16,014 --> 00:35:18,314
+em que foi jantar
+na casa da Lee?
+
+639
+00:35:19,948 --> 00:35:22,104
+Foi como uma vida atrás.
+
+640
+00:35:22,105 --> 00:35:24,402
+Leslie fez fondue.
+
+641
+00:35:24,948 --> 00:35:27,022
+O vinho era um Bordeaux.
+
+642
+00:35:28,086 --> 00:35:30,758
+Bem-envelhecido.
+Taninos suaves.
+
+643
+00:35:32,412 --> 00:35:33,972
+A Srta. Kringle usava...
+
+644
+00:35:33,973 --> 00:35:36,086
+um vestido preto
+com echarpe rosa.
+
+645
+00:35:37,078 --> 00:35:39,183
+Eu fiz de tudo para não ir.
+
+646
+00:35:41,224 --> 00:35:42,914
+Mas a Lee insistiu.
+
+647
+00:35:43,510 --> 00:35:45,694
+A verdade é
+que me diverti muito.
+
+648
+00:35:49,228 --> 00:35:50,928
+Eu considerava você
+um amigo.
+
+649
+00:35:53,199 --> 00:35:54,996
+Posso ser furtivo...
+
+650
+00:35:54,997 --> 00:35:57,469
+ou estar na sua frente
+sem você perceber.
+
+651
+00:35:57,470 --> 00:35:59,497
+Mas quando eu me revelar...
+
+652
+00:36:00,847 --> 00:36:02,730
+você nunca será o mesmo.
+O que eu sou?
+
+653
+00:36:02,731 --> 00:36:05,132
+- Não me importo, Ed...
+- Traição.
+
+654
+00:36:07,246 --> 00:36:09,156
+É assim
+que toda amizade termina.
+
+655
+00:36:09,297 --> 00:36:10,657
+Então...
+
+656
+00:36:10,823 --> 00:36:13,323
+Então,
+o que são bons amigos?
+
+657
+00:36:27,366 --> 00:36:30,214
+- Quem são eles?
+- A resposta para sua pergunta.
+
+658
+00:36:49,242 --> 00:36:51,232
+Olá, Sr. Nygma.
+
+659
+00:36:51,234 --> 00:36:53,186
+<i>Soube que tem perguntado
+sobre nós.</i>
+
+660
+00:36:53,187 --> 00:36:55,212
+Como sei que são vocês
+de verdade?
+
+661
+00:36:56,399 --> 00:36:59,050
+Não é essa a razão
+de um bom mistério?
+
+662
+00:36:59,288 --> 00:37:02,588
+<i>Você nunca sabe
+no que acreditar até o fim.</i>
+
+663
+00:37:02,589 --> 00:37:04,348
+O Gordon poderia ter
+armado isso.
+
+664
+00:37:04,350 --> 00:37:05,707
+<i>Eu lhe asseguro...</i>
+
+665
+00:37:05,709 --> 00:37:07,932
+que o Detetive Gordon teve
+que ser convencido
+
+666
+00:37:07,934 --> 00:37:09,434
+a trazê-lo aqui.
+
+667
+00:37:10,164 --> 00:37:12,490
+Mas deixe-me colocar assim:
+
+668
+00:37:12,492 --> 00:37:14,929
+<i>Aquela pergunta
+que o Professor Strange pediu</i>
+
+669
+00:37:14,930 --> 00:37:17,229
+<i>que fizesse
+a Bruce Wayne e Lucius Fox...</i>
+
+670
+00:37:17,231 --> 00:37:19,162
+<i>ano passado
+em Indian Hill.</i>
+
+671
+00:37:19,378 --> 00:37:22,185
+Aquela que torturou você...
+
+672
+00:37:22,830 --> 00:37:25,755
+A que você nunca será
+capaz de responder.
+
+673
+00:37:25,863 --> 00:37:27,638
+A resposta está comigo.
+
+674
+00:37:31,530 --> 00:37:34,465
+- E agora?
+- Entre.
+
+675
+00:37:34,466 --> 00:37:37,370
+E todas as suas perguntas
+serão respondidas.
+
+676
+00:37:38,207 --> 00:37:40,095
+Você não vai
+precisar da arma.
+
+677
+00:38:03,529 --> 00:38:06,269
+Você nos deixou orgulhosos,
+Detetive Gordon.
+
+678
+00:38:06,565 --> 00:38:08,513
+O que vai fazer com ele?
+
+679
+00:38:08,514 --> 00:38:10,487
+Um homem
+com o intelecto do Nygma...
+
+680
+00:38:10,488 --> 00:38:12,378
+pode ser bem útil
+para nós.
+
+681
+00:38:12,380 --> 00:38:15,058
+Estou certa que teremos algo
+para ele fazer.
+
+682
+00:38:16,569 --> 00:38:18,077
+Manteremos contato.
+
+683
+00:38:40,184 --> 00:38:42,704
+Boa noite, Srta. Kean.
+Posso oferecer uma bebida?
+
+684
+00:38:44,380 --> 00:38:45,904
+Algo deu errado.
+
+685
+00:38:45,906 --> 00:38:49,779
+Gordon pegou o Nygma antes
+de ter a verdade sobre a Corte!
+
+686
+00:38:49,828 --> 00:38:52,542
+Talvez seja porque disse a ele
+como desarmar a bomba.
+
+687
+00:38:52,632 --> 00:38:54,061
+O quê?!
+
+688
+00:38:54,611 --> 00:38:55,914
+Por quê?!
+
+689
+00:38:55,915 --> 00:38:58,733
+Prometeu que quando Nygma
+nos entregasse o submundo...
+
+690
+00:38:58,734 --> 00:39:00,034
+eu poderia matá-lo!
+
+691
+00:39:01,696 --> 00:39:03,760
+Selado com um beijo,
+lembra?
+
+692
+00:39:05,077 --> 00:39:06,866
+Você não entende?
+
+693
+00:39:07,085 --> 00:39:09,925
+Enquanto a Corte
+estiver por aí,
+
+694
+00:39:09,926 --> 00:39:13,286
+eu nunca estarei
+no controle!
+
+695
+00:39:15,106 --> 00:39:17,886
+Não quer dizer que "nós"
+nunca estaremos no controle?
+
+696
+00:39:26,123 --> 00:39:28,757
+Vi isso mil vezes.
+
+697
+00:39:29,077 --> 00:39:31,321
+Ambição, poder.
+
+698
+00:39:32,059 --> 00:39:33,820
+As pessoas não se seguram.
+
+699
+00:39:34,043 --> 00:39:36,059
+Ela mudou, querida.
+
+700
+00:39:36,332 --> 00:39:39,548
+- Quando vai perceber isso?
+- Cale a boca, Butch!
+
+701
+00:39:39,999 --> 00:39:41,425
+Sai da frente!
+
+702
+00:39:43,494 --> 00:39:45,076
+Vai dar ruim.
+
+703
+00:39:51,104 --> 00:39:52,453
+É bom estar em casa.
+
+704
+00:39:52,455 --> 00:39:54,770
+Só para que saiba,
+já estive na Mansão Wayne.
+
+705
+00:39:54,771 --> 00:39:56,571
+É bem mais limpa que isso.
+
+706
+00:39:57,010 --> 00:40:00,196
+Nunca disse que o Fries
+faria parte disso.
+
+707
+00:40:00,277 --> 00:40:02,040
+Está com a cabeça quente.
+
+708
+00:40:02,217 --> 00:40:03,614
+Talvez precise esfriar.
+
+709
+00:40:03,615 --> 00:40:05,508
+Qual é, pessoal?
+
+710
+00:40:05,509 --> 00:40:07,748
+Estamos no mesmo time
+agora, lembram-se?
+
+711
+00:40:08,454 --> 00:40:09,754
+Uma família?
+
+712
+00:40:13,192 --> 00:40:14,975
+Mantenha-o longe de mim.
+
+713
+00:40:21,831 --> 00:40:24,359
+Há um ponto de interrogação
+no seu rosto.
+
+714
+00:40:25,355 --> 00:40:27,564
+Pode dormir no freezer.
+
+715
+00:40:27,866 --> 00:40:31,628
+<i>O estudo indica que o despejo
+de produtos químicos é culpado.</i>
+
+716
+00:40:31,629 --> 00:40:34,269
+<i>E agora as últimas notícias...</i>
+
+717
+00:40:34,270 --> 00:40:36,057
+Ei, Pinguizinho. Saca só.
+
+718
+00:40:36,058 --> 00:40:38,557
+Não me chame de "Pinguizinho".
+Meu...
+
+719
+00:40:38,558 --> 00:40:41,896
+<i>O Charada, Edward Nygma,
+foi apreendido pelo DPGC...</i>
+
+720
+00:40:41,897 --> 00:40:45,849
+<i>esta tarde, após sequestrar
+o Prefeito Aubrey James.</i>
+
+721
+00:40:45,850 --> 00:40:48,781
+<i>No entanto, conseguiu fugir
+no caminho para o Asilo Arkham.</i>
+
+722
+00:40:48,782 --> 00:40:50,514
+Charada.
+
+723
+00:40:50,515 --> 00:40:51,951
+<i>E está foragido.</i>
+
+724
+00:40:51,952 --> 00:40:54,344
+Quanto tempo levou
+para pensar nisso?
+
+725
+00:40:57,076 --> 00:40:58,569
+<i>O antigo braço direito...</i>
+
+726
+00:40:58,570 --> 00:41:00,647
+<i>do ex-prefeito Oswald Cob...</i>
+
+727
+00:41:01,836 --> 00:41:03,573
+Descansem, todos.
+
+728
+00:41:04,327 --> 00:41:08,046
+Amanhã será um dia cheio.
+
+729
+00:41:35,703 --> 00:41:37,703
+<b>Legendas:
+Pedro Trindade | bielo</b>
+
+730
+00:41:37,704 --> 00:41:39,704
+<b>Legendas:
+Btarth | L3M0S</b>
+
+731
+00:41:39,705 --> 00:41:41,705
+<b>Legendas:
+Davros | MatheusBozetti</b>
+
+732
+00:41:41,706 --> 00:41:43,706
+<b>Legendas:
+John | (Copyright)yßë(Registered Trademark)V¡¢¡öµ§</b>
+
+733
+00:41:43,707 --> 00:41:45,707
+<b>Revisão:
+Tozz</b>
+
+734
+00:42:09,420 --> 00:42:12,559
+Gostaria de apresentar
+o nosso mais novo membro...
+
+735
+00:42:12,561 --> 00:42:14,933
+James Gordon.
+
+736
+00:42:27,822 --> 00:42:30,356
+<i>Bem-vindo
+à Corte das Corujas.</i>
+
+737
+00:42:31,220 --> 00:42:36,220
+<b>The_Tozz e Cabrones!
+Santo Baile de Máscaras, Batimã!</b>
+
