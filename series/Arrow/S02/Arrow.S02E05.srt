@@ -1,0 +1,2482 @@
+﻿1
+00:00:02,169 --> 00:00:04,672
+<i>Meu nome é Oliver Queen.</i>
+
+2
+00:00:04,880 --> 00:00:06,882
+<i>Depois de cinco anos
+em uma ilha infernal...</i>
+
+3
+00:00:08,217 --> 00:00:10,845
+<i>eu voltei pra casa
+com um único objetivo...</i>
+
+4
+00:00:11,053 --> 00:00:13,014
+<i>salvar minha cidade.</i>
+
+5
+00:00:13,305 --> 00:00:16,767
+<i>Mas pra fazer isso, não posso
+ser o assassino que já fui.</i>
+
+6
+00:00:18,519 --> 00:00:21,772
+<i>Pra honrar a memória do meu amigo,
+eu preciso ser outra pessoa.</i>
+
+7
+00:00:21,939 --> 00:00:22,940
+EM AMÁVEL MEMÓRIA DE
+THOMAS MERLYN
+
+8
+00:00:23,107 --> 00:00:26,527
+<i>Eu preciso ser outra coisa.</i>
+
+9
+00:00:28,821 --> 00:00:32,366
+- Anteriormente <i>em</i> Arqueiro.
+- Nós gostaríamos <i>de</i> dar um aviso à defesa.
+
+10
+00:00:32,533 --> 00:00:34,493
+Referente à decisão
+do Processo Penal 15.
+
+11
+00:00:34,660 --> 00:00:38,414
+Eu gostaria de ter uma conversa com você
+antes de você buscar a pena de morte.
+
+12
+00:00:38,789 --> 00:00:40,249
+Moira, o que eu não sei?
+
+13
+00:00:40,458 --> 00:00:44,462
+Tem algumas coisas
+que nunca devem ser ditas.
+
+14
+00:00:44,628 --> 00:00:47,882
+Ele já me venceu duas vezes
+e eu não sei como parar ele.
+
+15
+00:00:53,804 --> 00:00:56,474
+- Quem é você?
+- Sua vida nunca mais vai ser a mesma.
+
+16
+00:00:58,976 --> 00:01:00,144
+Sara?
+
+17
+00:01:02,480 --> 00:01:04,940
+Seis Anos Antes
+
+18
+00:01:11,614 --> 00:01:13,866
+É, pai, a faculdade está ótima.
+
+19
+00:01:14,283 --> 00:01:17,161
+Não, eu e a minha colega
+de quarto nos demos super bem.
+
+20
+00:01:17,411 --> 00:01:18,954
+Somos melhores amigas.
+
+21
+00:01:19,163 --> 00:01:21,499
+Está bom. Certo, pai. Eu tenho
+que voltar pra aula de química.
+
+22
+00:01:21,916 --> 00:01:24,502
+É, parece que eu vou ter
+uma longa noite pela frente.
+
+23
+00:01:24,668 --> 00:01:28,339
+- Sai do telefone.
+- Está bom. Te amo, pai. Tchau.
+
+24
+00:01:29,173 --> 00:01:32,843
+Ollie, você está ferrado.
+
+25
+00:01:33,010 --> 00:01:34,678
+Como está o Detetive Lance?
+
+26
+00:01:34,929 --> 00:01:37,681
+Ele não tem ideia, como sempre.
+
+27
+00:01:39,975 --> 00:01:41,977
+Acho que estava com sede.
+
+28
+00:01:43,395 --> 00:01:45,189
+Você ouviu isso?
+
+29
+00:01:45,397 --> 00:01:48,526
+Um, dois, três...
+
+30
+00:01:50,277 --> 00:01:51,987
+Está chegando mais perto.
+
+31
+00:01:52,446 --> 00:01:54,824
+Isso não é muito científico.
+
+32
+00:01:55,407 --> 00:02:00,871
+E o que você sabe sobre ciência,
+Sr. "Larguei a Faculdade"?
+
+33
+00:02:01,038 --> 00:02:03,457
+Na verdade, eu sei muito sobre ciência.
+
+34
+00:02:03,666 --> 00:02:06,544
+Eu entendo de fermentação.
+
+35
+00:02:06,794 --> 00:02:10,548
+Eu sei biologia.
+
+36
+00:02:17,888 --> 00:02:21,809
+A Laurel vai me matar.
+Ela vai me matar.
+
+37
+00:02:23,060 --> 00:02:25,146
+A sua irmã nunca vai saber.
+
+38
+00:02:25,688 --> 00:02:26,897
+Vem aqui.
+
+39
+00:02:29,567 --> 00:02:31,068
+Certo, esse chegou bem perto.
+
+40
+00:02:31,318 --> 00:02:32,820
+Sara...
+
+41
+00:02:33,445 --> 00:02:35,573
+nós vamos ficar bem.
+
+42
+00:02:49,003 --> 00:02:50,337
+Oliver.
+
+43
+00:02:51,589 --> 00:02:53,591
+- Oliver.
+- Sara.
+
+44
+00:02:56,260 --> 00:02:57,595
+Socorro.
+
+45
+00:03:00,431 --> 00:03:01,599
+Socorro.
+
+46
+00:03:01,765 --> 00:03:03,392
+Socorro.
+
+47
+00:03:06,770 --> 00:03:08,230
+Sara.
+
+48
+00:03:10,232 --> 00:03:11,442
+Oliver.
+
+49
+00:03:24,538 --> 00:03:26,081
+Não consegue dormir?
+
+50
+00:03:26,540 --> 00:03:28,250
+Eu não fico bem com
+os olhos fechados.
+
+51
+00:03:28,918 --> 00:03:32,588
+Obrigada por me deixar ficar aqui. Eu sei que
+você está cheio de problemas com a sua mãe.
+
+52
+00:03:32,796 --> 00:03:34,924
+A Thea sempre fica
+na casa do namorado.
+
+53
+00:03:36,300 --> 00:03:38,093
+Não precisa se preocupar com
+descobrirem que você está de volta.
+
+54
+00:03:38,302 --> 00:03:40,304
+Obrigada pela compreensão.
+
+55
+00:03:40,763 --> 00:03:41,931
+Eu não entendo.
+
+56
+00:03:43,515 --> 00:03:45,809
+Não tem um dia sequer que
+a sua família não sente sua falta.
+
+57
+00:03:46,018 --> 00:03:48,938
+É? Como você sabe?
+
+58
+00:03:50,147 --> 00:03:51,482
+Porque eu senti a sua falta.
+
+59
+00:03:54,401 --> 00:03:56,403
+Acho que eles não vão ficar tão
+felizes em me ver quanto você pensa.
+
+60
+00:03:56,612 --> 00:03:57,988
+Como você pode dizer isso?
+
+61
+00:03:59,448 --> 00:04:02,993
+Eu sei o quanto é difícil voltar pra casa,
+quando você já está longe por tanto tempo.
+
+62
+00:04:05,079 --> 00:04:08,249
+Eu imagino que meu pa¡ e a Laurel
+não ficaram muito felizes em te ver.
+
+63
+00:04:08,457 --> 00:04:09,917
+Não.
+
+64
+00:04:10,125 --> 00:04:11,168
+Não. Não no início.
+
+65
+00:04:12,002 --> 00:04:14,838
+Eu não tinha certeza se você
+e ela tinham voltado.
+
+66
+00:04:15,089 --> 00:04:16,799
+Nós tentamos.
+
+67
+00:04:18,467 --> 00:04:19,677
+Não deu.
+
+68
+00:04:20,594 --> 00:04:24,181
+É, algumas coisas, sabe,
+melhor deixar no passado.
+
+69
+00:04:32,064 --> 00:04:34,191
+Cansei de esperar pelo Sr. Queen.
+Vamos começar.
+
+70
+00:04:35,693 --> 00:04:39,697
+Desculpa pelo atraso.
+Tem uma velha amiga na cidade.
+
+71
+00:04:41,365 --> 00:04:43,659
+Eu acabei de explicar pra
+sua mãe e sua irmã...
+
+72
+00:04:43,867 --> 00:04:46,453
+que a Srta. Lance vai atuar
+como vice da promotoria.
+
+73
+00:04:46,704 --> 00:04:50,457
+Isso é um conflito de interesses. A Srta. Lance
+praticamente cresceu na casa dos Queen.
+
+74
+00:04:50,666 --> 00:04:51,834
+Eu acho que você está exagerando.
+
+75
+00:04:52,042 --> 00:04:55,212
+Nós vamos ver, quando eu entrar com
+o processo pra retirar a Srta. Lance do caso.
+
+76
+00:04:55,504 --> 00:04:57,881
+Talvez não tenha um caso
+por muito tempo.
+
+77
+00:04:58,465 --> 00:05:03,220
+Eu venho aqui não apenas com a Srta. Lance
+mas também para oferecer um acordo.
+
+78
+00:05:03,637 --> 00:05:06,348
+Perpétua, com a possibilidade
+de condicional.
+
+79
+00:05:07,891 --> 00:05:10,811
+Não. Nós não vamos fazer um acordo.
+A Sra. Queen é inocente.
+
+80
+00:05:11,020 --> 00:05:13,856
+Ela ajudou e induziu 503 homicídios.
+
+81
+00:05:14,064 --> 00:05:16,734
+Sob coação de uma maníaco
+homicida chamado Malcolm Merlyn.
+
+82
+00:05:17,067 --> 00:05:20,571
+Ela também se retirou da conspiração
+criminal antes de sua execução.
+
+83
+00:05:20,738 --> 00:05:22,072
+Cinco minutos antes.
+
+84
+00:05:22,239 --> 00:05:25,701
+Com Malcolm Merlyn morto, o júri vai
+querer ter alguém a quem culpar.
+
+85
+00:05:25,868 --> 00:05:28,078
+Se ela não aceitar o acordo, então
+ela vai enfrentar a pena de morte.
+
+86
+00:05:29,413 --> 00:05:31,081
+Está até parecendo chantagem.
+
+87
+00:05:31,248 --> 00:05:33,834
+Tenta realidade.
+E ainda tem mais.
+
+88
+00:05:34,043 --> 00:05:39,131
+Intimamos mais de uma década de mensagens
+de telefone, registros telefônicos, cartas, emails.
+
+89
+00:05:39,340 --> 00:05:44,720
+Estou disposto a apostar que acho alguma coisa
+que deixe sua defesa de coação em pedacinhos.
+
+90
+00:05:46,930 --> 00:05:48,432
+Sr. Donner...
+
+91
+00:05:50,184 --> 00:05:54,021
+se você não se importar, eu gostaria
+de alguns dias para pensar na sua oferta.
+
+92
+00:05:54,730 --> 00:05:56,190
+Claro.
+
+93
+00:05:59,526 --> 00:06:00,903
+Dá licença.
+
+94
+00:06:01,695 --> 00:06:03,238
+Eu já volto.
+
+95
+00:06:06,033 --> 00:06:07,159
+Laurel?
+
+96
+00:06:10,120 --> 00:06:11,789
+Eu te encontro no carro.
+
+97
+00:06:17,086 --> 00:06:19,421
+Você vai processar a minha mãe?
+
+98
+00:06:19,630 --> 00:06:21,799
+Eu não pedi por esse caso.
+Eu fui nomeada.
+
+99
+00:06:21,965 --> 00:06:24,385
+- Então diz não.
+- É um emprego novo, Oliver.
+
+100
+00:06:24,593 --> 00:06:26,053
+Eu não tenho muita influência.
+
+101
+00:06:26,261 --> 00:06:29,973
+E a influência que eu tenho, eu usei
+pra conseguir aquele acordo pra sua mãe.
+
+102
+00:06:30,182 --> 00:06:32,184
+Isso foi ideia sua?
+
+103
+00:06:32,393 --> 00:06:33,560
+Prisão perpétua.
+
+104
+00:06:33,727 --> 00:06:35,979
+A promotoria está querendo
+a pena de morte, Ollie.
+
+105
+00:06:37,981 --> 00:06:40,818
+Nós dois sabemos
+como é perder alguém.
+
+106
+00:06:42,486 --> 00:06:44,822
+Então pensa nisso e salva
+a vida da sua mãe.
+
+107
+00:06:48,575 --> 00:06:50,327
+Você está bem?
+
+108
+00:06:50,494 --> 00:06:52,663
+Caso eu não tenha sido
+clara semana passada...
+
+109
+00:06:52,830 --> 00:06:54,915
+eu já cansei de responder
+a essa pergunta.
+
+110
+00:07:50,721 --> 00:07:52,139
+Socorro.
+
+111
+00:07:52,556 --> 00:07:53,724
+Socorro.
+
+112
+00:07:54,057 --> 00:07:55,767
+Aqui.
+
+113
+00:08:04,568 --> 00:08:05,903
+Sara?
+
+114
+00:08:06,069 --> 00:08:07,404
+Sara.
+
+115
+00:08:08,572 --> 00:08:10,240
+Você está bem?
+
+116
+00:08:10,407 --> 00:08:13,577
+- Como foram as coisas com a sua mãe?
+- Eu encontrei a sua irmã.
+
+117
+00:08:13,785 --> 00:08:15,162
+Ela esta trabalhando no caso.
+
+118
+00:08:15,370 --> 00:08:17,581
+- Você não contou...
+- Não.
+
+119
+00:08:17,789 --> 00:08:20,751
+Eu sei um pouco sobre
+guardar segredos.
+
+120
+00:08:21,084 --> 00:08:26,215
+Sobre respeitá-los, mesmo que eu não entenda
+completamente por que está guardando o seu.
+
+121
+00:08:29,593 --> 00:08:31,094
+É por...
+
+122
+00:08:31,428 --> 00:08:33,764
+É por causa do que
+aconteceu na ilha?
+
+123
+00:08:36,391 --> 00:08:37,559
+Não.
+
+124
+00:08:37,935 --> 00:08:39,394
+Depois.
+
+125
+00:08:41,438 --> 00:08:43,607
+Tem coisas que eu fiz.
+
+126
+00:08:43,815 --> 00:08:45,776
+Coisas que eu tive
+que fazer pra sobreviver.
+
+127
+00:08:46,527 --> 00:08:49,363
+Coisas para as quais
+não tem perdão.
+
+128
+00:08:49,571 --> 00:08:52,241
+Bom, aí é que está
+o caso de perdão.
+
+129
+00:08:52,824 --> 00:08:54,618
+Você não tem até você pedir.
+
+130
+00:09:01,124 --> 00:09:02,626
+Merlyn?
+
+131
+00:09:41,290 --> 00:09:42,583
+Quem é você?
+
+132
+00:09:42,791 --> 00:09:45,252
+Só um guerreiro.
+Que nem você.
+
+133
+00:09:47,504 --> 00:09:49,423
+Por que você está vestido
+que nem Malcolm Merlyn?
+
+134
+00:09:51,300 --> 00:09:52,384
+Quem te mandou?
+
+135
+00:10:05,981 --> 00:10:07,983
+ARQUEIRO
+
+136
+00:10:10,527 --> 00:10:12,696
+INDÚSTRIAS QUEEN
+
+137
+00:10:15,157 --> 00:10:17,951
+Eu me lembro da primeira vez
+que eu vi esse capuz.
+
+138
+00:10:18,577 --> 00:10:20,037
+A Shado estava com ele.
+
+139
+00:10:20,954 --> 00:10:24,124
+Essa é uma instalação e tanto
+que você tem aqui.
+
+140
+00:10:24,499 --> 00:10:27,002
+De onde você está declarando
+a sua guerra solitária por Starling.
+
+141
+00:10:27,210 --> 00:10:29,004
+Eu não sou um só.
+
+142
+00:10:29,463 --> 00:10:33,592
+Esses são meus amigos.
+Esses são John Diggle e Felicity Smoak.
+
+143
+00:10:34,968 --> 00:10:37,387
+- Gente, essa é a Sara.
+- Bem-vinda de volta, Sara.
+
+144
+00:10:37,554 --> 00:10:39,556
+Fiquei feliz de saber
+que você não está mais morta.
+
+145
+00:10:39,723 --> 00:10:43,018
+Quer dizer, eu não te conhecia antes
+de você não morrer da primeira vez.
+
+146
+00:10:43,226 --> 00:10:45,520
+- Ainda estou feliz por você estar viva.
+- Você é uma graça.
+
+147
+00:10:45,729 --> 00:10:47,731
+Nós acabamos de ter um convidado
+indesejado na mansão Queen.
+
+148
+00:10:47,939 --> 00:10:49,191
+Treinado.
+
+149
+00:10:49,399 --> 00:10:50,567
+Muito hábil.
+
+150
+00:10:50,776 --> 00:10:52,402
+E ele se vestia que nem o Merlyn.
+
+151
+00:10:52,569 --> 00:10:55,822
+Malcolm Merlyn está morto.
+Cortesia de uma flecha enfiada no coração.
+
+152
+00:10:55,989 --> 00:10:59,534
+Não era ele. Era um seguidor.
+Um subordinado querendo vingança.
+
+153
+00:10:59,743 --> 00:11:02,913
+Quem quer que seja,
+ele sabe quem eu sou.
+
+154
+00:11:03,330 --> 00:11:07,417
+- Droga, não comprei um saco de terra pra você.
+- Eu achei isso na casa.
+
+155
+00:11:07,584 --> 00:11:09,836
+Eu quero você analise.
+Quem sabe isso me leva até ele.
+
+156
+00:11:10,045 --> 00:11:13,006
+- E depois?
+- Se esse aspirante quer seguir tanto o Merlyn...
+
+157
+00:11:13,215 --> 00:11:15,425
+ele pode segui-Io direto pro túmulo.
+
+158
+00:11:15,634 --> 00:11:17,844
+Sara, nós vamos achar esse cara.
+
+159
+00:11:19,930 --> 00:11:21,932
+Eu não quero que ache.
+
+160
+00:11:23,934 --> 00:11:26,937
+- Como assim?
+-Ele não estava atrás de você, Ollie.
+
+161
+00:11:27,104 --> 00:11:28,271
+Ele estava atrás de mim.
+
+162
+00:11:29,439 --> 00:11:30,524
+Quem é ele?
+
+163
+00:11:30,732 --> 00:11:33,735
+Ele se chama AI Ow-AI. O Primeiro.
+
+164
+00:11:34,945 --> 00:11:37,114
+E ele é um membro
+da Liga dos Assassinos.
+
+165
+00:11:37,989 --> 00:11:41,159
+Espera, espera. Urna Liga de Assassinos?
+Eu achei que era uma lenda.
+
+166
+00:11:41,368 --> 00:11:45,872
+O que é a Liga dos Assassinos? E, por favor,
+não me diga que é uma liga feita de assassinos.
+
+167
+00:11:46,081 --> 00:11:48,750
+Não. É uma lenda urbana. Eu ouvi falar
+deles no Afeganistão, de um líder tribal.
+
+168
+00:11:48,959 --> 00:11:51,545
+Ele dizia que existia
+uma antiga facção de assassinos.
+
+169
+00:11:51,753 --> 00:11:55,090
+Guerreiros mortais, que matavam
+e desapareciam como fantasmas.
+
+170
+00:11:55,882 --> 00:11:58,218
+Achei que ele estava fumando
+o que ele estava vendendo.
+
+171
+00:11:59,094 --> 00:12:01,471
+Eu tentei te falar, Ollie,
+mas você não quis ouvir.
+
+172
+00:12:01,680 --> 00:12:04,057
+Era lá que você estava
+nos últimos quatro anos.
+
+173
+00:12:04,891 --> 00:12:07,018
+Foi lá onde você aprendeu a lutar.
+
+174
+00:12:08,645 --> 00:12:10,147
+Você é uma deles.
+
+175
+00:12:10,355 --> 00:12:13,984
+Depois do cargueiro, um membro
+da liga me resgatou. Me acolheu...
+
+176
+00:12:14,151 --> 00:12:16,278
+e me levou a Nanda Parbat.
+
+177
+00:12:16,486 --> 00:12:19,865
+Eles me reconstruíram
+no que eu sou.
+
+178
+00:12:20,157 --> 00:12:22,117
+E eu jurei fidelidade a eles.
+
+179
+00:12:23,118 --> 00:12:25,996
+Por que eles estão derrubando
+portas pra te achar agora?
+
+180
+00:12:26,872 --> 00:12:28,498
+Porque eu saí.
+
+181
+00:12:28,665 --> 00:12:31,585
+E só tem um jeito de você sair da liga.
+
+182
+00:12:33,920 --> 00:12:37,007
+É por isso que você não
+queria ver a sua família?
+
+183
+00:12:39,801 --> 00:12:42,512
+Um ano atrás, eu estava na Guiana.
+
+184
+00:12:43,054 --> 00:12:45,515
+Eu fui mandada lá atrás de
+um homem chamado Suarez.
+
+185
+00:12:45,724 --> 00:12:47,309
+Ele era um diplomata local.
+
+186
+00:12:49,644 --> 00:12:53,774
+E eu cortei a garganta dele.
+Na cama dele.
+
+187
+00:12:54,733 --> 00:12:56,568
+E os filhos dele...
+
+188
+00:12:58,236 --> 00:13:00,822
+Eles acharam o corpo pela manhã.
+
+189
+00:13:04,075 --> 00:13:06,286
+Eu sou uma assassina, Ollie.
+
+190
+00:13:06,536 --> 00:13:10,832
+Você acha que a minha família
+vai ficar feliz em me ver?
+
+191
+00:13:16,046 --> 00:13:17,547
+Thea Queen
+Onde você está?
+
+192
+00:13:19,341 --> 00:13:20,759
+Eu tenho que ir até Iron Heights.
+
+193
+00:13:21,551 --> 00:13:24,054
+Felicity, eu preciso
+que você encontre esse AI Ow-AI.
+
+194
+00:13:34,439 --> 00:13:37,150
+Obrigada. Obrigada.
+
+195
+00:13:37,359 --> 00:13:38,735
+O que você estava fazendo lá fora?
+
+196
+00:13:39,402 --> 00:13:44,324
+O barco onde eu estava.
+Ficamos presos numa tempestade.
+
+197
+00:13:44,866 --> 00:13:46,993
+- Venha.
+- Espera. Espera. Espera.
+
+198
+00:13:47,202 --> 00:13:48,370
+Espera.
+
+199
+00:13:48,578 --> 00:13:52,791
+Robert Queen. Robert Queen.
+Era o barco dele. E eles são ricos.
+
+200
+00:13:52,958 --> 00:13:55,460
+Ele vai pagar o quanto você quiser.
+Por favor.
+
+201
+00:14:02,300 --> 00:14:04,261
+Quem são essas pessoas?
+
+202
+00:14:08,640 --> 00:14:10,016
+Por favor, não.
+
+203
+00:14:15,647 --> 00:14:18,316
+Por favor, não.
+Vocês estão cometendo um erro.
+
+204
+00:14:18,525 --> 00:14:19,818
+Por favor, me tira daqui.
+
+205
+00:14:20,026 --> 00:14:22,863
+Por que vocês não deixam...
+Por favor, me tira daqui.
+
+206
+00:14:23,113 --> 00:14:24,823
+Me tira daqui.
+
+207
+00:14:26,658 --> 00:14:29,119
+Você não está falando sério.
+
+208
+00:14:29,286 --> 00:14:31,538
+- O que esta acontecendo aqui?
+-Ela quer aceitar o acordo.
+
+209
+00:14:31,705 --> 00:14:35,834
+- Mãe, se isso é por causa da pena de morte...
+- Eu estava explicando isso pra sua mãe.
+
+210
+00:14:36,459 --> 00:14:39,629
+Mesmo que a gente chegue a uma sentença,
+você estava agindo sob coação.
+
+211
+00:14:39,838 --> 00:14:43,008
+Eu tenho tudo que eu preciso pra evitar
+que eles te sentenciem a morte.
+
+212
+00:14:43,216 --> 00:14:45,552
+A pena de morte
+não me assusta, Jean.
+
+213
+00:14:45,760 --> 00:14:48,346
+- Então por que não está lutando?
+- Eu tenho meus motivos.
+
+214
+00:14:48,513 --> 00:14:50,432
+- Diz um.
+- Porque eu estou cansada de lutar.
+
+215
+00:14:51,141 --> 00:14:54,311
+E eu não tenho confiança de que
+eu consigo conquistar um júri.
+
+216
+00:14:55,312 --> 00:14:58,148
+E eu não tenho muita certeza
+de que eu mereço.
+
+217
+00:14:58,356 --> 00:15:00,400
+- Na verdade, foram três.
+- Thea...
+
+218
+00:15:00,650 --> 00:15:03,028
+Não, sério, você está pronta pra desistir?
+
+219
+00:15:03,320 --> 00:15:07,198
+Só tomar o seu remédio e passar
+o resto da vida aqui dentro.
+
+220
+00:15:07,407 --> 00:15:09,200
+Nós ainda precisamos de você.
+
+221
+00:15:09,409 --> 00:15:11,161
+Eu ainda preciso de você.
+
+222
+00:15:13,288 --> 00:15:14,706
+Eu não posso com isso.
+
+223
+00:15:30,096 --> 00:15:31,681
+Antigamente...
+
+224
+00:15:32,682 --> 00:15:36,019
+eu achava que não tinham
+segredos entre a gente.
+
+225
+00:15:36,728 --> 00:15:38,980
+Ano passado, eu aprendi o contrário.
+
+226
+00:15:39,481 --> 00:15:43,568
+E eu fiquei muito bom em saber quando você
+está escondendo alguma coisa de mim.
+
+227
+00:15:44,277 --> 00:15:45,695
+Então, mãe...
+
+228
+00:15:48,573 --> 00:15:50,283
+o que você está escondendo agora?
+
+229
+00:15:54,537 --> 00:15:58,625
+Ajuda a sua irmã a aceitar
+a minha decisão, porque está feita.
+
+230
+00:16:04,130 --> 00:16:06,383
+Desculpa ter te chateado antes.
+
+231
+00:16:06,591 --> 00:16:09,219
+Nós todos nos juntamos a clubes
+que depois nos arrependemos.
+
+232
+00:16:09,427 --> 00:16:11,972
+Eu levei um ano pra cancelar
+a matrícula da academia.
+
+233
+00:16:13,348 --> 00:16:15,725
+- Obrigada.
+- Pelo quê?
+
+234
+00:16:16,643 --> 00:16:18,728
+Não me fazer sentir o que eu sou.
+
+235
+00:16:19,437 --> 00:16:22,232
+O Oliver tem sorte de ter
+vocês dois como amigos.
+
+236
+00:16:22,399 --> 00:16:25,360
+Ele nem sempre teve
+muita sorte nessa área.
+
+237
+00:16:25,819 --> 00:16:27,904
+- Como foi com a sua mãe?
+- Nada bem.
+
+238
+00:16:28,113 --> 00:16:31,032
+- Você já achou alguém pra eu bater?
+- Pode ser.
+
+239
+00:16:31,241 --> 00:16:34,744
+A análise do espectro da terra da sua casa
+mostrou pequenas quantidades de aldicarbe.
+
+240
+00:16:34,911 --> 00:16:36,162
+- O quê?
+- É um pesticida.
+
+241
+00:16:36,371 --> 00:16:39,040
+Starling City tinha
+sua própria fábrica de aldicarbe...
+
+242
+00:16:39,249 --> 00:16:41,376
+mas a agência ambiental
+fechou ela três anos atrás.
+
+243
+00:16:41,584 --> 00:16:44,045
+- Pra que ela está sendo usada agora?
+- Nada. Está abandonada.
+
+244
+00:16:44,254 --> 00:16:47,924
+Mas o meu chute é que serve de base
+pra um assassino da Liga dos Assassinos.
+
+245
+00:16:48,133 --> 00:16:49,926
+Ele vai te matar.
+
+246
+00:16:50,343 --> 00:16:52,679
+Como você,
+não é tão fácil se livrar de mim.
+
+247
+00:16:52,887 --> 00:16:56,808
+- Essa briga é minha.
+-Ele tornou minha quando entrou na minha casa.
+
+248
+00:16:57,600 --> 00:17:00,020
+E quando ele ameaçou alguém
+com quem me importo.
+
+249
+00:17:26,337 --> 00:17:27,964
+Flechas.
+
+250
+00:17:28,423 --> 00:17:31,801
+Projéteis tão ineficazes.
+
+251
+00:17:32,927 --> 00:17:36,514
+Eu acho estranho que ainda
+tem gente que tem medo.
+
+252
+00:17:36,723 --> 00:17:40,310
+Vou te mostrar o porquê...
+Se você não deixar Sara Lance em paz.
+
+253
+00:17:40,477 --> 00:17:41,561
+Esse é o seu único aviso.
+
+254
+00:17:41,811 --> 00:17:44,064
+E seria eficaz...
+
+255
+00:17:44,314 --> 00:17:46,941
+se você fosse uma ameaça pra mim.
+
+256
+00:17:47,150 --> 00:17:50,195
+Você mal derrotou Malcolm Merlyn...
+
+257
+00:17:50,403 --> 00:17:53,448
+a quase o custo da sua própria vida.
+
+258
+00:17:54,657 --> 00:17:59,204
+Que chance você teria contra
+o homem que treinou ele?
+
+259
+00:17:59,412 --> 00:18:01,039
+Ajuda que eu não vim sozinho.
+
+260
+00:18:06,336 --> 00:18:09,339
+O filho de Ra's al Ghul
+espera o seu retorno.
+
+261
+00:18:09,547 --> 00:18:12,050
+- Eu não vou voltar.
+- Essa escolha não é sua.
+
+262
+00:18:12,509 --> 00:18:14,844
+Eu tenho ordens pra te devolver.
+
+263
+00:18:15,011 --> 00:18:16,471
+Viva ou morta.
+
+264
+00:18:16,679 --> 00:18:18,264
+Você não vai me matar.
+
+265
+00:18:18,473 --> 00:18:21,184
+Você superestima a sua importância.
+
+266
+00:18:21,392 --> 00:18:24,270
+De qualquer forma,
+você vai voltar conosco.
+
+267
+00:18:25,355 --> 00:18:26,606
+Conosco?
+
+268
+00:18:28,066 --> 00:18:31,778
+Como você, eu não vim sozinho.
+
+269
+00:19:12,777 --> 00:19:15,238
+Se você não voltar por vontade própria...
+
+270
+00:19:15,446 --> 00:19:18,908
+você vai ficar pra enterrar a sua família.
+
+271
+00:19:24,247 --> 00:19:26,499
+Você nem pisca quando ele...
+
+272
+00:19:26,708 --> 00:19:30,295
+A dor e eu chegamos
+a um acordo há uns anos.
+
+273
+00:19:33,923 --> 00:19:35,466
+Pronto.
+
+274
+00:19:42,307 --> 00:19:44,726
+A Liga dos Assassinos.
+
+275
+00:19:46,436 --> 00:19:50,690
+Por que ela não queria me contar
+o que aconteceu com ela esses anos?
+
+276
+00:19:50,899 --> 00:19:54,944
+Provavelmente pela mesma razão que você não
+nos contou o que aconteceu com você na ilha.
+
+277
+00:19:58,823 --> 00:20:02,076
+Nós precisamos proteger os Lance.
+Eu fico com a Laurel.
+
+278
+00:20:02,243 --> 00:20:03,328
+- O que eu posso fazer?
+- Nada.
+
+279
+00:20:03,494 --> 00:20:05,121
+Você está machucada
+e você precisa ficar aqui.
+
+280
+00:20:05,288 --> 00:20:08,166
+- E quanto ao meu pai?
+- Eu vou falar com o Detetive Lance.
+
+281
+00:20:08,333 --> 00:20:10,168
+Fala pra ele que ele tem
+que sair da cidade por uns dias.
+
+282
+00:20:12,754 --> 00:20:14,672
+Por favor, não conte a ele sobre mim.
+
+283
+00:20:14,881 --> 00:20:17,050
+Eu sei guardar segredo.
+Pergunta pra ele.
+
+284
+00:20:24,557 --> 00:20:26,809
+Vocês três são um time e tanto.
+
+285
+00:20:27,685 --> 00:20:29,437
+Nós temos os nossos momentos.
+
+286
+00:20:42,367 --> 00:20:43,534
+Levanta.
+
+287
+00:20:45,245 --> 00:20:46,454
+Espera. Não.
+
+288
+00:20:46,663 --> 00:20:49,707
+Não, não, não.
+
+289
+00:20:49,916 --> 00:20:52,335
+- Quanto mais você resistir...
+- Não, por favor.
+
+290
+00:20:52,543 --> 00:20:57,048
+-...mais vai doer.
+- Não! Por favor. Por favor.
+
+291
+00:20:57,257 --> 00:20:58,424
+Espera.
+
+292
+00:21:00,093 --> 00:21:01,135
+Solta ela.
+
+293
+00:21:01,344 --> 00:21:03,680
+Você não manda em mim.
+
+294
+00:21:03,888 --> 00:21:05,765
+Não. Esse seria o capitão.
+
+295
+00:21:05,974 --> 00:21:08,518
+Mas ele trabalha pra mim, não trabalha?
+
+296
+00:21:11,521 --> 00:21:13,606
+Me ajuda, por favor.
+
+297
+00:21:14,649 --> 00:21:16,359
+Vem aqui.
+
+298
+00:21:21,531 --> 00:21:23,866
+Laurel, escuta, é o seu pai. De novo.
+
+299
+00:21:24,075 --> 00:21:27,453
+Sei que ainda está zangada comigo
+pelo que falei na semana passada...
+
+300
+00:21:27,662 --> 00:21:30,665
+mas isso não está certo, a gente
+sem se falar. Então, por favor, só...
+
+301
+00:21:30,873 --> 00:21:32,333
+Só me liga, está bom?
+
+302
+00:21:32,542 --> 00:21:36,379
+Detetive Lance. Eu sabia que você
+ia chegar em casa por agora.
+
+303
+00:21:36,587 --> 00:21:40,800
+- Eu sabia porque eu cheque¡ seu telefone.
+- Srta. Smoak.
+
+304
+00:21:41,009 --> 00:21:43,094
+Você atraiu baratas
+e elas vão partir pra cima.
+
+305
+00:21:43,303 --> 00:21:46,055
+- Desde quando começou a atender em casa?
+- Desde que você está em perigo.
+
+306
+00:21:46,264 --> 00:21:49,892
+- Eu não tenho medo de baratas.
+- Certo, você está mesmo em perigo.
+
+307
+00:21:50,393 --> 00:21:52,395
+Você tem que sair
+da cidade por uns dias.
+
+308
+00:21:52,603 --> 00:21:55,356
+Olha, eu corro perigo toda vez
+que eu coloco esse uniforme.
+
+309
+00:21:55,565 --> 00:21:57,191
+Então você vai ter
+que explicar isso melhor.
+
+310
+00:21:57,400 --> 00:22:01,779
+Tem uma organização chamada
+Liga dos Assassinos e eles estão atrás de você.
+
+311
+00:22:01,988 --> 00:22:05,241
+- Parecia menos maluquice na minha cabeça.
+- Duvido.
+
+312
+00:22:05,450 --> 00:22:10,496
+O Malcolm Merlyn era um membro. Deve te dar
+uma ideia do tipo de pessoas que são.
+
+313
+00:22:11,372 --> 00:22:12,874
+Tudo bem. Desisto.
+
+314
+00:22:13,958 --> 00:22:15,251
+O que eu fiz pra irritar eles?
+
+315
+00:22:16,044 --> 00:22:17,545
+Isso...
+
+316
+00:22:18,713 --> 00:22:21,507
+É uma longa história. Você só...
+
+317
+00:22:21,841 --> 00:22:23,634
+Você tem que confiar em mim.
+
+318
+00:22:24,218 --> 00:22:26,346
+Você não está seguro
+aqui em Starling City.
+
+319
+00:22:26,554 --> 00:22:28,806
+Srta. Smoak, ninguém está seguro,
+está bom? Principalmente nós, policiais.
+
+320
+00:22:29,015 --> 00:22:30,850
+Nosso trabalho inclui levar tiros.
+
+321
+00:22:31,059 --> 00:22:33,686
+E meu turno? Acabou de acabar.
+
+322
+00:22:34,354 --> 00:22:35,772
+- Detetive Lance.
+- Boa noite.
+
+323
+00:22:35,980 --> 00:22:38,900
+- Espera, você tem que me ouvir.
+- Boa noite, Srta. Smoak.
+
+324
+00:22:39,108 --> 00:22:41,152
+Então, acho que isso significa
+que você não vai sair da cidade?
+
+325
+00:22:47,617 --> 00:22:49,077
+Boa noite.
+
+326
+00:22:49,285 --> 00:22:53,414
+Eu devia ter dito isso antes, mas não é
+apropriado nós discutirmos o caso da sua mãe.
+
+327
+00:22:53,623 --> 00:22:58,336
+Pensei em passar aqui e ver se queria uma
+carona pra casa e talvez ir comer alguma coisa.
+
+328
+00:22:58,544 --> 00:23:01,589
+Foi um longo dia. Eu não preciso
+de uma noite com você...
+
+329
+00:23:01,756 --> 00:23:04,592
+tentando me fazer desistir
+do acordo com a sua mãe.
+
+330
+00:23:05,051 --> 00:23:06,552
+Laurel...
+
+331
+00:23:06,761 --> 00:23:08,179
+eu prometo...
+
+332
+00:23:08,388 --> 00:23:11,391
+isso não tem nada a ver
+com o caso da minha mãe.
+
+333
+00:23:12,850 --> 00:23:15,019
+Você teve umas semanas difíceis.
+
+334
+00:23:16,229 --> 00:23:19,190
+Quer mesmo me dizer que
+você não precisa de um amigo?
+
+335
+00:23:20,483 --> 00:23:22,151
+Vamos.
+
+336
+00:23:27,657 --> 00:23:29,075
+- Oi.
+- Como foi?
+
+337
+00:23:29,283 --> 00:23:32,703
+Mal. Ou ele não acreditou
+em mim ou não me levou a sério.
+
+338
+00:23:32,912 --> 00:23:36,374
+Pensando bem, eu não devia
+ter mencionado a Liga dos Assassinos.
+
+339
+00:23:36,582 --> 00:23:38,167
+O que a gente faz agora?
+
+340
+00:23:40,586 --> 00:23:41,879
+O que você vai fazer?
+O Oliver falou pra você ficar aqui.
+
+341
+00:23:42,088 --> 00:23:44,006
+Eu achei que você não queria que seu pai
+soubesse que você ainda está viva.
+
+342
+00:23:44,173 --> 00:23:46,259
+Não quero. Mas é melhor
+do que ele não viver.
+
+343
+00:23:46,467 --> 00:23:49,262
+- Aonde você pensa que vai?
+- Com você.
+
+344
+00:23:50,471 --> 00:23:52,348
+Eu não vou deixar você
+ir até lá sem nenhum reforço.
+
+345
+00:23:52,557 --> 00:23:54,725
+Dig, você pode ser veterano
+das Forças Especiais por três vezes...
+
+346
+00:23:54,934 --> 00:23:58,813
+mas fui treinada por pessoas que fazem as
+Forças Especiais parecerem jardim de infância.
+
+347
+00:23:59,021 --> 00:24:02,066
+Então, senta ali e fica quietinho.
+
+348
+00:24:05,778 --> 00:24:07,238
+É o seu funeral, Sara.
+
+349
+00:24:07,447 --> 00:24:09,532
+Não será o primeiro.
+
+350
+00:25:01,959 --> 00:25:04,754
+Não. Não pode ser.
+Não pode ser a Sara.
+
+351
+00:25:04,962 --> 00:25:08,758
+Sou eu. É a Sara.
+
+352
+00:25:09,467 --> 00:25:12,678
+Papai. Está tudo bem.
+
+353
+00:25:20,228 --> 00:25:21,771
+Sara?
+
+354
+00:25:22,647 --> 00:25:24,106
+Sara?
+
+355
+00:25:26,150 --> 00:25:27,735
+Sara.
+
+356
+00:25:41,290 --> 00:25:42,583
+COMIDA CHINESA
+
+357
+00:25:50,383 --> 00:25:52,051
+Você fala chinês agora?
+
+358
+00:25:52,260 --> 00:25:55,680
+Aprendi algumas coisas
+nos últimos anos.
+
+359
+00:25:55,888 --> 00:25:57,098
+<i>É.</i>
+
+360
+00:25:57,765 --> 00:25:59,684
+Por que você não falou
+pra gente que estava viva?
+
+361
+00:26:01,394 --> 00:26:03,354
+A sua mãe e eu, nós...
+
+362
+00:26:05,690 --> 00:26:09,151
+Nós sentimos saudades. E a sua
+irmã também. Você sabe disso, não é?
+
+363
+00:26:09,360 --> 00:26:10,695
+Eu sei que vocês se separaram.
+
+364
+00:26:12,863 --> 00:26:14,031
+<i>É.</i>
+
+365
+00:26:14,949 --> 00:26:17,076
+Mas não foi culpa sua.
+
+366
+00:26:17,285 --> 00:26:19,996
+- Isso foi minha.
+- Por causa de mim.
+
+367
+00:26:20,663 --> 00:26:24,292
+- Desculpa.
+- Nada disso importa agora. Está em casa.
+
+368
+00:26:24,500 --> 00:26:26,294
+Você está em casa.
+
+369
+00:26:39,473 --> 00:26:40,975
+Você está com problemas?
+
+370
+00:26:45,021 --> 00:26:46,814
+Não, pai.
+
+371
+00:26:47,607 --> 00:26:48,983
+Você está.
+
+372
+00:26:53,446 --> 00:26:56,657
+Você mandou Felicity Smoak
+me avisar pra sair da cidade.
+
+373
+00:26:59,702 --> 00:27:01,704
+Você conhece o Arqueiro.
+
+374
+00:27:07,209 --> 00:27:09,337
+Você é a garota da máscara.
+
+375
+00:27:11,422 --> 00:27:14,759
+Você que anda dando uma surra
+nos agressores nos Glades.
+
+376
+00:27:18,471 --> 00:27:19,805
+Você está de volta há semanas.
+
+377
+00:27:22,558 --> 00:27:23,893
+Me diz uma coisa.
+
+378
+00:27:24,101 --> 00:27:27,563
+Se esses assassinos não tivessem aparecido,
+teria falado pra gente que você estava viva?
+
+379
+00:27:28,689 --> 00:27:30,274
+Não.
+
+380
+00:27:36,322 --> 00:27:39,575
+A Felicity disse que esses caras eram
+membros de uma liga de sei lá o quê.
+
+381
+00:27:39,784 --> 00:27:43,663
+- O que eles querem com você?
+- Eliminar o alvo deles.
+
+382
+00:27:43,871 --> 00:27:46,999
+- Isso é loucura.
+- Pai...
+
+383
+00:27:47,541 --> 00:27:49,377
+-eu tenho que ir.
+- Não. Você não vai a lugar nenhum.
+
+384
+00:27:49,585 --> 00:27:52,463
+Não até você sentar e me contar
+exatamente no que você se meteu.
+
+385
+00:27:52,672 --> 00:27:57,134
+Você é um excelente policial
+e você é forte e decente e honesto.
+
+386
+00:27:57,343 --> 00:28:00,221
+Mas esses homens, eles vão te partir no
+meio antes que você possa levantar um dedo.
+
+387
+00:28:00,429 --> 00:28:03,974
+Agora, por favor, venha comigo.
+
+388
+00:28:19,031 --> 00:28:21,701
+Não é grande coisa...
+
+389
+00:28:22,368 --> 00:28:23,911
+mas é um lar.
+
+390
+00:28:30,584 --> 00:28:31,836
+Por que você trancou a porta?
+
+391
+00:28:32,128 --> 00:28:34,588
+Não, não, não, não.
+Não é porque...
+
+392
+00:28:36,006 --> 00:28:40,219
+É só um hábito. Meus colegas
+não são exatamente os mais legais.
+
+393
+00:28:40,428 --> 00:28:42,638
+Por favor, entre. Sente-se.
+
+394
+00:29:03,409 --> 00:29:04,952
+Meu nome é Ivo.
+
+395
+00:29:05,536 --> 00:29:07,705
+Doutor Anthony Ivo.
+
+396
+00:29:07,872 --> 00:29:09,457
+E você é?
+
+397
+00:29:10,833 --> 00:29:12,126
+Sara.
+
+398
+00:29:12,334 --> 00:29:14,044
+Prazer em te conhecer, Sara.
+
+399
+00:29:14,211 --> 00:29:17,006
+Por que você mantém aquelas
+pessoas Ia embaixo naquelas celas?
+
+400
+00:29:17,173 --> 00:29:18,466
+É o meu trabalho.
+
+401
+00:29:19,133 --> 00:29:21,302
+- Eu preciso delas.
+- Que trabalho?
+
+402
+00:29:27,349 --> 00:29:30,603
+Eu vou salvar a raça humana, Sara.
+
+403
+00:29:32,480 --> 00:29:34,064
+Talvez você possa me ajudar.
+
+404
+00:29:43,324 --> 00:29:44,909
+Eu percebi que você
+não bebeu durante o jantar.
+
+405
+00:29:45,117 --> 00:29:47,495
+Não, não bebi.
+
+406
+00:29:47,703 --> 00:29:51,332
+Agora você vai admitir que você e
+o meu pai exageraram semana passada...
+
+407
+00:29:51,540 --> 00:29:53,667
+quando vocês acharam que
+eu estava virando alcoólatra?
+
+408
+00:29:53,876 --> 00:29:56,879
+Eu estou preparado pra admitir
+que eu me importo com você.
+
+409
+00:29:57,087 --> 00:30:00,341
+Foi por isso que você insistiu
+em me trazer até a porta?
+
+410
+00:30:00,549 --> 00:30:01,842
+Você me conhece.
+
+411
+00:30:02,051 --> 00:30:03,969
+Só queria ter certeza
+de que você estava segura.
+
+412
+00:30:04,178 --> 00:30:06,013
+Isso é seguro.
+
+413
+00:30:09,308 --> 00:30:10,643
+Melhor não.
+
+414
+00:30:11,560 --> 00:30:13,687
+Então pra que você veio
+até aqui em cima?
+
+415
+00:30:13,896 --> 00:30:16,857
+- Eu sinto muito se de¡ a impressão errada.
+- Não.
+
+416
+00:30:17,483 --> 00:30:19,485
+Não, não.
+Eu entendi o recado.
+
+417
+00:30:22,238 --> 00:30:24,657
+Ele fica mais claro
+e evidente a cada dia.
+
+418
+00:30:26,242 --> 00:30:27,952
+Corra.
+
+419
+00:30:28,160 --> 00:30:29,662
+Corra, fuja da Laurel.
+
+420
+00:30:29,870 --> 00:30:31,997
+Corra o mais rápido que puder.
+
+421
+00:30:32,206 --> 00:30:34,124
+- Laurel, qual é.
+- Sara...
+
+422
+00:30:34,875 --> 00:30:37,336
+Ela foi no Gambit com você.
+
+423
+00:30:38,295 --> 00:30:42,091
+Meu pai, ele...
+Ele se afogou numa garrafa.
+
+424
+00:30:42,299 --> 00:30:46,345
+Minha mãe, ela... Ela entrou
+no carro dela e dirigiu pra longe.
+
+425
+00:30:46,554 --> 00:30:48,472
+E depois o Tommy...
+
+426
+00:30:54,436 --> 00:30:57,398
+O que tem de tão errado comigo
+que todo mundo me deixa?
+
+427
+00:30:58,232 --> 00:31:00,025
+Eu nunca vou te deixar.
+
+428
+00:31:02,403 --> 00:31:04,363
+Até você deixar.
+
+429
+00:31:11,453 --> 00:31:13,497
+Eu pensei que eu tinha trancado.
+
+430
+00:31:17,126 --> 00:31:19,044
+Fica aqui.
+
+431
+00:31:36,103 --> 00:31:37,438
+Ollie?
+
+432
+00:31:38,480 --> 00:31:39,732
+Alguma coisa?
+
+433
+00:31:40,608 --> 00:31:41,901
+Tudo certo.
+
+434
+00:31:42,401 --> 00:31:44,028
+Eu tenho que ir.
+
+435
+00:31:44,987 --> 00:31:48,490
+- Olha, desculpa pelo que eu disse...
+- Não precisa.
+
+436
+00:31:49,325 --> 00:31:51,285
+Só fica aqui.
+
+437
+00:32:11,847 --> 00:32:14,266
+Felicity, AI Ow-AI foi à casa da Laurel.
+
+438
+00:32:14,475 --> 00:32:18,312
+<i>- O</i> quê? <i>Ela está bem?
+- Está. Ele foi embora antes de chegarmos lá.</i>
+
+439
+00:32:18,812 --> 00:32:23,275
+- Mas se a Laurel não é o alvo dele...
+-Ele está atrás do Lance. Preciso do local agora.
+
+440
+00:32:30,240 --> 00:32:32,785
+Bom, não acredito que eu não pensei
+em procurar por você aqui em cima.
+
+441
+00:32:32,952 --> 00:32:35,955
+É um bom ponto de vantagem.
+Dá pra ver a cidade toda.
+
+442
+00:32:36,538 --> 00:32:37,790
+Que nem um pássaro num fio.
+
+443
+00:32:38,332 --> 00:32:40,626
+Onde eu estava, eles fazem
+você escolher um novo nome.
+
+444
+00:32:40,834 --> 00:32:43,087
+Eu escolhi Ta-er Sah-fer.
+
+445
+00:32:43,295 --> 00:32:46,715
+É árabe. Pra "canário".
+
+446
+00:32:47,257 --> 00:32:49,551
+Eu comprei aquele canário,
+quando tinha 10 anos.
+
+447
+00:32:50,386 --> 00:32:52,638
+Eu estava tão longe de casa
+quanto dá pra ficar...
+
+448
+00:32:52,846 --> 00:32:55,516
+mas eu nunca me esqueci de onde vim.
+
+449
+00:32:58,644 --> 00:33:02,147
+Falam que a primeira coisa que
+você esquece sobre alguém é a voz.
+
+450
+00:33:03,816 --> 00:33:07,695
+Você consegue lembrar o rosto
+e o jeito como eles andam...
+
+451
+00:33:08,570 --> 00:33:11,115
+mas você não pode se apegar
+a como eles soam.
+
+452
+00:33:11,323 --> 00:33:13,742
+Eu nunca esqueci a sua voz, pai.
+
+453
+00:33:14,284 --> 00:33:15,411
+Querida.
+
+454
+00:33:15,619 --> 00:33:16,870
+Não temos mais tempo.
+
+455
+00:33:21,792 --> 00:33:25,504
+Então era aqui que você
+queria que seu pa¡ morresse.
+
+456
+00:33:36,098 --> 00:33:38,100
+Que isso, Sara?
+Quem são esses caras?
+
+457
+00:33:38,267 --> 00:33:42,104
+- Companheiros da sua filha, Policial Lance.
+-Ela nunca soube escolher os amigos.
+
+458
+00:33:42,312 --> 00:33:46,025
+- Achou mesmo que não íamos te achar aqui?
+- Não.
+
+459
+00:33:47,443 --> 00:33:49,945
+- Eu sabia que vocês achariam.
+- Vai.
+
+460
+00:34:06,462 --> 00:34:08,255
+"Você deve prestar atenção
+nos arredores."
+
+461
+00:34:40,746 --> 00:34:43,665
+Revólveres são armas de covardes.
+Quem é você sem a sua extensão de braço?
+
+462
+00:34:45,751 --> 00:34:47,377
+Um cara com uma extra.
+
+463
+00:34:49,588 --> 00:34:52,424
+Você acha que porque
+você é a preferida...
+
+464
+00:34:52,633 --> 00:34:54,134
+eles vão lhe ceder a liberdade?
+
+465
+00:34:54,343 --> 00:34:56,095
+Só tem uma liberdade.
+
+466
+00:34:56,303 --> 00:34:58,639
+Deixa eu lhe dar a sua.
+
+467
+00:35:02,684 --> 00:35:04,895
+Você não precisa fazer isso.
+
+468
+00:35:05,104 --> 00:35:07,022
+- Acabou.
+- Ainda não.
+
+469
+00:35:07,189 --> 00:35:08,190
+Sara, querida, não...
+
+470
+00:35:08,357 --> 00:35:10,609
+Fala pro Ra's al Ghul que minha família
+está fora de alcance.
+
+471
+00:35:10,818 --> 00:35:13,028
+A briga dele é comigo.
+
+472
+00:35:21,912 --> 00:35:23,455
+Desculpa por você ter visto isso.
+
+473
+00:35:24,540 --> 00:35:27,209
+Não consigo nem imaginar
+o que você deve pensar de mim.
+
+474
+00:35:27,709 --> 00:35:29,211
+Eu acho que você
+é uma sobrevivente.
+
+475
+00:35:29,419 --> 00:35:32,047
+E eu acho que você é uma das pessoas
+mais corajosas que eu conheço.
+
+476
+00:35:34,800 --> 00:35:36,635
+Você é minha filha.
+
+477
+00:35:37,886 --> 00:35:40,055
+Está na hora de você voltar pra casa.
+
+478
+00:35:41,473 --> 00:35:43,392
+- Não posso.
+- Por que não?
+
+479
+00:35:44,226 --> 00:35:46,353
+Eles nunca vão parar de me procurar.
+
+480
+00:35:46,562 --> 00:35:49,648
+Eu vou te proteger. Nós vamos te proteger.
+Fala pra ela que é seguro ficar.
+
+481
+00:35:49,857 --> 00:35:55,070
+Pai, se eles machucarem você ou a Laurel
+ou a mamãe, eu ia morrer de verdade.
+
+482
+00:35:55,320 --> 00:35:58,031
+- Mas elas precisam saber.
+- Elas não podem. Elas não podem, pai.
+
+483
+00:35:58,240 --> 00:36:00,242
+- Por que não?
+- Você sabe o porquê.
+
+484
+00:36:00,492 --> 00:36:03,579
+Eu voltei pra ter certeza que a minha
+família estava bem e vocês estão.
+
+485
+00:36:03,745 --> 00:36:06,874
+Mas se elas soubessem
+que eu estou viva, a Laurel a e a mamãe...
+
+486
+00:36:07,082 --> 00:36:11,461
+elas nunca iam parar de procurar por mim
+e isso pode acabar matando as duas.
+
+487
+00:36:24,016 --> 00:36:25,559
+Eu não posso deixar você ir.
+
+488
+00:36:27,978 --> 00:36:29,897
+Eu não posso deixar você ir.
+
+489
+00:36:31,273 --> 00:36:33,734
+Eu tenho que... Pai, eu tenho que...
+
+490
+00:36:33,942 --> 00:36:35,152
+Eu tenho que ir.
+
+491
+00:36:39,114 --> 00:36:41,283
+Eu te amo, querida.
+
+492
+00:36:41,575 --> 00:36:43,619
+Cuida bem delas.
+
+493
+00:36:45,537 --> 00:36:47,206
+Detetive...
+
+494
+00:36:47,915 --> 00:36:49,416
+ela está certa.
+
+495
+00:36:50,042 --> 00:36:52,294
+Você tem que guardar
+o segredo dela.
+
+496
+00:36:54,546 --> 00:36:57,424
+Já é a coisa mais difícil
+que eu tive que fazer.
+
+497
+00:36:59,968 --> 00:37:01,929
+Como você consegue viver assim?
+
+498
+00:37:08,310 --> 00:37:12,648
+Eu sempre gosto da visita dos meus filhos,
+mas eu sei por que vocês estão aqui.
+
+499
+00:37:12,814 --> 00:37:15,192
+- Nós só temos mais uma coisa a dizer.
+- Oliver, nós já falamos sobre isso.
+
+500
+00:37:15,359 --> 00:37:19,446
+- Eu não vou mudar de ideia.
+- Isso é sobre eu mudar de ideia.
+
+501
+00:37:20,489 --> 00:37:23,659
+Porque eu achei que você não queria ir
+a julgamento por causa de um segredo.
+
+502
+00:37:25,327 --> 00:37:28,080
+Aí eu encontrei uma velha amiga
+e vi o quanto ela sofreu...
+
+503
+00:37:28,288 --> 00:37:32,000
+pra contar o dela à família,
+porque ela tinha medo...
+
+504
+00:37:33,543 --> 00:37:36,255
+que eles não fossem amar ela
+se eles soubessem a verdade.
+
+505
+00:37:36,922 --> 00:37:41,677
+O que quer que esteja te preocupando,
+não vai fazer a gente te amar menos.
+
+506
+00:37:41,843 --> 00:37:44,638
+- Vocês não sabem.
+- Quem você acha que você criou?
+
+507
+00:37:45,764 --> 00:37:48,308
+Você nos ensinou a ser fortes.
+
+508
+00:37:48,517 --> 00:37:52,062
+Que nós podíamos superar qualquer
+obstáculo que enfrentássemos.
+
+509
+00:37:52,271 --> 00:37:53,855
+A lutar.
+
+510
+00:37:55,107 --> 00:37:58,026
+Você realmente acha que
+vai nos assustar tão facilmente?
+
+511
+00:37:58,193 --> 00:38:00,362
+O que quer que seja...
+
+512
+00:38:00,654 --> 00:38:02,698
+-você não vai perder a gente.
+- Nunca.
+
+513
+00:38:11,373 --> 00:38:12,708
+Bem...
+
+514
+00:38:14,042 --> 00:38:17,379
+Eu vou falar pra Jean recusar
+a oferta do Sr. Donner.
+
+515
+00:38:38,525 --> 00:38:39,901
+Oi.
+
+516
+00:38:41,069 --> 00:38:42,487
+Pai.
+
+517
+00:38:42,696 --> 00:38:44,614
+Eu sei que eu te devo uma ligação.
+
+518
+00:38:44,823 --> 00:38:47,242
+Eu estou cheia de trabalho. A gente pode...
+A gente pode fazer isso uma outra hora?
+
+519
+00:38:47,492 --> 00:38:48,744
+Eu só precisava te ver, Laurel.
+
+520
+00:38:49,119 --> 00:38:50,912
+Aconteceu alguma coisa?
+Você está bem?
+
+521
+00:38:52,706 --> 00:38:55,500
+Um dia, querida, quando
+você tiver sua própria filha...
+
+522
+00:38:55,709 --> 00:39:00,505
+vai entender que ser mãe ou pa¡ significa que
+nunca para de se preocupar com seus filhos.
+
+523
+00:39:00,714 --> 00:39:04,926
+Pai, desculpa por
+não ter te ligado de volta.
+
+524
+00:39:05,177 --> 00:39:09,097
+Eu tive uma longa semana e...
+E eu estou cansada.
+
+525
+00:39:09,264 --> 00:39:10,599
+Você está bem?
+
+526
+00:39:14,394 --> 00:39:15,937
+Eu não sei.
+
+527
+00:39:17,689 --> 00:39:20,692
+Eu queria que tivesse
+alguma coisa.
+
+528
+00:39:21,443 --> 00:39:23,278
+Um sinal de que vai melhorar.
+
+529
+00:39:23,445 --> 00:39:25,113
+Vai melhorar, querida.
+
+530
+00:39:26,114 --> 00:39:27,366
+Você vai ver.
+
+531
+00:39:28,075 --> 00:39:29,201
+Como você sabe?
+
+532
+00:39:30,035 --> 00:39:32,287
+Eu queria poder te falar, querida.
+
+533
+00:39:35,957 --> 00:39:38,251
+Eu queria poder te falar.
+
+534
+00:39:49,054 --> 00:39:50,555
+Cadê a Sara?
+
+535
+00:39:52,307 --> 00:39:53,934
+Ela se foi.
+
+536
+00:39:57,854 --> 00:40:00,315
+- Você está de acordo com isso?
+- Eu não tive muita escolha.
+
+537
+00:40:01,650 --> 00:40:03,944
+Um velho amigo me deu isso.
+
+538
+00:40:05,070 --> 00:40:08,073
+Me disse que eu ia saber
+quando era a hora certa de eu beber.
+
+539
+00:40:10,492 --> 00:40:13,662
+- E agora é a hora certa?
+- Não tenho certeza.
+
+540
+00:40:16,289 --> 00:40:18,208
+Mas eu preciso de um gole.
+
+541
+00:40:31,972 --> 00:40:34,474
+- Você estava certo.
+- É. Normalmente eu estou, Oliver.
+
+542
+00:40:37,686 --> 00:40:39,229
+Sobre o que exatamente?
+
+543
+00:40:39,438 --> 00:40:42,649
+Não importa o quanto
+eu tente, Diggle, meu passado...
+
+544
+00:40:43,024 --> 00:40:45,110
+Ele não quer ficar enterrado.
+
+545
+00:40:46,820 --> 00:40:49,156
+Eu não quero mais tentar tanto.
+
+546
+00:40:59,541 --> 00:41:02,002
+Os cinco anos que eu fiquei longe...
+
+547
+00:41:05,046 --> 00:41:06,798
+eu não fiquei sempre na ilha.
+
+548
+00:41:35,827 --> 00:41:37,078
+Como você está...
+
+549
+00:41:39,498 --> 00:41:40,957
+Prisioneiros não falam.
+
+550
+00:41:52,802 --> 00:41:54,596
+ARQUEIRO
+
+551
+00:42:20,664 --> 00:42:22,666
+[Portuguese - Brazilian]
+
