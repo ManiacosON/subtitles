@@ -1,0 +1,3193 @@
+﻿1
+00:00:05,505 --> 00:00:07,591
+UMA SÉRIE ORIGINAL NETFLIX
+
+2
+00:00:08,675 --> 00:00:11,386
+<i>Anteriormente em</i> Sobrevivente Designado...
+
+3
+00:00:11,469 --> 00:00:13,305
+O Capitólio foi atacado. A Águia morreu.
+
+4
+00:00:13,388 --> 00:00:14,932
+O Congresso, o gabinete.
+
+5
+00:00:15,015 --> 00:00:16,642
+O senhor é agora o presidente.
+
+6
+00:00:16,725 --> 00:00:18,894
+Gente má fez algo ruim esta noite,
+
+7
+00:00:18,977 --> 00:00:20,854
+e é o trabalho do pai garantir
+nossa segurança.
+
+8
+00:00:20,938 --> 00:00:22,773
+Trabalho com Kirkman há três anos.
+
+9
+00:00:22,856 --> 00:00:25,150
+É presidente Kirkman.
+E não tem autorização.
+
+10
+00:00:25,233 --> 00:00:26,526
+Quem é o responsável?
+
+11
+00:00:26,610 --> 00:00:27,695
+Cedo demais para determinar.
+
+12
+00:00:27,778 --> 00:00:29,905
+Temos de dizer algo. O mundo nos observa.
+
+13
+00:00:29,988 --> 00:00:33,241
+Temos o secretário de Urbanismo
+e Reforma Habitacional dirigindo a nação.
+
+14
+00:00:33,325 --> 00:00:35,578
+Está falando sobre tirar
+um presidente em exercício.
+
+15
+00:00:35,661 --> 00:00:36,912
+Temos algo aqui!
+
+16
+00:00:36,995 --> 00:00:38,831
+-Calma.
+-O que está vendo?
+
+17
+00:00:39,873 --> 00:00:41,583
+Liberado. Bomba falhada.
+
+18
+00:00:41,667 --> 00:00:45,212
+Você não se responsabiliza
+antes de ter terminado, né?
+
+19
+00:00:45,295 --> 00:00:47,214
+E se só estiverem começando?
+
+20
+00:00:53,846 --> 00:00:55,097
+Não houve comunicação.
+
+21
+00:00:55,180 --> 00:00:56,599
+Entendo que não houve,
+
+22
+00:00:56,682 --> 00:00:59,392
+mas ainda temos de verificar
+os suspeitos de costume.
+
+23
+00:00:59,476 --> 00:01:01,687
+Al-Qaeda, Hezbollah, al-Sakar.
+
+24
+00:01:01,770 --> 00:01:03,606
+Como estamos com a polícia local?
+
+25
+00:01:03,689 --> 00:01:06,984
+Coordenei com a polícia metropolitana,
+local, Capitólio e serviço secreto.
+
+26
+00:01:07,067 --> 00:01:08,068
+Ótimo. Lembrem
+
+27
+00:01:08,151 --> 00:01:10,779
+que a lista de alvos começa
+na Casa Branca.
+
+28
+00:01:10,863 --> 00:01:13,406
+Precisamos aumentar a segurança
+em cada local.
+
+29
+00:01:13,490 --> 00:01:15,367
+Já fizemos isso.
+
+30
+00:01:25,377 --> 00:01:26,920
+Está levando a bomba para Andrews?
+
+31
+00:01:27,004 --> 00:01:29,757
+Sim. A chefia quer tudo sob o mesmo teto.
+
+32
+00:01:29,840 --> 00:01:33,135
+-Diretor assistente, precisamos do senhor!
+-Está bem.
+
+33
+00:01:53,989 --> 00:01:55,448
+<i>Prezados americanos...</i>
+
+34
+00:01:56,408 --> 00:01:58,619
+<i>hoje, nosso modo de vida foi atacado.</i>
+
+35
+00:01:58,702 --> 00:02:01,454
+<i>Este ato de covardia queria</i>
+<i>ferir nossa nação.</i>
+
+36
+00:02:02,414 --> 00:02:06,669
+<i>Mas, como outrora, mostraremos ao mundo</i>
+<i>que não nos curvamos diante do terror,</i>
+
+37
+00:02:06,752 --> 00:02:10,088
+<i>que vamos retaliar, que vamos perseverar.</i>
+
+38
+00:02:10,172 --> 00:02:13,133
+<i>Este foi o primeiro discurso</i>
+<i>do presidente Tom Kirkman à nação.</i>
+
+39
+00:02:13,216 --> 00:02:16,887
+<i>Feito duas horas após o juramento informal</i>
+
+40
+00:02:16,970 --> 00:02:18,221
+<i>como nosso presidente.</i>
+
+41
+00:02:18,305 --> 00:02:22,600
+<i>Infelizmente, o discurso de ontem</i>
+<i>não acalmou os nervos...</i>
+
+42
+00:02:22,685 --> 00:02:26,313
+<i>Kirkman é um secretário do URH,</i>
+<i>não eleito, sem experiência,</i>
+
+43
+00:02:26,396 --> 00:02:28,440
+<i>em uma época</i>
+<i>em que o mundo precisa de liderança.</i>
+
+44
+00:02:28,523 --> 00:02:29,607
+<i>...no Capitólio,</i>
+
+45
+00:02:29,691 --> 00:02:34,363
+<i>buscando sobreviventes e respostas</i>
+<i>às perguntas de todos os americanos.</i>
+
+46
+00:02:34,446 --> 00:02:37,282
+<i>"Como isso aconteceu? E a vida voltará..."</i>
+
+47
+00:03:08,605 --> 00:03:10,190
+-Bom dia, senhor presidente.
+-Bom dia.
+
+48
+00:03:10,273 --> 00:03:13,610
+-Ala Oeste. Direita ou esquerda?
+-Por aqui pela direita, senhor.
+
+49
+00:03:13,693 --> 00:03:15,695
+Muito obrigado.
+
+50
+00:03:15,779 --> 00:03:16,947
+Fênix em movimento.
+
+51
+00:03:22,995 --> 00:03:26,456
+Minha esposa não me queria aqui.
+Ela teme que a Casa Branca seja a próxima.
+
+52
+00:03:29,292 --> 00:03:32,129
+Eu devia ter ido ontem à noite,
+mas não consegui uma babá.
+
+53
+00:03:35,257 --> 00:03:37,467
+Nem sei mais a quem reportar.
+
+54
+00:03:37,550 --> 00:03:39,677
+Melissa está morta. Todos morreram.
+
+55
+00:03:40,553 --> 00:03:41,554
+Senhor presidente.
+
+56
+00:03:42,931 --> 00:03:44,057
+Aaron. Bom dia.
+
+57
+00:03:44,141 --> 00:03:45,976
+Há uma reunião para o senhor na Oval.
+
+58
+00:03:46,059 --> 00:03:47,560
+-Ótimo.
+-Senhor presidente.
+
+59
+00:03:47,644 --> 00:03:48,937
+-Wyatt?
+-Sim, senhor.
+
+60
+00:03:49,020 --> 00:03:50,981
+-Obrigado.
+-Senhor, só queria avisá-lo...
+
+61
+00:03:51,899 --> 00:03:54,777
+que pode ser mais caótico
+do que está acostumado.
+
+62
+00:03:54,860 --> 00:03:56,319
+Entendo. Acho que vou ficar bem.
+
+63
+00:03:56,403 --> 00:03:58,906
+Aumentamos a segurança nos oleodutos,
+
+64
+00:03:58,989 --> 00:04:01,241
+usinas, refinarias e tanques químicos.
+
+65
+00:04:01,324 --> 00:04:02,910
+Transporte em massa parado.
+
+66
+00:04:02,993 --> 00:04:05,537
+Aviões e trens.
+A imigração continua parada.
+
+67
+00:04:05,620 --> 00:04:07,873
+Precisa autorizar
+o fechamento imediato dos bancos.
+
+68
+00:04:07,956 --> 00:04:10,834
+Não podemos afastar
+os americanos de seu dinheiro.
+
+69
+00:04:10,918 --> 00:04:13,962
+É melhor 48 horas sem bancos
+que 48 meses de depressão econômica.
+
+70
+00:04:14,046 --> 00:04:16,924
+Se todos retirarem seu dinheiro,
+os bancos quebram.
+
+71
+00:04:17,007 --> 00:04:18,008
+E a explosão?
+
+72
+00:04:18,091 --> 00:04:20,093
+O diretor assistente Atwood está vindo.
+
+73
+00:04:20,177 --> 00:04:23,263
+Estamos investigando grupos com recursos
+para algo assim.
+
+74
+00:04:23,346 --> 00:04:25,348
+Hezbollah, al-Qaeda,
+RGB da Coreia do Norte.
+
+75
+00:04:25,432 --> 00:04:27,392
+E a violência em Michigan?
+
+76
+00:04:27,475 --> 00:04:29,436
+Há relatos de distúrbios em Dearborn.
+
+77
+00:04:29,519 --> 00:04:31,479
+A polícia atacando a comunidade muçulmana.
+
+78
+00:04:31,563 --> 00:04:35,650
+Quero saber como os terroristas trouxeram
+explosivos para o Capitólio.
+
+79
+00:04:35,733 --> 00:04:36,734
+Estamos vendo.
+
+80
+00:04:36,819 --> 00:04:38,695
+Por ora,
+vamos atrás de todos os suspeitos.
+
+81
+00:04:38,779 --> 00:04:41,656
+Vamos atrás deles, de suas famílias,
+o que pudermos fazer.
+
+82
+00:04:41,739 --> 00:04:44,201
+Desculpe, está falando
+de interrogatório avançado?
+
+83
+00:04:44,284 --> 00:04:48,496
+Eles destruíram o Capitólio.
+Digo que façamos o que for preciso.
+
+84
+00:04:48,580 --> 00:04:51,166
+-Há um processo...
+-Isso é absurdo!
+
+85
+00:04:52,750 --> 00:04:53,919
+Posso ter um momento?
+
+86
+00:04:54,002 --> 00:04:57,422
+Pessoal, por que não nos concentramos
+em uma coisa por vez?
+
+87
+00:04:59,007 --> 00:05:00,425
+Por favor, com licença.
+
+88
+00:05:20,612 --> 00:05:22,364
+Por favor, pode me dar um momento?
+
+89
+00:05:37,921 --> 00:05:39,797
+SECRETÁRIO DE URBANISMO
+E REFORMA HABITACIONAL
+
+90
+00:05:56,273 --> 00:05:57,983
+O PRESIDENTE
+
+91
+00:06:04,114 --> 00:06:07,910
+SOBREVIVENTE DESIGNADO
+
+92
+00:06:17,210 --> 00:06:20,380
+Tom. Sinto muito. Senhor presidente.
+
+93
+00:06:20,463 --> 00:06:22,590
+Eu precisava de um lugar calmo.
+
+94
+00:06:22,674 --> 00:06:24,301
+Sim, admito, ficou barulhento lá.
+
+95
+00:06:24,384 --> 00:06:27,429
+Barulhento? Um jogo de hóquei
+é barulhento, Aaron.
+
+96
+00:06:27,512 --> 00:06:29,389
+Na Sala Oval? Aquilo era caos.
+
+97
+00:06:29,472 --> 00:06:32,434
+Precisamos de ordem, de um sistema,
+ou isso não vai dar certo.
+
+98
+00:06:32,517 --> 00:06:34,978
+Precisamos deste governo funcionando.
+
+99
+00:06:35,687 --> 00:06:38,273
+-Precisamos de um gabinete e rápido.
+-Boa ideia, senhor.
+
+100
+00:06:38,356 --> 00:06:41,193
+Mas primeiro precisa nomear
+um chefe de gabinete.
+
+101
+00:06:41,276 --> 00:06:42,860
+Sério? Quer uma promoção agora?
+
+102
+00:06:42,945 --> 00:06:44,737
+-Eu...
+-Chega.
+
+103
+00:06:44,821 --> 00:06:46,531
+Não estou pronto para tomar esta decisão.
+
+104
+00:06:46,614 --> 00:06:50,077
+Preciso que vocês dois me ajudem
+a reunir um gabinete.
+
+105
+00:06:50,160 --> 00:06:51,703
+Digam que podem fazer isso.
+
+106
+00:06:51,786 --> 00:06:53,788
+-Claro.
+-Sim, senhor presidente.
+
+107
+00:06:53,871 --> 00:06:54,831
+Ótimo.
+
+108
+00:06:54,914 --> 00:06:58,668
+Por ora, vamos fechar os bancos.
+Caixas automáticos e crédito funcionarão.
+
+109
+00:06:58,751 --> 00:07:00,795
+Monitorem a situação em Michigan,
+
+110
+00:07:00,878 --> 00:07:03,840
+e me mantenham informado
+sobre a investigação da explosão.
+
+111
+00:07:03,924 --> 00:07:06,635
+O povo americano quer saber quem fez isso
+e eu, também.
+
+112
+00:07:06,718 --> 00:07:07,760
+Senhor.
+
+113
+00:07:09,096 --> 00:07:10,180
+Também...
+
+114
+00:07:12,057 --> 00:07:15,227
+quero ver mais tarde o Capitólio
+ou o que sobrou dele.
+
+115
+00:07:15,310 --> 00:07:18,105
+-Tem certeza de que é uma boa ideia?
+-Não.
+
+116
+00:07:18,188 --> 00:07:20,690
+É exatamente do que precisa,
+senhor, uma repetição.
+
+117
+00:07:20,773 --> 00:07:23,610
+O discurso de ontem não acalmou o povo.
+
+118
+00:07:23,693 --> 00:07:26,821
+Mas o senhor no local,
+isso dá uma mensagem.
+
+119
+00:07:26,904 --> 00:07:28,698
+-Mostra...
+-Respeito, Aaron.
+
+120
+00:07:29,366 --> 00:07:31,618
+Mostra respeito.
+
+121
+00:07:31,701 --> 00:07:33,328
+Não é uma oportunidade para propaganda.
+
+122
+00:07:34,704 --> 00:07:36,414
+-Como quiser, senhor.
+-Ótimo.
+
+123
+00:07:38,416 --> 00:07:39,960
+Vamos voltar ao trabalho.
+
+124
+00:07:56,601 --> 00:07:59,271
+GOVERNO EM RUÍNAS
+
+125
+00:08:02,565 --> 00:08:04,276
+Senhor, pare aí.
+
+126
+00:08:04,359 --> 00:08:06,569
+Bom dia. O que houve?
+
+127
+00:08:06,653 --> 00:08:08,738
+-O que tem na mochila?
+-O quê?
+
+128
+00:08:09,406 --> 00:08:11,366
+Sua mochila. O que tem nela?
+
+129
+00:08:11,449 --> 00:08:13,660
+Coisas para o trabalho.
+
+130
+00:08:13,743 --> 00:08:15,537
+-Onde trabalha?
+-Papéis e tal.
+
+131
+00:08:15,620 --> 00:08:17,372
+Trabalho na Casa Branca.
+
+132
+00:08:17,455 --> 00:08:19,166
+Sério? Na Casa Branca?
+
+133
+00:08:19,249 --> 00:08:20,792
+Sabe, onde o presidente dorme.
+
+134
+00:08:20,875 --> 00:08:21,876
+Está bancando o espertinho?
+
+135
+00:08:22,794 --> 00:08:24,546
+Quero saber por que me parou.
+
+136
+00:08:24,629 --> 00:08:26,714
+Diga onde mora e nos mostre
+a identidade primeiro.
+
+137
+00:08:28,841 --> 00:08:29,842
+Eu moro ali.
+
+138
+00:08:29,926 --> 00:08:34,931
+É frio e apertado, mas posso ir a pé
+pra academia, então é bom.
+
+139
+00:08:40,520 --> 00:08:41,938
+"Seth Wright."
+
+140
+00:08:42,772 --> 00:08:43,815
+É seu nome verdadeiro?
+
+141
+00:08:43,898 --> 00:08:45,483
+Segundo a minha mãe.
+
+142
+00:08:46,609 --> 00:08:47,777
+Keith.
+
+143
+00:08:49,029 --> 00:08:51,823
+Parece em ordem.
+Obrigado por sua cooperação, Sr. Wright.
+
+144
+00:08:51,906 --> 00:08:53,366
+Obrigado.
+
+145
+00:08:54,034 --> 00:08:56,619
+Sim. Cuide-se.
+
+146
+00:09:03,000 --> 00:09:05,712
+Preciso ir. Diga pra mãe que eu a amo.
+
+147
+00:09:06,338 --> 00:09:08,881
+Certo, membros do gabinete.
+Que tal Blanchard?
+
+148
+00:09:08,965 --> 00:09:10,300
+-Estadual?
+-É qualificado.
+
+149
+00:09:10,383 --> 00:09:11,426
+Três anos como suplente.
+
+150
+00:09:11,509 --> 00:09:13,636
+Também tem
+duas contas secretas no Facebook
+
+151
+00:09:13,720 --> 00:09:15,722
+e afinidade por babás universitárias.
+
+152
+00:09:15,805 --> 00:09:17,349
+Acho melhor Garfield.
+
+153
+00:09:17,432 --> 00:09:18,600
+Não, pense bem.
+
+154
+00:09:18,683 --> 00:09:21,269
+Ele tem muitos inimigos no Capitólio.
+
+155
+00:09:21,353 --> 00:09:24,106
+Odeio ter de dizer,
+mas não há mais Capitólio.
+
+156
+00:09:27,234 --> 00:09:29,652
+Meu Deus. Não há mais Capitólio.
+
+157
+00:09:29,736 --> 00:09:31,571
+Algo aconteceu em Michigan.
+
+158
+00:09:32,530 --> 00:09:33,531
+O quê?
+
+159
+00:09:35,825 --> 00:09:37,077
+Senhor presidente.
+
+160
+00:09:37,160 --> 00:09:39,329
+Não precisa se levantar
+sempre que eu entro.
+
+161
+00:09:39,412 --> 00:09:40,663
+Não sou a rainha.
+
+162
+00:09:40,747 --> 00:09:43,083
+Não, senhor. Quase não há semelhança.
+
+163
+00:09:43,625 --> 00:09:46,669
+Desculpe interromper. Vim pedir desculpas.
+
+164
+00:09:46,753 --> 00:09:47,754
+Desculpas?
+
+165
+00:09:47,837 --> 00:09:50,548
+Ontem à noite,
+você escreveu um ótimo discurso.
+
+166
+00:09:50,632 --> 00:09:51,674
+Hoje parece
+
+167
+00:09:51,758 --> 00:09:54,177
+que a imprensa queria
+que outra pessoa o tivesse feito.
+
+168
+00:09:56,262 --> 00:10:01,142
+Senhor presidente,
+talvez o país ainda não esteja pronto.
+
+169
+00:10:01,226 --> 00:10:04,312
+Para aceitar alguém.
+Mesmo com o melhor discurso do mundo.
+
+170
+00:10:04,396 --> 00:10:05,938
+Talvez.
+
+171
+00:10:06,022 --> 00:10:08,566
+Senhor presidente. Precisa ver uma coisa.
+
+172
+00:10:08,650 --> 00:10:12,154
+<i>A polícia está impondo toque de recolher</i>
+<i>em bairros muçulmanos</i>
+
+173
+00:10:12,237 --> 00:10:14,489
+<i>e forçando os residentes a obedecer</i>
+<i>sob pena de prisão.</i>
+
+174
+00:10:14,572 --> 00:10:15,823
+BAIRROS MUÇULMANOS SENDO ATACADOS
+
+175
+00:10:15,907 --> 00:10:18,785
+<i>São cidadãos que nunca cometeram crimes,</i>
+
+176
+00:10:18,868 --> 00:10:21,871
+<i>que estão sendo atacados simplesmente</i>
+<i>por suas crenças religiosas.</i>
+
+177
+00:10:21,954 --> 00:10:26,543
+<i>A União de Liberdade Civil Americana</i>
+<i>denunciou as ações da polícia de Dearborn</i>
+
+178
+00:10:26,626 --> 00:10:27,877
+<i>como violação...</i>
+
+179
+00:10:27,960 --> 00:10:30,672
+-Senhor presidente. Estamos prontos.
+<i>-...dos direitos civis.</i>
+
+180
+00:10:30,755 --> 00:10:32,924
+<i>Mas após o ataque no Capitólio,</i>
+
+181
+00:10:33,007 --> 00:10:37,011
+<i>alguns dizem</i>
+<i>que é disso que o país precisa.</i>
+
+182
+00:10:39,514 --> 00:10:41,391
+-Governador?
+-Royce.
+
+183
+00:10:41,474 --> 00:10:43,726
+Governador Royce. Como está?
+
+184
+00:10:43,810 --> 00:10:45,102
+Como esperado.
+
+185
+00:10:45,187 --> 00:10:46,813
+Como pode imaginar,
+há muito que fazer aqui.
+
+186
+00:10:46,896 --> 00:10:48,190
+Sei e quero ajudar.
+
+187
+00:10:48,273 --> 00:10:52,277
+Vi notícias que a polícia de Dearborn
+está pressionando a comunidade muçulmana.
+
+188
+00:10:53,027 --> 00:10:54,446
+Estou ciente disso.
+
+189
+00:10:54,529 --> 00:10:56,823
+Como eu disse,
+queremos ajudá-lo a deter a polícia.
+
+190
+00:10:56,906 --> 00:10:59,242
+Por que detê-los?
+Estão seguindo minhas ordens.
+
+191
+00:11:00,076 --> 00:11:01,203
+-Suas ordens?
+<i>-Isso mesmo.</i>
+
+192
+00:11:01,286 --> 00:11:04,914
+<i>Se não sabe, tenho a maior população</i>
+<i>muçulmana do país aqui.</i>
+
+193
+00:11:04,997 --> 00:11:07,709
+Isso não significa
+que estejam fazendo algo de errado.
+
+194
+00:11:07,792 --> 00:11:10,212
+Mas aposto que sabem quem está.
+
+195
+00:11:11,296 --> 00:11:14,340
+Não pode atacar gente inocente
+porque está com medo.
+
+196
+00:11:14,424 --> 00:11:17,051
+-Tem a responsabilidade...
+<i>-Com meus cidadãos.</i>
+
+197
+00:11:17,134 --> 00:11:20,430
+E minha prioridade é
+garantir a segurança deles.
+
+198
+00:11:20,513 --> 00:11:23,683
+Algo que Washington,
+se é que tal lugar ainda existe,
+
+199
+00:11:23,766 --> 00:11:26,060
+<i>provou ser incapaz de fazer.</i>
+
+200
+00:11:26,143 --> 00:11:29,522
+-O governo federal...
+<i>-Foi efetivamente extinto ontem.</i>
+
+201
+00:11:29,606 --> 00:11:33,025
+Não há Congresso. Não há Suprema Corte.
+
+202
+00:11:33,109 --> 00:11:35,987
+Sou a maior autoridade
+para o povo de Michigan,
+
+203
+00:11:36,070 --> 00:11:37,780
+e você não tem autoridade sobre mim.
+
+204
+00:11:38,323 --> 00:11:40,283
+Com todo respeito, sou o presidente.
+
+205
+00:11:40,992 --> 00:11:43,786
+Não é o meu.
+Então, com licença, Sr. Kirkman.
+
+206
+00:11:43,870 --> 00:11:46,248
+Enquanto está ocupado aprendendo
+a ser presidente,
+
+207
+00:11:46,331 --> 00:11:48,291
+tenho de proteger dez milhões de cidadãos.
+
+208
+00:11:50,960 --> 00:11:54,631
+Governador? Governador Royce? Alô...
+
+209
+00:12:12,106 --> 00:12:14,233
+Senhor, mensagens de apoio
+
+210
+00:12:14,317 --> 00:12:16,736
+continuam a chegar
+de líderes de todo o mundo.
+
+211
+00:12:16,819 --> 00:12:19,447
+Deveríamos ver quais ligações
+retornará pessoalmente.
+
+212
+00:12:19,531 --> 00:12:21,658
+Acho que todas elas. Quantas são?
+
+213
+00:12:21,741 --> 00:12:23,868
+Cerca de 175, senhor.
+
+214
+00:12:23,951 --> 00:12:26,788
+-Talvez devêssemos priorizar.
+-Senhor presidente.
+
+215
+00:12:26,871 --> 00:12:29,749
+Saiba que não ligo
+para o que os eruditos dizem.
+
+216
+00:12:29,832 --> 00:12:32,084
+Fiquei emocionada com suas palavras ontem.
+
+217
+00:12:32,168 --> 00:12:34,712
+Obrigado. Desculpe, quem é você?
+
+218
+00:12:34,796 --> 00:12:38,090
+Senhor presidente,
+é a congressista Kimble Hookstraten.
+
+219
+00:12:38,174 --> 00:12:39,216
+Congressista?
+
+220
+00:12:39,301 --> 00:12:42,679
+Sim, eu fui
+a outra sobrevivente designada de ontem.
+
+221
+00:12:44,013 --> 00:12:45,515
+Outra sobrevivente...
+
+222
+00:12:47,224 --> 00:12:50,144
+-Nos deem licença. Por favor.
+-Obrigada, senhor.
+
+223
+00:12:51,688 --> 00:12:53,648
+-Há dois sobreviventes designados?
+-Sim.
+
+224
+00:12:53,731 --> 00:12:56,901
+Os republicanos escolheram alguém
+para ficar fora do Estado da União.
+
+225
+00:12:56,984 --> 00:12:59,028
+Para serem representados. Esperto.
+
+226
+00:12:59,111 --> 00:13:00,697
+O que sabe sobre Hookstraten?
+
+227
+00:13:00,780 --> 00:13:04,867
+Você trabalhou com o senador Carlyle
+no comitê de recursos, certo?
+
+228
+00:13:04,951 --> 00:13:06,453
+-Perseguidor.
+-Eu...
+
+229
+00:13:06,536 --> 00:13:09,288
+Ela é muito esperta.
+Terceira geração em Washington.
+
+230
+00:13:09,372 --> 00:13:12,625
+Nove anos como líder republicana.
+Sabe detalhes sobre todos na cidade.
+
+231
+00:13:12,709 --> 00:13:16,045
+Está dizendo que ela tem mais experiência
+que o presidente.
+
+232
+00:13:16,879 --> 00:13:19,256
+Venha, vamos ligar
+para o governador Royce.
+
+233
+00:13:21,926 --> 00:13:26,598
+Eram 435 deputados,
+cem senadores e nove juízes.
+
+234
+00:13:26,681 --> 00:13:28,891
+E agora somos dois.
+
+235
+00:13:28,975 --> 00:13:33,855
+Eu sei. Não sei se sinto vergonha
+ou gratidão por estar viva.
+
+236
+00:13:33,938 --> 00:13:35,732
+-Com pena.
+-Senhor?
+
+237
+00:13:35,815 --> 00:13:38,360
+Dos americanos,
+por terem a mim como líder.
+
+238
+00:13:38,443 --> 00:13:40,653
+Sejamos sinceros,
+os eruditos podem ter razão.
+
+239
+00:13:41,529 --> 00:13:45,450
+Senhor presidente.
+Sabe o que eu fiz esta manhã?
+
+240
+00:13:45,533 --> 00:13:48,703
+Chorei e depois orei.
+
+241
+00:13:48,786 --> 00:13:52,415
+E sabe quando foi a última vez
+que fiz essas duas coisas juntas?
+
+242
+00:13:52,499 --> 00:13:53,750
+Em 11 de setembro.
+
+243
+00:13:55,126 --> 00:13:57,837
+Ninguém achava que podíamos
+superar aquilo, mas superamos.
+
+244
+00:13:57,920 --> 00:14:01,048
+E ninguém acha que podemos superar isto,
+mas superaremos.
+
+245
+00:14:01,716 --> 00:14:05,302
+Esta é a sua casa agora,
+então faça dela sua.
+
+246
+00:14:06,303 --> 00:14:08,556
+Se precisar de alguma coisa, peça.
+
+247
+00:14:08,640 --> 00:14:13,227
+Republicano, democrata, independente.
+Isso não importa mais.
+
+248
+00:14:13,310 --> 00:14:14,979
+Somos todos americanos hoje.
+
+249
+00:14:17,649 --> 00:14:19,108
+Obrigado, congressista.
+
+250
+00:14:20,443 --> 00:14:21,778
+Kimble, por favor.
+
+251
+00:14:21,861 --> 00:14:23,112
+Está bem.
+
+252
+00:14:24,614 --> 00:14:27,033
+Kimble, hoje à tarde,
+
+253
+00:14:27,116 --> 00:14:30,161
+vou ao local do Capitólio
+agradecer o pessoal de resgate.
+
+254
+00:14:30,244 --> 00:14:33,039
+Se fizéssemos isso juntos,
+seria uma boa demonstração de união.
+
+255
+00:14:33,122 --> 00:14:34,624
+O que acha?
+
+256
+00:14:34,707 --> 00:14:37,835
+Seria uma honra.
+Obrigada, senhor presidente.
+
+257
+00:14:37,919 --> 00:14:39,045
+Obrigado.
+
+258
+00:15:19,669 --> 00:15:22,254
+Ronnie. É a munição não detonada?
+
+259
+00:15:22,338 --> 00:15:23,756
+Sim.
+
+260
+00:15:23,840 --> 00:15:25,800
+O que ela nos diz?
+
+261
+00:15:25,883 --> 00:15:29,470
+Mina antitanque russa.
+Provavelmente retirada do Afeganistão.
+
+262
+00:15:29,554 --> 00:15:32,974
+Mas veja aqui.
+A parte de dentro foi canibalizada.
+
+263
+00:15:33,057 --> 00:15:37,353
+Cirílico por fora,
+mas a trava é paquistanesa.
+
+264
+00:15:37,437 --> 00:15:40,898
+E o pino de disparo é mais novo.
+Provavelmente iraniano.
+
+265
+00:15:40,982 --> 00:15:44,819
+É consistente com o que vimos
+de alguns grupos jihadistas.
+
+266
+00:15:44,902 --> 00:15:48,197
+Podemos acusar quando tivermos
+resultados dos testes das outras bombas.
+
+267
+00:15:48,280 --> 00:15:51,618
+Certo, mas por que esta não detonou?
+
+268
+00:15:51,701 --> 00:15:52,869
+Várias razões.
+
+269
+00:15:52,952 --> 00:15:55,747
+A conexão russa
+com a iraniana não funciona.
+
+270
+00:15:55,830 --> 00:15:56,956
+A carga principal deteriorou.
+
+271
+00:15:57,039 --> 00:15:59,501
+Mas eu não eliminaria o velho erro humano.
+
+272
+00:15:59,584 --> 00:16:04,255
+Está dizendo que quem explodiu o Capitólio
+
+273
+00:16:04,338 --> 00:16:06,215
+não testou detonadores e fiação?
+
+274
+00:16:07,341 --> 00:16:08,425
+O que está sugerindo?
+
+275
+00:16:11,596 --> 00:16:12,972
+Hannah?
+
+276
+00:16:13,055 --> 00:16:17,309
+E se esta bomba não devia explodir?
+Se estava lá pra ser achada?
+
+277
+00:16:22,857 --> 00:16:24,526
+Não importa o que ele esteja fazendo.
+
+278
+00:16:24,609 --> 00:16:27,820
+O presidente dos EUA
+precisa falar com o governador.
+
+279
+00:16:27,904 --> 00:16:31,491
+Não estou pedindo, estou dizendo.
+E não vou ficar na espera.
+
+280
+00:16:32,241 --> 00:16:33,993
+Maldição.
+
+281
+00:16:34,076 --> 00:16:37,204
+Achei que teria mais gente qualificada
+para procurador-geral.
+
+282
+00:16:37,288 --> 00:16:38,956
+Que diabos devo dizer?
+
+283
+00:16:39,040 --> 00:16:40,542
+Isso é coisa de escritor?
+
+284
+00:16:40,625 --> 00:16:43,419
+Quero achar um jeito
+de nos unir com os comentários de Kirkman,
+
+285
+00:16:43,503 --> 00:16:45,755
+mas Michigan deve ser só o começo.
+
+286
+00:16:45,838 --> 00:16:47,089
+O mundo está em ruínas.
+
+287
+00:16:47,757 --> 00:16:49,383
+Não ponha isso no discurso.
+
+288
+00:16:49,466 --> 00:16:52,804
+Sim, ainda estou aqui. Inacreditável.
+
+289
+00:16:52,887 --> 00:16:54,096
+Gosto de Wynbrandt.
+
+290
+00:16:54,180 --> 00:16:58,267
+Fez faculdade à noite.
+Estudou Direito. Bom homem de família.
+
+291
+00:16:58,350 --> 00:17:00,436
+Massey é o nosso cara.
+
+292
+00:17:00,520 --> 00:17:04,315
+Trabalhou para Thomas. Estudou em Yale.
+Editor do <i>Law Journal.</i>
+
+293
+00:17:04,398 --> 00:17:06,400
+Não. Pra você só importa
+o que está no papel.
+
+294
+00:17:06,483 --> 00:17:09,696
+Eu ouvi Wynbrandt discursar.
+Ele tem bons valores.
+
+295
+00:17:09,779 --> 00:17:11,447
+Emily, o governador de Michigan
+
+296
+00:17:11,531 --> 00:17:13,950
+está dizendo
+que seu estado é uma nação soberana.
+
+297
+00:17:14,033 --> 00:17:15,910
+Não temos tempo para valores.
+
+298
+00:17:16,661 --> 00:17:19,330
+Também não devo pôr no discurso, certo?
+
+299
+00:17:19,413 --> 00:17:22,750
+O governador Royce falou o quê?
+Que é a maior autoridade?
+
+300
+00:17:22,834 --> 00:17:25,461
+Foi o que ele disse. E foi decisivo.
+
+301
+00:17:26,253 --> 00:17:27,922
+Depois desligou o telefone na minha cara.
+
+302
+00:17:28,005 --> 00:17:30,925
+Ele não pode fazer isso.
+Ele tem a obrigação constitucional...
+
+303
+00:17:31,008 --> 00:17:34,136
+Não entende, Alex?
+Royce quer eliminar a Constituição.
+
+304
+00:17:34,220 --> 00:17:35,680
+E não é o único.
+
+305
+00:17:35,763 --> 00:17:36,973
+Não pode deixar.
+
+306
+00:17:37,056 --> 00:17:38,683
+Confie em mim, não deixarei.
+
+307
+00:17:38,766 --> 00:17:41,310
+Os advogados estão vindo
+da Procuradoria-Geral.
+
+308
+00:17:41,393 --> 00:17:44,021
+Vamos ver nossas opções legais
+e cuidaremos disso.
+
+309
+00:17:47,149 --> 00:17:48,610
+Como você está?
+
+310
+00:17:50,236 --> 00:17:52,238
+Falei com Duncan.
+Os tribunais estão fechados.
+
+311
+00:17:52,321 --> 00:17:55,992
+Mercados, bancos,
+escolas, aeroportos. Tudo.
+
+312
+00:17:56,075 --> 00:18:00,496
+Metade dos sócios juniores da firma
+está pensando em sair de Washington.
+
+313
+00:18:02,081 --> 00:18:03,207
+Como está Penny?
+
+314
+00:18:05,084 --> 00:18:07,086
+Acha que ela entende o que está havendo?
+
+315
+00:18:07,169 --> 00:18:09,463
+Além do fato de que agora moramos
+na Casa Branca,
+
+316
+00:18:09,546 --> 00:18:13,843
+o pai dela é presidente
+e ela está dormindo em uma cama enorme...
+
+317
+00:18:13,926 --> 00:18:17,221
+Não, não mesmo.
+Tenho tentado mantê-la longe da TV.
+
+318
+00:18:17,304 --> 00:18:18,514
+E Leo?
+
+319
+00:18:18,598 --> 00:18:21,643
+Ficou no quarto dele o dia todo
+com a porta fechada.
+
+320
+00:18:21,726 --> 00:18:22,935
+Então está agindo normal.
+
+321
+00:18:23,811 --> 00:18:24,937
+Basicamente.
+
+322
+00:18:25,897 --> 00:18:27,523
+Acha que podemos...
+
+323
+00:18:28,775 --> 00:18:32,528
+por cinco minutos, fingir
+que isto não está acontecendo?
+
+324
+00:18:36,282 --> 00:18:37,950
+Isso é difícil na Sala Oval.
+
+325
+00:18:47,584 --> 00:18:49,378
+Desculpe. Eu disse que estava ocupado.
+
+326
+00:18:49,461 --> 00:18:51,505
+Tudo bem. Como posso ajudá-lo, general?
+
+327
+00:18:51,588 --> 00:18:56,052
+Receio que é algo que temos de discutir
+em particular, senhor presidente.
+
+328
+00:18:56,135 --> 00:18:57,261
+É a minha esposa.
+
+329
+00:18:58,012 --> 00:19:00,848
+Sua esposa não tem autorização.
+
+330
+00:19:01,641 --> 00:19:03,434
+Claro. Eu saio.
+
+331
+00:19:04,351 --> 00:19:05,519
+Senhora.
+
+332
+00:19:09,899 --> 00:19:11,233
+O que foi?
+
+333
+00:19:11,317 --> 00:19:13,736
+Acabei de falar
+com o diretor assistente do FBI, Atwood.
+
+334
+00:19:13,820 --> 00:19:15,487
+Os resultados chegaram.
+
+335
+00:19:15,571 --> 00:19:19,325
+Identificaram positivamente os explosivos.
+
+336
+00:19:19,408 --> 00:19:20,743
+Sabemos quem explodiu o Capitólio.
+
+337
+00:19:22,787 --> 00:19:25,456
+Al-Sakar gosta de ataques
+com muitas vítimas.
+
+338
+00:19:25,539 --> 00:19:27,249
+Um tanque de armazenagem
+de cloro em Manila.
+
+339
+00:19:27,333 --> 00:19:30,127
+Gás sarin
+na nossa base militar em Nairóbi.
+
+340
+00:19:30,211 --> 00:19:33,089
+A análise preliminar
+do Centro de Explosivos do FBI
+
+341
+00:19:33,172 --> 00:19:36,217
+nos informa que o resíduo encontrado
+nos escombros do Capitólio
+
+342
+00:19:36,300 --> 00:19:40,387
+é consistente com bombas
+usadas por al-Sakar no passado.
+
+343
+00:19:40,471 --> 00:19:45,017
+Senhor, é hora de acusar publicamente
+al-Sakar como culpado do crime
+
+344
+00:19:45,101 --> 00:19:46,728
+e tomar medidas apropriadas.
+
+345
+00:19:46,811 --> 00:19:48,104
+Certo. Antes disso,
+
+346
+00:19:48,187 --> 00:19:52,274
+o FBI está absolutamente certo
+de que al-Sakar foi o responsável?
+
+347
+00:19:52,358 --> 00:19:54,068
+Setenta e cinco por cento, senhor.
+
+348
+00:19:54,151 --> 00:19:55,277
+Só 75%?
+
+349
+00:19:55,361 --> 00:19:57,654
+É o mais alto possível em situações assim.
+
+350
+00:19:59,365 --> 00:20:01,617
+Mal daria pra passar
+um teste com 75%, general.
+
+351
+00:20:01,701 --> 00:20:03,244
+Isto não é um teste. É guerra.
+
+352
+00:20:03,327 --> 00:20:05,830
+Mais razão para ter certeza, não acha?
+
+353
+00:20:05,913 --> 00:20:08,082
+Senhor, sei que começamos com o pé errado.
+
+354
+00:20:08,165 --> 00:20:11,377
+Fez um bom trabalho contendo
+os iranianos ontem à noite,
+
+355
+00:20:11,460 --> 00:20:13,755
+mas estou dizendo
+que o país está em risco,
+
+356
+00:20:13,838 --> 00:20:15,131
+e conversa não adianta.
+
+357
+00:20:15,214 --> 00:20:19,301
+Os EUA exigem ação e estou lhe dando
+um inimigo que podemos matar.
+
+358
+00:20:20,302 --> 00:20:23,472
+Acha que não quero retaliar
+contra quem fez isto?
+
+359
+00:20:23,555 --> 00:20:25,808
+Perdi colegas, amigos, gente que amo.
+
+360
+00:20:25,892 --> 00:20:28,185
+Quero achar cada indivíduo envolvido,
+
+361
+00:20:28,269 --> 00:20:31,188
+do planejamento à execução,
+e desmembrá-los.
+
+362
+00:20:31,272 --> 00:20:34,191
+É por isso que preciso saber
+exatamente quem fez isso.
+
+363
+00:20:35,735 --> 00:20:40,531
+Volte com mais de 75%
+e eu mesmo atiro os mísseis.
+
+364
+00:20:40,614 --> 00:20:42,909
+-Quanto mais?
+-Vinte e cinco, droga!
+
+365
+00:20:47,121 --> 00:20:51,876
+O total de mortes estava acima de 900
+há 30 minutos.
+
+366
+00:20:51,959 --> 00:20:55,504
+Isso inclui o presidente,
+o vice, o gabinete,
+
+367
+00:20:55,587 --> 00:21:00,009
+os que pudemos identificar
+do Congresso e da Suprema Corte.
+
+368
+00:21:00,092 --> 00:21:03,512
+E a morte do diretor Jacobs do FBI
+também foi confirmada.
+
+369
+00:21:05,264 --> 00:21:07,975
+Nossa teoria é ser uma obra de al-Sakar.
+
+370
+00:21:08,059 --> 00:21:10,644
+Como sabemos,
+é a mais recente ramificação do al-Qaeda,
+
+371
+00:21:10,727 --> 00:21:15,316
+estão dispersos pela África do Norte
+o que torna difícil de rastrear.
+
+372
+00:21:15,399 --> 00:21:19,070
+Então, precisamos ser astutos,
+precisamos contatar suas fontes,
+
+373
+00:21:19,153 --> 00:21:20,154
+distribuir alguma grana.
+
+374
+00:21:20,237 --> 00:21:23,699
+Façam o que for necessário
+para confirmar esta ligação.
+
+375
+00:21:23,783 --> 00:21:25,201
+E o crédito?
+
+376
+00:21:25,284 --> 00:21:26,327
+Como assim?
+
+377
+00:21:26,410 --> 00:21:29,621
+-Al-Sakar assumiu responsabilidade?
+-Não.
+
+378
+00:21:29,705 --> 00:21:33,667
+Mas levou meses para bin Laden
+assumir a responsabilidade pelas Torres...
+
+379
+00:21:35,127 --> 00:21:37,171
+É só por enquanto. Agente Wells.
+
+380
+00:21:43,760 --> 00:21:44,971
+Como está?
+
+381
+00:21:46,096 --> 00:21:47,389
+Como todo mundo, acho.
+
+382
+00:21:50,101 --> 00:21:54,646
+Acabei de vir de Andrews.
+A bomba não detonada que achamos
+
+383
+00:21:54,730 --> 00:21:56,899
+pode não ser o que parece.
+
+384
+00:21:56,983 --> 00:21:58,275
+Está bem, explique.
+
+385
+00:21:58,359 --> 00:22:00,903
+Certo. E se quisessem que a achássemos?
+
+386
+00:22:00,987 --> 00:22:03,739
+Para que parecesse al-Sakar
+e não as outras opções.
+
+387
+00:22:04,323 --> 00:22:05,741
+Tem como confirmar sua teoria?
+
+388
+00:22:05,825 --> 00:22:09,036
+Bem, minhas teorias foram boas
+para o senhor em 2009, no Iraque.
+
+389
+00:22:09,120 --> 00:22:10,537
+É diferente, e sabe disso.
+
+390
+00:22:10,621 --> 00:22:14,083
+E já falei com o general Cochrane
+e os chefes do Estado-Maior.
+
+391
+00:22:14,166 --> 00:22:16,752
+Mas ainda vai falar com o presidente?
+
+392
+00:22:16,836 --> 00:22:18,921
+Melhor passar todas as teorias, não acha?
+
+393
+00:22:20,882 --> 00:22:24,676
+E se não foi al-Sakar,
+quem explodiu o Capitólio?
+
+394
+00:22:24,760 --> 00:22:28,305
+Ainda não sei, e isso me assusta.
+
+395
+00:22:31,517 --> 00:22:32,726
+Obrigado, Mike.
+
+396
+00:22:32,809 --> 00:22:34,770
+O que devo fazer? Devo sorrir?
+
+397
+00:22:34,854 --> 00:22:36,647
+Porque vou querer chorar...
+
+398
+00:22:36,730 --> 00:22:38,399
+-Seja você mesma.
+-Eu sei! É só...
+
+399
+00:22:38,482 --> 00:22:41,694
+Não quero decepcioná-lo.
+Não quero decepcionar o país.
+
+400
+00:22:41,777 --> 00:22:44,321
+E odeio a roupa que escolheram pra mim.
+
+401
+00:22:44,405 --> 00:22:46,991
+Eu pareço um sofá da Casa Branca.
+
+402
+00:22:47,074 --> 00:22:48,200
+É para caber sobre o colete.
+
+403
+00:22:48,284 --> 00:22:50,327
+Mike, é mesmo necessário?
+
+404
+00:22:50,411 --> 00:22:53,080
+Duas formas que sua família
+pode sair da Casa Branca.
+
+405
+00:22:53,164 --> 00:22:56,500
+Pela frente com colete à prova de balas
+e carreata de 13 carros blindados,
+
+406
+00:22:56,583 --> 00:22:59,378
+ou pelos fundos em um carro normal
+e boné de beisebol.
+
+407
+00:23:00,004 --> 00:23:01,130
+Me dê o casaco.
+
+408
+00:23:01,213 --> 00:23:02,548
+Papai.
+
+409
+00:23:02,631 --> 00:23:04,383
+Ei, pequena. Como está?
+
+410
+00:23:07,219 --> 00:23:08,262
+O que está vestindo?
+
+411
+00:23:08,345 --> 00:23:11,182
+Isto? É para me proteger
+no caso de eu cair.
+
+412
+00:23:11,265 --> 00:23:13,475
+Pode me dar um soco e não vou sentir nada.
+
+413
+00:23:14,018 --> 00:23:15,019
+Vamos, experimente.
+
+414
+00:23:18,355 --> 00:23:19,523
+Venha aqui.
+
+415
+00:23:20,566 --> 00:23:21,858
+Eu te amo muito.
+
+416
+00:23:24,361 --> 00:23:25,487
+Está na hora, senhor.
+
+417
+00:23:25,571 --> 00:23:28,490
+-Certo.
+-Espere. Cadê o Leo?
+
+418
+00:23:28,574 --> 00:23:30,742
+Relaxe, mãe, estou aqui.
+
+419
+00:23:30,826 --> 00:23:32,494
+Preciso que cuide da sua irmã.
+
+420
+00:23:32,578 --> 00:23:35,289
+E a mantenha longe da TV, certo?
+
+421
+00:23:35,372 --> 00:23:37,958
+Qualquer noticiário é real demais,
+ela não precisa ver.
+
+422
+00:23:38,792 --> 00:23:40,502
+Entendeu?
+
+423
+00:23:40,586 --> 00:23:41,963
+Sim, entendo.
+
+424
+00:23:44,173 --> 00:23:46,092
+Senhor, não vai usar uma gravata?
+
+425
+00:23:46,175 --> 00:23:47,634
+Não é uma ocasião formal, Aaron.
+
+426
+00:23:48,427 --> 00:23:49,720
+Certo, vamos.
+
+427
+00:23:50,637 --> 00:23:52,181
+Fênix está pronto e a caminho.
+
+428
+00:23:53,765 --> 00:23:56,935
+Mike, só por curiosidade, o que era antes?
+
+429
+00:23:57,019 --> 00:23:58,354
+Senhor?
+
+430
+00:23:58,437 --> 00:24:01,357
+Meu codinome,
+quando era secretário de URH? Qual era?
+
+431
+00:24:02,649 --> 00:24:04,526
+Óculos, senhor.
+
+432
+00:24:14,245 --> 00:24:16,580
+Deixamos recado com o governador
+há três horas.
+
+433
+00:24:16,663 --> 00:24:19,333
+Sim. Por favor, diga a ele. De novo.
+
+434
+00:24:19,416 --> 00:24:22,003
+Esqueça a política.
+Ele é simplesmente grosseiro.
+
+435
+00:24:22,086 --> 00:24:24,046
+Que diabos é o problema das pessoas?
+
+436
+00:24:24,129 --> 00:24:25,297
+Estão com medo, Aaron.
+
+437
+00:24:25,381 --> 00:24:27,549
+O Capitólio era um símbolo de força,
+
+438
+00:24:27,633 --> 00:24:30,177
+e agora é um monte de cinzas.
+
+439
+00:24:30,261 --> 00:24:31,470
+E todos que conhecemos se foram.
+
+440
+00:24:31,553 --> 00:24:34,015
+Você imagina que hoje, de todos os dias,
+
+441
+00:24:34,098 --> 00:24:36,850
+as pessoas fingiriam ser
+seres humanos decentes.
+
+442
+00:24:36,933 --> 00:24:38,102
+Por que está tão surpreso?
+
+443
+00:24:39,061 --> 00:24:42,356
+A tragédia faz as pessoas gostarem
+dos outros ou terem medo deles.
+
+444
+00:24:44,233 --> 00:24:46,568
+O governador não é diferente.
+Ele só foi eleito.
+
+445
+00:24:57,538 --> 00:24:59,748
+Obrigado por vir comigo.
+
+446
+00:24:59,831 --> 00:25:01,958
+Claro.
+
+447
+00:25:04,045 --> 00:25:05,171
+O quê?
+
+448
+00:25:06,255 --> 00:25:09,508
+Ontem, me pediram minha demissão
+e conversamos sobre ir para Montreal.
+
+449
+00:25:12,136 --> 00:25:16,265
+Agora estou tentando remontar
+o governo americano.
+
+450
+00:25:16,348 --> 00:25:18,892
+Impedir que o país se destrua.
+
+451
+00:25:19,518 --> 00:25:21,103
+Que dia.
+
+452
+00:25:23,522 --> 00:25:24,690
+É.
+
+453
+00:25:25,816 --> 00:25:27,776
+A carreata do presidente chegando!
+
+454
+00:25:41,039 --> 00:25:42,541
+Está pronto para isso?
+
+455
+00:25:44,668 --> 00:25:47,003
+Como alguém pode estar pronto para isso?
+
+456
+00:26:19,286 --> 00:26:20,371
+Meu Deus.
+
+457
+00:26:28,254 --> 00:26:29,296
+Senhor.
+
+458
+00:26:30,839 --> 00:26:31,882
+Senhor presidente.
+
+459
+00:26:33,550 --> 00:26:34,593
+Tom?
+
+460
+00:26:38,555 --> 00:26:40,932
+Senhor presidente.
+Jason Atwood, diretor assistente.
+
+461
+00:26:41,016 --> 00:26:42,809
+Temos informações para o senhor.
+
+462
+00:26:42,893 --> 00:26:43,977
+Está bem.
+
+463
+00:26:46,355 --> 00:26:48,274
+Análise preliminar do laboratório
+
+464
+00:26:48,357 --> 00:26:51,902
+indica que o resíduo de explosivo achado
+nos escombros
+
+465
+00:26:51,985 --> 00:26:54,738
+é chamado ciclonita,
+também conhecido como RDX.
+
+466
+00:26:54,821 --> 00:26:57,324
+Acreditamos que foi misturado
+com um plastificante.
+
+467
+00:26:57,408 --> 00:26:59,701
+O que maximizou a destruição
+
+468
+00:26:59,785 --> 00:27:01,870
+e causou o desabamento do prédio?
+
+469
+00:27:01,953 --> 00:27:03,038
+Exato.
+
+470
+00:27:03,121 --> 00:27:05,791
+-E al-Sakar tem acesso a RDX?
+-Sim, senhor.
+
+471
+00:27:05,874 --> 00:27:07,334
+É a assinatura deles.
+
+472
+00:27:07,418 --> 00:27:10,629
+E a bomba que acharam?
+Por que não explodiu?
+
+473
+00:27:10,712 --> 00:27:13,882
+Acreditamos que foi erro humano.
+Ainda estamos examinando.
+
+474
+00:27:13,965 --> 00:27:16,593
+Certo. Obrigado, diretor assistente.
+
+475
+00:27:16,677 --> 00:27:19,763
+Obrigado, senhor presidente.
+Nós o manteremos informado.
+
+476
+00:27:26,853 --> 00:27:28,605
+Mike, pegue o meu casaco.
+
+477
+00:27:31,650 --> 00:27:33,819
+Senhor, preciso que fique com o colete.
+
+478
+00:27:33,902 --> 00:27:39,533
+Mike, viemos projetar confiança.
+Acha que o colete projeta confiança?
+
+479
+00:27:43,579 --> 00:27:44,580
+Obrigado.
+
+480
+00:27:47,875 --> 00:27:49,960
+-Ganhei.
+-Trapaceou. Conheço seu jogo.
+
+481
+00:27:50,043 --> 00:27:51,127
+Não trapaceei!
+
+482
+00:27:52,796 --> 00:27:55,173
+-Preciso atender.
+-Devia cuidar de mim.
+
+483
+00:27:55,257 --> 00:27:57,759
+É a Casa Branca, Penny. Está em segurança.
+
+484
+00:28:07,185 --> 00:28:09,313
+<i>Um momento soturno...</i>
+
+485
+00:28:09,396 --> 00:28:11,022
+PRESIDENTE KIRKMAN VISITA
+O LOCAL DO CAPITÓLIO
+
+486
+00:28:12,148 --> 00:28:15,694
+<i>...enquanto ele faz a visita</i>
+<i>ao local do ataque terrorista.</i>
+
+487
+00:28:15,777 --> 00:28:17,028
+<i>Ficaremos aqui...</i>
+
+488
+00:28:20,198 --> 00:28:23,201
+-Muitas câmeras, Aaron.
+-É o presidente, senhor.
+
+489
+00:28:23,285 --> 00:28:25,621
+-Com licença. Pode me emprestar?
+-Sim, senhor.
+
+490
+00:28:27,205 --> 00:28:29,165
+Obrigado. Só apertar aqui?
+
+491
+00:28:37,424 --> 00:28:39,801
+Olá, meu nome é Tom Kirkman.
+
+492
+00:28:39,885 --> 00:28:43,222
+Ontem à noite, aproximadamente às 22h30,
+
+493
+00:28:43,305 --> 00:28:46,433
+fiz o juramento
+como presidente dos Estados Unidos.
+
+494
+00:28:46,517 --> 00:28:49,353
+Vim aqui para agradecer a cada um de vocês
+
+495
+00:28:49,436 --> 00:28:52,147
+pelo trabalho que estão fazendo aqui,
+
+496
+00:28:52,231 --> 00:28:54,107
+e lhes dizer que o país está em luto.
+
+497
+00:28:55,567 --> 00:28:56,568
+Isso...
+
+498
+00:28:58,862 --> 00:29:00,155
+Isso foi um ato de loucura.
+
+499
+00:29:01,698 --> 00:29:03,742
+Isso foi um ataque terrorista.
+
+500
+00:29:05,827 --> 00:29:08,204
+Ontem, vimos o pior da humanidade.
+
+501
+00:29:09,665 --> 00:29:11,333
+Hoje, vejo o seu melhor.
+
+502
+00:29:11,417 --> 00:29:15,337
+Sei que estão todos cansados e assustados.
+
+503
+00:29:15,421 --> 00:29:18,799
+Sei que querem respostas, alguém
+para culpar, alguém contra quem lutar.
+
+504
+00:29:18,882 --> 00:29:21,217
+-Saibam que também quero isso.
+-O quê?
+
+505
+00:29:21,302 --> 00:29:22,636
+Apesar de parecer que hoje...
+
+506
+00:29:22,719 --> 00:29:23,762
+É Michigan.
+
+507
+00:29:24,888 --> 00:29:28,725
+...eu prometo a vocês, nos ergueremos
+de novo, melhores e mais fortes.
+
+508
+00:29:30,394 --> 00:29:32,479
+Por aqueles que perdemos,
+
+509
+00:29:32,563 --> 00:29:38,026
+nossos líderes, parentes, pessoas amadas,
+
+510
+00:29:38,109 --> 00:29:41,029
+eu juro a vocês,
+a morte deles não será em vão.
+
+511
+00:29:41,113 --> 00:29:43,156
+Vê o que está acontecendo em Michigan?
+
+512
+00:29:43,239 --> 00:29:46,827
+Este lugar onde estamos, aqui e agora,
+
+513
+00:29:46,910 --> 00:29:49,788
+será para sempre um local sagrado.
+
+514
+00:29:49,871 --> 00:29:52,624
+E devemos sempre
+
+515
+00:29:52,708 --> 00:29:56,587
+respeitar o incrível sacrifício
+que foi feito aqui.
+
+516
+00:29:56,670 --> 00:29:58,422
+Senhor presidente, tem algo a dizer
+
+517
+00:29:58,505 --> 00:30:00,757
+sobre o adolescente muçulmano
+espancado pela polícia?
+
+518
+00:30:00,841 --> 00:30:02,884
+O presidente não vai responder
+perguntas agora.
+
+519
+00:30:02,968 --> 00:30:06,054
+-Nenhuma resposta, presidente Kirkman?
+-Não ouvi a pergunta.
+
+520
+00:30:06,137 --> 00:30:08,181
+O adolescente muçulmano
+espancado pela polícia.
+
+521
+00:30:08,264 --> 00:30:09,308
+-Comentário?
+-O quê?
+
+522
+00:30:09,391 --> 00:30:11,101
+E a violação dos direitos civis?
+
+523
+00:30:11,184 --> 00:30:14,270
+A Casa Branca se preocupa com a violência
+contra muçulmanos?
+
+524
+00:30:14,355 --> 00:30:16,189
+Vai deixar americanos serem espancados?
+
+525
+00:30:16,272 --> 00:30:18,900
+-Mostre as mãos!
+-Não fiz nada de errado.
+
+526
+00:30:18,984 --> 00:30:20,736
+-Senhor, preciso que se afaste.
+-Arma!
+
+527
+00:30:24,990 --> 00:30:26,492
+Cubram e evacuem para o carro!
+
+528
+00:30:27,242 --> 00:30:29,620
+Tirem suas mãos dele.
+Ele não está fazendo nada.
+
+529
+00:30:29,703 --> 00:30:31,497
+É um celular!
+
+530
+00:30:32,789 --> 00:30:35,376
+-Repito, eu tenho Fênix.
+-Afaste-se!
+
+531
+00:30:42,633 --> 00:30:43,884
+Vai!
+
+532
+00:30:54,728 --> 00:30:56,062
+Ponha o governador Royce na linha.
+
+533
+00:30:56,146 --> 00:30:57,564
+Ele não atende a ligação.
+
+534
+00:30:57,648 --> 00:30:58,732
+Como assim?
+
+535
+00:30:58,815 --> 00:31:01,360
+Sabemos algo sobre o rapaz em Michigan?
+
+536
+00:31:01,443 --> 00:31:03,236
+Em cirurgia com hemorragia interna.
+
+537
+00:31:03,319 --> 00:31:04,530
+Sabe que ligamos. Não atende.
+
+538
+00:31:04,613 --> 00:31:07,198
+Quero falar com advogados
+da Procuradoria-Geral.
+
+539
+00:31:07,282 --> 00:31:08,909
+-O nome dele?
+-Danny Fayad, senhora.
+
+540
+00:31:08,992 --> 00:31:10,619
+-Quantos anos?
+-Temos candidatos.
+
+541
+00:31:10,702 --> 00:31:12,538
+-Pode ajudar.
+-Traga-os.
+
+542
+00:31:12,621 --> 00:31:14,247
+Sua filha precisa da senhora.
+
+543
+00:31:14,330 --> 00:31:15,957
+Certo, Tom.
+
+544
+00:31:16,041 --> 00:31:18,460
+O rapaz tem 17 anos.
+
+545
+00:31:19,586 --> 00:31:20,587
+A idade do Leo.
+
+546
+00:31:21,838 --> 00:31:23,715
+Penny precisa de mim. Tenho de ir.
+
+547
+00:31:26,927 --> 00:31:28,720
+Não preciso me explicar pra você.
+
+548
+00:31:28,804 --> 00:31:32,724
+Passei a informação mais relevante
+ao presidente.
+
+549
+00:31:32,808 --> 00:31:35,602
+Ou passou a ele
+o que os terroristas queriam.
+
+550
+00:31:35,686 --> 00:31:37,688
+Como ele pode liderar
+sem ter todos os fatos?
+
+551
+00:31:37,771 --> 00:31:39,898
+Você deveria ter me dado todos os fatos.
+
+552
+00:31:39,981 --> 00:31:44,528
+Não é que eu não acredite em você
+ou que não queira acreditar.
+
+553
+00:31:44,611 --> 00:31:49,199
+Alguém explodiu o Capitólio.
+Quem sabe o que mais é possível?
+
+554
+00:31:49,783 --> 00:31:54,580
+Além disso, temos na presidência
+o 11º na linha de sucessão.
+
+555
+00:31:54,663 --> 00:31:56,707
+Não posso ir a ele com especulações.
+
+556
+00:31:56,790 --> 00:32:02,463
+Então, se quer que eu conte a ele
+a sua teoria, por favor, prove-a.
+
+557
+00:32:05,340 --> 00:32:07,342
+A situação em Michigan
+está fora de controle.
+
+558
+00:32:07,426 --> 00:32:09,720
+Agora temos um adolescente
+em condição crítica.
+
+559
+00:32:09,803 --> 00:32:12,013
+Preciso saber
+as minhas opções legais agora.
+
+560
+00:32:12,097 --> 00:32:16,226
+Senhor presidente,
+pode invocar a Cláusula de Supremacia.
+
+561
+00:32:16,309 --> 00:32:17,478
+Dê uma ordem executiva
+
+562
+00:32:17,561 --> 00:32:20,939
+mandando o governador Royce
+fazer a polícia parar.
+
+563
+00:32:21,022 --> 00:32:23,817
+É uma má ideia.
+Ordens executivas são consideradas hostis.
+
+564
+00:32:23,900 --> 00:32:26,277
+-O que sugere?
+-Uma proclamação presidencial.
+
+565
+00:32:26,361 --> 00:32:29,656
+Que é nada mais
+que um gesto simbólico e vazio.
+
+566
+00:32:29,740 --> 00:32:30,824
+Parece fraco, senhor.
+
+567
+00:32:30,907 --> 00:32:34,327
+Bush usou uma proclamação para defender
+áreas de desastre após Katrina.
+
+568
+00:32:34,410 --> 00:32:36,497
+Não me parece um gesto vazio.
+
+569
+00:32:36,580 --> 00:32:38,624
+Pode declarar lei marcial.
+
+570
+00:32:38,707 --> 00:32:41,502
+Se quiser ter
+a mais curta presidência da história.
+
+571
+00:32:43,211 --> 00:32:44,420
+Deixe-me entender.
+
+572
+00:32:44,505 --> 00:32:48,216
+Uma ordem executiva
+pode ser hostil demais.
+
+573
+00:32:48,299 --> 00:32:50,385
+Uma proclamação presidencial,
+fraca demais.
+
+574
+00:32:50,469 --> 00:32:54,973
+Lei marcial, ou muito inteligente
+ou incrivelmente autodestrutiva.
+
+575
+00:32:55,056 --> 00:32:57,643
+Deixe-me perguntar uma coisa.
+
+576
+00:32:57,726 --> 00:32:59,019
+Concordam em algo?
+
+577
+00:32:59,102 --> 00:33:00,937
+-Na verdade, não.
+-Sim.
+
+578
+00:33:01,605 --> 00:33:02,606
+Ótimo.
+
+579
+00:33:06,943 --> 00:33:09,780
+-Como ela está?
+-Como acha que ela está?
+
+580
+00:33:09,863 --> 00:33:12,491
+Acabou de ver o pai quase ser atropelado.
+
+581
+00:33:12,574 --> 00:33:14,993
+Tinha um trabalho, mantê-la longe da TV.
+
+582
+00:33:15,076 --> 00:33:16,953
+-E fiz isso.
+-Até não fazer mais.
+
+583
+00:33:17,037 --> 00:33:19,831
+-Deixou-a sozinha.
+-Recebi um telefonema.
+
+584
+00:33:20,874 --> 00:33:23,043
+Não é meu trabalho ser pai dela.
+
+585
+00:33:24,503 --> 00:33:27,714
+Olhe só! Todos estamos fazendo
+trabalhos que não fazíamos ontem.
+
+586
+00:33:30,676 --> 00:33:32,427
+Leo, nada mais é o mesmo.
+
+587
+00:33:35,013 --> 00:33:37,558
+Eu sei que é pedir muito.
+
+588
+00:33:38,517 --> 00:33:41,853
+Você vai ter de amadurecer depressa.
+
+589
+00:33:41,937 --> 00:33:45,023
+Preciso contar com você mais do que nunca.
+
+590
+00:33:45,732 --> 00:33:46,942
+Posso fazer isso?
+
+591
+00:33:48,276 --> 00:33:49,653
+Posso contar com você?
+
+592
+00:33:50,571 --> 00:33:51,822
+Acho que vamos descobrir.
+
+593
+00:33:56,117 --> 00:33:59,495
+Leve para o Tesouro e diga
+que os aposentados receberão
+
+594
+00:33:59,579 --> 00:34:01,122
+nem que eu mesmo assine os cheques.
+
+595
+00:34:02,207 --> 00:34:05,168
+Aaron, achei que estávamos de acordo.
+
+596
+00:34:05,251 --> 00:34:08,171
+Sério, general? Sobre o quê?
+
+597
+00:34:08,254 --> 00:34:10,674
+Está além da capacidade dele,
+é um peixe fora d'água.
+
+598
+00:34:10,757 --> 00:34:13,802
+Precisa convencê-lo que al-Sakar é
+responsável pela explosão.
+
+599
+00:34:13,885 --> 00:34:15,971
+Achei que ele foi claro.
+
+600
+00:34:16,054 --> 00:34:18,264
+Até ter certeza,
+ele não vai acusar ninguém.
+
+601
+00:34:18,348 --> 00:34:20,851
+Pelo que me lembro,
+é seu trabalho convencê-lo.
+
+602
+00:34:20,934 --> 00:34:23,812
+-Aaron, é o chefe de gabinete.
+-Na verdade, não sou.
+
+603
+00:34:23,895 --> 00:34:27,232
+-Então quem é?
+-Ele ainda não nomeou ninguém.
+
+604
+00:34:27,315 --> 00:34:29,735
+Mais um gatilho que ele não puxa.
+
+605
+00:34:37,283 --> 00:34:38,409
+Oi.
+
+606
+00:34:40,036 --> 00:34:41,580
+Leitura leve?
+
+607
+00:34:41,663 --> 00:34:44,499
+Bem, infelizmente
+a Wikipédia não tem muita coisa
+
+608
+00:34:44,583 --> 00:34:48,086
+sobre teoria de Lei Constitucional.
+
+609
+00:34:48,169 --> 00:34:50,881
+Os advogados não lhe deram respostas
+sobre Michigan?
+
+610
+00:34:50,964 --> 00:34:53,634
+Me deram muitas respostas.
+Só não as corretas.
+
+611
+00:34:53,717 --> 00:34:55,468
+Isso ainda não importa.
+
+612
+00:34:55,551 --> 00:34:58,054
+Não consigo falar com o governador Royce.
+
+613
+00:34:58,138 --> 00:35:00,431
+Talvez seja hora de forçar a mão dele.
+
+614
+00:35:00,515 --> 00:35:02,058
+Como assim?
+
+615
+00:35:02,142 --> 00:35:06,980
+Quando George Wallace se recusou
+a integrar as escolas no Alabama,
+
+616
+00:35:07,063 --> 00:35:10,566
+JFK mandou o irmão dele federalizar
+a Guarda Nacional
+
+617
+00:35:10,651 --> 00:35:12,485
+e forçá-lo a obedecer a lei.
+
+618
+00:35:14,905 --> 00:35:16,281
+Federalizar a Guarda Nacional.
+
+619
+00:35:17,032 --> 00:35:19,117
+É brilhante, mas também é meio...
+
+620
+00:35:19,200 --> 00:35:20,201
+Nuclear.
+
+621
+00:35:20,285 --> 00:35:22,370
+É.
+
+622
+00:35:25,290 --> 00:35:28,251
+Não preciso de uma solução nuclear.
+Preciso de uma política.
+
+623
+00:35:30,545 --> 00:35:33,381
+Que bom que temos um político na família.
+
+624
+00:35:34,382 --> 00:35:36,009
+-Veremos.
+-Senhor presidente.
+
+625
+00:35:36,092 --> 00:35:37,468
+Espere.
+
+626
+00:35:41,932 --> 00:35:43,099
+Sim.
+
+627
+00:35:47,646 --> 00:35:49,022
+Muito obrigado.
+
+628
+00:35:51,191 --> 00:35:52,192
+Tom?
+
+629
+00:35:53,484 --> 00:35:55,361
+O rapaz de Michigan.
+
+630
+00:35:55,445 --> 00:35:56,863
+Danny Fayad?
+
+631
+00:35:59,074 --> 00:36:00,826
+Acabou de morrer.
+
+632
+00:36:04,537 --> 00:36:05,706
+Senhor presidente.
+
+633
+00:36:06,748 --> 00:36:07,833
+Diga que o achou.
+
+634
+00:36:07,916 --> 00:36:10,335
+Sim. O governador Royce
+e a congressista Hookstraten
+
+635
+00:36:10,418 --> 00:36:13,004
+estão na comissão
+do Instituto de Empreendimento.
+
+636
+00:36:13,088 --> 00:36:14,840
+Se alguém consegue fazê-lo conversar...
+
+637
+00:36:14,923 --> 00:36:16,549
+Esperta. Bom trabalho.
+
+638
+00:36:16,632 --> 00:36:18,927
+Senhor presidente,
+ele está na linha agora.
+
+639
+00:36:19,010 --> 00:36:21,554
+-Obrigado.
+-O prazer é meu, senhor.
+
+640
+00:36:24,057 --> 00:36:26,685
+Governador Royce,
+é um homem difícil de achar.
+
+641
+00:36:26,768 --> 00:36:28,729
+<i>Já disse antes, estou ocupado.</i>
+
+642
+00:36:28,812 --> 00:36:31,231
+Vamos tentar aliviar a sua carga.
+
+643
+00:36:31,314 --> 00:36:34,317
+Estou lhe dando uma ordem
+para fazer a polícia parar
+
+644
+00:36:34,400 --> 00:36:36,987
+de infernizar a comunidade muçulmana
+em Dearborn.
+
+645
+00:36:37,070 --> 00:36:39,614
+Também preciso que solte
+todos que prenderam hoje,
+
+646
+00:36:39,698 --> 00:36:41,867
+que não foram formalmente
+acusados de um crime.
+
+647
+00:36:41,950 --> 00:36:42,993
+<i>Como já falei,</i>
+
+648
+00:36:43,076 --> 00:36:46,329
+<i>meus policiais estão fazendo o necessário</i>
+<i>para proteger meus cidadãos.</i>
+
+649
+00:36:46,412 --> 00:36:48,664
+Com todo respeito,
+eles não são seus cidadãos,
+
+650
+00:36:48,749 --> 00:36:50,834
+são meus, e é meu trabalho protegê-los.
+
+651
+00:36:50,917 --> 00:36:52,585
+<i>É um trabalho que não devia fazer.</i>
+
+652
+00:36:52,668 --> 00:36:56,339
+Não segundo a Constituição.
+Governador, também deveria saber
+
+653
+00:36:56,422 --> 00:37:00,802
+que sua polícia prendeu sem saber
+três agentes disfarçados
+
+654
+00:37:00,886 --> 00:37:03,805
+trabalhando em uma investigação
+para a Segurança Nacional.
+
+655
+00:37:03,889 --> 00:37:06,349
+Não posso lhe dar os nomes,
+porque é sigiloso,
+
+656
+00:37:06,432 --> 00:37:08,184
+e não tem autorização.
+
+657
+00:37:08,268 --> 00:37:11,855
+Por isso que preciso que solte todos
+que prendeu hoje.
+
+658
+00:37:11,938 --> 00:37:13,398
+<i>Não vou fazer isso.</i>
+
+659
+00:37:13,481 --> 00:37:16,359
+Então, estará obstruindo
+uma investigação federal.
+
+660
+00:37:16,442 --> 00:37:19,070
+Sei que conhece as consequências disso.
+
+661
+00:37:23,533 --> 00:37:25,576
+<i>Só quero manter meu povo em segurança.</i>
+
+662
+00:37:26,995 --> 00:37:29,122
+Quão seguro está Danny Fayad esta noite?
+
+663
+00:37:34,544 --> 00:37:36,546
+Governador, preciso já de sua resposta.
+
+664
+00:37:39,132 --> 00:37:40,801
+<i>Ligarei para a Polícia Estadual</i>
+
+665
+00:37:40,884 --> 00:37:43,845
+<i>e direi para pararem e soltarem</i>
+<i>todos que prenderam.</i>
+
+666
+00:37:43,929 --> 00:37:44,930
+Obrigado.
+
+667
+00:37:47,808 --> 00:37:50,769
+Senhor presidente, gostaria
+que eu contatasse a Segurança Nacional?
+
+668
+00:37:51,727 --> 00:37:53,897
+Dizer a eles
+que seus agentes foram soltos?
+
+669
+00:37:56,482 --> 00:37:57,608
+Não há agentes.
+
+670
+00:37:59,152 --> 00:38:00,236
+Foi um blefe.
+
+671
+00:38:00,320 --> 00:38:03,281
+Um band-aid para parar
+o sangramento por ora.
+
+672
+00:38:03,364 --> 00:38:04,657
+Muito bem, senhor presidente.
+
+673
+00:38:05,700 --> 00:38:09,162
+O governador Royce é um bom homem.
+Ele só errou hoje.
+
+674
+00:38:09,245 --> 00:38:10,746
+Obrigado pela sua ajuda, Kimble.
+
+675
+00:38:10,831 --> 00:38:11,873
+Senhor.
+
+676
+00:38:11,957 --> 00:38:14,750
+Obrigado a todos. Ótimo trabalho.
+
+677
+00:38:17,587 --> 00:38:19,339
+Seth, pode ficar um instante?
+
+678
+00:38:22,258 --> 00:38:23,426
+Ande comigo.
+
+679
+00:38:26,179 --> 00:38:29,891
+A polícia ligou para a Casa Branca hoje.
+
+680
+00:38:29,975 --> 00:38:31,893
+Queria confirmar que você trabalhava aqui.
+
+681
+00:38:34,062 --> 00:38:35,563
+O que aconteceu?
+
+682
+00:38:37,065 --> 00:38:39,860
+O que aconteceu em Michigan.
+O que sempre acontece.
+
+683
+00:38:39,943 --> 00:38:43,989
+Quando as pessoas não sabem quem é
+o inimigo, olham para gente como eu.
+
+684
+00:38:48,493 --> 00:38:52,330
+Querem que eu acuse
+al-Sakar pela explosão.
+
+685
+00:38:54,124 --> 00:38:59,045
+Mas o FBI não pode confirmar
+com certeza que eles são responsáveis.
+
+686
+00:39:00,421 --> 00:39:02,132
+Então, não posso fazer nada.
+
+687
+00:39:02,966 --> 00:39:05,593
+Senão, seria tão ruim
+quanto o governador Royce.
+
+688
+00:39:07,220 --> 00:39:08,596
+Tenho de fazer isso direito.
+
+689
+00:39:09,305 --> 00:39:10,556
+E fará, senhor.
+
+690
+00:39:11,682 --> 00:39:13,643
+-Como vai para casa?
+-Como é?
+
+691
+00:39:13,726 --> 00:39:16,897
+Como vai para casa?
+O serviço secreto pode levá-lo.
+
+692
+00:39:16,980 --> 00:39:21,192
+Isso não será necessário.
+Obrigado, senhor presidente. Ficarei bem.
+
+693
+00:39:21,276 --> 00:39:22,944
+Tenha cuidado, Seth.
+
+694
+00:39:24,529 --> 00:39:26,364
+Obrigado, senhor. Boa noite.
+
+695
+00:39:28,824 --> 00:39:30,743
+-Wyatt.
+-Sim, senhor.
+
+696
+00:39:33,079 --> 00:39:36,124
+Pode me dar o número dos pais
+de Danny Fayad?
+
+697
+00:40:02,442 --> 00:40:06,487
+Preciso que saiba
+que palavras nunca poderiam expressar...
+
+698
+00:40:06,571 --> 00:40:08,614
+o quanto eu sinto por sua perda.
+
+699
+00:40:14,204 --> 00:40:16,289
+Sim, senhor. Boa noite.
+
+700
+00:40:26,507 --> 00:40:29,344
+VISITA DE KIRKMAN AO CAPITÓLIO
+É UM DESASTRE
+
+701
+00:40:34,224 --> 00:40:35,350
+Ei, Mike.
+
+702
+00:40:37,893 --> 00:40:41,231
+Não teria
+um boné de beisebol por aí, teria?
+
+703
+00:40:41,314 --> 00:40:43,233
+Sim, senhor.
+
+704
+00:41:00,000 --> 00:41:01,042
+Perdeu alguém?
+
+705
+00:41:06,881 --> 00:41:08,341
+Sim.
+
+706
+00:41:10,218 --> 00:41:11,427
+Perdi todo mundo.
+
+707
+00:41:32,573 --> 00:41:33,658
+Obrigado.
+
+708
+00:41:35,951 --> 00:41:38,246
+Obrigado por seu trabalho.
+
+709
+00:41:40,540 --> 00:41:42,000
+Obrigado por seu trabalho.
+
+710
+00:41:42,708 --> 00:41:44,085
+Obrigado, senhor presidente.
+
+711
+00:41:44,169 --> 00:41:45,253
+Obrigado.
+
+712
+00:41:54,304 --> 00:41:55,471
+NOVO SECRETÁRIO DE URBANISMO
+E REFORMA HABITACIONAL
+
+713
+00:41:56,847 --> 00:41:58,974
+KIRKMAN DEFINE PLANO
+PARA O FUTURO DO DEPARTAMENTO
+
+714
+00:42:03,146 --> 00:42:04,605
+Obrigado por me trazer aqui, Mike.
+
+715
+00:42:06,107 --> 00:42:07,733
+É uma honra, senhor.
+
+716
+00:42:32,383 --> 00:42:38,181
+DESAPARECIDOS - MORTOS
+
+717
+00:42:49,817 --> 00:42:51,986
+Aqui! Achamos um.
+
+718
+00:42:52,070 --> 00:42:53,863
+Achamos um sobrevivente!
+
+719
+00:42:53,946 --> 00:42:55,907
+Precisamos de ajuda aqui! Vamos!
+
+720
+00:43:27,480 --> 00:43:29,482
+Tradução: Branca Vanessa Nisio
+
