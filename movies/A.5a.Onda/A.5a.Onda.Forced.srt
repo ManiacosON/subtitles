@@ -1,0 +1,4 @@
+﻿1
+00:09:13,971 --> 00:09:16,140
+Adivinha quem sentou atrás de mim...
+
