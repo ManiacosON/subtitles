@@ -1,0 +1,2994 @@
+﻿1
+00:00:01,867 --> 00:00:03,874
+<i>Aqui é presidente
+Jeffrey Michener.</i>
+
+2
+00:00:03,875 --> 00:00:06,837
+<i>Como sempre, falo com vocês
+do antigo tribunal</i>
+
+3
+00:00:06,838 --> 00:00:08,388
+<i>em St. Louis, Missouri.</i>
+
+4
+00:00:08,389 --> 00:00:11,541
+Nessa transmissão,
+o 154º dia da minha presidência,
+
+5
+00:00:11,542 --> 00:00:12,842
+fico feliz em anunciar
+
+6
+00:00:12,843 --> 00:00:14,777
+que nosso plano
+de reconstrução dos EUA
+
+7
+00:00:14,778 --> 00:00:16,262
+está indo de vento em popa.
+
+8
+00:00:17,132 --> 00:00:21,018
+<i>Na verdade, se você ouve isso
+num rádio elétrico nos 4 estados</i>
+
+9
+00:00:21,019 --> 00:00:23,453
+<i>ou estão me vendo
+pelo primeira vez na televisão,</i>
+
+10
+00:00:23,454 --> 00:00:26,774
+<i>já sabe que a Usina Hidrelétrica
+Johnson está funcionando,</i>
+
+11
+00:00:26,775 --> 00:00:30,236
+<i>provendo energia constantemente
+a boa parte do sudoeste.</i>
+
+12
+00:00:30,846 --> 00:00:32,278
+<i>E de todo o país,</i>
+
+13
+00:00:32,279 --> 00:00:35,537
+<i>temos mais notícias
+de americanos se unindo,</i>
+
+14
+00:00:36,111 --> 00:00:38,767
+para consertar as partes
+quebradas da nossa nação.
+
+15
+00:00:39,872 --> 00:00:43,280
+<i>Sim, o espírito americano
+está vivo e bem.</i>
+
+16
+00:00:45,459 --> 00:00:48,779
+<i>Hoje, muitos de vocês receberão
+novos cartões de racionamento</i>
+
+17
+00:00:48,780 --> 00:00:51,432
+<i>para serem usados para todos
+os propósitos essenciais.</i>
+
+18
+00:00:51,433 --> 00:00:54,170
+<i>Um lembrete, isso não substitui
+a moeda dos EUA.</i>
+
+19
+00:00:54,171 --> 00:00:55,986
+<i>Continuamos a trabalhar
+com os bancos</i>
+
+20
+00:00:55,987 --> 00:00:59,889
+<i>para que todos tenham acesso
+ao dinheiro e propriedade.</i>
+
+21
+00:00:59,890 --> 00:01:02,293
+<i>Mas até nossa produtividade
+acompanhar a demanda,</i>
+
+22
+00:01:02,294 --> 00:01:05,459
+<i>esses cartões assegurarão
+acesso igualitário a todos</i>
+
+23
+00:01:05,460 --> 00:01:07,214
+<i>aos produtos disponíveis.</i>
+
+24
+00:01:07,215 --> 00:01:10,223
+<i>Pedimos a paciência
+e ajuda continua de vocês</i>
+
+25
+00:01:10,224 --> 00:01:12,054
+<i>com essa implementação.</i>
+
+26
+00:01:17,768 --> 00:01:21,312
+Assassinato da dra. Rachel Scott
+chocou a todos nós,
+
+27
+00:01:21,727 --> 00:01:23,998
+<i>mas ele morreu sabendo
+que deu vida nova</i>
+
+28
+00:01:23,999 --> 00:01:26,099
+<i>a essa grande nação.</i>
+
+29
+00:01:26,100 --> 00:01:28,709
+<i>E o sacrifício dela
+não será esquecido.</i>
+
+30
+00:01:29,171 --> 00:01:30,515
+<i>Essa estação de St. Louis</i>
+
+31
+00:01:30,516 --> 00:01:32,857
+<i>continuará a trazer
+atualizações e informação,</i>
+
+32
+00:01:32,858 --> 00:01:36,027
+junto com estações locais
+quando elas funcionarem.
+
+33
+00:01:36,028 --> 00:01:39,156
+É claro que amanhã eu voltarei
+para falar com você diretamente.
+
+34
+00:01:39,157 --> 00:01:43,213
+<i>Até lá, agradeço a vocês
+por sua contribuição</i>
+
+35
+00:01:43,214 --> 00:01:44,784
+<i>e coragem.</i>
+
+36
+00:01:44,785 --> 00:01:47,805
+<i>Esse projeto será um sucesso
+por causa de vocês.</i>
+
+37
+00:01:47,806 --> 00:01:51,821
+<i>Que Deus abençoe vocês
+e aos Estados Unidos da América.</i>
+
+38
+00:01:54,602 --> 00:01:57,102
+3ª Temporada | Episódio 01
+-= The Scott Effect =-
+
+39
+00:01:57,103 --> 00:01:59,103
+Legenda:
+John93
+
+40
+00:01:59,104 --> 00:02:01,104
+Legenda:
+tolentino
+
+41
+00:02:01,105 --> 00:02:03,105
+Legenda:
+Snow
+
+42
+00:02:03,106 --> 00:02:05,106
+Legenda:
+Hugo
+
+43
+00:02:05,107 --> 00:02:07,107
+Legenda:
+jotakretli²
+
+44
+00:02:07,108 --> 00:02:09,108
+Legenda:
+SongMade
+
+45
+00:02:09,109 --> 00:02:11,109
+Revisão:
+Hugo
+
+46
+00:02:12,110 --> 00:02:14,610
+[InSUBs]
+Qualidade é InSUBstituível!
+
+47
+00:02:16,740 --> 00:02:21,310
+SUL DO JAPÃO
+
+48
+00:02:42,555 --> 00:02:46,221
+Você ficará bem.
+Você vai melhorar.
+
+49
+00:02:48,905 --> 00:02:50,205
+Aqui está.
+
+50
+00:02:50,607 --> 00:02:52,396
+Vou te dar mais disso.
+
+51
+00:02:52,819 --> 00:02:55,151
+Você só precisa
+de um pouco mais disso.
+
+52
+00:03:03,804 --> 00:03:05,733
+Eles prometeram.
+
+53
+00:03:08,801 --> 00:03:13,536
+Eles prometeram
+que isso funcionaria.
+
+54
+00:03:18,112 --> 00:03:19,664
+Olá, meu anjinho.
+
+55
+00:03:19,665 --> 00:03:22,132
+- Tente agora.
+- Olá, Danny?
+
+56
+00:03:22,133 --> 00:03:23,918
+Danny, consegue me ouvir?
+
+57
+00:03:23,919 --> 00:03:26,654
+<i>- Kara, você consegue...</i>
+- Danny, você está aí?
+
+58
+00:03:26,655 --> 00:03:27,955
+<i>Kara...</i>
+
+59
+00:03:27,956 --> 00:03:29,548
+Nada,
+ainda não conseguimos.
+
+60
+00:03:29,549 --> 00:03:31,392
+<i>- Aqui funciona, está ouvindo?</i>
+- Mãe.
+
+61
+00:03:31,393 --> 00:03:34,294
+Danny, se consegue me ouvir,
+estou aqui com nosso filho.
+
+62
+00:03:34,295 --> 00:03:37,129
+Conte que Frankie
+quase rolou ontem.
+
+63
+00:03:37,130 --> 00:03:38,431
+Sim, ele rolou.
+
+64
+00:03:38,432 --> 00:03:40,309
+Ele é tão esperto, Danny.
+Muito mesmo.
+
+65
+00:03:40,310 --> 00:03:43,322
+- Vamos ver o papai, certo?
+- O problema não é aqui.
+
+66
+00:03:43,323 --> 00:03:45,690
+A voz sai boa,
+mas ao tentarmos mandar vídeo,
+
+67
+00:03:45,691 --> 00:03:47,758
+há alguma coisa
+bloqueando a linha,
+
+68
+00:03:47,759 --> 00:03:50,210
+como outro sinal
+emperrando o canal.
+
+69
+00:03:50,211 --> 00:03:51,778
+<i>- Kara.</i>
+- Não sei o que é.
+
+70
+00:03:51,779 --> 00:03:54,280
+- Danny.
+- Kara, não chegou nada aqui.
+
+71
+00:03:54,281 --> 00:03:55,816
+Consegue me ver?
+
+72
+00:03:56,224 --> 00:03:58,634
+Se você consegue me ouvir,
+poderia...
+
+73
+00:03:59,720 --> 00:04:03,351
+Dizer ao Frankie
+que o papai o ama?
+
+74
+00:04:03,874 --> 00:04:06,039
+E mal posso esperar
+para conhecê-lo.
+
+75
+00:04:07,763 --> 00:04:10,030
+- Você nos ouve, Danny?
+- Estávamos tão perto.
+
+76
+00:04:10,031 --> 00:04:12,593
+- Continuarei tentando, perdão.
+<i>- Certo, Frankie?</i>
+
+77
+00:04:12,594 --> 00:04:15,184
+- Papai vem para casa logo.
+<i>- Frankie, eu amo vocês.</i>
+
+78
+00:04:15,185 --> 00:04:18,031
+Você não aguentava mais esperar
+para sair, não é Frankie?
+
+79
+00:04:25,938 --> 00:04:29,904
+MAR DO SUL DA CHINA:
+OPERAÇÃO HÁLITO QUE CURA
+
+80
+00:04:34,288 --> 00:04:36,307
+Diaz, quando recebeu
+o intensificador?
+
+81
+00:04:37,459 --> 00:04:39,175
+Não sei, senhor.
+Há uns 4 meses.
+
+82
+00:04:39,176 --> 00:04:42,246
+Exatamente, isso quer dizer
+que você não contagia mais.
+
+83
+00:04:42,247 --> 00:04:45,115
+Cuidado com as caixas.
+A carga é preciosa.
+
+84
+00:04:45,116 --> 00:04:46,416
+Sinto muito, senhor.
+
+85
+00:04:47,436 --> 00:04:49,621
+Não é nada bom,
+Marinheiro Aprendiz Diaz.
+
+86
+00:04:49,622 --> 00:04:50,987
+Não é nada bom mesmo.
+
+87
+00:04:50,988 --> 00:04:53,907
+Não fica curioso em saber
+por que as caixas pesam tanto?
+
+88
+00:04:53,908 --> 00:04:56,604
+Está vendo isso?
+Estou no topo, meu amigo.
+
+89
+00:04:56,605 --> 00:04:58,953
+Eu só aponto agora,
+não ergo mais nada.
+
+90
+00:05:00,399 --> 00:05:03,016
+Tenente,
+Lincoln abasteceu o helicóptero.
+
+91
+00:05:03,017 --> 00:05:05,385
+Ela está carregada com a .22
+e mísseis.
+
+92
+00:05:05,386 --> 00:05:06,687
+Não quero precisar deles.
+
+93
+00:05:06,688 --> 00:05:09,559
+A única coisa que soltaremos
+no Vietnã é um monte de cura.
+
+94
+00:05:10,138 --> 00:05:11,438
+Que assim seja.
+
+95
+00:05:15,580 --> 00:05:17,393
+Capitão está no passadiço.
+
+96
+00:05:22,803 --> 00:05:26,407
+- Suboficial, como estamos?
+- Tudo nos conformes, senhor.
+
+97
+00:05:26,408 --> 00:05:28,224
+O vento está fraco
+a sudoeste.
+
+98
+00:05:28,225 --> 00:05:29,960
+Um taco leve
+deve acertar o buraco.
+
+99
+00:05:29,961 --> 00:05:31,441
+Maravilha.
+
+100
+00:05:32,380 --> 00:05:34,881
+Oficial, leve-nos a 270º,
+por favor.
+
+101
+00:05:34,882 --> 00:05:36,901
+Timoneiro,
+curso estável a 270º.
+
+102
+00:05:36,902 --> 00:05:39,960
+Timão direito padrão,
+curso estável a 270º, certo.
+
+103
+00:05:41,458 --> 00:05:43,153
+Quero ver o pôr do sol.
+
+104
+00:05:53,835 --> 00:05:55,135
+Bom dia, senhor.
+
+105
+00:05:55,136 --> 00:05:57,203
+Srta. Green,
+como estão as coisas?
+
+106
+00:05:57,204 --> 00:05:59,072
+Eu peguei trânsito
+vindo para cá hoje.
+
+107
+00:05:59,073 --> 00:06:00,407
+Isso é um bom sinal.
+
+108
+00:06:00,408 --> 00:06:03,262
+Achei conveniente e peguei
+seu novo livro de racionamento.
+
+109
+00:06:12,921 --> 00:06:14,521
+Eles fizeram
+um bom trabalho.
+
+110
+00:06:14,522 --> 00:06:15,823
+Sim, senhor.
+
+111
+00:06:15,824 --> 00:06:17,925
+É uma boa maneira
+de honrar a memória dela,
+
+112
+00:06:18,926 --> 00:06:21,165
+mas não suficiente,
+considerando.
+
+113
+00:06:21,629 --> 00:06:23,293
+Não.
+
+114
+00:06:23,698 --> 00:06:25,303
+Não o suficiente.
+
+115
+00:06:26,526 --> 00:06:29,971
+Presidente Peng pegou a cura,
+manteve-a para os chineses,
+
+116
+00:06:29,972 --> 00:06:32,327
+e agora
+está deixando o vírus mutar
+
+117
+00:06:32,328 --> 00:06:35,859
+e se espalhar pelo Japão
+e pelo resto da Ásia.
+
+118
+00:06:35,860 --> 00:06:37,848
+Você não sabe disso, Alex.
+
+119
+00:06:37,849 --> 00:06:39,249
+Tom.
+
+120
+00:06:39,250 --> 00:06:40,735
+Desculpe, senhor.
+
+121
+00:06:40,736 --> 00:06:42,495
+Eu ouvi direito?
+
+122
+00:06:42,496 --> 00:06:44,112
+O vírus sofreu uma mutação?
+
+123
+00:06:44,113 --> 00:06:45,860
+Comandante,
+estamos ouvindo rumores
+
+124
+00:06:45,861 --> 00:06:47,864
+das ilhas do sul do Japão
+de que as doses
+
+125
+00:06:47,865 --> 00:06:49,517
+foram ineficazes
+contra o vírus.
+
+126
+00:06:49,518 --> 00:06:51,224
+A taxa de mortalidade
+está subindo.
+
+127
+00:06:51,225 --> 00:06:53,375
+Dra. Scott disse
+que o vírus não pode mutar.
+
+128
+00:06:53,376 --> 00:06:54,743
+Foi muito clara sobre isso.
+
+129
+00:06:54,744 --> 00:06:56,644
+Precisaremos de provas
+se planejamos...
+
+130
+00:06:56,645 --> 00:06:59,545
+Senhor, 2 contratorpedeiros
+retornam de Okinawa a Amur Bay.
+
+131
+00:06:59,546 --> 00:07:01,244
+Podem estar na área
+imediatamente.
+
+132
+00:07:01,245 --> 00:07:05,453
+Mandamos ao Peng
+1 milhão de doses há dois meses.
+
+133
+00:07:05,454 --> 00:07:07,888
+Ele só nunca as entregou
+ao Japão.
+
+134
+00:07:07,889 --> 00:07:11,119
+Quando nossos navios chegaram lá
+com a cura, era tarde demais.
+
+135
+00:07:11,120 --> 00:07:13,399
+Acha que Peng
+está usando a cura
+
+136
+00:07:13,400 --> 00:07:14,979
+como vantagem contra a Ásia?
+
+137
+00:07:14,980 --> 00:07:16,622
+É exatamente o que acho.
+
+138
+00:07:16,623 --> 00:07:20,181
+Peng é um bandido,
+simples assim.
+
+139
+00:07:20,182 --> 00:07:21,867
+Já temos relatórios
+
+140
+00:07:21,868 --> 00:07:23,909
+dos chineses bombeando
+o norte do Vietnã.
+
+141
+00:07:23,910 --> 00:07:26,154
+Não confirmados.
+Antes de dispensarmos Peng,
+
+142
+00:07:26,155 --> 00:07:29,496
+vamos lembrar que não temos
+outro parceiro na região.
+
+143
+00:07:30,002 --> 00:07:32,434
+Por enquanto,
+Peng é nossa única esperança.
+
+144
+00:07:32,911 --> 00:07:35,370
+Infelizmente,
+Allison está certa.
+
+145
+00:07:42,968 --> 00:07:45,225
+Senhor, Nathan James
+está há um dia do Vietnã.
+
+146
+00:07:45,226 --> 00:07:47,685
+Levam cura suficiente
+para cobrir da costa
+
+147
+00:07:47,686 --> 00:07:49,771
+até partes do Laos
+e do Camboja.
+
+148
+00:07:49,772 --> 00:07:51,683
+Foi uma boa ideia enviá-los,
+Tom.
+
+149
+00:07:52,154 --> 00:07:54,246
+A China
+pode ser a próxima parada.
+
+150
+00:07:54,247 --> 00:07:57,035
+Um navio não conseguirá
+levar a cura pelo continente.
+
+151
+00:07:57,036 --> 00:07:58,546
+Precisamos do Peng,
+
+152
+00:07:58,547 --> 00:08:01,230
+por isso organizei uma cúpula
+em Hong Kong.
+
+153
+00:08:01,231 --> 00:08:02,531
+Peng estará lá,
+
+154
+00:08:02,532 --> 00:08:04,593
+junto aos líderes
+do que sobrou da Ásia.
+
+155
+00:08:04,594 --> 00:08:06,410
+Acho que é uma boa ideia.
+
+156
+00:08:06,930 --> 00:08:09,134
+O Vice-Presidente
+está na América do Sul.
+
+157
+00:08:09,135 --> 00:08:11,450
+Alex é o secretário
+de Relações Internacionais.
+
+158
+00:08:11,451 --> 00:08:12,849
+Vai enviá-lo?
+
+159
+00:08:28,805 --> 00:08:31,862
+- Gostaria que você fosse.
+- Eu?
+
+160
+00:08:31,863 --> 00:08:35,096
+Sem um Secretário de Defesa,
+você é a melhor escolha.
+
+161
+00:08:35,097 --> 00:08:37,465
+Você pode falar
+sobre a importância estratégica
+
+162
+00:08:37,466 --> 00:08:40,431
+de espalhar a cura,
+dos riscos, benefícios,
+
+163
+00:08:40,432 --> 00:08:43,360
+e não machuca que você seja
+uma celebridade internacional.
+
+164
+00:08:43,769 --> 00:08:46,091
+Meu chinês
+não é como costumava ser,
+
+165
+00:08:46,092 --> 00:08:48,141
+e ele era horrível.
+
+166
+00:08:48,765 --> 00:08:52,461
+Temos um agente no país
+para te ajudar.
+
+167
+00:08:52,914 --> 00:08:55,737
+Mas precisa deixar claro
+que queremos negociar.
+
+168
+00:08:55,738 --> 00:08:59,067
+Se o vírus realmente
+sofreu mutação,
+
+169
+00:08:59,068 --> 00:09:01,191
+estamos à beira
+de outra pandemia.
+
+170
+00:09:01,192 --> 00:09:05,678
+E sem a dra. Scott,
+deixe que Peng saiba
+
+171
+00:09:05,679 --> 00:09:08,182
+que se ele não for o parceiro
+que o mundo precisa,
+
+172
+00:09:08,183 --> 00:09:10,036
+vamos achar e apoiar
+
+173
+00:09:10,037 --> 00:09:12,478
+um líder dentro do país dele
+que seja.
+
+174
+00:09:12,932 --> 00:09:14,766
+Sim, senhor.
+
+175
+00:09:21,099 --> 00:09:22,843
+72KM DA COSTA DO VIETNÃ
+
+176
+00:09:22,844 --> 00:09:26,039
+Senhor, você tem uma chamada
+pelo telefone vermelho.
+
+177
+00:09:29,822 --> 00:09:32,160
+Aqui é o Nathan James.
+Câmbio.
+
+178
+00:09:33,158 --> 00:09:37,738
+Comandante, aqui
+é o Chefe de Operações Navais.
+
+179
+00:09:37,739 --> 00:09:39,503
+Como está o meu navio?
+
+180
+00:09:40,503 --> 00:09:43,053
+Alguns diriam
+que ele nunca esteve melhor.
+
+181
+00:09:43,054 --> 00:09:45,021
+Apesar de eu ainda
+estar me acostumando
+
+182
+00:09:45,022 --> 00:09:47,368
+a comandar o navio
+a boreste do passadiço.
+
+183
+00:09:47,369 --> 00:09:49,624
+Você olha para a direita
+e não tem ninguém lá,
+
+184
+00:09:49,625 --> 00:09:53,105
+<i>- sabe que tudo depende de você.</i>
+- Começo a entender isso.
+
+185
+00:09:53,106 --> 00:09:55,703
+<i>Sobre aquele outro projeto</i>
+em que estou trabalhando,
+
+186
+00:09:55,704 --> 00:09:59,428
+<i>saiba que não parei
+de procurá-los.</i>
+
+187
+00:09:59,429 --> 00:10:02,329
+<i>Assim que eu encontrar algo,
+você será o primeiro a saber.</i>
+
+188
+00:10:02,330 --> 00:10:03,758
+Agradeço isso.
+
+189
+00:10:05,049 --> 00:10:07,095
+Você não está ligando
+de casa.
+
+190
+00:10:07,096 --> 00:10:09,156
+Viagem de último minuto.
+
+191
+00:10:09,157 --> 00:10:10,677
+Estou indo a sua vizinhança.
+
+192
+00:10:10,678 --> 00:10:13,127
+Quando eu acabar,
+talvez peça uma vistoria formal
+
+193
+00:10:13,128 --> 00:10:15,626
+para ver
+como nosso navio está.
+
+194
+00:10:15,627 --> 00:10:18,004
+Deixaremos marinheiros
+à espera.
+
+195
+00:10:18,005 --> 00:10:22,314
+Mike, há forças estranhas
+atuando nessa parte do mundo.
+
+196
+00:10:23,304 --> 00:10:26,681
+Até que eu as entenda,
+tome cuidado.
+
+197
+00:10:27,148 --> 00:10:29,690
+Entendido.
+Nathan James desligando.
+
+198
+00:10:35,852 --> 00:10:38,599
+Só para você saber,
+desde 5 segundos atrás
+
+199
+00:10:38,600 --> 00:10:40,497
+estamos
+em espaço aéreo chinês.
+
+200
+00:10:40,498 --> 00:10:42,567
+Qualquer ligação
+que fizer não será segura
+
+201
+00:10:42,568 --> 00:10:45,281
+e provavelmente
+será interceptada por Peng.
+
+202
+00:10:45,742 --> 00:10:49,259
+Iremos mudar isso, certo?
+
+203
+00:10:49,260 --> 00:10:50,560
+Valkyrie?
+
+204
+00:10:53,030 --> 00:10:54,688
+Estamos nos aproximando
+do Vietnã.
+
+205
+00:10:54,689 --> 00:10:57,228
+Precisamos pegar o piloto local
+para nos guiar.
+
+206
+00:10:57,229 --> 00:10:58,983
+Subsuperfície,
+o que você ouve?
+
+207
+00:10:58,984 --> 00:11:01,341
+Dezenas de pequenas embarcações
+na área, senhor.
+
+208
+00:11:01,342 --> 00:11:03,852
+Pelo giro dos motores,
+não são maiores do que 15m.
+
+209
+00:11:03,853 --> 00:11:05,532
+Barcos de pesca,
+motores de popa.
+
+210
+00:11:05,533 --> 00:11:08,123
+Muitos relatos sobre piratas
+executando ataques.
+
+211
+00:11:08,124 --> 00:11:11,649
+Mesmo com navios militares.
+10, às vezes, 20 de uma vez.
+
+212
+00:11:11,650 --> 00:11:14,032
+Nada que a equipe Cobra
+não possa lidar, irmão.
+
+213
+00:11:14,033 --> 00:11:15,638
+- É mesmo?
+- Sim.
+
+214
+00:11:15,639 --> 00:11:17,536
+Serem heróis americanos
+não significa
+
+215
+00:11:17,537 --> 00:11:18,989
+que são à prova de balas.
+
+216
+00:11:18,990 --> 00:11:21,751
+Espere, contei sobre aquela vez
+que levei um tiro?
+
+217
+00:11:21,752 --> 00:11:23,402
+Bem no peito.
+
+218
+00:11:23,403 --> 00:11:24,708
+Passou direto por mim.
+
+219
+00:11:24,709 --> 00:11:27,611
+Por que não vai fazer
+umas flexões ou algo assim?
+
+220
+00:11:27,612 --> 00:11:29,985
+Deixe quem sabe pensar
+fazer o trabalho deles.
+
+221
+00:11:30,933 --> 00:11:32,617
+Saia daqui.
+
+222
+00:11:44,275 --> 00:11:46,526
+Sr. Binh diz para reduzir
+a velocidade a 3 nós
+
+223
+00:11:46,527 --> 00:11:48,481
+e ajustar o leme
+5º para a direita.
+
+224
+00:11:48,482 --> 00:11:50,940
+Oficial, reduza a 3 nós.
+Vire 5º a boreste.
+
+225
+00:11:50,941 --> 00:11:52,842
+<i>Oficial, entendido,
+leme todo à frente,</i>
+
+226
+00:11:52,843 --> 00:11:55,093
+<i>a 3 nós, 5º no leme,
+curso estável 330º.</i>
+
+227
+00:11:55,094 --> 00:11:57,344
+<i>Todo à frente, a 3 nós.
+O leme está a 5 graus.</i>
+
+228
+00:11:57,345 --> 00:11:59,302
+A água está cheia
+de pessoas sem a cura.
+
+229
+00:11:59,303 --> 00:12:01,580
+No Vietnã, marinheiros,
+pescadores e piratas
+
+230
+00:12:01,581 --> 00:12:03,685
+sempre conseguem a cura
+primeiro.
+
+231
+00:12:03,686 --> 00:12:06,484
+Os piratas roubam tudo.
+
+232
+00:12:07,485 --> 00:12:09,894
+Diga para ele ter certeza
+de que tudo está claro.
+
+233
+00:12:09,895 --> 00:12:11,900
+Se alguma daquelas latas
+chegar até nós,
+
+234
+00:12:11,901 --> 00:12:13,982
+serão cortadas em dois
+com nossos lasers.
+
+235
+00:12:13,983 --> 00:12:15,560
+Entendi.
+Espere.
+
+236
+00:12:17,482 --> 00:12:19,170
+Laser.
+
+237
+00:12:20,246 --> 00:12:21,990
+Sim, eu sei.
+
+238
+00:12:25,843 --> 00:12:30,449
+O sr. Binh quer que você lembre
+da grande celebração à noite.
+
+239
+00:12:31,643 --> 00:12:35,009
+O governo vietnamita gostaria
+de agradecer e honrar vocês.
+
+240
+00:12:35,010 --> 00:12:37,949
+- Nathan James!
+- O governador estará lá
+
+241
+00:12:37,950 --> 00:12:40,304
+para conhecer a famosa turma
+do Nathan James.
+
+242
+00:12:40,677 --> 00:12:42,778
+Agradeça a ele.
+
+243
+00:12:42,779 --> 00:12:45,034
+Assim que a cura chegar
+e for distribuída,
+
+244
+00:12:45,035 --> 00:12:47,566
+estaremos lá, entusiasmados.
+
+245
+00:12:51,125 --> 00:12:52,636
+Entusiasmados.
+
+246
+00:12:53,408 --> 00:12:56,727
+Eu esqueci.
+Como é mesmo o seu nome?
+
+247
+00:12:56,728 --> 00:12:58,424
+- Ai.
+- Ai.
+
+248
+00:12:58,425 --> 00:13:01,876
+É um belo nome.
+Vai à festa hoje à noite?
+
+249
+00:13:03,216 --> 00:13:04,695
+Com entusiasmo.
+
+250
+00:13:10,544 --> 00:13:11,844
+O que ele disse?
+
+251
+00:13:35,717 --> 00:13:37,150
+<i>Meu Deus.</i>
+
+252
+00:13:38,317 --> 00:13:40,752
+- Que diabos?
+- Olá, linda!
+
+253
+00:13:42,418 --> 00:13:45,773
+- Você estava em Sidney.
+- Dali para Hong Kong é um pulo.
+
+254
+00:13:45,774 --> 00:13:49,364
+Não consigo acreditar.
+Você sabia?
+
+255
+00:13:49,365 --> 00:13:51,067
+Eu o chamei.
+
+256
+00:13:59,556 --> 00:14:03,185
+Contei um na torre
+e dois em cada entrada.
+
+257
+00:14:03,650 --> 00:14:05,784
+E acredito
+que os caras nas motos
+
+258
+00:14:05,785 --> 00:14:07,526
+não são os únicos
+a nos observar.
+
+259
+00:14:07,527 --> 00:14:10,835
+Sim, senhor. Pode esperar ser
+observado daqui para frente.
+
+260
+00:14:56,792 --> 00:14:59,528
+- O que ele está dizendo?
+- Deixe-me ajudar.
+
+261
+00:15:02,990 --> 00:15:05,079
+Ele está dizendo
+que não gosta de você.
+
+262
+00:15:05,793 --> 00:15:07,416
+Como eu saberia?
+
+263
+00:15:07,417 --> 00:15:08,897
+<i>"Comandante Chandler.</i>
+
+264
+00:15:09,583 --> 00:15:13,719
+Bem-vindo à Ásia.
+É uma honra conhecer você.
+
+265
+00:15:13,720 --> 00:15:16,190
+Há tempos,
+espero por este momento."
+
+266
+00:15:16,191 --> 00:15:17,897
+Palavras dele.
+
+267
+00:15:20,495 --> 00:15:22,638
+"Tom Chandler...
+
+268
+00:15:23,144 --> 00:15:26,573
+Bonito, inteligente,
+extremamente nobre
+
+269
+00:15:26,574 --> 00:15:28,971
+e o marinheiro mais teimoso
+que irá conhecer."
+
+270
+00:15:28,972 --> 00:15:30,899
+Nossa,
+ele realmente conhece você.
+
+271
+00:15:33,231 --> 00:15:35,333
+Por favor,
+agradeça-o por mim.
+
+272
+00:15:40,647 --> 00:15:43,804
+E diga,
+que se bem me lembro,
+
+273
+00:15:43,805 --> 00:15:47,174
+houve uma marinheira
+que era ainda mais teimosa...
+
+274
+00:15:49,110 --> 00:15:51,514
+O comandante agradece.
+Ele está muito feliz.
+
+275
+00:15:51,515 --> 00:15:54,897
+Que partiria o coração dele
+sem esforço algum.
+
+276
+00:15:56,371 --> 00:16:00,450
+E está ansioso para conversar
+com você após o jantar.
+
+277
+00:16:04,347 --> 00:16:06,948
+- Sasha.
+- Tom.
+
+278
+00:16:07,695 --> 00:16:10,524
+Disseram que nossa recruta
+sobreviveu por conta própria
+
+279
+00:16:10,525 --> 00:16:12,834
+em uma das zonas
+mais perigosas da Ásia.
+
+280
+00:16:13,346 --> 00:16:15,408
+Devia ter percebido
+que era você.
+
+281
+00:16:16,222 --> 00:16:17,584
+E você...
+
+282
+00:16:18,402 --> 00:16:20,323
+O homem que salvou
+o mundo.
+
+283
+00:16:20,927 --> 00:16:22,447
+Eu só comandei o navio.
+
+284
+00:16:23,020 --> 00:16:25,645
+A dra. Scott
+que fez os milagres.
+
+285
+00:16:26,616 --> 00:16:29,276
+Venha.
+O presidente Peng aguarda.
+
+286
+00:16:37,813 --> 00:16:40,483
+É Chefe das Operações Navais
+e só te fizeram capitão?
+
+287
+00:16:40,484 --> 00:16:43,162
+Escolha minha.
+O uniforme fica melhor em mim.
+
+288
+00:16:43,163 --> 00:16:45,289
+Humildade
+sempre caiu bem em você.
+
+289
+00:16:45,906 --> 00:16:48,720
+Cooper.
+É o nome de casada?
+
+290
+00:16:49,536 --> 00:16:52,366
+Acredite ou não,
+encontrei amor depois de você.
+
+291
+00:16:52,367 --> 00:16:53,926
+Demorou um pouco.
+
+292
+00:16:53,927 --> 00:16:56,284
+Porque quis, tenho certeza.
+
+293
+00:16:56,618 --> 00:16:58,658
+Mal tínhamos voltado
+da nossa lua-de-mel
+
+294
+00:16:58,659 --> 00:17:00,268
+quando fui enviada
+ao sul da Ásia
+
+295
+00:17:00,269 --> 00:17:02,924
+para investigar
+o misterioso ataque do vírus.
+
+296
+00:17:02,925 --> 00:17:05,703
+Tudo piorou muito rapidamente,
+e quando voltei...
+
+297
+00:17:07,846 --> 00:17:09,596
+Todos tinham perdido
+alguém no fogo.
+
+298
+00:17:11,742 --> 00:17:13,333
+Sinto muito pela Darien.
+
+299
+00:17:25,529 --> 00:17:28,082
+O presidente Peng diz
+que é uma honra conhecer você
+
+300
+00:17:28,083 --> 00:17:30,672
+e deseja-lhe
+boas-vindas à nova China.
+
+301
+00:17:32,191 --> 00:17:34,364
+Obrigado por sediar
+este evento.
+
+302
+00:17:34,365 --> 00:17:36,452
+Estou ansioso
+para conversar com você.
+
+303
+00:17:43,284 --> 00:17:45,451
+Maravilha.
+Mas vamos comer antes.
+
+304
+00:17:49,570 --> 00:17:50,870
+<i>Atenção no convés.</i>
+
+305
+00:17:52,844 --> 00:17:55,587
+Escutem. A cura foi entregue
+na costa do Vietnã
+
+306
+00:17:55,588 --> 00:17:57,699
+e a distribuição ocorre
+nesse momento.
+
+307
+00:17:57,700 --> 00:18:00,149
+Parabéns
+a cada um de vocês.
+
+308
+00:18:00,150 --> 00:18:04,000
+Os bons cidadãos dessa nação
+querem nos agradecer.
+
+309
+00:18:04,001 --> 00:18:05,750
+Seu maldito sortudo.
+
+310
+00:18:05,751 --> 00:18:07,951
+Alguém precisa ficar de guarda,
+meu caro.
+
+311
+00:18:07,952 --> 00:18:10,902
+Lembrem-se que é uma visita
+de agradecimento formal.
+
+312
+00:18:10,903 --> 00:18:13,050
+Eles nos enxergam
+como fontes de esperança,
+
+313
+00:18:13,051 --> 00:18:15,778
+e vamos nos comportar
+de acordo.
+
+314
+00:18:15,779 --> 00:18:17,446
+Entendido?
+
+315
+00:18:17,447 --> 00:18:19,347
+Sim, senhora.
+
+316
+00:18:19,348 --> 00:18:21,850
+Lembrem-se de quem está
+ao seu lado. Isso é tudo.
+
+317
+00:18:24,250 --> 00:18:27,849
+Ainda é o velho oeste. Quero
+a COC completa, atenção total.
+
+318
+00:18:27,850 --> 00:18:30,000
+Sim, senhor.
+O encontro está definido.
+
+319
+00:18:30,001 --> 00:18:33,462
+Se não voltar até 23h30,
+mandaremos a cavalaria.
+
+320
+00:18:33,463 --> 00:18:35,950
+Muito bem.
+O navio é seu, Tenente.
+
+321
+00:18:35,951 --> 00:18:37,351
+Não o perca.
+
+322
+00:18:41,251 --> 00:18:42,936
+Tenha cuidado lá fora,
+irmãozinho.
+
+323
+00:18:42,937 --> 00:18:44,450
+Sempre.
+
+324
+00:18:52,600 --> 00:18:54,249
+Valkyrie.
+
+325
+00:18:54,250 --> 00:18:55,750
+Wolfman.
+
+326
+00:18:56,051 --> 00:18:57,396
+Tenho algo para você.
+
+327
+00:19:05,551 --> 00:19:08,150
+Os códigos de segurança
+desse prédio.
+
+328
+00:19:08,800 --> 00:19:10,200
+Porque eu posso.
+
+329
+00:19:10,613 --> 00:19:12,001
+O que não consigo descobrir
+
+330
+00:19:12,002 --> 00:19:14,550
+é a causa
+desse canal barulhento.
+
+331
+00:19:14,551 --> 00:19:16,700
+Sabe, é uma casa grande.
+
+332
+00:19:16,701 --> 00:19:19,850
+Assim que a festa acabar,
+duas pessoas podem se perder,
+
+333
+00:19:19,851 --> 00:19:22,851
+e se encontrar sozinhas
+no escuro em algum lugar.
+
+334
+00:19:23,501 --> 00:19:26,950
+Espionagem e romance
+em um lugar estranho.
+
+335
+00:19:26,951 --> 00:19:28,950
+Uma garota pode
+se acostumar com isso.
+
+336
+00:19:36,550 --> 00:19:38,650
+<i>A Ásia inteira está aqui.</i>
+
+337
+00:19:38,651 --> 00:19:42,150
+<i>Laos, Camboja, Índia.</i>
+
+338
+00:19:43,550 --> 00:19:45,450
+Até o Vietnã apareceu.
+
+339
+00:19:45,451 --> 00:19:47,650
+Estão à beira da guerra
+com a China.
+
+340
+00:19:48,250 --> 00:19:51,750
+Todos vieram mostrar respeito
+e levar a cura para casa.
+
+341
+00:19:52,200 --> 00:19:54,200
+Há nove meses,
+
+342
+00:19:54,201 --> 00:19:56,750
+Peng era
+Ministro de Segurança Nacional.
+
+343
+00:19:57,550 --> 00:20:00,000
+Ele claramente se deu bem.
+
+344
+00:20:00,001 --> 00:20:03,250
+Vantagens de ser o único
+sobrevivente no abrigo.
+
+345
+00:20:03,251 --> 00:20:05,850
+Dizem que ele matou
+toda a alta hierarquia
+
+346
+00:20:05,851 --> 00:20:08,550
+e esperou a praga ao lado
+dos corpos em decomposição.
+
+347
+00:20:11,550 --> 00:20:13,896
+Aquele é o novo Ministro
+de Segurança Nacional.
+
+348
+00:20:13,897 --> 00:20:16,500
+O nome dele...
+Lau Hu.
+
+349
+00:20:16,501 --> 00:20:18,400
+Significa "tigre"
+em mandarim.
+
+350
+00:20:18,850 --> 00:20:21,104
+Não me preocupo
+com tigres.
+
+351
+00:20:21,904 --> 00:20:23,850
+Eu trouxe um lobo.
+
+352
+00:20:28,150 --> 00:20:29,950
+O Japão não está presente.
+
+353
+00:20:29,951 --> 00:20:32,850
+Isso me faz pensar se restou
+alguém para comandar.
+
+354
+00:20:34,100 --> 00:20:37,700
+Os rumores são reais,
+sobre a mutação do vírus?
+
+355
+00:20:37,701 --> 00:20:39,850
+Você é nossos olhos
+em Havana.
+
+356
+00:20:39,851 --> 00:20:41,501
+Esperava que você
+me dissesse.
+
+357
+00:20:41,502 --> 00:20:44,550
+É difícil conseguir
+informações de Hong Kong,
+
+358
+00:20:44,551 --> 00:20:45,951
+até para mim.
+
+359
+00:20:46,651 --> 00:20:48,330
+Peng vai falar sobre tudo,
+
+360
+00:20:48,331 --> 00:20:50,031
+menos
+sobre o elefante na sala.
+
+361
+00:20:51,100 --> 00:20:53,150
+Vamos cutucar o elefante.
+
+362
+00:20:56,000 --> 00:20:57,550
+Ao nosso anfitrião...
+
+363
+00:20:58,550 --> 00:21:00,450
+Presidente Peng.
+
+364
+00:21:04,050 --> 00:21:05,900
+"E a você, Capitão Chandler."
+
+365
+00:21:07,400 --> 00:21:09,750
+"O homem que levou
+a cura ao mundo."
+
+366
+00:21:14,150 --> 00:21:16,150
+Vim a China com mais.
+
+367
+00:21:17,150 --> 00:21:20,150
+Mas me pergunto,
+sr. Presidente,
+
+368
+00:21:21,050 --> 00:21:23,250
+se já não fiz o suficiente.
+
+369
+00:21:26,950 --> 00:21:29,000
+"Receio não ter entendido."
+
+370
+00:21:31,507 --> 00:21:33,850
+Tem conhecimento
+do efeito Scott?
+
+371
+00:21:34,250 --> 00:21:37,700
+É uma fórmula científica
+usada para determinar
+
+372
+00:21:37,701 --> 00:21:39,600
+o número de pessoas
+que precisam
+
+373
+00:21:39,601 --> 00:21:43,550
+receber a cura contagiosa
+para espalhá-la com eficácia.
+
+374
+00:21:43,551 --> 00:21:46,100
+Se pessoas insuficientes
+receberem, a cura acaba,
+
+375
+00:21:46,101 --> 00:21:49,800
+e um grande número de pessoas
+é deixada desprotegida.
+
+376
+00:21:50,750 --> 00:21:52,849
+Pelo que soube,
+
+377
+00:21:52,850 --> 00:21:55,250
+isso pode estar
+acontecendo aqui na Ásia...
+
+378
+00:21:55,650 --> 00:21:58,350
+O que significa que as doses
+que enviamos
+
+379
+00:21:58,351 --> 00:22:01,850
+não estão chegando
+às pessoas que precisam.
+
+380
+00:22:01,851 --> 00:22:06,050
+Capitão, se está sugerindo
+
+381
+00:22:06,051 --> 00:22:07,751
+que não faço o suficiente...
+
+382
+00:22:07,752 --> 00:22:10,350
+Sou um homem militar,
+Sr. Presidente.
+
+383
+00:22:10,850 --> 00:22:12,450
+Não dou sugestões.
+
+384
+00:22:13,100 --> 00:22:15,750
+Como já disse ao seu
+Presidente várias vezes,
+
+385
+00:22:15,751 --> 00:22:18,250
+estamos fazendo
+tudo o que podemos,
+
+386
+00:22:18,251 --> 00:22:22,550
+mas nem mesmo a China pode
+produzir a cura tão rapidamente
+
+387
+00:22:22,551 --> 00:22:24,251
+em uma área tão grande.
+
+388
+00:22:24,252 --> 00:22:26,450
+Com todo respeito,
+Sr. Presidente,
+
+389
+00:22:27,150 --> 00:22:29,650
+- não acho que tenta o bastante.
+- Capitão.
+
+390
+00:22:29,651 --> 00:22:31,950
+Certamente,
+Hong Kong receberá a cura.
+
+391
+00:22:31,951 --> 00:22:33,850
+Xangai, talvez.
+
+392
+00:22:34,700 --> 00:22:36,750
+Mas e os países
+ao seu redor?
+
+393
+00:22:36,751 --> 00:22:38,301
+Doses da cura estragam
+
+394
+00:22:38,302 --> 00:22:40,550
+em depósitos chineses
+enquanto conversamos.
+
+395
+00:22:40,551 --> 00:22:43,449
+Enquanto o resto da Ásia
+implora,
+
+396
+00:22:43,450 --> 00:22:46,349
+ninguém aqui parece reclamar.
+
+397
+00:22:46,350 --> 00:22:49,250
+Não sei se eles temem você.
+Eu certamente não temo.
+
+398
+00:22:51,850 --> 00:22:54,650
+Se não espalhar a cura,
+
+399
+00:22:55,250 --> 00:22:58,050
+meu Presidente quer que saiba
+que nós vamos.
+
+400
+00:22:58,450 --> 00:23:02,550
+A China quer ficar
+do lado errado da história?
+
+401
+00:23:11,486 --> 00:23:12,786
+Licença.
+
+402
+00:23:14,700 --> 00:23:16,601
+Tenho assuntos urgentes.
+
+403
+00:23:28,400 --> 00:23:29,711
+Como me saí?
+
+404
+00:23:30,600 --> 00:23:32,519
+O elefante foi cutucado.
+
+405
+00:23:38,766 --> 00:23:42,766
+HAI PHONG, VIETNÃ
+DIA DA ENTREGA DA CURA
+
+406
+00:24:10,750 --> 00:24:13,750
+Esperava uma festinha,
+talvez um chá gelado.
+
+407
+00:24:13,751 --> 00:24:15,751
+Isso está mais
+para um clube de strip.
+
+408
+00:24:15,752 --> 00:24:17,202
+Acho que é
+como eles imaginam
+
+409
+00:24:17,203 --> 00:24:19,150
+ser uma recepção
+pós-apocalíptica.
+
+410
+00:24:19,151 --> 00:24:20,851
+Está mais
+para um ato de liberdade.
+
+411
+00:24:22,751 --> 00:24:25,950
+Não quero insultar ninguém,
+vamos embora em 30 minutos.
+
+412
+00:24:29,150 --> 00:24:30,450
+Você é bonito!
+
+413
+00:24:32,250 --> 00:24:34,250
+Muitas mulheres bonitas!
+
+414
+00:24:35,350 --> 00:24:36,750
+Agora vamos em 20 minutos.
+
+415
+00:24:38,551 --> 00:24:39,851
+- Você está...
+- O quê?
+
+416
+00:24:39,852 --> 00:24:41,152
+Espere.
+
+417
+00:24:53,300 --> 00:24:55,200
+<i>Chu'a</i>.
+Isso significa "cura"?
+
+418
+00:24:55,201 --> 00:24:58,350
+Não sei o que está dizendo,
+mas estou feliz por estar aqui.
+
+419
+00:25:06,850 --> 00:25:08,449
+Lasers.
+
+420
+00:25:08,450 --> 00:25:10,950
+Não do tipo que estamos
+acostumados, mas são.
+
+421
+00:25:10,951 --> 00:25:12,451
+Esse lugar é ótimo.
+
+422
+00:25:12,452 --> 00:25:15,152
+Antes do vírus,
+era a melhor boate da cidade.
+
+423
+00:25:15,552 --> 00:25:17,902
+Daqui, pessoas vão seguir
+em todas as direções
+
+424
+00:25:17,903 --> 00:25:19,333
+espalhando a cura.
+
+425
+00:25:19,334 --> 00:25:21,150
+Trouxeram vida
+de novo ao Vietnã.
+
+426
+00:25:48,900 --> 00:25:50,200
+Senhor?
+
+427
+00:25:56,400 --> 00:25:58,650
+Formação militar de ataque
+padrão.
+
+428
+00:25:58,651 --> 00:25:59,951
+Gator, está vendo isso?
+
+429
+00:25:59,952 --> 00:26:02,850
+Sim. As identificações
+são bem diferentes.
+
+430
+00:26:02,851 --> 00:26:05,950
+O primeiro é um navio tanque
+de produtos químicos liberiano.
+
+431
+00:26:05,951 --> 00:26:08,650
+O segundo um petroleiro
+das Ilhas Marshall.
+
+432
+00:26:08,651 --> 00:26:11,750
+O terceiro um pesqueiro
+chinês classe B.
+
+433
+00:26:12,750 --> 00:26:14,350
+Estão vindo direto para nós.
+
+434
+00:26:14,850 --> 00:26:16,300
+Fique de olho neles.
+
+435
+00:26:43,100 --> 00:26:45,050
+É só água, Capitã.
+
+436
+00:26:47,250 --> 00:26:48,550
+Tenente,
+
+437
+00:26:49,350 --> 00:26:52,601
+partimos amanhã
+em direção a Pho Kong.
+
+438
+00:26:52,602 --> 00:26:54,849
+É bem à frente
+da maldita Okinawa.
+
+439
+00:26:54,850 --> 00:26:57,950
+Terá um avião de carga
+com destino a St. Louis
+
+440
+00:26:57,951 --> 00:27:00,050
+com o seu nome nele.
+
+441
+00:27:03,250 --> 00:27:05,950
+- Senhor.
+- Ordens do Chefe Naval.
+
+442
+00:27:06,550 --> 00:27:07,850
+Você vai para casa.
+
+443
+00:27:07,851 --> 00:27:10,450
+Encontre Kara.
+Conheça seu filho.
+
+444
+00:27:13,750 --> 00:27:15,050
+Obrigado, senhor.
+
+445
+00:27:19,250 --> 00:27:20,550
+Isso!
+
+446
+00:27:23,023 --> 00:27:25,950
+O quê?
+Ele precisa ver o filho.
+
+447
+00:27:26,950 --> 00:27:28,600
+Que horas são?
+
+448
+00:27:30,000 --> 00:27:31,550
+Mais 10 minutos.
+
+449
+00:27:33,650 --> 00:27:35,750
+Superfície,
+onde estão aqueles barcos?
+
+450
+00:27:35,751 --> 00:27:38,450
+Ainda em formação, senhor,
+mas mudaram o rumo.
+
+451
+00:27:42,250 --> 00:27:43,850
+Estão contornando
+a foz aqui,
+
+452
+00:27:43,851 --> 00:27:45,450
+em direção ao rio Bach Dang.
+
+453
+00:27:45,850 --> 00:27:48,400
+Um navio tanque nunca
+conseguiria subir esse rio.
+
+454
+00:27:48,401 --> 00:27:50,401
+Não, mas ele pode
+ancorar nessa entrada.
+
+455
+00:27:51,001 --> 00:27:52,551
+Por que fazer isso
+quando existe
+
+456
+00:27:52,552 --> 00:27:54,250
+um porto
+em água profunda aqui?
+
+457
+00:27:54,251 --> 00:27:57,250
+- Acho que estão se escondendo.
+- Eu concordo.
+
+458
+00:27:57,251 --> 00:27:58,751
+Deveríamos chamar
+o Comandante.
+
+459
+00:27:58,752 --> 00:28:00,849
+Não,
+não por uma linha aberta.
+
+460
+00:28:00,850 --> 00:28:03,650
+- A ameaça no mar, não em terra.
+- Não confirmado.
+
+461
+00:28:03,651 --> 00:28:05,749
+Enviamos o helicóptero
+ao local combinado.
+
+462
+00:28:05,750 --> 00:28:07,050
+Pode chegar em 10 minutos.
+
+463
+00:28:08,234 --> 00:28:10,634
+Controle Aéreo,
+prepare o Romeo.
+
+464
+00:28:12,334 --> 00:28:15,250
+Não chamando o Comandante,
+não daremos nenhum alerta.
+
+465
+00:28:15,850 --> 00:28:17,150
+10 minutos.
+
+466
+00:28:26,200 --> 00:28:28,450
+A China ainda
+é uma grande nação.
+
+467
+00:28:29,650 --> 00:28:31,050
+O Presidente Michener espera
+
+468
+00:28:31,051 --> 00:28:33,300
+que sejam nossos parceiros
+nessa empreitada.
+
+469
+00:28:33,850 --> 00:28:35,250
+E nós seremos.
+
+470
+00:28:35,850 --> 00:28:38,150
+Mas temos um limite
+do que podemos fazer.
+
+471
+00:28:38,151 --> 00:28:42,200
+Estamos sob constante ataque
+de déspotas, piratas,
+
+472
+00:28:42,201 --> 00:28:44,200
+e nossos próprios vizinhos.
+
+473
+00:28:44,201 --> 00:28:48,150
+O Vietnã continua nos atacando
+pelas fronteiras meridionais.
+
+474
+00:28:48,550 --> 00:28:52,150
+E o que os EUA faz para ajudar,
+Capitão?
+
+475
+00:28:52,650 --> 00:28:55,850
+Entregaram mais doses da cura
+aos meus inimigos.
+
+476
+00:28:57,550 --> 00:28:59,850
+Acho que entendeu mal.
+
+477
+00:29:01,450 --> 00:29:04,600
+Nathan James aportou
+em território vietnamita
+
+478
+00:29:04,601 --> 00:29:06,450
+em uma missão humanitária.
+
+479
+00:29:06,800 --> 00:29:09,350
+Uma missão humanitária.
+
+480
+00:29:09,950 --> 00:29:13,250
+Ainda assim entrega a cura
+
+481
+00:29:13,251 --> 00:29:17,250
+usando um contratorpedeiro
+com mísseis teleguiados.
+
+482
+00:29:18,450 --> 00:29:20,650
+Então me diga, Capitão,
+
+483
+00:29:20,651 --> 00:29:23,550
+eu realmente entendi mal?
+
+484
+00:29:33,200 --> 00:29:35,150
+<i>Saberhawk Um
+está em solo.</i>
+
+485
+00:29:38,250 --> 00:29:40,850
+Saberhawk Um em solo
+no ponto de extração.
+
+486
+00:29:41,700 --> 00:29:43,550
+Lincoln está
+a caminho da boate.
+
+487
+00:29:49,750 --> 00:29:52,150
+Estão preparados?
+O Comandante quer ir.
+
+488
+00:29:52,151 --> 00:29:53,451
+- Agora?
+- Sim.
+
+489
+00:29:53,452 --> 00:29:55,652
+- Onde estão Miller e Diaz?
+- Não os vi.
+
+490
+00:29:55,653 --> 00:29:58,400
+Sr. Binh está com um furgão
+pronto nos fundos.
+
+491
+00:29:58,401 --> 00:30:00,551
+Vou encontrar os outros.
+Encontro vocês lá.
+
+492
+00:30:02,001 --> 00:30:03,662
+Finalmente,
+eles nos deixaram vir,
+
+493
+00:30:03,663 --> 00:30:05,000
+e nos divertir hoje.
+
+494
+00:30:05,001 --> 00:30:06,800
+- Sabe, quando...
+- Cadê o Diaz?
+
+495
+00:30:06,801 --> 00:30:09,736
+A beira de uma experiência
+de mudança de vida.
+
+496
+00:30:10,150 --> 00:30:12,350
+- Então eu vi você...
+- Vá para o furgão.
+
+497
+00:30:14,000 --> 00:30:15,550
+Só pode estar
+de brincadeira!
+
+498
+00:30:17,300 --> 00:30:19,063
+Vou voltar por você,
+certo?
+
+499
+00:30:19,064 --> 00:30:20,650
+Tudo bem, não me esqueça.
+
+500
+00:30:24,050 --> 00:30:26,850
+Eles sumiram.
+Estão tentando se esconder.
+
+501
+00:30:29,800 --> 00:30:31,700
+Agora alertamos o Comandante
+
+502
+00:30:31,701 --> 00:30:33,901
+e fazê-lo ir ao encontro
+do helicóptero.
+
+503
+00:30:37,951 --> 00:30:39,251
+Licença.
+
+504
+00:30:54,851 --> 00:30:56,476
+Sem contato com o Comandante.
+
+505
+00:31:02,734 --> 00:31:04,084
+Capitão.
+
+506
+00:31:04,085 --> 00:31:05,385
+Algo está errado.
+
+507
+00:31:15,348 --> 00:31:16,648
+Fique abaixado.
+
+508
+00:31:51,849 --> 00:31:53,809
+Nathan James, você nos ouve?
+
+509
+00:32:25,382 --> 00:32:27,029
+<i>Nathan James.
+Saberhawk Um.</i>
+
+510
+00:32:27,030 --> 00:32:29,783
+<i>Não temos contato do Lincoln
+ou da equipe de terra.</i>
+
+511
+00:32:31,439 --> 00:32:33,722
+Eles escaparam.
+Eu os persegui o quanto pude.
+
+512
+00:32:33,723 --> 00:32:35,149
+Circulei e retornei à boate.
+
+513
+00:32:35,150 --> 00:32:37,636
+Lincoln está morto.
+Assim como os seguranças.
+
+514
+00:32:37,637 --> 00:32:40,467
+Meu rádio está morto.
+Devem ter usado um PEM no local.
+
+515
+00:32:40,468 --> 00:32:43,222
+Mercenários têm o Comandante,
+Imediato e o Miller.
+
+516
+00:32:43,223 --> 00:32:44,835
+Não vi quem mais.
+
+517
+00:32:44,836 --> 00:32:46,786
+Entraram na van
+e seguiram nor-nordeste,
+
+518
+00:32:46,787 --> 00:32:48,087
+e eu os perdi.
+
+519
+00:32:48,088 --> 00:32:51,809
+Esses caras são profissionais,
+e queriam reféns.
+
+520
+00:32:52,197 --> 00:32:53,947
+Ligamos para o James
+do helicóptero,
+
+521
+00:32:53,948 --> 00:32:56,358
+e, então, sobrevoamos
+e tentamos encontrar a van.
+
+522
+00:32:56,359 --> 00:32:57,779
+Não devem estar muito longe.
+
+523
+00:32:59,287 --> 00:33:00,587
+Míssil!
+
+524
+00:33:10,541 --> 00:33:12,893
+Senhor, comunicações
+com o helicóptero cessaram.
+
+525
+00:33:12,894 --> 00:33:14,194
+Como assim, cessaram?
+
+526
+00:33:14,195 --> 00:33:16,054
+Ele parou de enviar
+informação no IFF.
+
+527
+00:33:16,055 --> 00:33:17,904
+Parou de responder
+meus chamados.
+
+528
+00:33:17,905 --> 00:33:20,073
+Perdemos contato
+com todos em terra.
+
+529
+00:33:30,410 --> 00:33:32,070
+10km até o porto.
+
+530
+00:33:34,659 --> 00:33:35,959
+Vamos.
+
+531
+00:33:39,900 --> 00:33:41,245
+Repito,
+
+532
+00:33:41,246 --> 00:33:43,898
+Saberhawk Um, aqui é Nathan.
+Você nos ouve?
+
+533
+00:33:43,899 --> 00:33:45,699
+Senhor,
+10km até o ponto de encontro.
+
+534
+00:33:45,700 --> 00:33:47,650
+- Vou com uns caras de jipe.
+- Negativo.
+
+535
+00:33:47,651 --> 00:33:50,041
+- Não sem saber da situação lá.
+- Mas, senhor...
+
+536
+00:33:50,042 --> 00:33:52,470
+Toda a liderança
+está sem comunicação.
+
+537
+00:33:52,471 --> 00:33:53,771
+Dê-me um minuto.
+
+538
+00:33:53,772 --> 00:33:55,564
+<i>- Você nos ouve?</i>
+- Tenente.
+
+539
+00:33:55,565 --> 00:33:57,448
+<i>Saberhawk Um,
+aqui é o Nathan James.</i>
+
+540
+00:33:57,449 --> 00:33:58,749
+<i>Você nos ouve?</i>
+
+541
+00:33:59,854 --> 00:34:01,237
+É a nossa intérprete.
+
+542
+00:34:01,587 --> 00:34:02,924
+Ela estava na boate.
+
+543
+00:34:18,038 --> 00:34:19,338
+O que você acha?
+
+544
+00:34:20,062 --> 00:34:21,953
+Ele está dizendo
+as coisas certas.
+
+545
+00:34:22,517 --> 00:34:24,085
+Não acredito em uma palavra.
+
+546
+00:34:28,944 --> 00:34:30,424
+O que ela está dizendo?
+
+547
+00:34:31,366 --> 00:34:33,588
+Vietnã não é o responsável.
+
+548
+00:34:33,939 --> 00:34:35,753
+- Ela jura.
+- Pelo quê?
+
+549
+00:34:35,754 --> 00:34:37,082
+Eu não sei.
+
+550
+00:34:37,083 --> 00:34:40,313
+Capitão,
+houve um ataque no Vietnã.
+
+551
+00:34:40,314 --> 00:34:41,614
+O James?
+
+552
+00:34:41,615 --> 00:34:44,094
+O Presidente quebrou
+o silêncio no rádio.
+
+553
+00:34:44,095 --> 00:34:45,858
+Ele o ordenou
+que retorne para casa.
+
+554
+00:34:45,859 --> 00:34:47,159
+Vê, Capitão.
+
+555
+00:34:47,757 --> 00:34:52,052
+Agora você vê quem é
+o verdadeiro inimigo da paz.
+
+556
+00:34:59,010 --> 00:35:01,395
+Só matei
+os que estavam armados.
+
+557
+00:35:01,396 --> 00:35:02,696
+Desculpe, chefe.
+
+558
+00:35:13,824 --> 00:35:15,922
+Haviam dois mais.
+Eles fugiram.
+
+559
+00:35:16,499 --> 00:35:18,316
+Encontre-os.
+
+560
+00:35:18,317 --> 00:35:19,617
+Certo.
+
+561
+00:35:22,942 --> 00:35:25,666
+Comandante, Imediato,
+
+562
+00:35:25,667 --> 00:35:30,214
+Suboficial, Mason, Rios,
+
+563
+00:35:30,215 --> 00:35:32,646
+<i>Diaz, Lincoln,</i>
+
+564
+00:35:33,132 --> 00:35:35,581
+<i>Miller, Riley,</i>
+
+565
+00:35:35,966 --> 00:35:38,450
+</u>Harris, DaCunha,<u>
+
+566
+00:35:39,785 --> 00:35:43,026
+Carlton Burk e Green
+
+567
+00:35:43,027 --> 00:35:44,877
+<i>oficialmente desaparecidos
+em combate.</i>
+
+568
+00:35:45,768 --> 00:35:48,608
+Nathan James deve ir
+para águas internacionais.
+
+569
+00:35:48,922 --> 00:35:50,287
+Não podemos fazer isso.
+
+570
+00:35:51,451 --> 00:35:53,078
+Se houver
+um ataque coordenado,
+
+571
+00:35:53,079 --> 00:35:55,391
+você está muito vulnerável
+no porto.
+
+572
+00:35:55,392 --> 00:35:59,026
+- Aguarde até o apoio chegar.
+<i>- Apoio?</i>
+
+573
+00:35:59,027 --> 00:36:01,393
+Estamos há 12 mil km
+de lugar nenhum.
+
+574
+00:36:02,327 --> 00:36:04,286
+São as ordens
+do Plano de Contingência.
+
+575
+00:36:04,287 --> 00:36:06,371
+Você entende
+o que está me pedindo?
+
+576
+00:36:06,372 --> 00:36:09,390
+Navegue 25 milhas náuticas
+da costa
+
+577
+00:36:09,391 --> 00:36:12,537
+e entre em contato
+para mais instruções.
+
+578
+00:36:14,306 --> 00:36:17,295
+Considere como ordem direta
+do Presidente.
+
+579
+00:36:21,693 --> 00:36:23,886
+Nathan James, recebido.
+
+580
+00:36:24,784 --> 00:36:26,331
+Entendido.
+
+581
+00:36:54,113 --> 00:36:58,784
+Oficial, vamos a toda velocidade
+e inicie os eixos.
+
+582
+00:36:58,785 --> 00:37:02,437
+Sim, senhor. Chefe de carga,
+vamos a toda velocidade.
+
+583
+00:37:02,969 --> 00:37:04,361
+<i>Atenção.</i>
+
+584
+00:37:04,362 --> 00:37:06,396
+<i>Preparar para alto-mar.</i>
+
+585
+00:37:18,862 --> 00:37:20,888
+- Você vai ficar bem?
+- Vou.
+
+586
+00:37:20,889 --> 00:37:22,888
+Vou ficar e convencer Peng
+a não fazer
+
+587
+00:37:22,889 --> 00:37:25,177
+uma desculpa
+para invadir o Vietnã.
+
+588
+00:37:25,999 --> 00:37:28,593
+Dê-me alguns dias,
+e vejo você em St. Louis.
+
+589
+00:37:29,295 --> 00:37:31,175
+Não faça nada estúpido.
+
+590
+00:37:31,609 --> 00:37:32,909
+Entendido.
+
+591
+00:37:33,744 --> 00:37:36,205
+Desculpe pelo nosso encontro
+ser tão curto.
+
+592
+00:37:37,095 --> 00:37:39,351
+E desculpe
+pelo Nathan James.
+
+593
+00:37:39,745 --> 00:37:41,554
+Nós vamos dar um jeito.
+
+594
+00:38:22,078 --> 00:38:23,978
+LIVRO DE RACIONAMENTO
+
+595
+00:38:32,448 --> 00:38:34,248
+SELO DE RACIONAMENTO
+
+596
+00:38:45,704 --> 00:38:48,410
+- O que está fazendo?
+- Não disseram que morreram.
+
+597
+00:38:48,835 --> 00:38:50,518
+A mensagem do Presidente...
+
+598
+00:38:50,519 --> 00:38:52,699
+Não disseram
+que marinheiros foram mortos.
+
+599
+00:38:52,700 --> 00:38:55,677
+Não sei. Digo, acho que não.
+Não sabemos o que aconteceu.
+
+600
+00:38:55,678 --> 00:38:58,680
+As ordens vão fazer Nathan James
+navegar por sua segurança.
+
+601
+00:38:58,681 --> 00:39:01,643
+O reforço vai demorar
+para chegarmos a Hai Phong.
+
+602
+00:39:01,644 --> 00:39:04,836
+Se nossa equipe
+foi levada como refém,
+
+603
+00:39:04,837 --> 00:39:09,155
+até lá, a trilha irá esfriar.
+Eu vou para o Vietnã.
+
+604
+00:39:09,156 --> 00:39:11,883
+- Mas como?
+- Vou achar um jeito.
+
+605
+00:39:11,884 --> 00:39:13,317
+Leve mensagem
+ao Presidente.
+
+606
+00:39:13,318 --> 00:39:15,806
+Avise que vamos nos encontrar
+com o Nathan James.
+
+607
+00:39:15,807 --> 00:39:17,389
+Vou achar Slattery
+e sua equipe.
+
+608
+00:39:17,390 --> 00:39:20,715
+Mas espere até estarem
+em espaço aéreo seguro. Certo?
+
+609
+00:39:20,716 --> 00:39:22,327
+Entendi.
+
+610
+00:39:23,579 --> 00:39:25,792
+Pare o avião!
+Abra!
+
+611
+00:39:27,585 --> 00:39:28,953
+O quê?
+
+612
+00:39:29,422 --> 00:39:30,795
+Vamos.
+
+613
+00:39:39,047 --> 00:39:40,646
+Tom, você está louco?
+
+614
+00:39:40,647 --> 00:39:42,652
+É o único avião para casa
+por semanas.
+
+615
+00:39:43,216 --> 00:39:45,256
+Preciso que me leve
+ao Vietnã.
+
+616
+00:39:54,346 --> 00:39:55,730
+Merda.
+
+617
+00:39:55,731 --> 00:39:57,134
+Tenho contatos na cidade.
+
+618
+00:39:57,135 --> 00:40:00,228
+Não podemos voltar a Hong Kong
+sem levantarmos suspeitas.
+
+619
+00:40:00,229 --> 00:40:02,224
+Você não mudou nada, não é?
+
+620
+00:40:02,225 --> 00:40:04,841
+- Ainda o caubói?
+- E você não é intérprete.
+
+621
+00:40:04,842 --> 00:40:07,125
+Eu vi a arma
+escondida nas suas calças.
+
+622
+00:40:07,126 --> 00:40:09,137
+Deve ter amigos
+na força aérea chinesa
+
+623
+00:40:09,138 --> 00:40:11,804
+ou acesso
+a um conspícuo carro.
+
+624
+00:40:11,805 --> 00:40:14,371
+Posso dar
+alguns telefonemas da estrada.
+
+625
+00:40:19,404 --> 00:40:22,652
+- Senhora, fique no lugar.
+- Precisa voltar.
+
+626
+00:40:22,653 --> 00:40:24,024
+- O quê?
+- Você ouviu.
+
+627
+00:40:24,025 --> 00:40:26,033
+Se fizermos,
+precisamos avisar St. Louis.
+
+628
+00:40:26,034 --> 00:40:28,227
+Não pode avisar ninguém,
+certo?
+
+629
+00:40:28,228 --> 00:40:30,908
+Levará quatro horas
+até estarmos seguros.
+
+630
+00:40:30,909 --> 00:40:32,854
+Você precisa voltar.
+
+631
+00:40:33,785 --> 00:40:36,346
+Este é um assunto
+de segurança nacional.
+
+632
+00:40:37,395 --> 00:40:39,895
+É sua culpa se o Chefe
+de Operações ficar irritado.
+
+633
+00:40:39,896 --> 00:40:41,567
+Eu enfrento
+as consequências.
+
+634
+00:40:42,395 --> 00:40:45,740
+HKG, é o Cowboy 3722.
+
+635
+00:40:45,741 --> 00:40:47,550
+Declaramos
+emergência a bordo.
+
+636
+00:40:47,551 --> 00:40:50,886
+Solicito pouso imediato
+na pista 2-5.
+
+637
+00:40:53,515 --> 00:40:54,842
+Esperem.
+
+638
+00:40:55,951 --> 00:40:57,251
+O que estão fazendo?
+
+639
+00:40:59,074 --> 00:41:00,893
+Eles estão voltando.
+
+640
+00:41:04,714 --> 00:41:06,014
+Val!
+
+641
+00:41:11,189 --> 00:41:14,189
+www.insubs.com
+
