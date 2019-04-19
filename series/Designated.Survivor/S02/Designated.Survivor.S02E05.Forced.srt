@@ -1,0 +1,21 @@
+1
+00:00:05,464 --> 00:00:07,549
+<font color="white">UMA SÉRIE ORIGINAL NETFLIX</font>
+
+2
+00:08:07,362 --> 00:08:10,198
+{\an8}<font color="white">SENADOR ROUSE SE OPÕE</font>
+<font color="white">A PACOTE DE RESGATE DE KIRKMAN</font>
+
+3
+00:17:57,660 --> 00:18:01,247
+{\an8}<font color="white">GOVERNO DE KIRKMAN EM CRISE</font>
+
+4
+00:34:26,731 --> 00:34:30,068
+{\an8}<font color="white">PRESIDENTE FALA DO "ESCÂNDALO DOS IDIOTAS"</font>
+
+5
+00:42:07,275 --> 00:42:09,277
+<font color="white">Legendas: Branca Vanessa Nisio</font>
+
