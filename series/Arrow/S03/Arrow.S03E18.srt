@@ -1,0 +1,2806 @@
+﻿1
+00:00:02,160 --> 00:00:04,162
+<i>Meu nome é Oliver Queen.</i>
+
+2
+00:00:04,320 --> 00:00:07,563
+<i>Depois de 5 anos no inferno...
+Eu voltei pra casa com um único objetivo:</i>
+
+3
+00:00:07,720 --> 00:00:09,609
+<i>salvar a minha cidade.</i>
+
+4
+00:00:09,760 --> 00:00:11,489
+<i>Agora outros se juntaram
+à minha cruzada.</i>
+
+5
+00:00:12,040 --> 00:00:13,963
+<i>Pra eles, eu sou Oliver Queen.</i>
+
+6
+00:00:14,120 --> 00:00:16,964
+<i>Para o restante de Starling City,
+eu sou outra pessoa.</i>
+
+7
+00:00:17,520 --> 00:00:20,330
+<i>Eu sou outra coisa.</i>
+
+8
+00:00:20,480 --> 00:00:21,686
+<i>Anteriormente em Arqueiro.</i>
+
+9
+00:00:21,840 --> 00:00:23,649
+Eu quero que você tome meu lugar.
+
+10
+00:00:23,800 --> 00:00:26,451
+Eu quero que se torne
+o próximo Ra's AI Ghul.
+
+11
+00:00:29,280 --> 00:00:31,886
+- Maseo...
+-Meu mestre vê algo em você.
+
+12
+00:00:32,040 --> 00:00:35,362
+Não deixe sua teimosia tirar mais vidas.
+
+13
+00:00:35,760 --> 00:00:36,807
+Oliver.
+
+14
+00:00:36,960 --> 00:00:38,121
+ARQUEIRO VOLTA A MATAR
+
+15
+00:00:38,520 --> 00:00:42,161
+Temos que parar esse cara antes
+que ele acerte flechas em mais criminosos.
+
+16
+00:00:42,320 --> 00:00:44,561
+Ou antes que ele comece
+a acertar em pessoas inocentes.
+
+17
+00:00:44,880 --> 00:00:47,611
+Capitão, acho que está deixando
+seus sentimentos sobre o Arqueiro...
+
+18
+00:00:47,760 --> 00:00:48,568
+confundirem seu julgamento.
+
+19
+00:00:48,720 --> 00:00:51,200
+Talvez eu esteja vendo tudo mais
+claramente do que nos últimos anos.
+
+20
+00:00:51,400 --> 00:00:53,448
+Está bom. Já chega, vocês dois.
+Estou cansada de ouvir...
+
+21
+00:01:01,000 --> 00:01:03,765
+Aqui é o Capitão Lance.
+Prefeitura. Tiros disparados.
+
+22
+00:01:04,600 --> 00:01:07,922
+Suspeito fugindo. Eu preciso de
+reforços e uma ambulância agora.
+
+23
+00:01:09,120 --> 00:01:10,849
+- Você está bem?
+-Estou bem.
+
+24
+00:01:20,800 --> 00:01:23,565
+ARQUEIRO
+
+25
+00:01:24,560 --> 00:01:29,248
+<i>Nós temos a confirmação que a
+Prefeita Castle faleceu no local do crime.</i>
+
+26
+00:01:29,440 --> 00:01:31,568
+<i>O presidente da Tecnologias Palmer,
+Ray Palmer...</i>
+
+27
+00:01:31,720 --> 00:01:33,882
+<i>foi levado ao
+Hospital Geral de Starling...</i>
+
+28
+00:01:34,040 --> 00:01:36,247
+<i>onde se encontra
+em estado grave.</i>
+
+29
+00:01:36,400 --> 00:01:38,641
+Tentei ligar pra Felicity mais cedo,
+ela não está atendendo.
+
+30
+00:01:38,800 --> 00:01:42,168
+<i>O capitão da polícia de Starling, Quentin
+Lance, estava presente no ataque...</i>
+
+31
+00:01:42,360 --> 00:01:44,488
+<i>e deu essa declaração
+sobre o incidente:</i>
+
+32
+00:01:44,640 --> 00:01:47,610
+<i>Eu pedi um mandado
+de prisão para o Arqueiro...</i>
+
+33
+00:01:47,760 --> 00:01:50,491
+<i>e restabeleci a
+força-tarefa antivigilante...</i>
+
+34
+00:01:50,640 --> 00:01:52,961
+<i>com ordem para matá-lo
+se for necessário.</i>
+
+35
+00:01:53,120 --> 00:01:56,329
+<i>Por que, de repente, o Arqueiro
+decidiu matar a prefeita?</i>
+
+36
+00:01:56,480 --> 00:01:59,165
+<i>Eu não sei, mas devia ter confiado
+no meu primeiro instinto...</i>
+
+37
+00:01:59,320 --> 00:02:02,802
+<i>que esse homem é
+um assassino e um criminoso.</i>
+
+38
+00:02:02,960 --> 00:02:05,008
+<i>Talvez a Prefeita Castle
+ainda estivesse viva.</i>
+
+39
+00:02:05,160 --> 00:02:06,969
+<i>- Sem mais perguntas, obrigado.</i>
+- Ele pode <i>estar certo.</i>
+
+40
+00:02:07,800 --> 00:02:10,770
+Oliver, não comece a pensar assim. Temos que
+lidar com o problema que temos nas mãos.
+
+41
+00:02:10,920 --> 00:02:13,810
+Os crimes estão sendo planejados
+por um dos homens de Ra's...
+
+42
+00:02:13,960 --> 00:02:15,325
+Maseo Yamashiro.
+
+43
+00:02:15,480 --> 00:02:18,450
+- Ok. Parece que você o conhece.
+-Eu pensei que sim, há muito tempo.
+
+44
+00:02:18,600 --> 00:02:19,806
+O homem é um desconhecido
+pra mim agora.
+
+45
+00:02:19,960 --> 00:02:22,531
+Oliver, a pergunta é: onde
+encontramos esse desconhecido?
+
+46
+00:02:22,680 --> 00:02:25,001
+Eu conheço uma pessoa
+que pode ajudar.
+
+47
+00:02:28,400 --> 00:02:29,640
+Quem são aqueles homens?
+
+48
+00:02:29,800 --> 00:02:31,006
+Eu não sei.
+
+49
+00:02:31,160 --> 00:02:33,527
+Então por que estamos fugindo deles?
+
+50
+00:02:38,000 --> 00:02:39,525
+Shado?
+
+51
+00:02:41,720 --> 00:02:43,927
+O quê? Como conhecia minha irmã?
+
+52
+00:02:45,440 --> 00:02:47,169
+Sua... Sua irmã?
+
+53
+00:02:47,320 --> 00:02:50,130
+- Minha gêmea. Como você conhece a Shado?
+- Oliver...
+
+54
+00:02:50,280 --> 00:02:53,523
+É uma longa história. Meu amigo e eu
+estamos com um probleminha...
+
+55
+00:02:53,680 --> 00:02:56,126
+e queríamos saber se pode
+nos ajudar a sair das ruas.
+
+56
+00:02:57,400 --> 00:02:59,721
+O que está acontecendo?
+É uma longa história também.
+
+57
+00:02:59,920 --> 00:03:02,002
+Você pode nos ajudar?
+
+58
+00:03:02,560 --> 00:03:03,641
+Escutem.
+
+59
+00:03:03,800 --> 00:03:06,883
+O suspeito está armado e é perigoso.
+Sem tiros de aviso.
+
+60
+00:03:07,080 --> 00:03:09,401
+O que aconteceu com inocente
+até que se prove o contrário?
+
+61
+00:03:09,560 --> 00:03:11,927
+Ele estava no telhado, Laurel.
+Eu vi com meus próprios olhos.
+
+62
+00:03:12,080 --> 00:03:13,730
+- Ele está sendo incriminado.
+-Por um imitador.
+
+63
+00:03:13,920 --> 00:03:16,924
+O que não aconteceria se ele
+não se vestisse como o Robin Hood.
+
+64
+00:03:17,080 --> 00:03:18,161
+Isso não é justo.
+
+65
+00:03:18,320 --> 00:03:21,164
+Você não entende o que está acontecendo
+aqui e eu preciso que confie em mim.
+
+66
+00:03:21,920 --> 00:03:22,967
+Eu confiava.
+
+67
+00:03:27,000 --> 00:03:29,162
+Quem é ele? Apenas me diga
+o nome ou eu vou...
+
+68
+00:03:29,320 --> 00:03:30,287
+O quê, pai?
+
+69
+00:03:30,480 --> 00:03:32,005
+Vai me acusar de ser cúmplice dele?
+
+70
+00:03:32,160 --> 00:03:34,606
+Eu farei o que for preciso,
+porque isso tem que acabar...
+
+71
+00:03:35,400 --> 00:03:36,686
+e tem que acabar hoje.
+
+72
+00:03:45,200 --> 00:03:49,603
+Eu sou a maior idiota do mundo
+por terminar com você.
+
+73
+00:03:51,680 --> 00:03:53,842
+Lembra a última vez
+que fizemos isso?
+
+74
+00:03:54,280 --> 00:03:56,487
+Nós íamos fugir juntos.
+
+75
+00:03:59,240 --> 00:04:01,208
+Por que não fugimos?
+
+76
+00:04:02,760 --> 00:04:04,364
+<i>RUY -</i>
+
+77
+00:04:06,280 --> 00:04:08,408
+As coisas estão complicadas
+pro Oliver agora.
+
+78
+00:04:09,720 --> 00:04:11,290
+Por causa do Ra's AI Ghul?
+
+79
+00:04:15,040 --> 00:04:16,087
+PROCURADO
+
+80
+00:04:16,240 --> 00:04:17,526
+Meu Deus.
+
+81
+00:04:20,480 --> 00:04:24,041
+<i>Logo após o ataque, o Capitão Lance
+emitiu um mandado de prisão...</i>
+
+82
+00:04:24,240 --> 00:04:26,368
+<i>para o vigilante conhecido
+como Arqueiro...</i>
+
+83
+00:04:26,520 --> 00:04:27,567
+HOSPITAL DE STARLING
+EMERGÊNCIAS
+
+84
+00:04:27,720 --> 00:04:30,485
+<i>...e a maior caçada a um homem na história
+da cidade está agora em andamento.</i>
+
+85
+00:04:30,640 --> 00:04:34,008
+<i>O Capitão Lance confirmou que um
+mandado de prisão também foi emitido...</i>
+
+86
+00:04:34,160 --> 00:04:37,289
+<i>para cada um dos
+cúmplices do Arqueiro.</i>
+
+87
+00:04:38,040 --> 00:04:39,485
+Ray?
+
+88
+00:04:41,800 --> 00:04:43,325
+Ei.
+
+89
+00:04:43,480 --> 00:04:46,165
+Oi. Como você está?
+
+90
+00:04:46,320 --> 00:04:49,005
+Você está aqui, então estou ótima.
+
+91
+00:04:51,800 --> 00:04:54,167
+Senhor Palmer, como está se sentindo?
+
+92
+00:04:55,320 --> 00:04:57,687
+Você não está com uma cara muito boa.
+
+93
+00:04:57,840 --> 00:04:59,285
+Está vendo o rosto dele?
+
+94
+00:04:59,480 --> 00:05:00,766
+Eu receio que tenho más notícias.
+
+95
+00:05:00,920 --> 00:05:04,447
+Durante a cirurgia para remover a flecha,
+você desenvolveu um trombo.
+
+96
+00:05:04,600 --> 00:05:06,329
+- Um coágulo de sangue.
+-Se não o tratarmos...
+
+97
+00:05:06,480 --> 00:05:08,687
+pode causar um AVC Isquêmico.
+
+98
+00:05:08,840 --> 00:05:11,525
+- Então acho melhor tratarmos.
+-Não é tão simples.
+
+99
+00:05:11,680 --> 00:05:13,523
+Seus ferimentos o deixaram muito fraco.
+
+100
+00:05:13,680 --> 00:05:16,809
+Uma craniotomia pode acabar
+te prejudicando mais do que ajudando.
+
+101
+00:05:17,000 --> 00:05:21,210
+- E com prejudicando você quer dizer...
+-Dano cerebral, se der certo.
+
+102
+00:05:22,080 --> 00:05:23,491
+Senão...
+
+103
+00:05:26,320 --> 00:05:31,042
+Então você está dizendo basicamente que
+se eu fizer a cirurgia agora, posso morrer...
+
+104
+00:05:31,200 --> 00:05:34,568
+e se eu esperar e o coágulo
+se mover, eu posso morrer.
+
+105
+00:05:36,080 --> 00:05:39,527
+E se eu te dissesse que inventei
+um monte de pequenos robôs...
+
+106
+00:05:39,680 --> 00:05:45,005
+que podem entrar na minha corrente sanguínea,
+viajar até o coágulo e encolhê-Io...
+
+107
+00:05:45,160 --> 00:05:48,403
+tudo sem danificar meu cérebro ou
+qualquer outro orgão do meu corpo?
+
+108
+00:05:48,600 --> 00:05:50,807
+Eu diria que precisa
+de avaliação psicológica.
+
+109
+00:05:50,960 --> 00:05:52,086
+Ok.
+
+110
+00:05:52,240 --> 00:05:56,245
+Mas depois, vamos pro meu laboratório,
+pegar a nanotecnologia...
+
+111
+00:05:56,400 --> 00:05:59,802
+<i>injetar</i> em mim e <i>publicar os resultados
+no Jornal de Medicina da Nova Inglaterra.</i>
+
+112
+00:06:00,000 --> 00:06:02,890
+Eu sinto muito,
+mas isso não é possível.
+
+113
+00:06:03,400 --> 00:06:05,164
+Eu inventei a tecnologia, é possível.
+
+114
+00:06:05,320 --> 00:06:09,689
+O Hospital de Starling tem uma política bem
+rigorosa contra procedimentos experimentais.
+
+115
+00:06:09,840 --> 00:06:12,525
+Espera. Existe um procedimento
+que pode salvá-Io...
+
+116
+00:06:12,720 --> 00:06:16,520
+-e está dizendo que não vai fazê-Io?
+-Estou dizendo que não posso fazê-Io.
+
+117
+00:06:16,680 --> 00:06:21,720
+O hospital não permitirá o uso de uma
+tecnologia experimental e não testada.
+
+118
+00:06:22,400 --> 00:06:24,767
+Como você sabe que sua
+invenção não irá matá-lo?
+
+119
+00:06:26,520 --> 00:06:29,410
+- Eu não sei. É um risco.
+-Eu sinto muito...
+
+120
+00:06:30,680 --> 00:06:32,603
+mas não há nada que eu <i>possa</i> fazer.
+
+121
+00:06:38,760 --> 00:06:40,250
+Vamos pensar em alguma coisa.
+
+122
+00:06:49,720 --> 00:06:50,960
+Ray Palmer.
+
+123
+00:06:51,720 --> 00:06:54,883
+Mesmo em uma cama de hospital,
+você é o homem mais bonito que eu já vi.
+
+124
+00:06:55,720 --> 00:06:57,802
+Pode nos dar um minuto?
+
+125
+00:06:57,960 --> 00:06:59,485
+Oi.
+
+126
+00:07:08,680 --> 00:07:11,650
+Eu soube o que aconteceu,
+então peguei o primeiro voo.
+
+127
+00:07:11,800 --> 00:07:14,041
+Então me conta, o que o médico disse?
+
+128
+00:07:15,600 --> 00:07:17,329
+Não disse nada de bom.
+
+129
+00:07:17,480 --> 00:07:20,131
+Ok. Ok. Ei.
+
+130
+00:07:22,480 --> 00:07:25,404
+Pelo menos você finalmente
+tem um namorado.
+
+131
+00:07:26,160 --> 00:07:27,207
+Mãe.
+
+132
+00:07:31,320 --> 00:07:34,324
+Como sabia que eu
+ainda estava em Starling?
+
+133
+00:07:38,200 --> 00:07:40,806
+- Laurel.
+-Eu preciso da sua ajuda, Nyssa.
+
+134
+00:07:41,840 --> 00:07:44,320
+Maseo também está em Starling.
+
+135
+00:07:44,520 --> 00:07:47,524
+É ele quem está por trás das mortes
+que estão acusando o Arqueiro.
+
+136
+00:07:47,680 --> 00:07:51,082
+<i>Sarab</i> faz as vontades do meu pa¡
+para que você faça o mesmo...
+
+137
+00:07:51,280 --> 00:07:54,921
+-e aceite seu lugar como herdeiro dele.
+-E você se sente traída por essa decisão?
+
+138
+00:07:58,520 --> 00:08:01,046
+Não o bastante para
+traí-Io ajudando você.
+
+139
+00:08:01,200 --> 00:08:02,486
+Pessoas estão morrendo, Nyssa.
+
+140
+00:08:03,160 --> 00:08:05,367
+E o que faz você pensar
+que isso é da minha conta?
+
+141
+00:08:06,480 --> 00:08:07,720
+<i>Sara.</i>
+
+142
+00:08:10,840 --> 00:08:12,808
+O que ela iria querer que você fizesse?
+
+143
+00:08:21,760 --> 00:08:23,364
+Eu tenho a localização do Maseo.
+
+144
+00:08:23,560 --> 00:08:25,483
+Um prédio chamado Magnuson Plaza.
+
+145
+00:08:26,400 --> 00:08:30,405
+É. A empresa dona do prédio
+foi à falência há alguns meses.
+
+146
+00:08:30,560 --> 00:08:34,485
+Pelo jeito a Liga está usando como
+esconderijo e para planejar os ataques.
+
+147
+00:08:34,640 --> 00:08:35,880
+Como você descobriu isso?
+
+148
+00:08:36,680 --> 00:08:37,966
+Eu sou a filha do Demônio.
+
+149
+00:08:38,760 --> 00:08:40,842
+Sua primeira preocupação
+deve ser a Liga.
+
+150
+00:08:41,040 --> 00:08:43,008
+Você pode colocar Maseo
+na mesma gaiola que me colocou...
+
+151
+00:08:43,160 --> 00:08:44,730
+mas meu pai tem um exército
+sob seu comando.
+
+152
+00:08:44,880 --> 00:08:46,564
+- Um passo de cada vez.
+-Oliver...
+
+153
+00:08:48,080 --> 00:08:50,321
+Teremos que nos separar se
+quisermos cobrir o prédio inteiro.
+
+154
+00:08:50,480 --> 00:08:52,482
+- Dig, eu quero que dê cobertura.
+-Entendido.
+
+155
+00:08:52,640 --> 00:08:54,768
+E quanto a ela?
+
+156
+00:08:54,920 --> 00:08:57,400
+Não confunda minha disposição
+em dar informações...
+
+157
+00:08:57,560 --> 00:08:59,528
+com uma oferta de lutar
+contra a Liga.
+
+158
+00:08:59,720 --> 00:09:03,327
+Nós agradecemos o que você fez.
+Nós cuidamos do resto.
+
+159
+00:09:07,760 --> 00:09:09,285
+Vamos lá.
+
+160
+00:09:17,360 --> 00:09:19,249
+Vasculhe¡ todos os andares. Nada.
+
+161
+00:09:19,400 --> 00:09:20,765
+A mesma coisa com o estacionamento.
+
+162
+00:09:21,560 --> 00:09:23,927
+- Diggle.
+-Lado norte está limpo.
+
+163
+00:09:24,120 --> 00:09:25,326
+Acha que Nyssa nos enganou?
+
+164
+00:09:29,720 --> 00:09:30,881
+Espera. Estou vendo movimento.
+
+165
+00:09:31,040 --> 00:09:33,805
+<i>Último andar, lado sudoeste.</i>
+
+166
+00:09:41,080 --> 00:09:42,650
+Matem todos.
+
+167
+00:10:13,440 --> 00:10:16,444
+Claramente fiz bem o
+escolhendo como meu herdeiro.
+
+168
+00:10:18,840 --> 00:10:21,923
+Matar-me apenas fará com que você
+receba o manto que rejeita.
+
+169
+00:10:22,080 --> 00:10:23,161
+Eu vou pará-Io.
+
+170
+00:10:23,360 --> 00:10:26,842
+Eu tenho legiões que vivem apenas
+para ver minha vontade sendo feita.
+
+171
+00:10:27,000 --> 00:10:31,324
+Não, garoto.
+Você só tem duas escolhas:
+
+172
+00:10:31,520 --> 00:10:33,966
+você aceita a oferta
+de Ra's AI Ghul...
+
+173
+00:10:34,120 --> 00:10:37,283
+ou passará o resto dos
+seus dias em uma cela.
+
+174
+00:10:37,440 --> 00:10:39,363
+Você não vai me levar como prisioneiro.
+
+175
+00:10:39,520 --> 00:10:42,410
+Não. Eu não vou.
+
+176
+00:10:45,600 --> 00:10:47,329
+Aqui é a polícia de Starling City.
+
+177
+00:10:47,480 --> 00:10:49,323
+Larguem suas armas
+e levantam as mãos.
+
+178
+00:10:49,480 --> 00:10:51,687
+Vocês estão presos.
+
+179
+00:11:04,720 --> 00:11:06,722
+No chão. Deitem no chão.
+
+180
+00:11:12,000 --> 00:11:13,490
+Não atirem. Não atirem.
+
+181
+00:11:22,840 --> 00:11:25,411
+Fechem toda essa área,
+um raio de 3 quarteirões.
+
+182
+00:11:27,720 --> 00:11:30,724
+- Diggle.
+-Estou vendo. Policiais por toda parte.
+
+183
+00:11:30,880 --> 00:11:33,770
+<i>Suspeitos se dirigindo para leste na 8.</i>
+
+184
+00:11:34,000 --> 00:11:36,606
+<i>O armazém no lado oeste do quarteirão.
+Entrem lá e vão ficar bem.</i>
+
+185
+00:11:36,760 --> 00:11:38,410
+<i>Vão. Corram.
+4 homens na sua direção.</i>
+
+186
+00:11:38,560 --> 00:11:40,210
+Vocês tem que correr.
+
+187
+00:11:43,720 --> 00:11:45,484
+Mãos pra cima.
+
+188
+00:11:52,240 --> 00:11:54,402
+Vão pra porta.
+Eu vou chamar a atenção deles.
+
+189
+00:11:54,560 --> 00:11:57,484
+Não vamos nos separar.
+Eles não querem vocês, eles me querem.
+
+190
+00:11:57,640 --> 00:11:59,449
+Agora vão.
+
+191
+00:12:14,320 --> 00:12:16,607
+Cooper, Jones, cerquem eles na 43.
+
+192
+00:12:18,960 --> 00:12:21,531
+Temos dois mascarados no armazém.
+Lado oeste da 43.
+
+193
+00:12:21,680 --> 00:12:22,966
+Vamos pegá-los na saída.
+
+194
+00:12:29,120 --> 00:12:30,690
+Ele foi para a saída leste.
+
+195
+00:12:38,680 --> 00:12:40,125
+Por aqui. Peguem ele.
+
+196
+00:12:51,560 --> 00:12:53,324
+Laurel.
+
+197
+00:12:53,840 --> 00:12:56,810
+O que vai fazer?
+Vai atirar na sua própria filha?
+
+198
+00:12:57,000 --> 00:12:58,490
+Não. Mas estou pensando em te prender.
+
+199
+00:12:58,640 --> 00:13:00,688
+Talvez uma noite na cadeia
+faça você cair na real.
+
+200
+00:13:00,880 --> 00:13:03,360
+Papai, por favor.
+Por favor, não <i>faça</i> isso.
+
+201
+00:13:11,840 --> 00:13:13,444
+- Deixa ela em paz.
+-Nyssa.
+
+202
+00:13:14,680 --> 00:13:17,604
+Não machuque ele.
+Laurel, o que está fazendo?
+
+203
+00:13:17,800 --> 00:13:19,290
+Temos que ir.
+
+204
+00:13:22,720 --> 00:13:23,801
+Sinto muito.
+
+205
+00:13:28,520 --> 00:13:30,887
+O Arsenal e a Canário fugiram?
+
+206
+00:13:31,120 --> 00:13:32,849
+Diggle.
+
+207
+00:13:34,200 --> 00:13:35,486
+Diggle.
+
+208
+00:13:44,880 --> 00:13:45,927
+Afastem-se.
+
+209
+00:13:53,000 --> 00:13:54,411
+Entra.
+
+210
+00:14:00,880 --> 00:14:03,167
+<i>Todas as unidades, atenção,
+a área está limpa.</i>
+
+211
+00:14:03,360 --> 00:14:06,443
+Se chegarmos ao túnel da 8, estaremos bem.
+Livre-se das viaturas.
+
+212
+00:14:06,640 --> 00:14:08,051
+Pode deixar.
+
+213
+00:14:40,880 --> 00:14:42,245
+Oi.
+
+214
+00:14:42,440 --> 00:14:43,930
+Graças a Deus. Estava preocupada.
+
+215
+00:14:44,080 --> 00:14:46,287
+Está tudo bem. Estou bem.
+
+216
+00:14:49,280 --> 00:14:50,327
+Cadê o Roy?
+
+217
+00:14:51,200 --> 00:14:52,247
+Ele ainda está lá.
+
+218
+00:14:52,400 --> 00:14:56,086
+- É como se a cidade toda tivesse enlouquecido.
+-Não é a cidade toda.
+
+219
+00:14:56,240 --> 00:14:58,129
+É só um homem.
+
+220
+00:14:59,400 --> 00:15:01,129
+- Oi.
+-Oi, capitão.
+
+221
+00:15:01,280 --> 00:15:05,604
+- Estou com 3 homens no hospital por sua causa.
+-Eu entendo que se sinta traído...
+
+222
+00:15:05,760 --> 00:15:07,808
+mas não pode estar
+com tanta raiva pra achar...
+
+223
+00:15:07,960 --> 00:15:11,123
+<i>que estou andando por aí
+atirando em pessoas inocentes.</i>
+
+224
+00:15:11,280 --> 00:15:14,443
+Eu não acho nada, eu sei.
+Eu sei que essa loucura tem que acabar.
+
+225
+00:15:14,640 --> 00:15:17,803
+<i>Agora, se não quiser que mais ninguém
+se machuque, entregue-se.</i>
+
+226
+00:15:19,120 --> 00:15:21,487
+É. Foi o que eu pensei.
+
+227
+00:15:22,280 --> 00:15:25,648
+Eu sinto muito. Ele está sofrendo demais.
+
+228
+00:15:28,080 --> 00:15:30,811
+Eu pensei que se parássemos o Maseo,
+as mortes parariam...
+
+229
+00:15:30,960 --> 00:15:33,725
+mas Nyssa estava certa.
+Isso vai muito além dele.
+
+230
+00:15:36,520 --> 00:15:38,807
+- Roy.
+-Estou bem.
+
+231
+00:15:38,960 --> 00:15:41,167
+Eu consegui despistá-los em Hudson.
+
+232
+00:15:41,320 --> 00:15:43,209
+Eu tive que atirar em alguns policiais...
+
+233
+00:15:43,360 --> 00:15:46,330
+mas foram ferimentos leves.
+
+234
+00:15:49,360 --> 00:15:52,170
+Eu subestimei Ra's...
+
+235
+00:15:52,320 --> 00:15:55,051
+e agora estamos pagando o preço.
+
+236
+00:15:55,480 --> 00:15:58,324
+- Eu sinto muito.
+-Do que você está falando?
+
+237
+00:15:58,480 --> 00:16:00,767
+Ra's está atrás da gente
+por <i>causa</i> do Malcolm.
+
+238
+00:16:03,360 --> 00:16:04,964
+O que eu não sei?
+
+239
+00:16:13,480 --> 00:16:16,484
+Vocês não disseram
+seu nome. Eu sou Mei.
+
+240
+00:16:16,640 --> 00:16:19,484
+- Eu sou Akio e esse é o...
+-Tommy.
+
+241
+00:16:21,200 --> 00:16:23,885
+Então, Tommy, de quem você
+e seu amiguinho estão fugindo?
+
+242
+00:16:24,080 --> 00:16:26,651
+É complicado...
+
+243
+00:16:26,800 --> 00:16:30,691
+mas Mei, a verdade é que não sei por que essa
+pessoa mandou homens atrás da gente...
+
+244
+00:16:30,880 --> 00:16:32,484
+mas ela mandou.
+
+245
+00:16:36,160 --> 00:16:38,083
+É o seu pai?
+
+246
+00:16:38,720 --> 00:16:41,166
+O nome dele é Yao Fei.
+E como você conhece minha irmã?
+
+247
+00:16:47,840 --> 00:16:49,205
+Faculdade de Medicina.
+
+248
+00:16:50,080 --> 00:16:52,287
+Ela nunca me falou
+sobre amigos americanos.
+
+249
+00:16:52,440 --> 00:16:53,885
+Você é americano, não é?
+
+250
+00:16:54,040 --> 00:16:58,682
+Eu larguei a Faculdade de Medicina,
+não os Estados Unidos.
+
+251
+00:16:58,840 --> 00:17:01,923
+Então quando foi a última vez
+que você viu minha irmã?
+
+252
+00:17:08,240 --> 00:17:09,321
+Já faz um tempo.
+
+253
+00:17:12,360 --> 00:17:14,328
+Pra mim também.
+
+254
+00:17:15,120 --> 00:17:17,726
+Shado e meu pai
+desapareceram há 3 anos.
+
+255
+00:17:18,760 --> 00:17:22,401
+A polícia acha que foram sequestrados,
+mas nunca pediram resgate.
+
+256
+00:17:23,880 --> 00:17:25,325
+Eu sinto muito.
+
+257
+00:17:27,080 --> 00:17:29,845
+A polícia me disse que
+eles devem estar mortos.
+
+258
+00:17:31,200 --> 00:17:34,761
+Se estivessem, pelo menos
+eu teria uma conclusão.
+
+259
+00:17:34,920 --> 00:17:38,606
+Mas cada vez que o telefone toca,
+alguém bate na porta...
+
+260
+00:17:38,760 --> 00:17:41,240
+ou quando encontro alguém
+que os conhecia...
+
+261
+00:17:41,400 --> 00:17:43,289
+Não consigo imaginar.
+
+262
+00:17:45,600 --> 00:17:46,965
+Você deve estar cansado.
+
+263
+00:17:48,360 --> 00:17:50,249
+Cansado não, sujo.
+Preciso de um banho.
+
+264
+00:17:50,880 --> 00:17:53,360
+Meu quarto é naquela porta.
+Tem toalhas limpas.
+
+265
+00:17:55,440 --> 00:17:57,169
+<i>- Tem certeza"?
+-T enho .</i>
+
+266
+00:17:57,960 --> 00:17:59,450
+Eu cuido do seu amiguinho.
+
+267
+00:18:03,000 --> 00:18:04,161
+Obrigado.
+
+268
+00:18:18,080 --> 00:18:20,845
+<i>Escutem, eu sou policial, não psicólogo...</i>
+
+269
+00:18:21,000 --> 00:18:25,927
+<i>mas pela minha experiência, assassinos não
+diferenciam culpados e inocentes.</i>
+
+270
+00:18:26,120 --> 00:18:29,522
+<i>Eles matam porque acham
+que estão acima da lei...</i>
+
+271
+00:18:29,680 --> 00:18:31,648
+<i>e o Arqueiro não é diferente.</i>
+
+272
+00:18:31,800 --> 00:18:36,647
+<i>Ele é um criminoso e eu prometo que vamos
+encontrá-Io e ele vai pagar por tudo.</i>
+
+273
+00:18:36,840 --> 00:18:40,481
+<i>- É muito fácil ignorar quando...,</i>
+- Você <i>está</i> bem?
+
+274
+00:18:40,680 --> 00:18:42,489
+Obrigada por trazer isso.
+
+275
+00:18:43,200 --> 00:18:46,010
+Eu encontrei o Doutor Lockhart na lanchonete.
+Eu pensei que talvez...
+
+276
+00:18:46,160 --> 00:18:49,687
+sei lá, pudesse convencê-Io a
+colocar as nano coisinhas no Ray.
+
+277
+00:18:49,840 --> 00:18:51,683
+- Nanotecnologia.
+-E nem olhou pra mim.
+
+278
+00:18:51,840 --> 00:18:53,968
+Você viu esse vestido?
+
+279
+00:18:54,120 --> 00:18:55,804
+O homem é um idiota.
+
+280
+00:18:56,840 --> 00:18:58,330
+Eu acho...
+
+281
+00:19:00,320 --> 00:19:04,166
+que vai ser você que vai ter que injetar
+os robozinhos no Ray sozinha.
+
+282
+00:19:04,320 --> 00:19:06,971
+Ótimo plano, só que não sou médica.
+
+283
+00:19:07,160 --> 00:19:10,881
+Até o Ray disse que isso pode matá-lo.
+Eu não vou arriscar a vida dele.
+
+284
+00:19:11,080 --> 00:19:12,650
+A vida dele já está correndo risco.
+
+285
+00:19:12,800 --> 00:19:15,690
+O que você está dizendo
+é que você não quer se arriscar.
+
+286
+00:19:17,520 --> 00:19:20,729
+- Se seu pai estivesse aqui...
+-Ele estaria preso.
+
+287
+00:19:20,880 --> 00:19:22,484
+É provável.
+
+288
+00:19:23,520 --> 00:19:26,364
+Mas antes disso,
+ele te diria que às vezes...
+
+289
+00:19:26,560 --> 00:19:28,050
+temos que nos arriscar...
+
+290
+00:19:28,200 --> 00:19:30,885
+principalmente pelas pessoas
+que nos importamos.
+
+291
+00:19:36,040 --> 00:19:38,441
+Eu não ligo a mínima para o orçamento.
+Isso é uma perseguição.
+
+292
+00:19:38,600 --> 00:19:42,525
+Agora aprove o pessoal e as
+horas extras e faça isso agora.
+
+293
+00:20:09,760 --> 00:20:12,604
+Eu peço desculpas
+pelo tratamento grosseiro.
+
+294
+00:20:13,080 --> 00:20:16,926
+Eu achei que não iria querer
+falar comigo por vontade própria.
+
+295
+00:20:19,600 --> 00:20:22,729
+- Você é ele.
+-Ra's AI Ghul.
+
+296
+00:20:22,920 --> 00:20:26,083
+É um prazer conhecê-Io. Sara falava
+com muito amor sobre seu pai.
+
+297
+00:20:26,320 --> 00:20:28,561
+Não fale o nome dela.
+
+298
+00:20:30,600 --> 00:20:33,524
+Se não tivesse te conhecido,
+ela estaria viva agora.
+
+299
+00:20:33,760 --> 00:20:36,047
+Se Sara não tivesse
+conhecido minha filha...
+
+300
+00:20:36,240 --> 00:20:39,084
+ela teria morrido de fome
+nas margens de Lian Yu.
+
+301
+00:20:39,280 --> 00:20:40,645
+Ela nunca esteve em Lian Yu.
+
+302
+00:20:42,160 --> 00:20:44,970
+Você sofre de falsa percepção.
+
+303
+00:20:45,800 --> 00:20:47,165
+Ma de muitas, eu receio.
+
+304
+00:20:52,800 --> 00:20:54,131
+Escuta. O que você quer?
+
+305
+00:20:55,320 --> 00:20:57,129
+Ajudar a cidade como sua filha fez.
+
+306
+00:20:58,760 --> 00:21:01,286
+Está procurando o homem
+que eles chamam de Arqueiro.
+
+307
+00:21:01,440 --> 00:21:02,441
+<i>É.</i>
+
+308
+00:21:02,960 --> 00:21:04,485
+Você vai me ajudar a encontrá-Io?
+
+309
+00:21:05,200 --> 00:21:07,806
+Você conseguirá encontrá-Io facilmente.
+
+310
+00:21:08,600 --> 00:21:10,967
+Assim que eu disser o nome dele.
+
+311
+00:21:11,680 --> 00:21:15,002
+E por que eu acreditaria que
+não vai me dizer um nome qualquer?
+
+312
+00:21:15,160 --> 00:21:17,640
+Bom, porque com <i>essa</i> revelação...
+
+313
+00:21:17,800 --> 00:21:20,485
+tudo ficará claro...
+
+314
+00:21:22,840 --> 00:21:25,002
+e você vai perceber...
+
+315
+00:21:25,200 --> 00:21:29,205
+que o homem que está procurando estava
+bem na sua frente esse tempo todo.
+
+316
+00:21:30,480 --> 00:21:32,209
+O mesmo homem que mentiu...
+
+317
+00:21:32,440 --> 00:21:35,603
+dizendo que não estava
+com Sara em Lian Yu.
+
+318
+00:21:38,000 --> 00:21:42,164
+Oliver Queen é o Arqueiro.
+
+319
+00:21:51,360 --> 00:21:53,169
+Temos que conversar.
+
+320
+00:21:53,760 --> 00:21:56,366
+Não está cansada de conversar?
+Porque eu estou.
+
+321
+00:21:56,560 --> 00:22:00,007
+Então vamos direto ao ponto. Você não acha
+que o Arqueiro está por trás dessas mortes.
+
+322
+00:22:00,160 --> 00:22:03,528
+Só está chateado porque ele
+não te contou sobre a morte da Sara.
+
+323
+00:22:03,680 --> 00:22:07,366
+Não é por isso. Não é por isso.
+
+324
+00:22:08,520 --> 00:22:11,205
+Quer dizer, talvez no início. É.
+
+325
+00:22:11,360 --> 00:22:15,843
+Mas então eu percebi que ele
+é o motivo para Sara ter morrido.
+
+326
+00:22:16,040 --> 00:22:19,123
+- Pai, isso é ridículo.
+-Não. Você, Harper, Sara...
+
+327
+00:22:19,280 --> 00:22:22,682
+o maluco de Central City, a Caçadora,
+eu tenho um novo cara voando pela cidade.
+
+328
+00:22:22,840 --> 00:22:26,003
+Todos <i>esses</i> mascarados?
+Tudo começou com ele...
+
+329
+00:22:26,200 --> 00:22:28,521
+e <i>Sara</i> morreu só porque
+ela fazia parte disso também.
+
+330
+00:22:28,720 --> 00:22:31,371
+Você não faz ideia por que mataram a Sara.
+
+331
+00:22:34,000 --> 00:22:35,968
+Ela entrou para a Liga dos Assassinos...
+
+332
+00:22:36,200 --> 00:22:38,885
+porque estava ilhada em Lian Yu...
+
+333
+00:22:39,120 --> 00:22:41,122
+porque entrou naquele barco
+com o Queen.
+
+334
+00:22:41,320 --> 00:22:42,890
+Então o quê?
+
+335
+00:22:43,200 --> 00:22:44,611
+Agora Oliver é o culpado?
+
+336
+00:22:45,200 --> 00:22:47,407
+Oliver, o Arqueiro, de qualquer forma
+é o mesmo cara.
+
+337
+00:23:03,240 --> 00:23:05,004
+De alguma forma,
+eu acho que sempre soube.
+
+338
+00:23:05,200 --> 00:23:08,886
+Quando pensei que ele estivesse fazendo
+algo bom, não importava pra mim.
+
+339
+00:23:12,200 --> 00:23:15,283
+Sabe, quando aquele barco afundou
+e pensamos que Sara estivesse morta...
+
+340
+00:23:15,440 --> 00:23:17,044
+eu culpei o Queen...
+
+341
+00:23:18,840 --> 00:23:21,764
+e é engraçado como
+as coisas se encaixam, não é?
+
+342
+00:23:26,160 --> 00:23:28,561
+Bom, eu tenho mais o que fazer.
+
+343
+00:23:30,800 --> 00:23:32,245
+Ligando pra ele?
+
+344
+00:23:32,440 --> 00:23:36,445
+Tarde demais. Mandei policiais para a
+casa dele, pro clube da irmã, todos os lugares.
+
+345
+00:23:40,160 --> 00:23:44,449
+Fique sabendo que estou pensando
+em começar um reality show...
+
+346
+00:23:44,640 --> 00:23:46,404
+então talvez eu já
+esteja com dano cerebral.
+
+347
+00:23:46,600 --> 00:23:48,045
+Não brinque, Senhor Palmer.
+
+348
+00:23:48,280 --> 00:23:50,089
+As próximas horas serão críticas.
+
+349
+00:23:50,320 --> 00:23:53,961
+Eu quero mantê-Io sob rígida observação.
+
+350
+00:23:55,280 --> 00:23:56,964
+- Mãe?
+-Não. Não. Não. Não é nada.
+
+351
+00:23:57,240 --> 00:24:00,403
+Eu acho que são espasmos
+nas minhas costas.
+
+352
+00:24:00,600 --> 00:24:03,763
+Nossa. Você é tão forte.
+
+353
+00:24:04,000 --> 00:24:07,163
+Meu Deus. Eu acho que...
+Eu acho que vou desmaiar.
+
+354
+00:24:07,320 --> 00:24:09,322
+- É melhor você deitar em uma maca.
+-É.
+
+355
+00:24:09,560 --> 00:24:12,006
+Vamos me deitar em uma maca.
+
+356
+00:24:13,680 --> 00:24:15,330
+Sinto muito.
+
+357
+00:24:18,280 --> 00:24:20,408
+Sua mãe vai ficar bem?
+
+358
+00:24:22,520 --> 00:24:25,842
+Eu acho que ela vai se recuperar
+milagrosamente em 5 minutos.
+
+359
+00:24:27,080 --> 00:24:29,845
+- Assim como você.
+- É a minha nanotecnologia?
+
+360
+00:24:30,080 --> 00:24:34,005
+Se o sistema de organização
+do seu laboratório for preciso.
+
+361
+00:24:34,960 --> 00:24:37,281
+- Tem certeza que quer fazer isso?
+-Não quer?
+
+362
+00:24:37,480 --> 00:24:41,849
+Quero. Quer dizer, minhas alternativas
+são dano cerebral ou morte...
+
+363
+00:24:42,040 --> 00:24:44,805
+mas se o hospital descobrir,
+você pode ir pra cadeia.
+
+364
+00:24:51,160 --> 00:24:53,049
+Eu vou me arriscar.
+
+365
+00:24:55,960 --> 00:24:58,531
+Ok. está bom.
+
+366
+00:24:59,840 --> 00:25:01,763
+- Como se sente?
+-Normal?
+
+367
+00:25:01,960 --> 00:25:04,281
+Mas eu não estava esperando
+nenhum efeito...
+
+368
+00:25:04,520 --> 00:25:07,251
+Ray? Ray? Ray?
+
+369
+00:25:10,680 --> 00:25:12,011
+Oi.
+
+370
+00:25:12,800 --> 00:25:15,041
+Ok. Bom...
+
+371
+00:25:15,400 --> 00:25:17,641
+talvez haja alguns efeitos colaterais.
+
+372
+00:25:19,400 --> 00:25:22,847
+- Eu não acredito que isso esteja acontecendo.
+-Então somos dois.
+
+373
+00:25:23,080 --> 00:25:26,084
+<i>A caça ao Arqueiro por toda
+cidade continua esta noite...</i>
+
+374
+00:25:26,280 --> 00:25:29,409
+<i>já que o Capitão Lance colocou
+como prioridade da policia de Starling City...</i>
+
+375
+00:25:29,640 --> 00:25:31,802
+<i>capturar esse perigoso vigilante.</i>
+
+376
+00:25:32,000 --> 00:25:34,446
+Tenho certeza que os policiais que estavam
+te perseguindo estão bem.
+
+377
+00:25:34,600 --> 00:25:35,761
+Eu atirei flechas neles, Thea.
+
+378
+00:25:35,920 --> 00:25:39,288
+Quando estava acontecendo,
+uma parte minha...
+
+379
+00:25:39,800 --> 00:25:42,246
+-se sentiu aliviada.
+-Aliviada?
+
+380
+00:25:42,400 --> 00:25:44,687
+Que eu finalmente iria pra cadeia...
+
+381
+00:25:44,920 --> 00:25:46,922
+e receberia o que mereço.
+
+382
+00:25:47,520 --> 00:25:49,602
+Roy, me escuta.
+
+383
+00:25:50,520 --> 00:25:53,410
+A única coisa que você merece é ser feliz.
+
+384
+00:25:53,600 --> 00:25:56,365
+Agora você tem que encontrar
+um jeito de se perdoar.
+
+385
+00:25:56,560 --> 00:25:58,608
+O que aconteceu com aquele policial
+ano passado...
+
+386
+00:25:58,840 --> 00:26:00,604
+não foi sua culpa.
+
+387
+00:26:03,680 --> 00:26:05,444
+Lamento que tenha que
+passar por isso, Roy.
+
+388
+00:26:05,680 --> 00:26:08,411
+Eu te de¡ aquela máscara...
+
+389
+00:26:08,840 --> 00:26:13,084
+para você ajudar a polícia, não fugir dela.
+
+390
+00:26:14,120 --> 00:26:15,360
+O que vai acontecer?
+
+391
+00:26:18,440 --> 00:26:20,647
+- Corre.
+-Polícia de Starling!
+
+392
+00:26:20,800 --> 00:26:22,450
+- Parado.
+-Coloque as mãos pra cima!
+
+393
+00:26:31,760 --> 00:26:33,808
+Obrigado pelo banho.
+
+394
+00:26:35,760 --> 00:26:38,889
+- Você está bem?
+-Eu vi a tatuagem nas suas costas.
+
+395
+00:26:39,080 --> 00:26:40,491
+Por que estava mentindo pra mim?
+
+396
+00:26:40,720 --> 00:26:41,528
+Mei...
+
+397
+00:26:41,680 --> 00:26:44,490
+Eu preciso saber o que
+aconteceu com minha família.
+
+398
+00:26:44,920 --> 00:26:46,649
+- Eu não sei.
+-Outra mentira.
+
+399
+00:26:46,840 --> 00:26:49,320
+Você conhecia minha irmã. Você e ela
+eram mais do que apenas amigos.
+
+400
+00:26:49,480 --> 00:26:51,960
+Apenas acredite quando eu digo que
+quanto menos souber sobre mim...
+
+401
+00:26:52,120 --> 00:26:53,007
+mais segura você ficará.
+
+402
+00:26:53,160 --> 00:26:55,481
+Ótimo. Talvez você seja
+mais honesto com a polícia.
+
+403
+00:26:55,640 --> 00:26:57,642
+Sei que está chateada,
+por favor, não chame a polícia.
+
+404
+00:26:57,920 --> 00:27:00,002
+Eu já chamei.
+Eles vão chegar a qualquer minuto.
+
+405
+00:27:01,400 --> 00:27:03,004
+- Akio, temos que ir.
+-Qual é o problema?
+
+406
+00:27:05,800 --> 00:27:07,802
+Abaixem.
+
+407
+00:27:10,280 --> 00:27:11,691
+Por que a polícia está atirando?
+
+408
+00:27:11,920 --> 00:27:14,161
+Porque eles não são da polícia.
+
+409
+00:27:16,480 --> 00:27:19,529
+Estou tão orgulhosa de você.
+Estou tão orgulhosa.
+
+410
+00:27:19,680 --> 00:27:21,523
+Seu pa¡ ficaria orgulhoso.
+
+411
+00:27:21,680 --> 00:27:23,887
+Sabe, ele não é exatamente
+um modelo, mas...
+
+412
+00:27:24,120 --> 00:27:26,361
+Senhorita Smoak,
+a pessoa que eu queria ver.
+
+413
+00:27:26,520 --> 00:27:30,411
+Você sabe o que é isso? É a última
+ressonância do Senhor Palmer.
+
+414
+00:27:30,600 --> 00:27:33,968
+- O coágulo no cérebro sumiu.
+-Sério?
+
+415
+00:27:34,160 --> 00:27:36,606
+Não saiu do lugar, não diminuiu. Sumiu.
+
+416
+00:27:36,840 --> 00:27:39,525
+Ele vai se recuperar completamente.
+
+417
+00:27:39,680 --> 00:27:41,523
+Você não saberia nada...
+
+418
+00:27:41,720 --> 00:27:45,281
+sobre essa evolução médica
+sem precedentes, não é?
+
+419
+00:27:45,960 --> 00:27:49,043
+Está acusando minha filha de alguma coisa?
+Porque eu sirvo uma mesa no Caesar...
+
+420
+00:27:49,200 --> 00:27:51,362
+frequentada por 3 advogados.
+
+421
+00:27:51,560 --> 00:27:54,484
+<i>Obrigado. Obrigado. Por favor.
+Obrigado por terem vindo.</i>
+
+422
+00:27:55,680 --> 00:27:57,842
+<i>Tivemos um avanço
+em nossa investigação...</i>
+
+423
+00:27:58,000 --> 00:28:00,731
+<i>sobre o vigilante conhecido como Arqueiro.</i>
+
+424
+00:28:01,040 --> 00:28:05,204
+<i>A promotoria acaba de emitir
+um mandado de prisão...</i>
+
+425
+00:28:05,920 --> 00:28:09,402
+para a pessoa responsável
+por esses atos de violência.
+
+426
+00:28:12,080 --> 00:28:14,003
+Eu não tinha pra onde ir.
+
+427
+00:28:14,200 --> 00:28:15,565
+Tudo bem.
+
+428
+00:28:16,080 --> 00:28:18,560
+Lyla levou Sara para a mãe dela.
+
+429
+00:28:20,560 --> 00:28:23,006
+- Lance sabe.
+-A cidade toda sabe, Oliver.
+
+430
+00:28:23,200 --> 00:28:26,886
+<i>O Senhor Queen deve ser considerado
+armado e muito perigoso...</i>
+
+431
+00:28:27,080 --> 00:28:29,731
+<i>mas não se enganem,
+ele será encontrado...</i>
+
+432
+00:28:29,920 --> 00:28:32,082
+<i>e enfrentará a justiça.</i>
+
+433
+00:28:37,080 --> 00:28:41,449
+<i>Um desenvolvimento impressionante,
+descobrimos que Oliver Queen é o Arqueiro.</i>
+
+434
+00:28:41,600 --> 00:28:44,080
+<i>Essa acusação é uma grande surpresa...</i>
+
+435
+00:28:44,280 --> 00:28:48,205
+<i>considerando que Queen foi exonerado de
+ser o Arqueiro apenas há 2 anos.</i>
+
+436
+00:28:48,400 --> 00:28:49,606
+A jornalista está certa.
+
+437
+00:28:49,760 --> 00:28:51,922
+Você deu um jeito nisso antes, Oliver.
+
+438
+00:28:52,120 --> 00:28:54,122
+Da última vez eu tinha tudo planejado.
+
+439
+00:28:54,360 --> 00:28:57,489
+Ser preso era meu plano...
+
+440
+00:28:57,680 --> 00:29:00,286
+dessa vez é o plano do Ra's AI Ghul.
+
+441
+00:29:05,360 --> 00:29:06,771
+Entre.
+
+442
+00:29:09,640 --> 00:29:12,405
+- Como o Ray está?
+-Muito melhor do que você agora.
+
+443
+00:29:12,640 --> 00:29:14,563
+Por favor, diga que
+você tem um plano brilhante.
+
+444
+00:29:14,760 --> 00:29:16,444
+Eu nem tenho um plano normal.
+
+445
+00:29:16,600 --> 00:29:19,126
+Que tal o Dig sair como o Arqueiro?
+Você disse que funcionou da última vez.
+
+446
+00:29:19,280 --> 00:29:22,090
+É, mas dessa vez o Lance
+não vai descansar até prender o Oliver.
+
+447
+00:29:23,000 --> 00:29:25,321
+Você tem que fugir.
+Você tem que sair da cidade.
+
+448
+00:29:25,560 --> 00:29:28,928
+Meu pai colocou policiais na rodoviária,
+estações de trem e no aeroporto...
+
+449
+00:29:29,480 --> 00:29:32,450
+ele também congelou os bens da Thea.
+
+450
+00:29:32,600 --> 00:29:34,762
+Ele não te dará nada
+que possa usar pra fugir.
+
+451
+00:29:37,960 --> 00:29:40,645
+Eu não acredito que
+isso esteja acontecendo.
+
+452
+00:29:40,920 --> 00:29:43,400
+Você acha que Ra's
+planejou isso o tempo todo?
+
+453
+00:29:43,560 --> 00:29:45,927
+Ele está usando essa cidade
+como uma arma.
+
+454
+00:29:46,640 --> 00:29:47,926
+É a minha cidade.
+
+455
+00:29:51,600 --> 00:29:52,931
+Pra onde está indo, Oliver?
+
+456
+00:29:55,600 --> 00:29:57,682
+Pro único lugar que posso ir.
+
+457
+00:30:02,080 --> 00:30:04,162
+- Akio, você está bem?
+-Estou bem.
+
+458
+00:30:04,360 --> 00:30:06,567
+- O que está acontecendo?
+- A porta da frente é a única saída?
+
+459
+00:30:06,760 --> 00:30:07,488
+<i>É.</i>
+
+460
+00:30:07,640 --> 00:30:09,529
+Eu quero que fique abaixada
+e leve o Akio para o quarto.
+
+461
+00:30:09,680 --> 00:30:11,967
+Mei, eles estão vindo
+pra te matar também.
+
+462
+00:30:12,200 --> 00:30:13,929
+Vai. Vai. Anda.
+
+463
+00:30:49,640 --> 00:30:51,688
+Akio? Akio?
+
+464
+00:30:55,720 --> 00:30:58,724
+Nós os seguimos.
+Eles trabalham pra Amanda Waller.
+
+465
+00:31:05,680 --> 00:31:06,920
+Quem é ela?
+
+466
+00:31:18,240 --> 00:31:19,366
+Como está se sentindo?
+
+467
+00:31:20,040 --> 00:31:23,761
+Para um cara que <i>acaba</i> de evitar
+a morte ou dano cerebral, muito bem.
+
+468
+00:31:24,640 --> 00:31:25,926
+Que bom.
+
+469
+00:31:26,120 --> 00:31:28,282
+Mas você está bem?
+
+470
+00:31:31,000 --> 00:31:33,571
+É uma longa história. Fico feliz...
+
+471
+00:31:33,760 --> 00:31:36,366
+-que esteja bem.
+- Graças a você.
+
+472
+00:31:36,560 --> 00:31:39,769
+Eu acho que sua nanotecnologia
+merece um pouco do crédito.
+
+473
+00:31:41,200 --> 00:31:45,285
+Tudo que eu fiz foi enfiar algo em você.
+Você acha que chegará um dia...
+
+474
+00:31:45,440 --> 00:31:48,125
+em que tudo que eu disser
+não terá um duplo sentido estranho?
+
+475
+00:31:48,280 --> 00:31:51,170
+Eu espero que não.
+É um dos seus traços mais charmosos.
+
+476
+00:31:51,720 --> 00:31:54,530
+Isso e o fato que você teve coragem de
+esquecer a prudência e salvar minha vida...
+
+477
+00:31:54,720 --> 00:31:57,405
+são dois dos muitos motivos
+para eu te amar.
+
+478
+00:32:02,720 --> 00:32:05,246
+<i>Essa</i> é uma coisa muito boa de se ouvir.
+
+479
+00:32:05,680 --> 00:32:07,808
+Principalmente depois de tudo
+que aconteceu com você...
+
+480
+00:32:07,960 --> 00:32:12,124
+com o coágulo, a nanotecnologia
+e a quase-morte.
+
+481
+00:32:12,320 --> 00:32:16,245
+Falando nisso, você deve estar faminto
+depois de todo esse drama.
+
+482
+00:32:16,440 --> 00:32:20,240
+Eu vou encontrar uma enfermeira e pedir
+para ela trazer gelatina pra você.
+
+483
+00:32:28,840 --> 00:32:30,808
+Meu Deus. O que aconteceu?
+
+484
+00:32:31,320 --> 00:32:34,164
+- Nada.
+-Felicity.
+
+485
+00:32:35,080 --> 00:32:37,082
+Você está com a cara
+que fez aos 7 anos...
+
+486
+00:32:37,240 --> 00:32:40,164
+quando roubou a coleção de eletrônicos do
+seu pai e fez um supercomputador.
+
+487
+00:32:41,120 --> 00:32:44,010
+Meu Deus. Você e Ray
+transaram nesse hospital?
+
+488
+00:32:44,160 --> 00:32:46,242
+- Você fez sexo no hospital?
+-Não.
+
+489
+00:32:46,440 --> 00:32:49,250
+- Eu sempre quis fazer sexo no hospital.
+-Muitos detalhes. Que nojo.
+
+490
+00:32:49,440 --> 00:32:50,487
+O quê?
+
+491
+00:32:50,640 --> 00:32:52,290
+Ele disse que me ama.
+
+492
+00:32:54,520 --> 00:32:56,602
+E você não falou também?
+
+493
+00:33:02,840 --> 00:33:04,490
+O que tem de errado comigo?
+
+494
+00:33:04,680 --> 00:33:06,444
+Ele é brilhante.
+
+495
+00:33:06,640 --> 00:33:09,484
+Ele sabe o enredo de todos os episódios
+de Doctor <i>Who.</i> Das 34 temporadas.
+
+496
+00:33:09,680 --> 00:33:12,604
+Ele parece um príncipe da Disney. Ele é...
+
+497
+00:33:13,600 --> 00:33:15,364
+praticamente o homem perfeito.
+
+498
+00:33:17,200 --> 00:33:19,362
+Você não ama o Ray...
+
+499
+00:33:20,800 --> 00:33:22,564
+porque está apaixonada pelo Oliver.
+
+500
+00:33:23,960 --> 00:33:26,884
+Você nem conhece o Oliver.
+Você o conheceu por 10 segundos.
+
+501
+00:33:27,040 --> 00:33:28,405
+Eu soube com 5.
+
+502
+00:33:28,640 --> 00:33:32,645
+Querida, você se iluminou como uma
+árvore de Natal quando ele chegou.
+
+503
+00:33:32,800 --> 00:33:33,847
+Mas ele está...
+
+504
+00:33:35,320 --> 00:33:37,243
+totalmente indisponível...
+
+505
+00:33:37,400 --> 00:33:39,641
+e isso foi antes.
+
+506
+00:33:40,560 --> 00:33:43,689
+- Você assistiu aos jornais?
+-Não. Eu não assisto jornais, eles me deprimem.
+
+507
+00:33:43,840 --> 00:33:46,286
+Mas uma coisa não me deprime,
+minha filha tem dois homens...
+
+508
+00:33:46,480 --> 00:33:50,565
+que são incríveis, quer dizer que...
+
+509
+00:33:51,080 --> 00:33:53,048
+ela só tem que tomar uma decisão.
+
+510
+00:33:55,160 --> 00:33:58,323
+Eu quero que mandem fotos do Queen
+para todas as delegacias, está bom?
+
+511
+00:33:59,480 --> 00:34:01,881
+Não. Uma atual. Uma com a barba
+que ele está sempre usando.
+
+512
+00:34:09,760 --> 00:34:11,762
+Capitão Lance...
+
+513
+00:34:12,880 --> 00:34:14,450
+estou aqui pra me entregar.
+
+514
+00:34:14,680 --> 00:34:16,170
+Algemem ele.
+
+515
+00:34:32,040 --> 00:34:35,203
+Consegui que ficassem 10 minutos com Oliver,
+mas fiquem 5, está bom?
+
+516
+00:34:35,400 --> 00:34:39,041
+Não vai ser bom se os repórteres virem
+vocês conversando com ele.
+
+517
+00:34:44,960 --> 00:34:47,327
+Ele e vocês três?
+
+518
+00:34:49,480 --> 00:34:50,811
+Faz sentido.
+
+519
+00:35:03,640 --> 00:35:05,165
+Vocês não deviam estar aqui.
+
+520
+00:35:05,360 --> 00:35:07,169
+Oliver, nem você.
+
+521
+00:35:07,360 --> 00:35:08,805
+No que estava pensando?
+
+522
+00:35:09,000 --> 00:35:11,287
+- Você estava pensando?
+-Eu estava pensando claramente.
+
+523
+00:35:11,800 --> 00:35:13,165
+Eu pedi pra Laurel fazer um acordo.
+
+524
+00:35:13,400 --> 00:35:16,483
+Eu me entrego e todos
+vocês recebem imunidade.
+
+525
+00:35:16,720 --> 00:35:19,166
+Não, Oliver. Você está maluco...
+
+526
+00:35:19,360 --> 00:35:22,489
+se acha que vamos ficar aqui
+e deixar você levar a culpa pela gente.
+
+527
+00:35:22,760 --> 00:35:24,285
+Eu comecei tudo isso.
+
+528
+00:35:24,480 --> 00:35:25,970
+Eu tenho que assumir minha culpa...
+
+529
+00:35:26,160 --> 00:35:30,688
+e essa é a melhor maneira de
+salvar vidas, inclusive a de vocês.
+
+530
+00:35:32,160 --> 00:35:33,844
+Parem de se preocupar.
+
+531
+00:35:34,360 --> 00:35:35,850
+Eu já passei por coisas
+bem piores do que a prisão.
+
+532
+00:35:36,000 --> 00:35:36,649
+Isso é loucura.
+
+533
+00:35:36,800 --> 00:35:38,928
+Como vamos viver sabendo
+que deixamos isso acontecer?
+
+534
+00:35:39,080 --> 00:35:41,447
+Roy, preciso que façam isso.
+
+535
+00:35:42,400 --> 00:35:48,203
+A única saída que Ra's me deu
+foi falar a verdade.
+
+536
+00:35:49,760 --> 00:35:51,967
+Vocês não têm ideia...
+
+537
+00:35:52,440 --> 00:35:54,169
+como a verdade pode ser poderosa.
+
+538
+00:35:54,360 --> 00:35:55,930
+Oliver, essa é a jogada errada.
+
+539
+00:35:56,120 --> 00:35:57,485
+John---.
+
+540
+00:36:00,200 --> 00:36:01,725
+Você me seguiu até aqui.
+
+541
+00:36:03,920 --> 00:36:05,843
+Todos vocês me seguiram até aqui...
+
+542
+00:36:06,040 --> 00:36:10,887
+mas eu preciso que
+me sigam um pouco mais...
+
+543
+00:36:14,120 --> 00:36:16,168
+até que acabe.
+
+544
+00:36:28,800 --> 00:36:30,245
+Já cuidamos dos corpos.
+
+545
+00:36:30,480 --> 00:36:33,165
+- Temos que ir.
+-Só nos dê um minuto.
+
+546
+00:36:37,960 --> 00:36:39,485
+Eu sinto muito por isso.
+
+547
+00:36:41,920 --> 00:36:43,763
+Eles tentaram nos matar.
+
+548
+00:36:44,560 --> 00:36:46,005
+Não eram policiais.
+
+549
+00:36:46,680 --> 00:36:48,250
+Devem ter interceptado a ligação.
+
+550
+00:36:48,480 --> 00:36:50,050
+Estavam atrás de você e do garoto?
+
+551
+00:36:50,840 --> 00:36:53,207
+Você conhecia minha irmã,
+há alguma chance de...
+
+552
+00:36:53,360 --> 00:36:54,361
+Mei. Isso...
+
+553
+00:36:57,760 --> 00:37:00,445
+Isso não tem nada a ver com a Shado.
+
+554
+00:37:02,400 --> 00:37:06,200
+Você não tem ideia como é viver assim.
+
+555
+00:37:07,880 --> 00:37:10,724
+Procurando qualquer tipo de resposta.
+
+556
+00:37:13,520 --> 00:37:15,363
+Você estava certa, eu conhecia sua irmã.
+
+557
+00:37:18,600 --> 00:37:20,568
+Eu a amava.
+
+558
+00:37:24,600 --> 00:37:26,728
+Eu conheci seu pai também...
+
+559
+00:37:27,920 --> 00:37:29,809
+e sua família...
+
+560
+00:37:31,000 --> 00:37:33,651
+salvou minha vida mais de uma vez.
+
+561
+00:37:33,800 --> 00:37:35,643
+Eu não entendo.
+
+562
+00:37:35,800 --> 00:37:38,041
+As pessoas que estão atrás de mim...
+
+563
+00:37:41,800 --> 00:37:45,327
+Elas matarão qualquer um que tiver
+muitas informações sobre quem eu sou.
+
+564
+00:37:45,560 --> 00:37:48,086
+- Mas Shado e meu pai...
+-Mei...
+
+565
+00:37:50,400 --> 00:37:52,243
+eles se foram.
+
+566
+00:37:54,800 --> 00:37:57,280
+Eu sinto muito.
+
+567
+00:38:02,280 --> 00:38:04,931
+Obrigada por me contar.
+
+568
+00:38:06,080 --> 00:38:10,005
+Durante 3 anos tudo que
+eu queria era saber a verdade.
+
+569
+00:38:10,160 --> 00:38:14,006
+Você não tem ideia como
+a verdade pode ser poderosa.
+
+570
+00:38:26,000 --> 00:38:27,445
+Não devíamos ficar aqui.
+
+571
+00:38:28,200 --> 00:38:29,486
+Obrigada.
+
+572
+00:38:35,200 --> 00:38:39,205
+Isso não é justo. Isso não está certo.
+
+573
+00:38:39,440 --> 00:38:43,365
+Tudo que Oliver tem feito é
+proteger pessoas, ajudar <i>pessoas.</i>
+
+574
+00:38:43,600 --> 00:38:45,364
+Não podemos ficar aqui.
+
+575
+00:38:45,680 --> 00:38:48,206
+Esse lugar não é mais seguro.
+
+576
+00:38:48,600 --> 00:38:51,888
+Então o quê? Vamos nos mandar
+e deixar isso acontecer?
+
+577
+00:38:52,080 --> 00:38:54,082
+- Curtir <i>nossa</i> imunidade?
+- Roy, eu não sei.
+
+578
+00:38:54,280 --> 00:38:56,203
+Eu não faço ideia.
+
+579
+00:38:56,440 --> 00:38:58,647
+Se eu soubesse,
+você estaria ouvindo agora.
+
+580
+00:38:58,840 --> 00:39:02,481
+Se um de nós estivesse lá e Oliver aqui,
+ele pensaria em alguma coisa...
+
+581
+00:39:02,680 --> 00:39:04,967
+e as consequências não importariam.
+
+582
+00:39:20,400 --> 00:39:22,368
+Lian Yu.
+
+583
+00:39:25,920 --> 00:39:27,684
+O que tem?
+
+584
+00:39:28,400 --> 00:39:31,563
+Esse tal de Ra's...
+
+585
+00:39:31,760 --> 00:39:36,243
+ele me disse que Sara chegou
+até a ilha com você.
+
+586
+00:39:37,120 --> 00:39:39,851
+Não pensou em me contar isso?
+
+587
+00:39:40,040 --> 00:39:41,690
+Quer dizer, eu sou o pa¡ dela.
+
+588
+00:39:42,920 --> 00:39:44,206
+Eu era.
+
+589
+00:39:46,560 --> 00:39:49,006
+Quando você decidiu que sabia
+o que era melhor pra minha família?
+
+590
+00:39:49,760 --> 00:39:51,285
+Eu amo sua família.
+
+591
+00:39:51,680 --> 00:39:54,524
+Você tem o direito de
+permanecer calado. Aproveite.
+
+592
+00:39:57,120 --> 00:39:59,168
+Me pergunte o que você quer saber.
+
+593
+00:40:01,960 --> 00:40:03,962
+O que eu quero saber?
+
+594
+00:40:04,680 --> 00:40:06,762
+Bom, valeu a pena?
+
+595
+00:40:06,960 --> 00:40:09,964
+Toda a dor e tristeza
+que você trouxe daquela ilha?
+
+596
+00:40:11,040 --> 00:40:13,441
+Merlyn, Slade Wilson?
+
+597
+00:40:14,080 --> 00:40:15,923
+Não seria melhor
+se tivesse morrido lá?
+
+598
+00:40:16,120 --> 00:40:20,409
+O motivo do meu retorno foi pra
+tentar <i>salvar as</i> pessoas <i>dessa</i> cidade.
+
+599
+00:40:20,640 --> 00:40:24,281
+Eu odeio te dizer isso, mas salvar pessoas
+não é sua especialidade.
+
+600
+00:40:24,880 --> 00:40:29,283
+Tommy, Hilton, sua mãe...
+
+601
+00:40:30,680 --> 00:40:31,966
+minha filha...
+
+602
+00:40:32,560 --> 00:40:34,688
+e agora vai acabar matando
+a Laurel também.
+
+603
+00:40:35,240 --> 00:40:37,971
+Eu não queria que ela
+se envolvesse nisso.
+
+604
+00:40:39,160 --> 00:40:41,447
+Eu não queria que ninguém
+se envolvesse nisso.
+
+605
+00:40:41,640 --> 00:40:43,244
+Mas você me envolveu.
+
+606
+00:40:43,440 --> 00:40:45,442
+Você passou um ano me fazendo de idiota.
+
+607
+00:40:45,640 --> 00:40:48,166
+Você passou um ano
+me tornando seu cúmplice.
+
+608
+00:40:48,320 --> 00:40:50,288
+Você tem alguma ideia do que fez?
+
+609
+00:40:50,480 --> 00:40:54,007
+Do que fez com todos nós, com <i>as</i> pessoas
+que você diz que <i>se</i> importa tanto?
+
+610
+00:40:55,000 --> 00:40:59,483
+Você nos tornou criminosos.
+Você nos tornou mentirosos e vítimas.
+
+611
+00:41:01,200 --> 00:41:04,283
+Você, Senhor Queen, não é um herói.
+
+612
+00:41:04,960 --> 00:41:06,610
+Você é um vilão...
+
+613
+00:41:07,120 --> 00:41:09,168
+mas você sabe disso, não é?
+
+614
+00:41:11,920 --> 00:41:14,924
+- O que seu pessoal está fazendo?
+-Eu falei pra não fazerem nada.
+
+615
+00:41:15,080 --> 00:41:18,323
+Pelo jeito suas palavras não valem
+<i>nada</i> pra eles também.
+
+616
+00:41:20,360 --> 00:41:21,441
+Deite no chão!
+
+617
+00:41:24,520 --> 00:41:25,646
+Deite no chão!
+
+618
+00:41:27,040 --> 00:41:28,769
+Você pegou o cara errado.
+
+619
+00:41:29,000 --> 00:41:30,525
+Oliver Queen não é o Arqueiro.
+
+620
+00:41:33,880 --> 00:41:35,530
+Eu sou.
+
+621
+00:41:43,320 --> 00:41:45,368
+Mãos atrás da cabeça.
+
+622
+00:41:56,320 --> 00:41:58,049
+ARQUEIRO
+
+623
+00:42:25,280 --> 00:42:27,282
+[Portuguese - Brazilian]
+
