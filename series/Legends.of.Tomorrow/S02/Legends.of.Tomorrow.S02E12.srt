@@ -1,0 +1,2856 @@
+﻿1
+00:00:00,867 --> 00:00:02,267
+<i>Viagem no tempo é real,</i>
+
+2
+00:00:02,268 --> 00:00:04,400
+<i>e toda história
+está vulnerável ao ataque.</i>
+
+3
+00:00:04,401 --> 00:00:06,125
+<i>Por isso viajamos no tempo,</i>
+
+4
+00:00:06,126 --> 00:00:09,021
+<i>para deter a propagação
+dessas aberrações do tempo</i>
+
+5
+00:00:09,022 --> 00:00:11,192
+<i>e apagar o estrago
+que fazem na história.</i>
+
+6
+00:00:11,996 --> 00:00:14,293
+<i>Somos um grupo
+de excluídos e desajustados.</i>
+
+7
+00:00:14,294 --> 00:00:18,921
+<i>Não nos chamem de heróis.
+Somos outra coisa, somos Lendas.</i>
+
+8
+00:00:20,328 --> 00:00:22,420
+<i>Anteriormente...</i>
+
+9
+00:00:22,421 --> 00:00:24,398
+Somos a Sociedade da Justiça
+da América.
+
+10
+00:00:24,399 --> 00:00:26,168
+Doutor Meia-Noite.
+Stargirl.
+
+11
+00:00:26,169 --> 00:00:27,769
+Entendido.
+
+12
+00:00:27,770 --> 00:00:30,784
+Vocês já ouviram falar
+da Lança do Destino?
+
+13
+00:00:30,785 --> 00:00:34,571
+Essa Lança tem o poder
+de reescrever a realidade.
+
+14
+00:00:34,572 --> 00:00:37,207
+<i>Sei que você é
+um dos protetores da Lança</i>
+
+15
+00:00:37,208 --> 00:00:40,675
+e sei que você sabe
+onde as outras partes estão.
+
+16
+00:00:43,025 --> 00:00:45,389
+O pedaço da Lança
+está dentro do seu telescópio.
+
+17
+00:00:45,390 --> 00:00:48,320
+- Abaixe a arma, Jax.
+- Ele está com a Legião agora.
+
+18
+00:00:48,321 --> 00:00:51,233
+- Por que está protegendo-o?
+- Estou protegendo você.
+
+19
+00:01:12,667 --> 00:01:14,067
+Olá, Charles.
+
+20
+00:01:19,528 --> 00:01:22,459
+Você encontrou um jeito
+de curar a cegueira.
+
+21
+00:01:22,460 --> 00:01:25,945
+O futuro é cheio de maravilhas,
+Capitão Hunter.
+
+22
+00:01:25,946 --> 00:01:29,757
+Não sou mais capitão,
+sinto te dizer.
+
+23
+00:01:32,353 --> 00:01:34,437
+O que temos aqui?
+
+24
+00:01:34,438 --> 00:01:38,448
+É um implante biomórfico,
+capaz de modificar
+
+25
+00:01:38,449 --> 00:01:40,760
+os processos neurais
+do hospedeiro dele.
+
+26
+00:01:40,761 --> 00:01:44,531
+Um dia, isso poderia acabar
+a violência como a conhecemos.
+
+27
+00:01:44,532 --> 00:01:47,917
+Ou, da mesma maneira,
+aumentá-la.
+
+28
+00:01:47,918 --> 00:01:51,021
+Achei que não poderíamos
+nos contatar novamente.
+
+29
+00:01:51,022 --> 00:01:54,324
+Uma nova ameaça.
+Um grupo procurando da Lança.
+
+30
+00:01:54,325 --> 00:01:56,810
+- Estou juntando os fragmentos.
+- Por quê?
+
+31
+00:01:56,811 --> 00:01:59,145
+São mais seguros separados
+do que juntos.
+
+32
+00:01:59,146 --> 00:02:01,114
+Eles vão estar a salvo
+no Ponto de Fuga.
+
+33
+00:02:01,115 --> 00:02:02,515
+Tem certeza?
+
+34
+00:02:02,516 --> 00:02:05,418
+Disse que os Mestres do Tempo
+não são confiáveis.
+
+35
+00:02:05,419 --> 00:02:08,238
+Disse?
+Que droga, então eu disse.
+
+36
+00:02:09,239 --> 00:02:11,643
+Acho que teremos que fazer isso
+do jeito difícil.
+
+37
+00:02:14,428 --> 00:02:18,748
+Onde está o fragmento da Lança
+que pedi para você proteger?
+
+38
+00:02:18,749 --> 00:02:22,919
+Não sei por que você o quer,
+mas nunca vai encontrá-lo.
+
+39
+00:02:22,920 --> 00:02:26,222
+Como está sendo um pesquisador
+em implantes cibernéticos,
+
+40
+00:02:26,223 --> 00:02:30,593
+acredito que você escondeu
+o fragmento
+
+41
+00:02:31,562 --> 00:02:33,579
+dentro de você.
+
+42
+00:02:33,580 --> 00:02:35,780
+2ª Temporada | Episódio 12
+-= Camelot/3000 =-
+
+43
+00:02:35,781 --> 00:02:38,681
+Tradução: Analu | graxamorim
+xenite | kahdirane² | Annalise
+
+44
+00:02:38,682 --> 00:02:40,482
+Revisão:
+Mr. Hammett | Hugo
+
+45
+00:02:40,483 --> 00:02:42,238
+[InSUBs]
+Qualidade é InSUBstituível!
+
+46
+00:02:42,239 --> 00:02:44,674
+- O que acontece?
+- O algoritmo da Lily achou
+
+47
+00:02:44,675 --> 00:02:46,326
+outro pedaço
+da Lança do Destino.
+
+48
+00:02:46,327 --> 00:02:48,728
+Quando? Sei que foi agora,
+mas para onde vamos?
+
+49
+00:02:48,729 --> 00:02:51,114
+<i>Detroit, o ano 3000 dC.</i>
+
+50
+00:02:51,115 --> 00:02:53,417
+Viagem para o futuro distante.
+Que animador.
+
+51
+00:02:53,418 --> 00:02:56,152
+- Fale por você.
+- Quem não gosta do futuro?
+
+52
+00:02:56,153 --> 00:02:57,747
+Gosto de história.
+Sim, eu sei.
+
+53
+00:02:57,748 --> 00:03:00,725
+Está cheia de terror e violência
+mas o futuro...
+
+54
+00:03:00,726 --> 00:03:02,880
+- É incerto.
+- É, e me assusta um pouco.
+
+55
+00:03:02,881 --> 00:03:04,394
+Então fique na nave.
+
+56
+00:03:04,395 --> 00:03:06,129
+Acha que eu deveria ficar
+na nave?
+
+57
+00:03:06,130 --> 00:03:08,398
+Não ligo.
+É com você.
+
+58
+00:03:17,708 --> 00:03:19,743
+Sou um profissional
+da viagem no tempo.
+
+59
+00:03:19,744 --> 00:03:21,461
+Se precisa
+que eu visite o futuro,
+
+60
+00:03:21,462 --> 00:03:23,029
+posso visitar o futuro.
+
+61
+00:03:23,030 --> 00:03:25,281
+E estou dizendo
+que isso só depende de você.
+
+62
+00:03:25,282 --> 00:03:27,367
+E só estou dizendo
+para calarem a boca.
+
+63
+00:03:27,368 --> 00:03:30,253
+Nate, você fica na nave.
+O restante vai procurar a Lança.
+
+64
+00:03:30,254 --> 00:03:34,636
+<i>O medalhão não sente mais
+a presença do fragmento.</i>
+
+65
+00:03:35,075 --> 00:03:37,568
+- Viemos para cá por nada?
+- Talvez não.
+
+66
+00:03:37,569 --> 00:03:40,907
+Gideon,
+eles têm bebidas no ano 3000?
+
+67
+00:03:41,582 --> 00:03:45,669
+Melhor, Gideon, você tem
+a última posição do fragmento?
+
+68
+00:03:47,788 --> 00:03:49,639
+Alguém ache o interruptor.
+
+69
+00:03:49,640 --> 00:03:53,160
+Como é um interruptor
+no ano 3000?
+
+70
+00:03:55,312 --> 00:03:57,981
+Acho que não dá para mudar muito
+um interruptor.
+
+71
+00:03:57,982 --> 00:04:00,316
+Mas todo resto
+são saltos e limites
+
+72
+00:04:00,317 --> 00:04:02,318
+além da nossa ciência atual.
+
+73
+00:04:09,410 --> 00:04:10,810
+Amaya.
+
+74
+00:04:16,150 --> 00:04:18,101
+- Charles.
+- Como você conhece o morto?
+
+75
+00:04:18,102 --> 00:04:20,704
+É o Doutor Meia-Noite
+da Sociedade da Justiça.
+
+76
+00:04:20,705 --> 00:04:24,257
+O que um membro da SJA
+está fazendo no futuro?
+
+77
+00:04:24,258 --> 00:04:26,910
+- Descanse em paz.
+- Muito gentil, Mick.
+
+78
+00:04:26,911 --> 00:04:29,139
+Não,
+é o que está escrito no chão.
+
+79
+00:04:29,140 --> 00:04:33,233
+- RIP.
+- Isso não é "descanse em paz".
+
+80
+00:04:33,234 --> 00:04:35,748
+É o nome do assassino
+do Doutor Meia-Noite.
+
+81
+00:04:36,604 --> 00:04:38,905
+- Eu não entendo.
+- Seja mais específico.
+
+82
+00:04:38,906 --> 00:04:40,690
+Pode ser uma longa lista.
+
+83
+00:04:41,670 --> 00:04:43,986
+Mesmo supondo que a Legião
+
+84
+00:04:43,987 --> 00:04:45,895
+tenha pego o fragmento
+da Lança daqui,
+
+85
+00:04:45,896 --> 00:04:47,397
+como saberiam
+que estava aqui?
+
+86
+00:04:47,398 --> 00:04:49,504
+- Sem o medalhão.
+- Rip deve ter contado.
+
+87
+00:04:49,505 --> 00:04:52,485
+De algum jeito, ele lembrou
+onde estão os pedaços da Lança.
+
+88
+00:04:52,486 --> 00:04:54,986
+Então que bom
+que você o deixou escapar.
+
+89
+00:04:56,056 --> 00:04:58,024
+Quer dizer algo para mim?
+
+90
+00:04:58,025 --> 00:05:02,145
+Jax me disse
+que ia matar Rip em 1776,
+
+91
+00:05:02,146 --> 00:05:03,546
+e que você o impediu.
+
+92
+00:05:03,547 --> 00:05:05,665
+Porque não somos assassinos,
+Amaya.
+
+93
+00:05:05,666 --> 00:05:08,159
+Menos você e o sr. Rory...
+
+94
+00:05:09,038 --> 00:05:10,438
+Vou parar de falar.
+
+95
+00:05:10,439 --> 00:05:13,789
+Não estou tolerando assassinato,
+mas SJA teria capturado Rip
+
+96
+00:05:13,790 --> 00:05:15,425
+sem consideração
+pelo sentimento.
+
+97
+00:05:15,426 --> 00:05:17,458
+Acha que deixei o Rip ir
+por sentimento?
+
+98
+00:05:17,459 --> 00:05:19,078
+- Acho.
+- Vamos nos acalmar.
+
+99
+00:05:19,079 --> 00:05:22,699
+Sinto muito
+que seu amigo foi morto.
+
+100
+00:05:22,700 --> 00:05:24,421
+E pode ser sentimental,
+
+101
+00:05:24,422 --> 00:05:26,736
+mas minha equipe
+vem antes de táticas.
+
+102
+00:05:26,737 --> 00:05:30,273
+E, por isso, você colocou
+toda realidade em risco.
+
+103
+00:05:30,274 --> 00:05:33,076
+Talvez seja por isso
+que seu time perca tanto.
+
+104
+00:05:33,077 --> 00:05:35,495
+<i>- Perdoem minha interrupção.</i>
+- Na hora certa.
+
+105
+00:05:35,496 --> 00:05:38,228
+<i>O algoritmo da sua filha
+identificou a localização</i>
+
+106
+00:05:38,229 --> 00:05:41,184
+<i>- de outro pedaço da Lança.</i>
+- Se está ruim, pode piorar.
+
+107
+00:05:41,185 --> 00:05:42,585
+Onde fica, Gideon?
+
+108
+00:05:42,586 --> 00:05:46,702
+Uma pequena ilha conhecida
+como Britannia no ano 507 dC.
+
+109
+00:05:52,996 --> 00:05:56,182
+Inglaterra medieval.
+É disso que estou falando,
+
+110
+00:05:56,183 --> 00:05:58,985
+um bom e bem documentado
+pedaço da história.
+
+111
+00:05:58,986 --> 00:06:01,988
+Cavaleiros em armaduras,
+donzelas em perigo,
+
+112
+00:06:01,989 --> 00:06:04,908
+e o melhor de tudo,
+duelos.
+
+113
+00:06:04,909 --> 00:06:08,111
+Na verdade, duelos só apareceram
+na Inglaterra depois de 1300 dC.
+
+114
+00:06:08,112 --> 00:06:11,268
+- Não tire isso de mim.
+- Raymond.
+
+115
+00:06:12,082 --> 00:06:15,902
+Esqueça a história um pouco.
+Estamos na Era das Lendas.
+
+116
+00:06:15,903 --> 00:06:18,471
+Lembre-se do que Santayana
+disse uma vez:
+
+117
+00:06:18,472 --> 00:06:22,375
+"Os que não lembram da história
+estão condenados a repeti-la."
+
+118
+00:06:22,376 --> 00:06:24,718
+Ele era cavaleiro?
+Não lembro do nome dele.
+
+119
+00:06:24,719 --> 00:06:27,607
+E eu era bastante obcecado
+com rei Arthur quando criança.
+
+120
+00:06:27,608 --> 00:06:30,666
+Se você fosse mesmo,
+saberia que não há duelos aqui.
+
+121
+00:06:31,180 --> 00:06:32,580
+Bem...
+
+122
+00:06:33,103 --> 00:06:36,284
+- Concordamos em discordar.
+- Bastante justo.
+
+123
+00:06:43,981 --> 00:06:46,616
+Não vai para a época medieval,
+também, professor?
+
+124
+00:06:46,617 --> 00:06:49,986
+Sim, eu estava lendo
+sobre uma pesquisa.
+
+125
+00:06:50,425 --> 00:06:52,816
+- O que você fez?
+- O que disse?
+
+126
+00:06:53,223 --> 00:06:56,826
+Não diga isso.
+Faz você parecer culpado.
+
+127
+00:06:56,827 --> 00:06:59,461
+Não tenho a menor ideia
+do que você está falando.
+
+128
+00:07:00,381 --> 00:07:04,267
+- O que está fazendo?
+- Ladrões têm cheiro próprio.
+
+129
+00:07:04,268 --> 00:07:06,869
+Acho que esse cheiro é
+porque você não tomou banho.
+
+130
+00:07:06,870 --> 00:07:10,006
+- O que você roubou?
+- Como ousa sequer sugerir...
+
+131
+00:07:10,007 --> 00:07:12,540
+O que você roubou?
+
+132
+00:07:15,412 --> 00:07:18,532
+Doutor Meia-Noite não precisaria
+mais disso, então pensei...
+
+133
+00:07:19,566 --> 00:07:22,502
+Eu não consegui resistir.
+
+134
+00:07:22,503 --> 00:07:25,417
+Apesar de eu preferir
+o termo "emprestado".
+
+135
+00:07:26,740 --> 00:07:30,523
+Impressionante,
+ainda há esperança para você.
+
+136
+00:07:31,862 --> 00:07:34,414
+Estou dizendo que as histórias
+que ouviu na infância
+
+137
+00:07:34,415 --> 00:07:36,553
+são só isso.
+Elas eram histórias, está bem?
+
+138
+00:07:36,554 --> 00:07:38,210
+O mundo medieval
+era tumultuado.
+
+139
+00:07:38,211 --> 00:07:40,236
+Foi o colapso de Roma
+
+140
+00:07:40,237 --> 00:07:43,022
+que levou ao colapso
+da civilização em si.
+
+141
+00:07:43,023 --> 00:07:45,224
+E nem comece a falar
+em saúde e saneamento.
+
+142
+00:07:45,225 --> 00:07:47,960
+- Sim, por favor, não fale.
+- Cólera, difteria,
+
+143
+00:07:47,961 --> 00:07:50,830
+febre tifoide,
+e nem citei as doenças de pele.
+
+144
+00:07:50,831 --> 00:07:53,783
+Falando nisso, por que decidiu
+se vestir igual a um leproso?
+
+145
+00:07:53,784 --> 00:07:56,185
+Não me vesti.
+Estou historicamente correto.
+
+146
+00:07:56,186 --> 00:07:59,522
+Todos vocês parecem estar indo
+a uma feira da renascença.
+
+147
+00:07:59,523 --> 00:08:01,874
+- O que foi?
+- Estamos sendo seguidos.
+
+148
+00:08:01,875 --> 00:08:03,926
+E, aliás,
+mesmo que eu fosse um leproso,
+
+149
+00:08:03,927 --> 00:08:07,470
+é bem menos óbvio que um bando
+de cavaleiros de armaduras.
+
+150
+00:08:12,569 --> 00:08:15,505
+Espere, digo, só...
+Digo, escutem.
+
+151
+00:08:15,506 --> 00:08:17,474
+Bom cavaleiro,
+não queremos machucá-los.
+
+152
+00:08:17,475 --> 00:08:19,459
+Somos apenas viajantes
+nessa terra.
+
+153
+00:08:19,460 --> 00:08:21,394
+Seu dialeto
+está fora de contexto.
+
+154
+00:08:21,395 --> 00:08:23,375
+Eu, Raymond de Palms,
+
+155
+00:08:23,376 --> 00:08:25,996
+meus amigos salteadores
+e mulheres,
+
+156
+00:08:25,997 --> 00:08:28,584
+pedimos passagem segura
+até Camelot,
+
+157
+00:08:28,585 --> 00:08:30,253
+e uma audição
+com o rei Arthur.
+
+158
+00:08:30,254 --> 00:08:31,654
+Rei Arthur?
+
+159
+00:08:31,655 --> 00:08:33,824
+Sim, dá para ver o símbolo dele
+nos escudos.
+
+160
+00:08:40,547 --> 00:08:42,151
+Eu sou Guinevere.
+
+161
+00:08:43,200 --> 00:08:45,690
+Vamos escoltá-los
+até Camelot.
+
+162
+00:08:47,038 --> 00:08:50,646
+Mas seu leproso deve ficar
+do lado de fora do castelo.
+
+163
+00:08:51,074 --> 00:08:52,674
+Eu não sou leproso.
+
+164
+00:09:08,959 --> 00:09:13,739
+- Ainda acha que é só história?
+- Isso aqui não deveria existir.
+
+165
+00:09:14,181 --> 00:09:16,049
+Não há necessidade
+disso aqui.
+
+166
+00:09:16,050 --> 00:09:18,660
+Somos todos iguais
+na corte de Camelot.
+
+167
+00:09:19,371 --> 00:09:20,970
+Por isso
+que eu amo esse cara.
+
+168
+00:09:20,971 --> 00:09:22,371
+Nossos caminhos se cruzaram
+
+169
+00:09:22,372 --> 00:09:24,893
+enquanto rastreávamos
+o Cavaleiro Negro, sua Graça.
+
+170
+00:09:24,894 --> 00:09:27,627
+Como saberei senão estão juntos
+daquele vagabundo vil?
+
+171
+00:09:27,628 --> 00:09:29,545
+- Ray?
+- Sua Graça,
+
+172
+00:09:29,546 --> 00:09:31,330
+juro que não somos
+seus inimigos.
+
+173
+00:09:31,331 --> 00:09:34,901
+Somos guerreiros em uma caça,
+uma corrida contra o mal.
+
+174
+00:09:34,902 --> 00:09:37,753
+Um grande mal assombra
+minhas terras esses dias,
+
+175
+00:09:37,754 --> 00:09:40,590
+sequestrando meus nobres
+Cavaleiros da Távola Redonda.
+
+176
+00:09:40,591 --> 00:09:43,519
+Por esse motivo, caberá
+ao meu conselheiro mais sábio
+
+177
+00:09:43,520 --> 00:09:46,596
+- medir a verdade do que diz.
+- Por favor, não diga.
+
+178
+00:09:46,597 --> 00:09:48,504
+Chamem a Merlin!
+
+179
+00:09:53,687 --> 00:09:57,266
+Preparem-se para sair na marra,
+caso Merlin nos condene.
+
+180
+00:10:02,946 --> 00:10:05,042
+Aquela é a Stargirl.
+
+181
+00:10:07,434 --> 00:10:09,557
+O que faz em Camelot?
+
+182
+00:10:17,606 --> 00:10:20,518
+Essa nave nunca
+para de me impressionar.
+
+183
+00:10:20,519 --> 00:10:23,354
+Falando em impressionar...
+Merlin?
+
+184
+00:10:23,355 --> 00:10:25,807
+Só um nome que adotei
+para me enquadrar nessa era.
+
+185
+00:10:25,808 --> 00:10:27,692
+Mas o que você faz
+nessa era?
+
+186
+00:10:27,693 --> 00:10:30,979
+Deixe-me adivinhar, tem a ver
+com a Lança do Destino?
+
+187
+00:10:30,980 --> 00:10:33,765
+Achamos o Doutor Meia-Noite
+no ano 3000.
+
+188
+00:10:33,766 --> 00:10:36,034
+Ele está morto, Courtney.
+
+189
+00:10:36,035 --> 00:10:39,370
+Achamos que ele foi morto
+porque tinha um pedaço da Lança.
+
+190
+00:10:39,371 --> 00:10:41,356
+O que você sabe
+da última missão da SJA?
+
+191
+00:10:41,357 --> 00:10:43,625
+O Manto Negro me contou
+que a SJA desapareceu
+
+192
+00:10:43,626 --> 00:10:46,050
+após uma viagem
+para Leipzig em 1956.
+
+193
+00:10:46,051 --> 00:10:48,196
+A missão era recuperar
+a Lança do Destino,
+
+194
+00:10:48,197 --> 00:10:50,664
+e impedir que ela caísse
+nas mãos inimigas.
+
+195
+00:10:54,403 --> 00:10:56,788
+<i>E como vocês se espalharam
+através do tempo?</i>
+
+196
+00:10:56,789 --> 00:10:58,977
+Alguém que se autodenominou
+Mestre do Tempo,
+
+197
+00:10:58,978 --> 00:11:02,058
+- juntou-se a nossa missão.
+- Rip Hunter.
+
+198
+00:11:02,059 --> 00:11:03,459
+Sim.
+
+199
+00:11:06,866 --> 00:11:09,334
+Ele disse que a Lança
+poderia alterar a realidade,
+
+200
+00:11:09,335 --> 00:11:12,553
+que era muito poderosa
+para qualquer um tê-la.
+
+201
+00:11:12,554 --> 00:11:15,440
+Então, quebramos a Lança
+em 4 partes.
+
+202
+00:11:15,441 --> 00:11:16,875
+Sr. Hunter pegou um.
+
+203
+00:11:16,876 --> 00:11:19,460
+E levou o resto de vocês
+para 3 eras diferentes.
+
+204
+00:11:19,461 --> 00:11:22,247
+Quando eu cheguei em Camelot,
+era um reino medíocre.
+
+205
+00:11:22,248 --> 00:11:24,599
+Para me ajudar a proteger
+meu pedaço da Lança,
+
+206
+00:11:24,600 --> 00:11:27,568
+eu o transformei
+na corte lendária do rei Arthur
+
+207
+00:11:27,569 --> 00:11:29,519
+e os Cavaleiros
+da Távola Redonda.
+
+208
+00:11:41,367 --> 00:11:44,185
+Courtney,
+respeito sua devoção,
+
+209
+00:11:44,186 --> 00:11:46,890
+mas não deveria contar para mim
+onde o fragmento está?
+
+210
+00:11:46,891 --> 00:11:50,979
+Não se preocupe, Amaya, prometo,
+a Lança está bem escondida.
+
+211
+00:11:52,194 --> 00:11:54,395
+Sua maneira de rastrear
+na mata é excelente.
+
+212
+00:11:54,396 --> 00:11:56,731
+Não há muitas pessoas
+que me pegam de surpresa.
+
+213
+00:11:56,732 --> 00:11:59,334
+Eu era guerreira
+bem antes de ser rainha.
+
+214
+00:11:59,335 --> 00:12:01,786
+Por que parece
+que você preferia isso?
+
+215
+00:12:01,787 --> 00:12:04,495
+Política não é uma
+das minhas paixões.
+
+216
+00:12:05,724 --> 00:12:08,226
+Mas Arthur é
+um bom amigo e aliado,
+
+217
+00:12:08,227 --> 00:12:11,579
+e compartilhamos a mesma visão
+de reino mais justo e pacífico.
+
+218
+00:12:11,580 --> 00:12:15,533
+Pelo que vejo,
+Camelot condiz a reputação dela.
+
+219
+00:12:15,534 --> 00:12:17,264
+Onde está o bom rei?
+
+220
+00:12:17,903 --> 00:12:19,587
+Em uma caçada.
+
+221
+00:12:19,588 --> 00:12:22,757
+Sem dúvidas, caçando um javali
+nesse momento.
+
+222
+00:12:52,071 --> 00:12:53,935
+Faça seu pior, safado.
+
+223
+00:12:54,573 --> 00:12:56,746
+Prefiro morrer a me render.
+
+224
+00:12:58,627 --> 00:13:00,524
+Então você é um idiota.
+
+225
+00:13:01,613 --> 00:13:03,498
+Não me convencerá
+do contrário.
+
+226
+00:13:03,499 --> 00:13:05,099
+Não vai.
+
+227
+00:13:05,684 --> 00:13:09,453
+Pensamos em outra coisa
+para você, majestade.
+
+228
+00:13:20,516 --> 00:13:22,600
+Não acredito que Marty e Mick
+não vieram.
+
+229
+00:13:22,601 --> 00:13:26,054
+Não é? Quando será a próxima vez
+que celebraremos em Camelot?
+
+230
+00:13:26,055 --> 00:13:27,738
+Pessoal, vejam isso.
+
+231
+00:13:28,273 --> 00:13:30,391
+- É o senhor Galahad.
+- Como você sabe?
+
+232
+00:13:30,392 --> 00:13:32,527
+Porque ele está sentado
+no Siege Perilous.
+
+233
+00:13:32,528 --> 00:13:34,562
+- O quê?
+- Para com isso.
+
+234
+00:13:34,563 --> 00:13:36,013
+É uma lenda.
+
+235
+00:13:36,014 --> 00:13:37,465
+Siege Perilous é um assento
+
+236
+00:13:37,466 --> 00:13:39,317
+reservado ao mais puro
+dos cavaleiros.
+
+237
+00:13:39,318 --> 00:13:41,218
+Quantas vezes
+vou ter que te falar
+
+238
+00:13:41,219 --> 00:13:43,538
+há uma diferença
+entre lenda e história.
+
+239
+00:13:43,539 --> 00:13:45,258
+Vou me apresentar.
+
+240
+00:13:47,993 --> 00:13:49,993
+Senhor Galahad...
+
+241
+00:13:52,247 --> 00:13:53,735
+Esse lugar está ocupado?
+
+242
+00:13:54,683 --> 00:13:56,401
+Agora está, amigo.
+
+243
+00:13:59,338 --> 00:14:01,389
+Você deve passar
+por isso o tempo todo,
+
+244
+00:14:01,390 --> 00:14:04,092
+mas preciso confessar,
+que sou um grande fã.
+
+245
+00:14:04,093 --> 00:14:07,395
+Um "ventilador"?
+Então você faz vento?
+
+246
+00:14:07,396 --> 00:14:10,631
+Não, bem...
+
+247
+00:14:10,632 --> 00:14:12,632
+Talvez depois
+de toda essa comida.
+
+248
+00:14:15,700 --> 00:14:19,641
+O que quero dizer é que sou
+um grande admirador seu.
+
+249
+00:14:19,642 --> 00:14:21,677
+- Das minhas explorações?
+- Sim.
+
+250
+00:14:21,678 --> 00:14:24,342
+Sim!
+Desde quando eu era pequeno.
+
+251
+00:14:25,731 --> 00:14:29,400
+- É difícil explicar.
+- Sou um servo.
+
+252
+00:14:29,401 --> 00:14:31,836
+E é minha honra servir
+a verdade inspiração
+
+253
+00:14:31,837 --> 00:14:33,607
+de toda a glória
+de Camelot...
+
+254
+00:14:34,206 --> 00:14:37,671
+Rei Arthur,
+e não foi ele que disse
+
+255
+00:14:37,672 --> 00:14:40,545
+que devemos de forma justa,
+
+256
+00:14:40,546 --> 00:14:43,881
+ao invés de viver
+na flor cruel da tirania.
+
+257
+00:14:43,882 --> 00:14:46,140
+Mais um motivo
+pelo qual eu o amo.
+
+258
+00:14:52,658 --> 00:14:54,715
+O som do retorno do rei.
+
+259
+00:14:55,945 --> 00:14:58,492
+Arthur capturou
+o cavaleiro negro.
+
+260
+00:15:00,316 --> 00:15:02,484
+Arthur, comecei a achar...
+
+261
+00:15:07,699 --> 00:15:10,408
+Perdão pelo truque,
+mas era o único jeito de entrar.
+
+262
+00:15:10,409 --> 00:15:12,226
+Olá, pessoal.
+
+263
+00:15:12,227 --> 00:15:14,778
+Vejo que vocês já conheceram
+meu amigo Arthur.
+
+264
+00:15:15,965 --> 00:15:18,114
+Dê um sorriso, Arthur.
+
+265
+00:15:20,970 --> 00:15:22,370
+Arthur...
+
+266
+00:15:22,788 --> 00:15:25,492
+O rei não está mais aqui.
+
+267
+00:15:26,575 --> 00:15:29,926
+Não entenderam?
+Que pena.
+
+268
+00:15:31,697 --> 00:15:35,249
+Basicamente,
+seu rei faz tudo que eu mandar,
+
+269
+00:15:35,250 --> 00:15:38,069
+caso não queiram que ele derrame
+seu sangue pelo chão,
+
+270
+00:15:38,070 --> 00:15:42,406
+peço que entreguem
+o fragmento da Lança.
+
+271
+00:15:42,407 --> 00:15:45,576
+Minha paciência
+está acabando.
+
+272
+00:15:49,948 --> 00:15:53,684
+O fragmento, onde está?
+
+273
+00:15:53,685 --> 00:15:58,193
+Enquanto eu viver,
+você nunca o terá.
+
+274
+00:15:59,091 --> 00:16:01,809
+Isso pode acontecer mais rápido
+do que você pensa.
+
+275
+00:16:18,994 --> 00:16:21,979
+Parados ou seu rei morre.
+
+276
+00:16:21,980 --> 00:16:25,216
+Tudo que preciso fazer é pensar
+e ele cortará a garganta.
+
+277
+00:16:25,217 --> 00:16:26,651
+Último aviso.
+
+278
+00:16:26,652 --> 00:16:29,087
+Entreguem o fragmento
+até o amanhecer,
+
+279
+00:16:29,088 --> 00:16:33,558
+ou voltarei com um exército
+tão obediente quanto Arthur.
+
+280
+00:16:33,559 --> 00:16:35,296
+A escolha é de vocês.
+
+281
+00:16:35,297 --> 00:16:38,809
+Camelot, ou a Lança.
+
+282
+00:17:09,820 --> 00:17:12,438
+Descanse em paz, Galahad,
+
+283
+00:17:12,439 --> 00:17:14,957
+que sua tristeza e dor
+sejam banidas.
+
+284
+00:17:14,958 --> 00:17:17,877
+Que a última luz de Camelot
+brilhe sobre você.
+
+285
+00:17:17,878 --> 00:17:20,046
+Como você conhece
+o cavaleiro negro?
+
+286
+00:17:20,047 --> 00:17:23,666
+Ele é Damien Darhk.
+Ele trabalha com o velocista
+
+287
+00:17:23,667 --> 00:17:25,902
+que fez Rip Hunter
+mudar de lado.
+
+288
+00:17:25,903 --> 00:17:28,688
+Rip não é o único sob
+controle dele agora.
+
+289
+00:17:28,689 --> 00:17:31,173
+Magia negra transformou
+meu rei...
+
+290
+00:17:31,174 --> 00:17:33,659
+Meu próprio marido
+em meu inimigo.
+
+291
+00:17:33,660 --> 00:17:35,795
+- Não é culpa dele.
+- Ainda assim eu o vi
+
+292
+00:17:35,796 --> 00:17:38,097
+atacar senhor Galahad,
+com meus próprios olhos.
+
+293
+00:17:38,098 --> 00:17:40,466
+Precisa acredito
+que seu marido pode ser salvo,
+
+294
+00:17:40,467 --> 00:17:42,251
+senão ele realmente
+estará perdido.
+
+295
+00:17:42,252 --> 00:17:44,904
+Senão acabarmos com o exército
+inimigo, não saberemos.
+
+296
+00:17:44,905 --> 00:17:46,755
+Minha rainha,
+você precisa ser forte.
+
+297
+00:17:46,756 --> 00:17:48,741
+Sem o rei Arthur,
+os cavaleiros do reino
+
+298
+00:17:48,742 --> 00:17:50,476
+irão seguir a sua liderança.
+
+299
+00:17:51,078 --> 00:17:53,415
+O manto de rei
+é do Arthur.
+
+300
+00:17:54,114 --> 00:17:57,863
+- Não meu.
+- Guinevere, espere.
+
+301
+00:18:00,329 --> 00:18:03,095
+Às vezes, um manto
+apenas cai em seu colo.
+
+302
+00:18:03,096 --> 00:18:06,777
+Confie em mim.
+Sei que é difícil.
+
+303
+00:18:06,778 --> 00:18:08,178
+Você é esperta,
+
+304
+00:18:09,228 --> 00:18:10,670
+é corajosa.
+
+305
+00:18:11,021 --> 00:18:13,890
+E uma comandante nata.
+
+306
+00:18:14,270 --> 00:18:16,108
+Sei que pode fazer isso.
+
+307
+00:18:21,657 --> 00:18:24,726
+Viu o que fizeram com Arthur.
+Imagine o que podem fazer
+
+308
+00:18:24,727 --> 00:18:27,534
+- com um exército manipulado.
+- O que está sugerindo?
+
+309
+00:18:27,535 --> 00:18:30,636
+O fragmento da Lança.
+Temos que tirá-lo do castelo.
+
+310
+00:18:30,637 --> 00:18:34,081
+Como podem proteger a Lança?
+Nem protegeram Dr. Meia-Noite.
+
+311
+00:18:35,320 --> 00:18:38,685
+- Não é justo.
+- Não fugirei, nem o fragmento.
+
+312
+00:18:40,265 --> 00:18:45,264
+Fascinante. Parece conter
+um tipo sofisticado de receptor.
+
+313
+00:18:45,265 --> 00:18:47,629
+Claramente é a mesma tecnologia
+que eu...
+
+314
+00:18:48,126 --> 00:18:51,015
+Achei no laboratório
+do Dr. Meia-Noite.
+
+315
+00:18:52,191 --> 00:18:54,743
+- Grisalho, você não fez isso.
+- Pode crer que fez.
+
+316
+00:18:54,744 --> 00:18:57,519
+Roubou do cara morto.
+Até eu fiquei impressionado.
+
+317
+00:18:57,520 --> 00:18:59,363
+Eu só estava curioso.
+
+318
+00:19:00,241 --> 00:19:03,615
+E foi bom que roubei.
+Esses componentes parecem ser
+
+319
+00:19:03,616 --> 00:19:07,896
+um conjunto, talvez agindo
+como transmissor e receptor.
+
+320
+00:19:07,897 --> 00:19:10,214
+- Ou comandante e soldado.
+- Exatamente.
+
+321
+00:19:10,215 --> 00:19:12,675
+O comandante usa o transmissor,
+enviando ordens
+
+322
+00:19:12,676 --> 00:19:16,686
+por um sinal eletro telepático
+a esse receptor, no soldado.
+
+323
+00:19:16,687 --> 00:19:19,624
+- Se tem sinal, podemos invadir.
+- É o que espero.
+
+324
+00:19:19,625 --> 00:19:22,814
+Tudo o que precisamos fazer
+é impulsionar o poder cerebral
+
+325
+00:19:22,815 --> 00:19:25,405
+- de quem usá-lo.
+- Ou encontrar alguém
+
+326
+00:19:25,406 --> 00:19:28,898
+com um cérebro
+sobrenaturalmente poderoso.
+
+327
+00:19:29,764 --> 00:19:33,312
+- Quer dizer você?
+- Está bem, se insiste.
+
+328
+00:19:33,313 --> 00:19:37,856
+Só precisamos de uma cobaia.
+
+329
+00:19:37,857 --> 00:19:41,419
+Alguém cuja mente
+seja maleável.
+
+330
+00:19:44,116 --> 00:19:45,516
+O que foi?
+
+331
+00:19:49,954 --> 00:19:54,686
+Sr. Babão, prepare o resto
+dos homens de lata para marchar.
+
+332
+00:19:58,556 --> 00:20:02,433
+Talvez eu não tenha
+sido claro.
+
+333
+00:20:04,144 --> 00:20:06,044
+Prepare-os, Rei Arthur.
+
+334
+00:20:07,137 --> 00:20:09,295
+Como quiser, meu soberano.
+
+335
+00:20:10,480 --> 00:20:12,280
+Preparem-se para marchar.
+
+336
+00:20:12,703 --> 00:20:15,178
+Sabia que essas coisas
+seriam úteis.
+
+337
+00:20:22,612 --> 00:20:26,840
+Agora, sr. Rory,
+quero que levante da cadeira.
+
+338
+00:20:26,841 --> 00:20:28,241
+Não,
+
+339
+00:20:28,242 --> 00:20:32,521
+ordeno
+que levante dessa cadeira.
+
+340
+00:20:34,067 --> 00:20:39,030
+Sente algo, um impulso externo,
+como uma pontada, talvez?
+
+341
+00:20:39,031 --> 00:20:42,558
+Espere.
+Estou sentindo alguma coisa.
+
+342
+00:20:42,559 --> 00:20:44,833
+Meu Deus, está funcionando.
+
+343
+00:20:45,643 --> 00:20:49,028
+- Estou com fome.
+- Isso é um desastre.
+
+344
+00:20:52,034 --> 00:20:53,434
+Espere!
+
+345
+00:20:57,035 --> 00:21:00,693
+Parece que nossos adversários
+estão enviando um sinal.
+
+346
+00:21:00,694 --> 00:21:03,803
+- O que isso significa?
+- Meu Deus.
+
+347
+00:21:04,559 --> 00:21:08,041
+Significa que a Legião
+está vindo para Camelot.
+
+348
+00:21:13,903 --> 00:21:18,874
+Bravos cavaleiros de Camelot,
+sei o medo que estão sentindo.
+
+349
+00:21:19,280 --> 00:21:22,346
+Estamos à beira
+da destruição.
+
+350
+00:21:23,212 --> 00:21:25,899
+Nosso rei foi tirado de nós.
+
+351
+00:21:25,900 --> 00:21:30,887
+O mal se aproxima, e parece
+que a esperança está perdida.
+
+352
+00:21:31,823 --> 00:21:35,375
+Mas precisamos nos erguer
+e encarar esse desafio
+
+353
+00:21:35,376 --> 00:21:37,445
+como Arthur gostaria.
+
+354
+00:21:37,446 --> 00:21:39,427
+Devemos lembrar quem somos.
+
+355
+00:21:39,899 --> 00:21:42,152
+Somos irmãos e irmãs.
+
+356
+00:21:42,153 --> 00:21:46,595
+Guerreiros e amigos.
+Não somos apenas cavaleiros.
+
+357
+00:21:46,596 --> 00:21:49,212
+Somos Camelot!
+
+358
+00:21:49,213 --> 00:21:53,112
+<i>Somos Camelot!
+Somos Camelot!</i>
+
+359
+00:21:53,113 --> 00:21:54,843
+<i>Somos Camelot!</i>
+
+360
+00:21:55,552 --> 00:21:58,682
+O exército negro se aproxima.
+Alcançaram a grande floresta.
+
+361
+00:21:58,683 --> 00:22:01,078
+Parece que seu feiticeiro
+está atrasado.
+
+362
+00:22:01,079 --> 00:22:04,212
+- Ela fala do professor Stein?
+- Não importa.
+
+363
+00:22:04,213 --> 00:22:07,158
+Resolveremos isso
+nas pontas das nossas espadas.
+
+364
+00:22:07,159 --> 00:22:10,486
+Camelot os convoca
+em uma hora de necessidade.
+
+365
+00:22:10,487 --> 00:22:12,256
+Vocês responderão?
+
+366
+00:22:12,257 --> 00:22:16,849
+Quem me seguirá
+ao campo de batalha?
+
+367
+00:22:20,464 --> 00:22:24,256
+O que está fazendo?
+Eles não têm a menor chance.
+
+368
+00:22:24,257 --> 00:22:27,030
+Vale mesmo a pena tudo isso
+por um sonho?
+
+369
+00:22:27,929 --> 00:22:31,493
+Sim, porque, há muito tempo,
+esse sonho significou tudo
+
+370
+00:22:31,494 --> 00:22:34,458
+para um garotinho,
+e ele ainda se lembra.
+
+371
+00:22:46,655 --> 00:22:49,000
+Isso não vai acabar bem.
+
+372
+00:22:56,753 --> 00:22:58,153
+O que está fazendo?
+
+373
+00:22:59,540 --> 00:23:02,341
+Se a Stargirl não nos dará
+o fragmento para guardarmos...
+
+374
+00:23:02,342 --> 00:23:06,554
+- Vai roubá-lo?
+- Ela não está pensando direito.
+
+375
+00:23:16,342 --> 00:23:17,842
+Eu devia saber.
+
+376
+00:23:19,034 --> 00:23:21,856
+Tem certeza
+de que quer fazer isso assim?
+
+377
+00:23:21,857 --> 00:23:25,289
+Stargirl era sua colega de time,
+além de ser sua amiga.
+
+378
+00:23:25,290 --> 00:23:28,056
+A Legião do Mal se aproxima
+nesse momento.
+
+379
+00:23:28,057 --> 00:23:29,910
+Não há tempo
+para sentimentos.
+
+380
+00:23:29,911 --> 00:23:31,770
+Quer mesmo arriscar
+que Damien Darhk
+
+381
+00:23:31,771 --> 00:23:34,143
+tenha o poder
+de reescrever a realidade?
+
+382
+00:23:34,654 --> 00:23:36,254
+Acho que não.
+
+383
+00:23:40,702 --> 00:23:44,913
+- Está presa na pedra.
+- Não por muito tempo.
+
+384
+00:24:03,056 --> 00:24:05,224
+Isso foi incrível.
+
+385
+00:24:14,060 --> 00:24:15,987
+Vamos sair daqui.
+
+386
+00:24:16,770 --> 00:24:19,707
+Largue isso.
+
+387
+00:24:28,051 --> 00:24:30,177
+Deveríamos atacar agora.
+
+388
+00:24:34,666 --> 00:24:37,592
+Deixe-me te explicar
+como um ultimato funciona.
+
+389
+00:24:37,593 --> 00:24:42,138
+As Lendas têm até o amanhecer
+para entregar a Lança.
+
+390
+00:24:42,139 --> 00:24:45,538
+Você não acredita
+que farão isso, acredita?
+
+391
+00:24:45,539 --> 00:24:47,601
+Talvez não,
+mas estando em batalha
+
+392
+00:24:47,602 --> 00:24:50,972
+é muito mais sábio
+do que ficando no castelo.
+
+393
+00:24:50,973 --> 00:24:52,515
+Certo.
+
+394
+00:24:52,516 --> 00:24:55,837
+Só pensei que você quisesse
+a minha experiência.
+
+395
+00:24:55,838 --> 00:25:00,368
+Eu já consegui recuperar
+duas partes da Lança.
+
+396
+00:25:00,369 --> 00:25:05,242
+Seja sábio
+e me trate com respeito.
+
+397
+00:25:05,243 --> 00:25:09,125
+Essa coisa na sua cabeça
+não me controla.
+
+398
+00:25:09,747 --> 00:25:12,730
+Não quero lutar contigo,
+mas farei se for preciso.
+
+399
+00:25:12,731 --> 00:25:15,153
+Prepare-se, pois não partirei
+sem esse fragmento.
+
+400
+00:25:15,154 --> 00:25:17,680
+Já temos inimigos demais
+sem lutarmos entre nós.
+
+401
+00:25:17,681 --> 00:25:20,082
+Você nos deixou, Amaya.
+Eu protegia a Lança
+
+402
+00:25:20,083 --> 00:25:22,457
+e continuarei
+até quando eu puder.
+
+403
+00:25:22,458 --> 00:25:24,140
+Você sabe que fazer
+a coisa certa
+
+404
+00:25:24,141 --> 00:25:26,492
+é mais importante do que fazer
+o que acha que é.
+
+405
+00:25:26,493 --> 00:25:29,381
+- Você ainda é parte da SJA.
+- Não sou.
+
+406
+00:25:29,382 --> 00:25:31,237
+Meu coração pertence
+à Camelot.
+
+407
+00:25:31,238 --> 00:25:33,667
+- Seu coração?
+- Você deveria entender.
+
+408
+00:25:33,668 --> 00:25:36,420
+Você não se juntou as Lendas
+por obrigação.
+
+409
+00:25:38,638 --> 00:25:40,898
+Você se apaixonou
+pelo Arthur.
+
+410
+00:25:40,899 --> 00:25:44,368
+Essa brincadeira de reino
+está parecendo uma novela.
+
+411
+00:25:44,977 --> 00:25:47,079
+Espera que eu dê as costas
+
+412
+00:25:47,734 --> 00:25:51,478
+para a coisa mais verdadeira
+que já vi na vida?
+
+413
+00:25:51,479 --> 00:25:54,827
+Tudo o que eu sei
+é que a Legião do Mal
+
+414
+00:25:54,828 --> 00:25:57,390
+não vai parar
+até conseguirem isso.
+
+415
+00:25:57,391 --> 00:25:58,893
+E assim que conseguirem,
+
+416
+00:25:58,894 --> 00:26:03,191
+o mundo que conhecemos
+será destruído.
+
+417
+00:26:05,776 --> 00:26:08,403
+É por isso que levará,
+Amaya.
+
+418
+00:26:08,404 --> 00:26:09,810
+Eu não posso ir,
+
+419
+00:26:09,811 --> 00:26:12,223
+então você terá que cumprir
+o meu juramento.
+
+420
+00:26:13,019 --> 00:26:14,544
+Proteger a Lança.
+
+421
+00:26:17,103 --> 00:26:20,141
+Você ouviu a feiticeira.
+Vamos nessa.
+
+422
+00:26:32,839 --> 00:26:34,991
+Ray, isso é errado.
+
+423
+00:26:34,992 --> 00:26:37,566
+Por favor diga que essa não é
+a espada do Galahad.
+
+424
+00:26:38,264 --> 00:26:40,631
+Sei que não é
+historicamente correto,
+
+425
+00:26:40,632 --> 00:26:44,342
+mas não pude resistir.
+
+426
+00:26:47,930 --> 00:26:51,335
+É igual um sabre,
+feito de luz.
+
+427
+00:26:51,336 --> 00:26:54,460
+É sim. Só não a chame
+de sabre de luz.
+
+428
+00:26:54,461 --> 00:26:57,151
+- Marca registrada.
+- Exatamente.
+
+429
+00:26:57,152 --> 00:26:59,204
+- Você ficou maluco?
+- Não.
+
+430
+00:26:59,205 --> 00:27:01,653
+Focalizei a energia iônica
+na espada de Galahad.
+
+431
+00:27:01,654 --> 00:27:04,483
+Isso é ótimo, Ray,
+mas Sara falou para irmos...
+
+432
+00:27:04,484 --> 00:27:06,906
+O quê?
+A batalha nem começou.
+
+433
+00:27:06,907 --> 00:27:08,714
+É por isso que estamos indo
+agora.
+
+434
+00:27:08,715 --> 00:27:12,997
+Amaya achou o fragmento,
+então não precisamos disso.
+
+435
+00:27:12,998 --> 00:27:15,920
+É uma ótima notícia, não?
+Vamos.
+
+436
+00:27:16,870 --> 00:27:20,154
+Caso não tenha ouvido,
+essa é a parte que corremos.
+
+437
+00:27:22,359 --> 00:27:23,857
+- Não posso.
+- Pode sim.
+
+438
+00:27:23,858 --> 00:27:25,609
+Pé esquerdo, pé direito,
+só repetir.
+
+439
+00:27:25,610 --> 00:27:30,345
+Não, Nate, olhe em volta.
+Todos esses homens
+
+440
+00:27:30,346 --> 00:27:32,547
+estão dispostos a morrer
+no campo de batalha.
+
+441
+00:27:32,548 --> 00:27:35,698
+Não por causa de uma Lança,
+mas por um ideal.
+
+442
+00:27:35,699 --> 00:27:38,522
+Entendo isso agora.
+Camelot não é só história.
+
+443
+00:27:38,523 --> 00:27:42,677
+E nem só livros empoeirados
+para uma criança solitária.
+
+444
+00:27:43,316 --> 00:27:46,450
+É sobre um ideal nobre,
+
+445
+00:27:47,523 --> 00:27:51,788
+onde todos devem apoiar,
+não importa o que aconteça.
+
+446
+00:27:52,688 --> 00:27:56,647
+- Não posso fugir disso.
+- Acredito em você, Ray.
+
+447
+00:27:56,648 --> 00:27:59,818
+Acredito mesmo.
+E Camelot é ótimo.
+
+448
+00:28:00,858 --> 00:28:03,544
+Mas se não for embora,
+você morrerá aqui.
+
+449
+00:28:03,545 --> 00:28:05,596
+Custa ser um pouco mais
+compreensivo?
+
+450
+00:28:05,597 --> 00:28:09,406
+Não entende. Vi o final disso.
+Eu vi seu funeral.
+
+451
+00:28:13,406 --> 00:28:16,249
+Isso soa como algo
+da qual as lendas são feitas.
+
+452
+00:28:17,595 --> 00:28:19,296
+Gideon, vamos preparar
+para partir.
+
+453
+00:28:19,297 --> 00:28:21,198
+<i>- Certo, capitã.</i>
+- Isso não está certo.
+
+454
+00:28:21,199 --> 00:28:23,366
+Nós não deixamos
+ninguém em apuros.
+
+455
+00:28:23,367 --> 00:28:25,887
+Eles são cavaleiros,
+estão lutando para partirmos.
+
+456
+00:28:25,888 --> 00:28:28,089
+- Com uma peça da Lança.
+- E sem o Rip.
+
+457
+00:28:28,090 --> 00:28:30,391
+Fique calmo que viveremos
+para lutar outro dia.
+
+458
+00:28:30,392 --> 00:28:32,041
+A Legião já têm
+2 peças da Lança.
+
+459
+00:28:32,042 --> 00:28:34,043
+Não gosto disso,
+mas não podemos arriscar
+
+460
+00:28:34,044 --> 00:28:37,195
+- que peguem a Yahtzee.
+- O que é uma Yahtzee?
+
+461
+00:28:37,196 --> 00:28:40,799
+<i>Sistema ligado, capitã.
+Estamos prontos para ir.</i>
+
+462
+00:28:42,639 --> 00:28:44,039
+Cadê o Raymond?
+
+463
+00:28:45,656 --> 00:28:48,598
+Com essa espada,
+eu te nomeio,
+
+464
+00:28:48,599 --> 00:28:53,333
+senhor Raymond de Palms,
+defensor de Camelot.
+
+465
+00:28:53,933 --> 00:28:56,380
+Levante-se, bom cavaleiro.
+
+466
+00:29:00,630 --> 00:29:02,631
+Tentei convencê-lo,
+mas ele está disposto
+
+467
+00:29:02,632 --> 00:29:05,272
+- a ser morto.
+- Ele sabe da peça da Lança?
+
+468
+00:29:05,273 --> 00:29:07,320
+Parece que ele só quer
+ser lembrando
+
+469
+00:29:07,321 --> 00:29:09,622
+- nessas historinhas.
+- Não podemos ir sem ele.
+
+470
+00:29:09,623 --> 00:29:11,674
+Não estamos deixando-o.
+Ele decidiu ficar.
+
+471
+00:29:11,675 --> 00:29:14,093
+Amaya, sei que segue
+os protocolos da SJA,
+
+472
+00:29:14,094 --> 00:29:16,949
+- mas isso é idiotice.
+- Não podemos arriscar perder
+
+473
+00:29:16,950 --> 00:29:19,251
+um pedaço da Lança,
+já que a Legião tem o apoio
+
+474
+00:29:19,252 --> 00:29:21,103
+dos Cavaleiros
+da Távola Redonda.
+
+475
+00:29:21,104 --> 00:29:24,393
+- Não tiraram a maldade deles?
+- Não tivemos muito tempo.
+
+476
+00:29:24,394 --> 00:29:26,896
+- Ainda podemos.
+- E se não puder?
+
+477
+00:29:26,897 --> 00:29:30,084
+Por mais que o engomadinho
+me encha o saco,
+
+478
+00:29:30,085 --> 00:29:32,091
+não vou deixá-lo
+lutar sozinho.
+
+479
+00:29:32,570 --> 00:29:35,172
+Sente-se.
+Isso é uma ordem.
+
+480
+00:29:37,172 --> 00:29:40,428
+- O que é uma ordem?
+- Não me provoque, Mick.
+
+481
+00:29:41,075 --> 00:29:43,114
+Não me ameace, loira.
+
+482
+00:29:45,958 --> 00:29:48,466
+Não acredito que concordarei
+com o sr. Rory.
+
+483
+00:29:48,467 --> 00:29:49,867
+- Sara.
+- Disse para sentar.
+
+484
+00:29:49,868 --> 00:29:53,832
+Parem.
+Já perdi uma equipe.
+
+485
+00:29:54,246 --> 00:29:55,947
+Não me perdoarei
+se minhas decisões
+
+486
+00:29:55,948 --> 00:29:57,808
+fizerem as Lendas
+se separarem também.
+
+487
+00:29:57,809 --> 00:30:00,982
+- O que está dizendo?
+- Siga seu instinto, capitã.
+
+488
+00:30:00,983 --> 00:30:02,713
+Não abandone o Ray.
+
+489
+00:30:02,714 --> 00:30:06,832
+Pode ser sentimental,
+mas equipe vem antes de táticas.
+
+490
+00:30:10,838 --> 00:30:13,307
+Certo, vamos fazer isso.
+
+491
+00:30:13,308 --> 00:30:15,809
+Os cavaleiros de Guinevere
+não durarão muito contra
+
+492
+00:30:15,810 --> 00:30:17,711
+o exército de Damien Darhk
+a menos...
+
+493
+00:30:17,712 --> 00:30:20,132
+Retiremos o aparelho
+do Meia-Noite. Faremos isso.
+
+494
+00:30:20,133 --> 00:30:22,203
+- Faremos?
+- Amaya, Nate.
+
+495
+00:30:23,049 --> 00:30:25,500
+Estão prontos
+para arrebentar lá fora?
+
+496
+00:30:34,008 --> 00:30:36,758
+Espere, você pegou o contrário.
+Preciso do transmissor,
+
+497
+00:30:36,759 --> 00:30:38,995
+- não do receptor.
+- Eu tenho uma ideia.
+
+498
+00:30:38,996 --> 00:30:40,947
+E se não for sobre
+poder cerebral,
+
+499
+00:30:40,948 --> 00:30:43,398
+mas sobre intensidade?
+Como a dele.
+
+500
+00:30:43,399 --> 00:30:44,842
+Não temos tempo para isso.
+
+501
+00:30:44,843 --> 00:30:47,285
+Coloque a coleira para cachorro,
+professor.
+
+502
+00:30:50,341 --> 00:30:53,042
+Tenho mais patentes
+do que o sr. Rory têm de crimes,
+
+503
+00:30:53,043 --> 00:30:54,444
+e isso quer dizer algo.
+
+504
+00:30:54,445 --> 00:30:56,879
+Pensar que a mente dele
+é mais poderosa que...
+
+505
+00:30:56,880 --> 00:30:58,585
+Cale a boca.
+
+506
+00:31:00,801 --> 00:31:03,186
+Espere, você se calou
+porque quis,
+
+507
+00:31:03,187 --> 00:31:05,521
+ou porque
+ele te disse para fazê-lo?
+
+508
+00:31:06,050 --> 00:31:07,680
+Faça-o responder.
+
+509
+00:31:08,225 --> 00:31:10,457
+Responda o homem,
+professor.
+
+510
+00:31:14,715 --> 00:31:18,750
+- Surpreendente.
+- Funcionou. Eu sabia.
+
+511
+00:31:18,751 --> 00:31:20,653
+Agora só precisamos
+amplificar o sinal.
+
+512
+00:31:20,654 --> 00:31:24,058
+- O quer que eu faça?
+- Descanse o cérebro, sr. Rory.
+
+513
+00:31:24,059 --> 00:31:25,467
+Avisaremos
+quando for a hora
+
+514
+00:31:25,468 --> 00:31:27,227
+de controlar
+o exército das trevas.
+
+515
+00:31:27,228 --> 00:31:29,868
+Finalmente
+cumprirei meu destino.
+
+516
+00:31:29,869 --> 00:31:31,469
+Deus nos ajude.
+
+517
+00:32:47,074 --> 00:32:50,230
+Então, veio lutar
+por um reino imaginário afinal?
+
+518
+00:32:50,231 --> 00:32:51,932
+Vim lutar por um amigo.
+
+519
+00:32:53,881 --> 00:32:55,838
+Um amigo muito idiota.
+
+520
+00:33:27,950 --> 00:33:31,413
+Preciso que liberte a escuridão
+dos cavaleiros lelés da cuca.
+
+521
+00:33:31,414 --> 00:33:32,902
+Deixe-os
+entrar na sua cabeça.
+
+522
+00:33:32,903 --> 00:33:35,288
+Encha as mentes deles
+com cada impulso brutal
+
+523
+00:33:35,289 --> 00:33:37,126
+cada memória traumática.
+
+524
+00:33:37,127 --> 00:33:39,559
+Isso deve bastar
+para sobrecarregar o sistema.
+
+525
+00:33:39,560 --> 00:33:41,809
+Não poupe nada.
+
+526
+00:33:44,329 --> 00:33:46,815
+Pobres bebês.
+
+527
+00:34:10,157 --> 00:34:13,909
+Suma,
+feiticeiro diabólico!
+
+528
+00:34:29,426 --> 00:34:30,826
+Damien...
+
+529
+00:34:32,679 --> 00:34:36,205
+Sinto muito,
+não faço resgates.
+
+530
+00:34:39,770 --> 00:34:41,450
+Droga, Ray!
+
+531
+00:35:07,047 --> 00:35:10,131
+Você está aqui
+para acabar comigo, capitã?
+
+532
+00:35:13,971 --> 00:35:15,571
+O que está fazendo?
+
+533
+00:35:18,275 --> 00:35:20,525
+Salvando sua vida.
+
+534
+00:35:44,134 --> 00:35:45,718
+Desista, Raymond.
+
+535
+00:35:45,719 --> 00:35:49,221
+Você é um nerd glorificado,
+não um cavaleiro.
+
+536
+00:35:49,222 --> 00:35:51,424
+Sou
+o Sir Raymond de Palms,
+
+537
+00:35:51,425 --> 00:35:56,139
+e em nome do meu eu de 12 anos,
+permita-me replicar.
+
+538
+00:36:28,253 --> 00:36:31,882
+- Renda-se, Damien!
+- Está bem.
+
+539
+00:36:31,883 --> 00:36:33,283
+Eu me rendo.
+
+540
+00:36:54,355 --> 00:36:55,755
+Ray!
+
+541
+00:36:57,405 --> 00:36:58,805
+Ray!
+
+542
+00:37:01,164 --> 00:37:05,156
+Ray! Por favor, amigo,
+abra os olhos, imbecil.
+
+543
+00:37:05,157 --> 00:37:07,370
+Ray, por favor!
+
+544
+00:37:10,874 --> 00:37:13,748
+- Ray!
+- Pare de gritar comigo.
+
+545
+00:37:19,032 --> 00:37:22,495
+- Ray, seu idiota.
+- Não sou mais o Ray.
+
+546
+00:37:23,253 --> 00:37:25,412
+Agora sou
+Sir Raymond de Palms.
+
+547
+00:37:27,526 --> 00:37:29,346
+Nunca te chamarei assim,
+amigo.
+
+548
+00:37:36,746 --> 00:37:39,049
+Obrigada, Amaya.
+As suas ações
+
+549
+00:37:39,050 --> 00:37:41,929
+honrarão esses salões
+por mais tempo do que imagina.
+
+550
+00:37:41,930 --> 00:37:43,927
+A honra é minha, Majestade.
+
+551
+00:37:52,706 --> 00:37:55,566
+Você vai ficar?
+
+552
+00:37:55,567 --> 00:37:57,710
+Como você,
+achei uma nova casa.
+
+553
+00:37:57,711 --> 00:38:00,009
+- Como eu?
+- Com as Lendas.
+
+554
+00:38:00,010 --> 00:38:01,500
+A equipe combina com você.
+
+555
+00:38:03,677 --> 00:38:05,651
+Cuide-se, Courtney.
+
+556
+00:38:09,432 --> 00:38:10,835
+Você também, Amaya.
+
+557
+00:38:16,139 --> 00:38:19,061
+- Sobre o que é tudo isso?
+- Só um conselho amigável.
+
+558
+00:38:19,062 --> 00:38:21,524
+- É mesmo?
+- Temos que ir. Cadê o Ray?
+
+559
+00:38:21,525 --> 00:38:25,785
+Ele queria agradecer a rainha
+antes de partirmos.
+
+560
+00:38:26,595 --> 00:38:30,180
+Engraçado.
+Sara disse exatamente o mesmo.
+
+561
+00:38:32,088 --> 00:38:36,832
+<i>Só queria dizer adeus.</i>
+Foi bom te conhecer.
+
+562
+00:38:36,833 --> 00:38:41,615
+E você, Sara Lance,
+muito bom te conhecer.
+
+563
+00:38:41,949 --> 00:38:43,771
+Sara Lancelot.
+
+564
+00:38:46,161 --> 00:38:47,561
+Tenho que ir.
+
+565
+00:38:49,229 --> 00:38:51,103
+Tem mesmo que partir?
+
+566
+00:38:51,413 --> 00:38:56,132
+Eu, Raymond de Palms,
+minha senhora, vim dizer adeus.
+
+567
+00:38:58,446 --> 00:39:01,226
+Sinto muito, Majestade.
+
+568
+00:39:01,227 --> 00:39:03,156
+- Sara.
+- Tudo bem, Ray, entre.
+
+569
+00:39:03,157 --> 00:39:06,095
+Obrigada por seu serviço
+à realeza.
+
+570
+00:39:06,846 --> 00:39:09,304
+Se, em suas viagens,
+passar por aqui novamente,
+
+571
+00:39:09,305 --> 00:39:11,735
+sempre haverá um assento
+na Távola Redonda,
+
+572
+00:39:11,736 --> 00:39:13,909
+para o Sir Raymond de Palms.
+
+573
+00:39:15,396 --> 00:39:16,796
+Obrigado, minha senhora.
+
+574
+00:39:21,007 --> 00:39:24,252
+Toda boa lenda acaba
+com um beijo.
+
+575
+00:39:39,055 --> 00:39:40,617
+Adeus, Guinevere.
+
+576
+00:39:52,085 --> 00:39:55,105
+Você deve admitir
+que isso não foi inteligência,
+
+577
+00:39:55,106 --> 00:39:59,342
+mas, lá no fundo,
+sua mente se mostrou vital.
+
+578
+00:39:59,343 --> 00:40:01,942
+Só admita que meu cérebro
+salvou o dia.
+
+579
+00:40:01,943 --> 00:40:05,216
+- Não admitirei nada disso.
+- Certo, eu admitirei
+
+580
+00:40:05,217 --> 00:40:09,110
+que me senti parte da história
+passando por uma lenda.
+
+581
+00:40:09,111 --> 00:40:11,128
+E quer saber?
+Talvez lendas e histórias
+
+582
+00:40:11,129 --> 00:40:14,079
+não sejam tão diferentes assim.
+Talvez sejam apenas contos
+
+583
+00:40:14,080 --> 00:40:17,233
+para lembrar de onde somos
+e quem podemos nos tornar.
+
+584
+00:40:17,234 --> 00:40:20,244
+O que me diz?
+Quer saber como será lembrado
+
+585
+00:40:20,245 --> 00:40:22,429
+nas histórias favoritas
+de todo o mundo?
+
+586
+00:40:23,013 --> 00:40:24,413
+Não.
+
+587
+00:40:25,010 --> 00:40:27,146
+Quero descobrir com o tempo.
+
+588
+00:40:27,526 --> 00:40:28,926
+Legal.
+
+589
+00:40:36,208 --> 00:40:38,106
+Tenho algo para te dizer.
+
+590
+00:40:41,217 --> 00:40:44,369
+Não tenho outra escolha,
+tenho?
+
+591
+00:40:45,221 --> 00:40:48,831
+Eu ia te matar
+pelo que fez com a Sara,
+
+592
+00:40:48,832 --> 00:40:51,975
+mas ela me impediu,
+e estou grato por isso.
+
+593
+00:40:52,698 --> 00:40:56,507
+Mas não se engane,
+você não é o capitão,
+
+594
+00:40:56,508 --> 00:40:59,503
+e essa não é a sua nave.
+Não mais.
+
+595
+00:40:59,504 --> 00:41:03,424
+Se só imaginar em machucar
+alguém da minha equipe,
+
+596
+00:41:03,839 --> 00:41:06,223
+não hesitarei em te matar.
+
+597
+00:41:09,262 --> 00:41:11,834
+Foi bom dizer tudo isso,
+não foi?
+
+598
+00:41:25,238 --> 00:41:29,012
+- Gideon.
+<i>- Estou aqui, capitão.</i>
+
+599
+00:41:31,345 --> 00:41:34,059
+Você sempre está.
+
+600
+00:41:37,137 --> 00:41:40,137
+www.insubs.com
+
