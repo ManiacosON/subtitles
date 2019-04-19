@@ -1,0 +1,3329 @@
+﻿1
+00:00:14,708 --> 00:00:17,461
+<i>Jurado em potencial 17, diga o seu nome.</i>
+
+2
+00:00:17,544 --> 00:00:19,295
+<i>Richard Day.</i>
+
+3
+00:00:20,338 --> 00:00:23,424
+<i>Pode dizer ao tribunal</i>
+<i>sua opiniÃ£o prÃ©-existente, se houver,</i>
+
+4
+00:00:23,508 --> 00:00:25,760
+<i>que tenha do rÃ©u, Frank Castle?</i>
+
+5
+00:00:25,844 --> 00:00:28,972
+Fala do Punisher? Acho que Ã© um animal,
+
+6
+00:00:29,055 --> 00:00:31,641
+um cara doentio, pervertido, corrupto...
+
+7
+00:00:31,725 --> 00:00:34,227
+HerÃ³i. Ã‰ como deverÃ­amos chamÃ¡-lo.
+
+8
+00:00:34,310 --> 00:00:36,563
+Fazendo o que os policiais nÃ£o fazem,
+Frank Castle Ã©...
+
+9
+00:00:36,646 --> 00:00:38,940
+Um insulto grotesco Ã  segunda emenda,
+
+10
+00:00:39,023 --> 00:00:42,068
+um fascista sem a autoridade.
+Se me perguntar,
+
+11
+00:00:42,151 --> 00:00:43,737
+gente como Frank Castle deveria ser...
+
+12
+00:00:43,820 --> 00:00:46,197
+Aplaudido por colocar todos os ladrÃµes,
+
+13
+00:00:46,280 --> 00:00:48,908
+assaltantes e estupradores no necrotÃ©rio,
+onde deviam estar.
+
+14
+00:00:48,992 --> 00:00:54,205
+<i>Que os cretinos tenham medo</i>
+<i>de andar nas ruas para variar.</i>
+
+15
+00:01:11,973 --> 00:01:14,851
+-Ã‰ o Filho de Sam novamente.
+-Ã‰ Bernie Goetz...
+
+16
+00:01:14,934 --> 00:01:16,811
+O Ãºnico que nos protege Ã© o Frank.
+
+17
+00:01:16,895 --> 00:01:19,606
+Acabei de chegar com minha famÃ­lia
+a Nova York e jÃ¡ vou embora.
+
+18
+00:01:19,689 --> 00:01:23,693
+Se podem matar qualquer um na cidade...
+onde termina a insanidade?
+
+19
+00:01:40,669 --> 00:01:45,089
+Mais de 400 jurados em potencial passaram
+por este tribunal, advogados.
+
+20
+00:01:45,173 --> 00:01:46,382
+EntÃ£o, devo lhes dizer,
+
+21
+00:01:46,465 --> 00:01:50,595
+se nÃ£o concordarem em prosseguir
+com os 12 homens e mulheres selecionados,
+
+22
+00:01:50,679 --> 00:01:53,765
+tornarei este julgamento um inferno
+para todos vocÃªs.
+
+23
+00:01:53,848 --> 00:01:57,101
+Nova York nÃ£o vÃª um julgamento
+tÃ£o controverso e pÃºblico em anos.
+
+24
+00:01:57,185 --> 00:01:59,646
+Encontrar um jÃºri imparcial nÃ£o Ã© fÃ¡cil.
+
+25
+00:01:59,729 --> 00:02:01,940
+Todos tÃªm uma opiniÃ£o sobre Frank Castle.
+
+26
+00:02:02,023 --> 00:02:06,653
+Ã‰ Nova York, Sr. Nelson.
+Todos tÃªm uma opiniÃ£o sobre tudo.
+
+27
+00:02:06,736 --> 00:02:10,824
+Srta. Reyes, a acusaÃ§Ã£o estÃ¡ satisfeita
+com este jÃºri?
+
+28
+00:02:10,907 --> 00:02:13,868
+-Sim, excelÃªncia.
+-E a defesa, Sr. Nelson?
+
+29
+00:02:16,830 --> 00:02:20,499
+-Sim, excelÃªncia, estamos.
+-GraÃ§as a Deus.
+
+30
+00:02:22,501 --> 00:02:25,589
+O julgamento
+do <i>Povo de Nova York contra Frank Castle</i>
+
+31
+00:02:25,672 --> 00:02:27,465
+estÃ¡ em sessÃ£o.
+
+32
+00:03:03,001 --> 00:03:04,711
+{\an8}UMA SÃ‰RIE ORIGINAL NETFLIX
+
+33
+00:04:02,977 --> 00:04:07,023
+Se eu pegar o estagiÃ¡rio imprestÃ¡vel
+que organizou estes arquivos...
+
+34
+00:04:07,106 --> 00:04:09,818
+O estagiÃ¡rio deve ter obedecido
+Ã  promotora.
+
+35
+00:04:09,901 --> 00:04:11,360
+Oficialmente, nÃ£o Ã© sabotagem,
+
+36
+00:04:11,444 --> 00:04:15,198
+-sÃ³ um inconveniente.
+-Ã‰ um truque baixo.
+
+37
+00:04:15,281 --> 00:04:18,201
+Temos problemas maiores.
+Como escolher uma defesa.
+
+38
+00:04:18,284 --> 00:04:21,037
+-A Lei M'Naghten ainda Ã© a melhor aposta.
+-O que Ã©?
+
+39
+00:04:21,120 --> 00:04:24,498
+-Alegar insanidade.
+-Pessoal...
+
+40
+00:04:24,582 --> 00:04:26,625
+Precisamos de um veredito
+de "nÃ£o culpado".
+
+41
+00:04:26,710 --> 00:04:28,670
+Ã‰ fÃ¡cil provar a culpa de Castle.
+
+42
+00:04:28,753 --> 00:04:30,088
+Precisamos de uma defesa afirmativa.
+
+43
+00:04:30,171 --> 00:04:32,882
+Eu entendo,
+mas nÃ£o creio que Frank seja louco.
+
+44
+00:04:33,632 --> 00:04:37,011
+NÃ£o sou mÃ©dico,
+mas diria que beira a loucura.
+
+45
+00:04:37,095 --> 00:04:38,680
+-Foggy, falo sÃ©rio.
+-Ela tem razÃ£o.
+
+46
+00:04:38,763 --> 00:04:43,226
+Insanidade absolve
+apenas 0,12% dos casos em Nova York.
+
+47
+00:04:43,309 --> 00:04:44,477
+Reyes vai chamar
+
+48
+00:04:44,560 --> 00:04:47,021
+algum psiquiatra perito
+e detonar nosso caso.
+
+49
+00:04:47,105 --> 00:04:49,523
+-Que caso?
+-Olhe, e se nÃ³s...
+
+50
+00:04:49,607 --> 00:04:52,485
+forÃ§armos um julgamento invÃ¡lido?
+TerÃ­amos mais tempo.
+
+51
+00:04:52,568 --> 00:04:54,696
+Falamos do "NR" e o envolvimento da Reyes.
+
+52
+00:04:54,779 --> 00:04:56,865
+Fazemos que a tirem do caso.
+
+53
+00:04:56,948 --> 00:04:58,616
+Ela nÃ£o vai esperar por isso.
+
+54
+00:04:58,700 --> 00:05:02,746
+Se formos seguir esse caminho,
+temos de provar, no tribunal,
+
+55
+00:05:02,829 --> 00:05:06,249
+que o governo escondeu deliberadamente
+provas da emboscada do Punisher,
+
+56
+00:05:06,332 --> 00:05:07,834
+e que Reyes estava envolvida.
+
+57
+00:05:07,917 --> 00:05:11,170
+-NÃ³s estÃ¡vamos lÃ¡.
+-NÃ£o somos imparciais, certo?
+
+58
+00:05:11,254 --> 00:05:13,757
+Enfim, precisamos
+de um pronunciamento de abertura amanhÃ£.
+
+59
+00:05:13,840 --> 00:05:16,300
+Posso comeÃ§ar com TEPT
+como fator mitigante,
+
+60
+00:05:16,384 --> 00:05:17,676
+focar no tempo do Castle na guerra.
+
+61
+00:05:17,761 --> 00:05:19,846
+Acha que a guerra tornou
+Frank no que ele Ã©?
+
+62
+00:05:19,929 --> 00:05:22,556
+Nosso objetivo Ã© reduzir as acusaÃ§Ãµes
+e criar um precedente.
+
+63
+00:05:22,640 --> 00:05:24,308
+Castle fez muitos inimigos.
+
+64
+00:05:24,392 --> 00:05:26,352
+Se for para a prisÃ£o normal,
+ele serÃ¡ morto.
+
+65
+00:05:26,435 --> 00:05:29,272
+Precisamos que vÃ¡ para um local seguro,
+onde tenha ajuda,
+
+66
+00:05:29,355 --> 00:05:30,356
+o TEPT pode conseguir isso.
+
+67
+00:05:30,439 --> 00:05:33,484
+NÃ£o sabemos o que Castle viu por lÃ¡,
+
+68
+00:05:33,567 --> 00:05:38,948
+mas a pesquisa sugere que TEPT pode ser
+precipitado por novos estressores.
+
+69
+00:05:39,032 --> 00:05:40,366
+Como a perda da famÃ­lia.
+
+70
+00:05:40,449 --> 00:05:41,910
+Vou trabalhar na abertura,
+
+71
+00:05:41,993 --> 00:05:44,037
+mas precisamos
+que Castle esteja de acordo.
+
+72
+00:05:44,120 --> 00:05:45,621
+Vou tentar.
+
+73
+00:05:45,704 --> 00:05:48,749
+Frank deixou claro que estÃ¡ disposto
+a falar comigo,
+
+74
+00:05:48,833 --> 00:05:50,126
+se eu estiver sozinha.
+
+75
+00:05:50,209 --> 00:05:53,922
+-Tem certeza?
+-Sim, quero ajudar.
+
+76
+00:05:54,005 --> 00:05:56,424
+Temos uma chance melhor
+de fazÃª-lo falar se eu for.
+
+77
+00:05:57,842 --> 00:05:59,803
+Vou pegar a lista de perguntas.
+
+78
+00:06:04,682 --> 00:06:05,850
+Karen...
+
+79
+00:06:07,268 --> 00:06:10,479
+Sabe que nÃ£o precisa fazer isso sozinha.
+
+80
+00:06:10,563 --> 00:06:13,066
+Tudo bem. Castle nÃ£o me assusta.
+
+81
+00:06:14,108 --> 00:06:17,695
+-Talvez devesse.
+-Sei cuidar de mim mesma.
+
+82
+00:06:18,696 --> 00:06:22,241
+Eu sei, mas eu diria isso ao Foggy.
+
+83
+00:06:22,325 --> 00:06:24,577
+Ou Ã  tropa de elite da marinha.
+
+84
+00:06:27,496 --> 00:06:28,706
+Cuide-se.
+
+85
+00:06:32,210 --> 00:06:33,419
+Prometo.
+
+86
+00:06:35,004 --> 00:06:37,506
+Aqui estÃ¡.
+Me faÃ§a um favor, siga o roteiro.
+
+87
+00:06:39,968 --> 00:06:42,929
+-Desejem-me sorte.
+-Boa sorte.
+
+88
+00:06:45,806 --> 00:06:48,267
+Eles crescem tÃ£o rÃ¡pido, nÃ©?
+
+89
+00:07:55,084 --> 00:07:58,212
+-Oi, Frank.
+-Senhora.
+
+90
+00:08:06,930 --> 00:08:11,267
+Estamos vendo casos parecidos,
+
+91
+00:08:11,350 --> 00:08:12,601
+precedentes legais e...
+
+92
+00:08:12,685 --> 00:08:16,272
+achamos que ajudaria trazer
+alguÃ©m do seu passado,
+
+93
+00:08:16,355 --> 00:08:19,817
+talvez da sua... unidade militar,
+alguÃ©m que pudesse...
+
+94
+00:08:19,901 --> 00:08:21,610
+falar da natureza do seu serviÃ§o.
+
+95
+00:08:21,694 --> 00:08:26,032
+-O que isso tem a ver?
+-Testemunha de carÃ¡ter.
+
+96
+00:08:27,616 --> 00:08:30,494
+Pedimos para alguÃ©m testemunhar...
+que o conhece bem.
+
+97
+00:08:30,578 --> 00:08:32,956
+Que possa falar sobre o que passou.
+
+98
+00:08:33,039 --> 00:08:34,165
+TEPT?
+
+99
+00:08:35,666 --> 00:08:37,585
+Achamos que ajudaria muito na sua defesa.
+
+100
+00:08:37,668 --> 00:08:40,588
+NÃ£o faÃ§a isso. Ã‰ um insulto.
+
+101
+00:08:41,755 --> 00:08:43,132
+Muitos veteranos tÃªm isso.
+
+102
+00:08:43,216 --> 00:08:44,800
+NÃ£o estou falando de mim e sim deles.
+
+103
+00:08:44,883 --> 00:08:48,012
+Ã‰ um insulto a eles,
+pessoas que estÃ£o mesmo passando por isso.
+
+104
+00:08:48,096 --> 00:08:51,099
+Sei o que querem fazer, me rotular
+
+105
+00:08:51,182 --> 00:08:55,061
+como outro caso de um veterano de combate
+que perdeu o juÃ­zo?
+
+106
+00:08:55,144 --> 00:08:58,940
+Talvez isso apele a um jÃºri de merda
+em um tribunal de merda.
+
+107
+00:09:01,067 --> 00:09:03,194
+NÃ£o foi no campo de batalha.
+
+108
+00:09:04,778 --> 00:09:07,240
+NÃ£o foi quando minha vida foi arruinada.
+
+109
+00:09:08,950 --> 00:09:11,577
+Disse que iam encontrar
+respostas para mim.
+
+110
+00:09:11,660 --> 00:09:13,621
+Foi o que me disse. Tem algo para mim?
+
+111
+00:09:13,704 --> 00:09:14,872
+-NÃ£o Ã© fÃ¡cil.
+-Ã‰ o que quer?
+
+112
+00:09:14,956 --> 00:09:17,000
+-Quer algo fÃ¡cil?
+-EstÃ¡ em julgamento
+
+113
+00:09:17,083 --> 00:09:20,086
+por mÃºltiplos homicÃ­dios
+e nÃ£o tem uma estratÃ©gia de defesa.
+
+114
+00:09:20,169 --> 00:09:22,588
+Se nÃ£o cooperar conosco,
+
+115
+00:09:22,671 --> 00:09:25,466
+nÃ£o importa se eu o ajudar
+a descobrir quem matou sua famÃ­lia,
+
+116
+00:09:25,549 --> 00:09:27,676
+nunca verÃ¡ a justiÃ§a.
+
+117
+00:09:27,760 --> 00:09:32,640
+Tudo que farÃ¡, pelo resto de sua vida,
+Ã© apodrecer em uma maldita cela de prisÃ£o!
+
+118
+00:09:41,690 --> 00:09:44,735
+Coronel Ray Schoonover.
+Meu antigo oficial comandante.
+
+119
+00:09:46,862 --> 00:09:50,033
+EsqueÃ§a a defesa de TEPT,
+mas se quiser uma testemunha de carÃ¡ter,
+
+120
+00:09:50,116 --> 00:09:51,617
+chame o coronel.
+
+121
+00:09:52,994 --> 00:09:53,995
+Obrigada.
+
+122
+00:09:54,078 --> 00:09:56,914
+Tem algo para mim ou nÃ£o?
+
+123
+00:09:57,999 --> 00:10:02,503
+Talvez eu deva voltar
+e apodrecer em minha maldita cela?
+
+124
+00:10:03,754 --> 00:10:06,674
+Sim, eu pesquisei.
+
+125
+00:10:07,675 --> 00:10:10,303
+HÃ¡ muitas coisas
+que nÃ£o querem que vejamos.
+
+126
+00:10:10,386 --> 00:10:13,139
+JÃ¡ olhei tudo. Fiz isso umas cem vezes.
+
+127
+00:10:13,222 --> 00:10:16,434
+Claro... mas nÃ£o fez isso comigo.
+
+128
+00:10:26,485 --> 00:10:28,362
+Senhoras e senhores do jÃºri.
+
+129
+00:10:28,446 --> 00:10:31,574
+Se puderem imaginar...
+
+130
+00:10:34,785 --> 00:10:36,204
+Sim, Ã© o Matt.
+
+131
+00:10:36,287 --> 00:10:39,332
+<i>-Achei uma pista.</i>
+-Espere.
+
+132
+00:10:46,589 --> 00:10:48,132
+Elektra, nÃ£o posso fazer isso agora.
+
+133
+00:10:48,216 --> 00:10:50,468
+<i>Sabe o cara que criptografou</i>
+<i>o livro-razÃ£o?</i>
+
+134
+00:10:50,551 --> 00:10:52,595
+<i>Um professor pervertido da NYU,</i>
+
+135
+00:10:52,678 --> 00:10:55,348
+<i>mestre em criptografia</i>
+<i>que ensina estudos asiÃ¡ticos.</i>
+
+136
+00:10:55,431 --> 00:10:57,766
+<i>Vou tirar a chave a tapas dele.</i>
+
+137
+00:10:57,850 --> 00:10:59,143
+-Sim...
+<i>-Quer vir junto?</i>
+
+138
+00:11:00,519 --> 00:11:02,188
+Viu os depoimentos dos CÃ£es do Inferno?
+
+139
+00:11:02,271 --> 00:11:03,314
+Coisa de crianÃ§a.
+
+140
+00:11:03,397 --> 00:11:04,690
+Podemos desacreditÃ¡-los.
+
+141
+00:11:04,773 --> 00:11:06,609
+Ã“timo. Me dÃª um minuto.
+
+142
+00:11:15,159 --> 00:11:17,536
+O caso mais importante que jÃ¡ tivemos
+comeÃ§a pela manhÃ£.
+
+143
+00:11:17,620 --> 00:11:18,954
+NÃ£o posso ir com vocÃª.
+
+144
+00:11:19,037 --> 00:11:20,748
+<i>-NÃ£o pode ou nÃ£o vai?</i>
+-NÃ£o posso.
+
+145
+00:11:20,831 --> 00:11:23,251
+Minha vida nÃ£o para quando vocÃª liga.
+
+146
+00:11:23,334 --> 00:11:26,044
+<i>Pode ser nossa Ãºnica chance</i>
+<i>de traduzir o livro-razÃ£o</i>
+
+147
+00:11:26,129 --> 00:11:30,133
+<i>antes de a Yakuza ajustar seus planos</i>
+<i>e perdermos o progresso que fizemos.</i>
+
+148
+00:11:30,216 --> 00:11:31,384
+VocÃª Ã© exasperadora.
+
+149
+00:11:31,467 --> 00:11:34,094
+<i>Me diga pessoalmente.</i>
+<i>Duas horas. Barclay e Church.</i>
+
+150
+00:11:34,178 --> 00:11:37,223
+Sei que gosto de coisas doentias,
+mas da prÃ³xima vez, juro,
+
+151
+00:11:37,306 --> 00:11:41,185
+sÃ³ quero comer <i>moo goo gai pan</i>
+dos seus corpos.
+
+152
+00:11:41,269 --> 00:11:44,563
+O dia todo.
+
+153
+00:11:44,647 --> 00:11:48,442
+-NÃ£o somos chinesas.
+-Que seja, todas me atraem.
+
+154
+00:11:49,693 --> 00:11:51,195
+O quÃª?
+
+155
+00:11:51,279 --> 00:11:53,281
+Ele Ã© um babaca repulsivo.
+
+156
+00:11:53,364 --> 00:11:56,867
+Um babaca repulsivo que paga bem.
+
+157
+00:11:58,619 --> 00:12:02,998
+NÃ£o sei quem Ã© quem, mas garanto...
+
+158
+00:12:03,081 --> 00:12:07,170
+conheÃ§o seus idiomas melhor que vocÃªs.
+
+159
+00:12:07,253 --> 00:12:10,130
+EntÃ£o... sejam gentis.
+
+160
+00:12:11,715 --> 00:12:13,050
+Saiam.
+
+161
+00:12:29,692 --> 00:12:32,110
+Oi, querido, cheguei.
+
+162
+00:12:32,195 --> 00:12:35,281
+VocÃª foi muito malcriado.
+
+163
+00:12:39,493 --> 00:12:41,454
+Ã‰ bom nÃ£o se mexer.
+
+164
+00:12:54,007 --> 00:12:55,593
+Que diabos querem de mim?
+
+165
+00:12:55,676 --> 00:12:58,679
+-Foi contratado pela Yakuza.
+-NÃ£o sei do que estÃ¡ falando.
+
+166
+00:12:58,762 --> 00:13:00,764
+Criptografou arquivos para eles.
+
+167
+00:13:00,848 --> 00:13:02,808
+A grana deve ser boa.
+
+168
+00:13:02,891 --> 00:13:05,728
+Pouco professores tÃªm
+apartamentos extravagantes
+
+169
+00:13:05,811 --> 00:13:08,231
+e uma rotaÃ§Ã£o de prostitutas.
+
+170
+00:13:08,314 --> 00:13:10,233
+O que querem que eu faÃ§a?
+
+171
+00:13:10,316 --> 00:13:13,611
+O que faz melhor, Philip. Traduza.
+
+172
+00:13:13,694 --> 00:13:14,820
+Desta vez para nÃ³s.
+
+173
+00:13:16,071 --> 00:13:18,031
+Eles vÃ£o me matar
+se eu lhes contar alguma coisa.
+
+174
+00:13:18,115 --> 00:13:20,158
+Se nÃ£o contar, implorarÃ¡ para ser morto.
+
+175
+00:13:29,084 --> 00:13:30,794
+Trinta andares, Philip.
+
+176
+00:13:30,878 --> 00:13:32,880
+FarÃ¡ uma sujeira e tanto.
+
+177
+00:13:32,963 --> 00:13:35,299
+Mais lÃ­quido que sÃ³lido, eu imagino.
+
+178
+00:13:36,467 --> 00:13:38,719
+-O que acha, professor?
+-Ora, por favor...
+
+179
+00:13:40,053 --> 00:13:41,138
+Por favor.
+
+180
+00:13:41,221 --> 00:13:43,015
+-Pago, faÃ§o qualquer coisa.
+-Mais uma vez.
+
+181
+00:13:45,309 --> 00:13:47,853
+NÃ£o posso. VÃ£o me matar.
+
+182
+00:13:47,936 --> 00:13:49,480
+Vai quebrar.
+
+183
+00:13:49,563 --> 00:13:50,898
+EstÃ¡ bem! Merda!
+
+184
+00:13:50,981 --> 00:13:52,816
+Pare! Eu faÃ§o.
+
+185
+00:13:52,900 --> 00:13:54,026
+Vou ajudÃ¡-los.
+
+186
+00:14:03,035 --> 00:14:07,665
+Seja bonzinho
+e nos diga como ler a Ãºltima pÃ¡gina.
+
+187
+00:14:09,207 --> 00:14:11,084
+Eles queriam um cÃ³digo inviolÃ¡vel.
+
+188
+00:14:15,464 --> 00:14:18,175
+Passei o alfabeto japonÃªs...
+
+189
+00:14:18,259 --> 00:14:19,968
+por uma cifra.
+
+190
+00:14:21,219 --> 00:14:22,805
+Agora...
+
+191
+00:14:22,888 --> 00:14:26,809
+passe os caracteres pela matriz
+e pode decifrÃ¡-los.
+
+192
+00:14:26,892 --> 00:14:28,352
+FaÃ§a isso.
+
+193
+00:14:38,236 --> 00:14:40,823
+HÃ¡ carregamentos semanais.
+
+194
+00:14:40,906 --> 00:14:43,284
+O prÃ³ximo Ã© hoje Ã s 23h.
+
+195
+00:14:44,242 --> 00:14:46,495
+PÃ¡tio da Ferrovia Bay Ridge.
+
+196
+00:14:46,579 --> 00:14:48,914
+Ache o vagÃ£o com esse nÃºmero...
+
+197
+00:14:50,207 --> 00:14:52,668
+e acharÃ¡ o trem que procura.
+
+198
+00:14:52,751 --> 00:14:53,919
+O que estÃ£o enviando?
+
+199
+00:14:54,837 --> 00:14:56,046
+NÃ£o diz, eu juro.
+
+200
+00:14:56,129 --> 00:14:58,591
+Eu juro! NÃ£o posso ajudÃ¡-los mais.
+
+201
+00:15:02,761 --> 00:15:05,973
+Obrigada por sua ajuda, professor.
+
+202
+00:15:07,600 --> 00:15:10,894
+FaÃ§a um favor a si mesmo.
+Ache sÃ³cios melhores.
+
+203
+00:15:11,729 --> 00:15:12,980
+E mate sua decoradora.
+
+204
+00:15:34,543 --> 00:15:37,087
+Ei. EstÃ¡ com fome?
+
+205
+00:15:38,171 --> 00:15:40,466
+NÃ£o. Acho que nunca poderei comer de novo.
+
+206
+00:15:41,509 --> 00:15:43,344
+Resultado de ver isso o dia todo.
+
+207
+00:15:43,427 --> 00:15:46,221
+Ã‰. Que tal eu passar um cafÃ©?
+
+208
+00:15:52,269 --> 00:15:53,479
+CadÃª o Matt?
+
+209
+00:15:53,562 --> 00:15:56,106
+Achei que estaria varando a noite
+com vocÃª.
+
+210
+00:15:58,901 --> 00:16:01,153
+EstÃ¡ trabalhando
+no pronunciamento de abertura.
+
+211
+00:16:03,989 --> 00:16:06,241
+Falou com Castle?
+
+212
+00:16:11,163 --> 00:16:14,750
+Ele nÃ£o aceita TEPT, entÃ£o...
+
+213
+00:16:14,833 --> 00:16:16,544
+Merda!
+
+214
+00:16:16,627 --> 00:16:19,004
+Ele nÃ£o tem recordaÃ§Ãµes da guerra, Foggy.
+
+215
+00:16:19,087 --> 00:16:20,381
+NÃ£o Ã© a verdade.
+
+216
+00:16:20,464 --> 00:16:23,341
+Castle disse algo que podemos usar?
+
+217
+00:16:23,426 --> 00:16:25,343
+Pois quando o juiz chamar
+a primeira testemunha,
+
+218
+00:16:25,428 --> 00:16:28,847
+meu plano Ã© fugir para bem longe...
+
+219
+00:16:28,931 --> 00:16:30,766
+e abrir um aÃ§ougue.
+
+220
+00:16:30,849 --> 00:16:34,728
+Revisei os arquivos com Frank.
+
+221
+00:16:34,812 --> 00:16:37,230
+O relatÃ³rio do legista
+do assassinato da famÃ­lia dele
+
+222
+00:16:37,314 --> 00:16:38,607
+foi preenchido por...
+
+223
+00:16:39,567 --> 00:16:41,777
+-Dr. Gregory Tepper.
+-Ã‰.
+
+224
+00:16:41,860 --> 00:16:43,696
+O legista-chefe.
+
+225
+00:16:44,613 --> 00:16:46,782
+Ele vai testemunhar para a Reyes.
+
+226
+00:16:46,865 --> 00:16:51,328
+Seu relatÃ³rio diz
+que Lisa, Frank Jr. e Maria Castle
+
+227
+00:16:51,412 --> 00:16:55,541
+foram mortos por um Ãºnico tiro,
+mas Frank afirma que foram vÃ¡rios tiros.
+
+228
+00:16:55,624 --> 00:16:58,669
+Ele os descreveu em detalhes...
+
+229
+00:16:59,670 --> 00:17:01,464
+Ã¢ngulos diferentes...
+
+230
+00:17:01,547 --> 00:17:04,341
+calibres, ferimentos de saÃ­da
+grandes demais para uma pistola.
+
+231
+00:17:04,425 --> 00:17:07,428
+A famÃ­lia dele foi praticamente retalhada.
+
+232
+00:17:07,511 --> 00:17:11,557
+HÃ¡ discrepÃ¢ncia, o que Ã© bom, mas...
+
+233
+00:17:11,640 --> 00:17:15,769
+ainda Ã© a palavra deles contra a de Frank,
+que tambÃ©m levou um tiro na cabeÃ§a.
+
+234
+00:17:18,313 --> 00:17:19,773
+SÃ³ por um instante...
+
+235
+00:17:20,816 --> 00:17:23,861
+tente ser Frank Castle.
+
+236
+00:17:24,653 --> 00:17:26,655
+Ser apenas movido
+
+237
+00:17:28,031 --> 00:17:30,158
+por um Ãºnico agrupamento de segundos.
+
+238
+00:17:31,702 --> 00:17:34,538
+Um momento em toda a sua vida...
+
+239
+00:17:37,833 --> 00:17:41,003
+E cada vez que fecha os olhos,
+revive aquele momento.
+
+240
+00:17:42,796 --> 00:17:45,048
+E cada vez que os abre, descobre
+
+241
+00:17:45,132 --> 00:17:50,053
+uma breve paz antes de se dar conta
+de que o pesadelo Ã© real.
+
+242
+00:17:51,514 --> 00:17:53,431
+Que nada mudou.
+
+243
+00:17:55,225 --> 00:17:57,352
+Sua famÃ­lia nÃ£o vai voltar.
+
+244
+00:17:58,521 --> 00:18:00,773
+EntÃ£o, vocÃª os vÃª morrer...
+
+245
+00:18:01,774 --> 00:18:04,067
+de novo na sua frente.
+
+246
+00:18:04,985 --> 00:18:08,280
+NÃ£o estamos falando apenas de algo
+que aconteceu a Frank Castle,
+
+247
+00:18:08,363 --> 00:18:11,324
+e sim de algo
+que continua acontecendo a ele.
+
+248
+00:18:14,578 --> 00:18:15,996
+Entendi.
+
+249
+00:18:17,247 --> 00:18:18,666
+Mas...
+
+250
+00:18:18,749 --> 00:18:21,960
+sem exumar os corpos da famÃ­lia dele,
+
+251
+00:18:23,504 --> 00:18:26,757
+nÃ£o temos provas
+de que Frank esteja dizendo a verdade.
+
+252
+00:18:29,718 --> 00:18:31,845
+Certo, entÃ£o...
+
+253
+00:18:33,471 --> 00:18:36,725
+Vamos dizer que o relatÃ³rio do legista...
+foi adulterado.
+
+254
+00:18:36,809 --> 00:18:40,145
+Ainda Ã© tangencial e inadmissÃ­vel.
+
+255
+00:18:43,273 --> 00:18:44,608
+O quÃª?
+
+256
+00:18:44,692 --> 00:18:48,529
+A menos que possamos fazer
+o legista corroborar a histÃ³ria do Frank.
+
+257
+00:18:49,572 --> 00:18:51,156
+Consegue fazer isso?
+
+258
+00:18:51,239 --> 00:18:54,952
+Ã‰ um tiro no escuro. Ele deve estar
+sendo subornado por ela, mas...
+
+259
+00:18:55,953 --> 00:18:56,954
+se funcionar...
+
+260
+00:18:58,038 --> 00:18:59,540
+talvez possamos expor Reyes
+
+261
+00:18:59,623 --> 00:19:01,667
+e conseguir o julgamento invÃ¡lido
+que queremos.
+
+262
+00:19:03,251 --> 00:19:05,629
+O julgamento comeÃ§a em algumas horas,
+
+263
+00:19:05,713 --> 00:19:07,548
+e no lugar de um cÃ©rebro baleado,
+
+264
+00:19:07,631 --> 00:19:11,802
+nosso caso depende de um legista corrupto
+
+265
+00:19:11,885 --> 00:19:13,220
+falar a verdade no tribunal.
+
+266
+00:19:14,722 --> 00:19:17,558
+Vou ligar pro Matt. Dar a notÃ­cia.
+
+267
+00:19:17,641 --> 00:19:18,767
+Eu ligo.
+
+268
+00:19:18,851 --> 00:19:22,104
+Contanto que ele tenha
+o pronunciamento de abertura do ano, eu...
+
+269
+00:19:23,897 --> 00:19:25,566
+Eu acho que temos uma chance.
+
+270
+00:19:30,821 --> 00:19:34,532
+DevÃ­amos apostar
+no que a Yakuza estÃ¡ exportando.
+
+271
+00:19:34,617 --> 00:19:37,202
+Cem pratas que sÃ£o animais exÃ³ticos...
+
+272
+00:19:37,285 --> 00:19:39,788
+ou bolsas falsificadas.
+
+273
+00:19:39,872 --> 00:19:42,207
+Da Ãºltima vez que trouxeram algo,
+
+274
+00:19:42,290 --> 00:19:45,127
+era um navio de carga transportando
+um garoto.
+
+275
+00:19:45,210 --> 00:19:47,588
+-TrÃ¡fico humano?
+-Algo assim.
+
+276
+00:19:55,679 --> 00:19:56,680
+Elektra.
+
+277
+00:19:58,098 --> 00:20:00,142
+Todos os vagÃµes estÃ£o vazios.
+Este estÃ¡ cheio.
+
+278
+00:20:01,059 --> 00:20:02,853
+E os outros depois dele tambÃ©m.
+
+279
+00:20:02,936 --> 00:20:05,606
+-Cheio de quÃª?
+-NÃ£o sei.
+
+280
+00:20:05,689 --> 00:20:07,524
+NÃ£o hÃ¡ espaÃ§o negativo.
+
+281
+00:20:07,608 --> 00:20:10,068
+A carga Ã© uniforme. NÃ£o tem formato real.
+
+282
+00:20:10,152 --> 00:20:12,445
+Mas hÃ¡ muito.
+
+283
+00:20:12,529 --> 00:20:14,364
+O suficiente para curvar os trilhos.
+
+284
+00:20:15,115 --> 00:20:18,076
+EstÃ¡ certo. Este Ã© o nosso.
+
+285
+00:20:18,160 --> 00:20:20,245
+Ande, vamos. Vamos dar uma olhada.
+
+286
+00:20:40,265 --> 00:20:42,475
+-Terra.
+-Eles sabem que estamos aqui?
+
+287
+00:20:43,560 --> 00:20:44,645
+Ã‰ um chamariz?
+
+288
+00:20:47,564 --> 00:20:48,691
+Espere.
+
+289
+00:20:50,025 --> 00:20:52,986
+-Eles estÃ£o vindo.
+-Vamos.
+
+290
+00:22:30,125 --> 00:22:32,002
+VocÃª estÃ¡ bem?
+
+291
+00:22:33,003 --> 00:22:35,505
+As melhores coisas da vida
+o deixam sem fÃ´lego, certo?
+
+292
+00:22:36,173 --> 00:22:40,218
+Que bom que pensa assim,
+pois tenho algo para vocÃª.
+
+293
+00:23:28,558 --> 00:23:29,726
+Ã‰ seu dia de sorte.
+
+294
+00:24:04,344 --> 00:24:07,014
+Por que diabos demorou tanto?
+
+295
+00:24:11,768 --> 00:24:13,270
+EstÃ¡ ferida?
+
+296
+00:24:17,690 --> 00:24:19,276
+Deixe-me ver.
+
+297
+00:24:26,199 --> 00:24:28,118
+Acha que deixarÃ¡ uma cicatriz?
+
+298
+00:24:28,201 --> 00:24:30,120
+NÃ£o Ã© sempre assim?
+
+299
+00:24:31,788 --> 00:24:33,957
+Creio que nunca mais terei cabelo curto.
+
+300
+00:24:34,041 --> 00:24:36,376
+Pode dizer que a conseguiu
+lutando contra a Yakuza.
+
+301
+00:24:38,670 --> 00:24:40,422
+NinguÃ©m acreditaria mesmo.
+
+302
+00:24:46,594 --> 00:24:48,721
+-Pronto.
+-Obrigada.
+
+303
+00:24:51,433 --> 00:24:54,769
+Formamos uma boa equipe, Matthew.
+
+304
+00:24:56,813 --> 00:24:58,231
+Mantenha pressionado.
+
+305
+00:25:03,653 --> 00:25:05,280
+O que vocÃª diz Ã s pessoas?
+
+306
+00:25:06,406 --> 00:25:07,490
+Sobre?
+
+307
+00:25:09,034 --> 00:25:10,702
+Como conseguiu suas cicatrizes.
+
+308
+00:25:17,084 --> 00:25:19,086
+Para minha sorte,
+uso terno para trabalhar...
+
+309
+00:25:20,087 --> 00:25:21,296
+e nunca falamos disso.
+
+310
+00:25:22,505 --> 00:25:25,092
+O que diz Ã s mulheres que traz para casa?
+
+311
+00:25:25,175 --> 00:25:27,594
+Elas estÃ£o se divertindo demais.
+
+312
+00:25:27,677 --> 00:25:29,304
+NÃ£o perguntam.
+
+313
+00:25:29,387 --> 00:25:30,513
+Claro.
+
+314
+00:25:36,228 --> 00:25:39,064
+EstÃ¡ sangrando.
+
+315
+00:25:45,988 --> 00:25:49,282
+-Assim estÃ¡ bem?
+-Ã‰ preciso muito mais para me machucar.
+
+316
+00:25:52,119 --> 00:25:54,871
+VocÃª, por outro lado...
+
+317
+00:26:07,134 --> 00:26:09,136
+NÃ£o tinha visto esta aqui.
+
+318
+00:26:10,762 --> 00:26:12,972
+Ã‰, os russos gostam de facas.
+
+319
+00:26:14,016 --> 00:26:15,892
+Pelo menos, acho que foram os russos.
+
+320
+00:26:17,394 --> 00:26:18,895
+E essas?
+
+321
+00:26:20,438 --> 00:26:21,689
+A Yakuza.
+
+322
+00:26:23,816 --> 00:26:25,943
+Na verdade, um ninja chamado Nobu.
+
+323
+00:26:27,112 --> 00:26:29,031
+Nobu Yoshioka?
+
+324
+00:26:29,114 --> 00:26:32,700
+-VocÃª o conhece?
+-De reputaÃ§Ã£o.
+
+325
+00:26:34,911 --> 00:26:37,914
+Isso tambÃ©m foi ele. Essa doeu.
+
+326
+00:26:38,956 --> 00:26:41,793
+E as... duas nas minhas costas.
+
+327
+00:26:48,007 --> 00:26:49,884
+NÃ£o estava aÃ­ na faculdade.
+
+328
+00:26:49,967 --> 00:26:52,179
+A maioria nÃ£o estava.
+
+329
+00:26:54,139 --> 00:26:55,390
+Andou ocupada?
+
+330
+00:26:56,099 --> 00:26:58,393
+Parece que ambos estivemos.
+
+331
+00:27:08,945 --> 00:27:10,613
+Aonde vocÃª foi, Elektra?
+
+332
+00:27:13,575 --> 00:27:15,243
+Da Ãºltima vez que estivemos juntos...
+
+333
+00:27:20,248 --> 00:27:22,667
+O mais longe possÃ­vel de vocÃª.
+
+334
+00:27:24,502 --> 00:27:28,881
+E... descobriu o que quer...
+
+335
+00:27:29,924 --> 00:27:32,009
+que estava procurando?
+
+336
+00:27:33,470 --> 00:27:36,806
+Descobri que estava sozinha.
+
+337
+00:27:38,350 --> 00:27:40,602
+Por que nÃ£o voltou?
+
+338
+00:27:42,270 --> 00:27:44,897
+Porque vocÃª nÃ£o sabe o que eu sei.
+
+339
+00:27:49,652 --> 00:27:53,030
+Porque merece coisa melhor.
+
+340
+00:28:09,464 --> 00:28:11,133
+Deite. Descanse.
+
+341
+00:29:30,753 --> 00:29:34,216
+Estou muito atrasado.
+
+342
+00:29:34,299 --> 00:29:39,346
+Eu... vou verificar as exportaÃ§Ãµes,
+descobrir de onde vÃªm.
+
+343
+00:29:43,057 --> 00:29:45,685
+Tenha um bom dia no tribunal, Matthew.
+
+344
+00:29:55,445 --> 00:29:56,696
+De todos os dias...
+
+345
+00:29:57,614 --> 00:29:59,699
+Ele disse que se atrasaria,
+mas isso Ã© ridÃ­culo.
+
+346
+00:29:59,782 --> 00:30:01,909
+Foggy, o que estÃ¡ havendo com ele?
+
+347
+00:30:02,869 --> 00:30:05,997
+De pÃ©. O tribunal estÃ¡ em sessÃ£o,
+
+348
+00:30:06,080 --> 00:30:09,166
+a meritÃ­ssima juÃ­za
+Cynthia Batzer presidindo.
+
+349
+00:30:09,251 --> 00:30:16,132
+Indiciamento nÃºmero 1986-4447,
+<i>O Povo contra Frank Castle.</i>
+
+350
+00:30:16,216 --> 00:30:17,675
+Sentem-se.
+
+351
+00:30:21,178 --> 00:30:23,306
+Parece que falta um.
+
+352
+00:30:23,390 --> 00:30:25,975
+Senhoras e senhores do jÃºri,
+
+353
+00:30:26,058 --> 00:30:28,895
+o rÃ©u foi indiciado
+por vÃ¡rios crimes graves.
+
+354
+00:30:28,978 --> 00:30:31,689
+Mas estou instruindo vocÃªs, pela lei...
+
+355
+00:30:31,773 --> 00:30:33,733
+Sabe aqueles sonhos causados por estresse,
+
+356
+00:30:33,816 --> 00:30:35,860
+quando aparece na aula de cueca?
+
+357
+00:30:35,943 --> 00:30:37,654
+-Sim?
+-Sou eu agora.
+
+358
+00:30:38,655 --> 00:30:41,783
+Droga, Matt devia fazer
+o pronunciamento de abertura, nÃ£o eu.
+
+359
+00:30:41,866 --> 00:30:44,702
+Srta. Reyes,
+o Povo estÃ¡ preparado para comeÃ§ar?
+
+360
+00:30:44,786 --> 00:30:46,162
+Mais que preparado, excelÃªncia.
+
+361
+00:30:47,204 --> 00:30:48,415
+Devemos nos preocupar?
+
+362
+00:30:48,498 --> 00:30:51,876
+Matt nÃ£o perderia isso, certo?
+
+363
+00:30:51,959 --> 00:30:53,378
+Senhoras e senhores do jÃºri,
+
+364
+00:30:54,504 --> 00:30:58,925
+Frank Castle torturou brutalmente
+e matou 30 pessoas.
+
+365
+00:31:00,134 --> 00:31:02,178
+Trinta que nÃ³s sabemos.
+
+366
+00:31:03,555 --> 00:31:06,182
+Ele tomou a lei em suas prÃ³prias mÃ£os.
+
+367
+00:31:06,266 --> 00:31:11,479
+Agiu como juiz, jÃºri
+e um carrasco violento.
+
+368
+00:31:12,605 --> 00:31:17,234
+OuvirÃ£o que as vÃ­timas do rÃ©u
+eram criminosos,
+
+369
+00:31:17,319 --> 00:31:20,237
+mas as vÃ­timas nÃ£o estÃ£o
+em julgamento aqui hoje,
+
+370
+00:31:20,322 --> 00:31:23,866
+e a justiÃ§a nÃ£o pertence Ã s mÃ£os
+de um homem como Frank Castle.
+
+371
+00:31:23,950 --> 00:31:26,160
+Isso nÃ£o Ã© o Velho Oeste.
+
+372
+00:31:26,243 --> 00:31:30,457
+A justiÃ§a Ã© feita aqui... no tribunal.
+
+373
+00:31:30,540 --> 00:31:32,750
+E depende de cada um de vocÃªs
+
+374
+00:31:32,834 --> 00:31:36,504
+recuperar a cidade
+de justiceiros foras da lei
+
+375
+00:31:37,422 --> 00:31:38,631
+como Frank Castle.
+
+376
+00:31:45,347 --> 00:31:47,349
+Esse homem nÃ£o Ã© um herÃ³i.
+
+377
+00:31:49,351 --> 00:31:50,810
+Ele Ã© um assassino em sÃ©rie.
+
+378
+00:31:52,269 --> 00:31:54,772
+E ele Ã© culpado.
+
+379
+00:31:58,192 --> 00:31:59,319
+Obrigada.
+
+380
+00:32:01,988 --> 00:32:05,658
+Sr. Nelson, estÃ¡ pronto para fazer
+seu pronunciamento de abertura?
+
+381
+00:32:05,742 --> 00:32:08,202
+-Ela Ã© boa.
+-VocÃª tambÃ©m Ã©.
+
+382
+00:32:09,203 --> 00:32:10,580
+Sr. Nelson?
+
+383
+00:32:12,540 --> 00:32:16,711
+Sr. Nelson, quer fazer
+seu pronunciamento de abertura mais tarde?
+
+384
+00:32:24,969 --> 00:32:25,970
+Dane-se.
+
+385
+00:32:29,056 --> 00:32:32,602
+NÃ£o, excelÃªncia...
+a defesa estÃ¡ pronta para prosseguir.
+
+386
+00:32:38,358 --> 00:32:40,317
+Senhoras e senhores do jÃºri...
+
+387
+00:32:41,569 --> 00:32:44,656
+o rÃ©u, Frank Castle, nÃ£o Ã©...
+
+388
+00:32:47,074 --> 00:32:48,325
+Desculpem-me.
+
+389
+00:32:53,289 --> 00:32:56,584
+O Sr. Castle Ã© uma vÃ­tima tanto...
+
+390
+00:32:59,504 --> 00:33:01,088
+NÃ£o, ele nÃ£o Ã©.
+
+391
+00:33:08,430 --> 00:33:11,098
+Certo, entÃ£o...
+
+392
+00:33:11,182 --> 00:33:14,561
+vocÃª tem 19 anos...
+parado na areia quente...
+
+393
+00:33:15,311 --> 00:33:16,979
+o sol queimando...
+
+394
+00:33:18,773 --> 00:33:19,899
+barulho...
+
+395
+00:33:20,733 --> 00:33:22,819
+gritos, tiros...
+
+396
+00:33:24,320 --> 00:33:26,363
+A Ãºnica coisa que sabe com certeza
+
+397
+00:33:26,448 --> 00:33:29,116
+Ã© que estÃ¡ cercado
+por um inimigo que quer matÃ¡-lo.
+
+398
+00:33:30,868 --> 00:33:33,538
+Mas vocÃª vai. VocÃª aguenta.
+
+399
+00:33:33,621 --> 00:33:35,247
+Por quÃª?
+
+400
+00:33:35,331 --> 00:33:38,501
+Porque recebeu ordens. E tem um dever.
+
+401
+00:33:39,877 --> 00:33:42,964
+E porque a sua vida nÃ£o termina aqui.
+
+402
+00:33:44,131 --> 00:33:46,926
+VocÃª tem gente que ama
+esperando por vocÃª em casa.
+
+403
+00:33:48,344 --> 00:33:51,973
+Porque, alÃ©m de ser
+um fuzileiro condecorado,
+
+404
+00:33:52,056 --> 00:33:57,311
+o homem que estÃ¡ aqui Ã©
+um bom marido e um excelente pai.
+
+405
+00:33:58,813 --> 00:34:02,734
+Frank Castle voltou do inferno da guerra
+
+406
+00:34:02,817 --> 00:34:05,361
+querendo apenas continuar a sua vida.
+
+407
+00:34:06,654 --> 00:34:11,200
+Mas sua esposa... seu filhinho e filha...
+
+408
+00:34:11,283 --> 00:34:13,745
+foram brutalmente assassinados
+por criminosos,
+
+409
+00:34:13,828 --> 00:34:17,540
+e ninguÃ©m, nem a polÃ­cia e...
+
+410
+00:34:17,624 --> 00:34:21,794
+certamente nem a promotoria se mexeu
+para corrigir isso.
+
+411
+00:34:21,878 --> 00:34:23,630
+Vejam, Frank Castle nunca voltou
+para casa.
+
+412
+00:34:23,713 --> 00:34:26,758
+Ele sÃ³ trocou
+uma zona de guerra por outra.
+
+413
+00:34:30,970 --> 00:34:34,348
+Este julgamento nÃ£o Ã© sobre justiceiros.
+
+414
+00:34:34,431 --> 00:34:37,393
+Ã‰ sobre o fracasso do sistema judiciÃ¡rio.
+
+415
+00:34:37,477 --> 00:34:40,688
+E como um homem, Frank Castle,
+estÃ¡ sendo usado como bode expiatÃ³rio
+
+416
+00:34:40,772 --> 00:34:42,982
+para encobrir os erros do sistema.
+
+417
+00:34:43,065 --> 00:34:45,735
+A acusaÃ§Ã£o quer sangue.
+
+418
+00:34:45,818 --> 00:34:47,987
+Mas como a juÃ­za disse,
+
+419
+00:34:48,070 --> 00:34:52,033
+para conseguir isso, eles tÃªm de provar
+seu caso alÃ©m de dÃºvida razoÃ¡vel.
+
+420
+00:34:53,075 --> 00:34:55,077
+O que peÃ§o a vocÃªs hoje...
+
+421
+00:34:55,995 --> 00:34:57,580
+Ã© que mantenham a mente aberta.
+
+422
+00:34:59,999 --> 00:35:02,251
+Ã‰ sÃ³, excelÃªncia.
+
+423
+00:35:05,838 --> 00:35:09,216
+Falou um monte de merda, advogado.
+
+424
+00:35:09,300 --> 00:35:10,968
+AcusaÃ§Ã£o, chame sua primeira testemunha.
+
+425
+00:35:11,052 --> 00:35:12,053
+Sim, excelÃªncia.
+
+426
+00:35:12,136 --> 00:35:14,055
+-Desculpe, pessoal.
+-Onde vocÃª estava?
+
+427
+00:35:14,138 --> 00:35:16,057
+Eu errei, Karen, e me sinto mal por isso,
+
+428
+00:35:16,140 --> 00:35:17,474
+mas ouvi a abertura.
+
+429
+00:35:17,559 --> 00:35:18,893
+-VocÃª foi Ã³timo.
+-Ele foi incrÃ­vel.
+
+430
+00:35:18,976 --> 00:35:21,228
+Ei, obrigado
+por nos manter no jogo, amigÃ£o.
+
+431
+00:35:24,524 --> 00:35:27,694
+Espero que Reyes nÃ£o tenha notado
+o quanto eu estava suando.
+
+432
+00:35:27,777 --> 00:35:30,613
+E se a promotoria nÃ£o suspeitava
+de que nÃ£o tÃ­nhamos nada,
+
+433
+00:35:30,697 --> 00:35:31,698
+agora eles tÃªm certeza.
+
+434
+00:35:31,781 --> 00:35:32,949
+Temos de mudar isso.
+
+435
+00:35:33,032 --> 00:35:35,034
+Quem sÃ£o
+as testemunhas da acusaÃ§Ã£o amanhÃ£?
+
+436
+00:35:36,035 --> 00:35:37,494
+Tenho a lista aqui.
+
+437
+00:35:41,332 --> 00:35:42,917
+Tepper, maravilha.
+
+438
+00:35:43,000 --> 00:35:45,587
+Reyes vai chamar o legista-chefe.
+
+439
+00:35:45,670 --> 00:35:47,171
+Do comeÃ§o difÃ­cil ao golpe de mestre.
+
+440
+00:35:47,254 --> 00:35:48,255
+O que temos?
+
+441
+00:35:48,339 --> 00:35:50,633
+Mostrei ao Frank o relatÃ³rio da autÃ³psia.
+
+442
+00:35:50,717 --> 00:35:52,509
+Ele diz que sÃ£o falsos
+e tÃªm o nome do Tepper.
+
+443
+00:35:52,594 --> 00:35:53,595
+Ã“timo. Tudo bem.
+
+444
+00:35:53,678 --> 00:35:55,512
+-DevÃ­amos fazÃª-lo falar.
+-Foi o que dissemos.
+
+445
+00:35:55,597 --> 00:35:57,599
+O que saberia se fosse ao escritÃ³rio.
+
+446
+00:35:57,682 --> 00:35:59,934
+-Deixe-me cuidar disso.
+-Como cuidou esta manhÃ£?
+
+447
+00:36:00,017 --> 00:36:01,769
+Entendi. Mas deixe-me tentar.
+
+448
+00:36:01,853 --> 00:36:02,854
+Deixe-me interrogÃ¡-lo.
+
+449
+00:36:02,937 --> 00:36:05,481
+Se conseguirmos que entrem como provas,
+
+450
+00:36:05,565 --> 00:36:08,442
+e Ã© um grande "se",
+como sÃ£o de um crime nÃ£o relacionado,
+
+451
+00:36:08,525 --> 00:36:11,195
+hÃ¡ pouca chance
+de que ele vÃ¡ se incriminar.
+
+452
+00:36:11,278 --> 00:36:14,073
+A menos que dois advogados brilhantes
+consigam enganÃ¡-lo.
+
+453
+00:36:14,156 --> 00:36:17,702
+-Exato.
+-Quer? Divirta-se.
+
+454
+00:36:17,785 --> 00:36:21,789
+Mas Tepper nÃ£o vai falar sem briga.
+A promotoria o controla.
+
+455
+00:36:21,873 --> 00:36:24,709
+E teve tempo para preparar sua histÃ³ria.
+
+456
+00:36:24,792 --> 00:36:28,504
+Temos apenas 12 horas para destruÃ­-la.
+NÃ£o sei como faremos isso atÃ© amanhÃ£.
+
+457
+00:36:28,588 --> 00:36:32,592
+Karen vai me deixar a par de tudo
+e vamos descobrir um jeito.
+
+458
+00:36:33,550 --> 00:36:35,678
+Ã“timo, mas vou voltar ao escritÃ³rio,
+
+459
+00:36:35,762 --> 00:36:38,180
+porque tenho de preparar
+o resto do julgamento.
+
+460
+00:36:43,269 --> 00:36:45,437
+-VocÃª o deixou na mÃ£o, Matt.
+-Eu sei. Sei, sim.
+
+461
+00:36:45,521 --> 00:36:46,939
+Mas vou compensar por isso.
+
+462
+00:36:47,023 --> 00:36:48,399
+E vou compensar vocÃª.
+
+463
+00:36:49,358 --> 00:36:50,693
+Vamos.
+
+464
+00:36:50,777 --> 00:36:52,528
+<i>FaÃ§a Tepper pensar no relatÃ³rio real.</i>
+
+465
+00:36:52,612 --> 00:36:54,071
+A verdade.
+
+466
+00:36:54,155 --> 00:36:56,991
+E quando ele ficar desorientado,
+continuo com algo como:
+
+467
+00:36:57,074 --> 00:36:58,910
+"Quem fez vocÃª mudar o relatÃ³rio?"
+
+468
+00:36:58,993 --> 00:37:00,494
+E se ele disser "ninguÃ©m", prova...
+
+469
+00:37:00,577 --> 00:37:01,996
+Que foi adulterado.
+
+470
+00:37:02,079 --> 00:37:03,497
+-E isso Ã©...
+-Brilhante.
+
+471
+00:37:03,580 --> 00:37:05,958
+Viu? Leva jeito.
+
+472
+00:37:06,042 --> 00:37:07,919
+Bem, ando em boas companhias.
+
+473
+00:37:08,753 --> 00:37:09,796
+Quer saber?
+
+474
+00:37:09,879 --> 00:37:12,048
+Por que eu nÃ£o o ajudo a revisar
+as perguntas?
+
+475
+00:37:12,131 --> 00:37:13,883
+Podemos preparÃ¡-las e testÃ¡-las.
+
+476
+00:37:13,966 --> 00:37:16,385
+Tudo bem, mas vai ser chato.
+
+477
+00:37:16,468 --> 00:37:18,054
+E tedioso.
+
+478
+00:37:18,137 --> 00:37:19,430
+Pode levar a noite toda.
+
+479
+00:37:20,306 --> 00:37:22,642
+Eu nÃ£o ligo.
+
+480
+00:37:22,725 --> 00:37:24,894
+-O quÃª?
+-JÃ¡ pensou em fazer Direito?
+
+481
+00:37:26,270 --> 00:37:27,689
+NÃ£o sei.
+
+482
+00:37:27,772 --> 00:37:30,149
+Foggy e eu conhecemos
+gente boa em Columbia.
+
+483
+00:37:31,442 --> 00:37:33,986
+Se for algo que deseja.
+
+484
+00:37:35,612 --> 00:37:39,075
+Pense como Nelson e Murdock seria
+mais divertido como...
+
+485
+00:37:39,158 --> 00:37:40,993
+Nelson, Murdock e Page.
+
+486
+00:37:42,787 --> 00:37:45,414
+VocÃª Ã©... gentil.
+
+487
+00:37:46,958 --> 00:37:50,336
+NÃ£o sei.
+NÃ£o sei se Direito combina comigo.
+
+488
+00:37:51,879 --> 00:37:55,299
+Ã‰ uma questÃ£o de regras e exceÃ§Ãµes.
+
+489
+00:37:55,382 --> 00:37:58,803
+Parece que a verdade fica perdida
+com muita frequÃªncia.
+
+490
+00:37:58,886 --> 00:38:01,055
+Nem todo caso serÃ¡
+<i>O Povo contra Frank Castle.</i>
+
+491
+00:38:01,138 --> 00:38:02,223
+Certo.
+
+492
+00:38:02,306 --> 00:38:05,517
+Mas nÃ£o Ã© sÃ³ esse caso. Ã‰...
+
+493
+00:38:11,691 --> 00:38:12,942
+O quÃª?
+
+494
+00:38:16,112 --> 00:38:17,238
+Sabe, nÃ³s...
+
+495
+00:38:20,157 --> 00:38:21,283
+VocÃª jÃ¡...
+
+496
+00:38:22,326 --> 00:38:24,453
+pensou na noite em que nos conhecemos?
+
+497
+00:38:25,872 --> 00:38:28,249
+Sim, todo o tempo.
+
+498
+00:38:31,335 --> 00:38:34,255
+Enquanto eu estava na delegacia...
+
+499
+00:38:34,338 --> 00:38:35,506
+sozinha...
+
+500
+00:38:37,341 --> 00:38:39,135
+eu tinha medo de todo o mundo.
+
+501
+00:38:41,678 --> 00:38:43,139
+Bem, pelo menos, atÃ©...
+
+502
+00:38:43,222 --> 00:38:45,141
+vocÃª e Foggy entrarem na minha vida e...
+
+503
+00:38:46,475 --> 00:38:50,104
+VocÃª confiou em mim. Me deu esperanÃ§a.
+
+504
+00:38:53,107 --> 00:38:56,736
+E voltamos para a sua casa.
+
+505
+00:38:56,819 --> 00:38:59,238
+E eu lhe ofereci comida tailandesa.
+
+506
+00:39:00,239 --> 00:39:01,490
+CÃ©us...
+
+507
+00:39:02,574 --> 00:39:05,161
+Lembro tudo sobre aquela noite, porque...
+
+508
+00:39:06,162 --> 00:39:08,289
+nÃ£o Ã© todo dia
+que a sua vida Ã© ameaÃ§ada...
+
+509
+00:39:09,498 --> 00:39:11,793
+e salva por um homem de preto.
+
+510
+00:39:15,587 --> 00:39:16,672
+Ei, vocÃª...
+
+511
+00:39:17,548 --> 00:39:19,842
+Acredita no que ele faz?
+
+512
+00:39:19,926 --> 00:39:23,179
+Sabe, o DemÃ´nio de Hell's Kitchen.
+
+513
+00:39:27,474 --> 00:39:28,810
+Eu...
+
+514
+00:39:31,062 --> 00:39:34,273
+-O quÃª?
+-Eu... acredito na lei.
+
+515
+00:39:35,983 --> 00:39:38,903
+-Se Ã© o que perguntou.
+-Certo. NÃ£o, mas...
+
+516
+00:39:38,986 --> 00:39:40,822
+Mas e quando a lei fracassa?
+
+517
+00:39:40,905 --> 00:39:42,656
+Como fez comigo e com Frank.
+
+518
+00:39:42,739 --> 00:39:44,826
+A quem devemos recorrer?
+
+519
+00:39:44,909 --> 00:39:47,411
+Em que acreditamos que vÃ¡ nos proteger?
+
+520
+00:39:49,288 --> 00:39:53,167
+EstÃ¡ perguntando a um advogado catÃ³lico.
+
+521
+00:39:54,543 --> 00:39:55,627
+-Sim.
+-O que vocÃª...
+
+522
+00:39:55,711 --> 00:39:58,380
+-O que quer que eu diga?
+-NÃ£o sei.
+
+523
+00:39:59,799 --> 00:40:01,342
+Acho que Ã© sÃ³...
+
+524
+00:40:01,425 --> 00:40:04,178
+desde que pegamos o caso do Frank, tipo...
+
+525
+00:40:04,261 --> 00:40:05,262
+eu fico...
+
+526
+00:40:06,263 --> 00:40:09,809
+Fico me perguntando
+se realmente hÃ¡ diferenÃ§a entre...
+
+527
+00:40:11,143 --> 00:40:13,604
+alguÃ©m que salva vidas e...
+
+528
+00:40:13,687 --> 00:40:17,108
+alguÃ©m que evita
+que vidas precisem ser salvas.
+
+529
+00:40:17,191 --> 00:40:18,234
+Certo?
+
+530
+00:40:20,277 --> 00:40:21,362
+Espere... Espere um pouco.
+
+531
+00:40:21,445 --> 00:40:25,032
+Frank Castle deveria estar preso.
+
+532
+00:40:25,116 --> 00:40:27,576
+Ele merece um julgamento justo,
+mas matou pessoas.
+
+533
+00:40:27,659 --> 00:40:28,785
+Certo. Gente mÃ¡.
+
+534
+00:40:28,870 --> 00:40:31,705
+Como os que mataram a famÃ­lia dele
+ou os que vieram atrÃ¡s de mim.
+
+535
+00:40:31,788 --> 00:40:34,083
+Mas nÃ£o Ã© decisÃ£o do Frank
+quem vive ou morre.
+
+536
+00:40:34,166 --> 00:40:36,252
+Isso depende de Deus...
+
+537
+00:40:36,335 --> 00:40:38,462
+ou Ã s vezes de um jÃºri.
+
+538
+00:40:38,545 --> 00:40:40,965
+A tragÃ©dia da famÃ­lia do Frank, Karen,
+
+539
+00:40:41,048 --> 00:40:42,466
+nÃ£o lhe dÃ¡ o direito de matar...
+
+540
+00:40:42,549 --> 00:40:44,551
+NÃ£o. Deus, nÃ£o. NÃ£o o direito, isso...
+
+541
+00:40:44,635 --> 00:40:46,303
+NÃ£o disse isso. SÃ³ que...
+
+542
+00:40:46,387 --> 00:40:47,930
+Entendo a razÃ£o de Frank...
+
+543
+00:40:48,014 --> 00:40:49,723
+por que alguÃ©m buscaria vinganÃ§a depois...
+
+544
+00:40:49,806 --> 00:40:51,308
+-Depois de perder...
+-NÃ£o.
+
+545
+00:40:51,392 --> 00:40:53,519
+NÃ£o Ã© o mesmo. VinganÃ§a nÃ£o Ã© justiÃ§a.
+
+546
+00:40:53,602 --> 00:40:55,187
+O que ele fez foi errado.
+
+547
+00:40:55,271 --> 00:40:57,106
+Certo ou errado,
+nÃ£o pode negar que funciona.
+
+548
+00:41:01,068 --> 00:41:02,111
+Acredita nisso?
+
+549
+00:41:02,194 --> 00:41:03,863
+NÃ£o sei. NÃ£o.
+
+550
+00:41:09,493 --> 00:41:10,827
+Talvez.
+
+551
+00:41:21,255 --> 00:41:23,757
+Talvez seja hora de irmos dormir.
+
+552
+00:41:24,926 --> 00:41:27,344
+Acho que estamos os dois exaustos e...
+
+553
+00:41:27,428 --> 00:41:29,931
+Um caso grande assim, vamos...
+
+554
+00:41:30,014 --> 00:41:31,390
+Sim, tem razÃ£o.
+
+555
+00:41:34,268 --> 00:41:36,896
+NÃ£o sei, talvez depois...
+depois que terminar o julgamento.
+
+556
+00:41:36,979 --> 00:41:39,315
+-Sim, um encontro de verdade.
+-Ã“timo.
+
+557
+00:41:54,871 --> 00:41:56,873
+-Boa noite.
+-Boa noite, Karen.
+
+558
+00:41:59,126 --> 00:42:00,544
+Descanse.
+
+559
+00:42:13,140 --> 00:42:17,186
+-HÃ¡ quanto tempo estava ouvindo?
+-NÃ£o estava ouvindo.
+
+560
+00:42:17,269 --> 00:42:18,938
+NÃ£o ouvi nada sobre seu trabalho
+
+561
+00:42:19,021 --> 00:42:22,399
+que me faria querer
+pÃ´r uma corda no pescoÃ§o e testÃ¡-la.
+
+562
+00:42:22,483 --> 00:42:24,986
+Nem vou mencionar o que nÃ£o ouvi
+sobre sua namorada.
+
+563
+00:42:25,069 --> 00:42:28,239
+-Avisei para nÃ£o interromper a minha vida.
+-NÃ£o Ã© sua vida, Matthew.
+
+564
+00:42:28,322 --> 00:42:30,532
+Pode nÃ£o se importar com o que consegui,
+
+565
+00:42:30,616 --> 00:42:32,409
+mas Ã© a coisa mais importante para mim.
+
+566
+00:42:32,493 --> 00:42:35,704
+EstÃ¡ bem? Ela... Ã© importante para mim.
+
+567
+00:42:36,622 --> 00:42:37,664
+Certo.
+
+568
+00:42:38,790 --> 00:42:39,875
+Desculpe.
+
+569
+00:42:41,502 --> 00:42:45,214
+NÃ£o sabia que combinar vinho
+com comida tailandesa era importante.
+
+570
+00:42:45,922 --> 00:42:47,008
+O que vocÃª quer?
+
+571
+00:42:47,091 --> 00:42:50,886
+Analisei mais detalhadamente
+o investimento de construÃ§Ã£o da Roxxon.
+
+572
+00:42:50,970 --> 00:42:53,597
+Parece que hÃ¡ apenas
+pequenos projetos em Nova York
+
+573
+00:42:53,680 --> 00:42:55,849
+capazes de mover tanta terra.
+
+574
+00:42:55,932 --> 00:42:59,145
+Visitamos os locais e aposto
+que descobrimos o que estÃ£o escondendo.
+
+575
+00:43:00,062 --> 00:43:02,439
+Quais sÃ£o os lugares?
+
+576
+00:43:02,523 --> 00:43:06,110
+O Hotel Conservatory, o tÃºnel de Midtown
+
+577
+00:43:06,193 --> 00:43:08,612
+e um local grande de construÃ§Ã£o
+na 44Âª com 11Âª.
+
+578
+00:43:08,695 --> 00:43:10,697
+Na 44Âª com 11Âª.
+
+579
+00:43:10,781 --> 00:43:12,324
+-Conhece?
+-CÃ­rculo Midland.
+
+580
+00:43:12,992 --> 00:43:14,451
+Havia um prÃ©dio residencial lÃ¡
+
+581
+00:43:14,535 --> 00:43:18,039
+antes de Wilson Fisk abocanhÃ¡-lo
+em sua iniciativa Melhor AmanhÃ£.
+
+582
+00:43:18,122 --> 00:43:20,707
+-Como os japoneses conseguiram o local?
+-NÃ£o sei.
+
+583
+00:43:20,791 --> 00:43:24,170
+Mas antes de eu lutar com Nobu,
+achei plantas no CÃ­rculo Midland.
+
+584
+00:43:25,379 --> 00:43:28,965
+Sempre pensei que Nobu fosse apenas
+uma arma mandada por Fisk para me matar,
+
+585
+00:43:29,050 --> 00:43:31,177
+que Fisk tivesse interesse no prÃ©dio,
+
+586
+00:43:31,260 --> 00:43:33,345
+mas talvez ele nem o quisesse.
+
+587
+00:43:33,429 --> 00:43:36,015
+E se ele sÃ³ comprou o CÃ­rculo Midland
+para os japoneses?
+
+588
+00:43:36,098 --> 00:43:37,933
+Ã‰ um enigma curioso,
+
+589
+00:43:38,017 --> 00:43:39,768
+um que acho
+que deverÃ­amos resolver juntos.
+
+590
+00:43:39,851 --> 00:43:41,062
+Tenho o julgamento.
+
+591
+00:43:41,145 --> 00:43:43,772
+-Tenho de preparar o caso...
+-AmanhÃ£ Ã  noite, entÃ£o.
+
+592
+00:43:47,943 --> 00:43:49,570
+Vinho barato.
+
+593
+00:43:49,653 --> 00:43:52,156
+Termine seu dever de casa.
+Farei um reconhecimento.
+
+594
+00:43:55,701 --> 00:43:58,120
+E assim, Dr. Tepper,
+o instituto mÃ©dico-legal
+
+595
+00:43:58,204 --> 00:44:01,665
+pode confirmar que as 15 vÃ­timas
+encontradas no Clube Social IrlandÃªs
+
+596
+00:44:01,748 --> 00:44:03,334
+morreram de mÃºltiplos ferimentos a bala.
+
+597
+00:44:03,417 --> 00:44:05,461
+Sim, estÃ¡ correto.
+
+598
+00:44:05,544 --> 00:44:10,966
+Todas as 15 vÃ­timas morreram
+de tiros do mesmo calibre de projÃ©til,
+
+599
+00:44:11,050 --> 00:44:13,469
+cada uma baleada mÃºltiplas vezes.
+
+600
+00:44:16,263 --> 00:44:17,306
+Sua testemunha.
+
+601
+00:44:23,019 --> 00:44:25,814
+-Cruze os dedos.
+-Estou cruzando tudo.
+
+602
+00:44:37,076 --> 00:44:38,785
+Dr. Gregory Tepper,
+
+603
+00:44:38,869 --> 00:44:41,455
+hÃ¡ quanto tempo Ã© o legista
+da cidade de Nova York?
+
+604
+00:44:41,538 --> 00:44:43,915
+Uns 14 anos.
+
+605
+00:44:43,999 --> 00:44:46,960
+E quantas certidÃµes de Ã³bito acha
+que jÃ¡ assinou nesse tempo?
+
+606
+00:44:49,463 --> 00:44:52,758
+-Eu nÃ£o...
+-Provavelmente dezenas de milhares.
+
+607
+00:44:52,841 --> 00:44:54,968
+ObjeÃ§Ã£o, excelÃªncia,
+direcionando a testemunha...
+
+608
+00:44:55,051 --> 00:44:57,429
+-NÃ£o sei para onde.
+-Sr. Murdock...
+
+609
+00:44:57,513 --> 00:44:59,223
+Tenho algo a dizer.
+
+610
+00:44:59,973 --> 00:45:02,351
+-Doutor?
+-ExcelÃªncia, sinto muito, mas...
+
+611
+00:45:02,434 --> 00:45:04,186
+Tenho de dizer, para registrar...
+
+612
+00:45:05,354 --> 00:45:07,523
+Tenho de confessar algo que fiz.
+
+613
+00:45:09,816 --> 00:45:12,236
+-Esvaziem a galeria.
+-Sim, excelÃªncia.
+
+614
+00:45:12,319 --> 00:45:16,114
+Todos os membros do jÃºri,
+por favor, vÃ£o para a sala de deliberaÃ§Ã£o.
+
+615
+00:45:16,948 --> 00:45:18,242
+Todos da galeria,
+
+616
+00:45:18,325 --> 00:45:21,495
+por favor, retirem-se do tribunal.
+
+617
+00:45:26,750 --> 00:45:27,918
+Do que se trata?
+
+618
+00:45:29,002 --> 00:45:30,337
+Eu...
+
+619
+00:45:30,421 --> 00:45:34,633
+Eu sei o que a defesa vai me perguntar
+e Ã© verdade.
+
+620
+00:45:34,716 --> 00:45:36,468
+Eu alterei relatÃ³rios de autÃ³psia.
+
+621
+00:45:36,552 --> 00:45:38,345
+Refere-se ao relatÃ³rio oficial
+
+622
+00:45:38,429 --> 00:45:39,971
+dos assassinatos da famÃ­lia de Castle?
+
+623
+00:45:40,055 --> 00:45:41,973
+NÃ£o sÃ³ esses.
+
+624
+00:45:42,057 --> 00:45:44,142
+VocÃªs nÃ£o entendem. Eu tive de fazer.
+
+625
+00:45:44,226 --> 00:45:48,272
+-Aqueles animais vieram Ã  minha sala.
+-Quem foi Ã  sua sala?
+
+626
+00:45:48,855 --> 00:45:50,816
+Depois que a famÃ­lia do rÃ©u foi morta,
+
+627
+00:45:50,899 --> 00:45:52,818
+dois homens que nunca vi antes...
+
+628
+00:45:52,901 --> 00:45:55,987
+eles me avisaram
+que se eu nÃ£o alterasse os relatÃ³rios,
+
+629
+00:45:56,071 --> 00:45:58,490
+iriam atrÃ¡s da minha famÃ­lia a seguir.
+
+630
+00:45:58,574 --> 00:46:02,160
+Falsificou o relatÃ³rio de autÃ³psia
+da famÃ­lia do Castle?
+
+631
+00:46:02,828 --> 00:46:04,705
+Sim, e mais um.
+
+632
+00:46:04,788 --> 00:46:06,623
+-Quem?
+-NÃ£o sei.
+
+633
+00:46:06,707 --> 00:46:08,709
+Um desconhecido
+que foi morto no mesmo dia.
+
+634
+00:46:08,792 --> 00:46:11,086
+Um homem adulto morto com vÃ¡rios tiros.
+
+635
+00:46:11,169 --> 00:46:14,423
+Podem me demitir, me prender...
+Eu nÃ£o ligo.
+
+636
+00:46:14,506 --> 00:46:18,009
+Achei que isso estava no passado,
+mas depois de ontem Ã  noite...
+
+637
+00:46:18,093 --> 00:46:20,512
+Doutor, o que aconteceu ontem
+para alterar seu depoimento?
+
+638
+00:46:20,596 --> 00:46:22,931
+Ela estava na minha casa.
+
+639
+00:46:23,014 --> 00:46:24,266
+Ela me amarrou.
+
+640
+00:46:25,392 --> 00:46:28,854
+Disse que nÃ£o ligava
+quem estivesse atrÃ¡s de mim antes.
+
+641
+00:46:28,937 --> 00:46:31,565
+Se eu nÃ£o dissesse Ã  defesa
+o que tinha acontecido,
+
+642
+00:46:31,648 --> 00:46:33,234
+ela me perseguiria e me mataria.
+
+643
+00:46:33,317 --> 00:46:35,319
+-Quem lhe disse isso?
+-NÃ£o sei.
+
+644
+00:46:36,278 --> 00:46:37,279
+Uma mulher.
+
+645
+00:46:37,363 --> 00:46:40,324
+Seu rosto estava coberto.
+Tinha um sotaque estrangeiro.
+
+646
+00:46:40,407 --> 00:46:43,285
+ExcelÃªncia, acredito
+que a defesa pretende distrair o jÃºri
+
+647
+00:46:43,369 --> 00:46:46,872
+e transformar este caso em teorias
+de conspiraÃ§Ã£o impossÃ­veis de provar...
+
+648
+00:46:46,955 --> 00:46:47,956
+ImpossÃ­veis de provar?
+
+649
+00:46:48,039 --> 00:46:50,251
+Seu legista confirmou
+que adulterou registros.
+
+650
+00:46:50,334 --> 00:46:52,085
+TambÃ©m disse que foi ameaÃ§ado.
+
+651
+00:46:52,168 --> 00:46:55,171
+Se a promotoria descobrir
+que sua firma teve algo a ver...
+
+652
+00:46:55,256 --> 00:46:58,259
+Nossa firma?
+AtÃ© onde sabemos, vocÃª mandou os capangas.
+
+653
+00:46:58,342 --> 00:46:59,468
+JÃ¡ ouvi o bastante.
+
+654
+00:46:59,551 --> 00:47:03,305
+EstÃ¡ claro para mim que a informaÃ§Ã£o
+do Dr. Tepper sobre as autÃ³psias
+
+655
+00:47:03,389 --> 00:47:04,806
+pode estar corrompida
+
+656
+00:47:04,890 --> 00:47:08,018
+por ameaÃ§as feitas por pessoa
+ou pessoas desconhecidas.
+
+657
+00:47:08,101 --> 00:47:09,728
+A defesa pede um julgamento invÃ¡lido.
+
+658
+00:47:09,811 --> 00:47:12,939
+De jeito nenhum,
+nÃ£o estou convencida de que os documentos,
+
+659
+00:47:13,023 --> 00:47:15,609
+sejam quais forem,
+sejam relevantes para este julgamento.
+
+660
+00:47:15,692 --> 00:47:18,737
+Vou retirar o depoimento do mÃ©dico
+
+661
+00:47:18,820 --> 00:47:21,657
+e instruir os jurados a desconsiderarem
+o que ouviram.
+
+662
+00:47:21,740 --> 00:47:24,368
+-ExcelÃªncia, eu recomendo...
+-EstÃ¡ feito, advogado.
+
+663
+00:47:24,451 --> 00:47:27,538
+O julgamento continuarÃ¡ amanhÃ£
+com a prÃ³xima testemunha da acusaÃ§Ã£o.
+
+664
+00:47:29,456 --> 00:47:31,166
+Reyes ferrando conosco de novo.
+
+665
+00:47:31,249 --> 00:47:33,544
+VocÃª acha que seria mais fÃ¡cil,
+mas dÃ³i cada vez mais.
+
+666
+00:47:33,627 --> 00:47:36,338
+Foggy... nÃ£o foi Reyes.
+
+667
+00:47:37,339 --> 00:47:39,883
+-O quÃª?
+-A mulher que ameaÃ§ou Tepper.
+
+668
+00:47:41,510 --> 00:47:42,678
+Foi Elektra.
+
+669
+00:47:43,970 --> 00:47:45,972
+Da faculdade.
+
+670
+00:47:46,056 --> 00:47:48,224
+-Elektra?
+-Ela estÃ¡ de volta na cidade.
+
+671
+00:47:49,601 --> 00:47:51,186
+-Sua ex-namorada?
+-Sim.
+
+672
+00:47:51,269 --> 00:47:54,022
+NÃ£o. Isso Ã© loucura.
+
+673
+00:47:54,105 --> 00:47:57,359
+Ela Ã© filha de um diplomata...
+uma debutante.
+
+674
+00:47:57,443 --> 00:47:59,861
+NÃ£o mais. Ela estÃ¡...
+
+675
+00:48:01,279 --> 00:48:03,490
+Ela estÃ¡ diferente. Perigosa.
+
+676
+00:48:03,574 --> 00:48:06,034
+Ã‰, nÃ£o brinca.
+Ela quase conseguiu que fosse expulso.
+
+677
+00:48:06,117 --> 00:48:09,913
+Ela ferrou seu semestre com delitos,
+procedimentos civis...
+
+678
+00:48:09,996 --> 00:48:12,165
+Quase perdeu a prova final
+porque ela o machucou.
+
+679
+00:48:12,248 --> 00:48:13,291
+E agora, o quÃª?
+
+680
+00:48:13,375 --> 00:48:15,794
+-Ela... invadiu a casa do legista?
+-Certo.
+
+681
+00:48:15,877 --> 00:48:17,671
+A Yakuza nÃ£o foi embora, estÃ¡ bem?
+
+682
+00:48:17,754 --> 00:48:18,797
+Ainda estÃ£o em Hell's Kitchen.
+
+683
+00:48:18,880 --> 00:48:21,257
+Elektra estÃ¡ me ajudando a detÃª-los...
+
+684
+00:48:21,342 --> 00:48:22,718
+Do que vocÃª estÃ¡ falando?
+
+685
+00:48:22,801 --> 00:48:24,553
+Ela ia atacÃ¡-los sozinha, e...
+
+686
+00:48:24,636 --> 00:48:27,055
+-Sua ex-namorada?
+-Estou tentando proteger a cidade...
+
+687
+00:48:27,138 --> 00:48:31,184
+Eu sabia que ela era doida,
+nÃ£o sabia que era homicida.
+
+688
+00:48:31,267 --> 00:48:33,144
+Ela Ã©...
+
+689
+00:48:34,438 --> 00:48:35,897
+minha nova cliente.
+
+690
+00:48:37,232 --> 00:48:39,776
+Foggy, a cliente... rica.
+
+691
+00:48:39,860 --> 00:48:41,111
+A particular.
+
+692
+00:48:44,072 --> 00:48:45,949
+-Mentiu de novo.
+-Menti,
+
+693
+00:48:46,032 --> 00:48:47,784
+mas a Yakuza
+estÃ¡ investindo dinheiro em algo
+
+694
+00:48:47,868 --> 00:48:49,411
+mais sinistro do que antes.
+
+695
+00:48:49,495 --> 00:48:51,037
+Elektra me procurou, quero ajudÃ¡-la...
+
+696
+00:48:51,121 --> 00:48:53,707
+VocÃª quis pegar este julgamento!
+
+697
+00:48:53,790 --> 00:48:56,126
+Perdeu sessÃµes de estratÃ©gia...
+
+698
+00:48:56,209 --> 00:48:59,671
+preparaÃ§Ã£o de testemunha,
+abertura e dizimou criminalmente...
+
+699
+00:48:59,755 --> 00:49:00,756
+NÃ£o, nÃ£o fiz isso. Ela...
+
+700
+00:49:00,839 --> 00:49:03,133
+Nunca contei a ela sobre o julgamento.
+
+701
+00:49:03,216 --> 00:49:05,511
+A Ãºnica testemunha
+que nos ajudaria a fazer o que eu queria,
+
+702
+00:49:05,594 --> 00:49:06,595
+retirar Reyes!
+
+703
+00:49:06,678 --> 00:49:09,222
+Ela deve ter me ouvido falar com a Karen
+e agiu sozinha.
+
+704
+00:49:09,305 --> 00:49:10,849
+NÃ£o sancionei, eu nunca...
+
+705
+00:49:10,932 --> 00:49:13,351
+-NÃ£o me importa, Matt!
+-Estou furioso com ela!
+
+706
+00:49:13,435 --> 00:49:15,937
+Pare de agir
+como se tivesse acontecido com vocÃª Ã  toa!
+
+707
+00:49:16,021 --> 00:49:18,732
+NinguÃ©m o forÃ§a a sair Ã  noite
+e lutar com bandidos
+
+708
+00:49:18,815 --> 00:49:22,819
+e ninguÃ©m o forÃ§a a mentir aos seus amigos
+inÃºmeras vezes!
+
+709
+00:49:24,405 --> 00:49:26,740
+Elektra nÃ£o Ã© o problema, Matt.
+
+710
+00:49:29,493 --> 00:49:30,577
+VocÃª Ã©.
+
+711
+00:49:33,414 --> 00:49:34,498
+EstÃ¡ quase escuro.
+
+712
+00:49:34,581 --> 00:49:36,792
+-Sei que deve ter aonde...
+-NÃ£o vai embora.
+
+713
+00:49:36,875 --> 00:49:38,585
+-NÃ£o, quer saber?
+-NÃ£o me abandone, Foggy.
+
+714
+00:49:38,669 --> 00:49:42,338
+Se os Ãºltimos dias sÃ£o um indÃ­cio,
+vocÃª com certeza nÃ£o esteve presente!
+
+715
+00:49:45,300 --> 00:49:48,512
+No futuro,
+nÃ£o vou contar com vocÃª para nada.
+
+716
+00:49:52,933 --> 00:49:55,060
+Diga Ã  sua namorada para ficar longe
+do julgamento.
+
+717
+00:49:55,143 --> 00:49:56,937
+Elektra nÃ£o Ã© minha namorada.
+
+718
+00:49:57,020 --> 00:49:59,314
+EntÃ£o devia contar Ã  Karen sobre ela.
+
+719
+00:50:04,486 --> 00:50:07,448
+-Ouvi gritos.
+-Ã‰, devia conversar com o Matt.
+
+720
+00:50:07,531 --> 00:50:08,699
+Foggy!
+
+721
+00:50:11,242 --> 00:50:12,786
+-O que houve?
+-Estamos bem.
+
+722
+00:50:12,869 --> 00:50:14,955
+NÃ£o me trate como sua secretÃ¡ria.
+
+723
+00:50:15,038 --> 00:50:16,289
+Trabalhei mais nisto do que vocÃª!
+
+724
+00:50:16,372 --> 00:50:19,209
+-NÃ£o posso falar disso agora, Karen.
+-Chega de baboseira.
+
+725
+00:50:19,292 --> 00:50:20,836
+MereÃ§o saber o que estÃ¡ acontecendo.
+
+726
+00:50:20,919 --> 00:50:21,920
+Com vocÃª.
+
+727
+00:50:22,921 --> 00:50:25,381
+EstÃ¡ perguntando como colega?
+
+728
+00:50:25,466 --> 00:50:26,883
+Ou como minha namorada?
+
+729
+00:50:29,219 --> 00:50:30,596
+-Os dois.
+-Ã‰.
+
+730
+00:50:30,679 --> 00:50:32,263
+Sinto muito que ficou no meio disso,
+
+731
+00:50:32,347 --> 00:50:34,475
+mas agora, eu tenho de ir.
+
+732
+00:50:34,558 --> 00:50:36,810
+-Aonde?
+-Eu te vejo amanhÃ£, Karen.
+
+733
+00:50:39,855 --> 00:50:41,940
+Sim, talvez.
+
+734
+00:50:58,582 --> 00:51:02,043
+Que diabos vocÃª fez?
+Disse pra ficar fora da minha vida.
+
+735
+00:51:02,127 --> 00:51:04,170
+Nunca pedi que coagisse uma testemunha!
+
+736
+00:51:04,254 --> 00:51:06,422
+-Tinha um problema, eu ajudei.
+-NÃ£o ajudou.
+
+737
+00:51:06,507 --> 00:51:09,134
+Nem podemos usar o depoimento
+por sua causa. Foi eliminado.
+
+738
+00:51:09,217 --> 00:51:11,094
+Eu estava seguindo as suas regras.
+
+739
+00:51:12,137 --> 00:51:14,765
+-Que regras?
+-NÃ£o consegue o que quer de dia.
+
+740
+00:51:14,848 --> 00:51:17,768
+EntÃ£o o pega Ã  forÃ§a de noite.
+
+741
+00:51:17,851 --> 00:51:19,895
+Ã‰ quem vocÃª Ã©, Matthew.
+
+742
+00:51:21,229 --> 00:51:24,440
+NÃ£o se engane pensando que Ã© diferente.
+
+743
+00:51:24,525 --> 00:51:26,109
+O que eu faÃ§o...
+
+744
+00:51:26,192 --> 00:51:27,819
+nÃ£o Ã© da sua conta.
+
+745
+00:51:28,695 --> 00:51:31,990
+-Ambas as partes da minha vida sÃ£o minhas.
+-Ã“timo.
+
+746
+00:51:33,408 --> 00:51:35,994
+Ficarei longe da merda legal.
+
+747
+00:51:37,621 --> 00:51:39,790
+Quer brigar comigo?
+
+748
+00:51:39,873 --> 00:51:42,793
+Ou quer brigar com os caras
+que estÃ£o destruindo a cidade?
+
+749
+00:52:52,528 --> 00:52:55,573
+-NÃ£o quis ajudar?
+-VocÃª nÃ£o queria que eu ajudasse.
+
+750
+00:52:58,076 --> 00:52:59,077
+Pronto?
+
+751
+00:53:09,755 --> 00:53:10,922
+Ouviu algo?
+
+752
+00:53:12,799 --> 00:53:15,468
+Estamos sozinhos.
+
+753
+00:53:39,284 --> 00:53:42,537
+EstÃ¡ vazio. NÃ£o hÃ¡ nada aqui.
+
+754
+00:53:42,620 --> 00:53:46,249
+-A Yakuza estava protegendo algo.
+-Sim, mas...
+
+755
+00:53:55,717 --> 00:53:57,969
+-Elektra.
+-O quÃª?
+
+756
+00:54:00,764 --> 00:54:02,307
+NÃ£o vai acreditar nisso.
+
+757
+00:54:16,863 --> 00:54:17,948
+Caramba.
+
+758
+00:54:22,202 --> 00:54:24,996
+Por que a Yakuza estÃ¡ cavando um buraco?
+
+759
+00:54:27,498 --> 00:54:28,959
+Me dÃª a lanterna.
+
+760
+00:54:40,428 --> 00:54:43,765
+-Chegou ao fundo?
+-NÃ£o.
+
+761
+00:54:45,391 --> 00:54:47,102
+Me diga quando chegar.
+
