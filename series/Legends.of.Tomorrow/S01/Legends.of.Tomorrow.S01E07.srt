@@ -1,0 +1,3436 @@
+﻿1
+00:00:01,325 --> 00:00:05,129
+<i>Em 2166, um tirano imortal
+chamado Vandal Savage</i>
+
+2
+00:00:05,130 --> 00:00:07,750
+<i>conquistou o mundo
+e matou minha esposa e filho.</i>
+
+3
+00:00:07,751 --> 00:00:10,530
+<i>Montei um time de elite
+para caçá-lo através do tempo</i>
+
+4
+00:00:10,531 --> 00:00:12,174
+<i>e impedi-lo
+de chegar ao poder.</i>
+
+5
+00:00:12,175 --> 00:00:14,059
+<i>Infelizmente,
+meu plano não tem apoio</i>
+
+6
+00:00:14,060 --> 00:00:17,677
+<i>do conselho que eu fazia parte,
+os Mestres do Tempo.</i>
+
+7
+00:00:17,678 --> 00:00:20,047
+<i>No futuro, talvez meus amigos
+não sejam heróis,</i>
+
+8
+00:00:20,048 --> 00:00:25,048
+<i>mas se conseguirmos,
+serão lembrados como lendas.</i>
+
+9
+00:00:26,931 --> 00:00:28,884
+<i>Anteriormente,
+em Legends of Tomorrow...</i>
+
+10
+00:00:28,885 --> 00:00:31,411
+Os Mestres do Tempo
+desaconselham casamentos,
+
+11
+00:00:31,412 --> 00:00:36,204
+<i>mas eu me apaixonei
+e nós tivemos um filho, Jonas.</i>
+
+12
+00:00:36,853 --> 00:00:39,453
+- Podemos beber algo?
+- Está me convidando para sair?
+
+13
+00:00:39,454 --> 00:00:41,004
+Estou.
+Tudo bem?
+
+14
+00:00:41,005 --> 00:00:42,672
+Minha vida
+é complicada o bastante
+
+15
+00:00:42,673 --> 00:00:45,525
+sem jogar o quer que isso seja
+no ventilador.
+
+16
+00:00:45,526 --> 00:00:48,829
+- Essa é Star City.
+- Sim, Star City em 2046.
+
+17
+00:00:48,830 --> 00:00:50,430
+É tudo
+o que sempre quisemos.
+
+18
+00:00:50,431 --> 00:00:52,331
+Poderíamos viver
+como reis aqui.
+
+19
+00:00:54,819 --> 00:00:56,470
+Seu filho da mãe.
+
+20
+00:00:56,471 --> 00:00:59,972
+Se pôr a mão em mim de novo,
+eu queimo você também.
+
+21
+00:01:01,609 --> 00:01:04,496
+<i>Vá em frente, Jonas.
+Ele está ouvindo.</i>
+
+22
+00:01:05,279 --> 00:01:07,280
+<i>Oi, papai.
+Sentimos a sua falta.</i>
+
+23
+00:01:07,281 --> 00:01:11,101
+<i>- E amamos você.
+- E amamos você.</i>
+
+24
+00:01:11,102 --> 00:01:12,728
+<i>Algo mais que quer dizer?</i>
+
+25
+00:01:13,354 --> 00:01:15,192
+<i>Volte para casa logo, papai.</i>
+
+26
+00:01:19,122 --> 00:01:20,660
+<i>Oi, Rip.</i>
+
+27
+00:01:20,661 --> 00:01:22,929
+<i>Não sei se recebeu
+nossa última mensagem.</i>
+
+28
+00:01:22,930 --> 00:01:25,407
+<i>Eu disse ao Jonas
+que ficou preso no trabalho,</i>
+
+29
+00:01:25,408 --> 00:01:27,580
+<i>mas achei que já estaria
+em casa agora.</i>
+
+30
+00:01:29,153 --> 00:01:30,687
+<i>Londres é...</i>
+
+31
+00:01:32,089 --> 00:01:33,591
+<i>As coisas mudaram.</i>
+
+32
+00:01:34,375 --> 00:01:36,356
+<i>É difícil explicar
+o que ocorre</i>
+
+33
+00:01:36,357 --> 00:01:39,878
+<i>com tantos soldados
+e rumores.</i>
+
+34
+00:01:40,934 --> 00:01:42,750
+<i>Só quero saber
+se você está bem.</i>
+
+35
+00:01:43,568 --> 00:01:44,927
+<i>Onde quer que esteja,</i>
+
+36
+00:01:45,886 --> 00:01:47,479
+<i>na época que estiver,</i>
+
+37
+00:01:49,407 --> 00:01:50,896
+<i>eu te amo, Rip.</i>
+
+38
+00:01:52,893 --> 00:01:56,546
+<i>Vá em frente, Jonas.
+Ele está ouvindo.</i>
+
+39
+00:01:56,547 --> 00:01:58,748
+<i>Oi, papai.
+Sentimos a sua falta.</i>
+
+40
+00:01:58,749 --> 00:02:01,222
+<i>- E amamos você.
+- E amamos você.</i>
+
+41
+00:02:01,223 --> 00:02:02,702
+Sinto interromper, capitão.
+
+42
+00:02:02,703 --> 00:02:05,839
+Não, tudo bem.
+Só me atualizando na missão.
+
+43
+00:02:05,840 --> 00:02:07,140
+O que é isso tudo?
+
+44
+00:02:07,141 --> 00:02:08,575
+Tentando conectar os pontos,
+
+45
+00:02:08,576 --> 00:02:11,431
+achar a melhor época
+para atacar o Savage.
+
+46
+00:02:11,929 --> 00:02:13,246
+E?
+
+47
+00:02:13,247 --> 00:02:14,831
+E as pistas esfriaram.
+
+48
+00:02:14,832 --> 00:02:16,900
+Para preservar
+o elemento surpresa,
+
+49
+00:02:16,901 --> 00:02:20,103
+apostei que a melhor ação
+é voltar mais no tempo,
+
+50
+00:02:20,104 --> 00:02:23,057
+mas nada aqui indica
+onde encontrá-lo.
+
+51
+00:02:23,058 --> 00:02:24,708
+Talvez eu possa ajudar
+a procurar.
+
+52
+00:02:24,709 --> 00:02:26,009
+Eu estive procurando.
+
+53
+00:02:27,777 --> 00:02:29,077
+Peço desculpas.
+
+54
+00:02:29,647 --> 00:02:31,748
+O que está em jogo
+é muito grande.
+
+55
+00:02:31,749 --> 00:02:33,749
+Dei a palavra
+que salvaria minha família,
+
+56
+00:02:33,750 --> 00:02:35,271
+mas estou falhando com eles.
+
+57
+00:02:37,221 --> 00:02:39,671
+Talvez eu não seja
+o Mestre do Tempo que precisem.
+
+58
+00:02:40,191 --> 00:02:41,630
+Precisa ser.
+
+59
+00:02:42,788 --> 00:02:44,413
+Você é o único que eles têm.
+
+60
+00:02:45,896 --> 00:02:47,272
+Gideon não pode nos ajudar?
+
+61
+00:02:47,273 --> 00:02:48,823
+Não.
+Quando o Cavaleiro do Tempo
+
+62
+00:02:48,824 --> 00:02:50,989
+retorna ao ponto de fuga
+após uma missão,
+
+63
+00:02:50,990 --> 00:02:53,119
+o CPU é atualizado
+com os dados temporais,
+
+64
+00:02:53,120 --> 00:02:56,535
+o qual,
+dada a minha desobediência,
+
+65
+00:02:56,536 --> 00:02:58,275
+estamos impossibilitados
+de fazer.
+
+66
+00:02:58,276 --> 00:03:02,187
+O que está dizendo é que Gideon
+precisa de uma atualização.
+
+67
+00:03:02,863 --> 00:03:05,131
+Isso explica o motivo
+de você se esconder aqui
+
+68
+00:03:05,132 --> 00:03:06,433
+pela última semana.
+
+69
+00:03:06,434 --> 00:03:08,824
+- Já passou uma semana?
+- Já.
+
+70
+00:03:10,288 --> 00:03:13,718
+E alguns estão começando
+a ficar apreensivos.
+
+71
+00:03:16,660 --> 00:03:18,088
+Já chega.
+
+72
+00:03:18,089 --> 00:03:19,719
+Não liguem para ele.
+
+73
+00:03:19,720 --> 00:03:22,632
+Ele ainda está ferido
+por termos partido de 2046.
+
+74
+00:03:22,633 --> 00:03:24,718
+Estou assim
+porque fui recrutado
+
+75
+00:03:24,719 --> 00:03:27,472
+pela minha única habilidade
+de pôr fogo nas coisas.
+
+76
+00:03:27,473 --> 00:03:30,308
+E, agora,
+estou trancado em um lugar
+
+77
+00:03:30,309 --> 00:03:33,777
+onde não posso incendiar nada:
+uma nave.
+
+78
+00:03:33,778 --> 00:03:35,446
+Onde acha que está indo?
+
+79
+00:03:36,684 --> 00:03:37,984
+Por quê?
+
+80
+00:03:38,335 --> 00:03:40,985
+Vai me acertar na cabeça
+se eu não ouvir você de novo?
+
+81
+00:03:45,230 --> 00:03:47,757
+Tudo bem com vocês dois?
+
+82
+00:03:47,758 --> 00:03:50,389
+Está, uma maravilha.
+
+83
+00:03:50,390 --> 00:03:51,853
+<i>Capitão,
+acabei de interceptar</i>
+
+84
+00:03:51,854 --> 00:03:53,561
+<i>uma transmissão
+do espaço profundo.</i>
+
+85
+00:03:53,562 --> 00:03:55,204
+<i>É um sinal de socorro
+da Acheron.</i>
+
+86
+00:03:55,205 --> 00:03:56,960
+<i>- Ela comanda...</i>
+- A Frota do Tempo.
+
+87
+00:03:56,961 --> 00:03:58,508
+Eu sei disso.
+Obrigado, Gideon.
+
+88
+00:03:59,070 --> 00:04:00,637
+<i>Defeito sistêmico.</i>
+
+89
+00:04:00,638 --> 00:04:02,539
+<i>Estou presa,
+impossibilitada de viajar.</i>
+
+90
+00:04:02,540 --> 00:04:04,224
+<i>Controles não respondem.</i>
+
+91
+00:04:04,225 --> 00:04:07,360
+<i>Aqui é a capitã Eve Baxter
+da nave Acheron</i>
+
+92
+00:04:07,361 --> 00:04:09,478
+<i>requisitando
+resgate imediato.</i>
+
+93
+00:04:12,466 --> 00:04:14,417
+E nos preocupamos
+com essa moça por quê?
+
+94
+00:04:14,418 --> 00:04:16,519
+Não nos preocupamos,
+mas o CPU da Acheron
+
+95
+00:04:16,520 --> 00:04:19,439
+conterá as atuais informações
+sobre o paradeiro do Savage.
+
+96
+00:04:19,440 --> 00:04:20,740
+Gideon, defina o curso
+
+97
+00:04:20,741 --> 00:04:23,076
+para a posição da Acheron
+no espaço profundo.
+
+98
+00:04:23,077 --> 00:04:24,739
+- <i>Sim, capitão.</i>
+- Espaço profundo?
+
+99
+00:04:24,740 --> 00:04:26,513
+Não sabia
+que tínhamos a habilidade
+
+100
+00:04:26,514 --> 00:04:29,435
+para explorar
+o reino desconhecido da galáxia.
+
+101
+00:04:29,436 --> 00:04:30,736
+- Surpreendente.
+- Não.
+
+102
+00:04:30,737 --> 00:04:33,203
+O que surpreende é agirmos
+como assistentes
+
+103
+00:04:33,204 --> 00:04:34,504
+aos que nos perseguem.
+
+104
+00:04:34,505 --> 00:04:36,171
+Não parece suspeito
+
+105
+00:04:36,172 --> 00:04:39,256
+esse socorro ter
+alcançado por acaso?
+
+106
+00:04:39,257 --> 00:04:41,590
+- Como saber se não é armadilha?
+- Não sabemos.
+
+107
+00:04:41,591 --> 00:04:43,880
+Mas sabemos que as pistas
+do Savage esfriaram.
+
+108
+00:04:43,881 --> 00:04:46,775
+Até a Gideon carregar os dados
+do computador da Acheron...
+
+109
+00:04:46,776 --> 00:04:48,076
+Estou dentro.
+
+110
+00:04:48,703 --> 00:04:50,003
+Está?
+
+111
+00:04:50,004 --> 00:04:52,621
+O quão cedo acabarmos
+com Savage, mais cedo retorno
+
+112
+00:04:52,622 --> 00:04:54,160
+- para onde pertenço.
+- Prisão?
+
+113
+00:04:54,161 --> 00:04:57,410
+Qualquer prisão na Terra
+é melhor que essa, professor.
+
+114
+00:04:57,411 --> 00:04:59,517
+- Gideon.
+- <i>Sim, senhor.</i>
+
+115
+00:05:00,331 --> 00:05:01,919
+Motores a todo vapor.
+
+116
+00:05:01,920 --> 00:05:03,220
+<i>Certamente, capitão.</i>
+
+117
+00:05:09,758 --> 00:05:11,758
+1ª Temporada | Episódio 07
+-= Marooned =-
+
+118
+00:05:11,759 --> 00:05:13,259
+Legenda:
+Patyy | John93²
+
+119
+00:05:13,260 --> 00:05:14,760
+Legenda:
+Hugo³ | SongMade
+
+120
+00:05:14,761 --> 00:05:16,761
+Revisão:
+Hugo
+
+121
+00:05:16,762 --> 00:05:19,762
+[Equipe InSUBs]
+Qualidade é InSUBstituível!
+
+122
+00:05:27,711 --> 00:05:29,117
+Professor Stein,
+sr. Jackson,
+
+123
+00:05:29,118 --> 00:05:30,969
+poderiam se juntar
+ao time de resgate?
+
+124
+00:05:30,970 --> 00:05:33,573
+A chance de uma manobra
+de atracar um veículo extra?
+
+125
+00:05:33,574 --> 00:05:36,516
+- O que pode ser mais excitante?
+- Posso pensar em algumas.
+
+126
+00:05:36,517 --> 00:05:38,044
+Vamos começar com isso.
+
+127
+00:05:39,704 --> 00:05:41,439
+Você acha que exista algo
+
+128
+00:05:41,440 --> 00:05:43,290
+que vale a pena roubar
+naquela nave?
+
+129
+00:05:43,291 --> 00:05:45,659
+Só procuro
+uma mudança de cenário.
+
+130
+00:05:45,660 --> 00:05:47,620
+Se isso está bom para você,
+chefe.
+
+131
+00:05:48,562 --> 00:05:49,996
+Dr. Palmer.
+
+132
+00:05:49,997 --> 00:05:52,666
+Deixo a nave em suas mãos
+enquanto estivermos fora.
+
+133
+00:05:52,667 --> 00:05:54,746
+E o deixo em suas.
+
+134
+00:06:06,297 --> 00:06:08,417
+Que sensação estranha.
+
+135
+00:06:08,418 --> 00:06:10,212
+Parece que tenho 10 anos
+de novo.
+
+136
+00:06:10,213 --> 00:06:12,357
+Viajou muito pelo espaço
+quando criança?
+
+137
+00:06:12,358 --> 00:06:14,001
+Apenas nos meus sonhos,
+
+138
+00:06:14,002 --> 00:06:17,804
+após ler minha primeira revista
+"Rick Starr: Guarda Espacial".
+
+139
+00:06:17,805 --> 00:06:20,618
+Guarda Espacial Stein?
+Não vejo isso.
+
+140
+00:06:20,619 --> 00:06:22,554
+Eu queria viajar
+pelo espaço,
+
+141
+00:06:23,092 --> 00:06:26,619
+sobrevivendo só com meu cérebro
+e armas de laser.
+
+142
+00:06:26,620 --> 00:06:29,375
+Até construí um foguete
+com caixas de papelão.
+
+143
+00:06:29,923 --> 00:06:31,423
+O que te parou?
+
+144
+00:06:31,424 --> 00:06:34,239
+A NASA tem regras restritas
+sobre miopia.
+
+145
+00:06:34,240 --> 00:06:35,840
+E sobre fumar um baseado.
+
+146
+00:06:35,841 --> 00:06:38,491
+Gideon, conseguiu conexão
+com o computador de Acheron?
+
+147
+00:06:38,492 --> 00:06:40,342
+<i>Parece que um código
+de autodestruição</i>
+
+148
+00:06:40,343 --> 00:06:42,893
+<i>desabilitou o sistema
+de navegação temporal da nave.</i>
+
+149
+00:06:42,894 --> 00:06:45,860
+- E o que isso significa?
+- Pode ser um defeito.
+
+150
+00:06:46,877 --> 00:06:50,551
+Para garantir, Martin, preciso
+que fique no Bote do Tempo.
+
+151
+00:06:50,552 --> 00:06:53,465
+Se algo der errado,
+o cabeça de ovo está no comando?
+
+152
+00:06:53,466 --> 00:06:55,116
+Prepare
+o mecanismo de emergência.
+
+153
+00:06:55,117 --> 00:06:58,216
+O Patrulheiro Espacial
+tem trabalho a fazer.
+
+154
+00:06:58,217 --> 00:07:01,511
+<i>Rip?
+Preciso de informações.</i>
+
+155
+00:07:01,930 --> 00:07:03,448
+O que acha disso?
+
+156
+00:07:03,449 --> 00:07:04,875
+Entraram na nave!
+
+157
+00:07:07,942 --> 00:07:09,920
+- Fomos invadidos.
+- Excelente.
+
+158
+00:07:09,921 --> 00:07:12,271
+Talvez não esteja
+levando isso a sério, Miranda.
+
+159
+00:07:12,272 --> 00:07:13,572
+- Gary?
+<i>- Sim, capitã.</i>
+
+160
+00:07:13,573 --> 00:07:15,320
+Por favor,
+abra a comporta lateral.
+
+161
+00:07:15,321 --> 00:07:18,185
+Adoro uma missão suicida
+assim como qualquer um.
+
+162
+00:07:18,186 --> 00:07:20,498
+- Você ouviu, Gary.
+<i>- Sim, senhora.</i>
+
+163
+00:07:21,649 --> 00:07:24,572
+- Qual é o plano?
+- Rip, segure alguma coisa.
+
+164
+00:07:24,573 --> 00:07:26,316
+Estou segurando uma arma!
+
+165
+00:07:26,317 --> 00:07:28,348
+Outra coisa.
+Faça logo, por favor!
+
+166
+00:07:30,024 --> 00:07:31,324
+Agora, Gary.
+
+167
+00:07:34,621 --> 00:07:36,021
+<i>Escotilha gama-delta aberta.</i>
+
+168
+00:07:36,022 --> 00:07:38,842
+<i>Descompressão explosiva
+evacuou os piratas do tempo.</i>
+
+169
+00:07:38,843 --> 00:07:42,284
+Feche a escotilha
+e ligue o piloto temporal.
+
+170
+00:07:45,187 --> 00:07:46,930
+SIMULAÇÃO COMPLETA
+
+171
+00:07:52,999 --> 00:07:54,601
+Muito bem, tenente Coburn.
+
+172
+00:07:54,602 --> 00:07:57,289
+Muito bem?
+Ela quase nos matou.
+
+173
+00:07:57,290 --> 00:07:59,041
+Ou o equivalente
+em uma simulação.
+
+174
+00:07:59,042 --> 00:08:01,292
+Ela demonstrou pensamento
+fora do padrão,
+
+175
+00:08:01,293 --> 00:08:03,157
+tendo menos homens
+em batalha.
+
+176
+00:08:03,158 --> 00:08:05,990
+Você poderia aprender com ela,
+tenente Hunter.
+
+177
+00:08:13,870 --> 00:08:15,441
+Declan estava certo.
+
+178
+00:08:15,843 --> 00:08:17,243
+Ensine-me mais coisas.
+
+179
+00:08:23,602 --> 00:08:25,181
+Senhor, eu posso explicar.
+
+180
+00:08:25,182 --> 00:08:26,899
+Nem tente, tenente.
+
+181
+00:08:26,900 --> 00:08:29,043
+Guarde
+para sua avaliação disciplinar.
+
+182
+00:08:36,321 --> 00:08:37,771
+Podemos resolver isso.
+
+183
+00:08:37,772 --> 00:08:39,855
+- Vamos superar isso juntos.
+- Mas é isso.
+
+184
+00:08:40,277 --> 00:08:41,841
+Não podemos ficar juntos.
+
+185
+00:08:41,842 --> 00:08:44,804
+Sabíamos desde o começo.
+Relacionamentos são proibidos.
+
+186
+00:08:44,805 --> 00:08:46,805
+Deve haver um jeito
+de consertar isso.
+
+187
+00:08:46,806 --> 00:08:48,106
+Sinto muito.
+
+188
+00:08:50,014 --> 00:08:51,564
+Preciso de um tempo
+para pensar.
+
+189
+00:09:09,033 --> 00:09:11,662
+Fiquem por perto e alertas.
+
+190
+00:09:15,685 --> 00:09:18,207
+Citando Star Wars:
+
+191
+00:09:18,208 --> 00:09:20,241
+"Tenho
+um mau pressentimento."
+
+192
+00:09:42,044 --> 00:09:43,374
+Valeu o esforço.
+
+193
+00:09:44,932 --> 00:09:46,232
+Solte-o.
+
+194
+00:09:49,437 --> 00:09:50,737
+Ou o quê?
+
+195
+00:09:52,523 --> 00:09:54,174
+Faça como ele pede.
+
+196
+00:09:58,012 --> 00:09:59,546
+Quem são esses caras?
+
+197
+00:09:59,547 --> 00:10:01,589
+Estes, sr. Jackson,
+
+198
+00:10:02,465 --> 00:10:04,440
+são piratas do tempo.
+
+199
+00:10:20,256 --> 00:10:21,649
+Capitão John Valor.
+
+200
+00:10:21,650 --> 00:10:23,846
+O que aconteceu
+com a capitã Baxter?
+
+201
+00:10:24,231 --> 00:10:25,981
+Ela estava voltando
+ao ponto de fuga
+
+202
+00:10:25,982 --> 00:10:28,193
+para nos prender
+quando fugimos.
+
+203
+00:10:28,194 --> 00:10:30,020
+Mas antes de controlarmos
+Acheron...
+
+204
+00:10:30,021 --> 00:10:32,671
+Ela destruiu o piloto temporal
+como manda o protocolo.
+
+205
+00:10:32,672 --> 00:10:36,249
+Esse protocolo diz que outro
+Mestre do Tempo virá salvá-la.
+
+206
+00:10:36,250 --> 00:10:38,250
+Pareço um Mestre do Tempo
+para você?
+
+207
+00:10:38,251 --> 00:10:40,927
+Você parece o tipo
+que jogaria a vó pelo espaço.
+
+208
+00:10:40,928 --> 00:10:44,801
+Também não sou Mestre do Tempo,
+então nos deixe em paz.
+
+209
+00:10:47,208 --> 00:10:48,808
+Corrija-me
+se eu estiver errado.
+
+210
+00:10:49,191 --> 00:10:50,541
+Você é o tal do Rip Hunter.
+
+211
+00:10:51,950 --> 00:10:53,318
+Achei que fosse mais alto.
+
+212
+00:10:53,319 --> 00:10:55,491
+- Você não disse que era famoso.
+- Infame.
+
+213
+00:10:55,492 --> 00:10:56,942
+Um tempo atrás,
+homens como eu
+
+214
+00:10:56,943 --> 00:10:58,893
+fugiam de medo dele
+pela linha do tempo.
+
+215
+00:10:58,894 --> 00:11:00,544
+Se não nos deixar voltar
+à nave,
+
+216
+00:11:00,545 --> 00:11:03,680
+um homem chamado Vandal Savage
+destruirá o mundo inteiro.
+
+217
+00:11:03,681 --> 00:11:06,843
+Mestres do Tempo e piratas.
+
+218
+00:11:06,844 --> 00:11:10,150
+Pela primeira vez,
+estamos do mesmo lado.
+
+219
+00:11:10,151 --> 00:11:13,034
+Essa frase deveria vir
+com a própria pá.
+
+220
+00:11:13,486 --> 00:11:15,786
+- Preparem a festa de invasão.
+- Sim, senhor.
+
+221
+00:11:15,787 --> 00:11:18,877
+Se eu fosse você,
+reconsideraria esse plano.
+
+222
+00:11:18,878 --> 00:11:20,178
+Sério?
+
+223
+00:11:20,179 --> 00:11:22,999
+Dei instruções para tripulação
+atirar em qualquer um,
+
+224
+00:11:23,000 --> 00:11:24,468
+junto com a nave
+que o trouxe.
+
+225
+00:11:24,469 --> 00:11:27,440
+Com o grande Rip Hunter a bordo,
+eu duvido.
+
+226
+00:11:27,441 --> 00:11:29,159
+Você não conhece
+minha tripulação.
+
+227
+00:11:29,605 --> 00:11:31,986
+São determinados
+e experientes em batalha.
+
+228
+00:11:32,386 --> 00:11:36,649
+Os guerreiros mais assustadores
+do tempo e espaço.
+
+229
+00:11:36,650 --> 00:11:40,070
+Diário de bordo do capitão.
+Data estelar 837,9.
+
+230
+00:11:40,071 --> 00:11:43,022
+Estamos aguardando notícias
+do time na nave Acheron.
+
+231
+00:11:43,023 --> 00:11:45,730
+Odeio estragar a brincadeira,
+mas não é o capitão Kirk.
+
+232
+00:11:46,809 --> 00:11:48,109
+Você é o Picard.
+
+233
+00:11:48,515 --> 00:11:51,957
+Mas Picard era comedido,
+categórico, meio que assexuado.
+
+234
+00:11:51,958 --> 00:11:53,608
+Diga isso à Vash.
+
+235
+00:11:53,609 --> 00:11:56,962
+E o Picard era bem mais gato
+que o Kirk.
+
+236
+00:11:59,952 --> 00:12:01,374
+Mick entendeu errado.
+
+237
+00:12:01,375 --> 00:12:04,076
+A nave não é uma prisão,
+é uma câmara de tortura.
+
+238
+00:12:04,077 --> 00:12:06,820
+Não acho que o problema
+do Mick seja com a nave.
+
+239
+00:12:06,821 --> 00:12:08,976
+- Você acha que é comigo?
+- Você o derrubou,
+
+240
+00:12:08,977 --> 00:12:11,629
+e o forçou a deixar
+a Star City de 2046.
+
+241
+00:12:11,630 --> 00:12:14,501
+O que é a Disneylândia
+para os criminosos.
+
+242
+00:12:14,502 --> 00:12:15,802
+Ele superará isso.
+
+243
+00:12:15,803 --> 00:12:17,860
+O Mick é esquentado,
+sempre foi.
+
+244
+00:12:17,861 --> 00:12:21,082
+Quando ele se acalmar,
+tudo voltará ao normal.
+
+245
+00:12:21,083 --> 00:12:24,390
+Aposto que essa história
+só é convincente em sua cabeça.
+
+246
+00:12:26,027 --> 00:12:28,549
+<i>Quero falar com o capitão
+interino Raymond Palmer.</i>
+
+247
+00:12:29,028 --> 00:12:31,097
+Capitão interino?
+Gostei de como isso soa.
+
+248
+00:12:32,149 --> 00:12:34,089
+Sou o capitão Palmer.
+Quem é você?
+
+249
+00:12:34,090 --> 00:12:36,621
+Sou quem está mantendo
+sua tripulação como refém.
+
+250
+00:12:36,622 --> 00:12:38,796
+<i>Capitão Palmer,
+avisei ao sr. Valor</i>
+
+251
+00:12:38,797 --> 00:12:41,420
+que fogo de retaliação
+cairá sobre ele,
+
+252
+00:12:41,421 --> 00:12:44,157
+se não formos liberados
+agora mesmo.
+
+253
+00:12:47,905 --> 00:12:50,522
+Vamos fazer isso
+de um jeito bem simples.
+
+254
+00:12:50,523 --> 00:12:52,951
+Você entrega sua nave,
+e te deixarei ileso
+
+255
+00:12:52,952 --> 00:12:55,407
+em um lugar e tempo
+do qual escolherem.
+
+256
+00:12:55,408 --> 00:12:57,176
+Vocês têm dez segundos
+para decidir.
+
+257
+00:12:57,177 --> 00:12:58,491
+Se não, o que acontece?
+
+258
+00:12:58,492 --> 00:13:01,440
+<i>Se quer o Cavaleiro do Tempo
+não vai atirar em nós.</i>
+
+259
+00:13:01,441 --> 00:13:04,744
+Agora, estou com minha arma
+na cabeça do seu capitão.
+
+260
+00:13:04,745 --> 00:13:07,836
+Espere, está bem,
+dê-me uma chance de negociar.
+
+261
+00:13:07,837 --> 00:13:10,988
+<i>- 10, 9...</i>
+- Talvez esteja blefando.
+
+262
+00:13:10,989 --> 00:13:12,547
+<i>- 8...</i>
+- Parece que não.
+
+263
+00:13:12,548 --> 00:13:15,861
+- 7...
+- Você não conhece o Palmer,
+
+264
+00:13:15,862 --> 00:13:19,257
+e como ele sobreviveu
+ao Ataque Imperial.
+
+265
+00:13:21,356 --> 00:13:22,656
+Gideon?
+
+266
+00:13:22,657 --> 00:13:25,728
+<i>O capitão Hunter me programou
+para executar certos protocolos</i>
+
+267
+00:13:25,729 --> 00:13:28,858
+<i>- em resposta a certas palavras.</i>
+- O que é isso em português?
+
+268
+00:13:28,859 --> 00:13:30,982
+<i>Coloquem o cinto,
+estamos nos movendo,</i>
+
+269
+00:13:30,983 --> 00:13:32,559
+<i>e nos preparando
+para atirar.</i>
+
+270
+00:13:40,853 --> 00:13:44,042
+Santo Deus! Estamos sob ataque!
+Gideon, quem está nos alvejando?
+
+271
+00:13:44,043 --> 00:13:46,195
+<i>- Ordens do capitão.</i>
+- Palmer, seu idiota.
+
+272
+00:13:46,196 --> 00:13:47,967
+<i>Não, é o Hunter,
+atacando os piratas</i>
+
+273
+00:13:47,968 --> 00:13:49,859
+<i>que sequestrou
+o resto da tripulação.</i>
+
+274
+00:13:49,860 --> 00:13:52,098
+- Piratas?
+- O que está fazendo, Gideon?
+
+275
+00:13:52,099 --> 00:13:53,968
+<i>Tiros de aviso
+para saberem...</i>
+
+276
+00:13:53,969 --> 00:13:55,951
+Meu parceiro
+está naquela nave.
+
+277
+00:13:57,248 --> 00:13:58,548
+Doutor Palmer?
+
+278
+00:13:59,361 --> 00:14:00,964
+Capitão Hunter?
+Tem alguém aí?
+
+279
+00:14:03,113 --> 00:14:04,600
+Agora é com você, Martin.
+
+280
+00:14:07,294 --> 00:14:08,917
+- Gilbert!
+<i>- Sim, senhor.</i>
+
+281
+00:14:08,918 --> 00:14:11,956
+Trace uma rota de perseguição
+e prepare para atirar de volta.
+
+282
+00:14:18,226 --> 00:14:21,417
+Se destruir Cavaleiro do Tempo,
+nenhum de nós voltará para casa.
+
+283
+00:14:21,418 --> 00:14:25,324
+Não se preocupe, estou mirando
+no sistema de suporte a vida.
+
+284
+00:14:30,806 --> 00:14:35,775
+Se eu fosse o sistema
+de armas da Acheron,
+
+285
+00:14:36,997 --> 00:14:39,769
+onde eu ficaria?
+
+286
+00:14:44,978 --> 00:14:47,460
+<i>Há um buraco no casco
+na popa da nave,</i>
+
+287
+00:14:47,461 --> 00:14:49,887
+<i>e os piratas derrubaram
+o controle de telemetria.</i>
+
+288
+00:14:49,888 --> 00:14:51,650
+Gideon, mude para manual.
+
+289
+00:14:51,651 --> 00:14:52,956
+O que está fazendo?
+
+290
+00:14:54,165 --> 00:14:57,425
+Se for parecido com um jogo,
+voando uma nave espacial.
+
+291
+00:14:58,414 --> 00:15:00,064
+Onde vocês estão indo?
+
+292
+00:15:00,065 --> 00:15:01,850
+Lidar com o buraco na nave.
+
+293
+00:15:01,851 --> 00:15:04,797
+Garanta que o Picard aqui
+não mate todos nós.
+
+294
+00:15:04,798 --> 00:15:07,171
+Na verdade, sou mais como o Sulu
+nesse momento.
+
+295
+00:15:07,172 --> 00:15:08,513
+Ou o Han Solo!
+
+296
+00:15:18,651 --> 00:15:20,999
+Mirem nos propulsores deles
+e atirem.
+
+297
+00:15:24,760 --> 00:15:26,209
+Eu disse atire!
+
+298
+00:15:26,210 --> 00:15:29,127
+Senhor, o sistema de armas
+foi desativado.
+
+299
+00:15:29,128 --> 00:15:31,785
+- Manualmente.
+- Quem mais está na minha nave?
+
+300
+00:15:31,786 --> 00:15:33,986
+Um bom capitão esconde
+as melhores armas dele
+
+301
+00:15:33,987 --> 00:15:35,287
+dos inimigos, sr. Valor.
+
+302
+00:15:35,288 --> 00:15:38,002
+Achem o sabotador!
+Tragam-no a mim, morto ou vivo.
+
+303
+00:15:38,003 --> 00:15:41,227
+Acho que teremos que seguir
+seus amigos até acabar o ar lá.
+
+304
+00:15:41,228 --> 00:15:43,951
+Não deve demorar, dado o tamanho
+do buraco no casco.
+
+305
+00:15:47,143 --> 00:15:48,443
+É aqui.
+
+306
+00:15:51,895 --> 00:15:53,980
+Saúdem a tripulação
+do Cavaleiro do Tempo.
+
+307
+00:15:53,981 --> 00:15:56,487
+Rip, diga a sua tripulação
+para nos deixar atracar,
+
+308
+00:15:56,488 --> 00:15:58,122
+e eu os salvarei.
+
+309
+00:15:58,123 --> 00:16:00,937
+Mas de qualquer modo,
+levaremos o Cavaleiro do Tempo.
+
+310
+00:16:02,428 --> 00:16:03,760
+Aceite o acordo, Rip.
+
+311
+00:16:03,761 --> 00:16:06,234
+Um capitão jamais
+entrega a nave dele.
+
+312
+00:16:06,782 --> 00:16:08,881
+Além disso, nunca pegará
+o capitão Palmer.
+
+313
+00:16:08,882 --> 00:16:11,281
+Uma vez, ele fugiu
+do Kanjar Ro sozinho.
+
+314
+00:16:11,282 --> 00:16:12,770
+Quem é Kanjar Ro?
+
+315
+00:16:12,771 --> 00:16:14,716
+<i>Ativando o protocolo agora,
+Capitão.</i>
+
+316
+00:16:14,717 --> 00:16:16,974
+- Maravilha.
+<i>- Não falava com você.</i>
+
+317
+00:16:23,036 --> 00:16:24,582
+O que houve com eles?
+
+318
+00:16:24,583 --> 00:16:29,298
+Seguíamos uma projeção,
+o que os permitiu fugir.
+
+319
+00:16:29,299 --> 00:16:32,190
+Dando comandos secretos
+a sua nave. Esperto, capitão.
+
+320
+00:16:32,191 --> 00:16:33,740
+Jogue-os na cadeia!
+
+321
+00:16:34,493 --> 00:16:36,892
+Encontraremos os corpos
+dos seus amigos.
+
+322
+00:16:36,893 --> 00:16:38,363
+Algum dia.
+
+323
+00:16:38,364 --> 00:16:40,614
+Quanto tempo consegue
+deixar isso funcionando?
+
+324
+00:16:40,615 --> 00:16:43,797
+Não muito,
+a carga irá acabar.
+
+325
+00:16:45,495 --> 00:16:48,733
+<i>Estejam avisados, o buraco
+foi fechado apenas parcialmente.</i>
+
+326
+00:16:50,679 --> 00:16:53,228
+Agora sabemos que as portas
+de segurança funcionam.
+
+327
+00:16:53,667 --> 00:16:55,633
+É uma pena estarmos
+do lado errado dela.
+
+328
+00:17:08,953 --> 00:17:11,327
+- Obrigada por aparecer.
+- Vamos tirar você daí.
+
+329
+00:17:11,328 --> 00:17:13,744
+- Aguentem firme.
+- E tem outro jeito?
+
+330
+00:17:13,745 --> 00:17:16,283
+Não quero apressar, Raymond,
+mas está frio aqui.
+
+331
+00:17:16,284 --> 00:17:17,963
+Normalmente não reclamaria,
+mas...
+
+332
+00:17:17,964 --> 00:17:19,480
+Não pode abrir a porta,
+Gideon?
+
+333
+00:17:19,481 --> 00:17:22,307
+<i>Foi feita para ficar fechada
+até consertarem o buraco.</i>
+
+334
+00:17:22,308 --> 00:17:24,142
+Isso não ocorrerá daqui.
+
+335
+00:17:24,143 --> 00:17:26,511
+- Quanto tempo temos até...
+- Estarmos mortos?
+
+336
+00:17:34,761 --> 00:17:38,816
+Capitão Baxter, sou Rip Hunter,
+estou aqui para te resgatar.
+
+337
+00:17:38,817 --> 00:17:41,791
+Acho que não, você foi com tudo
+para uma armadilha.
+
+338
+00:17:41,792 --> 00:17:46,378
+Admito que encontramos
+alguns obstáculos inesperados.
+
+339
+00:17:46,379 --> 00:17:47,679
+Certo.
+
+340
+00:17:47,680 --> 00:17:49,625
+Mas vamos te tirar daqui
+em um segundo.
+
+341
+00:17:49,626 --> 00:17:52,471
+Sr. Jackson, será que pode
+desligar esse campo de força?
+
+342
+00:17:52,472 --> 00:17:54,024
+Acha que não tentei isso?
+
+343
+00:17:55,189 --> 00:17:58,758
+Mas de todo jeito, se acha
+que esse garoto terá mais sorte.
+
+344
+00:17:58,759 --> 00:18:00,944
+- Está me chamando de garoto?
+- Sinto muito.
+
+345
+00:18:00,945 --> 00:18:03,431
+- Quis dizer criminoso.
+- Na verdade, esse sou eu.
+
+346
+00:18:03,432 --> 00:18:05,259
+Todos vocês,
+se sairmos daqui,
+
+347
+00:18:05,260 --> 00:18:07,756
+a 1ª coisa que farei
+é te levar ao ponto de fuga
+
+348
+00:18:07,757 --> 00:18:10,411
+para esperar julgamento
+diante do Conselho do Tempo.
+
+349
+00:18:10,412 --> 00:18:14,417
+O grande Rip Hunter,
+mas olhe para você agora.
+
+350
+00:18:14,418 --> 00:18:15,750
+Sim, olhe para mim.
+
+351
+00:18:15,751 --> 00:18:18,957
+Ajudando você a escapar
+dos piratas em sua própria nave.
+
+352
+00:18:18,958 --> 00:18:21,530
+Não quero ajuda de alguém
+que quebrou o juramento,
+
+353
+00:18:21,531 --> 00:18:24,263
+roubou uma nave do tempo,
+e quis mudar a história
+
+354
+00:18:24,264 --> 00:18:26,311
+por motivos egoístas.
+
+355
+00:18:28,005 --> 00:18:29,711
+Não faz sentido para mim.
+
+356
+00:18:30,441 --> 00:18:32,656
+Não,
+eu não esperava que fizesse.
+
+357
+00:18:34,796 --> 00:18:36,096
+Rip Hunter.
+
+358
+00:18:37,309 --> 00:18:38,915
+Miranda Coburn.
+
+359
+00:18:40,334 --> 00:18:42,806
+Esses não são seus nomes reais,
+não é mesmo?
+
+360
+00:18:42,807 --> 00:18:44,236
+Não, senhor.
+
+361
+00:18:44,237 --> 00:18:45,572
+E por que isso?
+
+362
+00:18:47,224 --> 00:18:49,842
+Porque se nosso inimigos
+souberem nossos nomes reais,
+
+363
+00:18:49,843 --> 00:18:53,359
+nossos ancestrais e descendentes
+pelo tempo poderão ser alvos.
+
+364
+00:18:53,360 --> 00:18:55,903
+Assim como qualquer um
+que você ame.
+
+365
+00:18:55,904 --> 00:18:57,215
+É por isso...
+
+366
+00:18:57,216 --> 00:18:58,775
+Afeições pessoais
+são proibidas
+
+367
+00:18:58,776 --> 00:19:00,486
+pelo Conselho
+de Mestres do Tempo.
+
+368
+00:19:00,487 --> 00:19:04,090
+E castigará com a imediata
+dispensa dos serviços.
+
+369
+00:19:04,091 --> 00:19:07,189
+Algum de vocês nega que estão
+conduzindo uma relação ilícita
+
+370
+00:19:07,190 --> 00:19:09,637
+violando as regras
+do Conselho do Tempo?
+
+371
+00:19:12,128 --> 00:19:17,127
+Nesse caso, peço que adiemos
+essa audição disciplinar em 1h,
+
+372
+00:19:17,128 --> 00:19:21,608
+para dar a vocês a oportunidade
+de considerar suas respostas.
+
+373
+00:19:21,609 --> 00:19:24,758
+Apesar de que eu duvido
+que qualquer motivo que deem,
+
+374
+00:19:25,961 --> 00:19:28,254
+fará o tribunal
+não dispensar vocês
+
+375
+00:19:28,255 --> 00:19:29,759
+de serem
+Mestres do Tempo.
+
+376
+00:19:38,526 --> 00:19:41,703
+Suponho que isso pareça
+como um dia na praia para você?
+
+377
+00:19:42,372 --> 00:19:45,868
+Se pudesse escolher como morrer,
+congelar não seria o pior.
+
+378
+00:19:47,428 --> 00:19:50,451
+Como é quando você morre?
+
+379
+00:19:51,271 --> 00:19:54,230
+Imagino que você tenha
+uma perspectiva única.
+
+380
+00:19:54,231 --> 00:19:55,636
+Sabe, é engraçado.
+
+381
+00:19:56,930 --> 00:20:00,038
+Digo, você espera
+que seja aterrorizante,
+
+382
+00:20:00,039 --> 00:20:02,959
+apenas pânico e medo.
+
+383
+00:20:04,241 --> 00:20:05,541
+O que você sentiu?
+
+384
+00:20:08,452 --> 00:20:09,752
+Acho que solidão.
+
+385
+00:20:11,705 --> 00:20:13,005
+É isso.
+
+386
+00:20:13,970 --> 00:20:16,795
+Como se todos que amo
+estivessem a anos-luz de mim.
+
+387
+00:20:19,824 --> 00:20:22,966
+Digo, não gosto de você,
+mas ao menos não morrerei só.
+
+388
+00:20:25,544 --> 00:20:28,100
+O mais perto que fiquei
+de morrer foi
+
+389
+00:20:29,643 --> 00:20:31,599
+o dia que conheci o Mick.
+
+390
+00:20:31,945 --> 00:20:35,317
+- Por que isso não é surpresa?
+- Não foi desse jeito.
+
+391
+00:20:35,318 --> 00:20:37,161
+Era meu primeiro dia
+no reformatório.
+
+392
+00:20:37,162 --> 00:20:40,873
+Eu tinha 14 anos,
+e, de longe, o menor do local.
+
+393
+00:20:40,874 --> 00:20:44,033
+Algumas das crianças mais velhas
+quis que tivesse certeza disso.
+
+394
+00:20:45,296 --> 00:20:46,968
+Então, eles me bateram.
+
+395
+00:20:48,128 --> 00:20:51,328
+Tentei responder,
+mas um deles tinha uma faca
+
+396
+00:20:52,374 --> 00:20:54,324
+e achei que morreria ali.
+
+397
+00:20:55,189 --> 00:20:57,065
+Até o Mick aparecer.
+
+398
+00:20:57,971 --> 00:21:00,362
+E eles não mexeram mais comigo
+depois disso.
+
+399
+00:21:02,532 --> 00:21:05,864
+Ele me defende desde então.
+
+400
+00:21:07,825 --> 00:21:10,840
+Vamos esperar que ele esteja
+protegendo Rip e Jax agora.
+
+401
+00:21:10,841 --> 00:21:13,529
+Quem mais irá derrubar
+aqueles piratas?
+
+402
+00:21:19,751 --> 00:21:21,051
+Você aí!
+
+403
+00:21:34,006 --> 00:21:36,907
+Isso te ensinará a não mexer
+com um físico nuclear.
+
+404
+00:21:38,990 --> 00:21:40,420
+Está pronto?
+
+405
+00:21:40,421 --> 00:21:42,434
+Não projetei a armadura
+para o espaço,
+
+406
+00:21:42,435 --> 00:21:44,400
+não sei como responder
+essa pergunta.
+
+407
+00:21:44,401 --> 00:21:46,271
+Enquanto estiver lá,
+você é a capitã.
+
+408
+00:21:46,272 --> 00:21:50,123
+Obrigada. Mas acho que sabemos
+que eu sempre estive no comando.
+
+409
+00:21:51,383 --> 00:21:52,683
+Boa sorte.
+
+410
+00:21:53,283 --> 00:21:55,234
+Gideon, abra a escotilha.
+
+411
+00:22:07,488 --> 00:22:10,676
+Sinto muito, capitão.
+Não consigo arrombar a porta.
+
+412
+00:22:10,677 --> 00:22:13,937
+Não se preocupe, garoto,
+não é sua culpa, é dele.
+
+413
+00:22:13,938 --> 00:22:17,179
+Caso tenha esquecido, sr. Rory
+está aqui por vontade própria.
+
+414
+00:22:17,180 --> 00:22:19,874
+Vim aqui para sair de perto
+do meu parceiro
+
+415
+00:22:19,875 --> 00:22:21,717
+que não está agindo
+como tal
+
+416
+00:22:21,718 --> 00:22:25,069
+desde que encheu a cabeça dele
+quanto a salvar o mundo.
+
+417
+00:22:25,070 --> 00:22:28,481
+Seu parceiro pensa sozinho,
+sr. Rory, ao contrário de você.
+
+418
+00:22:28,482 --> 00:22:30,111
+Diz que sou burro, capitão?
+
+419
+00:22:30,112 --> 00:22:33,432
+Vamos imaginar, por um instante,
+que você é o capitão,
+
+420
+00:22:33,433 --> 00:22:37,828
+preso, enquanto o resto
+da sua equipe sofre na sua nave.
+
+421
+00:22:37,829 --> 00:22:40,375
+O que você faria para sair
+dessa situação?
+
+422
+00:22:41,392 --> 00:22:43,660
+Nenhuma ideia brilhante?
+Sério?
+
+423
+00:22:43,661 --> 00:22:46,796
+- Por que não estou surpreso?
+- Cale sua boca, agora!
+
+424
+00:22:46,797 --> 00:22:48,847
+Está bem,
+vamos respirar fundo.
+
+425
+00:22:48,848 --> 00:22:51,480
+Ou o quê?
+Vai me socar, ou me queimar,
+
+426
+00:22:51,481 --> 00:22:53,500
+ou cometerá
+outra violência bárbara?
+
+427
+00:22:53,501 --> 00:22:55,798
+Foi por isso que me recrutou,
+não foi?
+
+428
+00:22:55,799 --> 00:22:57,334
+Para bater, machucar
+e queimar?
+
+429
+00:22:57,335 --> 00:23:00,379
+Recrutei, pois seu parceiro
+e você eram um pacote fechado.
+
+430
+00:23:01,168 --> 00:23:02,630
+- O quê?
+- Desculpe, sr. Rory.
+
+431
+00:23:02,631 --> 00:23:05,589
+Mas um incendiário não era parte
+do plano para deter Savage,
+
+432
+00:23:05,590 --> 00:23:07,796
+muito menos
+um com o QI baixo.
+
+433
+00:23:09,249 --> 00:23:10,991
+Não quis ser tão ofensivo.
+
+434
+00:23:11,939 --> 00:23:13,839
+Se puder ficar quieto um pouco,
+
+435
+00:23:13,840 --> 00:23:17,279
+talvez eu possa achar um jeito
+de nos tirar dessa nave pirata.
+
+436
+00:23:19,982 --> 00:23:21,767
+Acho que ganharei
+de você nessa.
+
+437
+00:23:23,751 --> 00:23:26,419
+- Alguém pode me ouvir?
+- O que acha que está fazendo?
+
+438
+00:23:26,420 --> 00:23:28,719
+Os piratas eu teremos
+uma conversinha.
+
+439
+00:23:28,720 --> 00:23:30,918
+- Não faça isso, Rory.
+- Tarde demais.
+
+440
+00:23:31,758 --> 00:23:35,138
+- O que você quer?
+- Falar com o capitão Valor.
+
+441
+00:23:35,139 --> 00:23:37,882
+- Sobre o quê?
+- Sobre uma nave do tempo.
+
+442
+00:23:38,398 --> 00:23:41,421
+- Estou te avisando.
+- Cale a boca.
+
+443
+00:23:41,926 --> 00:23:46,902
+Eu posso ter QI baixo,
+mas eu sei fazer um acordo.
+
+444
+00:24:14,140 --> 00:24:15,445
+Estou ouvindo.
+
+445
+00:24:15,446 --> 00:24:17,991
+Você quer o Cavaleiro do Tempo.
+Quero ir para casa.
+
+446
+00:24:17,992 --> 00:24:19,759
+Onde é a casa
+de um homem como você?
+
+447
+00:24:19,760 --> 00:24:22,393
+2016, Central City.
+
+448
+00:24:22,394 --> 00:24:25,431
+De todas as épocas,
+você quer ir para essa?
+
+449
+00:24:25,432 --> 00:24:26,866
+Isso mesmo.
+
+450
+00:24:26,867 --> 00:24:29,602
+O exato momento que Hunter
+recrutou meu parceiro e eu
+
+451
+00:24:29,603 --> 00:24:33,019
+para essa missão suicida dele,
+
+452
+00:24:33,020 --> 00:24:34,335
+mas, dessa vez,
+
+453
+00:24:35,042 --> 00:24:36,741
+vou dizer a ele
+onde enfiar isso.
+
+454
+00:24:36,742 --> 00:24:38,324
+Deixe eu ver
+se entendi direito.
+
+455
+00:24:38,325 --> 00:24:39,785
+Deixo você ir,
+
+456
+00:24:40,620 --> 00:24:42,576
+e você me entrega
+o Cavaleiro do Tempo.
+
+457
+00:24:42,577 --> 00:24:43,877
+Isso.
+
+458
+00:24:44,752 --> 00:24:46,339
+Temos um acordo?
+
+459
+00:24:47,354 --> 00:24:50,112
+Acha que seus amigos
+acreditarão que conseguiu fugir?
+
+460
+00:24:52,849 --> 00:24:56,281
+Não se eu fizer isso.
+
+461
+00:24:59,934 --> 00:25:01,457
+<i>Como está indo aí fora?</i>
+
+462
+00:25:01,867 --> 00:25:03,178
+<i>Bem.</i>
+
+463
+00:25:03,179 --> 00:25:05,171
+<i>O qual quero dizer:
+aterrorizante.</i>
+
+464
+00:25:05,172 --> 00:25:07,040
+<i>Terei a abertura selada
+em 2 minutos.</i>
+
+465
+00:25:07,041 --> 00:25:08,941
+Certo.
+Como está seu nível de oxigênio?
+
+466
+00:25:09,476 --> 00:25:13,312
+<i>Acho que o termo técnico
+seja "nojento".</i>
+
+467
+00:25:13,313 --> 00:25:16,192
+Só mais dois minutos.
+Você consegue.
+
+468
+00:25:18,519 --> 00:25:22,217
+Nada como morrer para fazê-lo
+pensar sobre todos os erros
+
+469
+00:25:22,218 --> 00:25:23,990
+todas as escolhas erradas.
+
+470
+00:25:23,991 --> 00:25:26,242
+Esse é o Leonard Snart
+falando com Deus
+
+471
+00:25:26,243 --> 00:25:27,594
+em seus momentos finais?
+
+472
+00:25:27,595 --> 00:25:28,895
+Dificilmente.
+
+473
+00:25:30,164 --> 00:25:33,259
+Só desejando poder
+desfazer algumas coisas.
+
+474
+00:25:34,168 --> 00:25:37,136
+Devia ter deixado o Mick
+na Star City do futuro.
+
+475
+00:25:37,137 --> 00:25:38,437
+Por que não deixou?
+
+476
+00:25:39,807 --> 00:25:42,080
+Sem mim por perto
+para mantê-lo sob controle,
+
+477
+00:25:43,477 --> 00:25:46,078
+Mick pode ser
+um cara assustador.
+
+478
+00:25:47,088 --> 00:25:48,514
+Concordo.
+
+479
+00:25:48,515 --> 00:25:52,044
+Odeio ter que dizer,
+mas mesmo que saiamos vivos
+
+480
+00:25:52,786 --> 00:25:55,488
+você ainda terá
+um problema em suas mãos.
+
+481
+00:25:55,489 --> 00:25:57,380
+E eu já vi o bastante
+para saber
+
+482
+00:25:57,381 --> 00:25:59,037
+que Mick está
+em um lugar sombrio.
+
+483
+00:25:59,493 --> 00:26:01,086
+Ele não vai retornar.
+
+484
+00:26:07,334 --> 00:26:09,649
+Cara, não acredito
+que Rory nos entregou.
+
+485
+00:26:10,037 --> 00:26:12,067
+Não, na verdade acredito.
+
+486
+00:26:12,433 --> 00:26:13,733
+Mas mesmo assim, cara.
+
+487
+00:26:15,142 --> 00:26:16,910
+Qual escolha ele teve?
+
+488
+00:26:16,911 --> 00:26:19,095
+A tripulação
+que ficou no Cavaleiro do Tempo
+
+489
+00:26:19,096 --> 00:26:20,396
+deve estar morta agora,
+
+490
+00:26:20,397 --> 00:26:22,749
+e só Deus sabe
+o que houve com o prof. Stein.
+
+491
+00:26:22,750 --> 00:26:26,387
+Não é à toa que o sr. Rory
+escolheu salvar a própria pele.
+
+492
+00:26:26,804 --> 00:26:28,325
+E o que posso fazer
+sobre isso?
+
+493
+00:26:28,326 --> 00:26:29,948
+Estou preso
+na nave de um pirata
+
+494
+00:26:29,949 --> 00:26:32,549
+e perdi minha nave e a lealdade
+da minha tripulação.
+
+495
+00:26:32,952 --> 00:26:34,859
+Você é um dos que fala
+sobre lealdade.
+
+496
+00:26:34,860 --> 00:26:38,166
+Sim, capitã Baxter,
+e não porque fiz um juramento
+
+497
+00:26:38,167 --> 00:26:39,917
+para servir
+como um Mestre do Tempo,
+
+498
+00:26:40,734 --> 00:26:44,385
+mas há muito tempo,
+jurei algo mais importante.
+
+499
+00:26:48,275 --> 00:26:51,440
+Quando me chama de fracassado,
+capitã Baxter, você está certa.
+
+500
+00:26:52,679 --> 00:26:55,755
+Pois falhei
+com minha esposa e meu filho.
+
+501
+00:26:57,851 --> 00:27:02,112
+Por trair o Conselho do Tempo,
+eu não tenho nenhum remorso.
+
+502
+00:27:04,792 --> 00:27:06,867
+Mas falhar em salvar
+a minha família...
+
+503
+00:27:12,215 --> 00:27:15,079
+É algo
+que eu jamais vou me perdoar.
+
+504
+00:27:22,142 --> 00:27:23,575
+Mestre do Tempo Declan,
+eu...
+
+505
+00:27:24,682 --> 00:27:26,763
+Achei que o tribunal
+foi reconvocado.
+
+506
+00:27:28,246 --> 00:27:29,664
+Foi cancelado.
+
+507
+00:27:30,384 --> 00:27:34,220
+Tenente Coburn assumiu
+a responsabilidade pelo caso.
+
+508
+00:27:34,221 --> 00:27:37,435
+E os demais Mestres foram
+convencidos do argumento dela.
+
+509
+00:27:37,858 --> 00:27:39,294
+Eles retiraram as acusações?
+
+510
+00:27:39,295 --> 00:27:41,860
+Assim que a tenente Coburn
+renunciou.
+
+511
+00:27:43,134 --> 00:27:44,520
+Por que ela faria isso?
+
+512
+00:27:44,521 --> 00:27:46,691
+Parece
+que ela acredita em você.
+
+513
+00:27:46,692 --> 00:27:49,769
+Agora precisa provar a si mesmo
+e para todos nós
+
+514
+00:27:49,770 --> 00:27:52,737
+que você é, de fato,
+o homem que ela acredita ser.
+
+515
+00:28:04,785 --> 00:28:06,953
+Achei que já éramos.
+
+516
+00:28:06,954 --> 00:28:08,854
+Anime-se, querido capitão.
+
+517
+00:28:08,855 --> 00:28:10,513
+Essa batalha
+está longe do fim.
+
+518
+00:28:10,514 --> 00:28:15,133
+Quem se juntaria a mim
+nessa grande escapada?
+
+519
+00:28:15,134 --> 00:28:18,283
+- Patrulheiro espacial.
+- De fato.
+
+520
+00:28:29,610 --> 00:28:31,685
+<i>Ray, não cochile.</i>
+
+521
+00:28:31,686 --> 00:28:33,000
+Não estava cochilando.
+
+522
+00:28:34,149 --> 00:28:36,499
+Estava só descansando
+meus olhos por um segundo.
+
+523
+00:28:36,500 --> 00:28:38,044
+<i>Tem que ficar comigo, Ray.</i>
+
+524
+00:28:38,045 --> 00:28:40,553
+Concentre-se em minha voz,
+continue falando.
+
+525
+00:28:40,554 --> 00:28:42,861
+- <i>Sobre o quê?</i>
+- Qualquer coisa.
+
+526
+00:28:43,634 --> 00:28:45,133
+Tipo...
+
+527
+00:28:45,134 --> 00:28:47,211
+Qual foi o nome
+do seu primeiro bicho?
+
+528
+00:28:48,108 --> 00:28:50,196
+- Slinky.
+- Era um gato?
+
+529
+00:28:50,197 --> 00:28:51,509
+Píton birmanesa.
+
+530
+00:28:51,999 --> 00:28:54,734
+Sou alérgico
+a gatos e cachorros.
+
+531
+00:28:54,735 --> 00:28:56,636
+<i>Qualquer coisa
+que não tenha escamas.</i>
+
+532
+00:28:56,637 --> 00:28:59,305
+Certo,
+já chega de bichos.
+
+533
+00:28:59,306 --> 00:29:02,041
+Qual a sua cor favorita?
+
+534
+00:29:02,042 --> 00:29:03,509
+<i>Não tenho.</i>
+
+535
+00:29:03,510 --> 00:29:05,348
+Quem não tem
+uma cor favorita?
+
+536
+00:29:05,349 --> 00:29:06,822
+É como ter
+um Beatle favorito.
+
+537
+00:29:06,823 --> 00:29:09,438
+Não, todo mundo tem
+um Beatle favorito.
+
+538
+00:29:09,816 --> 00:29:12,585
+Eu não. Não seria justo
+com os outros três.
+
+539
+00:29:12,586 --> 00:29:16,339
+Tudo bem, chega de bichos,
+cores e Beatles.
+
+540
+00:29:16,340 --> 00:29:18,791
+Que bom que nunca fomos
+para aquele drinque.
+
+541
+00:29:18,792 --> 00:29:21,832
+Esse encontro espacial
+está horrível.
+
+542
+00:29:25,616 --> 00:29:26,916
+Ray?
+
+543
+00:29:30,867 --> 00:29:32,397
+Ainda está comigo, Ray?
+
+544
+00:29:33,206 --> 00:29:35,550
+<i>Ray? Está aí?
+Ray?</i>
+
+545
+00:29:35,551 --> 00:29:36,851
+Eu sinto muito.
+
+546
+00:29:37,844 --> 00:29:40,362
+É tudo que tenho de sobra.
+
+547
+00:29:45,719 --> 00:29:47,393
+Ray, está aí?
+
+548
+00:29:47,394 --> 00:29:49,405
+<i>Parece que o sr. Palmer
+fechou o buraco,</i>
+
+549
+00:29:49,406 --> 00:29:51,274
+<i>permitindo o sr. Snart
+e a srta. Lance</i>
+
+550
+00:29:51,275 --> 00:29:54,376
+<i>- escapar da sala de máquinas.</i>
+- Assim que ele estiver a bordo,
+
+551
+00:29:54,377 --> 00:29:56,477
+preciso que feche
+o compartimento de cargas
+
+552
+00:29:56,478 --> 00:29:57,778
+e sele a câmara, Gideon.
+
+553
+00:30:01,761 --> 00:30:03,061
+Ray.
+
+554
+00:30:08,775 --> 00:30:11,110
+Ray!
+Fique comigo.
+
+555
+00:30:11,111 --> 00:30:13,379
+<i>O sr. Palmer está
+com parada cardíaca.</i>
+
+556
+00:30:13,380 --> 00:30:16,465
+Não posso perder você também.
+Ray, preciso de você! Por favor!
+
+557
+00:30:16,466 --> 00:30:19,656
+<i>A chance de sobrevivência dele
+é menos de 3.720 para 1.</i>
+
+558
+00:30:19,657 --> 00:30:20,957
+Ray!
+
+559
+00:30:24,324 --> 00:30:26,908
+Ray, vamos.
+Você é forte.
+
+560
+00:30:26,909 --> 00:30:28,739
+Por favor, Ray.
+Volte para mim.
+
+561
+00:30:29,322 --> 00:30:30,622
+Ray!
+
+562
+00:30:32,650 --> 00:30:33,950
+Ray!
+
+563
+00:30:37,337 --> 00:30:39,805
+Por favor, poderia parar
+de bater no meu peito?
+
+564
+00:30:39,806 --> 00:30:41,530
+Por que fazem parecer
+como algo bom
+
+565
+00:30:41,531 --> 00:30:42,831
+para se fazer nos filmes?
+
+566
+00:30:42,832 --> 00:30:44,459
+Achei que estava morto.
+
+567
+00:30:45,946 --> 00:30:47,839
+Acho que eu estava,
+por um segundo.
+
+568
+00:30:49,123 --> 00:30:50,423
+Obrigado.
+
+569
+00:30:51,346 --> 00:30:53,046
+As crianças precisam
+de um momento?
+
+570
+00:30:55,455 --> 00:30:56,755
+Está bem?
+
+571
+00:30:56,756 --> 00:30:58,563
+<i>O sr. Palmer quase morreu.</i>
+
+572
+00:30:58,564 --> 00:31:00,028
+Bem-vindo ao clube.
+
+573
+00:31:00,029 --> 00:31:02,762
+Gideon,
+o que ocorre na Acheron?
+
+574
+00:31:02,763 --> 00:31:04,082
+<i>Engraçado perguntar.</i>
+
+575
+00:31:04,083 --> 00:31:06,002
+<i>Acabei de receber
+um aviso do sr. Rory.</i>
+
+576
+00:31:06,003 --> 00:31:07,853
+<i>Parece que ele fugiu
+e está retornando</i>
+
+577
+00:31:07,854 --> 00:31:09,159
+<i>para o Cavaleiro do Tempo.</i>
+
+578
+00:31:09,160 --> 00:31:10,476
+Eu disse.
+
+579
+00:31:10,477 --> 00:31:14,173
+Aqueles piratas escolheram
+o cara errado para mexer.
+
+580
+00:31:14,174 --> 00:31:16,776
+Desde quando o Rory
+sabe pilotar o Bote do Tempo?
+
+581
+00:31:16,777 --> 00:31:18,344
+Como ele nos achou?
+
+582
+00:31:18,345 --> 00:31:20,029
+<i>Na verdade, eu pilotei.</i>
+
+583
+00:31:20,030 --> 00:31:22,813
+<i>Ele recebeu uma surra e tanto
+nas mãos dos piratas.</i>
+
+584
+00:31:23,858 --> 00:31:25,158
+<i>É ele.</i>
+
+585
+00:31:40,205 --> 00:31:41,505
+Você está bem, Mick?
+
+586
+00:31:45,136 --> 00:31:46,436
+Pessoal!
+
+587
+00:31:47,288 --> 00:31:49,219
+A nave é toda sua!
+
+588
+00:31:55,868 --> 00:31:57,441
+Seu filho da mãe.
+
+589
+00:32:09,005 --> 00:32:10,725
+O que está fazendo, Mick?
+
+590
+00:32:10,726 --> 00:32:13,394
+Estou nos levando para casa.
+Está comigo?
+
+591
+00:32:19,566 --> 00:32:20,866
+Claro.
+
+592
+00:32:22,752 --> 00:32:25,435
+Hora de escolher um lado,
+eu acho.
+
+593
+00:32:28,875 --> 00:32:30,175
+Escolhido.
+
+594
+00:32:31,327 --> 00:32:33,295
+- Bastardo!
+- Vão!
+
+595
+00:32:33,296 --> 00:32:34,997
+- Pegue-os!
+- Vão!
+
+596
+00:32:34,998 --> 00:32:36,500
+Vou pegar
+a unidade do tempo.
+
+597
+00:32:40,605 --> 00:32:43,055
+O Bote do Tempo da Acheron
+ainda está operacional?
+
+598
+00:32:43,056 --> 00:32:45,605
+- Está.
+- Vá buscá-lo e saia da Acheron.
+
+599
+00:32:46,013 --> 00:32:48,263
+Tenho uns negócios inacabados
+com o sr. Valor.
+
+600
+00:32:48,264 --> 00:32:51,364
+- Não vou abandonar minha nave.
+- Não vamos deixá-lo para trás.
+
+601
+00:32:52,115 --> 00:32:53,949
+E qual é o plano, capitã?
+
+602
+00:32:53,950 --> 00:32:57,160
+Valor e os homens dele estão
+em maior número do que nós.
+
+603
+00:32:57,161 --> 00:32:59,961
+Não somos capazes de derrotá-los
+por meios convencionais.
+
+604
+00:33:09,934 --> 00:33:12,151
+<i>O sr. Rory está a caminho
+da sala de máquinas</i>
+
+605
+00:33:12,152 --> 00:33:13,735
+<i>para acessar
+a unidade do tempo.</i>
+
+606
+00:33:13,736 --> 00:33:15,036
+Eu cuido disso.
+
+607
+00:33:39,378 --> 00:33:40,843
+O que está acontecendo?
+
+608
+00:33:42,209 --> 00:33:43,509
+Você está perdendo.
+
+609
+00:33:46,035 --> 00:33:48,053
+- Gilbert?
+- <i>Os piratas do tempo estão</i>
+
+610
+00:33:48,054 --> 00:33:50,196
+<i>dez segundos atrás de você,
+e se aproximam.</i>
+
+611
+00:33:50,197 --> 00:33:53,175
+Isso não nos dá muito tempo.
+O plano do Rip funcionará?
+
+612
+00:33:53,176 --> 00:33:54,521
+É o que eu pensei.
+
+613
+00:33:55,044 --> 00:33:56,881
+Afaste-se, Mick.
+
+614
+00:33:58,852 --> 00:34:00,248
+Vou dizer algo, loira.
+
+615
+00:34:00,249 --> 00:34:02,225
+Vá embora
+e eu não mato você.
+
+616
+00:34:02,607 --> 00:34:04,217
+Sabe
+que não posso fazer isso.
+
+617
+00:34:04,218 --> 00:34:05,556
+Gosto de você, Sara.
+
+618
+00:34:06,389 --> 00:34:07,763
+Você tem muita coragem.
+
+619
+00:34:09,107 --> 00:34:11,382
+É por isso que vou matar
+só um pouco de você!
+
+620
+00:34:55,136 --> 00:34:56,436
+Mick!
+
+621
+00:35:00,730 --> 00:35:02,430
+<i>Capitão Hunter?
+Estamos em posição.</i>
+
+622
+00:35:03,646 --> 00:35:05,574
+- <i>Capitão Hunter?</i>
+- Sim!
+
+623
+00:35:05,575 --> 00:35:07,707
+Estou um pouquinho ocupado
+agora!
+
+624
+00:35:08,251 --> 00:35:11,725
+Seja como for,
+ficamos sem tempo.
+
+625
+00:35:13,890 --> 00:35:15,655
+<i>Capitão, o plano.</i>
+
+626
+00:35:20,830 --> 00:35:22,608
+<i>Estamos aguardando
+o seu sinal.</i>
+
+627
+00:35:36,651 --> 00:35:38,713
+- Gilbert?
+- <i>Sim, senhor?</i>
+
+628
+00:35:38,714 --> 00:35:41,414
+Preciso que ouça com muito,
+mas muito cuidado.
+
+629
+00:35:58,902 --> 00:36:00,913
+Rip!
+Estamos bem!
+
+630
+00:36:02,405 --> 00:36:06,542
+<i>Porta
+do compartimento fechada.</i>
+
+631
+00:36:06,543 --> 00:36:09,927
+<i>A descompressão explosiva
+evacuou os piratas do tempo.</i>
+
+632
+00:36:09,928 --> 00:36:12,455
+Obrigado, Gilbert.
+
+633
+00:36:12,456 --> 00:36:14,486
+Por favor,
+saúdem o Cavaleiro do Tempo.
+
+634
+00:36:14,487 --> 00:36:16,601
+<i>Cavaleiro,
+aqui é o Capitão Hunter.</i>
+
+635
+00:36:16,602 --> 00:36:18,303
+<i>Recuperamos
+o controle da Acheron.</i>
+
+636
+00:36:18,304 --> 00:36:20,021
+<i>Qual é o estado?</i>
+
+637
+00:36:20,022 --> 00:36:23,390
+O que vai fazer, Snart?
+
+638
+00:36:28,907 --> 00:36:30,568
+Não seria justo
+
+639
+00:36:30,569 --> 00:36:33,685
+eu te prender
+depois de recuperar minha nave
+
+640
+00:36:34,294 --> 00:36:36,589
+e prender John Valor
+por mim.
+
+641
+00:36:36,590 --> 00:36:38,656
+Feliz em ajudar
+um Mestre do Tempo.
+
+642
+00:36:39,416 --> 00:36:41,670
+Mesmo
+que eu não mereça o título.
+
+643
+00:36:42,496 --> 00:36:45,417
+Eu estava errada.
+Você provou isso hoje.
+
+644
+00:36:45,833 --> 00:36:48,223
+Você ainda é um ótimo
+Mestre do Tempo.
+
+645
+00:36:48,526 --> 00:36:51,383
+Por isso que vou te dar isso.
+
+646
+00:36:53,132 --> 00:36:55,149
+- O que é?
+- Gilbert?
+
+647
+00:36:55,150 --> 00:36:58,110
+<i>Usando dados de linha de tempo
+mais atuais do ponto de fuga,</i>
+
+648
+00:36:58,111 --> 00:37:01,017
+<i>para calcular
+a probabilidade de 99,8%</i>
+
+649
+00:37:01,018 --> 00:37:02,914
+<i>que encontrará
+Vandal Savage</i>
+
+650
+00:37:02,915 --> 00:37:06,183
+<i>em Harmony Falls,
+Oregon, em março de 1958.</i>
+
+651
+00:37:06,704 --> 00:37:08,823
+Obrigado, capitã Baxter.
+
+652
+00:37:09,757 --> 00:37:12,228
+Ainda não entendo
+porque está fazendo isso.
+
+653
+00:37:13,119 --> 00:37:15,653
+Antes de isso começar,
+acho que também não faria.
+
+654
+00:37:15,654 --> 00:37:18,620
+Estamos protegendo a história,
+salvando o tempo.
+
+655
+00:37:18,621 --> 00:37:22,011
+Não é nenhum chamado.
+
+656
+00:37:22,012 --> 00:37:23,688
+Chama-se amor.
+
+657
+00:37:25,061 --> 00:37:27,750
+<i>Rip. Rip.</i>
+
+658
+00:37:28,127 --> 00:37:29,427
+<i>Rip!</i>
+
+659
+00:37:31,112 --> 00:37:32,492
+<i>Olhe para mim, Rip.</i>
+
+660
+00:37:34,876 --> 00:37:36,559
+<i>Por favor,
+não fique bravo comigo.</i>
+
+661
+00:37:36,560 --> 00:37:38,484
+<i>Não estou bravo!</i>
+
+662
+00:37:38,485 --> 00:37:41,395
+<i>Eu ia me demitir.</i>
+
+663
+00:37:41,396 --> 00:37:44,316
+<i>Eu sei e não posso deixar.</i>
+
+664
+00:37:44,806 --> 00:37:46,332
+<i>Isso sempre foi seu sonho.</i>
+
+665
+00:37:46,333 --> 00:37:49,462
+<i>Sim,
+mas você é melhor nisso.</i>
+
+666
+00:37:49,463 --> 00:37:51,273
+<i>Não entendo por que...</i>
+
+667
+00:37:51,866 --> 00:37:54,167
+<i>Você desistiria de tudo.</i>
+
+668
+00:37:54,168 --> 00:37:56,372
+<i>É engraçado,
+porque você me fez perceber</i>
+
+669
+00:37:56,373 --> 00:37:58,573
+<i>que eu nunca poderia
+ser uma Mestre do Tempo.</i>
+
+670
+00:37:59,589 --> 00:38:01,424
+<i>Encontrei algo em você,</i>
+
+671
+00:38:01,425 --> 00:38:04,143
+<i>algo maravilhoso.</i>
+
+672
+00:38:05,243 --> 00:38:06,758
+<i>Encontrei o amor.</i>
+
+673
+00:38:07,608 --> 00:38:10,758
+<i>A coisa que os Mestres do Tempo
+sempre nos ensinaram a esconder,</i>
+
+674
+00:38:11,216 --> 00:38:12,851
+<i>mas estavam errado, Rip.</i>
+
+675
+00:38:12,852 --> 00:38:14,320
+<i>O amor não é uma ameaça.</i>
+
+676
+00:38:15,322 --> 00:38:18,028
+<i>É lindo, e poderoso,</i>
+
+677
+00:38:18,029 --> 00:38:20,206
+<i>e quando você conhece,</i>
+
+678
+00:38:21,304 --> 00:38:22,944
+<i>o amor muda tudo.</i>
+
+679
+00:38:25,152 --> 00:38:26,648
+<i>Como me mudou</i>
+
+680
+00:38:28,025 --> 00:38:29,775
+<i>e por isso que tenho
+que me demitir,</i>
+
+681
+00:38:29,776 --> 00:38:32,125
+<i>pois nunca poderia
+pertencer a algo</i>
+
+682
+00:38:32,126 --> 00:38:34,207
+<i>que se vira contra a verdade.</i>
+
+683
+00:38:34,208 --> 00:38:38,937
+<i>De repente, minha profissão
+parece tão sem importância.</i>
+
+684
+00:38:38,938 --> 00:38:40,238
+<i>Não.</i>
+
+685
+00:38:40,698 --> 00:38:43,527
+<i>O mundo precisa
+dos Mestres do Tempo</i>
+
+686
+00:38:43,528 --> 00:38:46,610
+<i>e os Mestres do Tempo,
+com certeza,</i>
+
+687
+00:38:46,611 --> 00:38:48,688
+<i>precisam de Rip Hunter.</i>
+
+688
+00:38:49,678 --> 00:38:52,007
+<i>Meu único desejo
+é que, um dia,</i>
+
+689
+00:38:52,008 --> 00:38:55,008
+<i>quando estiver viajando
+pelo espaço e tempo,</i>
+
+690
+00:38:55,389 --> 00:38:56,903
+<i>você perceba o que tenho,</i>
+
+691
+00:38:56,904 --> 00:38:59,040
+<i>e entenda o motivo
+do que estou fazendo.</i>
+
+692
+00:39:00,637 --> 00:39:03,075
+<i>Espero que pense em mim
+quando esse dia chegar.</i>
+
+693
+00:39:03,466 --> 00:39:04,766
+<i>Eu vou...</i>
+
+694
+00:39:07,084 --> 00:39:08,506
+<i>Porque eu estarei com você.</i>
+
+695
+00:39:20,401 --> 00:39:21,960
+Estava procurando por você.
+
+696
+00:39:22,304 --> 00:39:23,604
+Como está se sentindo?
+
+697
+00:39:23,605 --> 00:39:24,905
+Ótimo.
+
+698
+00:39:25,220 --> 00:39:28,511
+Acontece que me recuperei
+muito rápido da hipotermia.
+
+699
+00:39:28,512 --> 00:39:30,547
+Na verdade,
+lembrei de algumas das coisas
+
+700
+00:39:30,548 --> 00:39:34,980
+que me disse
+quando eu estava quase morto.
+
+701
+00:39:34,981 --> 00:39:37,570
+Você estava errada,
+a propósito.
+
+702
+00:39:37,571 --> 00:39:39,822
+Não precisa de mim.
+Não precisa de ninguém.
+
+703
+00:39:39,823 --> 00:39:41,508
+Digo, você é ótima
+
+704
+00:39:41,509 --> 00:39:44,177
+e tenho sorte
+de ser seu amigo,
+
+705
+00:39:44,178 --> 00:39:45,908
+estar nessa missão junto...
+
+706
+00:39:54,471 --> 00:39:55,901
+Isso é surpreendente.
+
+707
+00:40:03,725 --> 00:40:05,025
+Eu vou dizer.
+
+708
+00:40:05,491 --> 00:40:08,029
+Por que não voltamos
+para 2016?
+
+709
+00:40:08,406 --> 00:40:11,610
+Por que a minha irmã vive
+em 2016.
+
+710
+00:40:12,039 --> 00:40:14,607
+E a sua irmã, e sua esposa.
+
+711
+00:40:14,608 --> 00:40:16,876
+Então,
+do que estamos falando?
+
+712
+00:40:16,877 --> 00:40:19,499
+Deixamos Rory na prisão
+enquanto derrubamos Savage?
+
+713
+00:40:19,500 --> 00:40:21,714
+Não, a prisão é inadequada
+
+714
+00:40:21,715 --> 00:40:23,297
+para longos encarceramentos.
+
+715
+00:40:23,298 --> 00:40:25,745
+Deixá-lo livre pela nave
+não é uma opção.
+
+716
+00:40:25,746 --> 00:40:27,064
+Eu cuido disso.
+
+717
+00:40:27,065 --> 00:40:29,189
+Cuidar disso,
+você irá matá-lo?
+
+718
+00:40:29,190 --> 00:40:31,660
+Eu disse
+que vou cuidar disso.
+
+719
+00:40:52,546 --> 00:40:56,766
+Disse que seria a última vez
+que me bate.
+
+720
+00:40:56,767 --> 00:40:58,206
+Estava certo.
+
+721
+00:40:59,901 --> 00:41:01,504
+Que o plano...
+
+722
+00:41:02,059 --> 00:41:04,771
+Deixe-me no meio do nada,
+
+723
+00:41:04,772 --> 00:41:07,993
+onde ninguém ache o corpo?
+
+724
+00:41:09,151 --> 00:41:12,241
+Gostaria que tivesse
+outro jeito, Mick,
+
+725
+00:41:12,242 --> 00:41:14,224
+mas você é perigoso.
+
+726
+00:41:14,843 --> 00:41:18,079
+- Um fardo para a equipe.
+- Equipe?
+
+727
+00:41:18,080 --> 00:41:19,939
+Você é eu somos uma equipe!
+
+728
+00:41:21,942 --> 00:41:23,656
+O que aconteceu com você?
+
+729
+00:41:25,579 --> 00:41:27,519
+Pessoas mudam.
+
+730
+00:41:27,848 --> 00:41:30,039
+Você acha que é um herói,
+
+731
+00:41:30,517 --> 00:41:32,566
+mas lá no fundo
+você é o mesmo,
+
+732
+00:41:32,567 --> 00:41:35,556
+um moleque
+que salvei no reformatório.
+
+733
+00:41:35,880 --> 00:41:37,910
+Você não tem coragem.
+
+734
+00:41:39,026 --> 00:41:40,452
+Você quer me matar?
+
+735
+00:41:41,134 --> 00:41:42,437
+Mate-me.
+
+736
+00:41:44,039 --> 00:41:47,412
+Só um de nós
+sairá caminhando daqui vivo.
+
+737
+00:41:53,149 --> 00:41:54,449
+Você está certo
+
+738
+00:41:54,450 --> 00:41:58,450
+www.insubs.com
+
