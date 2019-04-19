@@ -1,0 +1,3174 @@
+﻿1
+00:00:00,751 --> 00:00:02,674
+<i>Meu nome é Oliver Queen.</i>
+
+2
+00:00:02,675 --> 00:00:04,104
+<i>Depois de 5 anos no inferno,</i>
+
+3
+00:00:04,105 --> 00:00:06,269
+<i>voltei para casa
+com um único objetivo.</i>
+
+4
+00:00:06,270 --> 00:00:07,904
+<i>Salvar minha cidade.</i>
+
+5
+00:00:07,905 --> 00:00:10,256
+<i>Hoje luto essa guerra
+em duas frentes:</i>
+
+6
+00:00:10,257 --> 00:00:12,675
+<i>De dia, sou o prefeito,</i>
+
+7
+00:00:12,676 --> 00:00:14,994
+<i>mas à noite,
+eu sou outra pessoa.</i>
+
+8
+00:00:14,995 --> 00:00:16,963
+<i>Eu sou outra coisa.</i>
+
+9
+00:00:16,964 --> 00:00:19,673
+<i>Eu sou o Arqueiro Verde.</i>
+
+10
+00:00:20,084 --> 00:00:21,484
+<i>Anteriormente...</i>
+
+11
+00:00:21,485 --> 00:00:22,885
+Obedeça-me ou morra.
+
+12
+00:00:24,371 --> 00:00:26,873
+Olá, sr. Queen,
+meu nome é Talia.
+
+13
+00:00:26,874 --> 00:00:28,275
+Estive procurando
+por você.
+
+14
+00:00:28,276 --> 00:00:30,427
+Assim que sair daqui,
+Walker inventará algo
+
+15
+00:00:30,428 --> 00:00:31,828
+para atirar na minha cabeça.
+
+16
+00:00:31,829 --> 00:00:33,797
+Acho que eu mesmo
+terei que processá-lo.
+
+17
+00:00:33,798 --> 00:00:35,198
+Pode levar bastante tempo.
+
+18
+00:00:35,199 --> 00:00:36,950
+Não mantive
+minha promessa à Laurel.
+
+19
+00:00:36,951 --> 00:00:39,788
+- Treinará outra Canário Negro?
+- Acho que em algum lugar
+
+20
+00:00:39,789 --> 00:00:41,823
+há uma mulher digna
+do legado da Laurel.
+
+21
+00:00:43,608 --> 00:00:46,024
+Tudo o que temos que fazer
+é encontrá-la.
+
+22
+00:00:47,561 --> 00:00:50,096
+<i>Protestos continuam
+na contagem final</i>
+
+23
+00:00:50,097 --> 00:00:52,945
+<i>para que o acelerador
+de partículas do STAR Labs</i>
+
+24
+00:00:52,946 --> 00:00:54,367
+<i>seja ligado.</i>
+
+25
+00:00:54,368 --> 00:00:57,203
+<i>O fundador e presidente
+do STAR Labs, Harrison Wells,</i>
+
+26
+00:00:57,204 --> 00:00:59,906
+<i>promete uma nova era
+de avanços científicos</i>
+
+27
+00:00:59,907 --> 00:01:02,726
+<i>- está ao nosso alcance.</i>
+- Olhem só isso.
+
+28
+00:01:02,727 --> 00:01:05,078
+O futuro está ficando
+mais promissor a cada dia.
+
+29
+00:01:05,079 --> 00:01:08,048
+O que você acha, querida?
+Você é fã do progresso?
+
+30
+00:01:08,049 --> 00:01:12,285
+Por que você não atira em mim
+e termina logo com isso?
+
+31
+00:01:12,286 --> 00:01:15,755
+Ou talvez você não tenha coragem
+de puxar o gatilho.
+
+32
+00:01:15,756 --> 00:01:18,265
+Eu ia jogar outra partida,
+deixar você descansar.
+
+33
+00:01:18,266 --> 00:01:21,694
+Mas propõe um desafio assim,
+o que um cara pode fazer?
+
+34
+00:01:21,695 --> 00:01:25,865
+Conseguirei o que quero de você,
+ou talvez um desses molares aí.
+
+35
+00:01:25,866 --> 00:01:27,266
+Esqueça-a.
+
+36
+00:01:27,668 --> 00:01:30,320
+Olá, Tina.
+Você não parece muito bem,
+
+37
+00:01:30,321 --> 00:01:33,398
+mas eu tenho algo aqui
+que pode te fazer sorrir.
+
+38
+00:01:33,825 --> 00:01:35,515
+Olha só quem temos aqui.
+
+39
+00:01:37,428 --> 00:01:40,970
+- Meu Deus, Vinny.
+- Sinto muito, Tina.
+
+40
+00:01:40,971 --> 00:01:42,482
+Isso é tão lindo.
+
+41
+00:01:42,483 --> 00:01:45,102
+Achei que vocês só fossem
+parceiros policiais, mas...
+
+42
+00:01:46,311 --> 00:01:47,811
+Você pode me contar, Vin.
+
+43
+00:01:48,339 --> 00:01:50,344
+Você está dando uns pegas nela,
+não está?
+
+44
+00:01:55,329 --> 00:01:57,863
+Eu não tinha certeza
+qual de vocês eu mataria.
+
+45
+00:01:58,282 --> 00:02:00,697
+Obrigado por decidir por mim.
+Pegue o plástico.
+
+46
+00:02:00,698 --> 00:02:02,763
+Não, por favor!
+Não o machuque, por favor!
+
+47
+00:02:02,764 --> 00:02:04,164
+Calada!
+
+48
+00:02:11,029 --> 00:02:13,814
+<i>Espere, agora estão nos pedindo
+para evacuar o complexo.</i>
+
+49
+00:02:13,815 --> 00:02:17,184
+<i>A chuva pode ter causado avaria
+no sistema de resfriamento.</i>
+
+50
+00:02:17,185 --> 00:02:18,717
+<i>Funcionários estão agora...</i>
+
+51
+00:02:21,155 --> 00:02:24,598
+Sean, eu te imploro.
+
+52
+00:02:24,599 --> 00:02:26,421
+Por favor.
+
+53
+00:02:40,163 --> 00:02:43,444
+Não!
+
+54
+00:02:43,960 --> 00:02:46,369
+5ª Temporada | Episódio 11
+-= Second Chances =-
+
+55
+00:02:46,370 --> 00:02:49,459
+Legenda: kevi, Analu, SonOfCoul
+Galassio, Netto, Bonnie
+
+56
+00:02:49,460 --> 00:02:52,272
+Revisão:
+Gabim e Billy
+
+57
+00:02:55,189 --> 00:02:57,707
+- Ela não.
+- O que quer dizer com isso?
+
+58
+00:02:57,708 --> 00:02:59,626
+- Você leu o currículo dela?
+- Eu li.
+
+59
+00:02:59,627 --> 00:03:02,100
+Sabe que ela liberou
+600 mantimentos no Iraque,
+
+60
+00:03:02,101 --> 00:03:03,842
+lançou um programa
+para crianças
+
+61
+00:03:03,843 --> 00:03:05,645
+terem aulas de voo
+e sair da pobreza,
+
+62
+00:03:05,646 --> 00:03:08,468
+além disso, ela sabe krav maga
+e é faixa preta, 3º dan.
+
+63
+00:03:08,469 --> 00:03:10,370
+Se a Ases Indomáveis
+é um talvez,
+
+64
+00:03:10,371 --> 00:03:13,891
+como diabos eu entrei
+para a equipe? Não responda.
+
+65
+00:03:13,892 --> 00:03:17,043
+Achar a nova Canário Negro
+não é só olhar currículos.
+
+66
+00:03:17,044 --> 00:03:18,845
+Eu tenho que sentir
+que é ela.
+
+67
+00:03:18,846 --> 00:03:21,899
+Sinto que estamos dando duro
+para achar novas candidatas,
+
+68
+00:03:21,900 --> 00:03:23,300
+e você fica recusando-as.
+
+69
+00:03:23,301 --> 00:03:25,408
+Prometi à Laurel
+que continuaria o legado.
+
+70
+00:03:25,409 --> 00:03:27,921
+Não quero que a Sereia Negra
+seja tudo restou dela.
+
+71
+00:03:27,922 --> 00:03:30,390
+E quanto a essa mulher?
+Allison Slater.
+
+72
+00:03:30,391 --> 00:03:34,728
+Ela é agente condecorada da CIA
+e é campeã do mundo de judô.
+
+73
+00:03:34,729 --> 00:03:39,439
+Não? Está bem.
+E que tal Tara Michele?
+
+74
+00:03:39,440 --> 00:03:41,001
+Operações especiais
+do exército,
+
+75
+00:03:41,002 --> 00:03:43,843
+mas, depois, ela decidiu abrir
+uma clínica gratuita
+
+76
+00:03:43,844 --> 00:03:45,244
+para os sem-teto.
+
+77
+00:03:45,673 --> 00:03:47,274
+Está bem,
+continuarei procurando.
+
+78
+00:03:47,275 --> 00:03:49,637
+Espere aí,
+e quanto a essa aqui?
+
+79
+00:03:50,778 --> 00:03:53,580
+Essa mulher fez PhD
+em engenharia aos 20 anos,
+
+80
+00:03:53,581 --> 00:03:55,298
+ganhou ouro no caratê
+na olimpíada,
+
+81
+00:03:55,299 --> 00:03:56,916
+recusou ofertas da NSA
+e da ARGUS
+
+82
+00:03:56,917 --> 00:03:58,931
+para ir para a NASA.
+Astronauta de dia
+
+83
+00:03:58,932 --> 00:04:01,777
+enquanto, à noite, ela protege
+os cidadãos de Houston
+
+84
+00:04:01,778 --> 00:04:04,524
+como uma vigilante ninja.
+
+85
+00:04:04,525 --> 00:04:08,528
+Trabalha no sopão aos sábados
+e resgata filhotes aos domingos.
+
+86
+00:04:08,529 --> 00:04:11,231
+Ninja astronauta?
+Você está inventando isso.
+
+87
+00:04:11,232 --> 00:04:15,135
+E inventou, caratê não será
+um esporte olímpico até 2020.
+
+88
+00:04:15,136 --> 00:04:17,103
+Está bem, você me pegou.
+
+89
+00:04:17,104 --> 00:04:19,822
+É só uma mulher que dá aula
+para crianças no Glades,
+
+90
+00:04:19,823 --> 00:04:22,242
+- mas o que eu disse ainda vale.
+- E o que seria?
+
+91
+00:04:22,243 --> 00:04:25,145
+Não importa o quão boas sejam,
+nenhuma será boa para você.
+
+92
+00:04:25,146 --> 00:04:26,563
+Pois as compara
+com a Laurel,
+
+93
+00:04:26,564 --> 00:04:29,533
+o que é um padrão impossível,
+deveria deixá-lo de lado.
+
+94
+00:04:29,534 --> 00:04:32,652
+Precisamos continuar a procura.
+Precisamos ter a mente aberta.
+
+95
+00:04:32,653 --> 00:04:34,387
+Quanto?
+
+96
+00:04:34,388 --> 00:04:38,625
+Ter a mente muito aberta,
+como lendas urbanas?
+
+97
+00:04:38,626 --> 00:04:41,544
+Porque se estivermos,
+acho que tenho algo.
+
+98
+00:04:41,545 --> 00:04:43,243
+O que quer dizer
+com lenda urbana?
+
+99
+00:04:43,244 --> 00:04:46,933
+- Quero dizer, ela.
+- Por ela, quer dizer quem?
+
+100
+00:04:46,934 --> 00:04:49,455
+Na verdade,
+não sei o nome dela,
+
+101
+00:04:49,456 --> 00:04:51,705
+mas de acordo com os fóruns
+que eu visitei,
+
+102
+00:04:51,706 --> 00:04:55,108
+ela é uma mulher que aparece
+do nada e impede crimes.
+
+103
+00:04:55,109 --> 00:04:57,444
+- Em Star City?
+- Na verdade, em todo país.
+
+104
+00:04:57,445 --> 00:04:59,101
+E vejam isso,
+
+105
+00:04:59,102 --> 00:05:03,183
+ela até tem um grito,
+um grito da canário.
+
+106
+00:05:03,184 --> 00:05:06,086
+É uma meta com mesmos poderes
+da Laurel da Terra 2?
+
+107
+00:05:06,087 --> 00:05:08,455
+Se isso não for <i>bashert</i>,
+eu não sei o que é.
+
+108
+00:05:08,456 --> 00:05:11,891
+- O que disse?
+- <i>Bashert</i> quer dizer destino.
+
+109
+00:05:11,892 --> 00:05:13,293
+De acordo com a ARGUS,
+
+110
+00:05:13,294 --> 00:05:15,095
+apareceu em Central City
+há 3 anos.
+
+111
+00:05:15,096 --> 00:05:17,114
+Foi quando o STAR Labs
+explodiu.
+
+112
+00:05:17,115 --> 00:05:19,332
+E ela até tem
+uma jaqueta preta e tudo.
+
+113
+00:05:19,333 --> 00:05:22,745
+Só não é loira,
+pode ajeitar isso com peruca.
+
+114
+00:05:22,746 --> 00:05:25,777
+- ENCONTRE-ME EM IRON HEIGHTS.
+- Vou lidar com algo do John.
+
+115
+00:05:25,778 --> 00:05:27,741
+Veremos se essa lenda urbana
+é real,
+
+116
+00:05:27,742 --> 00:05:29,341
+me avisem se acharem algo.
+
+117
+00:05:37,936 --> 00:05:40,387
+Recebi uma mensagem do Adrian.
+Sabe sobre o que é?
+
+118
+00:05:40,388 --> 00:05:42,812
+Talvez descobriu como Prometheus
+imitou a Lyla
+
+119
+00:05:42,813 --> 00:05:44,428
+para me trazer do abrigo
+para cá.
+
+120
+00:05:44,429 --> 00:05:47,770
+Estou menos preocupado com isso
+do que como vou te tirar daqui.
+
+121
+00:05:48,696 --> 00:05:50,660
+Senhores,
+desculpem meu atraso.
+
+122
+00:05:52,266 --> 00:05:53,800
+Como você está?
+
+123
+00:05:53,801 --> 00:05:56,575
+Walker me terá sob custódio
+em uma semana, então...
+
+124
+00:05:56,576 --> 00:05:59,920
+Assim que Walker pegar o John,
+ele o jogará em um buraco.
+
+125
+00:05:59,921 --> 00:06:03,481
+Talvez não.
+Tenho um amigo na NSA.
+
+126
+00:06:03,482 --> 00:06:06,203
+Parece que o general Walker
+está sob investigação.
+
+127
+00:06:06,204 --> 00:06:08,204
+Eles estavam
+montando o caso.
+
+128
+00:06:08,205 --> 00:06:10,905
+Transferências eletrônicas
+e imagens de satélite dele
+
+129
+00:06:10,906 --> 00:06:14,035
+- com o gatilho nuclear.
+- Já dá para inocentar o John.
+
+130
+00:06:14,036 --> 00:06:17,308
+Por que você falou
+estavam montando o caso?
+
+131
+00:06:17,309 --> 00:06:19,309
+Walker tem muitos contatos.
+
+132
+00:06:19,310 --> 00:06:21,310
+Conseguiu atrasar
+a investigação.
+
+133
+00:06:21,311 --> 00:06:23,811
+- Mas o arquivo ainda existe.
+- Já fiz um pedido,
+
+134
+00:06:23,812 --> 00:06:27,812
+mas como isso é restrito,
+pode levar meses, talvez anos.
+
+135
+00:06:27,813 --> 00:06:30,213
+- Não temos esse tempo.
+- Sinto em informar isso.
+
+136
+00:06:30,214 --> 00:06:33,515
+Não, Adrian.
+Você já fez muito.
+
+137
+00:06:34,415 --> 00:06:35,915
+Obrigado.
+
+138
+00:06:43,427 --> 00:06:46,514
+Felicity vai adorar
+hackear a NSA.
+
+139
+00:06:46,515 --> 00:06:49,515
+Depois de ela ter mandado
+100 candidatos a Canário Negro
+
+140
+00:06:49,516 --> 00:06:50,920
+para você recusar?
+
+141
+00:06:50,921 --> 00:06:52,916
+Você não é o único
+que vem aqui, Oliver.
+
+142
+00:06:52,917 --> 00:06:55,633
+John, eu sei
+o que prometi para a Laurel.
+
+143
+00:06:55,634 --> 00:06:59,180
+Mas agora que estamos
+tentando substituí-la...
+
+144
+00:07:01,817 --> 00:07:03,317
+Não parece certo.
+
+145
+00:07:03,318 --> 00:07:06,297
+Ela não queria que achasse
+alguém para substituí-la,
+
+146
+00:07:06,298 --> 00:07:08,118
+mas alguém
+para continuar o legado.
+
+147
+00:07:08,119 --> 00:07:09,819
+E, no meu ponto de vista,
+
+148
+00:07:10,719 --> 00:07:12,938
+são duas coisas diferentes.
+
+149
+00:07:17,319 --> 00:07:19,443
+A Bela Adormecida acordou.
+
+150
+00:07:20,219 --> 00:07:21,619
+Onde eu estou?
+
+151
+00:07:21,620 --> 00:07:24,620
+- Em um lugar seguro.
+- Preciso voltar para Bratva.
+
+152
+00:07:24,621 --> 00:07:26,719
+Por quê?
+Para terminarem de matá-lo?
+
+153
+00:07:26,720 --> 00:07:29,520
+Aquilo foi o Gregor.
+Tenho aliados lá.
+
+154
+00:07:29,521 --> 00:07:32,521
+Acho que vai perceber
+que certas coisas na Bratva
+
+155
+00:07:32,522 --> 00:07:35,098
+são mais complexas
+do que parecem.
+
+156
+00:07:35,522 --> 00:07:37,321
+Por que me salvou?
+
+157
+00:07:37,322 --> 00:07:40,993
+Pelo que pude ver,
+precisava de ajuda.
+
+158
+00:07:46,422 --> 00:07:48,827
+- Onde conseguiu isso?
+- Não foi difícil.
+
+159
+00:07:48,828 --> 00:07:51,023
+Passar despercebida
+pelos amadores da Bratva
+
+160
+00:07:51,024 --> 00:07:54,124
+- não testa minhas habilidades.
+- Por que fez isso?
+
+161
+00:07:55,224 --> 00:07:57,523
+Naufrágio em Lian Yu.
+
+162
+00:07:57,524 --> 00:07:59,423
+Fugiu para Hong Kong.
+
+163
+00:07:59,424 --> 00:08:02,723
+O Ômega vírus,
+o Shadowspire,
+
+164
+00:08:02,724 --> 00:08:05,524
+e, agora, misturou-se
+com Bratva.
+
+165
+00:08:05,525 --> 00:08:06,925
+Mas, durante o caminho,
+
+166
+00:08:06,926 --> 00:08:09,436
+voltou para sua casa
+em Starling City,
+
+167
+00:08:09,437 --> 00:08:12,625
+mas não teve coragem
+de encarar sua família.
+
+168
+00:08:12,626 --> 00:08:15,726
+- Como sabe disso?
+- Fiz meu dever de casa.
+
+169
+00:08:15,727 --> 00:08:17,627
+O que faz de mim
+tão interessante?
+
+170
+00:08:24,627 --> 00:08:26,927
+Você usava o capuz
+de um de meus estudantes.
+
+171
+00:08:28,027 --> 00:08:29,827
+Yao Fei Gulong.
+
+172
+00:08:32,227 --> 00:08:34,048
+Recebeu minha mensagem
+sobre o John?
+
+173
+00:08:34,049 --> 00:08:36,528
+Se tiver algum rastro,
+teremos que cavar fundo
+
+174
+00:08:36,529 --> 00:08:38,429
+porque está atrás
+de muitos firewalls.
+
+175
+00:08:38,430 --> 00:08:40,430
+Na verdade,
+firewalls não são o problema.
+
+176
+00:08:40,431 --> 00:08:43,631
+Esse arquivo
+está muito protegido.
+
+177
+00:08:43,632 --> 00:08:45,932
+Como sabe por onde começar?
+Tudo o que eu disse
+
+178
+00:08:45,933 --> 00:08:49,233
+- foi que Chase pode ter algo.
+- Eu hackeei o laptop dele.
+
+179
+00:08:49,833 --> 00:08:51,933
+Para salvar o Dig
+vou quebrar muitas leis.
+
+180
+00:08:51,934 --> 00:08:54,234
+Hackear o promotor
+foi o de menos.
+
+181
+00:08:54,235 --> 00:08:56,335
+Mas você é o prefeito,
+pode me perdoar.
+
+182
+00:08:56,336 --> 00:08:57,736
+- Não posso.
+- Não importa.
+
+183
+00:08:57,737 --> 00:08:59,137
+Porque estou me divertindo.
+
+184
+00:08:59,138 --> 00:09:02,638
+Não hackeava os segredos
+do governo há muito tempo.
+
+185
+00:09:02,639 --> 00:09:05,240
+É uma boa mudança,
+sinto-me incrível.
+
+186
+00:09:05,241 --> 00:09:07,541
+Isso me manterá ocupada
+enquanto estiver fora.
+
+187
+00:09:07,542 --> 00:09:09,842
+- E para onde eu vou?
+- Talvez Hub City.
+
+188
+00:09:09,843 --> 00:09:12,729
+Achamos que é onde
+a nova Canário Negro está.
+
+189
+00:09:12,730 --> 00:09:14,644
+Não vamos chamá-la
+assim ainda.
+
+190
+00:09:14,645 --> 00:09:18,045
+- Quero vê-la em ação antes.
+- Seu pedido é uma ordem.
+
+191
+00:09:18,046 --> 00:09:21,146
+Consegui imagens de celular
+de seu último ato de heroísmo.
+
+192
+00:09:21,147 --> 00:09:22,746
+Heroico?
+
+193
+00:09:22,747 --> 00:09:24,347
+Heroísmo.
+Vejam.
+
+194
+00:09:24,348 --> 00:09:27,949
+Não é possível identificar
+o rosto, mas ela é bem real.
+
+195
+00:09:27,950 --> 00:09:30,874
+Olhei umas 10 vezes.
+A mulher sabe lutar.
+
+196
+00:09:31,750 --> 00:09:34,250
+Ela consegue focar o som
+melhor que a Sereia Negra
+
+197
+00:09:34,251 --> 00:09:36,950
+e tem mais habilidade
+em combate corpo a corpo.
+
+198
+00:09:36,951 --> 00:09:41,151
+Isso é...
+Qual é a palavra mesmo?
+
+199
+00:09:41,152 --> 00:09:43,252
+- <i>Bashert</i>.
+- Isso.
+
+200
+00:09:43,253 --> 00:09:47,441
+Parece que ela
+realmente chamou sua atenção.
+
+201
+00:09:47,853 --> 00:09:50,353
+Liguem para o Rene.
+Vamos para Hub City.
+
+202
+00:10:11,553 --> 00:10:12,953
+Pare.
+
+203
+00:10:16,653 --> 00:10:18,053
+Nossa.
+
+204
+00:10:18,054 --> 00:10:20,656
+A loja de fantasias
+está fazendo uma promoção?
+
+205
+00:10:21,654 --> 00:10:23,968
+- O que vocês querem?
+- Você é uma vigilante.
+
+206
+00:10:23,969 --> 00:10:25,553
+E uma meta-humana.
+
+207
+00:10:25,554 --> 00:10:28,053
+Durante 3 anos,
+trabalhou sozinha.
+
+208
+00:10:28,054 --> 00:10:29,454
+Temos uma proposta
+para você.
+
+209
+00:10:30,399 --> 00:10:33,473
+Desculpe, você estava falando.
+Pode continuar.
+
+210
+00:10:36,114 --> 00:10:38,268
+Queremos que se junte a nós.
+
+211
+00:10:39,065 --> 00:10:40,988
+Podemos lhe dar uma casa,
+
+212
+00:10:40,989 --> 00:10:45,197
+um time e um lugar
+para treinar seu poder.
+
+213
+00:10:45,198 --> 00:10:47,696
+Eu posso me cuidar.
+
+214
+00:10:49,235 --> 00:10:51,909
+Se ficarem no meu caminho,
+
+215
+00:10:51,910 --> 00:10:53,760
+mandarei vocês
+de volta para Star City
+
+216
+00:10:53,761 --> 00:10:55,534
+com suas bolas em uma bolsa.
+
+217
+00:11:03,104 --> 00:11:06,169
+Achei que deu tudo certo.
+
+218
+00:11:14,375 --> 00:11:17,338
+O que estamos fazendo aqui?
+
+219
+00:11:17,339 --> 00:11:20,697
+A mulher com a jaqueta de couro
+foi bem clara sobre ficarmos.
+
+220
+00:11:20,698 --> 00:11:22,761
+Quando que eu desisti
+tão fácil assim?
+
+221
+00:11:22,762 --> 00:11:25,785
+Nunca. A resposta é nunca.
+Isso estava implícito.
+
+222
+00:11:25,786 --> 00:11:27,367
+Não acharemos
+ninguém melhor.
+
+223
+00:11:27,368 --> 00:11:30,065
+Algum progresso
+com o reconhecimento facial?
+
+224
+00:11:30,066 --> 00:11:32,254
+Desculpe, mas o wi-fi aqui
+é devagar.
+
+225
+00:11:32,255 --> 00:11:33,798
+Leve o tempo que precisar.
+
+226
+00:11:33,799 --> 00:11:36,828
+Tenho 3 hambúrgueres
+com cheddar para comer.
+
+227
+00:11:36,829 --> 00:11:38,730
+Isso é horrível.
+
+228
+00:11:38,731 --> 00:11:40,314
+Consegui.
+
+229
+00:11:40,315 --> 00:11:43,636
+A mulher sônica
+tem um nome: Tina Boland,
+
+230
+00:11:43,637 --> 00:11:45,138
+ela era policial.
+
+231
+00:11:45,139 --> 00:11:47,908
+Ela estava em Central City
+quando o acelerador explodiu.
+
+232
+00:11:47,909 --> 00:11:51,750
+Depois disso, ela sumiu,
+e não temos como achá-la.
+
+233
+00:11:51,751 --> 00:11:53,221
+Sim, nós temos.
+
+234
+00:12:01,355 --> 00:12:04,176
+- Capitão Singh.
+- Preciso de uma informação.
+
+235
+00:12:04,177 --> 00:12:06,854
+- Quem é?
+- É o Arqueiro Verde.
+
+236
+00:12:06,855 --> 00:12:08,904
+Ou um maluco
+com um modulador de voz.
+
+237
+00:12:08,905 --> 00:12:11,292
+<i>Se quiser ajuda,
+precisarei de provas.</i>
+
+238
+00:12:17,146 --> 00:12:18,999
+É ELE MESMO
+
+239
+00:12:19,000 --> 00:12:21,854
+Muito inteligente. Tudo bem.
+O que quer saber?
+
+240
+00:12:21,855 --> 00:12:23,667
+Tina Boland.
+Ela era da polícia.
+
+241
+00:12:23,668 --> 00:12:25,792
+- O que houve com ela?
+- Uma tragédia.
+
+242
+00:12:25,793 --> 00:12:28,796
+Ela estava disfarçada,
+e o parceiro foi assassinado.
+
+243
+00:12:28,797 --> 00:12:31,342
+O nome do parceiro dela
+era
+
+244
+00:12:32,051 --> 00:12:33,451
+Vincent Sobel.
+
+245
+00:12:33,452 --> 00:12:35,770
+Tina saiu da polícia
+logo após o funeral dele,
+
+246
+00:12:35,771 --> 00:12:37,171
+e não ouço dela desde então.
+
+247
+00:12:37,172 --> 00:12:39,489
+- Ela está com problemas?
+- Não tenho certeza.
+
+248
+00:12:39,490 --> 00:12:41,246
+Se souber de algo, avise-me.
+
+249
+00:12:41,247 --> 00:12:44,678
+Sempre gostei da Boland.
+Ela era boa.
+
+250
+00:12:44,679 --> 00:12:46,079
+Avisarei.
+
+251
+00:12:48,726 --> 00:12:51,896
+Parece que Tina está tentando
+vingar o ex-parceiro.
+
+252
+00:12:51,897 --> 00:12:54,669
+Então temos uma pista.
+
+253
+00:13:04,387 --> 00:13:06,132
+Você treinou Yao Fei?
+
+254
+00:13:06,133 --> 00:13:08,720
+Como isso é possível?
+Você é muito mais nova.
+
+255
+00:13:08,721 --> 00:13:12,172
+Não sabia que é indelicado
+falar da idade de uma mulher?
+
+256
+00:13:13,438 --> 00:13:16,397
+Vamos dizer
+que é um segredo de família.
+
+257
+00:13:17,287 --> 00:13:19,421
+Então você me achou
+por causa do Yao Fei.
+
+258
+00:13:20,131 --> 00:13:21,693
+Parabéns.
+
+259
+00:13:24,106 --> 00:13:25,506
+Yao Fei se foi.
+
+260
+00:13:25,507 --> 00:13:28,918
+Achei você porque o mundo
+precisa de pessoas como você.
+
+261
+00:13:28,919 --> 00:13:31,410
+O homem
+que sobreviveu isso tudo
+
+262
+00:13:31,411 --> 00:13:35,140
+está destinado para muito mais
+do que ser bandido na Rússia.
+
+263
+00:13:35,141 --> 00:13:38,393
+Se você me conhecesse bem,
+saberia que fiz...
+
+264
+00:13:38,394 --> 00:13:40,036
+Uma promessa, sim,
+
+265
+00:13:40,037 --> 00:13:42,640
+pare se vingar
+de Konstantin Kovar.
+
+266
+00:13:42,641 --> 00:13:44,721
+Tenho algo que vai ajudar.
+
+267
+00:13:46,624 --> 00:13:49,174
+Ele é Micha Yurievich,
+
+268
+00:13:49,175 --> 00:13:52,427
+um contrabandista
+com uma especialidade peculiar.
+
+269
+00:13:52,885 --> 00:13:54,285
+Jovens meninas.
+
+270
+00:13:55,312 --> 00:13:57,588
+Você deve imaginar
+quem é seu maior cliente.
+
+271
+00:13:58,802 --> 00:14:01,103
+- Kovar.
+- Derrubamos Yurievich,
+
+272
+00:14:01,104 --> 00:14:04,084
+e isso deixa Kovar
+sem a cadeia de negócios dele.
+
+273
+00:14:04,085 --> 00:14:05,485
+Nós?
+
+274
+00:14:05,486 --> 00:14:08,144
+Deveria se sentir honrado
+por eu oferecer minha ajuda.
+
+275
+00:14:10,007 --> 00:14:12,509
+Deixe-me te ajudar
+a se livrar Yurievich,
+
+276
+00:14:12,510 --> 00:14:15,352
+depois você vai ouvir
+o que tenho a dizer.
+
+277
+00:14:16,146 --> 00:14:20,799
+No mínimo, você vai dar
+um grande golpe no inimigo.
+
+278
+00:14:27,291 --> 00:14:30,459
+Graças a Deus.
+Você é um salva-vidas.
+
+279
+00:14:30,460 --> 00:14:32,594
+Achei que você poderia comer
+
+280
+00:14:32,595 --> 00:14:35,732
+antes de te prenderem em Lompoc
+por invadir a NSA.
+
+281
+00:14:35,733 --> 00:14:38,668
+Lompoc não aceita mulheres.
+Devem me mandar para Hazelton.
+
+282
+00:14:38,669 --> 00:14:41,771
+Ou mandariam se tivesse
+algo para invadir.
+
+283
+00:14:41,772 --> 00:14:43,172
+Não entendi.
+
+284
+00:14:43,173 --> 00:14:46,709
+O arquivo que fala tudo
+do General Walker sumiu.
+
+285
+00:14:46,710 --> 00:14:48,627
+O que isso quer dizer?
+
+286
+00:14:49,513 --> 00:14:52,714
+Que John voltou a estar
+completamente ferrado.
+
+287
+00:14:56,820 --> 00:14:58,276
+Não há nenhum sinal
+da Boland.
+
+288
+00:14:58,277 --> 00:15:00,556
+<i>Tem certeza que é o lugar certo,
+sr. Incrível?</i>
+
+289
+00:15:00,557 --> 00:15:04,446
+Ainda sou ele se estou
+no comunicador e sem uniforme?
+
+290
+00:15:05,229 --> 00:15:08,164
+Enfim, comparei os locais
+que ela retirou dinheiro
+
+291
+00:15:08,165 --> 00:15:10,199
+com a localização
+do celular descartável.
+
+292
+00:15:10,200 --> 00:15:12,234
+Detetive Boland está aqui.
+Quarto 511.
+
+293
+00:15:12,235 --> 00:15:13,935
+<i>Deve estar
+no final do corredor.</i>
+
+294
+00:15:21,038 --> 00:15:24,048
+A garota não conhece
+lata de lixo.
+
+295
+00:15:25,411 --> 00:15:28,351
+Mesmo não estando na polícia,
+ela ainda brinca de detetive.
+
+296
+00:15:28,352 --> 00:15:30,733
+Ela não está brincando.
+Ela quer sangue.
+
+297
+00:15:30,734 --> 00:15:32,655
+Aquele é o ex-parceiro dela.
+
+298
+00:15:32,656 --> 00:15:35,673
+Sr. Incrível, está vendo
+esses nomes na câmera?
+
+299
+00:15:35,674 --> 00:15:37,093
+Estou pesquisando-os.
+
+300
+00:15:39,663 --> 00:15:41,297
+- Solte o martelo.
+- Saia daqui!
+
+301
+00:15:41,298 --> 00:15:43,199
+Não vá!
+Ajude-me, por favor.
+
+302
+00:15:43,200 --> 00:15:44,600
+Tina.
+
+303
+00:15:53,110 --> 00:15:56,078
+Amortecedor sônico,
+novo e melhorado.
+
+304
+00:16:07,391 --> 00:16:08,791
+Ele está morto.
+
+305
+00:16:12,623 --> 00:16:14,323
+Alô?
+Equipe?
+
+306
+00:16:14,324 --> 00:16:16,011
+Parece
+que teremos companhia.
+
+307
+00:16:23,467 --> 00:16:26,101
+- Não posso deixá-la ir.
+- Pegue-a. Eu cuido disso.
+
+308
+00:16:56,066 --> 00:16:58,733
+Não terminamos
+nossa última conversa.
+
+309
+00:17:06,476 --> 00:17:09,430
+- Você é persistente.
+- Você matou aquele homem.
+
+310
+00:17:09,431 --> 00:17:12,514
+Achei que você estava preocupado
+se eu iria morrer.
+
+311
+00:17:12,515 --> 00:17:15,550
+- Decida-se.
+- Detetive Boland.
+
+312
+00:17:17,721 --> 00:17:19,221
+Se sabe
+que eu era da polícia,
+
+313
+00:17:19,222 --> 00:17:21,991
+então sabe que aquele cara
+ajudou a matar meu parceiro.
+
+314
+00:17:21,992 --> 00:17:23,592
+Sua vingança
+não termina com ele.
+
+315
+00:17:23,593 --> 00:17:26,846
+Não. Ainda estou procurando
+pelo chefe dele.
+
+316
+00:17:26,847 --> 00:17:29,264
+Os amigos dele estão
+lutando com os seus agora.
+
+317
+00:17:29,265 --> 00:17:32,374
+Podemos te ajudar a pegá-lo
+sem ninguém morrer no processo,
+
+318
+00:17:32,375 --> 00:17:34,670
+incluindo você.
+
+319
+00:17:34,671 --> 00:17:37,671
+Pelo que soube, há vários loucos
+correndo por Star City,
+
+320
+00:17:37,672 --> 00:17:39,725
+querendo fazer dele
+um lugar melhor.
+
+321
+00:17:40,577 --> 00:17:42,178
+Por que sou tão especial?
+
+322
+00:17:42,179 --> 00:17:44,446
+Se ficar no mesmo lugar
+por mais de um minuto,
+
+323
+00:17:44,447 --> 00:17:46,160
+poderei te dizer.
+
+324
+00:17:47,317 --> 00:17:50,118
+Se vai tentar me convencer,
+faça isso bem.
+
+325
+00:17:51,721 --> 00:17:53,889
+Você passou
+por algo traumático.
+
+326
+00:17:53,890 --> 00:17:56,692
+Pelos últimos 3 anos,
+tem tentado entender isso
+
+327
+00:17:56,693 --> 00:18:01,019
+porque você tem medo
+do que aconteceu com você.
+
+328
+00:18:01,631 --> 00:18:05,768
+E do que se tornou.
+Então está fugindo disso.
+
+329
+00:18:05,769 --> 00:18:08,319
+- Como sabe disso?
+- Porque passei por isso.
+
+330
+00:18:09,472 --> 00:18:12,934
+Posso ajudá-la
+a se reencontrar.
+
+331
+00:18:18,715 --> 00:18:20,115
+Certo.
+
+332
+00:18:21,618 --> 00:18:23,863
+Qual é o alcance daquele...
+
+333
+00:18:23,864 --> 00:18:27,321
+Como você chama?
+Amortecedor Sônico?
+
+334
+00:18:29,492 --> 00:18:30,992
+Foi o que pensei.
+
+335
+00:18:41,671 --> 00:18:43,519
+É disso que estou falando.
+
+336
+00:18:43,520 --> 00:18:45,790
+Eu diria para você comer
+de boca fechada,
+
+337
+00:18:45,791 --> 00:18:48,477
+mas não sei
+como conseguiria isso.
+
+338
+00:18:48,478 --> 00:18:51,500
+5 camadas.
+Não há nada melhor.
+
+339
+00:18:52,148 --> 00:18:53,548
+Curtis.
+
+340
+00:18:54,277 --> 00:18:58,219
+Desvendei o quadro da Tina.
+
+341
+00:18:58,220 --> 00:19:00,339
+Esse é Sean Sonus.
+
+342
+00:19:00,340 --> 00:19:03,558
+Há 3 anos, ele fazia parte
+do submundo do crime,
+
+343
+00:19:03,559 --> 00:19:05,359
+além de alvo
+da investigação da Tina.
+
+344
+00:19:05,360 --> 00:19:08,998
+Curiosamente, Sonus desapareceu
+ao mesmo tempo que Tina.
+
+345
+00:19:08,999 --> 00:19:12,067
+É por isso que ela viaja
+pelo país. Está o seguindo.
+
+346
+00:19:12,068 --> 00:19:15,393
+Só não sei por que Sonus
+está em Hub City.
+
+347
+00:19:15,394 --> 00:19:16,876
+"Obiah Urrse."
+
+348
+00:19:16,877 --> 00:19:18,487
+Dor de barriga?
+Nenhuma surpresa.
+
+349
+00:19:18,488 --> 00:19:21,298
+Tobias Church. Ele comandava
+as gangues de Hub City,
+
+350
+00:19:21,299 --> 00:19:22,987
+como tentou
+fazer na nossa cidade.
+
+351
+00:19:22,988 --> 00:19:25,543
+Com a morte dele
+ficou um vazio no poder,
+
+352
+00:19:25,544 --> 00:19:28,435
+- principalmente nas drogas.
+- O que Sonus está vendendo?
+
+353
+00:19:28,436 --> 00:19:31,153
+Uma droga que nunca ouvi falar
+chamada Sly-Dee.
+
+354
+00:19:31,154 --> 00:19:33,856
+Chama-se slide, como
+o escorregador no parquinho,
+
+355
+00:19:33,857 --> 00:19:36,999
+pois vicia as crianças,
+jogando-as para drogas pesadas.
+
+356
+00:19:37,000 --> 00:19:40,765
+Se Boland está atrás dele,
+devemos deixar que ela resolva.
+
+357
+00:19:40,766 --> 00:19:43,914
+Não creio que vou dizer isso,
+mas concordo com o Rene.
+
+358
+00:19:43,915 --> 00:19:46,735
+- Também não acredito.
+- E tem mais isso.
+
+359
+00:19:46,736 --> 00:19:49,443
+O relatório da morte
+do parceiro dela.
+
+360
+00:19:49,444 --> 00:19:51,898
+Os homens do Sonus
+a torturaram por semanas,
+
+361
+00:19:51,899 --> 00:19:53,950
+para que,
+se ela não saísse da Polícia,
+
+362
+00:19:53,951 --> 00:19:56,512
+ela fosse afastada
+por trauma psicológico.
+
+363
+00:19:56,513 --> 00:19:58,519
+Por isso não podemos
+deixar ela sozinha.
+
+364
+00:19:58,520 --> 00:20:00,257
+Eu não conheci essa Laurel,
+
+365
+00:20:00,258 --> 00:20:02,887
+mas está se esforçando demais
+para manter a promessa.
+
+366
+00:20:02,888 --> 00:20:04,813
+Acho que vai além da Laurel.
+
+367
+00:20:04,814 --> 00:20:06,772
+Se Sonus é ligado
+aos homens do Church,
+
+368
+00:20:06,773 --> 00:20:08,607
+ele é mais perigoso
+do que pensamos.
+
+369
+00:20:08,608 --> 00:20:11,034
+Temos que achar Boland
+antes que ela se envolva
+
+370
+00:20:11,035 --> 00:20:13,107
+em algo
+que não consiga lidar.
+
+371
+00:20:18,300 --> 00:20:21,931
+- Qual é o plano?
+- Siga meu comando.
+
+372
+00:20:24,340 --> 00:20:28,441
+Vamos invadir uma fortaleza
+e você usa apenas um arco?
+
+373
+00:20:28,442 --> 00:20:32,400
+Usar o arco e flecha
+requer paciência e disciplina.
+
+374
+00:20:42,792 --> 00:20:44,494
+Aquele é Yurievich.
+
+375
+00:20:44,495 --> 00:20:47,127
+Vou cuidar dos guardas
+e o Yurievich...
+
+376
+00:20:47,128 --> 00:20:49,063
+Yurievich é meu.
+
+377
+00:20:54,604 --> 00:20:58,504
+- Diga que não dormiu aqui.
+- Eu não dormi.
+
+378
+00:20:58,505 --> 00:21:02,595
+Achei que a NSA não tinha dado
+nada. O arquivo foi apagado.
+
+379
+00:21:03,100 --> 00:21:06,023
+Então lembrei que nada
+na internet é de fato apagado.
+
+380
+00:21:06,024 --> 00:21:07,702
+Tudo deixa
+um registro digital,
+
+381
+00:21:07,703 --> 00:21:12,115
+e estou procurando na dark web
+tentando encontrar.
+
+382
+00:21:12,900 --> 00:21:15,358
+- O que é isso?
+- Uma mensagem de um terminal.
+
+383
+00:21:15,359 --> 00:21:18,906
+- De quem?
+- Não faço a menor ideia.
+
+384
+00:21:18,907 --> 00:21:23,274
+- E como entraram no sistema?
+- Não faço a menor ideia.
+
+385
+00:21:23,746 --> 00:21:27,048
+- Quem é Deusa Raposa Fantasma?
+- Sou eu.
+
+386
+00:21:27,049 --> 00:21:29,438
+Era meu apelido de hacker
+na faculdade.
+
+387
+00:21:29,439 --> 00:21:31,406
+Fiz más escolhas
+na faculdade.
+
+388
+00:21:31,407 --> 00:21:34,309
+- Como assim más escolhas?
+- Eu era uma hacktivist.
+
+389
+00:21:34,310 --> 00:21:37,294
+Uma ativista hacker.
+Deixei essa vida para trás.
+
+390
+00:21:37,295 --> 00:21:39,511
+Eu tinha um visual gótico
+que não era legal.
+
+391
+00:21:39,512 --> 00:21:41,788
+- Gótico?
+- Cabelo escuro,
+
+392
+00:21:41,789 --> 00:21:44,753
+Felicity sombria,
+derrubando empresas e governos.
+
+393
+00:21:44,754 --> 00:21:46,700
+Foi uma viagem
+não muito saudável.
+
+394
+00:21:48,625 --> 00:21:53,200
+- O que é "NVR"?
+- Na vida real.
+
+395
+00:21:53,201 --> 00:21:55,201
+<i>POSSO TE AJUDAR.
+ENCONTRO NA VIDA REAL?</i>
+
+396
+00:21:58,201 --> 00:22:01,342
+- Você sabe o que está fazendo?
+- Está brincando?
+
+397
+00:22:01,343 --> 00:22:04,439
+Hackeei as câmeras de trânsito
+da minha cidade em uma aposta.
+
+398
+00:22:04,440 --> 00:22:07,989
+Isso vai nos ajudar a achar
+a srta. Loucura Total?
+
+399
+00:22:07,990 --> 00:22:10,194
+Ou Sonus.
+De qualquer jeito...
+
+400
+00:22:10,195 --> 00:22:12,704
+De qualquer jeito,
+vamos ficar no meio
+
+401
+00:22:12,705 --> 00:22:16,541
+de um duelo entre uma maluca
+e um traficante psicopata.
+
+402
+00:22:16,542 --> 00:22:21,325
+Quando Oliver nos explicou
+o plano, o que ele nunca faz,
+
+403
+00:22:21,326 --> 00:22:24,056
+achei que iria concordar.
+
+404
+00:22:24,057 --> 00:22:26,221
+O que aconteceu
+com o última recruta maluca?
+
+405
+00:22:26,222 --> 00:22:29,371
+Evelin tinha problemas,
+mas o Rory também tinha,
+
+406
+00:22:29,372 --> 00:22:32,213
+e Oliver focou a vingança dele
+em algo positivo.
+
+407
+00:22:32,214 --> 00:22:35,619
+E no que se refere
+a casos malucos, você...
+
+408
+00:22:36,239 --> 00:22:38,860
+No que se refere
+a casos malucos, o quê?
+
+409
+00:22:38,861 --> 00:22:42,441
+Nada.
+Foi um ponto final.
+
+410
+00:22:42,442 --> 00:22:45,473
+No que se refere
+a caso de malucos, ponto final.
+
+411
+00:22:45,474 --> 00:22:49,793
+- Estava pensando em mim, não?
+- Foi com a melhor intenção.
+
+412
+00:22:50,887 --> 00:22:53,093
+- Acho que está certo.
+- Estou?
+
+413
+00:22:53,094 --> 00:22:54,887
+Sim.
+
+414
+00:22:54,888 --> 00:22:58,460
+Talvez esse time seja
+sobre achar segundas chances.
+
+415
+00:23:01,931 --> 00:23:05,081
+Pode me passar o adaptador
+e o tablet?
+
+416
+00:23:07,938 --> 00:23:09,438
+Obrigado.
+
+417
+00:23:14,244 --> 00:23:17,619
+- Consegui uma localização.
+- A maluca ou o traficante?
+
+418
+00:23:18,214 --> 00:23:21,415
+- Traficante psicopata.
+- Ótimo.
+
+419
+00:23:28,458 --> 00:23:29,958
+Vá checar.
+
+420
+00:23:38,768 --> 00:23:41,431
+Olá, Sean.
+Já faz algum tempo.
+
+421
+00:23:41,432 --> 00:23:43,339
+Detetive Boland.
+
+422
+00:23:44,307 --> 00:23:46,711
+Está um pouco fora
+da sua jurisdição, não acha?
+
+423
+00:23:46,712 --> 00:23:48,423
+Eu não sou uma policial
+esta noite.
+
+424
+00:23:59,098 --> 00:24:00,717
+Fique longe dela!
+
+425
+00:24:08,474 --> 00:24:10,396
+Filho da puta!
+
+426
+00:24:19,685 --> 00:24:21,343
+O que diabos foi isso?
+
+427
+00:24:21,887 --> 00:24:25,913
+Sonus também é
+um meta-humano.
+
+428
+00:24:33,541 --> 00:24:35,682
+- Como ela está?
+- Inconsciente.
+
+429
+00:24:35,683 --> 00:24:37,906
+Não sei você,
+mas minha cabeça está girando.
+
+430
+00:24:37,907 --> 00:24:40,412
+- É o poder meta dele.
+- Acho que pode controlar
+
+431
+00:24:40,413 --> 00:24:42,884
+ondas sonoras, explicaria
+como ele os desorientou
+
+432
+00:24:42,885 --> 00:24:44,811
+e neutralizou a Tina...
+
+433
+00:24:45,933 --> 00:24:47,744
+Os poderes deles
+estão relacionados.
+
+434
+00:24:47,745 --> 00:24:50,219
+- O que quer dizer?
+- Acho que tive uma ideia.
+
+435
+00:24:52,326 --> 00:24:54,456
+Não concordei
+com metas, cara.
+
+436
+00:24:54,457 --> 00:24:56,517
+Com ou sem poderes,
+Sonus gerencia
+
+437
+00:24:56,518 --> 00:24:59,103
+um comércio de drogas
+que vende para crianças.
+
+438
+00:24:59,104 --> 00:25:01,655
+Então não estamos mais
+recrutando essa maluca,
+
+439
+00:25:01,656 --> 00:25:04,380
+vamos pegar esse canalha?
+Estou dentro.
+
+440
+00:25:04,381 --> 00:25:06,217
+Mas precisamos
+encontrá-lo antes.
+
+441
+00:25:06,218 --> 00:25:07,868
+Eu sei onde ele estará.
+
+442
+00:25:09,297 --> 00:25:10,770
+Que horas são?
+
+443
+00:25:11,262 --> 00:25:14,040
+- 23h40.
+- Aonde vai?
+
+444
+00:25:14,041 --> 00:25:16,658
+Sonus vai receber
+um carregamento de slide.
+
+445
+00:25:16,659 --> 00:25:18,841
+- E você sabe onde.
+- E algo me diz
+
+446
+00:25:18,842 --> 00:25:20,285
+que você não vai
+nos contar.
+
+447
+00:25:21,532 --> 00:25:23,839
+Após 3 anos, o homem
+que matou meu parceiro
+
+448
+00:25:23,840 --> 00:25:26,113
+está na minha mira,
+ninguém me atrapalhará.
+
+449
+00:25:26,114 --> 00:25:27,669
+Se ela quer cometer suicídio,
+
+450
+00:25:27,670 --> 00:25:30,319
+deveríamos deixá-la.
+É um país livre.
+
+451
+00:25:34,235 --> 00:25:36,164
+Ele quase te matou
+da última vez.
+
+452
+00:25:36,937 --> 00:25:40,772
+Contra ele, sua habilidade
+é uma desvantagem.
+
+453
+00:25:42,393 --> 00:25:43,911
+Deixe-nos ajudar.
+
+454
+00:25:46,397 --> 00:25:48,053
+Obrigada por me salvar.
+
+455
+00:25:48,054 --> 00:25:50,519
+Boa viagem de volta
+para Star City, garotos.
+
+456
+00:25:54,562 --> 00:25:58,359
+Garanta que o carregamento
+chegue a tempo.
+
+457
+00:26:28,154 --> 00:26:31,479
+Por favor.
+O que você quiser.
+
+458
+00:26:31,480 --> 00:26:34,736
+Dinheiro. Garotas.
+É só dizer.
+
+459
+00:26:56,400 --> 00:26:58,003
+Yurievich está morto.
+
+460
+00:26:58,004 --> 00:27:00,923
+Bom.
+Agora podemos conversar.
+
+461
+00:27:05,859 --> 00:27:08,119
+<i>Fique atento,
+se algo der errado,</i>
+
+462
+00:27:08,120 --> 00:27:10,516
+<i>quero que pegue duro
+com esse cara.</i>
+
+463
+00:27:10,517 --> 00:27:12,878
+<i>- Paranoica?</i>
+- Você não conhece
+
+464
+00:27:12,879 --> 00:27:14,887
+a dark web como eu.
+
+465
+00:27:14,888 --> 00:27:17,668
+Esse pessoal não é conhecido
+por serem amigáveis.
+
+466
+00:27:18,129 --> 00:27:19,757
+Meu Deus!
+
+467
+00:27:19,758 --> 00:27:22,891
+A Deusa Raposa Fantasma
+aqui na vida real,
+
+468
+00:27:22,892 --> 00:27:25,361
+A verdadeira
+Deusa Raposa Fantasma.
+
+469
+00:27:25,362 --> 00:27:27,519
+Você é
+Kojo Marreta?
+
+470
+00:27:27,520 --> 00:27:30,518
+Eu sei, não é tão legal
+quanto Deusa Raposa Fantasma,
+
+471
+00:27:30,519 --> 00:27:33,482
+Mas só posso desejar
+ser tão legal quanto você,
+
+472
+00:27:33,483 --> 00:27:36,085
+o que faço.
+Quero dizer, desejo.
+
+473
+00:27:36,086 --> 00:27:38,619
+Você disse
+para pegar duro, certo?
+
+474
+00:27:42,513 --> 00:27:44,385
+É tão bom conhecê-la.
+
+475
+00:27:44,386 --> 00:27:46,419
+Quando vi seu tráfego
+nas darks nets,
+
+476
+00:27:46,420 --> 00:27:48,418
+não tive certeza
+se era mesmo você.
+
+477
+00:27:48,419 --> 00:27:52,399
+Você desapareceu por anos.
+
+478
+00:27:52,400 --> 00:27:54,658
+- Estive ocupada.
+- Eu sei, Palmer Tech.
+
+479
+00:27:54,659 --> 00:27:57,243
+Só imaginei que depois
+de ser demitida, você...
+
+480
+00:27:57,845 --> 00:27:59,746
+Imaginou o quê?
+
+481
+00:27:59,747 --> 00:28:01,252
+Não é da minha conta.
+
+482
+00:28:02,266 --> 00:28:03,897
+Certo, bem...
+
+483
+00:28:05,402 --> 00:28:08,231
+Eu me tornei uma hacker,
+uma hacktivista,
+
+484
+00:28:08,232 --> 00:28:12,448
+por sua causa, a GFG.
+
+485
+00:28:12,449 --> 00:28:15,053
+Li sobre seu hack
+no Departamento de Educação
+
+486
+00:28:15,054 --> 00:28:18,115
+e pensei:
+"Eu sei o que quero ser".
+
+487
+00:28:18,116 --> 00:28:20,955
+Mas então você parou
+e se tornou
+
+488
+00:28:20,956 --> 00:28:23,707
+apoiadora de corporações
+de tecnologia da informação...
+
+489
+00:28:25,603 --> 00:28:28,190
+Desculpe, nunca conheça
+seus heróis, entende?
+
+490
+00:28:28,191 --> 00:28:31,328
+Não trabalhei só
+com corporativismo, sabe?
+
+491
+00:28:31,329 --> 00:28:34,224
+Tenho feito um trabalho
+que é importante.
+
+492
+00:28:34,225 --> 00:28:37,052
+Se fosse,
+eu teria ouvido à respeito.
+
+493
+00:28:38,102 --> 00:28:40,077
+Desculpe,
+lá vou eu novamente.
+
+494
+00:28:41,221 --> 00:28:45,000
+Acho que fiquei animada
+quando te vi nas darks nets.
+
+495
+00:28:45,001 --> 00:28:48,329
+Foi como se você
+estivesse voltando, sabe?
+
+496
+00:28:48,330 --> 00:28:50,599
+A OG GFG voltou.
+
+497
+00:28:51,816 --> 00:28:53,818
+Eu estava procurando
+um arquivo da NSA
+
+498
+00:28:53,819 --> 00:28:55,337
+para exonerar um inocente.
+
+499
+00:28:55,338 --> 00:28:56,855
+- John Diggle.
+- Sim.
+
+500
+00:28:56,856 --> 00:28:58,893
+Minha organização
+faz o dever de casa.
+
+501
+00:28:58,894 --> 00:29:00,540
+Organização?
+
+502
+00:29:00,541 --> 00:29:02,819
+Um grupo hacktivista.
+Nos chamamos Helix.
+
+503
+00:29:02,820 --> 00:29:04,676
+Mês passado,
+hackeamos a Echelon.
+
+504
+00:29:04,677 --> 00:29:07,246
+O programa de compilação
+de informações da NSA?
+
+505
+00:29:07,247 --> 00:29:09,594
+Pegamos 8 Petabytes de dados,
+
+506
+00:29:09,595 --> 00:29:12,713
+incluindo tudo o que precisa
+para ajudar seu amigo.
+
+507
+00:29:13,821 --> 00:29:16,004
+Chamamos o cachê
+de dados de Pandora.
+
+508
+00:29:16,005 --> 00:29:19,006
+Com ele, podemos
+derrubar políticos,
+
+509
+00:29:19,007 --> 00:29:21,938
+falir empresas,
+iniciar revoluções.
+
+510
+00:29:21,939 --> 00:29:24,962
+Então não está me dando
+o arquivo só pelo John.
+
+511
+00:29:26,125 --> 00:29:28,761
+Você me inspirou a fazer
+do mundo um lugar melhor.
+
+512
+00:29:29,750 --> 00:29:32,250
+E agora pretendo
+inspirar você
+
+513
+00:29:33,296 --> 00:29:36,348
+a ser a hacktivista
+que costumava ser.
+
+514
+00:29:37,224 --> 00:29:39,614
+A grande Deusa Raposa Fantasma.
+
+515
+00:29:59,806 --> 00:30:02,749
+Deixe-me adivinhar. Está
+sem máscara, pois confia em mim,
+
+516
+00:30:02,750 --> 00:30:04,323
+então tenho
+que confiar em você.
+
+517
+00:30:04,324 --> 00:30:07,384
+Não. Só pensei que, se você
+não vai ouvir o Arqueiro Verde,
+
+518
+00:30:07,385 --> 00:30:09,546
+talvez ouça Oliver Queen.
+
+519
+00:30:10,129 --> 00:30:12,022
+Prazer em te conhecer.
+
+520
+00:30:12,023 --> 00:30:14,784
+Fiquei cinco anos
+no inferno,
+
+521
+00:30:14,785 --> 00:30:16,586
+parecido com o que
+aconteceu com você
+
+522
+00:30:16,587 --> 00:30:19,288
+quando estava infiltrada
+na organização de Sonus,
+
+523
+00:30:20,156 --> 00:30:23,184
+ou do que passou
+quando foi descoberta.
+
+524
+00:30:23,899 --> 00:30:27,035
+Você vê um pouco de você
+em mim?
+
+525
+00:30:27,036 --> 00:30:28,667
+É mais que isso.
+
+526
+00:30:29,470 --> 00:30:33,230
+Tem um homem em Star City
+que quer me convencer
+
+527
+00:30:33,231 --> 00:30:35,936
+que destruí as vidas
+de todos próximos a mim,
+
+528
+00:30:35,937 --> 00:30:37,553
+pois já passei da redenção.
+
+529
+00:30:37,554 --> 00:30:39,813
+Se me salvar,
+provará que ele está errado.
+
+530
+00:30:39,814 --> 00:30:41,256
+É seu problema.
+
+531
+00:30:41,257 --> 00:30:43,027
+Está certa,
+
+532
+00:30:43,850 --> 00:30:46,211
+mas se acha que pode pegar
+Sonus e seus homens,
+
+533
+00:30:46,212 --> 00:30:47,865
+está errada.
+
+534
+00:30:49,376 --> 00:30:51,048
+Deixe-nos ajudar.
+
+535
+00:30:51,527 --> 00:30:52,965
+Deixe-nos ajudar...
+
+536
+00:30:54,728 --> 00:30:56,910
+Depois, vamos embora.
+
+537
+00:31:09,950 --> 00:31:12,535
+Estou vendo 15 atiradores
+no telhado
+
+538
+00:31:12,536 --> 00:31:14,252
+e um helicóptero chegando.
+
+539
+00:31:17,759 --> 00:31:19,442
+Entendido.
+Estamos em posição.
+
+540
+00:31:21,350 --> 00:31:22,850
+O carregamento está atrasado.
+
+541
+00:31:22,851 --> 00:31:24,549
+Teve um problema
+em Bludhaven.
+
+542
+00:31:24,550 --> 00:31:26,083
+Tire 100 mil.
+
+543
+00:31:26,810 --> 00:31:29,350
+- Precisamos ir.
+- Seja paciente.
+
+544
+00:31:29,351 --> 00:31:31,813
+Ainda está
+}com a garantia do Curtis?
+
+545
+00:31:31,814 --> 00:31:35,258
+Estou. Ainda vou poder usar
+minhas armas, certo?
+
+546
+00:31:36,955 --> 00:31:38,448
+<i>O helicóptero vai pousar.</i>
+
+547
+00:31:38,922 --> 00:31:40,552
+Vão.
+
+548
+00:31:47,812 --> 00:31:49,421
+Mate todos!
+
+549
+00:32:05,672 --> 00:32:07,872
+Não tão rápido, lixo.
+
+550
+00:32:07,873 --> 00:32:10,095
+Isso!
+
+551
+00:32:16,850 --> 00:32:19,580
+- Eles têm suporte aéreo.
+- Cuido disso. Cão Raivoso...
+
+552
+00:32:19,581 --> 00:32:21,077
+Cubro ela.
+
+553
+00:33:09,470 --> 00:33:11,332
+Acho que devia estar
+lisonjeado.
+
+554
+00:33:12,155 --> 00:33:15,234
+E pensar que você ficou pensando
+em mim em todos esses anos.
+
+555
+00:33:17,841 --> 00:33:19,991
+O que está esperando?
+
+556
+00:33:19,992 --> 00:33:21,449
+Tina!
+
+557
+00:33:22,775 --> 00:33:24,322
+Não faça isso.
+
+558
+00:33:24,855 --> 00:33:26,966
+Você é melhor que isso.
+
+559
+00:33:26,967 --> 00:33:28,700
+Você sabe que não sou.
+
+560
+00:33:29,311 --> 00:33:31,184
+Se fossemos parecidos
+como você disse,
+
+561
+00:33:31,185 --> 00:33:32,700
+sabemos que você o mataria.
+
+562
+00:33:32,701 --> 00:33:34,138
+Está certa.
+
+563
+00:33:35,511 --> 00:33:37,364
+Talvez seja tarde demais
+para mim.
+
+564
+00:33:39,156 --> 00:33:41,344
+Talvez eu não mereça
+uma segunda chance.
+
+565
+00:33:43,709 --> 00:33:46,297
+Mas você não tem que ir
+por esse caminho.
+
+566
+00:33:49,449 --> 00:33:51,915
+Tina, o que Vince
+iria querer que fizesse?
+
+567
+00:34:02,054 --> 00:34:03,600
+Isso.
+
+568
+00:34:14,741 --> 00:34:16,447
+Deixe-a ir.
+
+569
+00:34:27,806 --> 00:34:29,227
+Cara.
+
+570
+00:34:29,670 --> 00:34:31,729
+Ia perguntar como foi
+com a nova Canário,
+
+571
+00:34:31,730 --> 00:34:34,910
+mas posso dizer
+pela sua cara.
+
+572
+00:34:36,453 --> 00:34:38,415
+Bem, pelo menos,
+tenho boas notícias.
+
+573
+00:34:38,416 --> 00:34:40,186
+Estou à procura
+de boas notícias.
+
+574
+00:34:41,830 --> 00:34:44,116
+Tenho tudo que precisamos
+para inocentar John.
+
+575
+00:34:44,680 --> 00:34:46,604
+Isso é incrível.
+Como conseguiu isso?
+
+576
+00:34:48,649 --> 00:34:50,276
+História longa.
+
+577
+00:34:50,733 --> 00:34:53,867
+Tem algo que não está
+me contando?
+
+578
+00:34:53,868 --> 00:34:57,188
+Sei que não estamos acostumados
+com boas notícias,
+
+579
+00:34:57,189 --> 00:34:59,692
+mas isso é o que parece.
+
+580
+00:35:01,112 --> 00:35:04,165
+Vou vazar
+o arquivo do Walker.
+
+581
+00:35:04,831 --> 00:35:06,897
+Por que não conta ao John
+a boa nova?
+
+582
+00:35:39,473 --> 00:35:40,969
+O que está havendo?
+
+583
+00:35:40,970 --> 00:35:44,225
+- Você diz a ele.
+- Contar-me o quê?
+
+584
+00:35:44,226 --> 00:35:47,473
+Nesta noite, recebi um arquivo
+da NSA contra Walker
+
+585
+00:35:47,474 --> 00:35:49,161
+de uma fonte anônima.
+
+586
+00:35:49,162 --> 00:35:51,018
+- Anônima?
+- Por causa desse arquivo,
+
+587
+00:35:51,019 --> 00:35:54,449
+fui à Justiça Militar e consegui
+sua liberação sob fiança.
+
+588
+00:35:54,450 --> 00:35:57,485
+- Espere, o quê?
+- Pedi arquivamento do caso,
+
+589
+00:35:57,486 --> 00:36:00,899
+que é o que vai acontecer
+se isso for a julgamento
+
+590
+00:36:00,900 --> 00:36:02,442
+O que isto significa?
+
+591
+00:36:02,443 --> 00:36:04,747
+Significa
+que pode ir para casa,
+
+592
+00:36:04,748 --> 00:36:06,607
+abraçar sua esposa
+e seu filho.
+
+593
+00:36:17,119 --> 00:36:18,838
+Você queria isso,
+
+594
+00:36:20,039 --> 00:36:22,090
+arrumar problemas
+com Yurievich.
+
+595
+00:36:22,091 --> 00:36:23,990
+Sim.
+
+596
+00:36:25,473 --> 00:36:27,626
+Para ver o que me tornei?
+
+597
+00:36:27,627 --> 00:36:29,547
+Para lembrá-lo.
+
+598
+00:36:29,548 --> 00:36:31,754
+Por que passar
+por todo esse trabalho?
+
+599
+00:36:32,711 --> 00:36:35,330
+Por que se importa?
+Você nem me conhece.
+
+600
+00:36:35,331 --> 00:36:37,358
+Pensei que tinha provado
+o contrário.
+
+601
+00:36:39,289 --> 00:36:43,717
+General Shreve, Baron Reiter,
+Konstantin Kovar.
+
+602
+00:36:43,718 --> 00:36:45,725
+Você está procurando
+novas lutas,
+
+603
+00:36:45,726 --> 00:36:48,871
+quando sua real luta
+está a sua frente.
+
+604
+00:36:48,872 --> 00:36:51,558
+Seu pai literalmente
+escreveu para você
+
+605
+00:36:51,559 --> 00:36:55,415
+uma lista de todos os Yureviches
+e Kovars em Starling City.
+
+606
+00:36:55,416 --> 00:36:57,667
+Ele me disse
+que deixou uma mensagem.
+
+607
+00:36:57,668 --> 00:36:59,558
+E você
+não voltou para casa.
+
+608
+00:36:59,559 --> 00:37:02,129
+Por que você nega
+o desejo do seu pai para você?
+
+609
+00:37:02,130 --> 00:37:03,544
+Você viu a razão
+esta noite.
+
+610
+00:37:03,545 --> 00:37:05,983
+Não sou o homem
+que meu pai criou!
+
+611
+00:37:07,601 --> 00:37:09,062
+Não mais.
+
+612
+00:37:09,063 --> 00:37:12,303
+Você tem medo
+do que aconteceu com você,
+
+613
+00:37:12,304 --> 00:37:15,365
+do que você se tornou
+e está fugindo disso.
+
+614
+00:37:20,851 --> 00:37:24,100
+- Como sabe disso tudo?
+- Porque eu estive lá.
+
+615
+00:37:25,642 --> 00:37:28,341
+E posso ajudá-lo
+a encontrar o caminho de volta.
+
+616
+00:37:29,554 --> 00:37:31,802
+Você pensa
+que é um monstro.
+
+617
+00:37:33,391 --> 00:37:34,944
+Não.
+
+618
+00:37:36,662 --> 00:37:38,828
+Eu sou um monstro.
+
+619
+00:37:44,731 --> 00:37:47,866
+Há um monstro
+dentro de você? Sim.
+
+620
+00:37:47,867 --> 00:37:50,313
+Mas não é você.
+
+621
+00:37:50,314 --> 00:37:52,270
+Não vejo diferença.
+
+622
+00:37:52,271 --> 00:37:55,259
+Não,
+você precisa criar uma.
+
+623
+00:37:59,205 --> 00:38:01,953
+Você precisa dar
+uma identidade ao monstro.
+
+624
+00:38:02,512 --> 00:38:05,344
+Somente quando o monstro
+se tornar outra pessoa,
+
+625
+00:38:05,345 --> 00:38:09,367
+outra coisa,
+
+626
+00:38:09,368 --> 00:38:11,350
+você estará livre
+para ser Oliver Queen.
+
+627
+00:38:25,922 --> 00:38:27,808
+Não sei se estou pronto.
+
+628
+00:38:28,659 --> 00:38:30,872
+Vou ajudá-lo
+a ficar pronto.
+
+629
+00:38:44,257 --> 00:38:48,080
+Sr. Prefeito, com licença,
+tem alguém aqui para vê-lo.
+
+630
+00:38:48,081 --> 00:38:51,984
+- O nome dela é Tina Boland.
+- Mande-a entrar, por favor.
+
+631
+00:38:58,016 --> 00:39:01,735
+Prefeito Queen.
+Impressionante.
+
+632
+00:39:03,369 --> 00:39:05,237
+Talvez devesse ter
+começado com isso.
+
+633
+00:39:05,238 --> 00:39:07,513
+Tenho que admitir,
+
+634
+00:39:08,907 --> 00:39:11,055
+não pensei
+que a veria novamente.
+
+635
+00:39:11,056 --> 00:39:12,594
+Sim, nem eu.
+
+636
+00:39:15,825 --> 00:39:20,264
+Pensei
+que me sentiria melhor
+
+637
+00:39:20,265 --> 00:39:23,245
+com a morte de Sonus.
+
+638
+00:39:23,914 --> 00:39:28,059
+Pensei
+que me sentiria livre.
+
+639
+00:39:28,060 --> 00:39:29,842
+Gostaria
+que funcionasse assim.
+
+640
+00:39:37,064 --> 00:39:38,947
+Como você faz isso?
+
+641
+00:39:39,963 --> 00:39:43,194
+Como você vive
+com tanta dor?
+
+642
+00:39:43,195 --> 00:39:45,608
+Ainda estou
+trabalhando nisso.
+
+643
+00:39:47,089 --> 00:39:49,876
+Mas posso dizer
+que ajuda não estar sozinho.
+
+644
+00:39:51,616 --> 00:39:53,531
+É por isso que está aqui,
+não é?
+
+645
+00:39:56,748 --> 00:39:58,841
+Sim, é por isso.
+
+646
+00:40:01,711 --> 00:40:04,567
+No telhado, você perguntou
+o que Vince iria querer.
+
+647
+00:40:06,931 --> 00:40:08,996
+Éramos mais que parceiros.
+
+648
+00:40:11,098 --> 00:40:12,809
+Éramos amantes.
+
+649
+00:40:14,331 --> 00:40:17,096
+Eu odiava Sonus
+por matar o Vince.
+
+650
+00:40:18,796 --> 00:40:23,729
+Mas me odiava mais
+por não conseguir detê-lo.
+
+651
+00:40:23,730 --> 00:40:26,845
+Rene, o cara com a máscara
+de hóquei
+
+652
+00:40:28,347 --> 00:40:31,030
+disse ao outro cara
+que estava conosco, Curtis,
+
+653
+00:40:32,465 --> 00:40:36,561
+que essa equipe
+é sobre segundas chances.
+
+654
+00:40:37,518 --> 00:40:39,807
+Você disse
+que não temos segundas chances.
+
+655
+00:40:39,808 --> 00:40:41,386
+Talvez eu estivesse errado.
+
+656
+00:40:43,628 --> 00:40:45,621
+Talvez você seja
+minha segunda chance.
+
+657
+00:40:48,295 --> 00:40:50,287
+É muito peso
+sobre meus ombros.
+
+658
+00:40:50,288 --> 00:40:52,700
+Tina, algo me diz
+que você consegue.
+
+659
+00:40:57,837 --> 00:40:59,291
+Então, sobre esse nome.
+
+660
+00:40:59,292 --> 00:41:01,990
+Tina Boland
+era meu disfarce oficial
+
+661
+00:41:01,991 --> 00:41:03,467
+para o trabalho infiltrado.
+
+662
+00:41:03,468 --> 00:41:05,166
+Era para proteger
+minha família.
+
+663
+00:41:05,855 --> 00:41:08,088
+Meu verdadeiro nome
+é Dinah,
+
+664
+00:41:09,232 --> 00:41:10,816
+Dinah Drake.
+
+665
+00:41:14,594 --> 00:41:16,033
+Dinah?
+
+666
+00:41:16,034 --> 00:41:18,313
+Esse nome
+significa algo para você?
+
+667
+00:41:18,314 --> 00:41:20,176
+Eu tinha uma amiga
+chamada Dinah.
+
+668
+00:41:21,747 --> 00:41:24,182
+Ela é a razão
+pela qual te procurei.
+
+669
+00:41:26,499 --> 00:41:28,806
+O que você acha
+que ela pensaria disso tudo?
+
+670
+00:41:30,878 --> 00:41:33,284
+Acho que ela estaria
+orgulhosa de nós.
+
+671
+00:41:35,886 --> 00:41:37,972
+insubs.com
+
