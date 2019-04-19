@@ -1,0 +1,2881 @@
+﻿1
+00:00:06,006 --> 00:00:10,928
+UMA SÉRIE ORIGINAL NETFLIX
+
+2
+00:00:14,431 --> 00:00:17,434
+<i>Eles estão vindo.</i>
+
+3
+00:00:21,438 --> 00:00:23,440
+<i>Átomo a átomo...</i>
+
+4
+00:00:24,775 --> 00:00:27,110
+<i>Eles nos cercarão...</i>
+
+5
+00:00:28,820 --> 00:00:32,658
+e levarão tudo que nós somos...
+
+6
+00:00:32,908 --> 00:00:34,785
+Existe uma maneira
+
+7
+00:00:34,868 --> 00:00:36,787
+de enfrentar esta ameaça.
+
+8
+00:00:37,913 --> 00:00:39,206
+É reunir
+
+9
+00:00:39,289 --> 00:00:42,209
+as vinte e quatro casas em guerra
+
+10
+00:00:42,292 --> 00:00:45,254
+do nosso próprio império.
+
+11
+00:00:46,588 --> 00:00:49,716
+Nós esquecemos o Inesquecível.
+
+12
+00:00:50,801 --> 00:00:53,846
+O último a unificar nossas tribos,
+
+13
+00:00:53,929 --> 00:00:56,139
+Kahless.
+
+14
+00:00:56,807 --> 00:00:59,560
+Juntos sob um único credo,
+
+15
+00:01:00,394 --> 00:01:03,105
+permanecer Klingon.
+
+16
+00:01:06,108 --> 00:01:09,570
+É por isso
+
+17
+00:01:10,195 --> 00:01:12,781
+que nós acenderemos nosso farol hoje.
+
+18
+00:01:13,949 --> 00:01:15,909
+Para reunir
+
+19
+00:01:15,993 --> 00:01:19,454
+nosso povo.
+
+20
+00:01:20,038 --> 00:01:22,416
+Para unir forças contra aqueles
+
+21
+00:01:22,499 --> 00:01:26,170
+cuja saudação fatal é...
+
+22
+00:01:28,130 --> 00:01:31,383
+"Nós viemos em paz."
+
+23
+00:01:37,347 --> 00:01:39,474
+Nós viemos em paz.
+Por isso estamos aqui.
+
+24
+00:01:39,558 --> 00:01:41,226
+Não era a ideia da Frota Estelar?
+
+25
+00:01:41,476 --> 00:01:43,353
+Ei, eu te ensinei isso.
+
+26
+00:01:43,437 --> 00:01:44,605
+Não confia em mim?
+
+27
+00:01:44,688 --> 00:01:46,440
+Confio minha vida a você, comandante.
+
+28
+00:01:46,523 --> 00:01:48,984
+Mas isso não muda o fato
+de que está perdida.
+
+29
+00:01:49,943 --> 00:01:50,986
+Muito perdida.
+
+30
+00:01:52,237 --> 00:01:54,072
+Tecnicamente, estaríamos perdidas.
+
+31
+00:01:55,157 --> 00:01:57,993
+Quanto tempo
+até aquela tempestade nos atingir?
+
+32
+00:01:58,076 --> 00:02:00,954
+Eu estimo uma hora,
+17 minutos e 22 segundos.
+
+33
+00:02:02,039 --> 00:02:04,541
+Por isso eu me certifiquei
+de que não nos perderíamos.
+
+34
+00:02:05,834 --> 00:02:08,170
+O mapa diz que o poço é por aqui, Capitão.
+
+35
+00:02:11,381 --> 00:02:13,300
+A seca vai durar 89 anos.
+
+36
+00:02:13,884 --> 00:02:16,720
+Os Crepusculanos correm risco
+de serem extintos.
+
+37
+00:02:17,429 --> 00:02:18,680
+Vê aquelas bolsas?
+
+38
+00:02:19,097 --> 00:02:20,557
+Elas são suas proles.
+
+39
+00:02:20,641 --> 00:02:24,061
+Eles sobreviveram aqui
+por mais de mil anos, Michael.
+
+40
+00:02:24,144 --> 00:02:27,689
+Se não fizermos algo,
+eles não viverão nem mil horas.
+
+41
+00:02:27,773 --> 00:02:30,275
+A radiação de um acidente
+em uma perfuração de meteoro
+
+42
+00:02:30,359 --> 00:02:31,777
+secou o lençol freático.
+
+43
+00:02:31,860 --> 00:02:34,321
+Se conseguirmos entrar e sair
+sem fazer contato,
+
+44
+00:02:34,404 --> 00:02:36,031
+podemos evitar a Ordem Geral Um.
+
+45
+00:02:36,114 --> 00:02:38,283
+E ali está o poço.
+
+46
+00:02:38,992 --> 00:02:40,744
+Você tinha razão.
+
+47
+00:02:41,495 --> 00:02:42,788
+Precisa ter fé.
+
+48
+00:02:43,205 --> 00:02:44,373
+Eu nunca tive dúvidas.
+
+49
+00:02:45,541 --> 00:02:47,543
+Diga-me como
+atravessar esta rocha.
+
+50
+00:02:47,626 --> 00:02:50,587
+Explosão de campo de 0,7 segundos
+a nível 13,5.
+
+51
+00:03:19,533 --> 00:03:22,286
+Georgiou para Shenzhou,
+dois para transporte.
+
+52
+00:03:26,540 --> 00:03:28,917
+A tempestade é mais rápida
+do que eu pensava.
+
+53
+00:03:29,001 --> 00:03:30,711
+A nave não irá captar os sinais.
+
+54
+00:03:30,794 --> 00:03:33,255
+A não ser que consigamos contatar
+o Tenente Saru,
+
+55
+00:03:33,338 --> 00:03:35,174
+vamos ficar presas aqui até terminar.
+
+56
+00:03:35,257 --> 00:03:36,258
+Vamos dar um passeio.
+
+57
+00:04:08,999 --> 00:04:11,543
+Siga os meus passos, Michael.
+Linhas claras.
+
+58
+00:04:12,044 --> 00:04:16,131
+-Por quê? Capitão, aonde vamos?
+-É sua vez de confiar em mim, Imediato.
+
+59
+00:04:16,465 --> 00:04:17,966
+Estamos perdidas.
+
+60
+00:04:18,509 --> 00:04:21,053
+Somos pequenas demais
+para sermos vistas a olho nu.
+
+61
+00:04:21,136 --> 00:04:22,804
+E não dá para estabelecer uma rota
+sem uma estrela.
+
+62
+00:04:24,097 --> 00:04:26,183
+É prudente nos afastarmos da aldeia?
+
+63
+00:04:26,266 --> 00:04:30,229
+É difícil de imaginar que você serviu
+sete anos sob meu comando.
+
+64
+00:04:30,771 --> 00:04:34,566
+Acho que é hora de pensarmos
+em você ter seu próprio comando.
+
+65
+00:04:38,362 --> 00:04:39,780
+Sou grata, capitão.
+
+66
+00:04:42,449 --> 00:04:45,661
+Mas eu seria mais grata
+se achasse que temos alguma chance
+
+67
+00:04:45,744 --> 00:04:47,371
+de voltarmos à nave.
+
+68
+00:04:47,829 --> 00:04:49,581
+Apenas continue andando, Michael.
+
+69
+00:04:50,082 --> 00:04:53,293
+O que você faria
+se ficasse presa aqui por 89 anos?
+
+70
+00:04:53,377 --> 00:04:56,213
+Um cenário provável,
+a menos que morramos aqui no deserto.
+
+71
+00:04:56,296 --> 00:04:57,798
+Mas digamos que sobreviva.
+
+72
+00:04:59,091 --> 00:05:01,927
+Como xenoantropóloga,
+eu poderia fazer contato com os nativos,
+
+73
+00:05:02,177 --> 00:05:05,222
+aprender sua cultura,
+tentar me encaixar, se possível.
+
+74
+00:05:06,056 --> 00:05:09,560
+E você? O que vai fazer
+se ficarmos presas aqui por 89 anos?
+
+75
+00:05:09,643 --> 00:05:11,520
+Essa é fácil. Eu escaparia.
+
+76
+00:05:12,938 --> 00:05:14,314
+Estas são nossas pegadas.
+
+77
+00:05:14,857 --> 00:05:18,151
+-Nós formamos um círculo.
+-Não exatamente um círculo.
+
+78
+00:05:38,881 --> 00:05:40,090
+Como nos encontraram?
+
+79
+00:05:41,049 --> 00:05:42,259
+Demarquei uma estrela.
+
+80
+00:07:41,920 --> 00:07:45,048
+<i>Diário da primeiro oficial,</i>
+<i>data estelar 1207.3.</i>
+
+81
+00:07:45,340 --> 00:07:49,595
+<i>Na Terra, é 11 de maio de 2256,</i>
+<i>um domingo.</i>
+
+82
+00:07:51,346 --> 00:07:52,806
+<i>A tripulação da </i>USS Shenzhou
+
+83
+00:07:52,890 --> 00:07:54,683
+<i>foi chamada ao limite</i>
+<i>do espaço da Federação</i>
+
+84
+00:07:54,766 --> 00:07:58,103
+<i>para investigar estragos causados</i>
+<i>a um retransmissor interestelar.</i>
+
+85
+00:07:58,854 --> 00:08:01,273
+<i>Os vestígios no casco são inconclusivos.</i>
+
+86
+00:08:01,690 --> 00:08:03,192
+<i>Foram causados por asteroide?</i>
+
+87
+00:08:03,358 --> 00:08:07,029
+<i>Ou foi deliberadamente destruído para</i>
+<i>limitar a comunicação da Frota Estelar?</i>
+
+88
+00:08:07,654 --> 00:08:09,281
+<i>E, nesse caso, por quem?</i>
+
+89
+00:08:10,616 --> 00:08:13,577
+<i>Apesar dos riscos de nossa missão,</i>
+<i>eu continuo otimista.</i>
+
+90
+00:08:14,036 --> 00:08:16,622
+<i>É difícil não ser, diante de tal beleza.</i>
+
+91
+00:08:17,497 --> 00:08:20,083
+<i>Neste caso, um sistema estelar binário.</i>
+
+92
+00:08:20,667 --> 00:08:22,252
+<i>Ao redor desses dois sóis,</i>
+
+93
+00:08:22,336 --> 00:08:25,339
+<i>gelo, poeira e gases colidem,</i>
+<i>para formar os planetas</i>
+
+94
+00:08:25,422 --> 00:08:27,674
+<i>que gerações futuras chamarão de lar.</i>
+
+95
+00:08:28,175 --> 00:08:32,679
+<i>Uma lembrança de que toda vida</i>
+<i>nasce do caos e da destruição.</i>
+
+96
+00:08:33,180 --> 00:08:34,389
+Com base nas leituras,
+
+97
+00:08:34,473 --> 00:08:37,559
+o retransmissor não aparenta
+ter sido danificado naturalmente.
+
+98
+00:08:38,060 --> 00:08:39,686
+Não gosto da aparência disso.
+
+99
+00:08:40,020 --> 00:08:41,063
+Continue olhando.
+
+100
+00:08:41,438 --> 00:08:44,024
+Comentário figurativo.
+Estou manifestando preocupação.
+
+101
+00:08:44,107 --> 00:08:46,568
+Termine sua análise
+para poder expressar fatos.
+
+102
+00:08:47,277 --> 00:08:48,737
+A Ponte de Comando é sua, Sr. Saru.
+
+103
+00:08:49,696 --> 00:08:51,073
+Sim, comandante.
+
+104
+00:08:53,825 --> 00:08:54,701
+Sim, imediato?
+
+105
+00:08:55,160 --> 00:08:57,412
+Seu cientista-chefe está preocupado.
+
+106
+00:08:57,496 --> 00:09:00,749
+Algo danificou nosso retransmissor.
+Saru acha que foi mal-intencionado.
+
+107
+00:09:00,832 --> 00:09:03,627
+Saru é Kelpien.
+Ele acha que tudo é mal-intencionado.
+
+108
+00:09:04,419 --> 00:09:07,089
+O que você acha?
+Alguma coisa cutucando por aí?
+
+109
+00:09:07,172 --> 00:09:09,508
+Pelo que tudo indica, nada inteligente.
+
+110
+00:09:10,300 --> 00:09:12,928
+-Mas?
+-A manutenção da Tropa Estelar é conhecida
+
+111
+00:09:13,011 --> 00:09:13,971
+por ser exemplar.
+
+112
+00:09:14,096 --> 00:09:17,641
+Quando um retransmissor é danificado,
+a Federação envia uma nave para consertar.
+
+113
+00:09:18,058 --> 00:09:22,563
+-Alguém está tentando chamar a atenção?
+-Se estão tentando, conseguiram.
+
+114
+00:09:24,982 --> 00:09:26,942
+Tenente Saru, o que temos?
+
+115
+00:09:28,360 --> 00:09:31,113
+Estou nos mantendo
+na distância máxima de varredura
+
+116
+00:09:31,196 --> 00:09:33,156
+caso haja alguma ameaça.
+
+117
+00:09:33,240 --> 00:09:35,784
+Sim, a imediato me disse
+que você suspeita de sabotagem.
+
+118
+00:09:35,993 --> 00:09:39,705
+Apesar da necessidade da primeiro oficial
+de desprezar minhas ideias.
+
+119
+00:09:39,788 --> 00:09:42,875
+-Ela aparentemente concorda com você.
+-Mesmo?
+
+120
+00:09:42,958 --> 00:09:43,917
+Também estou chocada.
+
+121
+00:09:44,459 --> 00:09:47,379
+Alferes Connor,
+consenso entre meus oficiais superiores.
+
+122
+00:09:47,462 --> 00:09:49,715
+-Anote a data e hora.
+-Anotado, capitão.
+
+123
+00:09:50,257 --> 00:09:55,012
+-Essa quantidade de sarcasmo é necessária?
+-Necessária, não. Mas eu gosto.
+
+124
+00:09:55,971 --> 00:09:57,931
+Há algo mais, lá fora.
+
+125
+00:09:58,015 --> 00:10:00,142
+-O que você encontrou?
+-Recalibrando.
+
+126
+00:10:03,937 --> 00:10:06,899
+Varreduras desviadas.
+Não consigo localizar a fonte.
+
+127
+00:10:06,982 --> 00:10:10,194
+Então, há algo lá fora,
+mas ninguém sabe dizer onde ou o quê.
+
+128
+00:10:10,986 --> 00:10:12,321
+Espere, eu consegui.
+
+129
+00:10:14,865 --> 00:10:17,868
+-Não. Recalibrando.
+-A qualquer momento, Sr. Saru.
+
+130
+00:10:17,951 --> 00:10:18,785
+Consegui.
+
+131
+00:10:21,163 --> 00:10:21,997
+Ampliar.
+
+132
+00:10:22,372 --> 00:10:24,207
+Foi isso que danificou
+nosso retransmissor?
+
+133
+00:10:24,791 --> 00:10:25,959
+O que é isso?
+
+134
+00:10:27,711 --> 00:10:29,338
+Objeto de origem desconhecida.
+
+135
+00:10:29,963 --> 00:10:33,300
+-Vamos ser mais específicos.
+-Não consigo focalizar.
+
+136
+00:10:33,383 --> 00:10:34,218
+Imediato?
+
+137
+00:10:35,469 --> 00:10:39,431
+A distância é de 2.000 km,
+orientação 358, ponto 269.
+
+138
+00:10:39,515 --> 00:10:42,768
+Aproximadamente 150 metros de comprimento,
+escondido nesse disco de acreção.
+
+139
+00:10:42,851 --> 00:10:46,021
+Quase diretamente abaixo de nós.
+Em um ponto cego do sensor.
+
+140
+00:10:46,813 --> 00:10:50,150
+Um tipo de campo de dispersão está
+impedindo a nave de traduzir a imagem.
+
+141
+00:10:50,234 --> 00:10:52,194
+Como cientista-chefe
+
+142
+00:10:52,653 --> 00:10:55,989
+eu posso fornecer uma análise
+bem mais concreta e aprofundada
+
+143
+00:10:56,073 --> 00:10:59,243
+do que simplesmente ler dados
+do monitor. Mas...
+
+144
+00:10:59,326 --> 00:11:02,287
+Considerando que está confundindo
+nossos processadores ópticos,
+
+145
+00:11:02,371 --> 00:11:04,289
+como vamos poder vê-lo?
+
+146
+00:11:09,002 --> 00:11:10,170
+Ideias, imediato?
+
+147
+00:11:11,213 --> 00:11:14,341
+Com tão poucos dados,
+eu prefiro não especular.
+
+148
+00:11:14,925 --> 00:11:15,759
+Pois eu vou.
+
+149
+00:11:16,009 --> 00:11:16,844
+Está à espreita.
+
+150
+00:11:17,261 --> 00:11:19,638
+O campo de dispersão sugere intenção.
+
+151
+00:11:19,721 --> 00:11:22,724
+Vemos algo que não entendemos
+e tiramos conclusão?
+
+152
+00:11:22,808 --> 00:11:23,684
+Talvez esteja perdido.
+
+153
+00:11:23,767 --> 00:11:26,770
+-Talvez tenha medo de ser visto por nós.
+-Se escondendo?
+
+154
+00:11:27,437 --> 00:11:29,022
+Talvez esperando ser encontrado.
+
+155
+00:11:30,524 --> 00:11:31,859
+Aqui estamos especulando.
+
+156
+00:11:33,277 --> 00:11:37,447
+Eu recomendo fortemente
+deixarmos isso em paz.
+
+157
+00:11:37,948 --> 00:11:39,825
+Não sei se temos muita escolha.
+
+158
+00:11:40,325 --> 00:11:41,577
+Não podemos rastreá-lo.
+
+159
+00:11:41,660 --> 00:11:44,872
+E não temos uma nave manobrável
+o suficiente para navegar o anel.
+
+160
+00:11:44,955 --> 00:11:48,375
+Eu irei. Só preciso de um propulsor.
+
+161
+00:11:48,458 --> 00:11:51,295
+Com a radiação
+emitida desses binários,
+
+162
+00:11:51,378 --> 00:11:55,257
+ela terá 20 minutos até o DNA dela
+começar a se soltar como macarrões.
+
+163
+00:11:55,340 --> 00:11:56,383
+"Como macarrões".
+
+164
+00:11:56,466 --> 00:11:58,886
+Eu voltarei em 19. Uma olhada.
+
+165
+00:11:58,969 --> 00:12:01,680
+Um desperdício de recursos da nave.
+O que ganhamos?
+
+166
+00:12:01,763 --> 00:12:05,184
+Ter medo de tudo
+significa que não se aprende nada.
+
+167
+00:12:05,267 --> 00:12:07,895
+Não há oportunidade para descobrir,
+para explorar.
+
+168
+00:12:07,978 --> 00:12:11,315
+E pensei que estávamos aqui
+para inspecionar um retransmissor.
+
+169
+00:12:11,398 --> 00:12:12,691
+Vocês dois estão certos.
+
+170
+00:12:13,525 --> 00:12:15,652
+-Saru, vá com ela.
+-Capitão?
+
+171
+00:12:15,736 --> 00:12:18,864
+Melhor manter variáveis ao mínimo.
+Não quero pôr meu colega em risco.
+
+172
+00:12:18,947 --> 00:12:22,451
+E você, Sr. Saru? Igualmente feliz
+em não ser colocado em risco?
+
+173
+00:12:22,533 --> 00:12:24,535
+Em qualquer ocasião, capitão.
+
+174
+00:12:26,622 --> 00:12:30,417
+Você percebe que quando você alcançar
+aquele campo de dispersão,
+
+175
+00:12:30,501 --> 00:12:32,753
+você pode ser cortada das comunicações.
+
+176
+00:12:32,836 --> 00:12:34,671
+Chegamos até aqui, capitão.
+
+177
+00:12:35,380 --> 00:12:39,051
+Seria irresponsável
+deixar o aquilo sem inspeção.
+
+178
+00:12:39,927 --> 00:12:41,178
+Apenas uma olhada.
+
+179
+00:12:43,639 --> 00:12:44,556
+Apenas uma olhada.
+
+180
+00:12:46,475 --> 00:12:49,311
+<i>Iniciando sequência</i>
+<i>de despressurização da câmara.</i>
+
+181
+00:12:51,772 --> 00:12:53,941
+<i>Comandante Burnham,</i>
+<i>aqui é o Alferes Danby Connor.</i>
+
+182
+00:12:54,483 --> 00:12:57,569
+Em nome da Capitão Georgiou,
+e do <i>USS Shenzhou</i>,
+
+183
+00:12:57,653 --> 00:12:59,905
+gostaríamos de recebê-la no voo 819,
+
+184
+00:12:59,988 --> 00:13:02,324
+destino sem escalas
+ao objeto desconhecido.
+
+185
+00:13:02,407 --> 00:13:05,369
+<i>A temperatura é de refrescantes</i>
+<i>260 graus Celsius negativos.</i>
+
+186
+00:13:05,452 --> 00:13:08,497
+<i>Prevemos pequenos detritos,</i>
+<i>mas antecipamos um trajeto suave.</i>
+
+187
+00:13:16,964 --> 00:13:18,423
+Aqui é a Comandante Burnham.
+
+188
+00:13:19,049 --> 00:13:22,678
+Iniciando missão de reconhecimento
+para inspecionar objeto desconhecido.
+
+189
+00:13:22,928 --> 00:13:24,805
+A coleta de dados é nominal.
+
+190
+00:13:25,639 --> 00:13:26,849
+Todas as luzes verdes.
+
+191
+00:13:26,932 --> 00:13:30,060
+Estabelecendo a frequência de contato
+com o EV de Burnham.
+
+192
+00:13:30,602 --> 00:13:32,771
+Canal liberado e pronto para transmitir.
+
+193
+00:13:32,855 --> 00:13:36,608
+Confirmando impulso direcional de seis
+segundos para o realinhamento da nave.
+
+194
+00:13:38,068 --> 00:13:40,654
+<i>Iniciando verificações finais</i>
+<i>pré-lançamento.</i>
+
+195
+00:13:40,737 --> 00:13:41,989
+<i>Suporte à vida: Nominal.</i>
+
+196
+00:13:42,072 --> 00:13:44,741
+<i>Saturação oxigênio-nitrogênio: Nominal.</i>
+
+197
+00:13:45,117 --> 00:13:47,244
+<i>Pressão e fluxo de ar: Nominal.</i>
+
+198
+00:13:47,327 --> 00:13:49,413
+<i>Módulo de comunicação: Ativo.</i>
+
+199
+00:13:55,043 --> 00:13:58,547
+<i>Filtros com 0,01 por cento de saturação.</i>
+
+200
+00:14:03,010 --> 00:14:04,678
+<i>Checklist pré-voo completo.</i>
+
+201
+00:14:13,395 --> 00:14:15,564
+Computador, habilitar ignição.
+
+202
+00:14:16,148 --> 00:14:18,233
+<i>Dez segundos para ignição do propulsor.</i>
+
+203
+00:14:18,442 --> 00:14:21,028
+<i>Dez, nove, oito,</i>
+
+204
+00:14:21,570 --> 00:14:23,822
+<i>sete, seis, cinco,</i>
+
+205
+00:14:24,698 --> 00:14:28,160
+<i>quatro, três, dois, um.</i>
+
+206
+00:14:48,013 --> 00:14:49,097
+Análise corporal ativa.
+
+207
+00:14:49,181 --> 00:14:51,558
+Frequência cardíaca 79 e subindo,
+pressão 13 por 7.
+
+208
+00:14:52,267 --> 00:14:54,645
+-É um pouco alto.
+-Ela está se divertindo.
+
+209
+00:14:54,728 --> 00:14:56,480
+Quase na área de detritos.
+
+210
+00:14:56,939 --> 00:14:58,190
+Entendido.
+
+211
+00:14:58,273 --> 00:14:59,983
+Michael, fique de olho no tempo.
+
+212
+00:15:00,067 --> 00:15:03,237
+<i>-Dezenove minutos, nem um segundo a mais.</i>
+-Sim, capitão.
+
+213
+00:15:03,946 --> 00:15:04,863
+<i>Estou bem ciente.</i>
+
+214
+00:15:06,073 --> 00:15:08,033
+-Incrementar sinal.
+-Não foi possível.
+
+215
+00:15:08,116 --> 00:15:10,034
+O campo de dispersão
+deve estar interferindo.
+
+216
+00:15:10,661 --> 00:15:12,621
+Tempo de missão
+17 minutos e 30 segundos.
+
+217
+00:15:12,704 --> 00:15:14,706
+Interferência começando
+a degradar resolução.
+
+218
+00:15:14,790 --> 00:15:17,042
+Roteando energia
+para antena subespacial.
+
+219
+00:15:24,550 --> 00:15:27,219
+-<i>Shenzhou</i>, está ouvindo?
+<i>-Distância até o objeto, 1.000 km.</i>
+
+220
+00:15:27,302 --> 00:15:30,389
+-<i>Shenzhou</i>, está ouvindo?
+<i>-Implementando correção de curso.</i>
+
+221
+00:15:47,489 --> 00:15:48,407
+Olá.
+
+222
+00:15:50,200 --> 00:15:52,119
+<i>Shenzhou</i>, está vendo isso?
+
+223
+00:15:53,662 --> 00:15:55,831
+Michael, está ouvindo? Responda.
+
+224
+00:15:56,957 --> 00:16:00,043
+Michael, está ouvindo? Responda.
+
+225
+00:16:01,378 --> 00:16:02,838
+<i>Shenzhou</i>, está ouvindo?
+
+226
+00:16:05,507 --> 00:16:07,259
+Unidade de coleta de dados, está aí?
+
+227
+00:16:07,342 --> 00:16:09,219
+-<i>Computador interno conectado.</i>
+-Ótimo.
+
+228
+00:16:10,387 --> 00:16:12,848
+-Tempo de missão?
+-<i>Doze minutos e 58 segundos.</i>
+
+229
+00:16:15,642 --> 00:16:17,269
+Bastante tempo para dar uma olhada.
+
+230
+00:16:18,103 --> 00:16:20,772
+Mesmo desta distância,
+claramente não são detritos.
+
+231
+00:16:21,190 --> 00:16:24,359
+Doze minutos e 48 segundos
+até a exposição máxima.
+
+232
+00:16:24,693 --> 00:16:28,030
+A Comandante está a menos de dez metros
+da extremidade do campo.
+
+233
+00:16:28,989 --> 00:16:32,784
+Não lembro quem disse que esculturas
+são espiritualidade cristalizadas...
+
+234
+00:16:33,619 --> 00:16:35,913
+Lanterna.
+...mas vejo o que quiseram dizer.
+
+235
+00:16:35,996 --> 00:16:37,581
+Aqui é Burnham, sem retorno.
+
+236
+00:16:37,789 --> 00:16:39,917
+Estou acima do objeto, que é antigo.
+
+237
+00:16:41,376 --> 00:16:42,461
+Tem séculos.
+
+238
+00:16:42,836 --> 00:16:45,964
+É difícil dizer se foi construído
+ou esculpido.
+
+239
+00:16:47,633 --> 00:16:52,221
+A única palavra para descrevê-lo
+efetivamente é... "Uau."
+
+240
+00:16:54,389 --> 00:16:55,891
+Mas vou tentar ser mais precisa.
+
+241
+00:16:56,433 --> 00:17:00,604
+A superfície tem aparência de pedra,
+com exoesqueleto de liga de metal.
+
+242
+00:17:03,732 --> 00:17:05,150
+Incrivelmente intrincado.
+
+243
+00:17:05,734 --> 00:17:08,987
+A construção e o design
+não são nada menos que deslumbrantes.
+
+244
+00:17:10,197 --> 00:17:12,241
+Queria que pudessem ver o que estou vendo.
+
+245
+00:17:12,950 --> 00:17:14,034
+É sublime.
+
+246
+00:17:18,205 --> 00:17:20,791
+É impossível discernir
+um propósito prático.
+
+247
+00:17:22,501 --> 00:17:24,419
+Vou pousar nele, olhar mais de perto.
+
+248
+00:17:28,340 --> 00:17:29,550
+Devagar.
+
+249
+00:17:33,762 --> 00:17:37,266
+Espere. Minha presença disparou
+algum tipo de resposta de movimento.
+
+250
+00:17:48,318 --> 00:17:50,863
+ANALISANDO
+
+251
+00:17:51,446 --> 00:17:54,491
+<i>Contagem regressiva da missão,</i>
+<i>dez minutos e 15 segundos.</i>
+
+252
+00:17:57,578 --> 00:18:00,372
+<i>Aviso: Alerta de proximidade</i>
+
+253
+00:18:11,175 --> 00:18:13,093
+<i>Analisando banco de dados.</i>
+
+254
+00:18:13,177 --> 00:18:15,804
+<i>Iconografia confirmada. Klingon.</i>
+
+255
+00:18:17,723 --> 00:18:19,099
+Eu sou a Comandante Burnham...
+
+256
+00:18:20,392 --> 00:18:22,436
+da Federação Unida de Planetas.
+
+257
+00:18:33,822 --> 00:18:37,868
+Sem sinais da Comandante Burnham.
+O tempo da missão termina em 15 segundos.
+
+258
+00:18:41,538 --> 00:18:42,372
+SEM SINAL
+
+259
+00:18:42,956 --> 00:18:45,959
+Encontrei a imediato. Respiração, 40.
+Pressão, 70 e caindo.
+
+260
+00:18:46,043 --> 00:18:49,254
+-Ela não resistirá se não a trouxermos.
+-Transportador. Nós a temos?
+
+261
+00:18:49,338 --> 00:18:53,008
+-O padrão de integridade é fraco demais.
+-Saru, localize-a, aumente o sinal.
+
+262
+00:18:53,091 --> 00:18:55,802
+-Capitão, não há sinal.
+-Bem, consiga um sinal.
+
+263
+00:18:57,346 --> 00:18:59,681
+-Ativar propulsores remotamente.
+-Está desconectada.
+
+264
+00:18:59,765 --> 00:19:02,017
+-Ela está flutuando.
+-Engenharia, feixe de tração?
+
+265
+00:19:02,100 --> 00:19:04,394
+Não consigo localizar.
+Fazendo cálculos manuais.
+
+266
+00:19:04,478 --> 00:19:08,398
+O campo de dispersão é um problema.
+Não podemos transportá-la com ele.
+
+267
+00:19:08,899 --> 00:19:11,527
+Em breve ela exibirá sintomas
+de síndrome de radiação aguda.
+
+268
+00:19:11,610 --> 00:19:13,278
+Ela não vai aguentar muito mais.
+
+269
+00:19:14,571 --> 00:19:15,656
+Aguente aí.
+
+270
+00:19:19,575 --> 00:19:22,620
+<i>Comandante Burnham, aqui é a </i>Shenzhou<i>.</i>
+<i>Por favor, responda.</i>
+
+271
+00:19:22,870 --> 00:19:24,080
+<i>Comandante?</i>
+
+272
+00:19:25,207 --> 00:19:26,667
+<i>Comandante, por favor, responda.</i>
+
+273
+00:19:27,501 --> 00:19:29,127
+Shenzhou<i> para Comandante Burnham.</i>
+
+274
+00:19:29,920 --> 00:19:32,339
+<i>Comandante, pode ouvir?</i>
+<i>Por favor, responda.</i>
+
+275
+00:19:39,638 --> 00:19:42,349
+Testemunhem nosso irmão...
+
+276
+00:19:43,267 --> 00:19:45,227
+nosso Portador da Chama...
+
+277
+00:19:45,602 --> 00:19:47,396
+morto por um intruso da Federação
+
+278
+00:19:47,478 --> 00:19:50,022
+em nosso farol sagrado.
+
+279
+00:19:56,822 --> 00:19:58,240
+Eu o observo
+
+280
+00:19:58,365 --> 00:20:00,492
+enquanto você observa o fim.
+
+281
+00:20:02,452 --> 00:20:04,663
+Nosso Portador da Chama
+
+282
+00:20:04,746 --> 00:20:06,874
+nos honra.
+
+283
+00:20:07,416 --> 00:20:09,751
+O primeiro a morrer
+
+284
+00:20:09,835 --> 00:20:11,753
+em nossa cruzada
+
+285
+00:20:11,837 --> 00:20:14,590
+pela autopreservação.
+
+286
+00:20:59,968 --> 00:21:03,972
+<i>Nossos ancestrais dão as boas-vindas</i>
+
+287
+00:21:04,306 --> 00:21:06,058
+<i>ao nosso irmão caído,</i>
+
+288
+00:21:06,141 --> 00:21:07,226
+<i>Rejac,</i>
+
+289
+00:21:07,309 --> 00:21:08,936
+<i>em sua Frota Sombria.</i>
+
+290
+00:21:09,311 --> 00:21:12,981
+<i>Eles lutam conosco</i>
+
+291
+00:21:13,815 --> 00:21:19,321
+<i>enquanto enfrentamos nosso inimigo.</i>
+
+292
+00:21:20,405 --> 00:21:23,492
+<i>Permanecer Klingon.</i>
+
+293
+00:21:32,292 --> 00:21:33,168
+<i>Pupila Burnham.</i>
+
+294
+00:21:34,837 --> 00:21:35,671
+<i>Pupila Burnham.</i>
+
+295
+00:21:45,472 --> 00:21:47,599
+<i>Em que a ordem social de Klingon</i>
+<i>se baseia?</i>
+
+296
+00:21:48,058 --> 00:21:50,561
+-Dinâmica honra-vergonha inviolável.
+-<i>Correto.</i>
+
+297
+00:21:50,644 --> 00:21:52,479
+<i>O planeta lar dos Klingon, Qo'noS.</i>
+
+298
+00:21:52,563 --> 00:21:54,857
+-Hostil à Federação.
+-<i>Correto.</i>
+
+299
+00:21:54,940 --> 00:21:58,110
+-<i>A ordem política dos Klingons.</i>
+-Vinte e quatro grandes casas.
+
+300
+00:21:58,193 --> 00:22:02,239
+<i>Correto. Localização do território</i>
+<i>vítima do ataque Klingon mais recente.</i>
+
+301
+00:22:04,157 --> 00:22:07,828
+<i>Duração inaceitável</i>
+<i>entre consulta e resposta correta.</i>
+
+302
+00:22:07,911 --> 00:22:11,707
+<i>Número de sobreviventes no posto avançado</i>
+<i>humano-vulcano de ciências</i>
+
+303
+00:22:11,790 --> 00:22:13,000
+<i>em Doctari Alfa.</i>
+
+304
+00:22:14,877 --> 00:22:18,463
+<i>Duração inaceitável</i>
+<i>entre consulta e resposta correta.</i>
+
+305
+00:22:18,547 --> 00:22:20,799
+<i>Número de sobreviventes em Doctari Alfa.</i>
+
+306
+00:22:21,091 --> 00:22:23,635
+-Não.
+-<i>Resposta inaceitável.</i>
+
+307
+00:22:23,719 --> 00:22:25,095
+-<i>Número de sobreviventes...</i>
+-Por favor.
+
+308
+00:22:25,179 --> 00:22:27,055
+<i>Número de sobreviventes...</i>
+
+309
+00:22:28,432 --> 00:22:29,266
+Pare.
+
+310
+00:22:30,184 --> 00:22:31,059
+<i>Programa pausado.</i>
+
+311
+00:22:36,899 --> 00:22:37,733
+Sarek.
+
+312
+00:22:39,109 --> 00:22:41,028
+Sinto muito. Eu posso fazer melhor.
+
+313
+00:22:41,528 --> 00:22:44,156
+Quando a emoção nos traz
+fantasmas do passado,
+
+314
+00:22:44,239 --> 00:22:47,159
+apenas a lógica
+pode nos manter no presente.
+
+315
+00:22:47,242 --> 00:22:49,119
+Talvez eu possa tentar aprender Vulcano...
+
+316
+00:22:49,453 --> 00:22:51,246
+para ser mais rápida nas respostas.
+
+317
+00:22:51,955 --> 00:22:53,999
+Sua língua humana não é o problema.
+
+318
+00:22:54,416 --> 00:22:56,084
+É o seu coração humano.
+
+319
+00:23:07,554 --> 00:23:08,931
+<i>Ótimo. Você está acordada.</i>
+
+320
+00:23:10,015 --> 00:23:11,058
+Eu estava sonhando.
+
+321
+00:23:12,392 --> 00:23:13,227
+<i>Com o quê?</i>
+
+322
+00:23:14,394 --> 00:23:15,812
+Klingons.
+
+323
+00:23:16,230 --> 00:23:17,481
+Como eu cheguei aqui?
+
+324
+00:23:18,941 --> 00:23:21,151
+<i>Nós a transportamos de volta a bordo</i>
+<i>há três horas.</i>
+
+325
+00:23:22,444 --> 00:23:23,362
+<i>Três horas?</i>
+
+326
+00:23:23,737 --> 00:23:25,989
+<i>Terapia antipróton incompleta.</i>
+
+327
+00:23:26,073 --> 00:23:28,033
+Comandante, o que está fazendo?
+
+328
+00:23:28,116 --> 00:23:30,118
+<i>-Emergência médica.</i>
+-Não temos tempo.
+
+329
+00:23:30,202 --> 00:23:33,622
+Espere, o processo de recombinação
+está longe de terminar.
+
+330
+00:23:33,705 --> 00:23:35,624
+Preciso que volte para a câmara.
+
+331
+00:23:35,707 --> 00:23:38,252
+Você entende o efeito da remoção genética?
+
+332
+00:23:38,335 --> 00:23:40,838
+Você não quer morrer dessa forma.
+Comandante.
+
+333
+00:23:41,672 --> 00:23:44,383
+Os binários estão emitindo quantuns
+acima e abaixo do espectro.
+
+334
+00:23:44,925 --> 00:23:47,553
+Estou mais perto de identificar,
+mas ainda não sei de que se trata.
+
+335
+00:23:47,636 --> 00:23:50,305
+-Quero saber o que está lá fora.
+-Vamos de novo.
+
+336
+00:23:50,389 --> 00:23:52,224
+-Pelos números.
+-O que está havendo?
+
+337
+00:23:53,809 --> 00:23:55,853
+Imediato, devia estar no centro médico.
+
+338
+00:23:56,436 --> 00:23:57,271
+O quê?
+
+339
+00:23:57,396 --> 00:23:59,648
+-Eles fizeram contato?
+-Quem são "eles"?
+
+340
+00:24:00,148 --> 00:24:02,568
+Há Klingons lá fora.
+Precisamos do alerta vermelho.
+
+341
+00:24:02,651 --> 00:24:03,527
+Michael...
+
+342
+00:24:06,154 --> 00:24:09,074
+Praticamente ninguém viu um Klingon
+em cem anos.
+
+343
+00:24:09,157 --> 00:24:12,327
+Mas eu vi. Um deles me atacou
+naquele objeto. Veja as imagens.
+
+344
+00:24:12,870 --> 00:24:15,372
+-Foram corrompidas.
+-Os sensores mostram a comandante
+
+345
+00:24:15,455 --> 00:24:17,499
+entrando na Ponte
+em estado de irradiação.
+
+346
+00:24:17,583 --> 00:24:20,627
+Sem tratamento imediato,
+sua condição será fatal.
+
+347
+00:24:21,211 --> 00:24:23,088
+Ele era... de uma casta de guerreiros.
+
+348
+00:24:23,589 --> 00:24:26,049
+Seu traje tinha uma insígnia
+de uma Casa Klingon.
+
+349
+00:24:26,133 --> 00:24:28,468
+-Ela tem uma concussão.
+-Não estou delirando.
+
+350
+00:24:28,552 --> 00:24:31,638
+Isto não tem nada a ver
+com uma concussão. Philippa...
+
+351
+00:24:33,724 --> 00:24:34,808
+Há Klingons.
+
+352
+00:24:40,439 --> 00:24:41,398
+Alerta vermelho.
+
+353
+00:24:46,528 --> 00:24:48,697
+-Diga-me o que aconteceu.
+-Ele me emboscou.
+
+354
+00:24:49,198 --> 00:24:52,576
+Ativei meu propulsor para fugir.
+Eu o derrubei em sua lâmina.
+
+355
+00:24:53,994 --> 00:24:54,870
+Eu o matei.
+
+356
+00:24:57,039 --> 00:24:59,249
+O objeto pode esconder
+um grupo de assalto Klingon
+
+357
+00:24:59,333 --> 00:25:03,045
+-por trás daquele campo de dispersão.
+-Se há Klingons neste setor,
+
+358
+00:25:03,128 --> 00:25:06,089
+eles podem ser responsáveis
+pelos danos ao retransmissor.
+
+359
+00:25:06,632 --> 00:25:09,968
+Se houver Klingons neste setor,
+deveríamos nos retirar.
+
+360
+00:25:10,052 --> 00:25:13,347
+Este é espaço da Federação.
+Retirada não é uma opção.
+
+361
+00:25:15,641 --> 00:25:18,018
+O que quer que esteja lá
+precisa se mostrar.
+
+362
+00:25:18,393 --> 00:25:21,522
+Se estiver escondendo Klingons,
+nós temos que expô-los.
+
+363
+00:25:22,022 --> 00:25:24,233
+Aponte canhões de feiser para o objeto.
+
+364
+00:25:26,818 --> 00:25:29,988
+Não podemos destruir a propriedade
+de outras culturas por capricho.
+
+365
+00:25:30,072 --> 00:25:31,740
+Não disse nada sobre destruí-lo.
+
+366
+00:25:31,823 --> 00:25:34,201
+Vamos fazê-los pensar que vamos atacar.
+
+367
+00:25:34,743 --> 00:25:36,036
+Aponte para o objeto.
+
+368
+00:25:36,995 --> 00:25:37,871
+Alvo travado.
+
+369
+00:25:39,081 --> 00:25:40,374
+Algo está nos analisando.
+
+370
+00:25:40,916 --> 00:25:43,043
+Eles detectaram o sinal da arma.
+
+371
+00:25:43,544 --> 00:25:44,378
+Esperem.
+
+372
+00:25:48,465 --> 00:25:51,218
+ALERTA DE PROXIMIDADE
+
+373
+00:25:58,767 --> 00:25:59,893
+Impossível.
+
+374
+00:25:59,977 --> 00:26:03,814
+-Nenhum sinal de dobra detectado, capitão.
+-Então, de onde eles vieram?
+
+375
+00:26:04,314 --> 00:26:06,859
+Sr. Gant, desengatar canhão de feiser.
+
+376
+00:26:08,694 --> 00:26:09,945
+Imediato, ao centro médico.
+
+377
+00:26:10,028 --> 00:26:12,698
+Preciso de você recuperada
+e de volta à Ponte, depressa.
+
+378
+00:26:13,031 --> 00:26:15,617
+Sr. Januzzi, entre em contato
+com o Comando da Frota Estelar.
+
+379
+00:26:15,701 --> 00:26:17,327
+Envie uma mensagem codificada.
+
+380
+00:26:17,995 --> 00:26:20,539
+Diga-lhes que nos deparamos com Klingons.
+
+381
+00:26:27,504 --> 00:26:30,716
+<i>Nave não identificada,</i>
+<i>esta é a nave </i>Shenzhou<i>, da Federação.</i>
+
+382
+00:26:30,799 --> 00:26:31,675
+<i>Por favor, responda.</i>
+
+383
+00:26:34,136 --> 00:26:37,347
+<i>Nave não identificada,</i>
+<i>esta é a nave </i>Shenzhou<i>, da Federação.</i>
+
+384
+00:26:37,431 --> 00:26:38,307
+<i>Por favor, responda.</i>
+
+385
+00:26:39,266 --> 00:26:42,853
+Tudo é como deveria ser.
+
+386
+00:26:44,897 --> 00:26:47,774
+Quem é o sucessor de Rejac?
+
+387
+00:26:47,858 --> 00:26:48,734
+O próximo na fila?
+
+388
+00:26:52,738 --> 00:26:53,989
+Eu sou o irmão dele.
+
+389
+00:26:54,072 --> 00:26:55,824
+Or'Eq.
+
+390
+00:26:55,908 --> 00:26:57,576
+A honra cabe a você
+
+391
+00:26:57,659 --> 00:26:59,995
+de ser nosso novo Portador da Chama.
+
+392
+00:27:00,621 --> 00:27:01,622
+Com respeito...
+
+393
+00:27:03,207 --> 00:27:06,460
+vejo muita sabedoria
+em seus ensinamentos...
+
+394
+00:27:07,461 --> 00:27:08,295
+Mas?
+
+395
+00:27:08,795 --> 00:27:12,216
+Você pode garantir que nossos irmãos
+e irmãs responderão a seu chamado?
+
+396
+00:27:12,299 --> 00:27:15,177
+Eles irão, pois a profecia ordena
+
+397
+00:27:16,178 --> 00:27:19,723
+que todos os Klingons devem vir
+para a luz de Kahless
+
+398
+00:27:19,806 --> 00:27:22,768
+quando ela brilhar no céu noturno.
+
+399
+00:27:23,227 --> 00:27:25,395
+Naves irão realmente atravessar a galáxia
+
+400
+00:27:25,479 --> 00:27:27,356
+por causa de uma fábula?
+
+401
+00:27:27,439 --> 00:27:30,025
+Então, você duvida?
+
+402
+00:27:30,609 --> 00:27:33,237
+Você desonra
+
+403
+00:27:34,029 --> 00:27:35,989
+apenas a si mesmo.
+
+404
+00:27:38,867 --> 00:27:40,911
+Eu irei acender o farol.
+
+405
+00:27:44,373 --> 00:27:46,583
+Fale seu nome.
+
+406
+00:27:47,209 --> 00:27:48,252
+Voq.
+
+407
+00:27:49,294 --> 00:27:51,171
+Filho de ninguém.
+
+408
+00:27:55,801 --> 00:27:58,011
+Você não possui a lâmina de uma família.
+
+409
+00:28:00,305 --> 00:28:02,516
+Você não pode assumir
+
+410
+00:28:02,599 --> 00:28:04,852
+o que é de direito das casas nobres.
+
+411
+00:28:06,186 --> 00:28:07,771
+Você é indigno.
+
+412
+00:28:07,855 --> 00:28:09,022
+Eu sou digno.
+
+413
+00:28:10,649 --> 00:28:11,608
+Não
+
+414
+00:28:11,984 --> 00:28:13,068
+pelo sangue,
+
+415
+00:28:15,195 --> 00:28:16,280
+mas pela fé.
+
+416
+00:28:22,786 --> 00:28:24,997
+Eu sirvo
+
+417
+00:28:25,080 --> 00:28:27,499
+a luz de Kahless.
+
+418
+00:28:31,420 --> 00:28:32,921
+Eu sou renascido
+
+419
+00:28:33,005 --> 00:28:34,131
+em suas chamas.
+
+420
+00:28:50,689 --> 00:28:53,942
+Eu vejo em você alguém
+que viveu a vida toda excluído
+
+421
+00:28:54,651 --> 00:28:56,904
+e anseia ser parte de algo
+
+422
+00:28:56,987 --> 00:28:59,281
+maior que si mesmo.
+
+423
+00:29:06,038 --> 00:29:08,540
+Alguns podem ver a cor da sua pele
+
+424
+00:29:08,624 --> 00:29:10,334
+como um erro da natureza.
+
+425
+00:29:12,794 --> 00:29:15,422
+Eu chamo de espelho,
+
+426
+00:29:16,340 --> 00:29:19,009
+porque eu me vejo em você.
+
+427
+00:29:23,263 --> 00:29:24,097
+Meu Senhor.
+
+428
+00:29:25,305 --> 00:29:29,226
+Os sensores de longo alcance
+mostram movimento,
+
+429
+00:29:29,309 --> 00:29:31,353
+assim como você previu.
+
+430
+00:29:31,438 --> 00:29:33,398
+Excelente. A hora chegou.
+
+431
+00:29:34,191 --> 00:29:36,735
+Pegue minha lâmina, Voq.
+
+432
+00:29:37,694 --> 00:29:39,488
+Filho de ninguém.
+
+433
+00:29:41,697 --> 00:29:45,409
+A honra de portar a chama é sua.
+
+434
+00:29:46,076 --> 00:29:50,038
+Acenda o farol.
+
+435
+00:29:56,713 --> 00:29:59,925
+<i>Nave não identificada,</i>
+<i>esta é a nave </i>Shenzhou<i>, da Federação.</i>
+
+436
+00:30:00,008 --> 00:30:00,884
+<i>Por favor, responda.</i>
+
+437
+00:30:00,968 --> 00:30:04,221
+<i>Nave não identificada,</i>
+<i>esta é a nave </i>Shenzhou<i>, da Federação.</i>
+
+438
+00:30:04,304 --> 00:30:05,264
+Por favor, responda.
+
+439
+00:30:07,099 --> 00:30:10,727
+-Há chance de não poderem ouvir?
+-Está transmitindo em todos canais.
+
+440
+00:30:10,811 --> 00:30:12,062
+Suas ordens, comandante.
+
+441
+00:30:13,647 --> 00:30:16,066
+-Alguma resposta?
+-Nenhuma.
+
+442
+00:30:16,608 --> 00:30:17,442
+Comandante...
+
+443
+00:30:18,235 --> 00:30:20,445
+Há algo que eu gostaria de mostrar.
+
+444
+00:30:23,699 --> 00:30:27,452
+O casco está coberto
+de cápsulas metálicas ornamentais ocas,
+
+445
+00:30:27,536 --> 00:30:29,663
+milhares delas interligadas,
+
+446
+00:30:29,872 --> 00:30:32,416
+formando uma espécie de... armadura.
+
+447
+00:30:33,000 --> 00:30:34,710
+Não é a defesa mais eficiente.
+
+448
+00:30:34,793 --> 00:30:38,130
+Suspeito que o propósito
+seja mais simbólico do que prático.
+
+449
+00:30:39,882 --> 00:30:44,011
+Eles contêm material biológico de Klingon
+em vários estados de decomposição.
+
+450
+00:30:44,386 --> 00:30:46,013
+A datação remota é divergente.
+
+451
+00:30:46,096 --> 00:30:49,266
+Alguns ossos datam de milhares de anos.
+Outros, apenas algumas horas.
+
+452
+00:30:50,184 --> 00:30:52,644
+Toda a nave está coberta de caixões.
+
+453
+00:30:53,604 --> 00:30:56,064
+Comandante, a capitão escuta você.
+
+454
+00:30:56,899 --> 00:31:00,277
+Diga a ela que devemos nos retirar.
+
+455
+00:31:02,154 --> 00:31:04,198
+Receio que já não seja possível.
+
+456
+00:31:09,328 --> 00:31:11,955
+O seu mundo tem cadeias alimentares.
+
+457
+00:31:12,206 --> 00:31:13,207
+O meu não tem.
+
+458
+00:31:14,082 --> 00:31:17,920
+O mapa de nossa espécie é binário.
+Ou somos predadores ou presas.
+
+459
+00:31:19,004 --> 00:31:20,255
+O meu povo foi caçado.
+
+460
+00:31:20,714 --> 00:31:24,843
+Criado, cultivado...
+somos o equivalente ao gado de vocês.
+
+461
+00:31:26,178 --> 00:31:30,224
+Estávamos determinados biologicamente
+para um propósito, e apenas um:
+
+462
+00:31:31,642 --> 00:31:33,227
+Sentir a chegada da morte.
+
+463
+00:31:36,563 --> 00:31:38,023
+Eu sinto ela chegando agora.
+
+464
+00:31:43,737 --> 00:31:45,948
+<i>A capitânia Klingon possui um modo oculto.</i>
+
+465
+00:31:46,198 --> 00:31:49,952
+É uma superfície de camuflagem,
+diferente de tudo que já vimos.
+
+466
+00:31:50,035 --> 00:31:52,287
+Pode haver mais naves do que sabemos.
+
+467
+00:31:52,371 --> 00:31:56,083
+Nós emitimos todas as saudações amigáveis
+da Tropa Estelar.
+
+468
+00:31:56,166 --> 00:31:58,544
+-Estão bloqueando nossas mensagens.
+-Parece uma cilada.
+
+469
+00:31:58,627 --> 00:32:01,463
+Talvez o retransmissor tenha se aproximado
+demais dos Klingons
+
+470
+00:32:01,547 --> 00:32:03,465
+e o destruíram para nos atrair para cá.
+
+471
+00:32:03,549 --> 00:32:06,176
+Você se lembra de minha primeiro oficial,
+Michael Burnham?
+
+472
+00:32:06,969 --> 00:32:08,971
+Da próxima vez, tente não perturbar
+
+473
+00:32:09,054 --> 00:32:11,932
+uma raça guerreira com quem
+não falamos por cem anos.
+
+474
+00:32:12,474 --> 00:32:14,726
+Nossa única escolha
+é conduzir esta situação
+
+475
+00:32:14,810 --> 00:32:17,896
+-com a maior delicadeza.
+-Almirante, se me permitir...
+
+476
+00:32:21,900 --> 00:32:25,028
+o resultado ideal para qualquer
+interação dos Klingons é batalha.
+
+477
+00:32:25,779 --> 00:32:27,656
+Eles são implacavelmente hostis, senhor.
+
+478
+00:32:28,198 --> 00:32:31,034
+-É a natureza deles.
+-A Federação e o Império Klingon
+
+479
+00:32:31,118 --> 00:32:33,871
+sempre estiveram no lado frio da guerra.
+
+480
+00:32:33,954 --> 00:32:36,540
+Tivemos apenas conflitos breves
+com eles por um século,
+
+481
+00:32:36,623 --> 00:32:39,042
+e agora você presume saber sua motivação,
+
+482
+00:32:39,126 --> 00:32:40,586
+porque é a natureza deles?
+
+483
+00:32:40,669 --> 00:32:43,297
+Considerando seu histórico,
+penso que seria a última pessoa
+
+484
+00:32:43,380 --> 00:32:44,965
+a fazer suposições baseadas em raça.
+
+485
+00:32:45,048 --> 00:32:47,676
+Seria imprudente confundir raça e cultura.
+
+486
+00:32:47,759 --> 00:32:50,679
+A <i>Europa</i> e todas as naves da Frota
+dentro do alcance
+
+487
+00:32:50,762 --> 00:32:53,515
+estarão em suas coordenadas em duas horas.
+Mantenha sua posição.
+
+488
+00:32:53,599 --> 00:32:55,934
+Não faça nada sem provocação. Entendido?
+
+489
+00:32:56,018 --> 00:32:56,935
+Entendido.
+
+490
+00:32:58,562 --> 00:32:59,730
+<i>Sinal finalizado.</i>
+
+491
+00:33:00,772 --> 00:33:01,690
+Isso correu bem.
+
+492
+00:33:04,026 --> 00:33:07,112
+-Qual o clima lá fora?
+-Saru é o único que fala.
+
+493
+00:33:08,238 --> 00:33:11,283
+Ele acredita firmemente
+que devemos bater em retirada.
+
+494
+00:33:12,326 --> 00:33:16,121
+Há uma estação espacial em Eagle 12,
+a três anos-luz de distância.
+
+495
+00:33:16,705 --> 00:33:19,041
+A colônia Andoriana
+de Gamma Hydra está a seis.
+
+496
+00:33:19,124 --> 00:33:22,586
+<i>Shenzhou</i> é a única linha de defesa
+se os Klingons atacarem.
+
+497
+00:33:22,669 --> 00:33:24,963
+Não se. Quando.
+
+498
+00:33:25,047 --> 00:33:27,841
+Preciso acreditar que o que acontecer aqui
+
+499
+00:33:27,925 --> 00:33:30,344
+pode servir como uma ponte
+entre nossas civilizações.
+
+500
+00:33:30,886 --> 00:33:32,804
+Isto é a diplomata em você falando.
+
+501
+00:33:33,972 --> 00:33:35,432
+O que a soldado diz?
+
+502
+00:33:38,185 --> 00:33:39,102
+Nada bom.
+
+503
+00:33:42,981 --> 00:33:44,233
+<i>Capitão, para a Ponte.</i>
+
+504
+00:33:46,568 --> 00:33:49,696
+-Situação.
+-Atividade fotônica no objeto Klingon.
+
+505
+00:33:49,780 --> 00:33:51,698
+Emite um bilhão de lúmens
+por metro quadrado.
+
+506
+00:33:51,782 --> 00:33:53,033
+Sensores ópticos sobrecarregados.
+
+507
+00:33:53,116 --> 00:33:55,953
+-Ative os filtros plasmáticos.
+-Redirecionando energia.
+
+508
+00:33:56,495 --> 00:33:57,538
+Isso é uma arma?
+
+509
+00:33:57,621 --> 00:33:59,957
+Parece ser algum tipo de emissor de sinal.
+
+510
+00:34:02,167 --> 00:34:05,254
+-Onde estão meus filtros?
+-Eles estão em 100 por cento, capitão.
+
+511
+00:34:17,099 --> 00:34:19,601
+Iniciando desligamento emergencial.
+
+512
+00:34:20,227 --> 00:34:22,479
+Esse ruído é algum tipo
+de onda eletromagnética subespacial.
+
+513
+00:34:22,563 --> 00:34:25,607
+-Reduzindo amplitude de canais.
+-Ajustar orientação, minimizar dispersão.
+
+514
+00:34:25,691 --> 00:34:27,401
+-Diminua isso.
+-Sim, capitão.
+
+515
+00:34:28,110 --> 00:34:30,195
+-Diminua totalmente.
+-Volume silenciado.
+
+516
+00:34:30,279 --> 00:34:32,865
+Isto é a superestrutura da nave
+em vibração simpática.
+
+517
+00:34:34,116 --> 00:34:36,743
+-É um pulso de sinal.
+-Há uma mensagem?
+
+518
+00:34:36,827 --> 00:34:38,245
+Esta pode ser a mensagem.
+
+519
+00:34:38,620 --> 00:34:41,331
+E se eles estiverem chamando
+o mesmo que nós?
+
+520
+00:34:42,040 --> 00:34:45,335
+-Reforços.
+-Sensores de longo alcance ao máximo.
+
+521
+00:34:45,419 --> 00:34:48,797
+Se mais Klingons estiverem a caminho,
+eu quero saber o quanto antes.
+
+522
+00:34:48,964 --> 00:34:51,300
+-Permissão para deixar a Ponte.
+-Você está brincando?
+
+523
+00:34:51,383 --> 00:34:52,426
+É relevante.
+
+524
+00:34:54,428 --> 00:34:55,596
+Concedida.
+
+525
+00:34:55,679 --> 00:34:58,473
+Alferes, me dê um relatório
+da situação de cada convés.
+
+526
+00:34:58,557 --> 00:34:59,391
+Sim, capitão.
+
+527
+00:35:01,768 --> 00:35:03,562
+-Computador
+-<i>Trabalhando.</i>
+
+528
+00:35:03,645 --> 00:35:06,481
+Abrir canal subespacial dedicado 222AA7.
+
+529
+00:35:06,565 --> 00:35:08,358
+<i>O uso dessa frequência exige</i>
+
+530
+00:35:08,442 --> 00:35:11,778
+-<i>autorizações diplomáticas.</i>
+-Autorização por voz. Burnham...
+
+531
+00:35:12,237 --> 00:35:13,780
+-Michael.
+-<i>Confirmada.</i>
+
+532
+00:35:15,532 --> 00:35:16,491
+Comandante Burnham.
+
+533
+00:35:16,575 --> 00:35:18,744
+Olá, Sarek. Estou feliz em vê-lo.
+
+534
+00:35:18,827 --> 00:35:19,953
+Tantos anos,
+
+535
+00:35:20,204 --> 00:35:22,623
+e você ainda permite
+que considerações emocionais
+
+536
+00:35:22,706 --> 00:35:23,916
+impeçam a sua lógica.
+
+537
+00:35:23,999 --> 00:35:26,293
+Elas informam minha lógica.
+
+538
+00:35:28,337 --> 00:35:29,588
+Eu preciso de sua ajuda.
+
+539
+00:35:30,130 --> 00:35:32,758
+Presumo que o momento
+da chamada não seja coincidência.
+
+540
+00:35:32,841 --> 00:35:35,010
+O quadrante reporta uma nova estrela.
+
+541
+00:35:37,387 --> 00:35:40,057
+O que você fez lá,
+no limite do espaço da Federação?
+
+542
+00:35:40,140 --> 00:35:41,975
+Encontramos os Klingons.
+
+543
+00:35:42,518 --> 00:35:45,604
+Que raro encontrar
+os próprios demônios em carne.
+
+544
+00:35:45,687 --> 00:35:46,730
+Eu matei um.
+
+545
+00:35:48,815 --> 00:35:51,735
+Diante do fato
+de que eles mataram seus pais...
+
+546
+00:35:52,486 --> 00:35:54,279
+alguns podem achar que é justo.
+
+547
+00:35:55,822 --> 00:35:59,451
+No entanto...
+se uma morte foi necessária,
+
+548
+00:35:59,535 --> 00:36:02,120
+estou satisfeito por não ter sido a sua.
+
+549
+00:36:04,331 --> 00:36:07,334
+Estou certo de que não me ligou
+para consolo emocional.
+
+550
+00:36:07,417 --> 00:36:08,418
+Estamos frente a frente.
+
+551
+00:36:09,294 --> 00:36:12,714
+Não trocamos disparos,
+mas eles não ativaram aquele farol
+
+552
+00:36:12,798 --> 00:36:14,967
+até a Frota Estelar estar a caminho
+de nossa posição.
+
+553
+00:36:15,050 --> 00:36:17,469
+Eu acho que
+eles estão convocando mais deles.
+
+554
+00:36:17,553 --> 00:36:21,974
+Uma proposição inusitada.
+Seu império está em desordem há gerações.
+
+555
+00:36:22,057 --> 00:36:24,643
+Mas você está descrevendo
+algo fora do comum.
+
+556
+00:36:25,185 --> 00:36:27,145
+Contenção diante do conflito.
+
+557
+00:36:27,604 --> 00:36:30,691
+Quando uma civilização age
+em oposição aos seus instintos,
+
+558
+00:36:30,774 --> 00:36:34,319
+pode estar sob influência
+de algo ou alguém novo.
+
+559
+00:36:35,571 --> 00:36:40,367
+Grandes unificadores são poucos
+e esparsos, mas eles aparecem.
+
+560
+00:36:40,868 --> 00:36:44,329
+Frequentemente, tais líderes precisarão
+de uma causa profunda
+
+561
+00:36:44,413 --> 00:36:46,415
+em torno da qual reunirão seus seguidores.
+
+562
+00:36:46,832 --> 00:36:47,875
+Uma guerra.
+
+563
+00:36:49,001 --> 00:36:50,169
+Tenha muito cuidado
+
+564
+00:36:50,335 --> 00:36:54,506
+de que suas suposições não sejam
+induzidas pelo seu passado.
+
+565
+00:36:55,716 --> 00:36:59,469
+Não se trata do que aconteceu, Sarek.
+Trata-se do que está acontecendo agora.
+
+566
+00:37:02,639 --> 00:37:05,767
+Como os Vulcanos atingiram
+a diplomacia com os Klingons?
+
+567
+00:37:06,351 --> 00:37:08,437
+Essa é uma solução particular nossa.
+
+568
+00:37:08,520 --> 00:37:11,607
+Não posso presumir que funcionaria
+em uma nave comandada por humanos.
+
+569
+00:37:12,149 --> 00:37:12,983
+Sarek...
+
+570
+00:37:14,443 --> 00:37:15,277
+por favor.
+
+571
+00:37:15,817 --> 00:37:17,068
+Eu estou avisando você...
+
+572
+00:37:17,571 --> 00:37:20,407
+seja cuidadosa
+sobre como usará esta informação.
+
+573
+00:37:21,074 --> 00:37:23,827
+Você não pode salvar vidas
+que já foram perdidas.
+
+574
+00:37:24,369 --> 00:37:25,204
+Conte-me...
+
+575
+00:37:25,454 --> 00:37:28,081
+como você manteve
+os Klingons sob controle?
+
+576
+00:37:31,210 --> 00:37:33,378
+-Engenharia, relatório.
+-Sem dano interno.
+
+577
+00:37:33,462 --> 00:37:34,546
+O núcleo está a 100 por cento.
+
+578
+00:37:35,005 --> 00:37:38,217
+Precisamos disparar.
+Acertar essa nave com tudo que temos.
+
+579
+00:37:38,592 --> 00:37:39,593
+De forma alguma.
+
+580
+00:37:39,676 --> 00:37:42,971
+Eles não carregaram armas.
+Eles não representam uma ameaça iminente.
+
+581
+00:37:43,055 --> 00:37:45,474
+A ameaça Klingon é sempre iminente
+e inevitável.
+
+582
+00:37:45,557 --> 00:37:47,559
+-Relatório tático pronto.
+-Obrigada.
+
+583
+00:37:47,643 --> 00:37:50,187
+Gostaria de lembrá-la
+que estamos em enorme desvantagem.
+
+584
+00:37:51,730 --> 00:37:53,941
+Há 240 anos, próximo de H'Atoria,
+
+585
+00:37:54,024 --> 00:37:56,235
+uma nave Vulcana entrou em espaço Klingon.
+
+586
+00:37:56,318 --> 00:37:59,780
+Os Klingons atacaram imediatamente.
+Eles destruíram a nave.
+
+587
+00:37:59,905 --> 00:38:02,449
+Vulcanos não cometem
+o mesmo erro duas vezes.
+
+588
+00:38:02,533 --> 00:38:05,202
+Até estabelecerem relações formais,
+
+589
+00:38:05,285 --> 00:38:09,122
+sempre que Vulcanos cruzavam com Klingons,
+os Vulcanos disparavam primeiro.
+
+590
+00:38:09,581 --> 00:38:12,626
+Eles deram uma saudação em um idioma
+que os Klingons entendiam.
+
+591
+00:38:13,001 --> 00:38:16,004
+A violência trouxe respeito.
+O respeito trouxe paz.
+
+592
+00:38:17,130 --> 00:38:20,259
+Capitão, temos que dar aos Klingons
+uma saudação Vulcana.
+
+593
+00:38:20,801 --> 00:38:25,222
+Se a intenção deles é atacar,
+cerrar nossos punhos não irá dissuadi-los.
+
+594
+00:38:29,476 --> 00:38:34,064
+Seria lógico levar em conta minha taxa
+de sucesso em nossos sete anos juntas
+
+595
+00:38:34,231 --> 00:38:36,316
+e executar meu plano sem mais discussões
+
+596
+00:38:36,400 --> 00:38:38,277
+antes de entrarmos em uma guerra.
+
+597
+00:38:38,360 --> 00:38:41,989
+A Tropa Estelar não ataca primeiro.
+Isso é tudo, imediato.
+
+598
+00:38:42,072 --> 00:38:42,948
+Nós precisamos.
+
+599
+00:38:47,244 --> 00:38:49,079
+Na minha sala, agora.
+
+600
+00:38:51,623 --> 00:38:54,209
+-Comandante, a Ponte é sua.
+-Sim, capitão.
+
+601
+00:38:59,506 --> 00:39:00,591
+Computador, privacidade.
+
+602
+00:39:01,592 --> 00:39:03,594
+-Capitão...
+-Como ousa me desafiar?
+
+603
+00:39:04,219 --> 00:39:06,763
+Peço desculpas por minha insubordinação.
+
+604
+00:39:06,847 --> 00:39:10,809
+-Esse tipo de tom desestabiliza a equipe.
+-Não os subestime.
+
+605
+00:39:10,893 --> 00:39:13,687
+Supervisionei os exercícios.
+Estão prontos para batalha.
+
+606
+00:39:13,770 --> 00:39:18,609
+Batalha não é uma simulação.
+É sangue e gritos...
+
+607
+00:39:19,568 --> 00:39:20,611
+e funerais.
+
+608
+00:39:21,153 --> 00:39:24,406
+Não foi isso o que ensinei.
+Não começamos a disparar por palpite.
+
+609
+00:39:24,531 --> 00:39:26,950
+E não tiramos vidas inocentes,
+ponto final.
+
+610
+00:39:28,118 --> 00:39:30,245
+Eu entendo sua história com os Klingons.
+
+611
+00:39:30,329 --> 00:39:33,415
+Minha decisão por esta abordagem
+não é emocional.
+
+612
+00:39:33,498 --> 00:39:36,960
+-Miramos no pescoço, removemos a cabeça...
+-Você está ferida.
+
+613
+00:39:37,044 --> 00:39:39,755
+Milhares de vidas serão perdidas
+por falta de ação.
+
+614
+00:39:39,838 --> 00:39:42,424
+Vidas de quem?
+Vítimas de sua guerra imaginária?
+
+615
+00:39:42,508 --> 00:39:43,717
+Sua vida, capitão.
+
+616
+00:39:45,677 --> 00:39:46,512
+A sua.
+
+617
+00:39:50,098 --> 00:39:51,725
+Retroceda, Comandante Burnham.
+
+618
+00:39:52,601 --> 00:39:53,602
+Isto é uma ordem.
+
+619
+00:39:56,438 --> 00:39:57,272
+Você tem razão.
+
+620
+00:40:00,984 --> 00:40:02,110
+Posso não ser eu mesma.
+
+621
+00:40:07,824 --> 00:40:08,784
+Acalme-se, Michael.
+
+622
+00:40:14,998 --> 00:40:15,916
+Eu sinto muito.
+
+623
+00:40:21,839 --> 00:40:23,340
+Está dispensado, Sr. Saru.
+
+624
+00:40:23,841 --> 00:40:25,008
+Onde está a capitão?
+
+625
+00:40:26,051 --> 00:40:30,347
+Forneci informações de uma fonte.
+Ela está transmitindo para o almirante.
+
+626
+00:40:30,430 --> 00:40:32,724
+Armas. Carregue dois torpedos de fótons,
+
+627
+00:40:32,808 --> 00:40:36,228
+e calcule uma solução de disparo
+visando o pescoço daquela nave.
+
+628
+00:40:36,311 --> 00:40:38,313
+O plano é disparar contra os Klingons?
+
+629
+00:40:38,397 --> 00:40:41,650
+Temos que estar prontos
+caso a capitão decida por isso.
+
+630
+00:40:42,359 --> 00:40:44,903
+Você está agindo sob ordens da capitão?
+
+631
+00:40:44,987 --> 00:40:48,699
+Eu sou sua oficial superior.
+Estamos em um situação de alto risco.
+
+632
+00:40:49,157 --> 00:40:52,035
+Questione a cadeia de comando novamente,
+e eu irei removê-lo.
+
+633
+00:40:52,619 --> 00:40:54,037
+Comandante, é apenas...
+
+634
+00:40:54,997 --> 00:40:58,166
+Sua respiração está elevada,
+transpiração é visível.
+
+635
+00:40:58,250 --> 00:41:01,587
+Receio que o que você está fazendo
+vá contra a vontade de nossa capitão.
+
+636
+00:41:01,670 --> 00:41:04,590
+Apontar feisers.
+Assuma sua estação, comandante.
+
+637
+00:41:05,090 --> 00:41:08,302
+-Isto é motim.
+-Ande, Saru. Tática.
+
+638
+00:41:09,178 --> 00:41:10,345
+TORPEDO FOTÔNICO
+ALVO TRAVADO
+
+639
+00:41:10,429 --> 00:41:11,430
+-Alvo travado.
+-Fogo.
+
+640
+00:41:11,513 --> 00:41:12,431
+Suspenda a ordem.
+
+641
+00:41:14,558 --> 00:41:17,269
+Capitão, por favor.
+Eu estou tentando salvá-la.
+
+642
+00:41:18,020 --> 00:41:19,646
+Estou tentando salvar todos vocês.
+
+643
+00:41:23,192 --> 00:41:24,151
+Retroceda.
+
+644
+00:41:36,121 --> 00:41:38,624
+Capitão, naves.
+Sinais de dobras espaciais detectadas.
+
+645
+00:41:38,707 --> 00:41:39,750
+É a Frota Estelar?
+
+646
+00:41:48,383 --> 00:41:49,218
+Não.
+
+647
+00:41:49,885 --> 00:41:51,303
+Essas naves são Klingon.
+
+648
+00:42:48,902 --> 00:42:50,904
+Legendas:
+Caio Xavier
+
