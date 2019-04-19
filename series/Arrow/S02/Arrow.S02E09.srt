@@ -1,0 +1,2430 @@
+﻿1
+00:00:02,210 --> 00:00:04,670
+Meu nome é Oliver Queen.
+
+2
+00:00:04,963 --> 00:00:07,214
+Depois de cinco anos
+em uma ilha infernal...
+
+3
+00:00:08,216 --> 00:00:10,342
+eu voltei pra casa
+com um único objetivo:
+
+4
+00:00:11,094 --> 00:00:13,137
+salvar minha cidade.
+
+5
+00:00:13,304 --> 00:00:17,016
+Mas pra fazer isso,
+não posso ser o assassino que já fui.
+
+6
+00:00:18,601 --> 00:00:21,770
+Pra honrar a memória do meu amigo,
+eu preciso ser outra pessoa.
+
+7
+00:00:21,938 --> 00:00:23,397
+
+EM MEMÓRIA DE
+THOMAS MERLYN
+
+8
+00:00:23,565 --> 00:00:27,651
+Eu preciso ser outra coisa.
+
+9
+00:00:28,194 --> 00:00:29,319
+Anteriormente em Arqueiro:
+
+10
+00:00:29,487 --> 00:00:32,072
+Eu sou Barry Allen,
+do Departamento de Polícia de Central City.
+
+11
+00:00:32,240 --> 00:00:35,826
+-Estou com a Equipe de Investigação Forense.
+-Eu tenho amigos que podem ajudar.
+
+12
+00:00:36,661 --> 00:00:38,454
+Esse Milagre pode matá-lo.
+
+13
+00:00:40,832 --> 00:00:43,792
+Era um sérum projetado
+para criar armas humanas.
+
+14
+00:00:43,960 --> 00:00:45,586
+Você acha que alguém
+encontrou a receita?
+
+15
+00:00:45,754 --> 00:00:50,007
+A centrífuga e uma grande quantidade de
+sangue. Eu acho que alguém quer fazer mais.
+
+16
+00:00:52,302 --> 00:00:53,844
+-Oliver!
+-Ele tá vivo?
+
+17
+00:00:54,012 --> 00:00:55,721
+-Não podemos salvá-lo.
+-Certo. Não podemos.
+
+18
+00:00:57,807 --> 00:00:59,016
+Por favor,
+salve o meu amigo.
+
+19
+00:01:02,687 --> 00:01:04,938
+-Segure ele.
+-Ele não vai resistir.
+
+20
+00:01:05,106 --> 00:01:07,357
+Vai, sim. Só temos que descobrir
+o que foi injetado nele.
+
+21
+00:01:07,525 --> 00:01:09,985
+Eu normalmente
+só trabalho com defuntos.
+
+22
+00:01:10,153 --> 00:01:12,613
+-Barry.
+-Eu consigo pensar em quatro diagnósticos...
+
+23
+00:01:12,781 --> 00:01:15,199
+pro que tá fazendo
+o corpo dele reagir assim.
+
+24
+00:01:17,952 --> 00:01:21,121
+Quer dizer, três possíveis diagnósticos.
+
+25
+00:01:22,165 --> 00:01:23,207
+Dois.
+
+26
+00:01:23,374 --> 00:01:25,417
+Comece a massagem cardíaca.
+
+27
+00:01:29,005 --> 00:01:30,172
+Vou segurar o braço dele.
+
+28
+00:01:33,551 --> 00:01:36,136
+Pronto. Ele tá com coagulação intravenosa.
+
+29
+00:01:36,304 --> 00:01:38,222
+-O quê?
+-O sangue dele tá coagulando anormalmente.
+
+30
+00:01:38,389 --> 00:01:39,640
+Parece calda de sorvete.
+
+31
+00:01:39,808 --> 00:01:41,975
+Você pode salvá-lo, não é?
+
+32
+00:01:43,103 --> 00:01:44,770
+Está bem.
+
+33
+00:01:44,938 --> 00:01:45,979
+VENENO DE RATO
+
+34
+00:01:46,689 --> 00:01:49,233
+Ainda bem que vocês têm
+problemas com ratos.
+
+35
+00:01:49,400 --> 00:01:51,985
+-Tá falando sério? lsso vai matá-lo.
+-Senão, ele vai morrer.
+
+36
+00:01:52,695 --> 00:01:54,780
+-Felicity...
+-Anda.
+
+37
+00:01:58,827 --> 00:02:02,663
+A quantidade certa disso vai afinar
+o sangue dele o suficiente pra poder circular.
+
+38
+00:02:09,921 --> 00:02:11,463
+Relaxe, Oliver.
+
+39
+00:02:11,631 --> 00:02:13,590
+Ele está morrendo.
+
+40
+00:02:16,594 --> 00:02:17,845
+Não lute mais.
+
+41
+00:02:18,012 --> 00:02:19,304
+Oliver, fica comigo.
+
+42
+00:02:19,722 --> 00:02:20,973
+Fica comigo.
+
+43
+00:02:27,897 --> 00:02:30,566
+ARQUElRO
+
+44
+00:02:41,953 --> 00:02:43,495
+-Oliver, solte.
+-Oliver.
+
+45
+00:02:45,665 --> 00:02:47,040
+O que está acontecendo?
+
+46
+00:02:47,208 --> 00:02:50,502
+Injetaram um coagulante de sangue
+de ação rápida em você.
+
+47
+00:02:50,670 --> 00:02:52,671
+Você teria enfartado...
+
+48
+00:02:52,839 --> 00:02:55,716
+mas felizmente tínhamos um afinador
+de sangue muito eficiente à mão.
+
+49
+00:02:56,134 --> 00:02:58,677
+Varfarina. Mais conhecido
+como veneno de rato.
+
+50
+00:02:58,845 --> 00:03:02,139
+-O garoto salvou a sua vida, Oliver.
+-Essa é a parte em situações de vida ou morte...
+
+51
+00:03:02,307 --> 00:03:04,641
+em que você agradece à pessoa
+que salvou a sua vida.
+
+52
+00:03:04,976 --> 00:03:07,311
+-Você contou a ele quem eu sou.
+-É, contei.
+
+53
+00:03:08,313 --> 00:03:11,398
+Esse segredo não é seu para contar, Felicity.
+
+54
+00:03:11,566 --> 00:03:14,902
+Eu decido quem vai saber quem eu sou.
+
+55
+00:03:15,486 --> 00:03:19,239
+Não tínhamos tempo para pegar
+o seu voto, com você inconsciente e morrendo.
+
+56
+00:03:19,407 --> 00:03:21,200
+O que acontece se ele sair daqui
+e for direto na polícia?
+
+57
+00:03:21,367 --> 00:03:23,243
+-Ele não faria isso.
+-Eu não faria isso.
+
+58
+00:03:23,411 --> 00:03:24,453
+-Eu confio nele.
+-Eu não.
+
+59
+00:03:24,621 --> 00:03:27,289
+-O que você vai fazer? Atirar uma flecha nele?
+-Estou pensando nisso.
+
+60
+00:03:27,457 --> 00:03:30,626
+Ele está brincando. Como isso é diferente
+de quando a sua mãe atirou em você...
+
+61
+00:03:30,793 --> 00:03:33,337
+-e você veio me pedir ajuda?
+-A sua mãe atirou em você?
+
+62
+00:03:33,504 --> 00:03:35,964
+Ou de quando você trouxe o Dig para cá,
+quando ele foi envenenado?
+
+63
+00:03:36,132 --> 00:03:39,718
+A diferença é que eu tinha
+pesquisado sobre vocês dois!
+
+64
+00:03:39,886 --> 00:03:42,095
+Eu não saio contando para qualquer um.
+
+65
+00:03:42,263 --> 00:03:44,097
+Eu não vou contar para ninguém.
+
+66
+00:03:44,265 --> 00:03:48,101
+E não precisa me agradecer, mas agradeça
+a ela ao invés de agir como um babaca.
+
+67
+00:03:50,063 --> 00:03:51,772
+Sr. Queen.
+
+68
+00:03:58,988 --> 00:04:00,530
+Você Pode, Por Favor,
+Vir Para Casa.
+
+69
+00:04:01,324 --> 00:04:02,532
+Eu tenho que ir para casa.
+
+70
+00:04:02,700 --> 00:04:04,493
+O cara que eu enfrentei no abrigo...
+
+71
+00:04:04,661 --> 00:04:08,330
+ele tem o que precisa para produzir
+em massa o sérum da ilha.
+
+72
+00:04:08,498 --> 00:04:11,792
+Temos que evitar isso.
+
+73
+00:04:15,588 --> 00:04:16,630
+Sim.
+
+74
+00:04:16,798 --> 00:04:19,132
+Ele tocou na sua pele
+quando agarrou o seu pescoço.
+
+75
+00:04:19,300 --> 00:04:22,177
+Eu consegui recolher os óleos residuais
+da pele dele que...
+
+76
+00:04:22,345 --> 00:04:26,098
+quando adicionados a um gel polimérico,
+pode revelar a sua impressão digital.
+
+77
+00:04:33,147 --> 00:04:35,774
+Nunca conheça os seus heróis, não é?
+
+78
+00:04:40,154 --> 00:04:41,738
+Mãe?
+
+79
+00:04:41,906 --> 00:04:44,866
+Obrigada por vir para casa, querido.
+
+80
+00:04:45,076 --> 00:04:46,910
+-Está tudo bem?
+-Bom, eu não sei.
+
+81
+00:04:47,078 --> 00:04:50,330
+A sua irmã se trancou no quarto
+e não quer falar comigo.
+
+82
+00:04:50,498 --> 00:04:52,666
+-Não se preocupe. Eu falo com ela.
+-Está bem.
+
+83
+00:04:56,087 --> 00:04:57,212
+
+É Natal.
+
+84
+00:04:58,506 --> 00:04:59,923
+
+É.
+
+85
+00:05:00,091 --> 00:05:03,593
+Mas pela última festa que demos...
+
+86
+00:05:03,761 --> 00:05:06,888
+eu acho que é melhor esquecer
+a festa de Natal esse ano.
+
+87
+00:05:15,732 --> 00:05:17,649
+
+Thea? É o Ollie. Abre a porta.
+
+88
+00:05:17,817 --> 00:05:19,443
+Agora não, Ollie.
+
+89
+00:05:19,610 --> 00:05:22,195
+-Speedy, abre a porta.
+-A mamãe está com você?
+
+90
+00:05:23,114 --> 00:05:24,656
+Não.
+
+91
+00:05:27,535 --> 00:05:30,120
+-O que está acontecendo?
+-Eu não queria que a mamãe visse.
+
+92
+00:05:30,288 --> 00:05:31,830
+Visse o quê?
+
+93
+00:05:37,837 --> 00:05:38,879
+O que aconteceu com ele?
+
+94
+00:05:39,047 --> 00:05:42,674
+O vigilante decidiu usá-lo
+como alvo para praticar.
+
+95
+00:05:42,842 --> 00:05:45,969
+Você está certo. O cara é louco.
+
+96
+00:05:47,764 --> 00:05:49,014
+Por que você
+não foi para o hospital?
+
+97
+00:05:49,182 --> 00:05:52,517
+Nessa cidade, uma flecha funciona como
+uma bala, se você quer a polícia envolvida.
+
+98
+00:05:52,685 --> 00:05:57,022
+E a mamãe gosta do Roy, mas algo me diz
+que ela retiraria o convite para ceia de Natal...
+
+99
+00:05:57,190 --> 00:06:00,442
+se ela descobrisse que ele andou
+se metendo com o Capuz.
+
+100
+00:06:04,030 --> 00:06:05,530
+Oi.
+
+101
+00:06:06,657 --> 00:06:07,949
+Roy...
+
+102
+00:06:08,743 --> 00:06:10,160
+isso vai doer.
+
+103
+00:06:10,328 --> 00:06:11,787
+A minha raiva está anestesiando a dor.
+
+104
+00:06:12,246 --> 00:06:13,455
+Isso vai anestesiar melhor.
+
+105
+00:06:27,804 --> 00:06:30,639
+Faça pressão. Bem ali.
+
+106
+00:06:38,856 --> 00:06:41,400
+Diggle, eu preciso que você venha
+até a mansão Queen.
+
+107
+00:06:42,735 --> 00:06:44,778
+O Roy levou um tiro.
+
+108
+00:06:46,155 --> 00:06:47,197
+De flecha.
+
+109
+00:06:48,032 --> 00:06:49,241
+
+É uma longa história.
+
+110
+00:06:49,409 --> 00:06:53,120
+Traga o kit de primeiros socorros
+para o quarto da Thea.
+
+111
+00:06:53,788 --> 00:06:55,372
+Obrigado.
+
+112
+00:06:56,374 --> 00:06:57,749
+Roy, meu motorista, o Sr. Diggle...
+
+113
+00:06:57,917 --> 00:07:00,585
+tem treinamento médico.
+Ele vai cuidar de você.
+
+114
+00:07:00,753 --> 00:07:02,754
+-Obrigado.
+-É o mínimo que eu posso fazer.
+
+115
+00:07:02,922 --> 00:07:05,382
+Olha, eu não sei o que
+vocês três estão aprontando...
+
+116
+00:07:05,967 --> 00:07:08,510
+mas talvez o vigilante
+só estivesse tentando protegê-los.
+
+117
+00:07:08,678 --> 00:07:10,512
+Atirando no Roy?
+
+118
+00:07:10,680 --> 00:07:11,930
+Eu...
+
+119
+00:07:12,849 --> 00:07:14,015
+Estou só falando.
+
+120
+00:07:14,517 --> 00:07:16,685
+Talvez seja melhor deixar isso para lá.
+
+121
+00:07:23,609 --> 00:07:24,943
+Vamos deixar isso para lá?
+
+122
+00:07:25,111 --> 00:07:26,903
+Não.
+
+123
+00:07:27,572 --> 00:07:30,031
+Mas agora nós vamos fazer
+as coisas do meu jeito.
+
+124
+00:07:41,210 --> 00:07:42,252
+Mãe?
+
+125
+00:07:42,920 --> 00:07:43,962
+Oi?
+
+126
+00:07:47,550 --> 00:07:48,592
+Shado?
+
+127
+00:08:05,485 --> 00:08:06,568
+Você não pode vir aqui.
+
+128
+00:08:08,446 --> 00:08:10,322
+Eu tinha que ver você.
+
+129
+00:08:10,490 --> 00:08:13,116
+-Tinha que avisá-lo.
+-Avisar?
+
+130
+00:08:13,284 --> 00:08:15,952
+Você não pode enfrentar o que está vindo.
+
+131
+00:08:16,662 --> 00:08:18,663
+Aposente o seu arco.
+
+132
+00:08:18,831 --> 00:08:23,168
+-Tire o capuz do meu pai.
+-Eu uso o capuz para homenagear o seu pai.
+
+133
+00:08:24,295 --> 00:08:27,214
+-E para homenagear você.
+-Se você quer me homenagear...
+
+134
+00:08:27,381 --> 00:08:30,717
+pare de lutar e viva.
+
+135
+00:08:32,011 --> 00:08:34,179
+Ou todo mundo que você ama vai morrer.
+
+136
+00:08:35,598 --> 00:08:37,015
+Ollie?
+
+137
+00:08:38,935 --> 00:08:41,269
+Com quem você estava falando?
+
+138
+00:08:55,034 --> 00:08:56,243
+Abaixem as suas armas!
+
+139
+00:09:03,125 --> 00:09:04,960
+Vem para cá.
+
+140
+00:09:33,906 --> 00:09:34,948
+Mirakuru.
+
+141
+00:09:38,077 --> 00:09:39,119
+Levem eles.
+
+142
+00:09:41,497 --> 00:09:43,456
+Anthony...
+
+143
+00:09:44,166 --> 00:09:46,209
+
+você conseguiu o que você queria.
+
+144
+00:09:46,377 --> 00:09:48,378
+Você pode soltá-los.
+
+145
+00:09:48,588 --> 00:09:50,130
+Se você gosta mesmo de mim...
+
+146
+00:09:50,339 --> 00:09:53,133
+Mas eu gosto de você, Sara.
+
+147
+00:09:54,427 --> 00:09:56,511
+E é por isso que eu não vou
+escolher matá-la.
+
+148
+00:09:57,597 --> 00:09:59,139
+Mas talvez ele escolha.
+
+149
+00:10:00,099 --> 00:10:01,349
+Do que você está falando?
+
+150
+00:10:02,852 --> 00:10:04,894
+Hora de escolher, Oliver.
+
+151
+00:10:05,980 --> 00:10:08,189
+Quem vive e quem morre.
+
+152
+00:10:08,399 --> 00:10:10,317
+Mas escolha rápido,
+porque em 30 segundos...
+
+153
+00:10:10,901 --> 00:10:12,152
+eu vou matar as duas.
+
+154
+00:10:20,119 --> 00:10:22,412
+O processo de incubação começou.
+
+155
+00:10:22,580 --> 00:10:25,999
+O sérum vai estar pronto
+para distribuição em 48 horas.
+
+156
+00:10:27,126 --> 00:10:28,960
+Dois dias.
+
+157
+00:10:29,712 --> 00:10:34,341
+E vamos poder criar
+mais cem que nem você.
+
+158
+00:10:36,135 --> 00:10:40,639
+E as pessoas que governam essa cidade
+vão ver o que é ter poder de verdade.
+
+159
+00:10:46,896 --> 00:10:50,315
+-Eu sabia que o vigilante tinha parceiros.
+-Ele gosta de ser chamado de Arqueiro.
+
+160
+00:10:50,483 --> 00:10:53,401
+Vocês três se meteram
+com umas pessoas da pesada.
+
+161
+00:10:53,569 --> 00:10:57,530
+O Artesão de Bonecas,
+o Conde Vertigo, o Dodger...
+
+162
+00:10:57,698 --> 00:11:00,617
+-a Caçadora.
+-Não estávamos anotando.
+
+163
+00:11:00,785 --> 00:11:03,244
+-Eu estava.
+-Barry.
+
+164
+00:11:04,789 --> 00:11:08,083
+O veneno de rato que você me deu.
+Tem algum efeito colateral?
+
+165
+00:11:09,293 --> 00:11:13,296
+Tem. Acho que alucinações, talvez.
+
+166
+00:11:13,464 --> 00:11:17,425
+E suor excessivo.
+Você está suando excessivamente?
+
+167
+00:11:17,593 --> 00:11:20,178
+Você está alucinando?
+O que você está vendo?
+
+168
+00:11:21,555 --> 00:11:24,432
+Uma garota chamada Shado,
+que estava comigo na ilha.
+
+169
+00:11:25,518 --> 00:11:27,936
+Shado. Sara.
+
+170
+00:11:28,104 --> 00:11:30,355
+Com quantas mulheres
+você estava perdido?
+
+171
+00:11:30,523 --> 00:11:32,107
+Tem certeza que
+não era a Ilha da Fantasia?
+
+172
+00:11:32,274 --> 00:11:36,444
+Você treinou em uum ambiente
+de floresta ou selva, por isso o verde.
+
+173
+00:11:38,447 --> 00:11:41,366
+Deixe eu tirar um pouco de sangue,
+para ver o que dá.
+
+174
+00:11:41,534 --> 00:11:43,702
+Posso lhe perguntar algo?
+
+175
+00:11:45,496 --> 00:11:46,913
+Por que não usa uma máscara?
+
+176
+00:11:47,081 --> 00:11:51,376
+Sem querer lhe dizer
+como ser um bom vigilante...
+
+177
+00:11:51,544 --> 00:11:54,879
+
+mas esse negócio
+de maquiagem na cara...
+
+178
+00:11:55,256 --> 00:11:56,840
+é péssimo para esconder a identidade.
+
+179
+00:11:57,007 --> 00:12:01,553
+Ache uma máscara que se ajuste ao meu rosto
+e não afete a habilidade de mirar ao correr.
+
+180
+00:12:01,721 --> 00:12:03,972
+Você devia experimentar
+uma microfibra compressível.
+
+181
+00:12:04,140 --> 00:12:06,516
+-Pode dar certo.
+-Achei Cyrus Gold.
+
+182
+00:12:06,684 --> 00:12:07,767
+Quem é Cyrus Gold?
+
+183
+00:12:07,977 --> 00:12:10,437
+A arma humana que o deixou
+quase morto naquela noite.
+
+184
+00:12:10,604 --> 00:12:12,981
+O garoto conseguiu tirar
+a impressão digital dele do seu pescoço.
+
+185
+00:12:13,149 --> 00:12:16,526
+Usei um software de reconhecimento facial
+para escanear as câmeras de circuito fechado.
+
+186
+00:12:16,736 --> 00:12:20,989
+Ele está na esquina da Delgado com a 25 agora,
+mas já vamos perdê-lo de vista.
+
+187
+00:12:21,157 --> 00:12:25,452
+-O que mais tem nesse cruzamento?
+-Um estacionamento, um mercado, um motel...
+
+188
+00:12:25,619 --> 00:12:27,120
+Pode ser onde ele está escondido.
+
+189
+00:12:27,288 --> 00:12:29,539
+-Deixa comigo.
+-Oliver.
+
+190
+00:12:31,167 --> 00:12:32,876
+Por que não deixa eu cuidar disso?
+
+191
+00:12:33,419 --> 00:12:35,879
+
+-É só inspeção.
+-Está bem.
+
+192
+00:12:36,046 --> 00:12:38,047
+Mas eu vou como reforço.
+
+193
+00:12:43,137 --> 00:12:44,429
+Não se preocupe.
+
+194
+00:12:44,597 --> 00:12:47,891
+-Vou descobrir o que tem errado com o Oliver.
+-Você seria o primeiro.
+
+195
+00:12:53,063 --> 00:12:55,064
+PREClSA DE UM VEREADOR PARA
+ACOMPANHÁ-LA NAS COMPRAS DE NATAL?
+
+196
+00:12:56,025 --> 00:12:57,859
+Admirador secreto?
+
+197
+00:12:58,027 --> 00:13:00,361
+Não. Na verdade, meu pai que mandou.
+
+198
+00:13:01,280 --> 00:13:03,156
+-O que traz vocês aqui?
+-Precisamos da sua ajuda.
+
+199
+00:13:03,741 --> 00:13:07,076
+O amigo da Cindy foi assassinado,
+mas a polícia não vai investigar.
+
+200
+00:13:07,244 --> 00:13:09,162
+Eles dizem que foi overdose,
+fim de papo.
+
+201
+00:13:09,455 --> 00:13:10,580
+Olha só isso.
+
+202
+00:13:12,041 --> 00:13:15,210
+Ele ganhava dinheiro extra doando sangue.
+Nós achamos isso no apartamento do Max.
+
+203
+00:13:15,377 --> 00:13:17,629
+Eles não iam aceitar o sangue dele
+se ele fosse drogado, não é?
+
+204
+00:13:17,797 --> 00:13:21,257
+O Max desapareceu
+no mesmo dia da doação de sangue.
+
+205
+00:13:21,425 --> 00:13:25,428
+Se ele doou sangue lá,
+talvez eles saibam de alguma coisa.
+
+206
+00:13:25,638 --> 00:13:28,056
+-Eu vou investigar.
+-Obrigada, Laurel.
+
+207
+00:13:37,483 --> 00:13:40,193
+Se você ficar entediado, eu tenho uma revista
+de palavras cruzadas no porta-luvas.
+
+208
+00:13:40,694 --> 00:13:41,778
+Não tem graça.
+
+209
+00:13:46,992 --> 00:13:48,117
+Tudo bem, o que você está vendo?
+
+210
+00:13:49,078 --> 00:13:51,371
+Tudo limpo. Muito limpo.
+
+211
+00:13:56,836 --> 00:13:59,671
+-Solomon Grundy, nascido numa segunda.
+-Batizado numa terça.
+
+212
+00:13:59,839 --> 00:14:03,758
+Eu conheço o poema.
+Simboliza as sete fases da vida...
+
+213
+00:14:03,926 --> 00:14:07,136
+-do nascimento a morte.
+-Em que fase esse cara está?
+
+214
+00:14:33,622 --> 00:14:35,373
+Vai, vai, vai!
+
+215
+00:14:40,462 --> 00:14:42,088
+Ele me levantou
+como se eu fosse pluma.
+
+216
+00:14:42,256 --> 00:14:43,882
+-Felicity, peça reforços.
+-É para já.
+
+217
+00:14:55,311 --> 00:14:57,312
+Isso é por causa da Sara?
+
+218
+00:14:57,771 --> 00:14:59,272
+Você soube dela?
+
+219
+00:15:01,817 --> 00:15:04,569
+Não. Desculpa, isso é...
+
+220
+00:15:05,195 --> 00:15:06,696
+Isso é outra coisa.
+
+221
+00:15:07,239 --> 00:15:08,281
+Cyrus Gold.
+
+222
+00:15:08,449 --> 00:15:11,743
+Ele roubou da divisão de Ciências Aplicadas
+da Corporação Queen semana passada.
+
+223
+00:15:12,703 --> 00:15:14,662
+Detetive...
+
+224
+00:15:14,830 --> 00:15:16,456
+ele é extremamente perigoso.
+
+225
+00:15:17,082 --> 00:15:19,334
+O garoto da forense de Central City...
+
+226
+00:15:19,501 --> 00:15:22,045
+-disse que esse cara era um tipo de monstro.
+-Ele é.
+
+227
+00:15:22,212 --> 00:15:24,881
+-Bom, o que é? Esteróides?
+-Pior. É...
+
+228
+00:15:27,801 --> 00:15:29,218
+
+É...
+
+229
+00:15:29,386 --> 00:15:31,971
+Digamos que eu acredito em você.
+Por que vir até mim?
+
+230
+00:15:32,514 --> 00:15:33,848
+Eu fui comprometido.
+
+231
+00:15:34,016 --> 00:15:36,559
+-O que isso significa?
+-Significa que eu seria responsável.
+
+232
+00:15:36,727 --> 00:15:39,395
+Você tem que acreditar em mim, detetive.
+
+233
+00:15:39,563 --> 00:15:40,980
+Junte quantos homens você puder...
+
+234
+00:15:41,190 --> 00:15:43,066
+e não hesite em matar Cyrus Gold.
+
+235
+00:15:43,233 --> 00:15:46,569
+Porque se ele tiver a oportunidade,
+ele fará o mesmo com você.
+
+236
+00:16:04,713 --> 00:16:08,132
+Você não tem que fazer isso.
+Já tem o que queria.
+
+237
+00:16:08,300 --> 00:16:09,634
+Pegue e vá embora.
+
+238
+00:16:10,594 --> 00:16:13,554
+-Dez segundos.
+-Você é um psicopata!
+
+239
+00:16:13,722 --> 00:16:16,015
+Meus atos vão determinar isso.
+
+240
+00:16:17,226 --> 00:16:19,310
+Cinco segundos.
+
+241
+00:16:23,023 --> 00:16:24,148
+Acabou o tempo.
+
+242
+00:16:24,316 --> 00:16:26,651
+Não, não!
+
+243
+00:16:29,154 --> 00:16:31,739
+Acho que fez a sua escolha.
+
+244
+00:16:31,907 --> 00:16:33,241
+Não!
+
+245
+00:16:48,173 --> 00:16:49,799
+-Oi.
+-Oi.
+
+246
+00:16:49,967 --> 00:16:52,552
+-O que está fazendo aqui?
+-Vim ver a Thea.
+
+247
+00:16:53,804 --> 00:16:55,388
+Entre.
+
+248
+00:16:55,597 --> 00:16:58,182
+Ela está lá em cima, no quarto.
+
+249
+00:16:59,435 --> 00:17:02,770
+Eu percebi quando estava vindo para cá que
+a sua casa não está coberta de enfeites de Natal.
+
+250
+00:17:02,938 --> 00:17:06,774
+Não estávamos muito a fim
+de decorar esse ano.
+
+251
+00:17:07,109 --> 00:17:08,276
+Eu entendo.
+
+252
+00:17:08,902 --> 00:17:10,903
+Eu lembro do último Natal.
+
+253
+00:17:11,071 --> 00:17:14,115
+Tommy e eu viemos aqui na sua festa.
+
+254
+00:17:15,034 --> 00:17:18,453
+Foi um dos melhores Natais
+que eu tive em muito tempo.
+
+255
+00:17:19,413 --> 00:17:22,081
+Bom, é melhor eu ir falar com a Thea.
+
+256
+00:17:24,835 --> 00:17:27,420
+Eu chequei a doação de sangue
+e está tudo certo.
+
+257
+00:17:27,588 --> 00:17:31,632
+Na verdade, o que o Sebastian fez
+ajudou a salvar muitas vidas.
+
+258
+00:17:31,800 --> 00:17:35,970
+Se está tudo certo com a doação de sangue,
+como vamos achar o assassino do Max?
+
+259
+00:17:36,138 --> 00:17:38,014
+Há outra coisa.
+
+260
+00:17:38,182 --> 00:17:40,058
+Todos os doadores de sangue
+na campanha...
+
+261
+00:17:40,225 --> 00:17:43,978
+passaram por uma avaliação psicológica
+do Instituto Langford.
+
+262
+00:17:46,440 --> 00:17:48,191
+E isso é legal?
+
+263
+00:17:48,358 --> 00:17:50,526
+Não é completamente fora da lei.
+
+264
+00:17:50,694 --> 00:17:53,863
+E por mais que alguém no instituto
+possa saber se o Max estava usando...
+
+265
+00:17:54,531 --> 00:17:56,866
+não há como descobrir sem um mandado.
+
+266
+00:17:57,034 --> 00:17:58,951
+Que a gente certamente
+não vai conseguir.
+
+267
+00:17:59,745 --> 00:18:01,370
+Desculpe não poder ajudar mais.
+
+268
+00:18:01,997 --> 00:18:03,915
+O que você está fazendo?
+
+269
+00:18:04,541 --> 00:18:06,667
+Só testando umas coisas.
+
+270
+00:18:06,835 --> 00:18:10,379
+Não era para você estar tentando descobrir
+o que está causando as alucinações do Oliver?
+
+271
+00:18:10,547 --> 00:18:14,008
+A amostra ainda está sendo analisada.
+Não deve levar muito tempo.
+
+272
+00:18:14,718 --> 00:18:16,052
+Que bom.
+
+273
+00:18:16,220 --> 00:18:18,096
+Você está preocupada com ele, né?
+
+274
+00:18:18,263 --> 00:18:20,348
+Ele se arrisca muito...
+
+275
+00:18:20,516 --> 00:18:23,935
+mesmo quando não está
+imaginando lindas garotas da ilha.
+
+276
+00:18:27,731 --> 00:18:30,233
+No outro dia, eu perguntei
+se você gostava do Oliver.
+
+277
+00:18:30,776 --> 00:18:32,485
+Eu respondi, não gosto.
+
+278
+00:18:33,362 --> 00:18:34,946
+Eu lembro.
+
+279
+00:18:35,114 --> 00:18:38,282
+Mas se gostasse...
+
+280
+00:18:39,243 --> 00:18:40,368
+eu consigo entender o porquê.
+
+281
+00:18:40,869 --> 00:18:42,870
+Quer dizer, Oliver Queen.
+
+282
+00:18:43,247 --> 00:18:45,373
+Ele é um bilionário de dia...
+
+283
+00:18:45,541 --> 00:18:47,542
+e salva a cidade de noite.
+
+284
+00:18:48,418 --> 00:18:50,294
+Parece que você quer sair com ele.
+
+285
+00:18:53,090 --> 00:18:54,757
+
+É que eu tenho experiência...
+
+286
+00:18:54,925 --> 00:18:58,886
+em gostar de alguém
+que não gosta de você do mesmo jeito.
+
+287
+00:19:05,727 --> 00:19:09,313
+Protestos continuam durante
+a contagem regressiva para a ignição...
+
+288
+00:19:09,481 --> 00:19:12,275
+do controverso acelerador de partículas
+dos laboratórios S.T.A.R. hoje à noite.
+
+289
+00:19:12,442 --> 00:19:14,443
+O fundador dos laboratórios S.T.A.R.,
+Harrison Wells...
+
+290
+00:19:14,611 --> 00:19:19,031
+promete que uma nova era
+de avanços científicos está por vir.
+
+291
+00:19:19,199 --> 00:19:21,659
+Acho que eu não vou voltar a tempo
+de ver eles ligarem.
+
+292
+00:19:21,910 --> 00:19:23,411
+Eu sei. Parece loucura.
+
+293
+00:19:23,579 --> 00:19:24,620
+Armas humanas?
+
+294
+00:19:24,788 --> 00:19:28,624
+O nome dele é Cyrus Gold. Foi ele que
+invadiu a Corporação Queen semana passada.
+
+295
+00:19:28,792 --> 00:19:32,128
+Foi ele que assaltou o banco de sangue.
+E matou todas aquelas pessoas.
+
+296
+00:19:32,296 --> 00:19:33,963
+Espere um minuto.
+
+297
+00:19:34,464 --> 00:19:36,757
+Onde você está conseguindo
+toda essa informação?
+
+298
+00:19:38,135 --> 00:19:39,635
+Cara, qual o seu problema?
+
+299
+00:19:39,803 --> 00:19:42,972
+Falar com o vigilante
+foi o que o fez ser rebaixado.
+
+300
+00:19:43,140 --> 00:19:44,515
+Olha, levamos uma equipe pequena.
+
+301
+00:19:44,683 --> 00:19:47,143
+McCarthy e Evans da SWAT, Jones.
+
+302
+00:19:47,311 --> 00:19:48,644
+A gente consegue pegar esse cara.
+
+303
+00:19:48,812 --> 00:19:50,730
+Eu prometi a Jeannie que eu ia
+levá-la para fazer compras.
+
+304
+00:19:50,939 --> 00:19:54,066
+Lucas. Por favor.
+
+305
+00:19:54,484 --> 00:19:58,613
+Está bem. Mas você vai ligar para Jeannie
+e falar para ela que eu não vou levá-la.
+
+306
+00:19:58,780 --> 00:19:59,906
+Senhor.
+
+307
+00:20:00,073 --> 00:20:03,618
+Eu não quero me intrometer, mas será
+que vocês querem um homem a mais?
+
+308
+00:20:08,165 --> 00:20:10,166
+Pegue um colete, policial Daily.
+
+309
+00:20:15,214 --> 00:20:18,049
+A polícia está atrás do Gold.
+Eles estão procurando por ele.
+
+310
+00:20:18,217 --> 00:20:19,508
+Eu me infiltrei no grupo deles.
+
+311
+00:20:19,676 --> 00:20:22,470
+Nós estamos perto demais
+para deixar a polícia interferir.
+
+312
+00:20:24,348 --> 00:20:26,265
+Irmão Cyrus.
+
+313
+00:20:26,475 --> 00:20:29,060
+A polícia quer muito conhecê-lo.
+
+314
+00:20:29,228 --> 00:20:31,354
+Apresente-se.
+
+315
+00:20:33,106 --> 00:20:36,192
+Então, algum plano para o Natal?
+
+316
+00:20:36,360 --> 00:20:37,818
+Acender a minha menorá.
+
+317
+00:20:37,986 --> 00:20:39,654
+Oi.
+
+318
+00:20:39,821 --> 00:20:42,698
+Oi. Como está se sentindo?
+
+319
+00:20:42,866 --> 00:20:44,242
+Bem. Só...
+
+320
+00:20:44,409 --> 00:20:48,788
+Tem gente demais na minha casa e eu quis
+vir aqui para ter um pouco de privacidade.
+
+321
+00:20:49,498 --> 00:20:51,040
+Certo.
+
+322
+00:20:51,208 --> 00:20:54,543
+Vem, Barry, podemos assistir
+à contagem regressiva no Big Belly Burger.
+
+323
+00:20:54,711 --> 00:20:58,506
+-A análise do seu sangue está quase pronta.
+-Obrigado.
+
+324
+00:21:20,946 --> 00:21:22,947
+O que foi, garoto?
+
+325
+00:21:23,115 --> 00:21:25,241
+Parece que você viu um fantasma.
+
+326
+00:21:27,828 --> 00:21:29,495
+-Tem certeza que ele está aí dentro?
+-Sim, senhor.
+
+327
+00:21:29,663 --> 00:21:32,290
+A viatura local viu Cyrus Gold entrando.
+Ele não saiu.
+
+328
+00:21:32,457 --> 00:21:34,458
+Câmeras desligadas.
+
+329
+00:22:00,986 --> 00:22:02,611
+Muito bem. Cerquem ele.
+
+330
+00:22:50,619 --> 00:22:52,328
+Esse lugar é maneiro.
+
+331
+00:22:52,496 --> 00:22:55,456
+
+É mais confortável
+do que aquela fuselagem na ilha.
+
+332
+00:22:55,624 --> 00:22:58,542
+-Você não é real.
+-Nem você.
+
+333
+00:22:59,127 --> 00:23:01,796
+Você falou para todo mundo,
+quando começou essa cruzada...
+
+334
+00:23:01,963 --> 00:23:04,924
+que era para compensar
+os pecados do seu pai.
+
+335
+00:23:08,220 --> 00:23:10,554
+Era mentira.
+
+336
+00:23:11,431 --> 00:23:14,475
+Essa palhaçada
+é para redimir os seus pecados.
+
+337
+00:23:15,143 --> 00:23:18,396
+-Você está morto.
+-Você não é um herói.
+
+338
+00:23:18,563 --> 00:23:20,064
+Ou um amigo.
+
+339
+00:23:20,232 --> 00:23:21,440
+Ou um irmão.
+
+340
+00:23:21,650 --> 00:23:23,651
+Você não é nada.
+
+341
+00:23:24,319 --> 00:23:28,197
+Não vire as costas para mim, de novo não.
+
+342
+00:23:29,908 --> 00:23:31,951
+Você se foi.
+
+343
+00:23:33,161 --> 00:23:37,498
+Onde quer que eu esteja,
+está na hora de você se juntar a mim.
+
+344
+00:23:43,171 --> 00:23:46,132
+Dizem que um covarde morre mil mortes.
+
+345
+00:23:46,299 --> 00:23:50,719
+-Mas nem isso seria o suficiente para você.
+-Eu tentei salvá-lo.
+
+346
+00:23:50,887 --> 00:23:53,514
+-E a ela.
+-Mas não conseguiu.
+
+347
+00:23:53,682 --> 00:23:55,724
+Como você não conseguiu salvar essa cidade.
+
+348
+00:24:12,075 --> 00:24:15,077
+A ilha não fez você mais forte, garoto.
+
+349
+00:24:15,579 --> 00:24:18,372
+Revelou o quanto você é fraco.
+
+350
+00:24:35,640 --> 00:24:39,101
+Obrigado por ser a minha guia de compras.
+Você está bem?
+
+351
+00:24:39,269 --> 00:24:42,980
+
+É, é que...
+Posso fazer uma pergunta?
+
+352
+00:24:43,148 --> 00:24:46,775
+
+-É sobre a doação de sangue que patrocinou.
+-Claro. É uma causa maravilhosa.
+
+353
+00:24:46,943 --> 00:24:51,405
+Principalmente com a falta de verba
+dos hospitais. O que houve?
+
+354
+00:24:54,826 --> 00:24:55,868
+Alô?
+
+355
+00:24:58,371 --> 00:24:59,955
+O quê?
+
+356
+00:25:01,333 --> 00:25:02,750
+Tudo bem. Estou indo.
+
+357
+00:25:04,461 --> 00:25:07,671
+-O que houve?
+-Meu pai.
+
+358
+00:25:08,298 --> 00:25:12,384
+Ele está no CTI. Desculpe.
+Sinto muito, eu tenho que ir.
+
+359
+00:25:12,552 --> 00:25:14,428
+Sinto muito.
+
+360
+00:25:22,521 --> 00:25:23,604
+O que aconteceu aqui?
+
+361
+00:25:23,772 --> 00:25:25,689
+-Alguém entrou?
+-Não.
+
+362
+00:25:26,983 --> 00:25:28,317
+A análise do seu sangue está pronta.
+
+363
+00:25:29,569 --> 00:25:32,029
+-Boas notícias.
+-Você sabe o que eu tenho?
+
+364
+00:25:33,281 --> 00:25:35,157
+Aí é que está.
+Seu sangue está limpo.
+
+365
+00:25:35,325 --> 00:25:37,660
+-Não há nada de errado com você.
+-Então, porque estou alucinando?
+
+366
+00:25:37,827 --> 00:25:42,248
+Não sei, mas qualquer que seja o seu
+problema, não é farmacológico. É psicológico.
+
+367
+00:25:42,415 --> 00:25:44,792
+-Está na sua cabeça.
+-Está na minha cabeça.
+
+368
+00:25:45,669 --> 00:25:47,586
+Ai, meu Deus.
+
+369
+00:25:47,796 --> 00:25:49,213
+Oliver.
+
+370
+00:25:56,721 --> 00:25:59,056
+-Pai.
+-Querida.
+
+371
+00:25:59,224 --> 00:26:01,183
+Querida.
+
+372
+00:26:02,644 --> 00:26:06,313
+Bom, eu consigo mexer meus dedos,
+deve ser um bom sinal.
+
+373
+00:26:08,149 --> 00:26:10,317
+Estou bem, querida. Estou bem.
+
+374
+00:26:10,819 --> 00:26:12,319
+Como está o Lucas? Ele está bem?
+
+375
+00:26:14,864 --> 00:26:16,949
+Eu sinto muito.
+
+376
+00:26:18,285 --> 00:26:19,326
+O que houve?
+
+377
+00:26:30,046 --> 00:26:34,717
+-Tenho que ligar para Jeannie, a mulher dele.
+-Não, pai, eu ligo. Fique aqui.
+
+378
+00:26:35,635 --> 00:26:37,511
+Descanse.
+
+379
+00:26:52,068 --> 00:26:53,193
+O que você está fazendo aqui?
+
+380
+00:26:54,362 --> 00:26:58,365
+-Queria ter certeza que o seu pai está bem.
+-Ele está.
+
+381
+00:26:59,534 --> 00:27:01,118
+E queria ter certeza de que você está bem.
+
+382
+00:27:16,676 --> 00:27:17,968
+Como você está, detetive?
+
+383
+00:27:20,055 --> 00:27:21,597
+Estou vivo.
+
+384
+00:27:22,098 --> 00:27:24,099
+Diferente da maioria das pessoas
+na minha equipe.
+
+385
+00:27:24,893 --> 00:27:26,769
+Sinto muito pelo seu parceiro.
+
+386
+00:27:27,395 --> 00:27:29,188
+Eu o levei para lá.
+
+387
+00:27:29,397 --> 00:27:31,398
+Por minha causa.
+
+388
+00:27:32,067 --> 00:27:35,944
+Detesto desapontá-lo, mas nem todas
+as mortes nessa cidade são por sua causa.
+
+389
+00:27:38,156 --> 00:27:39,490
+Eu peguei isso do Gold.
+
+390
+00:27:40,992 --> 00:27:43,410
+Espero que você consiga
+fazer algo com isso.
+
+391
+00:27:43,578 --> 00:27:46,830
+Eu não tinha acreditado antes, mas esse cara,
+é como se ele não fosse humano.
+
+392
+00:27:49,167 --> 00:27:50,459
+Ele é humano.
+
+393
+00:27:52,796 --> 00:27:54,797
+Então você pode matá-lo.
+
+394
+00:27:54,964 --> 00:27:57,174
+Pelo Hilton. E por mim.
+
+395
+00:28:05,100 --> 00:28:07,351
+Acho que já estão bem afiadas.
+
+396
+00:28:11,439 --> 00:28:13,649
+Parece que eu não estou.
+
+397
+00:28:13,817 --> 00:28:15,943
+Diggle, você acha
+que estou enlouquecendo?
+
+398
+00:28:18,446 --> 00:28:20,531
+Não mais que todos nós.
+
+399
+00:28:21,866 --> 00:28:23,617
+Eu vi...
+
+400
+00:28:24,244 --> 00:28:26,370
+Slade Wilson.
+
+401
+00:28:27,831 --> 00:28:31,583
+Slade era um amigo meu na ilha...
+
+402
+00:28:33,378 --> 00:28:37,131
+e, como a Shado,
+está morto por minha causa.
+
+403
+00:28:38,591 --> 00:28:44,596
+Lance acabou de me falar que nem toda morte
+nessa cidade é por culpa minha. Tudo bem.
+
+404
+00:28:45,181 --> 00:28:47,266
+Mas há muitas que são.
+
+405
+00:28:47,475 --> 00:28:53,147
+Quando eu voltei do Afeganistão,
+eu também vi um fantasma.
+
+406
+00:28:53,314 --> 00:28:56,191
+Culpa de sobrevivente.
+Por que nós e não eles?
+
+407
+00:28:56,359 --> 00:28:57,901
+Eu sei porquê.
+
+408
+00:28:58,069 --> 00:29:00,487
+Então o porquê não é o seu problema.
+
+409
+00:29:01,364 --> 00:29:03,407
+Como você fez
+para o seu fantasma desaparecer?
+
+410
+00:29:05,493 --> 00:29:08,537
+-Eu descobri o que ele tentava me dizer.
+-E o que era?
+
+411
+00:29:08,705 --> 00:29:13,751
+Isso é coisa minha, Oliver. Você tem
+que descobrir o que os seus tentam lhe dizer.
+
+412
+00:29:13,918 --> 00:29:15,252
+Pessoal, conseguimos algo.
+
+413
+00:29:16,004 --> 00:29:19,548
+Eu escaneei a chave que o Lance lhe deu
+e rastreei o código de série até o fabricante.
+
+414
+00:29:19,716 --> 00:29:23,510
+Essa chave abre um portão trancado em
+algum lugar do Círculo Crescente nos Glades.
+
+415
+00:29:26,556 --> 00:29:29,516
+Onde está indo?
+Você não pode sair do jeito que está.
+
+416
+00:29:30,810 --> 00:29:32,060
+Eu tenho que parar isso.
+
+417
+00:29:32,228 --> 00:29:35,898
+Gold o deixou quase morto, que é 50% 
+melhor do que como deixou o detetive Hilton.
+
+418
+00:29:36,065 --> 00:29:37,524
+Felicity...
+
+419
+00:29:38,234 --> 00:29:39,526
+eu não tenho escolha.
+
+420
+00:29:40,737 --> 00:29:41,904
+Eu voltarei.
+
+421
+00:29:42,864 --> 00:29:43,906
+Promete?
+
+422
+00:29:52,540 --> 00:29:53,540
+
+INSTlTUTO PSIQUlÁTRICO
+DE LANGFORD
+
+423
+00:30:05,970 --> 00:30:08,472
+Stanton. Stanton.
+
+424
+00:30:09,891 --> 00:30:11,558
+Max.
+
+425
+00:31:03,862 --> 00:31:05,362
+Está pronto.
+
+426
+00:31:10,368 --> 00:31:12,870
+Foi aqui que vocês
+mataram Max Stanton?
+
+427
+00:31:13,246 --> 00:31:15,706
+O que você está fazendo?
+Se enfiar isso em mim, eu mato você.
+
+428
+00:31:15,874 --> 00:31:20,252
+Não, Irmão Roy.
+Você vai matar por mim.
+
+429
+00:31:29,220 --> 00:31:31,221
+Irmão Cyrus me disse
+que ele tinha matado você.
+
+430
+00:31:31,389 --> 00:31:33,432
+Acho que ele não é tão forte
+quanto você esperava.
+
+431
+00:31:34,601 --> 00:31:35,934
+Onde você conseguiu o Mirakuru?
+
+432
+00:31:36,144 --> 00:31:37,728
+Quem lhe deu a fórmula?
+
+433
+00:31:37,896 --> 00:31:39,521
+Foi um presente.
+
+434
+00:31:39,689 --> 00:31:42,649
+Um presente que eu vou usar
+para salvar essa cidade dela mesma.
+
+435
+00:32:08,468 --> 00:32:09,676
+Outro fracasso.
+
+436
+00:32:12,180 --> 00:32:13,221
+Levante, Oliver.
+
+437
+00:32:21,689 --> 00:32:22,731
+Tommy?
+
+438
+00:32:22,899 --> 00:32:24,816
+Você não vai morrer aqui.
+
+439
+00:32:25,818 --> 00:32:27,569
+Tommy, sinto muito.
+
+440
+00:32:29,322 --> 00:32:30,364
+Eu deixei você morrer.
+
+441
+00:32:30,531 --> 00:32:33,241
+Você não me deixou morrer, Ollie.
+
+442
+00:32:33,993 --> 00:32:35,994
+Você lutou por mim.
+
+443
+00:32:36,204 --> 00:32:39,164
+Porque é isso que você faz.
+O que você sempre fez.
+
+444
+00:32:39,332 --> 00:32:41,375
+Você luta para sobreviver.
+
+445
+00:32:41,960 --> 00:32:48,048
+Eu sei que chamei você de assassino,
+mas você não é. Você é um herói.
+
+446
+00:32:48,508 --> 00:32:50,759
+Você venceu a ilha.
+
+447
+00:32:50,927 --> 00:32:52,844
+Você venceu o meu pai.
+
+448
+00:32:53,012 --> 00:32:55,430
+Então, lute, Oliver.
+
+449
+00:32:55,598 --> 00:32:58,725
+Levante-se e continue lutando.
+
+450
+00:33:00,436 --> 00:33:02,020
+Mate-o.
+
+451
+00:33:42,812 --> 00:33:43,979
+Vamos, Roy.
+
+452
+00:33:44,856 --> 00:33:48,108
+Não vou deixar mais ninguém morrer.
+
+453
+00:33:48,276 --> 00:33:51,528
+Você é forte, garoto. Anda. Vamos.
+
+454
+00:33:51,696 --> 00:33:53,113
+Vamos, Roy.
+
+455
+00:33:53,281 --> 00:33:56,116
+Lute. Vamos, lute.
+
+456
+00:34:11,340 --> 00:34:12,966
+Roy?
+
+457
+00:34:13,843 --> 00:34:15,635
+Roy.
+
+458
+00:34:15,928 --> 00:34:18,638
+Onde você estava?
+Procurei você como uma louca.
+
+459
+00:34:19,057 --> 00:34:20,182
+Eu estava...
+
+460
+00:34:23,227 --> 00:34:25,353
+Eu estava seguindo uma outra pista.
+
+461
+00:34:25,813 --> 00:34:26,980
+Não deu em nada.
+
+462
+00:34:27,148 --> 00:34:30,150
+Achei que você tinha ido
+atrás do vigilante de novo.
+
+463
+00:34:30,318 --> 00:34:32,402
+Fiquei com medo. Achei que
+alguma coisa tinha acontecido com você.
+
+464
+00:34:32,570 --> 00:34:33,612
+Ei, não se preocupe.
+
+465
+00:34:35,531 --> 00:34:36,823
+Estou vivo.
+
+466
+00:34:40,620 --> 00:34:45,248
+Eu quero servir ao povo de Starling,
+não aos que acham que são donos dela.
+
+467
+00:34:45,416 --> 00:34:46,708
+BLOOD ANUNCIA CANDlDATURA A PREFEITO
+
+468
+00:34:46,876 --> 00:34:49,211
+Juntos, podemos construir uma cidade...
+
+469
+00:34:49,378 --> 00:34:52,923
+sem elites ou oprimidos.
+
+470
+00:34:53,091 --> 00:34:56,635
+Onde somos irmãos e irmãs.
+
+471
+00:34:58,971 --> 00:35:00,639
+Então, a sua campanha começou.
+
+472
+00:35:01,390 --> 00:35:03,433
+A cidade precisa de um líder.
+
+473
+00:35:03,851 --> 00:35:08,355
+E colocar os Capuzes falsos para assassinar
+o prefeito foi só o primeiro passo.
+
+474
+00:35:11,359 --> 00:35:13,276
+O vigilante...
+
+475
+00:35:14,112 --> 00:35:16,822
+destruiu a centrífuga
+e o sérum junto com ela.
+
+476
+00:35:16,989 --> 00:35:20,283
+Vou fazer com que você receba
+outra amostra do meu sangue...
+
+477
+00:35:20,451 --> 00:35:22,994
+e poderá voltar a produzir
+o sérum em massa de novo.
+
+478
+00:35:23,996 --> 00:35:29,042
+Quando eu lhe pedir para
+não enfrentar o vigilante, você vai ouvir.
+
+479
+00:35:29,252 --> 00:35:33,797
+Lembre-se, o seu papel
+pode ser feito por outro.
+
+480
+00:35:35,424 --> 00:35:37,717
+Você sabe quem é
+debaixo do capuz, não sabe?
+
+481
+00:35:39,387 --> 00:35:42,514
+Eu sei exatamente quem ele é.
+
+482
+00:35:44,142 --> 00:35:45,392
+Ele é meu amigo.
+
+483
+00:35:45,601 --> 00:35:47,894
+
+É por isso que você não o quer morto.
+
+484
+00:35:48,062 --> 00:35:54,234
+A morte seria uma libertação dessa vida
+e a sentença dele ainda está para ser cumprida.
+
+485
+00:35:56,404 --> 00:36:00,991
+Eu vou arrancar dele
+tudo que é importante para ele.
+
+486
+00:36:03,661 --> 00:36:07,914
+Destruir aqueles que escolherem segui-lo.
+
+487
+00:36:10,168 --> 00:36:13,170
+Corromper aqueles que ele ama.
+
+488
+00:36:13,504 --> 00:36:18,800
+Depois que ele perder todos
+e tudo com o que ele se importa...
+
+489
+00:36:19,760 --> 00:36:23,430
+eu vou enfiar uma flecha no olho dele.
+
+490
+00:36:43,451 --> 00:36:45,452
+Shado.
+
+491
+00:36:48,456 --> 00:36:50,081
+Shado!
+
+492
+00:37:25,243 --> 00:37:26,618
+Não.
+
+493
+00:37:42,260 --> 00:37:43,343
+Por quê?
+
+494
+00:37:44,679 --> 00:37:47,180
+-Eu...
+-Ivo atirou nela.
+
+495
+00:37:47,390 --> 00:37:49,182
+Ele não disse o porquê.
+
+496
+00:37:49,809 --> 00:37:54,312
+Quem quer que tenha feito isso
+com ela vai sofrer.
+
+497
+00:37:58,609 --> 00:38:00,652
+Ainda com o problema dos fantasmas?
+
+498
+00:38:00,820 --> 00:38:04,239
+Não. Eu captei a mensagem.
+
+499
+00:38:05,658 --> 00:38:07,575
+Mas nós...
+
+500
+00:38:08,035 --> 00:38:09,828
+Nós temos outros problemas.
+
+501
+00:38:10,037 --> 00:38:11,871
+Não seríamos nós,
+se não tivéssemos.
+
+502
+00:38:12,039 --> 00:38:15,417
+-O sérum foi injetado no Roy.
+-Ai, meu Deus. Ele está bem?
+
+503
+00:38:17,044 --> 00:38:21,089
+Ele está vivo.
+Mas vamos ter que ficar de olho nele.
+
+504
+00:38:21,299 --> 00:38:22,382
+E Cyrus Gold?
+
+505
+00:38:22,591 --> 00:38:25,677
+Morreu no sábado, enterrado no domingo.
+
+506
+00:38:25,845 --> 00:38:27,345
+Mas ele estava trabalhando para alguém.
+
+507
+00:38:27,555 --> 00:38:32,642
+Eu o vi. Estava com uma máscara
+com a imagem de uma caveira.
+
+508
+00:38:32,810 --> 00:38:35,437
+Ele está tentando produzir o sérum em massa
+para construir um exército.
+
+509
+00:38:35,855 --> 00:38:36,938
+Para quê?
+
+510
+00:38:37,565 --> 00:38:39,566
+Você é um soldado.
+
+511
+00:38:39,734 --> 00:38:42,694
+-Qual o propósito principal de um exército?
+-Guerra.
+
+512
+00:38:50,619 --> 00:38:52,954
+-Cadê o Barry?
+-Ele voltou para Central City.
+
+513
+00:38:53,581 --> 00:38:57,375
+Queria chegar a tempo para ver
+eles ligarem o acelerador de partículas.
+
+514
+00:39:00,421 --> 00:39:02,297
+Eu tenho que atender.
+
+515
+00:39:04,675 --> 00:39:07,218
+-Oi.
+-Oi.
+
+516
+00:39:07,386 --> 00:39:10,722
+-Conseguiu?
+-Eu cheguei em Central City a tempo...
+
+517
+00:39:10,890 --> 00:39:14,267
+mas eu perdi o corte da fita
+nos laboratórios S.T.A.R.
+
+518
+00:39:14,435 --> 00:39:17,687
+Eestava atrasado, para variar.
+
+519
+00:39:17,855 --> 00:39:20,940
+Mas para não chegar atrasado de novo...
+
+520
+00:39:22,693 --> 00:39:26,529
+se você decidir que Oliver Queen
+não é o cara para você...
+
+521
+00:39:26,697 --> 00:39:32,660
+se você decidir que quer sair
+com outra pessoa...
+
+522
+00:39:33,954 --> 00:39:37,248
+você tem que saber que esse cara,
+ele vai chegar na hora.
+
+523
+00:39:37,416 --> 00:39:38,750
+Bom saber.
+
+524
+00:39:38,959 --> 00:39:42,670
+E eu deixei uma coisa para o Oliver.
+Espero que ele goste.
+
+525
+00:39:42,838 --> 00:39:45,548
+-Tchau, Barry.
+-Tchau, Felicity.
+
+526
+00:39:51,722 --> 00:39:54,099
+Eu sou Linda Park e estamos ao vivo
+do lado de fora dos Laboratórios S.T.A.R...
+
+527
+00:39:54,266 --> 00:39:57,018
+apesar do mau tempo, que só vai piorar.
+
+528
+00:39:57,186 --> 00:40:00,313
+A chuva torrencial espantou
+quase todos os manifestantes...
+
+529
+00:40:00,481 --> 00:40:03,149
+embora o CEO dos Laboratórios S.T.A.R.,
+Harrison Wells, tenha garantido...
+
+530
+00:40:03,317 --> 00:40:06,694
+que a tempestade de hoje à noite
+não vai afetar o acelerador de partículas...
+
+531
+00:40:06,862 --> 00:40:09,155
+que está funcionando muito bem.
+
+532
+00:40:14,578 --> 00:40:17,414
+
+MÉDlCO ACUSADO DE MATAR A MULHER
+NORA ALLEN MORTA PELO MARlDO
+
+533
+00:40:17,581 --> 00:40:19,582
+Estão nos pedindo para evacuar o prédio.
+
+534
+00:40:19,750 --> 00:40:23,002
+A tempestade pode ter causado danos
+ao sistema primário de refrigeração.
+
+535
+00:40:23,170 --> 00:40:26,172
+Técnicos estão tentando desligar
+o acelerador de partículas...
+
+536
+00:40:26,340 --> 00:40:29,217
+mas até agora não conseguiram retomar
+o controle do sistema.
+
+537
+00:41:26,650 --> 00:41:29,652
+Até o Arqueiro merece um presente de Natal.
+
+538
+00:41:31,906 --> 00:41:33,448
+Aqui.
+
+539
+00:41:43,125 --> 00:41:45,043
+Como estou?
+
+540
+00:41:45,461 --> 00:41:46,669
+Parece um herói.
+
+541
+00:41:54,261 --> 00:41:55,261
+ARQUEIRO
+
+542
+00:42:20,538 --> 00:42:22,539
+[Portuguese - Brazilian]
+
