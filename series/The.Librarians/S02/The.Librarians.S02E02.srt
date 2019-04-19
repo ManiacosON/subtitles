@@ -1,0 +1,3713 @@
+﻿1
+00:00:02,780 --> 00:00:04,481
+Ótimo salvamento
+com a tempestade.
+
+2
+00:00:04,482 --> 00:00:06,084
+- Bom trabalho.
+- Obrigada.
+
+3
+00:00:06,085 --> 00:00:08,252
+Só precisei calcular
+o gradiente adiabático
+
+4
+00:00:08,253 --> 00:00:10,121
+em função da oscilação
+Madden-Julian
+
+5
+00:00:10,122 --> 00:00:12,357
+sem perder a circulação
+da temperatura.
+
+6
+00:00:12,358 --> 00:00:13,858
+E um montão de magia.
+
+7
+00:00:13,859 --> 00:00:15,892
+Eles precisam voltar
+rápido ao trabalho.
+
+8
+00:00:15,893 --> 00:00:18,350
+Eles foram bem. Não
+venceríamos Prospero sem eles.
+
+9
+00:00:18,351 --> 00:00:21,411
+Não vencemos Prospero.
+Ele fugiu, e levou o livro.
+
+10
+00:00:21,412 --> 00:00:23,105
+Eu o teria perseguido,
+mas...
+
+11
+00:00:23,106 --> 00:00:25,335
+Fizemos um plano
+e o executamos juntos
+
+12
+00:00:25,336 --> 00:00:27,629
+ao invés de só ir ao ataque
+pela névoa.
+
+13
+00:00:27,630 --> 00:00:29,514
+Mas a névoa é
+a melhor parte.
+
+14
+00:00:29,515 --> 00:00:31,360
+Você está emburrado?
+
+15
+00:00:31,361 --> 00:00:34,756
+Não.
+Talvez. Não sei.
+
+16
+00:00:34,757 --> 00:00:36,218
+Sim, estou, porque
+
+17
+00:00:36,219 --> 00:00:38,763
+eu e você tínhamos
+um esquema legal.
+
+18
+00:00:38,764 --> 00:00:41,050
+Correndo por aí
+e nos aventurando...
+
+19
+00:00:41,051 --> 00:00:43,605
+- Sozinhos.
+- Essas eram as melhores partes.
+
+20
+00:00:43,606 --> 00:00:45,984
+Sim, mas por enquanto,
+com Prospero solto
+
+21
+00:00:45,985 --> 00:00:48,973
+e Moriarty com ele,
+precisamos de toda ajuda.
+
+22
+00:00:48,974 --> 00:00:51,266
+Com três Bibliotecários,
+se formos espertos,
+
+23
+00:00:51,267 --> 00:00:53,602
+- pegamos os bandidos no ato.
+- Podemos tentar.
+
+24
+00:00:53,603 --> 00:00:56,586
+Surpreender os bandidos
+seria bom para variar.
+
+25
+00:01:00,293 --> 00:01:02,277
+Hora de trabalhar.
+Trabalho, trabalho.
+
+26
+00:01:23,028 --> 00:01:24,428
+<i>Legendas Em Série
+Apresenta:</i>
+
+27
+00:01:24,429 --> 00:01:26,229
+<i>2x02 - 02/11/15
+And the Broken Staff</i>
+
+28
+00:01:26,230 --> 00:01:27,530
+<i>Bibliotecários:</i>
+
+29
+00:01:27,531 --> 00:01:32,131
+<b><i>mayared | AlineMarin | Joaonetof
+Brubs | SongMade | Maislane</i></b>
+
+30
+00:01:32,132 --> 00:01:35,210
+<b><i>Guardião:
+jluizsd</i></b>
+
+31
+00:01:35,211 --> 00:01:38,597
+Ao invés de agirmos separados,
+nossa Guardiã
+
+32
+00:01:38,598 --> 00:01:41,193
+me convenceu que essa seria
+a oportunidade ideal
+
+33
+00:01:41,194 --> 00:01:45,754
+para juntarmos nossas forças
+e derrotar nosso inimigo.
+
+34
+00:01:45,755 --> 00:01:48,190
+Este homem.
+Prospero.
+
+35
+00:01:48,191 --> 00:01:50,843
+Nós sabemos.
+Nós estávamos lá.
+
+36
+00:01:50,844 --> 00:01:52,952
+Prospero é um Ficcional.
+
+37
+00:01:52,953 --> 00:01:56,098
+Em alguns casos raros,
+um personagem é tão famoso,
+
+38
+00:01:56,099 --> 00:01:59,868
+tão bem escrito,
+uma obra é lida tantas vezes,
+
+39
+00:01:59,869 --> 00:02:03,298
+que a energia psíquica
+combinada com o ambiente mágico,
+
+40
+00:02:03,299 --> 00:02:06,935
+os permite literalmente
+sair da história.
+
+41
+00:02:06,936 --> 00:02:09,742
+O mágico Prospero, em teoria,
+seria muito perigoso.
+
+42
+00:02:09,743 --> 00:02:13,549
+Mas no texto
+de "A Tempestade"
+
+43
+00:02:13,550 --> 00:02:15,770
+Prospero abre mão
+da sua magia,
+
+44
+00:02:15,771 --> 00:02:18,487
+ele enterra o livro
+e quebra o cetro mágico.
+
+45
+00:02:18,488 --> 00:02:20,089
+Mas eventos recentes indicam
+
+46
+00:02:20,090 --> 00:02:22,224
+que ele está tentando
+recuperar o poder.
+
+47
+00:02:22,225 --> 00:02:23,826
+O que é incomum
+em um Ficcional,
+
+48
+00:02:23,827 --> 00:02:25,561
+eles são presos
+às suas histórias,
+
+49
+00:02:25,562 --> 00:02:27,997
+sem livre arbítrio
+para escolher seu destino...
+
+50
+00:02:27,998 --> 00:02:31,133
+- Desculpe.
+- Eu vou... Certo?
+
+51
+00:02:31,134 --> 00:02:32,501
+O que eu estava dizendo,
+
+52
+00:02:32,502 --> 00:02:34,742
+Prospero conseguiu achar
+um jeito
+
+53
+00:02:34,743 --> 00:02:37,589
+de se rebelar contra a história
+e recuperar seu poder.
+
+54
+00:02:37,590 --> 00:02:39,508
+- Ele recuperou o livro...
+- Nós...
+
+55
+00:02:39,509 --> 00:02:41,831
+Nós já sabemos.
+Eu sei!
+
+56
+00:02:41,832 --> 00:02:43,549
+Significa
+que o próximo passo dele
+
+57
+00:02:43,550 --> 00:02:47,100
+será consertar o cetro mágico,
+a menos que o impeçamos.
+
+58
+00:02:47,101 --> 00:02:49,418
+Gostei disso.
+Começar no ataque.
+
+59
+00:02:49,419 --> 00:02:51,520
+- O que faremos?
+- O cetro foi quebrado...
+
+60
+00:02:51,521 --> 00:02:54,423
+Desculpe. É que em geral
+eu faço as explicações.
+
+61
+00:02:54,424 --> 00:02:57,759
+Você faz conclusões, revelações
+dramáticas e toda a correria.
+
+62
+00:02:57,760 --> 00:03:00,292
+- É justo. Continue.
+- Obrigado, senhor.
+
+63
+00:03:00,293 --> 00:03:02,244
+O cetro original
+foi quebrado em 1611,
+
+64
+00:03:02,245 --> 00:03:04,615
+após a primeira apresentação
+de "A Tempestade",
+
+65
+00:03:04,616 --> 00:03:07,352
+a primeira vez que Prospero
+apareceu como um Ficcional.
+
+66
+00:03:07,353 --> 00:03:09,739
+E o que aconteceu
+com as peças?
+
+67
+00:03:09,740 --> 00:03:11,070
+Não sabemos.
+
+68
+00:03:11,071 --> 00:03:12,741
+Temos uma cópia
+de "A Tempestade"?
+
+69
+00:03:12,742 --> 00:03:14,404
+Foi publicado 10 anos
+após a peça.
+
+70
+00:03:14,405 --> 00:03:15,927
+Podem haver pistas ali.
+
+71
+00:03:15,928 --> 00:03:17,996
+Temos a 1ª edição
+na sala de leitura.
+
+72
+00:03:17,997 --> 00:03:20,471
+Pode deixar.
+Edição. Sala de leitura.
+
+73
+00:03:20,472 --> 00:03:22,167
+- Onde é a sala...
+- Vá por ali...
+
+74
+00:03:22,168 --> 00:03:24,765
+Não, fique aqui.
+Eu faço isso, é mais rápido.
+
+75
+00:03:24,766 --> 00:03:27,570
+Stone, Ezekiel,
+que tal procurarem no catálogo
+
+76
+00:03:27,571 --> 00:03:29,873
+alguma referência
+a um cetro perdido?
+
+77
+00:03:29,874 --> 00:03:31,560
+Vamos ver nos anais
+da Biblioteca,
+
+78
+00:03:31,561 --> 00:03:33,495
+ver se algum Bibliotecário
+já encontrou
+
+79
+00:03:33,496 --> 00:03:35,460
+- com esse "Prosperidade".
+- Prospero.
+
+80
+00:03:35,461 --> 00:03:36,761
+Que seja.
+
+81
+00:03:36,762 --> 00:03:39,126
+Alguém deve olhar
+também nos Livros Mágicos.
+
+82
+00:03:39,127 --> 00:03:42,297
+Mesmo que ele consiga as peças,
+ele precisa reconstruir o cetro.
+
+83
+00:03:42,298 --> 00:03:44,504
+Isso pode ser difícil,
+e podemos pegá-lo ali.
+
+84
+00:03:44,505 --> 00:03:47,166
+- Muito bom.
+- Eu faço isso.
+
+85
+00:03:47,167 --> 00:03:49,932
+- Como me saí?
+- Um bom plano A.
+
+86
+00:03:49,933 --> 00:03:53,135
+Agora precisamos de um plano B
+se ele pegar o cetro antes.
+
+87
+00:03:53,136 --> 00:03:55,277
+- Alguma ideia?
+- Tive uma boa ideia
+
+88
+00:03:55,278 --> 00:03:57,777
+que não libera
+uma explosão solar em Nova York
+
+89
+00:03:57,778 --> 00:04:00,808
+nem destrói um enorme monumento
+à liberdade...
+
+90
+00:04:00,809 --> 00:04:03,575
+Isso tudo é passado.
+O que importa agora é...
+
+91
+00:04:03,576 --> 00:04:05,394
+Passado.
+
+92
+00:04:05,395 --> 00:04:07,866
+Eve, sei onde está o cetro.
+
+93
+00:04:07,867 --> 00:04:10,860
+A menos que meu palpite
+esteja errado, e nunca estão,
+
+94
+00:04:10,861 --> 00:04:12,598
+posso pegar as peças
+e voltar aqui
+
+95
+00:04:12,599 --> 00:04:14,656
+em duas sacudidas de rabo
+de um carneiro.
+
+96
+00:04:14,657 --> 00:04:15,965
+Isso existe, não é?
+
+97
+00:04:15,966 --> 00:04:17,963
+- Então vamos todos com você.
+- Não.
+
+98
+00:04:17,964 --> 00:04:21,095
+Você deve mandá-los
+para o plano B,
+
+99
+00:04:21,096 --> 00:04:23,356
+caso eu esteja errado,
+o que não estou.
+
+100
+00:04:23,357 --> 00:04:24,657
+Mas você devia vir comigo.
+
+101
+00:04:24,658 --> 00:04:27,282
+Isso não é uma desculpa
+para sairmos em aventura, é?
+
+102
+00:04:27,283 --> 00:04:29,565
+Um pouco, mas é
+um planejamento estratégico,
+
+103
+00:04:29,566 --> 00:04:31,530
+porque garanto
+que onde estiver o cetro,
+
+104
+00:04:31,531 --> 00:04:33,068
+Prospero estará lá também.
+
+105
+00:04:35,525 --> 00:04:39,561
+Do meu texto,
+eu vos invoco para servir-me.
+
+106
+00:04:42,948 --> 00:04:46,055
+Pelas artes arcanas
+e espíritos vis,
+
+107
+00:04:46,056 --> 00:04:49,504
+venha para o meu lado,
+Moriarty.
+
+108
+00:04:51,841 --> 00:04:53,292
+Então,
+
+109
+00:04:54,977 --> 00:04:58,033
+todo aquele burburinho
+era por isso?
+
+110
+00:04:58,034 --> 00:05:01,550
+A Coleção Wallace é
+muito mais impressionante.
+
+111
+00:05:02,819 --> 00:05:07,089
+E era descendente
+da temida família Vernet.
+
+112
+00:05:07,090 --> 00:05:11,391
+Um ar tão esnobe
+de quem nasceu tão pobre.
+
+113
+00:05:15,098 --> 00:05:17,318
+Sou o primeiro
+dos Ficcionais.
+
+114
+00:05:17,319 --> 00:05:20,518
+Eu invoquei você.
+Eu controlo você.
+
+115
+00:05:20,519 --> 00:05:22,659
+Lembre-se disso.
+
+116
+00:05:22,660 --> 00:05:25,349
+Agora, pequena fada,
+
+117
+00:05:26,376 --> 00:05:29,144
+ajude-nos a encontrar
+o coração.
+
+118
+00:05:34,066 --> 00:05:36,785
+Parece que seu relógio
+está quebrado.
+
+119
+00:05:38,821 --> 00:05:41,792
+Os sentidos dele
+estão confundidos nesse lugar.
+
+120
+00:05:41,793 --> 00:05:45,283
+Alguma magia maior que a dele
+obscurece o caminho
+
+121
+00:05:45,284 --> 00:05:47,570
+que leva ao tesouro
+que procuramos.
+
+122
+00:05:47,571 --> 00:05:51,433
+Precisamos de outra forma
+para alcançar nosso objetivo.
+
+123
+00:05:55,571 --> 00:05:58,740
+E aqui está.
+
+124
+00:06:00,009 --> 00:06:03,845
+Uma onda sobre nossa praia.
+
+125
+00:06:06,616 --> 00:06:09,185
+Vamos
+aos lugares mais legais.
+
+126
+00:06:09,972 --> 00:06:11,853
+Isso não é ótimo?
+
+127
+00:06:12,962 --> 00:06:15,974
+Essa era
+a propriedade de John Dee,
+
+128
+00:06:15,975 --> 00:06:18,408
+matemático, astrônomo,
+
+129
+00:06:18,409 --> 00:06:20,202
+conselheiro
+da Rainha Elizabeth I,
+
+130
+00:06:20,203 --> 00:06:23,319
+e também confidente
+e contemporâneo
+
+131
+00:06:23,320 --> 00:06:24,976
+de William Shakespeare.
+
+132
+00:06:24,977 --> 00:06:27,142
+E ele também,
+era um mago.
+
+133
+00:06:27,143 --> 00:06:29,732
+Shakespeare tinha
+um amigo mago?
+
+134
+00:06:29,733 --> 00:06:31,409
+Meio que explica muita coisa.
+
+135
+00:06:31,410 --> 00:06:33,574
+Se o cetro de Prospero
+estava quebrado,
+
+136
+00:06:33,575 --> 00:06:35,519
+Shakespeare iria
+esconder as peças.
+
+137
+00:06:35,520 --> 00:06:38,987
+O melhor lugar para esconder
+isso é na casa de outro mago.
+
+138
+00:06:38,988 --> 00:06:43,098
+Por 400 anos as peças do cetro
+ficaram aqui nesse lixão?
+
+139
+00:06:43,099 --> 00:06:44,813
+O poder de Shakespeare
+
+140
+00:06:44,814 --> 00:06:47,084
+estava na história
+que envolvia as pessoas.
+
+141
+00:06:47,085 --> 00:06:49,659
+Ele teria escondido as peças
+o mais perto possível
+
+142
+00:06:49,660 --> 00:06:52,127
+do centro desse poder.
+
+143
+00:06:52,128 --> 00:06:54,608
+O palco. Eve!
+
+144
+00:06:55,833 --> 00:06:58,649
+Shakespeare costumava apresentar
+trabalhos em andamentos
+
+145
+00:06:58,650 --> 00:06:59,950
+para John Dee e amigos.
+
+146
+00:06:59,951 --> 00:07:01,843
+Esse deve ter sido
+o palco deles!
+
+147
+00:07:01,844 --> 00:07:03,936
+Você até
+que fica bem aí em cima.
+
+148
+00:07:03,937 --> 00:07:05,518
+Sabe, houve um época
+
+149
+00:07:05,519 --> 00:07:09,010
+em que imaginei que me tornaria
+um ator dramático clássico.
+
+150
+00:07:09,011 --> 00:07:11,290
+Até fiz audições
+para "Hamlet" no ensino médio
+
+151
+00:07:11,291 --> 00:07:13,240
+- e foi um arraso.
+- Conseguiu o papel?
+
+152
+00:07:13,241 --> 00:07:16,734
+Consegui não.
+Eu era gerente de palco.
+
+153
+00:07:16,735 --> 00:07:18,433
+Mas eu teria sido incrível.
+
+154
+00:07:18,434 --> 00:07:21,491
+De qualquer forma,
+Shakespeare não deixaria
+
+155
+00:07:21,492 --> 00:07:22,829
+isso cair em mãos erradas.
+
+156
+00:07:22,830 --> 00:07:26,829
+Ele precisava de um tipo
+de código para garantir
+
+157
+00:07:26,830 --> 00:07:29,676
+que eles não fossem
+descobertos.
+
+158
+00:07:30,393 --> 00:07:32,363
+Palavras...
+
+159
+00:07:32,364 --> 00:07:35,489
+Que nunca seriam faladas
+nesse palco.
+
+160
+00:07:37,437 --> 00:07:40,851
+Eve, você é um gênio!
+
+161
+00:07:40,852 --> 00:07:42,296
+Existe uma palavra,
+
+162
+00:07:42,297 --> 00:07:44,147
+que nenhum ator,
+dramático ou não,
+
+163
+00:07:44,148 --> 00:07:46,918
+ninguém que soubesse tradições
+teatrais, como Prospero,
+
+164
+00:07:46,919 --> 00:07:50,597
+jamais iria dizer
+a menos que estivesse atuando.
+
+165
+00:07:50,598 --> 00:07:52,398
+"MacBeth".
+
+166
+00:07:56,223 --> 00:07:58,615
+"Jurado pela espada dele".*
+
+167
+00:07:58,616 --> 00:08:01,227
+Serão espadas mágicas?
+Eu não trouxe nada para isso.
+
+168
+00:08:01,228 --> 00:08:03,277
+Não, isso é o Ato 1,
+cena 5.
+
+169
+00:08:03,278 --> 00:08:06,739
+Essas foram as palavras ditas
+pelo fantasma do pai de Hamlet,
+
+170
+00:08:06,740 --> 00:08:08,955
+geralmente ditas
+por baixo do palco.
+
+171
+00:08:10,807 --> 00:08:12,517
+O cetro está
+debaixo de nós.
+
+172
+00:08:16,094 --> 00:08:19,683
+Consegui resultados para muitos
+cetros mágicos aqui.
+
+173
+00:08:19,684 --> 00:08:22,551
+A Ruyi Jingu Bang,
+o cetro de Zaratustra,
+
+174
+00:08:22,552 --> 00:08:23,969
+o cetro de Ra.
+
+175
+00:08:23,970 --> 00:08:27,446
+Procure pelas palavras
+"cetro" e "quebrado".
+
+176
+00:08:29,388 --> 00:08:32,255
+Como?
+Isso não é um sistema de busca.
+
+177
+00:08:32,256 --> 00:08:34,843
+Não sabe usar
+o catálogo de fichas?
+
+178
+00:08:34,844 --> 00:08:36,444
+Estamos no século 21,
+
+179
+00:08:36,445 --> 00:08:38,671
+e também não sei
+ferrar um cavalo.
+
+180
+00:08:38,672 --> 00:08:41,531
+Vou ver como Jenkins
+está indo com o livro.
+
+181
+00:08:51,240 --> 00:08:54,583
+- O que está havendo?
+- As portas estão trancadas!
+
+182
+00:08:54,584 --> 00:08:56,524
+É o sistema de segurança
+da biblioteca.
+
+183
+00:08:56,525 --> 00:08:59,366
+Nível Alfa de alerta,
+bloqueio básico de intruso.
+
+184
+00:08:59,367 --> 00:09:01,197
+Não adianta empurrar, cara.
+
+185
+00:09:01,198 --> 00:09:03,167
+- Não vai ajudar.
+- Como você sabe?
+
+186
+00:09:03,168 --> 00:09:05,732
+Como você sabe? Você não presta
+atenção em nada.
+
+187
+00:09:05,733 --> 00:09:07,498
+Porque eu li
+o manual de segurança.
+
+188
+00:09:07,499 --> 00:09:09,094
+É a primeira coisa que faço.
+
+189
+00:09:09,095 --> 00:09:10,940
+Mas por que isso disparou?
+
+190
+00:09:10,941 --> 00:09:13,855
+Essa é a única entrada
+e não tem intrusos aqui.
+
+191
+00:09:13,856 --> 00:09:16,067
+A menos
+que eles já estejam lá dentro
+
+192
+00:09:16,068 --> 00:09:17,668
+e estão tentando
+nos manter aqui.
+
+193
+00:09:17,669 --> 00:09:19,361
+A única pessoa lá
+é o Sr. Jenkins.
+
+194
+00:09:19,362 --> 00:09:20,826
+Por que nos trancaria aqui?
+
+195
+00:09:20,827 --> 00:09:22,973
+Porque alguém está
+lá dentro com ele.
+
+196
+00:09:22,974 --> 00:09:24,274
+Prospero.
+
+197
+00:09:25,353 --> 00:09:27,554
+Ele veio nos confrontar.
+
+198
+00:09:28,994 --> 00:09:31,347
+Como você sabe
+sobre a Biblioteca?
+
+199
+00:09:31,348 --> 00:09:35,509
+Os guardiões de todos os itens
+mágicos e estranhos?
+
+200
+00:09:35,510 --> 00:09:37,506
+Eu caminho
+pela Terra há séculos,
+
+201
+00:09:37,507 --> 00:09:40,178
+seria impossível
+não ouvir de ti.
+
+202
+00:09:40,869 --> 00:09:45,705
+E agora nós três andamos
+pela trilha do poder.
+
+203
+00:09:47,006 --> 00:09:49,543
+Não irei ajudá-lo.
+
+204
+00:09:49,544 --> 00:09:51,437
+Como um cavalheiro amigo
+do intelecto,
+
+205
+00:09:51,438 --> 00:09:54,680
+sugiro que você coopere.
+Será mais fácil assim.
+
+206
+00:09:54,681 --> 00:09:55,981
+Por favor.
+
+207
+00:09:55,982 --> 00:09:59,084
+Geralmente eu não gosto
+de usar esse argumento,
+
+208
+00:09:59,085 --> 00:10:00,793
+ainda mais
+em casos sobrenaturais,
+
+209
+00:10:00,794 --> 00:10:03,714
+mas você sabe quem sou?
+
+210
+00:10:03,715 --> 00:10:05,971
+Você tem um sotaque
+muito bem escondido,
+
+211
+00:10:05,972 --> 00:10:09,321
+mas não totalmente.
+Algo entre germânico e celta,
+
+212
+00:10:09,322 --> 00:10:12,966
+sugerindo um britânico antigo.
+Pela sua estatura
+
+213
+00:10:12,967 --> 00:10:16,182
+e pelo tremor nos dedos
+de sua mão de ataque,
+
+214
+00:10:16,183 --> 00:10:18,230
+a forma como você continua
+aqui sem medo,
+
+215
+00:10:18,231 --> 00:10:21,040
+arrisco dizer
+que você era um homem de ação.
+
+216
+00:10:21,041 --> 00:10:22,890
+Alguém importante.
+
+217
+00:10:22,891 --> 00:10:25,212
+A dedução lógica indica
+
+218
+00:10:25,213 --> 00:10:27,880
+que você é um cavaleiro
+da Távola Redonda.
+
+219
+00:10:28,950 --> 00:10:32,819
+Ou era.
+Um ex-cavaleiro, certo?
+
+220
+00:10:32,820 --> 00:10:35,800
+O que quero dizer,
+
+221
+00:10:35,801 --> 00:10:39,415
+é que já fui ameaçado,
+torturado,
+
+222
+00:10:39,416 --> 00:10:43,029
+e intimidado, incomodados,
+ameaçado muito antes
+
+223
+00:10:43,030 --> 00:10:47,721
+de vocês serem uma ideia
+na cabeça de um escritor.
+
+224
+00:10:47,722 --> 00:10:51,649
+E nunca te levarei
+ao seu cetro.
+
+225
+00:10:51,650 --> 00:10:54,685
+Meu cetro?
+Está quebrado.
+
+226
+00:10:54,686 --> 00:10:56,679
+Mas é claro que você sabe.
+
+227
+00:10:56,680 --> 00:10:59,577
+Vim aqui em busca
+de um prêmio maior.
+
+228
+00:11:01,633 --> 00:11:03,902
+Meu primeiro cetro
+foi feito
+
+229
+00:11:03,903 --> 00:11:07,271
+à partir de um ramo
+da Árvore do Conhecimento.
+
+230
+00:11:07,272 --> 00:11:09,270
+E eu quero outro.
+
+231
+00:11:10,242 --> 00:11:15,035
+Então o que me atrai
+é o coração da Biblioteca.
+
+232
+00:11:17,228 --> 00:11:18,628
+Cassandra, saia.
+
+233
+00:11:19,952 --> 00:11:21,800
+Esqueça isso, cara.
+
+234
+00:11:21,801 --> 00:11:24,279
+Se eu não posso abrir
+essas portas, ninguém pode.
+
+235
+00:11:24,280 --> 00:11:27,855
+Precisamos fazer algo.
+Prospero está com Jenkins.
+
+236
+00:11:27,856 --> 00:11:29,733
+Ninguém conhece
+a Biblioteca como ele.
+
+237
+00:11:29,734 --> 00:11:31,440
+Jenkins nunca o ajudaria.
+
+238
+00:11:31,441 --> 00:11:32,890
+Ele fez Jenkins nos trancar.
+
+239
+00:11:32,891 --> 00:11:35,359
+Talvez ele tenha
+uma forma de controlá-lo.
+
+240
+00:11:35,360 --> 00:11:36,908
+Duvido muito disso.
+
+241
+00:11:36,909 --> 00:11:40,363
+Esse é um alerta Alfa,
+o nível mais baixo.
+
+242
+00:11:40,364 --> 00:11:42,736
+Se Prospero controlasse
+Jenkins,
+
+243
+00:11:42,737 --> 00:11:44,274
+ele dispararia
+um alerta Ômega,
+
+244
+00:11:44,275 --> 00:11:46,729
+e você não estaria prestes
+a derrubar a porta,
+
+245
+00:11:46,730 --> 00:11:49,547
+você seria um grande monte
+de cinzas e um par de botas.
+
+246
+00:11:49,548 --> 00:11:52,414
+Jenkins está blefando?
+Acionou um alerta de nível baixo
+
+247
+00:11:52,415 --> 00:11:54,273
+para pensarem
+que ele está cooperando.
+
+248
+00:11:54,274 --> 00:11:57,121
+Exato. O alarme Alfa aciona
+a porta dos fundos.
+
+249
+00:11:57,122 --> 00:11:59,939
+- Aciona?
+- Sou o único que lê
+
+250
+00:11:59,940 --> 00:12:01,408
+os manuais de segurança?
+
+251
+00:12:02,093 --> 00:12:03,593
+Existe um código secreto
+
+252
+00:12:03,594 --> 00:12:06,911
+no caso do Bibliotecário
+ou Guardião precisar invadir.
+
+253
+00:12:07,901 --> 00:12:11,935
+Pare de brincar
+com o celular e descubra!
+
+254
+00:12:11,936 --> 00:12:13,471
+É simples.
+
+255
+00:12:13,472 --> 00:12:16,412
+Nós vamos até a Biblioteca.
+A local.
+
+256
+00:12:20,801 --> 00:12:22,101
+Meus joelhos.
+
+257
+00:12:28,007 --> 00:12:29,307
+Está trancado.
+
+258
+00:12:30,522 --> 00:12:32,037
+Com algum tipo de código.
+
+259
+00:12:33,458 --> 00:12:36,276
+"As armas enlaçam
+o entalhe".*
+
+260
+00:12:36,277 --> 00:12:37,882
+Enlaçam o entalhe.
+
+261
+00:12:37,883 --> 00:12:39,413
+Palavras que não dizemos.
+
+262
+00:12:39,414 --> 00:12:41,163
+Não, "MacBeth" de novo?
+
+263
+00:12:41,164 --> 00:12:43,378
+Não há nenhuma citação
+a armas em "MacBeth".
+
+264
+00:12:43,379 --> 00:12:46,591
+Se é um código, precisamos
+do criptograma para resolvê-lo.
+
+265
+00:12:46,592 --> 00:12:51,041
+- A menos que seja um anagrama.
+- Eu gosto de anagramas.
+
+266
+00:12:51,042 --> 00:12:53,768
+Armas enlaçam o entalhe.
+
+267
+00:12:55,593 --> 00:12:56,893
+Não.
+
+268
+00:12:58,335 --> 00:13:01,091
+Malas, laços.
+
+269
+00:13:01,092 --> 00:13:02,815
+- É melhor que não seja.
+- Não.
+
+270
+00:13:04,102 --> 00:13:06,774
+Mal, lançam...
+
+271
+00:13:07,804 --> 00:13:11,973
+"Mal lança coisas
+e já se fortalecem com isso".
+
+272
+00:13:11,974 --> 00:13:14,444
+MacBeth,
+ato 3, cena 2.
+
+273
+00:13:14,445 --> 00:13:16,168
+Você era
+um gerente de palco.
+
+274
+00:13:16,169 --> 00:13:19,750
+Eu era senhorita MacBeth,
+e eu estava incrível.
+
+275
+00:13:19,751 --> 00:13:22,565
+Ato 3, cena 2.
+Três...
+
+276
+00:13:24,021 --> 00:13:25,321
+Cena dois...
+
+277
+00:13:28,924 --> 00:13:30,692
+- Prepare-se, Eve.
+- Está bem.
+
+278
+00:13:30,693 --> 00:13:32,365
+Está prestes a olhar
+para as peças
+
+279
+00:13:32,366 --> 00:13:33,931
+do cetro de Prospero.
+
+280
+00:13:39,137 --> 00:13:40,740
+Menor do que imaginei.
+
+281
+00:13:45,043 --> 00:13:48,813
+"Não tão cedo,
+mas logo e há muito tempo.
+
+282
+00:13:48,814 --> 00:13:53,072
+Rezo para que sua jornada
+não termine em desgraça."
+
+283
+00:13:55,901 --> 00:13:57,201
+"O Bibliotecário"?
+
+284
+00:13:57,202 --> 00:13:59,755
+Algum Bibliotecário
+de 400 anos atrás
+
+285
+00:13:59,756 --> 00:14:01,119
+nos trouxe aqui.
+
+286
+00:14:01,120 --> 00:14:03,900
+Pegou os pedaços do cetro
+e deixou um recado irritante.
+
+287
+00:14:03,901 --> 00:14:05,714
+Se um Bibliotecário
+deixou o recado,
+
+288
+00:14:05,715 --> 00:14:07,524
+e o cetro não está aqui...
+
+289
+00:14:07,525 --> 00:14:10,003
+Está na Biblioteca.
+
+290
+00:14:11,203 --> 00:14:13,306
+- Professora.
+- Cuido disso.
+
+291
+00:14:16,606 --> 00:14:18,106
+Com licença, senhora.
+
+292
+00:14:18,107 --> 00:14:19,407
+Posso ajudá-lo?
+
+293
+00:14:19,408 --> 00:14:22,249
+Pode, preciso retirar um livro.
+É uma emergência.
+
+294
+00:14:22,250 --> 00:14:24,350
+Posso, por favor,
+ver sua carteirinha?
+
+295
+00:14:24,351 --> 00:14:29,051
+Não tenho um cartão,
+mas eu sou o Bibliotecário.
+
+296
+00:14:29,052 --> 00:14:30,652
+Você é Jane Stevens?
+
+297
+00:14:30,653 --> 00:14:35,362
+Não, eu sou o Bibliotecário.
+
+298
+00:14:36,630 --> 00:14:40,330
+De outra biblioteca.
+Mas preciso retirar um livro.
+
+299
+00:14:40,331 --> 00:14:41,631
+- Qualquer livro?
+- Não.
+
+300
+00:14:41,632 --> 00:14:44,132
+O único livro que está
+em todas às bibliotecas.
+
+301
+00:14:44,133 --> 00:14:47,402
+A Obra integral e Completa
+de William Shakespeare.
+
+302
+00:14:47,403 --> 00:14:51,703
+Sinto muito, nossa única cópia
+acabou de ser retirada.
+
+303
+00:14:53,403 --> 00:14:57,172
+Ei, com licença,
+garotinha, olá.
+
+304
+00:14:57,173 --> 00:15:01,473
+Como vai você?
+Precisamos desse livro.
+
+305
+00:15:01,474 --> 00:15:02,874
+Acabei de retirá-lo.
+
+306
+00:15:02,875 --> 00:15:05,625
+Eu sei, querida, mas precisamos
+para assuntos oficiais.
+
+307
+00:15:05,626 --> 00:15:07,746
+Somos os Bibliotecários.
+
+308
+00:15:07,747 --> 00:15:09,197
+Não são a Sr.ª Stevens.
+
+309
+00:15:09,198 --> 00:15:13,032
+Não, mas apreciamos
+seu interesse em aprender.
+
+310
+00:15:13,033 --> 00:15:15,700
+- É admirável.
+- E estamos muito impressionados
+
+311
+00:15:15,701 --> 00:15:17,303
+por você ler
+um livro tão adulto.
+
+312
+00:15:17,304 --> 00:15:18,854
+Precisamos
+desse livro de volta
+
+313
+00:15:18,855 --> 00:15:21,455
+ou algo muito ruim
+acontecerá com várias pessoas,
+
+314
+00:15:21,456 --> 00:15:23,010
+você não quer isso, não é?
+
+315
+00:15:23,011 --> 00:15:24,511
+Quero US$50.
+
+316
+00:15:24,512 --> 00:15:25,812
+- O quê?
+- O quê? Não,
+
+317
+00:15:25,813 --> 00:15:27,386
+não queremos comprá-lo,
+
+318
+00:15:27,387 --> 00:15:28,846
+- queremos só...
+- US$60.
+
+319
+00:15:30,194 --> 00:15:32,894
+Escute aqui, mocinha,
+não vamos...
+
+320
+00:15:32,895 --> 00:15:34,420
+US$75.
+
+321
+00:15:34,421 --> 00:15:35,989
+Gostei dela.
+
+322
+00:15:35,990 --> 00:15:37,523
+Tique-taque.
+
+323
+00:15:38,423 --> 00:15:41,123
+Quer que eu o leve
+ao coração da Biblioteca?
+
+324
+00:15:41,124 --> 00:15:43,276
+Está, claramente,
+fora de si.
+
+325
+00:15:43,277 --> 00:15:46,357
+Não fora si,
+estou apenas fora do meu livro.
+
+326
+00:15:46,358 --> 00:15:48,078
+Não posso levá-lo até lá.
+
+327
+00:15:48,079 --> 00:15:50,206
+Ex-cavaleiro ou não,
+a melhor escolha...
+
+328
+00:15:50,207 --> 00:15:51,607
+Sinto muito,
+entendeu errado.
+
+329
+00:15:51,608 --> 00:15:55,420
+Literalmente, não tenho
+como levá-lo agora.
+
+330
+00:15:55,421 --> 00:15:57,421
+Ele não mostra
+sinais de estar mentindo.
+
+331
+00:15:57,422 --> 00:15:59,376
+Teremos que procurar sozinhos.
+E rápido,
+
+332
+00:15:59,377 --> 00:16:01,077
+é óbvio que ele
+está nos enrolando.
+
+333
+00:16:01,078 --> 00:16:03,778
+Pode procurar o quanto quiser.
+Não vão achar.
+
+334
+00:16:03,779 --> 00:16:06,159
+O coração da Biblioteca
+não existe
+
+335
+00:16:06,160 --> 00:16:10,053
+no mesmo plano extra dimensional
+que a própria Biblioteca.
+
+336
+00:16:10,054 --> 00:16:12,754
+Por que não esquece disso?
+Desista.
+
+337
+00:16:12,755 --> 00:16:14,225
+Podemos pensar em algo...
+
+338
+00:16:14,226 --> 00:16:18,303
+O coração se esconde
+em uma parte separada do espaço?
+
+339
+00:16:18,304 --> 00:16:21,654
+Por isso nosso amigo
+estava tão perdido.
+
+340
+00:16:21,655 --> 00:16:23,304
+Eu...
+
+341
+00:16:24,654 --> 00:16:28,752
+Ariel, nos leve ao portão
+para o coração da Biblioteca.
+
+342
+00:16:33,759 --> 00:16:35,339
+Voltaram.
+
+343
+00:16:35,340 --> 00:16:38,390
+- O quê?
+- Voltaram!
+
+344
+00:16:38,391 --> 00:16:41,789
+- Espere. O quê?
+- Como voltou por tele transporte
+
+345
+00:16:41,790 --> 00:16:43,790
+- sem usar à porta?
+- Uso qualquer porta.
+
+346
+00:16:43,791 --> 00:16:45,091
+- Você pode?
+- Você não?
+
+347
+00:16:45,092 --> 00:16:46,442
+- Temos um impasse.
+- Temos.
+
+348
+00:16:46,443 --> 00:16:48,993
+- Próspero está aqui. Como?
+- Como? O bastão também.
+
+349
+00:16:48,994 --> 00:16:51,044
+Recebemos isto
+de um antigo Bibliotecário,
+
+350
+00:16:51,045 --> 00:16:53,250
+dizendo que o bastão
+foi achado
+
+351
+00:16:53,251 --> 00:16:54,801
+e escondido
+em algum lugar aqui.
+
+352
+00:16:54,802 --> 00:16:56,802
+Prospero invadiu
+enquanto estavam fora.
+
+353
+00:16:56,803 --> 00:16:59,163
+É sério? É a 3º vez
+que isso aqui é invadido
+
+354
+00:16:59,164 --> 00:17:01,364
+desde que comecei aqui.
+Teremos uma conversa,
+
+355
+00:17:01,365 --> 00:17:02,878
+sobre essa sua segurança.
+
+356
+00:17:02,879 --> 00:17:05,479
+Ele obrigou Jenkins
+a trancar tudo. Estamos fora.
+
+357
+00:17:05,480 --> 00:17:07,175
+Ninguém entra em pânico!
+
+358
+00:17:07,176 --> 00:17:10,276
+É um alarme nível alfa,
+é fácil de resolver.
+
+359
+00:17:10,277 --> 00:17:12,319
+O que precisamos para abrir...
+
+360
+00:17:12,320 --> 00:17:14,377
+- Estávamos prestes a...
+- Isso.
+
+361
+00:17:14,378 --> 00:17:16,578
+Para conseguir a senha,
+precisaremos achar...
+
+362
+00:17:16,579 --> 00:17:20,004
+Ano, data, dia, hora, minuto
+dividido pelo coeficiente
+
+363
+00:17:20,005 --> 00:17:24,130
+peça, ato, cena, vocábulo...
+Terei em três, dois, um...
+
+364
+00:17:24,131 --> 00:17:26,232
+Presságios.
+
+365
+00:17:26,233 --> 00:17:30,503
+Muito bem. Vejo que todos
+passaram no meu teste.
+
+366
+00:17:32,503 --> 00:17:35,303
+E se nossos inimigos conseguirem
+entrar na Biblioteca?
+
+367
+00:17:35,304 --> 00:17:37,354
+Eles não tem Ariel
+para achar o coração.
+
+368
+00:17:37,355 --> 00:17:38,955
+Se o cavaleiro
+não tiver mentido,
+
+369
+00:17:38,956 --> 00:17:40,436
+eles não poderão nos seguir.
+
+370
+00:17:40,437 --> 00:17:42,387
+Mesmo assim,
+talvez precisemos de ajuda.
+
+371
+00:17:42,388 --> 00:17:43,943
+A inteligência é a sua,
+
+372
+00:17:43,944 --> 00:17:48,363
+agora vamos conseguir
+os músculos.
+
+373
+00:18:18,763 --> 00:18:21,663
+Bem-vindos
+à equipe da ficção.
+
+374
+00:18:28,563 --> 00:18:29,863
+Jenkins!
+
+375
+00:18:29,864 --> 00:18:32,202
+O que faremos?
+Derretemos ele?
+
+376
+00:18:32,203 --> 00:18:33,653
+Se for mágica representativa,
+
+377
+00:18:33,654 --> 00:18:35,899
+podemos derretê-lo
+simbolicamente?
+
+378
+00:18:35,900 --> 00:18:37,450
+Não se for
+um feitiço de prisão.
+
+379
+00:18:37,451 --> 00:18:39,079
+Um vez em Xanglow,
+sob Xangai,
+
+380
+00:18:39,080 --> 00:18:42,493
+estava sob um feitiço
+tão forte que só de pensar...
+
+381
+00:18:44,857 --> 00:18:48,276
+O quê? O trabalho não é
+só sobre conhecimento obscuro.
+
+382
+00:18:48,277 --> 00:18:51,628
+Senhor, Prospero
+está aqui com Moriarty,
+
+383
+00:18:51,629 --> 00:18:54,389
+e um ser celestial aprisionado
+em um relógio de bolso.
+
+384
+00:18:54,390 --> 00:18:56,515
+- Ariel?
+- Onde está o cetro dele?
+
+385
+00:18:56,516 --> 00:18:58,716
+Ele não está atrás do cetro,
+quer algo pior,
+
+386
+00:18:58,717 --> 00:19:01,667
+que talvez eu tenha piorado
+com um erro táctico.
+
+387
+00:19:01,668 --> 00:19:04,218
+- Tudo tem sido assim hoje.
+- Ele quer outro cetro,
+
+388
+00:19:04,219 --> 00:19:07,531
+e está indo ao coração
+da Biblioteca para consegui-lo.
+
+389
+00:19:08,331 --> 00:19:10,731
+Existe um cetro
+no coração da Biblioteca?
+
+390
+00:19:10,732 --> 00:19:14,526
+Não. Uma árvore,
+a Árvore do Conhecimento.
+
+391
+00:19:14,527 --> 00:19:17,077
+A Árvore do Conhecimento
+é o coração da Biblioteca?
+
+392
+00:19:17,078 --> 00:19:19,728
+Se ele fizer um cetro
+da madeira daquela árvore,
+
+393
+00:19:19,729 --> 00:19:21,229
+não temos chance contra ele.
+
+394
+00:19:21,230 --> 00:19:23,980
+Então temos que chegar antes.
+Jenkins, como chegamos lá?
+
+395
+00:19:23,981 --> 00:19:26,481
+Tem um elevador,
+nunca fui lá, não sei...
+
+396
+00:19:26,482 --> 00:19:27,804
+Não faço ideia, senhor.
+
+397
+00:19:27,805 --> 00:19:30,985
+É aí que aparece
+o erro táctico.
+
+398
+00:19:30,986 --> 00:19:34,362
+A Biblioteca
+não está em ordem.
+
+399
+00:19:34,363 --> 00:19:39,113
+Não está em ordem? Podem
+nos dar licença um momento?
+
+400
+00:19:40,163 --> 00:19:44,087
+Desde que a Biblioteca voltou,
+ela tem estado...
+
+401
+00:19:44,088 --> 00:19:46,131
+Como posso dizer?
+Estranha.
+
+402
+00:19:46,132 --> 00:19:48,192
+Estranha? Como?
+
+403
+00:19:48,193 --> 00:19:51,513
+Salas faltando,
+corredores desaparecidos.
+
+404
+00:19:51,514 --> 00:19:53,234
+Tentei mapeá-la,
+mas está instável,
+
+405
+00:19:53,235 --> 00:19:55,045
+mudando sem aviso algum,
+
+406
+00:19:55,046 --> 00:19:58,883
+e também tem
+artefatos faltando.
+
+407
+00:20:00,683 --> 00:20:03,133
+Artefatos
+da Biblioteca faltando?
+
+408
+00:20:03,134 --> 00:20:06,574
+- São 16, até agora.
+- Quando você ia dizer algo?
+
+409
+00:20:06,575 --> 00:20:10,055
+Senhor, achei que podia resolver
+antes que descobrissem.
+
+410
+00:20:10,056 --> 00:20:11,531
+Outro erro da minha parte.
+
+411
+00:20:11,532 --> 00:20:13,715
+Que iremos discutir
+direito depois.
+
+412
+00:20:13,716 --> 00:20:15,833
+- Sim, senhor.
+- Mas agora, se for verdade,
+
+413
+00:20:15,834 --> 00:20:17,534
+não sabemos
+como chegar ao coração.
+
+414
+00:20:17,535 --> 00:20:22,047
+Não, mas Prospero sabe,
+Ariel o levará até lá.
+
+415
+00:20:22,048 --> 00:20:24,058
+Se eu estiver lendo
+isso certo,
+
+416
+00:20:24,059 --> 00:20:26,241
+mas são mapas mágicos
+então sem garantias,
+
+417
+00:20:26,242 --> 00:20:30,202
+essas salas não mudaram,
+estão do mesmo jeito nos mapas.
+
+418
+00:20:30,203 --> 00:20:32,913
+Está certa, esse é o anexo,
+é o único ponto de ligação
+
+419
+00:20:32,914 --> 00:20:35,464
+entre o mundo e a Biblioteca,
+portanto fica estável.
+
+420
+00:20:35,465 --> 00:20:38,867
+A sala de antiguidades também,
+é a sala mais velha
+
+421
+00:20:38,868 --> 00:20:42,126
+dessa encarnação da Biblioteca,
+o alicerce onde foi construída.
+
+422
+00:20:42,127 --> 00:20:44,527
+E a sala de leitura.
+A maior coleção de livros,
+
+423
+00:20:44,528 --> 00:20:46,000
+o ícone da Biblioteca.
+
+424
+00:20:46,001 --> 00:20:48,251
+Três pontos é suficiente
+para achar um local.
+
+425
+00:20:48,252 --> 00:20:50,902
+- Se triangularmos...
+- Se triangularmos a Biblioteca,
+
+426
+00:20:50,903 --> 00:20:53,383
+como um cubo mágico.
+Não importa para onde gire,
+
+427
+00:20:53,384 --> 00:20:54,784
+o centro continua o mesmo.
+
+428
+00:20:54,785 --> 00:20:56,885
+Se alinhá-los,
+pode resolvê-lo em segundos.
+
+429
+00:20:56,886 --> 00:20:59,717
+- Seis segundos, sem me gabar.
+- Se triangulá-los,
+
+430
+00:20:59,718 --> 00:21:02,874
+vai precisar de um detector.
+Imagino que tenha um?
+
+431
+00:21:02,875 --> 00:21:05,202
+Tenho um equipamento
+para rastrear Linhas Ley.
+
+432
+00:21:05,203 --> 00:21:06,990
+Ótimo.
+Triangularemos a Biblioteca.
+
+433
+00:21:06,991 --> 00:21:09,808
+Achamos o coração, nos dividimos.
+Duas pessoas por sala.
+
+434
+00:21:09,809 --> 00:21:11,632
+Jenkins, você e a Cassandra
+no Anexo.
+
+435
+00:21:11,633 --> 00:21:13,991
+Ficarei com o Stone,
+vá para a sala de leitura.
+
+436
+00:21:13,992 --> 00:21:15,694
+Vocês ficam com
+as antiguidades.
+
+437
+00:21:15,695 --> 00:21:17,404
+- Achei que... Tudo bem.
+- Ótimo.
+
+438
+00:21:21,091 --> 00:21:25,044
+O espírito achou a passagem
+para o coração da Biblioteca.
+
+439
+00:21:35,717 --> 00:21:37,017
+Eles chegaram ao elevador.
+
+440
+00:21:37,018 --> 00:21:39,112
+Ele os levará ao coração
+da Biblioteca.
+
+441
+00:21:39,719 --> 00:21:42,147
+Se não disse que tinha algo
+errado na Biblioteca,
+
+442
+00:21:42,148 --> 00:21:47,035
+- deve ter seus motivos.
+- Motivos, sim. Um bom?
+
+443
+00:21:49,752 --> 00:21:51,512
+Achei que fosse eu.
+
+444
+00:21:53,605 --> 00:21:56,398
+O Judson sempre deixou
+a Biblioteca tão organizada,
+
+445
+00:21:56,399 --> 00:21:59,033
+não queria que soubessem
+que eu não consegui.
+
+446
+00:21:59,034 --> 00:22:02,526
+Pensei... "Ficarei quieto e
+terei tempo de pensar em algo.
+
+447
+00:22:02,527 --> 00:22:05,498
+De fazer a Biblioteca confiar
+em mim, como confiava nele."
+
+448
+00:22:06,607 --> 00:22:10,317
+Ego e medo foram
+meus motivos, Srt.ª Cillian.
+
+449
+00:22:16,034 --> 00:22:18,403
+- Mas que...
+- Não se mexa.
+
+450
+00:22:19,146 --> 00:22:21,349
+O salão de antiguidades
+está no lugar certo,
+
+451
+00:22:21,350 --> 00:22:23,974
+mas as alas Gregas
+e Romanas estão misturadas.
+
+452
+00:22:23,975 --> 00:22:27,974
+A Lança de Ares e de Marte
+não estão longe uma da outra.
+
+453
+00:22:29,447 --> 00:22:32,315
+Os elmos de Mercúrio
+e Hermes estão quase se tocando.
+
+454
+00:22:32,316 --> 00:22:34,862
+E o raio de Zeus está fora
+de seu compartimento.
+
+455
+00:22:34,863 --> 00:22:38,326
+Sabe o quanto temos sorte
+desse lugar não ter explodido?
+
+456
+00:22:38,327 --> 00:22:40,805
+Muita sorte.
+
+457
+00:22:40,806 --> 00:22:43,409
+Os romanos copiaram os Gregos
+e mudaram os nomes.
+
+458
+00:22:43,410 --> 00:22:45,914
+Por isso há dois artefatos.
+E se eles se tocarem,
+
+459
+00:22:45,915 --> 00:22:48,324
+é tipo matéria
+e antimatéria.
+
+460
+00:22:48,325 --> 00:22:51,305
+Ou como encontrar a sua sósia
+no País do Espelho. Entende?
+
+461
+00:22:52,707 --> 00:22:54,067
+Se não os separarmos...
+
+462
+00:22:56,068 --> 00:23:00,007
+Essa sala inteira é
+uma bomba-relógio mágica.
+
+463
+00:23:04,378 --> 00:23:08,475
+Uma pena não termos aqueles
+trajes antibombas, não é?
+
+464
+00:23:10,524 --> 00:23:13,748
+O que é isso? Por que mexeu
+as sobrancelhas?
+
+465
+00:23:15,677 --> 00:23:17,882
+Certo, o lugar
+tem que ser esse aqui.
+
+466
+00:23:17,883 --> 00:23:20,369
+Vou arrumar tudo.
+No centro da sala.
+
+467
+00:23:27,440 --> 00:23:28,740
+Páginas em branco.
+
+468
+00:23:30,420 --> 00:23:32,220
+"Alice No País
+das Maravilhas."
+
+469
+00:23:33,443 --> 00:23:35,841
+Adoro "Alice".
+É um dos meus favoritos.
+
+470
+00:23:36,512 --> 00:23:37,872
+"Frankenstein."
+
+471
+00:23:43,050 --> 00:23:44,475
+Cortem as cabeças!
+
+472
+00:23:48,097 --> 00:23:49,397
+Não esperava por isso.
+
+473
+00:23:51,664 --> 00:23:56,066
+Cortem as cabeças!
+
+474
+00:23:56,793 --> 00:23:58,350
+É outro Fictício.
+
+475
+00:23:58,351 --> 00:24:00,979
+Ele invocou a Rainha Vermelha
+do País das Maravilhas.
+
+476
+00:24:00,980 --> 00:24:03,286
+Não, essa é
+a Rainha de Copas.
+
+477
+00:24:03,287 --> 00:24:05,715
+A Rainha Vermelha
+é de "Através do Espelho".
+
+478
+00:24:05,716 --> 00:24:07,356
+Há uma diferença?
+
+479
+00:24:07,357 --> 00:24:09,978
+Cortem as cabeças!
+Cortem as cabeças!
+
+480
+00:24:22,210 --> 00:24:23,933
+Baird!
+Isso está errado.
+
+481
+00:24:23,934 --> 00:24:25,817
+Nos livros, ela ordenava
+decapitações,
+
+482
+00:24:25,818 --> 00:24:27,685
+mas dizia que
+haviam sido perdoados.
+
+483
+00:24:27,686 --> 00:24:30,195
+Não critique a maluca
+com um machado!
+
+484
+00:24:34,503 --> 00:24:36,717
+Tem certeza de que é seguro?
+
+485
+00:24:36,718 --> 00:24:39,593
+A armadura do Agamenon,
+a manopla de Atena,
+
+486
+00:24:39,594 --> 00:24:41,624
+o elmo de Poseidon.
+Você é todo grego.
+
+487
+00:24:41,625 --> 00:24:45,711
+Não tem como o raio
+de Zeus atingir você.
+
+488
+00:24:49,945 --> 00:24:52,291
+- Eu vi isso.
+- O quê? Estou confortável aqui.
+
+489
+00:24:52,292 --> 00:24:55,006
+- Estou apreciando o seu show.
+- Nunca gostou de mim.
+
+490
+00:24:56,524 --> 00:24:58,224
+Agora não é a hora para isso.
+
+491
+00:25:15,183 --> 00:25:16,969
+Não sabia que fazia isso.
+
+492
+00:25:19,039 --> 00:25:22,626
+Se estiver de acordo,
+podemos finalmente arrumar
+
+493
+00:25:22,627 --> 00:25:25,059
+a sondagem de Linhas Ley...
+
+494
+00:25:29,961 --> 00:25:31,599
+O monstro de Frankenstein.
+
+495
+00:25:31,600 --> 00:25:34,677
+Por que estão
+demorando tanto?
+
+496
+00:25:34,678 --> 00:25:37,012
+O Prospero desceu
+mais um andar.
+
+497
+00:25:37,013 --> 00:25:40,497
+Quando isso acontece nos filmes,
+não tentam quebrar o elevador?
+
+498
+00:25:40,498 --> 00:25:44,683
+Mas nos filmes, os elevadores
+foram criados depois da Reforma.
+
+499
+00:25:51,404 --> 00:25:54,123
+Cortem as cabeças!
+
+500
+00:25:57,410 --> 00:25:58,710
+Alguma ideia?
+
+501
+00:25:59,464 --> 00:26:01,834
+O Flynn disse que os Fictícios
+não têm escolha.
+
+502
+00:26:01,835 --> 00:26:05,173
+Estão presos à história deles.
+Talvez possamos usar isso.
+
+503
+00:26:06,056 --> 00:26:09,448
+- Como a Alice a derrota?
+- Não derrota.
+
+504
+00:26:10,114 --> 00:26:12,214
+Ela acorda.
+É tudo um sonho.
+
+505
+00:26:17,340 --> 00:26:18,773
+Valeu a pena tentar.
+
+506
+00:26:21,403 --> 00:26:23,599
+Se não podemos derrotá-la,
+podemos bani-la?
+
+507
+00:26:23,600 --> 00:26:25,606
+Mandá-la para
+o País das Maravilhas?
+
+508
+00:26:26,379 --> 00:26:29,313
+O único caminho para lá
+é pela toca do coelho.
+
+509
+00:26:29,314 --> 00:26:31,615
+- Ou... Pelo espelho
+- Pelo espelho.
+
+510
+00:26:31,616 --> 00:26:34,712
+Distraia ela com coisas
+do País das Maravilhas.
+
+511
+00:26:34,713 --> 00:26:36,013
+Vou procurar por luzes.
+
+512
+00:26:41,525 --> 00:26:44,465
+Cortem as cabeças!
+
+513
+00:26:49,112 --> 00:26:52,551
+Afaste-se!
+Vamos! Para trás!
+
+514
+00:26:52,552 --> 00:26:55,755
+O monstro de Frankenstein...
+Ele odeia fogo, não é?
+
+515
+00:26:55,756 --> 00:26:59,105
+- No filme, não no livro.
+- Tem diferença?
+
+516
+00:26:59,106 --> 00:27:01,235
+Não odeio o fogo.
+
+517
+00:27:01,236 --> 00:27:04,343
+Meu ódio é apenas
+por aqueles que me odeiam.
+
+518
+00:27:04,344 --> 00:27:08,110
+Como a ti,
+homem que se considera divino,
+
+519
+00:27:08,111 --> 00:27:10,762
+porém, me vilipendia
+como monstro.
+
+520
+00:27:12,394 --> 00:27:13,694
+Há uma diferença.
+
+521
+00:27:13,695 --> 00:27:15,668
+O texto original
+é muito rebuscado.
+
+522
+00:27:15,669 --> 00:27:18,438
+Se não consideras
+as minhas palavras concisas,
+
+523
+00:27:18,439 --> 00:27:20,639
+então, tome minhas ações
+como tais.
+
+524
+00:27:20,640 --> 00:27:22,554
+Fui trazido à vida
+para matar-te.
+
+525
+00:27:22,555 --> 00:27:24,503
+Na verdade,
+não veio à vida para matar.
+
+526
+00:27:24,504 --> 00:27:27,020
+- Parece bem que vai matar.
+- Cala a boca.
+
+527
+00:27:27,668 --> 00:27:29,860
+Só matou porque
+estava desesperado.
+
+528
+00:27:29,861 --> 00:27:32,769
+Quando foi abandonado por
+seu criador, pensando que
+
+529
+00:27:32,770 --> 00:27:36,457
+o mundo se pôs contra você,
+odiou e temeu você.
+
+530
+00:27:36,458 --> 00:27:40,068
+"Se não puder inspire o amor,
+então causarei o medo."
+
+531
+00:27:40,069 --> 00:27:41,742
+São palavras suas.
+
+532
+00:27:45,479 --> 00:27:48,811
+Nunca quis matar.
+Só queria pertencer.
+
+533
+00:27:48,812 --> 00:27:53,419
+E me recuso a ter
+medo de você e odiá-lo.
+
+534
+00:27:54,358 --> 00:27:56,114
+Venha aqui.
+
+535
+00:27:56,115 --> 00:27:57,415
+Venha.
+
+536
+00:27:58,242 --> 00:27:59,542
+Dê um abraço.
+
+537
+00:28:00,638 --> 00:28:03,677
+Dê um abraço pela humanidade.
+
+538
+00:28:03,678 --> 00:28:05,006
+Sim!
+
+539
+00:28:06,634 --> 00:28:09,217
+Não há necessidade
+de violência.
+
+540
+00:28:09,882 --> 00:28:13,530
+É assim que os Bibliotecários
+resolvem os problemas,
+
+541
+00:28:13,531 --> 00:28:16,011
+com nossas mentes
+
+542
+00:28:16,012 --> 00:28:18,419
+e nossos corações.
+
+543
+00:28:23,879 --> 00:28:26,720
+- Um sonho de um tolo!
+- Valeu a tentativa.
+
+544
+00:28:26,721 --> 00:28:29,251
+Zombe de mim
+não com o desejo do meu coração.
+
+545
+00:28:29,252 --> 00:28:31,650
+Que admiração um único
+ser pode mostrar
+
+546
+00:28:31,651 --> 00:28:34,325
+para um semblante
+tão terrível como o meu?
+
+547
+00:28:34,326 --> 00:28:38,854
+Que remédio haverá para alguém
+tão horrível como eu?
+
+548
+00:28:38,855 --> 00:28:41,226
+Uma cirurgia plástica,
+talvez!
+
+549
+00:28:41,227 --> 00:28:42,627
+O quê?
+
+550
+00:28:42,628 --> 00:28:46,042
+Na verdade, ele está certo.
+Não estamos em 1800.
+
+551
+00:28:46,043 --> 00:28:49,457
+A medicina moderna
+pode consertar o seu semblante.
+
+552
+00:28:49,458 --> 00:28:52,123
+Sim e com esse tamanho
+e esses reflexos,
+
+553
+00:28:52,124 --> 00:28:54,644
+você já considerou
+jogar esportes profissionais?
+
+554
+00:28:55,941 --> 00:28:58,947
+Você não seria adorado
+por um único ser.
+
+555
+00:28:58,948 --> 00:29:00,875
+Você seria adorado
+por milhões.
+
+556
+00:29:11,372 --> 00:29:13,664
+- Cortando a sua...
+- Rainha!
+
+557
+00:29:13,665 --> 00:29:15,118
+Você.
+
+558
+00:29:15,119 --> 00:29:18,550
+Vocês do País das Maravilhas,
+gostam de trocadilhos, não é?
+
+559
+00:29:18,551 --> 00:29:20,222
+Aqui vai um.
+
+560
+00:29:20,223 --> 00:29:24,622
+Por que um corvo é
+como uma escrivaninha?
+
+561
+00:29:24,623 --> 00:29:26,902
+Porque há um "b" em ambas.
+
+562
+00:29:26,903 --> 00:29:29,923
+- O quê? Devia ter corrido!
+- Cortando a sua cabeça!
+
+563
+00:29:29,924 --> 00:29:32,945
+Espero que Flynn e Ezekiel
+estejam se saindo melhor.
+
+564
+00:29:32,946 --> 00:29:36,280
+Está dizendo
+que eu passei, certo?
+
+565
+00:29:36,281 --> 00:29:39,655
+Exato.
+Você já tem um par.
+
+566
+00:29:39,656 --> 00:29:41,324
+Ela é bonita.
+
+567
+00:29:43,309 --> 00:29:44,893
+Agora!
+
+568
+00:29:48,730 --> 00:29:50,426
+Rainha!
+
+569
+00:29:51,901 --> 00:29:53,476
+Cortando a sua...
+
+570
+00:29:55,648 --> 00:29:57,001
+Cabeça!
+
+571
+00:30:06,682 --> 00:30:08,953
+Só um baralho de cartas.
+
+572
+00:30:18,260 --> 00:30:21,098
+- Ali. Eles conseguiram.
+- O que acontece agora?
+
+573
+00:30:27,569 --> 00:30:31,791
+- Triangulamos o centro.
+- A energia da Linha Ley
+
+574
+00:30:31,792 --> 00:30:33,446
+nós levará até ela.
+
+575
+00:30:34,576 --> 00:30:36,513
+Eu vou ficar aqui
+e segurá-lo.
+
+576
+00:30:40,600 --> 00:30:42,886
+Eu preciso segurá-lo.
+
+577
+00:30:42,887 --> 00:30:44,429
+Você vai.
+
+578
+00:30:48,790 --> 00:30:51,639
+Estamos ficando sem tempo.
+Eles já chegaram no coração.
+
+579
+00:31:08,433 --> 00:31:10,257
+Flynn!
+
+580
+00:31:10,258 --> 00:31:12,651
+Ótimo.
+É você. Você conseguiu.
+
+581
+00:31:12,652 --> 00:31:14,663
+Onde estamos?
+
+582
+00:31:14,664 --> 00:31:16,853
+No coração da Biblioteca.
+
+583
+00:31:16,854 --> 00:31:20,358
+A Árvore do Conhecimento
+deveria...
+
+584
+00:31:20,359 --> 00:31:24,268
+Tem conhecimento
+de qual árvore pode ser?
+
+585
+00:31:24,269 --> 00:31:25,949
+Não tenho.
+
+586
+00:31:27,432 --> 00:31:29,094
+Engenhoso.
+
+587
+00:31:29,095 --> 00:31:31,573
+Um mecanismo
+de defesa final.
+
+588
+00:31:31,574 --> 00:31:34,285
+Esconda uma única árvore
+em meio a mil.
+
+589
+00:31:34,286 --> 00:31:37,176
+Engenhoso, sim,
+mas não é uma defesa contra nós.
+
+590
+00:31:37,177 --> 00:31:41,294
+Agora leva-nos até ela,
+minha pequena fada.
+
+591
+00:31:44,204 --> 00:31:47,329
+- É essa?
+- Essa é a Árvore da Tristeza.
+
+592
+00:31:47,330 --> 00:31:49,485
+E aquela ali?
+
+593
+00:31:49,486 --> 00:31:51,900
+Essa é a Árvore
+de Indignação dos Justos.
+
+594
+00:31:51,901 --> 00:31:54,099
+Certo,
+e que tal essa daqui?
+
+595
+00:31:54,100 --> 00:31:57,728
+Essa é a Criatividade Abstrata.
+Eve, eu saberei quando vê-la.
+
+596
+00:31:57,729 --> 00:32:01,785
+Só não há vi ainda.
+A floresta é projetada
+
+597
+00:32:01,786 --> 00:32:03,992
+para proteger a Árvore.
+Não é para ser fácil.
+
+598
+00:32:03,993 --> 00:32:05,488
+Mas podia ser fácil para nós
+
+599
+00:32:05,489 --> 00:32:07,572
+porque os caras maus
+tem uma pequena fada
+
+600
+00:32:07,573 --> 00:32:08,873
+que levará eles até ela.
+
+601
+00:32:08,874 --> 00:32:11,748
+Procuramos uma agulha
+em um palheiro, eles tem um imã.
+
+602
+00:32:11,749 --> 00:32:14,794
+- O que quer eu faça?
+- Quero que pare e pense.
+
+603
+00:32:16,295 --> 00:32:18,116
+Deus,
+é sempre assim com você.
+
+604
+00:32:18,117 --> 00:32:21,048
+Sim,
+é sempre assim comigo.
+
+605
+00:32:21,049 --> 00:32:24,628
+Por 11 anos, mais do que outro
+Bibliotecário, foi do meu jeito.
+
+606
+00:32:24,629 --> 00:32:26,493
+Não se mexe no time
+que está ganhando.
+
+607
+00:32:26,494 --> 00:32:29,211
+Mas ninguém está ganhando,
+eu não estou.
+
+608
+00:32:29,212 --> 00:32:33,088
+Desculpe. A minha habilidade
+com pessoas está enferrujada.
+
+609
+00:32:33,089 --> 00:32:35,551
+Você está falando disso
+
+610
+00:32:35,552 --> 00:32:36,992
+ou está falando disto?
+
+611
+00:32:36,993 --> 00:32:39,568
+Porque se está falando disto,
+não é um bom momento.
+
+612
+00:32:39,569 --> 00:32:41,203
+Estou falando de tudo isto.
+
+613
+00:32:41,204 --> 00:32:44,289
+Não posso viver ou trabalhar
+na base da intuição.
+
+614
+00:32:44,290 --> 00:32:47,659
+Você não pode vencer sempre
+na base da intuição.
+
+615
+00:32:47,660 --> 00:32:49,676
+Bem, eu não perdi ainda.
+
+616
+00:32:49,677 --> 00:32:51,683
+Todos podem dizer isso
+até não poderem.
+
+617
+00:32:51,684 --> 00:32:54,985
+Onze anos é sorte
+de principiante para Prospero.
+
+618
+00:32:54,986 --> 00:32:58,631
+Ele teve 500 anos
+para planejar o que queria.
+
+619
+00:32:58,632 --> 00:33:00,867
+Derrotará ele com um plano
+que pensou agora?
+
+620
+00:33:00,868 --> 00:33:02,333
+É melhor do que nada.
+
+621
+00:33:02,334 --> 00:33:05,081
+Nós estamos juntos ou não.
+Somos um time ou não.
+
+622
+00:33:05,082 --> 00:33:07,106
+Não pode ser
+só do seu jeito.
+
+623
+00:33:09,886 --> 00:33:11,743
+Esqueça.
+Não há tempo.
+
+624
+00:33:18,097 --> 00:33:20,613
+Lembra quando eu disse
+que saberia que eu a visse?
+
+625
+00:33:20,614 --> 00:33:22,606
+- Lembro.
+- Estou vendo-a.
+
+626
+00:33:22,607 --> 00:33:24,599
+- O quê?
+- E tenho um "plano."
+
+627
+00:33:24,600 --> 00:33:26,434
+- Um plano?
+- Sim.
+
+628
+00:33:26,435 --> 00:33:28,290
+Devemos estar perto
+da árvore.
+
+629
+00:33:29,374 --> 00:33:33,034
+Em cima de suas raízes,
+se meus olhos não me enganam.
+
+630
+00:33:33,035 --> 00:33:35,688
+- Como sabe disso?
+- O Bibliotecário.
+
+631
+00:33:36,949 --> 00:33:39,861
+- E a Guardiã.
+- Duquesa!
+
+632
+00:33:39,862 --> 00:33:42,363
+Atrás dela, rápido,
+antes que ela suma de vista.
+
+633
+00:33:43,301 --> 00:33:47,048
+Enquanto eu prossigo
+com um acerto de contas.
+
+634
+00:33:53,048 --> 00:33:56,361
+Muito bem, Duquesa.
+Admiro sua iniciativa.
+
+635
+00:33:56,362 --> 00:34:00,070
+Bem, então você irá adorar
+meu bom senso e coragem.
+
+636
+00:34:00,071 --> 00:34:03,392
+Infelizmente, temo que eles
+ofuscam seu senso tático.
+
+637
+00:34:03,393 --> 00:34:05,622
+Eu sou imortal, fictício.
+
+638
+00:34:05,623 --> 00:34:07,974
+Largue o relógio,
+eu pulo atrás dele.
+
+639
+00:34:07,975 --> 00:34:10,325
+Mesmo? Você?
+Vai pular de um penhasco?
+
+640
+00:34:10,326 --> 00:34:13,152
+Se lembro do livro,
+não deu certo na última vez.
+
+641
+00:34:13,153 --> 00:34:16,502
+Eu sei
+como a sua história termina.
+
+642
+00:34:16,503 --> 00:34:19,853
+Acabou, Prospero.
+Não deixarei você vencer.
+
+643
+00:34:19,854 --> 00:34:22,766
+Vencer ou perder,
+o final não é certo
+
+644
+00:34:22,767 --> 00:34:26,042
+enquanto a pena está no papel
+e a tinta está molhada.
+
+645
+00:34:26,043 --> 00:34:29,379
+Rimas?
+Eu esperava mais.
+
+646
+00:34:29,380 --> 00:34:32,383
+Um final que foi imposto
+em minha vida
+
+647
+00:34:32,384 --> 00:34:35,388
+pela força de vontade
+de Shakespeare.
+
+648
+00:34:35,389 --> 00:34:36,784
+Não por mim.
+
+649
+00:34:37,851 --> 00:34:40,988
+Ele escreveu-me
+para renunciar o meu poder,
+
+650
+00:34:40,989 --> 00:34:44,132
+uma escolha que para ele,
+eu não saberia.
+
+651
+00:34:44,133 --> 00:34:46,598
+Solilóquio. Isso é
+mais o que eu esperava.
+
+652
+00:34:46,599 --> 00:34:48,835
+Com sorte, não se tornará
+um soneto completo.
+
+653
+00:34:48,836 --> 00:34:52,059
+Agora com o livro e o cetro,
+o meu poder foi restaurado.
+
+654
+00:34:52,060 --> 00:34:55,530
+irei reivindicar
+o final que previsto,
+
+655
+00:34:55,531 --> 00:34:59,510
+um final feliz para mim
+e o resto do mundo.
+
+656
+00:34:59,511 --> 00:35:01,205
+Com magia,
+
+657
+00:35:01,206 --> 00:35:04,835
+eu farei isso acontecer.
+
+658
+00:35:04,836 --> 00:35:07,623
+Não sem um cetro.
+Não sem Ariel.
+
+659
+00:35:07,624 --> 00:35:08,931
+Olhe ao seu redor.
+
+660
+00:35:08,932 --> 00:35:12,164
+Existem literalmente
+milhares de escolhas.
+
+661
+00:35:13,169 --> 00:35:15,438
+Você nunca achará
+a Árvore do Conhecimento.
+
+662
+00:35:15,439 --> 00:35:17,230
+- Não?
+- Não.
+
+663
+00:35:19,451 --> 00:35:21,733
+- Droga.
+- A Árvore do Conhecimento
+
+664
+00:35:21,734 --> 00:35:24,494
+revelada para mim.
+
+665
+00:35:27,177 --> 00:35:29,890
+Venha agora, duquesa.
+Seja racional.
+
+666
+00:35:29,891 --> 00:35:31,335
+Se lesse meu livro,
+
+667
+00:35:31,336 --> 00:35:34,192
+saberia que a minha derrota
+custa a vida do Holmes.
+
+668
+00:35:34,193 --> 00:35:37,350
+- Ele voltou.
+- Dez anos depois, e mudado.
+
+669
+00:35:37,351 --> 00:35:39,936
+Ele estava tão mudado
+que alguns colegas acreditam
+
+670
+00:35:39,937 --> 00:35:42,788
+que nunca foi ele,
+mas eu disfarçado.
+
+671
+00:35:42,789 --> 00:35:44,875
+Está preparado
+para arriscar?
+
+672
+00:35:48,786 --> 00:35:50,826
+Bom senso e coragem,
+de fato.
+
+673
+00:35:50,827 --> 00:35:53,800
+Eu te ofereço esse acordo.
+
+674
+00:35:53,801 --> 00:35:56,088
+Devolva o relógio para mim
+e eu juro
+
+675
+00:35:56,089 --> 00:35:57,618
+que vou embora.
+
+676
+00:35:57,619 --> 00:36:00,022
+Você é o Moriarty.
+Por que eu confiaria em você?
+
+677
+00:36:00,023 --> 00:36:01,565
+Se não confia em mim,
+duquesa,
+
+678
+00:36:01,566 --> 00:36:03,566
+confie no meu
+interesse próprio.
+
+679
+00:36:03,567 --> 00:36:06,372
+Não ouso retornar a Prospero
+sem Ariel.
+
+680
+00:36:06,373 --> 00:36:08,754
+A ira dele seria tenebrosa,
+até para mim.
+
+681
+00:36:08,755 --> 00:36:12,508
+Ele está com o meu livro
+e pode me destruir se quiser.
+
+682
+00:36:12,509 --> 00:36:14,659
+Dê-me o relógio
+e eu posso voltar a ele.
+
+683
+00:36:14,660 --> 00:36:16,911
+Negue-o
+e terei que lutar com você.
+
+684
+00:36:16,912 --> 00:36:18,592
+Não posso prever
+com certeza
+
+685
+00:36:18,593 --> 00:36:20,716
+qual de nós vai sair vivo.
+
+686
+00:36:21,491 --> 00:36:23,655
+Uma trégua seria melhor.
+
+687
+00:36:23,656 --> 00:36:27,075
+E isso é um fato.
+
+688
+00:36:35,860 --> 00:36:37,935
+Até a próxima, duquesa.
+
+689
+00:36:40,306 --> 00:36:43,208
+Prospero, não faça isso.
+Deve ter outro jeito.
+
+690
+00:36:45,262 --> 00:36:49,516
+E agora com o cetro na mão,
+eu...
+
+691
+00:36:50,407 --> 00:36:52,172
+Renasço!
+
+692
+00:36:56,294 --> 00:36:58,403
+Não.
+
+693
+00:36:58,404 --> 00:37:00,767
+Não!
+
+694
+00:37:00,768 --> 00:37:03,282
+O que fizestes tu?
+
+695
+00:37:04,125 --> 00:37:05,948
+Destruiu
+a Árvore do Conhecimento
+
+696
+00:37:05,949 --> 00:37:07,257
+só para me parar?
+
+697
+00:37:07,258 --> 00:37:09,809
+Que tipo de Bibliotecário
+eres tu?
+
+698
+00:37:11,020 --> 00:37:12,562
+Do tipo que sabe
+que às vezes
+
+699
+00:37:12,563 --> 00:37:14,812
+é preciso dar as costas
+ao poder.
+
+700
+00:37:14,813 --> 00:37:17,329
+Esse final não preenche
+a página da história,
+
+701
+00:37:17,330 --> 00:37:19,519
+mas só marca um capítulo
+na cena.
+
+702
+00:37:19,520 --> 00:37:22,038
+Vou achar outro objeto
+
+703
+00:37:22,039 --> 00:37:27,035
+com o qual canalizar
+a minha raiva!
+
+704
+00:37:39,632 --> 00:37:41,373
+Você a queimou?
+
+705
+00:37:41,374 --> 00:37:42,685
+Queimei.
+
+706
+00:37:43,774 --> 00:37:45,920
+Para manter Prospero longe.
+
+707
+00:37:45,921 --> 00:37:47,358
+Sim.
+
+708
+00:37:49,683 --> 00:37:51,752
+A Árvore do Conhecimento?
+
+709
+00:37:52,819 --> 00:37:54,258
+Destruída.
+
+710
+00:37:55,272 --> 00:37:57,122
+O quê?
+
+711
+00:37:57,123 --> 00:37:59,144
+Não seja louca.
+Essa não é a Árvore.
+
+712
+00:37:59,145 --> 00:38:00,730
+Aquela é a Árvore.
+
+713
+00:38:02,143 --> 00:38:04,904
+Conhecimento não é velho,
+deformado ou complicado.
+
+714
+00:38:04,905 --> 00:38:06,828
+É jovem, sempre crescendo.
+Assim.
+
+715
+00:38:06,829 --> 00:38:09,435
+Não importa o quanto
+você acha que tem,
+
+716
+00:38:09,436 --> 00:38:11,229
+sempre há espaço para mais.
+
+717
+00:38:11,938 --> 00:38:14,690
+Você fez Prospero pensar
+que a árvore foi destruída...
+
+718
+00:38:14,691 --> 00:38:16,456
+Para ele desistir.
+
+719
+00:38:17,078 --> 00:38:19,786
+Derrotei um Ficcional
+com ficção.
+
+720
+00:38:22,824 --> 00:38:24,643
+Bom plano, Bibliotecário.
+
+721
+00:38:27,240 --> 00:38:29,843
+Só não lembro
+o que era aquela árvore.
+
+722
+00:38:30,548 --> 00:38:33,194
+- Acho que era importante.
+- Parece importante.
+
+723
+00:38:33,195 --> 00:38:35,295
+- Não diga dizer ao Jenkins.
+- Não diremos.
+
+724
+00:38:35,296 --> 00:38:37,166
+Sei guardar segredo.
+
+725
+00:38:40,866 --> 00:38:43,337
+Tomei a liberdade
+de trancar a Sala de Leitura.
+
+726
+00:38:43,338 --> 00:38:45,408
+Nenhum Ficcional
+vai entrar de novo.
+
+727
+00:38:45,409 --> 00:38:47,270
+Você prendeu
+a Rainha de Copas,
+
+728
+00:38:47,271 --> 00:38:50,163
+e o monstro de Frankenstein,
+pelo seu acordo,
+
+729
+00:38:50,164 --> 00:38:52,795
+está solto.
+Vamos ver como isso termina.
+
+730
+00:38:52,796 --> 00:38:54,871
+Eu adoraria dizer
+que tudo terminou bem,
+
+731
+00:38:54,872 --> 00:38:56,932
+- mas isso nem acabou.
+- Nem acabou bem.
+
+732
+00:38:56,933 --> 00:38:58,667
+A Biblioteca
+está com defeito.
+
+733
+00:38:58,668 --> 00:39:00,570
+Conhece a sala
+para qual não há chave?
+
+734
+00:39:00,571 --> 00:39:03,407
+- Sim, o que tem lá?
+- Está aparecendo toda hora.
+
+735
+00:39:03,408 --> 00:39:05,441
+E, claro,
+ainda tem os artefatos sumidos.
+
+736
+00:39:05,442 --> 00:39:08,439
+E tem o bilhete secreto
+de um Bibliotecário do passado.
+
+737
+00:39:08,440 --> 00:39:11,123
+Tem certeza que o cetro
+não está na Biblioteca?
+
+738
+00:39:11,124 --> 00:39:12,447
+Pode estar desaparecido.
+
+739
+00:39:12,448 --> 00:39:14,600
+Chequei todos os registros
+e a agenda.
+
+740
+00:39:14,601 --> 00:39:17,368
+Não há evidências
+de que algum Bibliotecário
+
+741
+00:39:17,369 --> 00:39:19,412
+recuperou pedaços
+do cajado de Prospero,
+
+742
+00:39:19,413 --> 00:39:20,814
+ou que escreveram
+um bilhete.
+
+743
+00:39:20,815 --> 00:39:23,518
+Um mistério sem solução,
+por enquanto.
+
+744
+00:39:23,519 --> 00:39:25,669
+A nossa prioridade
+é ir atrás dos artefatos.
+
+745
+00:39:25,670 --> 00:39:28,709
+A prioridade é a Biblioteca.
+Está quebrada, não tem defesa.
+
+746
+00:39:28,710 --> 00:39:30,777
+- Temos que proteger.
+- Você viu a lista?
+
+747
+00:39:30,778 --> 00:39:32,335
+Tem umas 16 coisas nela.
+
+748
+00:39:32,336 --> 00:39:34,908
+E essas só são
+as que nós sabemos.
+
+749
+00:39:34,909 --> 00:39:36,209
+Elas são perigosas,
+
+750
+00:39:36,210 --> 00:39:39,253
+Prospero me olhou e disse
+"vou buscar objetos poderosos."
+
+751
+00:39:39,254 --> 00:39:41,644
+- Vamos atrás deles.
+- Sem uma Biblioteca segura
+
+752
+00:39:41,645 --> 00:39:43,488
+para guardar,
+do que adianta achar?
+
+753
+00:39:43,489 --> 00:39:46,012
+Sem os artefatos,
+do que adianta a Biblioteca?
+
+754
+00:39:49,458 --> 00:39:51,248
+Bem, eu...
+Com licença.
+
+755
+00:39:51,249 --> 00:39:54,260
+Eu vou tomar conta
+da vontade de não estar aqui.
+
+756
+00:39:54,261 --> 00:39:57,015
+Jenkins, pegue minha bolsa.
+Vou atrás do Camelo Dourado.
+
+757
+00:39:57,016 --> 00:39:59,230
+Fique conosco.
+Vamos planejar juntos.
+
+758
+00:39:59,231 --> 00:40:02,064
+Se parar, começo a pensar.
+E se eu pensar, me perco.
+
+759
+00:40:02,065 --> 00:40:03,877
+Vamos te ajudar
+a achar o caminho.
+
+760
+00:40:03,878 --> 00:40:06,681
+Eu sei o meu caminho.
+Estive nele há 11 anos.
+
+761
+00:40:06,682 --> 00:40:09,049
+Tempo demais.
+Assim é melhor, eu acho.
+
+762
+00:40:09,050 --> 00:40:10,943
+Fique e se prepare
+para Prospero.
+
+763
+00:40:10,944 --> 00:40:14,879
+Eu vou, acho os artefatos
+e limpo essa bagunça.
+
+764
+00:40:14,880 --> 00:40:16,514
+Cobrimos mais terreno.
+
+765
+00:40:16,515 --> 00:40:17,830
+Claro.
+
+766
+00:40:17,831 --> 00:40:20,991
+Vejo você por aí, Eve.
+
+767
+00:40:21,660 --> 00:40:23,079
+Adeus, Flynn.
+
+768
+00:40:27,929 --> 00:40:29,314
+Faça-a se cuidar.
+
+769
+00:40:29,315 --> 00:40:31,928
+O que te faz pensar
+que eu controlo o que ela faz?
+
+770
+00:40:31,929 --> 00:40:34,830
+Mas farei o meu melhor.
+Boa sorte.
+
+771
+00:40:43,028 --> 00:40:44,411
+Onde está o Flynn?
+
+772
+00:40:45,291 --> 00:40:47,814
+- Ele foi embora.
+- De novo?
+
+773
+00:40:48,718 --> 00:40:52,185
+Quero dizer, é chocante.
+Estou chocado.
+
+774
+00:40:52,186 --> 00:40:54,370
+Então o sistema de segurança
+da Biblioteca
+
+775
+00:40:54,371 --> 00:40:56,346
+precisa de uma vistoria.
+
+776
+00:40:57,028 --> 00:40:58,740
+Obrigada.
+
+777
+00:40:58,741 --> 00:41:02,100
+E alguém deveria fazer
+um inventário da Biblioteca.
+
+778
+00:41:02,101 --> 00:41:05,080
+Só para garantir
+que nenhum outro artefato sumiu.
+
+779
+00:41:05,698 --> 00:41:08,247
+O Livro de Recortes
+não vai tirar férias
+
+780
+00:41:08,248 --> 00:41:10,729
+enquanto fazemos isso,
+então...
+
+781
+00:41:10,730 --> 00:41:13,216
+O que diz, coronel?
+
+782
+00:41:13,217 --> 00:41:15,266
+Quer companhia?
+
+783
+00:41:15,267 --> 00:41:17,463
+Parece um bom plano.
+
+784
+00:41:21,844 --> 00:41:23,144
+<i>Venha legendar conosco</i>
+
+785
+00:41:23,145 --> 00:41:26,645
+<i>@legseries
+legendas.em.serie@gmail.com</i>
+
