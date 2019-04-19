@@ -1,0 +1,6532 @@
+﻿1
+00:00:03,668 --> 00:00:05,211
+<i>Podem me dar sua atenção?</i>
+
+2
+00:00:07,838 --> 00:00:09,131
+<i>Sr. Williams, levante-se.</i>
+
+3
+00:00:11,092 --> 00:00:12,510
+<i>Levante a mão direita, senhor.</i>
+
+4
+00:00:13,344 --> 00:00:14,512
+<i>Jura solenemente</i>
+
+5
+00:00:14,637 --> 00:00:17,014
+<i>que o testemunho
+que dará é verdadeiro,</i>
+
+6
+00:00:17,682 --> 00:00:18,683
+<i>que é toda a verdade,</i>
+
+7
+00:00:19,183 --> 00:00:20,643
+<i>e nada além da verdade?</i>
+
+8
+00:00:21,018 --> 00:00:22,853
+<i>-Sim, senhor.
+-Obrigado, senhor. Sente-se.</i>
+
+9
+00:00:27,275 --> 00:00:30,027
+<i>Sr. Williams,
+pode nos dizer do que se lembra</i>
+
+10
+00:00:30,111 --> 00:00:32,113
+<i>do acontecimento na </i>Deepwater Horizon?
+
+11
+00:00:35,032 --> 00:00:38,119
+<i>Eu estava no telefone
+com minha esposa por volta das 21h30.</i>
+
+12
+00:00:38,578 --> 00:00:40,162
+<i>Foi quando ouvi um barulho agudo.</i>
+
+13
+00:00:42,540 --> 00:00:44,375
+<i>Ouvi os motores ligarem.</i>
+
+14
+00:00:45,793 --> 00:00:48,004
+<i>O som agudo tornou-se um barulhão...</i>
+
+15
+00:00:48,504 --> 00:00:50,131
+<i>mais alto do que posso descrever.</i>
+
+16
+00:00:50,631 --> 00:00:53,050
+<i>E, sem segundos,
+houve uma enorme explosão.</i>
+
+17
+00:00:54,343 --> 00:00:56,053
+<i>Projéteis voavam por toda parte.</i>
+
+18
+00:00:56,679 --> 00:00:58,055
+<i>O calor era estonteante.</i>
+
+19
+00:01:00,808 --> 00:01:03,519
+<i>Pode explicar para mim
+como o sistema de alarme</i>
+
+20
+00:01:03,603 --> 00:01:05,021
+<i>da </i>Deepwater Horizon<i> funciona?</i>
+
+21
+00:01:06,522 --> 00:01:09,984
+<i>O alarme geral deve informar
+toda a plataforma assim...</i>
+
+22
+00:01:10,151 --> 00:01:13,404
+<i>Número um, fogo.
+Número dois, gás combustível.</i>
+
+23
+00:01:13,487 --> 00:01:14,780
+<i>Número três, gás tóxico.</i>
+
+24
+00:01:15,197 --> 00:01:19,452
+<i>Cada situação possui
+um tom e uma luz diferente.</i>
+
+25
+00:01:20,953 --> 00:01:22,580
+<i>Na noite do dia 20 de abril,</i>
+
+26
+00:01:22,788 --> 00:01:25,666
+<i>você ouviu algum desses alarmes
+na </i>Deepwater Horizon?
+
+27
+00:01:26,000 --> 00:01:27,001
+<i>Não, senhor.</i>
+
+28
+00:01:27,084 --> 00:01:28,544
+BASEADO EM FATOS REAIS
+
+29
+00:01:28,628 --> 00:01:31,172
+<i>Sabe por que
+não ouviu o alarme, senhor?</i>
+
+30
+00:01:34,091 --> 00:01:35,092
+<i>Sr. Williams?</i>
+
+31
+00:01:35,635 --> 00:01:36,594
+<i>Sr. Williams?</i>
+
+32
+00:01:36,636 --> 00:01:42,642
+Horizonte Profundo: Desastre No Golfo
+
+33
+00:02:18,219 --> 00:02:19,762
+<i>Passando 900 metros.</i>
+
+34
+00:02:31,566 --> 00:02:32,858
+<i>Ainda descendo.</i>
+
+35
+00:02:34,652 --> 00:02:37,196
+<i>Vou ficar ao norte,
+e até agora não há sinal...</i>
+
+36
+00:02:37,822 --> 00:02:38,823
+<i>de crosta.</i>
+
+37
+00:02:49,458 --> 00:02:51,210
+<i>Cerca de 150 m à sua esquerda.</i>
+
+38
+00:02:54,881 --> 00:02:56,215
+<i>BOP à vista.</i>
+
+39
+00:02:57,258 --> 00:03:00,469
+OBSTRUIDOR DE FLUIDOS (BOP)
+
+40
+00:03:00,678 --> 00:03:03,139
+BOA PRESSÃO E LIVRE DE FALHAS
+
+41
+00:03:03,347 --> 00:03:08,769
+PROFUNDIDADE DA BROCA: 5,6 KM
+
+42
+00:03:10,479 --> 00:03:12,064
+<i>Como está a cabeça do poço?</i>
+
+43
+00:03:13,316 --> 00:03:14,400
+<i>Tem um pouco de corrosão.</i>
+
+44
+00:03:14,483 --> 00:03:17,153
+<i>Não mais do que eu esperaria
+de uma cabeça com essa idade.</i>
+
+45
+00:03:17,904 --> 00:03:19,989
+<i>Certo, Burkeen. Traga-a para cima.</i>
+
+46
+00:04:01,697 --> 00:04:03,908
+Tive um sonho louco.
+
+47
+00:04:04,784 --> 00:04:05,785
+Uau.
+
+48
+00:04:06,160 --> 00:04:07,620
+Que uau? Eu estava nele?
+
+49
+00:04:09,372 --> 00:04:12,458
+Não. Eu estava num concerto.
+
+50
+00:04:13,084 --> 00:04:16,128
+E do lado do palco havia...
+
+51
+00:04:17,588 --> 00:04:19,924
+um coelho com duas patas...
+
+52
+00:04:20,007 --> 00:04:21,926
+Não sei que parte
+era mais aterrorizante.
+
+53
+00:04:22,134 --> 00:04:23,261
+Me escute.
+
+54
+00:04:24,220 --> 00:04:25,304
+Me escute.
+
+55
+00:04:26,722 --> 00:04:27,848
+Eu me mexia...
+
+56
+00:04:29,267 --> 00:04:32,603
+e ele imitava o que eu fazia.
+
+57
+00:04:32,728 --> 00:04:35,606
+Pode parar aí, sei onde vai acabar.
+
+58
+00:04:37,608 --> 00:04:40,403
+-Acho que o coelho era...
+-Sua mãe, eu sei.
+
+59
+00:04:41,237 --> 00:04:44,323
+Obrigado. Agora é meu pesadelo.
+
+60
+00:04:44,532 --> 00:04:46,325
+-Era hostil.
+-Certo.
+
+61
+00:04:46,784 --> 00:04:49,120
+-Um coelho hostil.
+-Já entendi.
+
+62
+00:04:50,871 --> 00:04:52,707
+Desculpe. O que está fazendo?
+
+63
+00:04:53,332 --> 00:04:54,333
+É isso?
+
+64
+00:04:54,458 --> 00:04:56,794
+Assim que vai me deixar
+por 21 dias e noites?
+
+65
+00:04:57,211 --> 00:04:58,504
+Estou deixando você dormir.
+
+66
+00:04:59,255 --> 00:05:02,633
+Preciso de outras coisas além de sono.
+
+67
+00:05:02,884 --> 00:05:05,219
+Prometa não falar mais da sua mãe.
+
+68
+00:05:08,264 --> 00:05:10,308
+Você quer 30,
+
+69
+00:05:11,267 --> 00:05:12,268
+60,
+
+70
+00:05:12,435 --> 00:05:14,604
+ou 90 segundos de amor?
+
+71
+00:05:14,729 --> 00:05:16,480
+Quero todos os 90.
+
+72
+00:05:17,481 --> 00:05:21,027
+A pressão.
+
+73
+00:05:23,195 --> 00:05:24,363
+Sentirei saudade desse riso.
+
+74
+00:05:25,573 --> 00:05:27,450
+-Dessa boca.
+-Sim.
+
+75
+00:05:33,539 --> 00:05:34,707
+Me olhe.
+
+76
+00:05:52,350 --> 00:05:53,351
+Eu te amo.
+
+77
+00:06:07,990 --> 00:06:09,325
+Esse não é nosso trato, cara.
+
+78
+00:06:21,587 --> 00:06:23,214
+Tudo bem.
+
+79
+00:06:30,888 --> 00:06:33,599
+Você superestima
+sua capacidade como mecânica.
+
+80
+00:06:35,935 --> 00:06:36,936
+Como é?
+
+81
+00:06:38,104 --> 00:06:39,105
+Vamos, querida.
+
+82
+00:06:39,689 --> 00:06:40,690
+Eu dirijo.
+
+83
+00:06:41,357 --> 00:06:42,567
+-Eu dirijo.
+-Não.
+
+84
+00:06:42,650 --> 00:06:44,026
+-Deixe-me dirigir.
+-Não.
+
+85
+00:06:46,487 --> 00:06:47,488
+Por favor?
+
+86
+00:06:48,072 --> 00:06:49,282
+Quer mesmo dirigir?
+
+87
+00:06:49,407 --> 00:06:51,617
+Então venda essa porcaria
+e compre uma Ducati.
+
+88
+00:07:03,796 --> 00:07:06,507
+Barulhento. Um touro
+numa loja de porcelana.
+
+89
+00:07:12,597 --> 00:07:15,641
+Só não bati antes
+porque quero um irmão.
+
+90
+00:07:16,475 --> 00:07:18,436
+Isso é perturbador.
+
+91
+00:07:18,603 --> 00:07:20,354
+Porque não era
+para saber essas coisas.
+
+92
+00:07:20,438 --> 00:07:22,398
+Era só para achar
+que bebês são bonitinhos.
+
+93
+00:07:22,481 --> 00:07:23,858
+-Barulhento.
+-Pode sentar?
+
+94
+00:07:23,941 --> 00:07:25,192
+Quero muito um irmão.
+
+95
+00:07:26,193 --> 00:07:27,737
+-Como está indo?
+-Bem.
+
+96
+00:07:27,820 --> 00:07:29,989
+-Querida, mostre ao papai.
+-Não acabei.
+
+97
+00:07:30,156 --> 00:07:31,866
+-Fez um ótimo trabalho.
+-Hora do show.
+
+98
+00:07:32,241 --> 00:07:33,242
+Está muito bom.
+
+99
+00:07:34,619 --> 00:07:35,661
+Não pode olhar para mim.
+
+100
+00:07:36,120 --> 00:07:37,914
+-Por quê?
+-Porque fico desconfortável.
+
+101
+00:07:37,997 --> 00:07:39,707
+Eu te olhar te deixa desconfortável?
+
+102
+00:07:39,790 --> 00:07:41,083
+-Pare.
+-Tudo bem.
+
+103
+00:07:41,167 --> 00:07:42,335
+"Meu pai é o Mike.
+
+104
+00:07:42,418 --> 00:07:45,880
+Ele trabalha bombeando
+petróleo do fundo do mar."
+
+105
+00:07:45,963 --> 00:07:48,382
+Não, a Deepwater
+não bombeia uma gota sequer.
+
+106
+00:07:48,466 --> 00:07:49,926
+Somos exploradores.
+
+107
+00:07:50,134 --> 00:07:52,386
+"Meu pai e os amigos dele
+encontram o petróleo,
+
+108
+00:07:52,595 --> 00:07:55,806
+e aí colocam os canos para que outras
+equipes toscas venham e..."
+
+109
+00:07:55,890 --> 00:07:57,516
+-Não diga "toscas".
+-São toscos.
+
+110
+00:07:57,683 --> 00:07:59,477
+Mas olha, nem esses toscos...
+
+111
+00:07:59,685 --> 00:08:01,187
+bombeiam nada, lembra?
+
+112
+00:08:01,270 --> 00:08:03,522
+Porque o petróleo
+quer sair naturalmente...
+
+113
+00:08:03,814 --> 00:08:04,815
+Tudo bem.
+
+114
+00:08:04,899 --> 00:08:06,984
+"Porque o petróleo é um monstro.
+
+115
+00:08:07,318 --> 00:08:10,238
+Como os antigos e maus dinossauros
+que o petróleo era.
+
+116
+00:08:10,571 --> 00:08:12,782
+Por 300 milhões de anos...
+
+117
+00:08:13,199 --> 00:08:16,244
+os pequenos dinossauros
+foram juntados e apertados
+
+118
+00:08:16,327 --> 00:08:17,495
+cada vez mais, e mais..."
+
+119
+00:08:17,578 --> 00:08:19,664
+Já entendemos. Use só um "mais".
+
+120
+00:08:19,789 --> 00:08:22,667
+"Porque há quilômetros de terra e mar
+fazendo pressão sobre eles.
+
+121
+00:08:22,917 --> 00:08:25,002
+Estão presos. Condenados.
+
+122
+00:08:25,419 --> 00:08:27,713
+Meu pai e seus amigos
+fazem um buraco no teto deles."
+
+123
+00:08:31,342 --> 00:08:33,511
+"Os antigos e maus dinossauros
+mal podem acreditar.
+
+124
+00:08:33,719 --> 00:08:36,305
+Então correm para o buraco.
+Saem violentamente,
+
+125
+00:08:36,472 --> 00:08:38,057
+correm até a grande máquina
+
+126
+00:08:38,266 --> 00:08:41,602
+que ele e os amigos
+usam no mar, chamada..."
+
+127
+00:08:41,894 --> 00:08:44,272
+-"Obstruidor de fluxo"?
+-Obstruidor de fluidos.
+
+128
+00:08:44,355 --> 00:08:46,774
+Entram numa coisa chamada "lama".
+
+129
+00:08:46,857 --> 00:08:47,942
+Eles entram.
+
+130
+00:08:48,025 --> 00:08:49,694
+"Eles se amontoam no cano.
+
+131
+00:08:49,777 --> 00:08:53,155
+A lama é tão densa e pesada
+que não deixa os monstros saírem.
+
+132
+00:08:53,239 --> 00:08:55,366
+E então vão ao próximo.
+
+133
+00:08:55,449 --> 00:08:58,619
+É aí que os toscos aparecem,
+felizes, como se tivessem feito algo."
+
+134
+00:08:58,703 --> 00:08:59,870
+Não diga "toscos".
+
+135
+00:08:59,954 --> 00:09:02,665
+"Mas foi meu pai
+quem dominou os dinossauros."
+
+136
+00:09:05,251 --> 00:09:07,336
+Foi incrível.
+Tenha dez anos para sempre.
+
+137
+00:09:07,420 --> 00:09:09,672
+-Pai, precisa me trazer um fóssil.
+-Claro.
+
+138
+00:09:09,755 --> 00:09:11,883
+-Eu vou.
+-Quero segurá-lo
+
+139
+00:09:11,966 --> 00:09:14,510
+e dizer:
+"Meu pai domestica dinossauros."
+
+140
+00:09:16,220 --> 00:09:17,722
+Conte a ele o que
+o pai da Maggie fez.
+
+141
+00:09:18,180 --> 00:09:21,225
+O pai dela trabalha no zoológico
+e levou um pinguim de verdade.
+
+142
+00:09:22,101 --> 00:09:23,102
+Não pode fazer isso.
+
+143
+00:09:23,185 --> 00:09:25,646
+-Levou um pinguim.
+-Como se compete com um pinguim?
+
+144
+00:09:26,105 --> 00:09:28,482
+-Arrume um fóssil.
+-Deveriam haver regras.
+
+145
+00:09:30,484 --> 00:09:32,111
+-Meu Deus.
+-Mãe!
+
+146
+00:09:32,737 --> 00:09:33,738
+O quê?
+
+147
+00:09:33,946 --> 00:09:35,698
+-A lata está cheia.
+-Arrume isso!
+
+148
+00:09:36,699 --> 00:09:37,742
+Arrume!
+
+149
+00:10:06,896 --> 00:10:08,564
+Abastecer, ir trabalhar.
+
+150
+00:10:09,232 --> 00:10:11,734
+Abastecer, voltar ao trabalho.
+
+151
+00:10:11,984 --> 00:10:14,528
+Abastecer de novo, ir trabalhar.
+
+152
+00:10:14,612 --> 00:10:16,864
+Sabe a senha
+do negócio do seguro e tal?
+
+153
+00:10:16,948 --> 00:10:18,366
+Chame Schuman primeiro.
+
+154
+00:10:18,449 --> 00:10:19,575
+-Do que está falando?
+-Eu...
+
+155
+00:10:21,369 --> 00:10:22,453
+Qual o problema?
+
+156
+00:10:22,536 --> 00:10:25,331
+Me assustei indo para casa
+de carona numa moto.
+
+157
+00:10:25,414 --> 00:10:26,707
+-Dê-me um.
+-Querido...
+
+158
+00:10:27,124 --> 00:10:28,834
+só se pode preocupar-se
+com um fuzileiro
+
+159
+00:10:28,960 --> 00:10:30,169
+quando ele deixa de reclamar.
+
+160
+00:10:30,253 --> 00:10:32,380
+-Não use minha frase contra mim.
+-Estou usando.
+
+161
+00:10:32,463 --> 00:10:34,257
+-Não use.
+-Já usei.
+
+162
+00:10:35,258 --> 00:10:37,718
+PORTO FOURCHON
+
+163
+00:11:01,867 --> 00:11:05,663
+HELIPORTO DE BRISTOW
+TRANSPORTE PARA A PLATAFORMA COSTEIRA
+
+164
+00:11:10,710 --> 00:11:12,587
+-Certo, querido.
+-Muito bem, Felicia.
+
+165
+00:11:14,338 --> 00:11:15,756
+-Te amo.
+-Te amo.
+
+166
+00:11:17,508 --> 00:11:19,218
+-Até daqui três semanas.
+-Até.
+
+167
+00:11:20,177 --> 00:11:21,178
+Comporte-se.
+
+168
+00:11:24,056 --> 00:11:25,057
+Próximo.
+
+169
+00:11:25,808 --> 00:11:27,894
+-Bom dia, Sr. Jimmy.
+-Como está, Sarah?
+
+170
+00:11:27,977 --> 00:11:29,186
+-Bem, e o senhor?
+-Estou bem.
+
+171
+00:11:29,270 --> 00:11:30,688
+Pode deixar suas malas na balança
+
+172
+00:11:30,771 --> 00:11:31,772
+e ficar em pé?
+
+173
+00:11:32,565 --> 00:11:33,566
+Aonde vai hoje?
+
+174
+00:11:33,774 --> 00:11:35,234
+Ao mesmo lugar. <i>Deepwater Horizon.</i>
+
+175
+00:11:35,318 --> 00:11:36,777
+-Aonde você vai?
+<i>-Deepwater Horizon.</i>
+
+176
+00:11:36,861 --> 00:11:38,821
+-E para quem trabalha?
+-Transocean.
+
+177
+00:11:39,071 --> 00:11:41,032
+-Quer saber quanto pesa?
+-Sabe que quero.
+
+178
+00:11:41,115 --> 00:11:42,408
+-82 kg.
+-O que eu disse?
+
+179
+00:11:42,491 --> 00:11:45,202
+-Mandou bem. Continue assim.
+-Claro.
+
+180
+00:11:45,328 --> 00:11:46,537
+Muito bem, sente-se e
+
+181
+00:11:46,621 --> 00:11:47,788
+e avisaremos para voar.
+
+182
+00:11:47,872 --> 00:11:50,374
+-Agradeço.
+-Sr. Sims? Sr. O'Bryan?
+
+183
+00:11:50,458 --> 00:11:51,459
+David Sims.
+
+184
+00:11:51,542 --> 00:11:52,543
+Jimmy Harrell.
+
+185
+00:11:52,627 --> 00:11:54,420
+Gerente de instalação costeira
+na <i>Deepwater.</i>
+
+186
+00:11:54,503 --> 00:11:57,048
+Amigo, obrigado por nos levar hoje.
+
+187
+00:11:57,131 --> 00:11:59,592
+Sei que estão atarefados
+e não precisavam.
+
+188
+00:11:59,675 --> 00:12:00,676
+Não, eu precisava.
+
+189
+00:12:00,968 --> 00:12:02,595
+Se importa de tirar a gravata?
+
+190
+00:12:03,596 --> 00:12:04,597
+Me importaria.
+
+191
+00:12:05,223 --> 00:12:07,600
+Não a gravata. A cor.
+
+192
+00:12:07,725 --> 00:12:08,726
+Roxa?
+
+193
+00:12:09,477 --> 00:12:10,603
+Está mais para vermelho.
+
+194
+00:12:12,146 --> 00:12:13,147
+E?
+
+195
+00:12:13,231 --> 00:12:16,859
+Um alarme vermelho numa plataforma
+é a pior coisa do mundo.
+
+196
+00:12:17,693 --> 00:12:19,487
+Isso que é superstição.
+
+197
+00:12:21,113 --> 00:12:22,782
+-Bom dia.
+-Mike Williams.
+
+198
+00:12:22,865 --> 00:12:24,784
+-Aonde vai hoje?
+<i>-Deepwater Horizon.</i>
+
+199
+00:12:26,661 --> 00:12:27,662
+Está bem.
+
+200
+00:12:34,835 --> 00:12:36,337
+COMBUSTÍVEL
+
+201
+00:12:42,510 --> 00:12:43,803
+O que faz no seu tempo livre?
+
+202
+00:12:44,762 --> 00:12:47,181
+Voltei a trabalhar no barco.
+
+203
+00:12:47,807 --> 00:12:50,893
+Estou aumentando a potência
+de 600 para 1200 hp.
+
+204
+00:12:52,228 --> 00:12:55,856
+E eu tenho uma hélice Sensenich.
+
+205
+00:12:55,940 --> 00:12:59,235
+-Você quer voar?
+-Não, só ir mais rápido.
+
+206
+00:13:07,034 --> 00:13:09,161
+<i>-Tudo pronto?
+</i>-Positivo. Estou com todos.
+
+207
+00:13:09,370 --> 00:13:12,790
+Estou com as coordenadas
+da <i>Deepwater Horizon.</i>
+
+208
+00:13:13,207 --> 00:13:16,002
+<i>492, sem obstáculos.
+O vento está fraco.</i>
+
+209
+00:13:41,152 --> 00:13:43,779
+<i>Controle Paris,
+aqui é o Bristow 2 Bravo Gulf.</i>
+
+210
+00:13:43,863 --> 00:13:45,615
+<i>Estamos indo ao alto-mar.</i>
+
+211
+00:13:45,698 --> 00:13:48,326
+<i>Tempo estimado: 45 minutos
+até </i>Deepwater Horizon.
+
+212
+00:13:49,160 --> 00:13:51,245
+<i>Entendido, Bristow 2 Bravo Gulf.</i>
+
+213
+00:13:51,454 --> 00:13:53,956
+O que faz na BP, Sr. Sims?
+
+214
+00:13:54,040 --> 00:13:56,542
+-Rescisões.
+-Essa não. Lá vem, Jimmy.
+
+215
+00:13:57,001 --> 00:13:59,337
+Como sabe, é um pouco tarde.
+
+216
+00:13:59,420 --> 00:14:01,964
+Quarenta e três dias.
+Mas quem está contando?
+
+217
+00:14:09,513 --> 00:14:11,015
+O que faria com seu bônus, Mike?
+
+218
+00:14:11,098 --> 00:14:13,059
+-Uma piscina. E você?
+-Consertaria o carro.
+
+219
+00:14:13,142 --> 00:14:15,311
+Sabia que nosso primeiro poço desabou?
+
+220
+00:14:15,394 --> 00:14:18,481
+Levamos cinco dias e no fim
+jogamos um tubo de 5 milhões fora.
+
+221
+00:14:18,564 --> 00:14:19,565
+De quem foi a culpa?
+
+222
+00:14:19,649 --> 00:14:20,816
+Que carro é?
+
+223
+00:14:21,150 --> 00:14:22,443
+-Mustang 1969.
+-Fastback?
+
+224
+00:14:22,526 --> 00:14:23,903
+-Teto de vinil.
+-Qual o problema?
+
+225
+00:14:23,986 --> 00:14:24,987
+Houve uma vibração hoje.
+
+226
+00:14:25,071 --> 00:14:27,323
+Saía cheiro
+de gasolina do escapamento.
+
+227
+00:14:27,406 --> 00:14:28,449
+Sentiu esse cheiro parada?
+
+228
+00:14:28,532 --> 00:14:30,493
+-Não. Não é vazamento no...
+-Ei!
+
+229
+00:14:36,791 --> 00:14:38,459
+<i>Batemos num pássaro, pessoal.</i>
+
+230
+00:14:44,924 --> 00:14:45,967
+Não direi nada.
+
+231
+00:14:46,342 --> 00:14:48,678
+<i>Estamos a 1,6 km da </i>Deepwater Horizon.
+
+232
+00:14:49,512 --> 00:14:52,932
+<i>Devemos pousar em segurança.
+Faremos a checagem de segurança.</i>
+
+233
+00:14:54,100 --> 00:14:57,061
+Qualquer coisa tão grande
+deve ter sido feita por Deus.
+
+234
+00:14:57,311 --> 00:14:58,354
+É linda.
+
+235
+00:14:58,563 --> 00:15:01,440
+Sabia que não tem pilastras?
+Não foi erguida.
+
+236
+00:15:01,524 --> 00:15:04,819
+Eu sei, e não posso acreditar
+que essa coisa é um barco.
+
+237
+00:15:04,902 --> 00:15:06,904
+Agradeça àquela jovem talentosa
+
+238
+00:15:06,988 --> 00:15:08,281
+ali atrás.
+
+239
+00:15:16,664 --> 00:15:18,416
+O que um Bankston faz aqui?
+
+240
+00:15:19,041 --> 00:15:20,293
+Quem deu a ordem?
+
+241
+00:15:22,753 --> 00:15:25,006
+<i>2 Bravo Gulf, permissão
+para pousar na </i>Deepwater Horizon.
+
+242
+00:15:27,383 --> 00:15:29,093
+PLATAFORMA COSTEIRA
+SEMISSUBMERSÍVEL
+
+243
+00:15:29,176 --> 00:15:31,971
+<i>Permissão concedida, Bravo Gulf.</i>
+
+244
+00:15:33,639 --> 00:15:36,934
+65 KM DA COSTA SUDESTE DE LOUISIANA
+
+245
+00:15:37,018 --> 00:15:42,023
+FLUTUAÇÃO LIVRE A 1,585 M
+DO NÍVEL DO OCEANO
+
+246
+00:15:43,608 --> 00:15:46,777
+126 TRIPULANTES A BORDO
+
+247
+00:16:02,668 --> 00:16:03,878
+Bem-vindos a bordo!
+
+248
+00:16:06,505 --> 00:16:07,965
+Já terminaram?
+
+249
+00:16:08,049 --> 00:16:09,675
+Não sei o que te dizer, Sr. Jimmy.
+
+250
+00:16:09,842 --> 00:16:12,053
+-Terminaram?
+-Não sei o que dizer a ninguém.
+
+251
+00:16:12,136 --> 00:16:13,679
+Alguém deveria ter avisado Vidrine.
+
+252
+00:16:13,763 --> 00:16:15,348
+Quê? Terminaram?
+
+253
+00:16:16,933 --> 00:16:18,309
+-Skip.
+-Sim, senhor.
+
+254
+00:16:18,392 --> 00:16:19,518
+A equipe de registro já vai?
+
+255
+00:16:19,602 --> 00:16:21,520
+A Schlumberger está fora. Já foram.
+
+256
+00:16:25,024 --> 00:16:28,277
+Era para testarem o cimento.
+
+257
+00:16:29,070 --> 00:16:30,321
+Mike, como vai?
+
+258
+00:16:30,571 --> 00:16:32,907
+Skip, já acabamos?
+
+259
+00:16:32,990 --> 00:16:35,159
+-Tem de falar com Vidrine.
+-Vidrine?
+
+260
+00:16:35,868 --> 00:16:37,703
+-O que ele disse?
+-Não consigo ouvi-lo.
+
+261
+00:16:51,425 --> 00:16:52,969
+O que o Sr. Skip disse?
+
+262
+00:16:53,052 --> 00:16:55,638
+Era para testarem
+se o cimento estava bom.
+
+263
+00:16:55,721 --> 00:16:57,348
+Foram embora sem testar.
+
+264
+00:16:57,515 --> 00:16:59,350
+Quê? Espere. Eles...
+
+265
+00:16:59,475 --> 00:17:01,978
+Os malditos da BP mandaram
+o pessoal da Schlumberger embora.
+
+266
+00:17:02,061 --> 00:17:03,437
+-Sério?
+-Sim.
+
+267
+00:17:10,194 --> 00:17:12,113
+Kuchta, por que o Bankston está aqui?
+
+268
+00:17:12,196 --> 00:17:14,865
+-Bom dia para você também.
+-O que o Bankston faz aqui?
+
+269
+00:17:15,199 --> 00:17:16,200
+Bom dia, Pete.
+
+270
+00:17:17,034 --> 00:17:18,035
+Feliz em me ver?
+
+271
+00:17:18,202 --> 00:17:20,121
+Sempre fico, Andrea.
+
+272
+00:17:20,204 --> 00:17:21,747
+Onde fica o mijador, Williams?
+
+273
+00:17:22,874 --> 00:17:23,875
+A placa diz "banheiro".
+
+274
+00:17:23,958 --> 00:17:24,959
+Skip falou sobre testar
+
+275
+00:17:25,042 --> 00:17:26,127
+-o cimento?
+-Não me ligou.
+
+276
+00:17:26,210 --> 00:17:28,838
+Vencemos a guerra
+e só estou sabendo agora?
+
+277
+00:17:29,255 --> 00:17:31,507
+Porque não sei como teriam tempo
+
+278
+00:17:31,591 --> 00:17:34,093
+de testar o cimento,
+porque estão indo embora.
+
+279
+00:17:34,176 --> 00:17:35,761
+Só piloto o barco, cara.
+
+280
+00:17:35,845 --> 00:17:36,846
+Como foi o teste?
+
+281
+00:17:36,971 --> 00:17:39,098
+O positivo foi bom.
+Estamos no modo ancorado.
+
+282
+00:17:39,181 --> 00:17:40,433
+-Ancorado?
+-Como estamos?
+
+283
+00:17:40,516 --> 00:17:43,311
+Está em 166. Vento em 185,
+a cerca de cinco nós.
+
+284
+00:17:43,394 --> 00:17:44,478
+Mar calmo, bom.
+
+285
+00:17:52,236 --> 00:17:54,155
+Esperando... estamos bem em cima.
+
+286
+00:17:54,238 --> 00:17:56,657
+Ainda namora o carinha da moto?
+
+287
+00:17:57,992 --> 00:17:59,619
+-Problema com os propulsores?
+-Andrea.
+
+288
+00:17:59,702 --> 00:18:00,703
+Sim, senhor?
+
+289
+00:18:00,786 --> 00:18:02,788
+Passe um rádio para
+o Capitão Landry no Bankston,
+
+290
+00:18:02,872 --> 00:18:04,832
+pergunte o que está fazendo e por quê.
+
+291
+00:18:05,166 --> 00:18:06,292
+Pode deixar, Sr. Jimmy.
+
+292
+00:18:07,168 --> 00:18:09,795
+Damon Bankston,
+é a <i>Deepwater Horizon, </i>câmbio.
+
+293
+00:18:11,631 --> 00:18:14,217
+Deepwater Horizon,
+<i>aqui é Damon Bankston, prossiga.</i>
+
+294
+00:18:14,467 --> 00:18:16,219
+OIM quer saber o que faz aqui.
+
+295
+00:18:16,510 --> 00:18:17,970
+Ouvi dizer que sairemos dessa...
+
+296
+00:18:18,763 --> 00:18:20,765
+porcaria, e iremos ao próximo.
+
+297
+00:18:21,015 --> 00:18:23,684
+<i>Pode chamar de merda.
+Quando sairá?</i>
+
+298
+00:18:23,768 --> 00:18:27,021
+<i>Disseram para estar pronto
+para retirar a lama perto das 18h.</i>
+
+299
+00:18:29,023 --> 00:18:31,025
+<i>Sei que tiveram um teste positivo
+de pressão cedo.</i>
+
+300
+00:18:31,192 --> 00:18:33,611
+Devem achar que o teste negativo
+também será tranquilo.
+
+301
+00:18:33,694 --> 00:18:35,321
+Disseram para
+estar pronto para partir.
+
+302
+00:18:35,404 --> 00:18:36,447
+Quem disse?
+
+303
+00:18:36,530 --> 00:18:37,657
+<i>O pessoal da BP.</i>
+
+304
+00:18:37,740 --> 00:18:39,242
+Vidrine, Kaluza.
+
+305
+00:18:39,617 --> 00:18:40,618
+<i>Sei lá.</i>
+
+306
+00:18:40,701 --> 00:18:42,453
+<i>Esperarei a ordem para retirar a lama.</i>
+
+307
+00:18:42,912 --> 00:18:44,121
+<i>Mais alguma pergunta?</i>
+
+308
+00:18:44,455 --> 00:18:45,498
+Não, só.
+
+309
+00:18:46,207 --> 00:18:49,544
+O pessoal da BP, Vidrine ou Kaluza,
+
+310
+00:18:49,627 --> 00:18:51,671
+esperam que tenhamos
+domado essa merda,
+
+311
+00:18:51,754 --> 00:18:54,382
+e estão prontos para retirar
+a lama da perfuração às 18h.
+
+312
+00:18:54,465 --> 00:18:55,633
+Correto, Capitão?
+
+313
+00:18:55,716 --> 00:18:57,885
+<i>Correto. Bom dia, Sr. Jimmy.</i>
+
+314
+00:18:58,427 --> 00:18:59,428
+De repente.
+
+315
+00:19:00,137 --> 00:19:01,138
+Desse jeito?
+
+316
+00:19:01,597 --> 00:19:02,598
+Obrigada, Capitão.
+
+317
+00:19:05,226 --> 00:19:07,895
+Os malditos telefones
+ainda não funcionam.
+
+318
+00:19:07,979 --> 00:19:09,397
+Vim para cá contigo, Sr. Jimmy.
+
+319
+00:19:09,480 --> 00:19:11,983
+Pode fazer um favor?
+Vá até a perfuração,
+
+320
+00:19:12,066 --> 00:19:15,069
+pergunta ao Jason se os caras
+da Schlumberger fizeram o trabalho.
+
+321
+00:19:15,152 --> 00:19:16,487
+Se testaram o cimento.
+
+322
+00:19:17,405 --> 00:19:19,323
+-Entendido.
+-Obrigado.
+
+323
+00:19:19,407 --> 00:19:20,491
+Cavalheiros.
+
+324
+00:19:20,575 --> 00:19:24,287
+Poderiam, talvez, me esclarecer
+o caso do cimento?
+
+325
+00:19:25,788 --> 00:19:26,831
+Caso do cimento?
+
+326
+00:19:27,415 --> 00:19:29,876
+Sabe se testarão, se testaram?
+
+327
+00:19:30,918 --> 00:19:31,919
+É.
+
+328
+00:19:33,004 --> 00:19:34,422
+Não. Ronnie.
+
+329
+00:19:34,755 --> 00:19:36,757
+Pode ser problema
+de ignição no seu Mustang.
+
+330
+00:19:36,841 --> 00:19:38,426
+Achei que podia ser
+fusíveis queimados.
+
+331
+00:19:38,634 --> 00:19:40,803
+Pode ser um fio.
+Pode ser o distribuidor.
+
+332
+00:19:40,887 --> 00:19:42,597
+-Parece que está falhando?
+-Não.
+
+333
+00:19:43,431 --> 00:19:44,765
+Sabe o que farei por você?
+
+334
+00:19:44,974 --> 00:19:46,142
+Não pense em coisas caras,
+
+335
+00:19:46,225 --> 00:19:47,476
+fazem mal para seu carro.
+
+336
+00:19:47,560 --> 00:19:49,020
+-Obrigada.
+-Ei.
+
+337
+00:19:49,562 --> 00:19:50,938
+Manual ou automático?
+
+338
+00:19:51,105 --> 00:19:52,106
+Me conhece?
+
+339
+00:19:52,189 --> 00:19:54,483
+Vai fazer besteira com a embreagem.
+
+340
+00:19:54,567 --> 00:19:56,736
+-Claro, diz o Sr. Toyota.
+-Sim.
+
+341
+00:20:12,960 --> 00:20:13,961
+Equipamento em movimento.
+
+342
+00:20:18,507 --> 00:20:20,801
+Venha cá, querida.
+
+343
+00:20:25,181 --> 00:20:27,058
+Três quartos de um barril movido.
+
+344
+00:20:27,558 --> 00:20:29,727
+Entendido. Iniciando atuação.
+
+345
+00:20:33,272 --> 00:20:34,523
+<i>Encaixar o tubo de perfuração</i>
+
+346
+00:20:34,607 --> 00:20:36,317
+<i>É divertido, é divertido</i>
+
+347
+00:20:36,400 --> 00:20:37,401
+Cale a boca.
+
+348
+00:20:39,737 --> 00:20:40,863
+Duck.
+
+349
+00:20:42,031 --> 00:20:43,032
+E aí, Mike?
+
+350
+00:20:45,743 --> 00:20:47,745
+-Como vai, Caleb?
+-Oi, Mike. Como vai?
+
+351
+00:20:47,828 --> 00:20:49,163
+Ia bem melhor horas atrás.
+
+352
+00:20:49,247 --> 00:20:50,873
+-Por quê?
+-Estava dormindo.
+
+353
+00:20:51,332 --> 00:20:52,750
+-É?
+-É.
+
+354
+00:20:52,833 --> 00:20:55,044
+Acordamos e fomos trabalhar.
+
+355
+00:20:55,127 --> 00:20:57,296
+Muito tubo para puxar
+se quisermos sair daqui à noite.
+
+356
+00:20:57,630 --> 00:20:59,006
+Está com roupa causal, tá bonito.
+
+357
+00:20:59,090 --> 00:21:00,341
+Sr. Jimmy está puto, quer saber
+
+358
+00:21:00,424 --> 00:21:01,801
+se o cimento foi testado.
+
+359
+00:21:02,760 --> 00:21:04,178
+Não sei. Acho que não.
+
+360
+00:21:04,428 --> 00:21:05,972
+-Não? Shane.
+-Sim?
+
+361
+00:21:06,055 --> 00:21:07,056
+Venha cá, rapaz.
+
+362
+00:21:07,431 --> 00:21:09,058
+Schlumberger fez teste no cimento?
+
+363
+00:21:09,308 --> 00:21:12,103
+Não sei. Acho que não.
+Acabei de acordar...
+
+364
+00:21:12,186 --> 00:21:14,397
+-Parece ridículo?
+-Não sei se é,
+
+365
+00:21:14,480 --> 00:21:15,940
+mas não é inteligente.
+
+366
+00:21:17,316 --> 00:21:19,569
+Olha vocês,
+parecem fazer nado sincronizado.
+
+367
+00:21:19,652 --> 00:21:21,737
+Se pensar demais,
+causará dor de cabeça nele.
+
+368
+00:21:21,821 --> 00:21:23,322
+-Dê o fora daqui.
+-Claro.
+
+369
+00:21:23,489 --> 00:21:24,490
+Sobe, sobe.
+
+370
+00:21:29,787 --> 00:21:31,581
+-Amigos.
+-Que roupa é essa?
+
+371
+00:21:31,956 --> 00:21:33,833
+Sr. Jimmy quer saber se a Schlumberger
+
+372
+00:21:33,916 --> 00:21:35,543
+-testou o cimento.
+-O quê?
+
+373
+00:21:35,626 --> 00:21:38,129
+O cimento. Se testaram o cimento.
+Vamos, me ajude.
+
+374
+00:21:38,212 --> 00:21:39,630
+-Quem mesmo?
+-Pare com isso ,cara.
+
+375
+00:21:39,755 --> 00:21:41,007
+Jimmy está puto.
+
+376
+00:21:41,090 --> 00:21:43,509
+-Schlumberger, seu democrata.
+-Fizemos o teste?
+
+377
+00:21:43,593 --> 00:21:46,429
+Não, Vidrine e Kaluza os mandaram
+embora sem testar nada.
+
+378
+00:21:46,512 --> 00:21:47,680
+Por que fariam isso?
+
+379
+00:21:47,763 --> 00:21:50,349
+Não estou com vontade
+de pensar como eles, Mike.
+
+380
+00:21:50,433 --> 00:21:52,310
+Mas acho que tem a ver com...
+
+381
+00:21:52,518 --> 00:21:54,729
+<i>Dinheiro, dinheiro, dinheiro</i>
+
+382
+00:21:55,271 --> 00:21:56,731
+<i>Dinheiro</i>
+
+383
+00:21:56,981 --> 00:21:58,232
+Seu telefone está quebrado.
+
+384
+00:21:59,442 --> 00:22:00,443
+Droga.
+
+385
+00:22:01,611 --> 00:22:02,612
+Sr. Jimmy.
+
+386
+00:22:02,904 --> 00:22:03,988
+<i>Prossiga.</i>
+
+387
+00:22:04,363 --> 00:22:06,824
+A BP mandou a Schlumberger
+para casa sem testar nada.
+
+388
+00:22:07,158 --> 00:22:08,618
+<i>Não testaram o cimento.</i>
+
+389
+00:22:09,160 --> 00:22:10,161
+Obrigado, Mike.
+
+390
+00:22:12,121 --> 00:22:14,248
+Mike, falha na estação A.
+
+391
+00:22:14,415 --> 00:22:16,500
+-Maldição.
+-Tela azul da morte.
+
+392
+00:22:16,834 --> 00:22:18,294
+Duck, sua estação ainda funciona?
+
+393
+00:22:18,878 --> 00:22:22,173
+<i>Meu monitor está tremendo.
+E meu detector de fumaça apagou.</i>
+
+394
+00:22:22,298 --> 00:22:23,382
+Como está, Mike?
+
+395
+00:22:24,050 --> 00:22:25,051
+Droga.
+
+396
+00:22:25,134 --> 00:22:27,345
+Pode pegar as ferramentas,
+voltarei para consertar.
+
+397
+00:22:27,428 --> 00:22:29,513
+Estamos fazendo
+com quebra-galhos, cara.
+
+398
+00:22:29,597 --> 00:22:32,308
+Sempre que conserto uma gambiarra,
+encontro mais três ou quatro.
+
+399
+00:22:32,767 --> 00:22:34,227
+Essas gambiarras não dão conta.
+
+400
+00:22:34,352 --> 00:22:35,686
+Mais uma vez, "dinheiro", vamos.
+
+401
+00:22:35,853 --> 00:22:37,063
+Ensaiam há semanas.
+
+402
+00:22:37,146 --> 00:22:38,189
+<i>Dinheiro, dinheiro</i>
+
+403
+00:22:38,272 --> 00:22:39,398
+Não, a parte boa, cara.
+
+404
+00:22:39,482 --> 00:22:40,483
+Essa é a boa.
+
+405
+00:22:40,566 --> 00:22:41,651
+<i>Dinheiro</i>
+
+406
+00:22:41,901 --> 00:22:45,988
+<i>Eu mataria pelo dinheiro
+O poderoso dólar</i>
+
+407
+00:22:46,530 --> 00:22:47,573
+Oi, Hollywood.
+
+408
+00:22:53,871 --> 00:22:55,665
+-Mike!
+-Como está o trabalho, Dale?
+
+409
+00:22:55,748 --> 00:22:58,834
+-Você sabe. Terminamos?
+-Não. Seria bom.
+
+410
+00:22:58,918 --> 00:23:01,379
+É, vou pescar à noite. Disfarçado.
+
+411
+00:23:01,462 --> 00:23:03,005
+Algo diz que se sairmos daqui à noite,
+
+412
+00:23:03,089 --> 00:23:05,091
+ninguém vai pescar.
+
+413
+00:23:05,174 --> 00:23:06,467
+Vai usar o guindaste?
+
+414
+00:23:06,551 --> 00:23:08,261
+Dá para pegar uma baleia.
+
+415
+00:23:08,344 --> 00:23:09,470
+Boa ideia.
+
+416
+00:23:09,720 --> 00:23:10,721
+Droga.
+
+417
+00:23:11,222 --> 00:23:13,391
+Aposta que estaremos
+na mesma posição no próximo poço?
+
+418
+00:23:13,474 --> 00:23:14,559
+Quais as probabilidades?
+
+419
+00:23:14,642 --> 00:23:16,185
+-Três para um.
+-Caramba.
+
+420
+00:23:16,561 --> 00:23:17,603
+Não apostarei.
+
+421
+00:23:17,687 --> 00:23:20,022
+Trinta para um. Mesmo lugar.
+
+422
+00:23:20,189 --> 00:23:21,190
+Sem chance.
+
+423
+00:23:21,274 --> 00:23:23,484
+Mike Williams, seu mão de vaca!
+
+424
+00:24:09,030 --> 00:24:10,364
+-Patrick.
+-E aí, Mike?
+
+425
+00:24:10,448 --> 00:24:12,199
+-E o trabalho?
+-Disseram que terminamos.
+
+426
+00:24:12,283 --> 00:24:13,784
+-Disseram?
+-Sim, disseram.
+
+427
+00:24:13,868 --> 00:24:15,828
+-Quem disse?
+-Não posso falar, Mike.
+
+428
+00:24:16,037 --> 00:24:17,079
+Como não pode?
+
+429
+00:24:17,163 --> 00:24:18,289
+-Não podendo.
+-Por quê?
+
+430
+00:24:18,372 --> 00:24:21,083
+Só não posso, mas posso dizer
+que Gordon está te procurando.
+
+431
+00:24:21,167 --> 00:24:23,461
+-Ele disse que terminamos?
+-Não...
+
+432
+00:24:23,544 --> 00:24:24,545
+-Que ele quer?
+-Sei lá.
+
+433
+00:24:24,629 --> 00:24:25,671
+Tem algo para te mostrar.
+
+434
+00:24:25,755 --> 00:24:27,548
+-O que sabe?
+-Sei que terminamos.
+
+435
+00:24:28,090 --> 00:24:29,133
+Esteve na oficina?
+
+436
+00:24:30,468 --> 00:24:31,802
+-Não.
+-Não mexa nas coisas.
+
+437
+00:24:31,886 --> 00:24:32,929
+Não mexi em nada.
+
+438
+00:24:33,012 --> 00:24:34,013
+Vá consertar algo.
+
+439
+00:24:34,096 --> 00:24:35,097
+Sim, tenha um ótimo dia.
+
+440
+00:24:35,181 --> 00:24:36,599
+Você também. Diabos.
+
+441
+00:24:41,646 --> 00:24:43,022
+<i>Espere, querido.</i>
+
+442
+00:24:44,774 --> 00:24:45,775
+<i>O que estava falando?</i>
+
+443
+00:24:45,858 --> 00:24:47,777
+Boas notícias. O helicóptero não caiu.
+
+444
+00:24:48,277 --> 00:24:50,738
+<i>Achei que tivesse,
+e já me casei de novo.</i>
+
+445
+00:24:51,030 --> 00:24:52,156
+É? Ele é rico?
+
+446
+00:24:52,490 --> 00:24:53,908
+Lembra do que sua mãe sempre dizia?
+
+447
+00:24:53,991 --> 00:24:56,661
+"É mais fácil
+casar com um ricaço, Felicia."
+
+448
+00:24:56,744 --> 00:24:59,622
+<i>Se eu ganhasse um centavo para
+cada bobagem que minha mãe dizia...</i>
+
+449
+00:24:59,997 --> 00:25:01,165
+<i>não precisaria de um ricaço.</i>
+
+450
+00:25:01,249 --> 00:25:02,792
+<i>Tem de consertar isso, a propósito.</i>
+
+451
+00:25:04,210 --> 00:25:06,504
+Conserto assim que voltar,
+não esquenta.
+
+452
+00:25:07,421 --> 00:25:08,839
+Venha perto do computador.
+
+453
+00:25:09,423 --> 00:25:10,633
+Aproxime-se do computador.
+
+454
+00:25:11,592 --> 00:25:12,718
+Olhe-me.
+
+455
+00:25:13,052 --> 00:25:14,220
+<i>Como está aí?</i>
+
+456
+00:25:14,303 --> 00:25:15,930
+A mesma coisa de sempre.
+
+457
+00:25:17,098 --> 00:25:18,099
+-Pronta?
+<i>-Pronta.</i>
+
+458
+00:25:18,724 --> 00:25:20,017
+<i>-Três.
+</i>-Dois.
+
+459
+00:25:20,601 --> 00:25:21,602
+<i>-Um.
+</i>-Já.
+
+460
+00:25:25,523 --> 00:25:26,524
+Essa cara.
+
+461
+00:25:27,900 --> 00:25:28,985
+<i>Sociopata.</i>
+
+462
+00:25:29,902 --> 00:25:33,698
+Isso é foco. É determinação.
+É intensidade. Motivação.
+
+463
+00:25:38,995 --> 00:25:41,581
+-Eu venci.
+<i>-Detesto perder para você.</i>
+
+464
+00:25:41,789 --> 00:25:43,916
+-Te vejo em breve, tá?
+<i>-Tudo bem. Até.</i>
+
+465
+00:25:46,335 --> 00:25:47,670
+Por que mexe nas minhas coisas?
+
+466
+00:25:48,421 --> 00:25:51,632
+Mexeu aqui.
+
+467
+00:25:52,884 --> 00:25:55,303
+Querem que vamos ao próximo local.
+
+468
+00:25:55,386 --> 00:25:56,387
+Kaskida.
+
+469
+00:25:57,179 --> 00:25:59,223
+Foi feito por alguém da BP?
+
+470
+00:25:59,473 --> 00:26:00,850
+Kaluza, Vidrine, alguém?
+
+471
+00:26:00,933 --> 00:26:03,436
+Vidrine passou por mim.
+Vem do Vidrine.
+
+472
+00:26:05,813 --> 00:26:06,856
+SALA DA COMPANHIA
+
+473
+00:26:06,939 --> 00:26:08,983
+Bob, deixa te falar
+o que acho ser mais importante.
+
+474
+00:26:09,108 --> 00:26:13,487
+Precisamos ir de Macondo
+para Kaskida dia 16 de maio.
+
+475
+00:26:13,613 --> 00:26:15,865
+Kaskida é um prospecto incomum.
+
+476
+00:26:15,948 --> 00:26:19,619
+De três a quatro bilhões de barris?
+Vale mais que a própria BP.
+
+477
+00:26:19,702 --> 00:26:21,162
+Tenho cara de Papai Noel?
+
+478
+00:26:22,371 --> 00:26:24,040
+É igualzinho a ele.
+
+479
+00:26:25,333 --> 00:26:27,043
+O treinador Miles jogou em Michigan,
+
+480
+00:26:27,126 --> 00:26:29,003
+mas a alma é da Louisiana.
+
+481
+00:26:29,170 --> 00:26:30,379
+Porque ele é o diabo?
+
+482
+00:26:30,463 --> 00:26:31,714
+Só porque vencemos não...
+
+483
+00:26:31,797 --> 00:26:34,717
+-Nós? Foi ao Alabama?
+-Foi ao LSU?
+
+484
+00:26:34,800 --> 00:26:36,677
+Quando me ensinaram
+a usar o vaso, disseram
+
+485
+00:26:36,761 --> 00:26:38,471
+pra acenar e dizer
+"te vejo em Tuscaloosa".
+
+486
+00:26:38,554 --> 00:26:39,805
+Vocês trabalham para o governo?
+
+487
+00:26:39,889 --> 00:26:40,973
+Limpem tudo.
+
+488
+00:26:41,098 --> 00:26:43,100
+Ainda tem lama da última passagem.
+
+489
+00:26:43,184 --> 00:26:46,103
+Mais de 5000 PSI. Pegue um esfregão.
+
+490
+00:26:47,355 --> 00:26:48,439
+Isso é loucura.
+
+491
+00:26:48,606 --> 00:26:51,150
+Olha o que a pressão fez
+com a peça durante a passagem.
+
+492
+00:26:51,525 --> 00:26:53,319
+-Essa vai para os troféus.
+-Verdade.
+
+493
+00:26:53,694 --> 00:26:55,404
+Patrick, disse que tinha
+algo para mim.
+
+494
+00:26:55,488 --> 00:26:57,907
+Sim, senhor.
+Antes de partiram da outra vez,
+
+495
+00:26:58,032 --> 00:26:59,325
+o separador quebrou
+
+496
+00:26:59,408 --> 00:27:00,701
+depois de trabalhar um pouco,
+
+497
+00:27:00,785 --> 00:27:02,703
+e por fim encontrei o problema.
+
+498
+00:27:03,037 --> 00:27:04,038
+Veja só.
+
+499
+00:27:04,121 --> 00:27:06,165
+Guardei para você
+desde a última vinda.
+
+500
+00:27:08,918 --> 00:27:09,919
+É um dente?
+
+501
+00:27:11,170 --> 00:27:13,923
+Cara, acabou de deixar
+uma garotinha muito feliz.
+
+502
+00:27:14,006 --> 00:27:16,467
+E o pai dela te agradece.
+Te devo uma.
+
+503
+00:27:24,183 --> 00:27:25,351
+Gordon.
+
+504
+00:27:26,978 --> 00:27:28,145
+Se descobrirem, é sério,
+
+505
+00:27:28,229 --> 00:27:29,522
+será uma merda quando o Sr...
+
+506
+00:27:29,939 --> 00:27:31,148
+Mandaram-nos embora.
+
+507
+00:27:31,524 --> 00:27:32,525
+Sim.
+
+508
+00:27:35,611 --> 00:27:36,779
+Venha comigo, Mike.
+
+509
+00:27:36,862 --> 00:27:39,407
+-Aonde vamos?
+-Vamos matar uns caras da BP.
+
+510
+00:27:39,490 --> 00:27:41,909
+-Tenho marreta, chave de fenda.
+-Excelente.
+
+511
+00:27:43,703 --> 00:27:46,747
+Mike, escovou os dentes hoje cedo?
+
+512
+00:27:46,831 --> 00:27:47,915
+Sim, senhor.
+
+513
+00:27:47,999 --> 00:27:49,876
+Passou fio dental?
+
+514
+00:27:50,251 --> 00:27:51,544
+Não, por quê?
+
+515
+00:27:51,878 --> 00:27:54,630
+Isso te poupa muito dinheiro
+e de muita dor com o tempo.
+
+516
+00:27:55,923 --> 00:27:56,924
+-Droga.
+-Jimmy...
+
+517
+00:27:57,008 --> 00:27:58,342
+Ele vai surtar com o cara da BP.
+
+518
+00:27:58,843 --> 00:28:00,136
+Não fizeram nada.
+Mandaram embora
+
+519
+00:28:00,261 --> 00:28:01,470
+sem fazerem nada,
+pegamos eles.
+
+520
+00:28:01,554 --> 00:28:04,140
+Qual o problema?
+Deve dinheiro a ele?
+
+521
+00:28:04,223 --> 00:28:05,933
+Mike, fique comigo.
+
+522
+00:28:08,811 --> 00:28:09,812
+Claro.
+
+523
+00:28:10,646 --> 00:28:13,274
+Don, veja a linha 51.
+Verá os custos.
+
+524
+00:28:14,984 --> 00:28:17,862
+Ora, se não são
+Don Vidrine e Bob Kaluza.
+
+525
+00:28:18,195 --> 00:28:20,156
+Bem-vindo de volta, Sr. Jimmy.
+
+526
+00:28:21,157 --> 00:28:24,577
+Temos 150 metros de cimento, é?
+
+527
+00:28:25,328 --> 00:28:26,329
+Sim.
+
+528
+00:28:26,412 --> 00:28:28,623
+O cimento é a única coisa
+entre nós e um vazamento.
+
+529
+00:28:29,123 --> 00:28:30,583
+-E está inteiro.
+-Sim.
+
+530
+00:28:30,666 --> 00:28:31,792
+Teve tempo suficiente?
+
+531
+00:28:32,793 --> 00:28:34,962
+Leva tempo para fazer direito.
+
+532
+00:28:35,379 --> 00:28:38,841
+Se o cimento estiver com problema,
+tudo acima dele estará...
+
+533
+00:28:38,925 --> 00:28:41,552
+Não está com problema.
+Houston não tem problema.
+
+534
+00:28:41,636 --> 00:28:43,763
+Então o cara da Schlumberger
+disse isso?
+
+535
+00:28:44,597 --> 00:28:47,141
+O teste que fizeram disse isso?
+
+536
+00:28:47,350 --> 00:28:51,604
+Confiamos em nosso cimento. Não?
+
+537
+00:28:51,687 --> 00:28:53,564
+Estamos bem quanto à
+integridade do cimento,
+
+538
+00:28:53,648 --> 00:28:54,649
+isso é verdade.
+
+539
+00:28:55,900 --> 00:28:58,194
+Vocês são como meu avô.
+
+540
+00:28:58,611 --> 00:29:00,863
+-Como é?
+-O meu avô...
+
+541
+00:29:01,364 --> 00:29:02,907
+ele nunca foi ao dentista,
+
+542
+00:29:02,990 --> 00:29:04,784
+porque não queria saber
+o que estava errado,
+
+543
+00:29:04,867 --> 00:29:06,118
+porque aí precisaria consertar.
+
+544
+00:29:06,410 --> 00:29:09,080
+Não querem saber
+se o cimento está uma merda
+
+545
+00:29:09,163 --> 00:29:12,333
+porque estão 43 dias e 50 milhões
+de dólares acima do orçamento.
+
+546
+00:29:12,416 --> 00:29:15,002
+Deveria ser incluir nessa, Sr. Jimmy.
+
+547
+00:29:15,086 --> 00:29:17,380
+A BP escolheu
+perfurar esse lugar, Bob.
+
+548
+00:29:17,880 --> 00:29:19,632
+A culpa é de vocês.
+
+549
+00:29:19,715 --> 00:29:22,176
+Claro, eu tenho
+de resolver as consequências,
+
+550
+00:29:22,260 --> 00:29:23,803
+então me incluo. Acontece que
+
+551
+00:29:23,886 --> 00:29:26,597
+mandaram a equipe de teste embora
+antes de fazerem o trabalho.
+
+552
+00:29:26,764 --> 00:29:29,100
+Darei notícias
+que talvez não queiram saber.
+
+553
+00:29:29,183 --> 00:29:31,852
+Quanto custaria o teste, 125 mil?
+
+554
+00:29:33,229 --> 00:29:35,481
+São uma empresa de 180 bilhões,
+seus mãos de vaca.
+
+555
+00:29:35,565 --> 00:29:39,193
+É por isso que valemos 186 bilhões.
+
+556
+00:29:39,360 --> 00:29:40,861
+Nos preocupamos com as contas.
+
+557
+00:29:40,945 --> 00:29:42,280
+Me preocupo com a plataforma.
+
+558
+00:29:42,738 --> 00:29:43,906
+Meus homens moram nela.
+
+559
+00:29:44,240 --> 00:29:45,366
+Vocês só alugam.
+
+560
+00:29:45,575 --> 00:29:48,828
+Don, você e eu sabemos
+que precisamos fazer a manutenção.
+
+561
+00:29:49,036 --> 00:29:51,372
+Mike, quantas de nossas máquinas
+precisam de reparos?
+
+562
+00:29:52,206 --> 00:29:54,375
+-390, Sr. Jimmy
+-390?
+
+563
+00:29:54,458 --> 00:29:56,711
+Sim, senhor. Quase dez por cento
+de todas as máquinas.
+
+564
+00:29:56,794 --> 00:29:58,296
+Me diga algumas.
+
+565
+00:29:58,379 --> 00:29:59,380
+Algumas?
+
+566
+00:29:59,964 --> 00:30:01,924
+Adoraria saber que tipo de equipamento
+
+567
+00:30:02,008 --> 00:30:04,468
+tão necessário está quebrado.
+
+568
+00:30:04,552 --> 00:30:05,845
+Por onde começo?
+
+569
+00:30:06,512 --> 00:30:08,514
+Estação A, estação de processo 18,
+
+570
+00:30:08,598 --> 00:30:11,225
+sistema telefônico,
+controlador de processamento BOP
+
+571
+00:30:11,309 --> 00:30:13,686
+antena do GPS, sistema de TV,
+internet wireless,
+
+572
+00:30:13,811 --> 00:30:15,521
+guincho, sistema de acionamento,
+
+573
+00:30:15,605 --> 00:30:17,565
+controles auxiliares, bombas d'água,
+
+574
+00:30:17,648 --> 00:30:18,774
+detectores de fumaça.
+
+575
+00:30:19,483 --> 00:30:20,568
+O senhor está suando tanto
+
+576
+00:30:20,651 --> 00:30:23,154
+porque o compressor do
+ar-condicionado daqui está quebrado.
+
+577
+00:30:24,697 --> 00:30:26,449
+Tudo menos o banheiro?
+
+578
+00:30:26,532 --> 00:30:28,576
+Também há problemas nele,
+mas não mexo com vasos.
+
+579
+00:30:28,659 --> 00:30:29,702
+É coisa de engenharia.
+
+580
+00:30:30,745 --> 00:30:31,746
+Quem é você?
+
+581
+00:30:33,039 --> 00:30:34,332
+Mike Williams, manutenção.
+
+582
+00:30:35,124 --> 00:30:37,001
+Vou te dizer o que eu disse a seus
+
+583
+00:30:37,084 --> 00:30:38,127
+executivos no helicóptero,
+
+584
+00:30:38,252 --> 00:30:40,296
+e sobre o momento da visita.
+
+585
+00:30:40,796 --> 00:30:41,839
+Nós vamos...
+
+586
+00:30:42,381 --> 00:30:45,468
+garantir esse poço
+para que uma plataforma de produção
+
+587
+00:30:45,551 --> 00:30:47,470
+venha depois e bombeie o petróleo.
+
+588
+00:30:47,553 --> 00:30:50,598
+Infelizmente,
+fazer direito leva tempo.
+
+589
+00:30:50,848 --> 00:30:52,016
+Quarenta e três dias?
+
+590
+00:30:52,850 --> 00:30:53,935
+Quarenta e quatro dias?
+
+591
+00:30:54,185 --> 00:30:55,186
+Continue contando, Bob.
+
+592
+00:30:55,269 --> 00:30:56,270
+Quarenta e cinco dias?
+
+593
+00:30:56,771 --> 00:30:57,855
+Quarenta e seis dias?
+
+594
+00:30:58,022 --> 00:30:59,023
+Coma um biscoito, Bob.
+
+595
+00:31:00,816 --> 00:31:02,401
+Não fizeram o teste no cimento.
+
+596
+00:31:03,152 --> 00:31:04,862
+Direi o que faremos agora.
+
+597
+00:31:05,029 --> 00:31:07,031
+Faremos um teste negativo de pressão
+
+598
+00:31:07,114 --> 00:31:08,658
+antes de qualquer outra coisa.
+
+599
+00:31:08,783 --> 00:31:10,534
+Se realmente acha necessário.
+
+600
+00:31:10,826 --> 00:31:13,079
+Realmente acho, Bob,
+e você também deveria.
+
+601
+00:31:13,579 --> 00:31:17,166
+Principalmente por não sabermos
+se esse poço é estável ou não.
+
+602
+00:31:19,085 --> 00:31:21,504
+Está discando! O dia está melhorando.
+
+603
+00:31:22,463 --> 00:31:24,423
+Sr. Anderson, é o Sr. Jimmy.
+
+604
+00:31:24,882 --> 00:31:26,592
+Faremos um teste negativo de pressão.
+
+605
+00:31:26,676 --> 00:31:28,636
+Começamos com 915 m de tubo.
+
+606
+00:31:29,595 --> 00:31:30,596
+Obrigado.
+
+607
+00:31:32,974 --> 00:31:34,308
+DIAS DE ATRASO: 43
+
+608
+00:31:44,610 --> 00:31:48,447
+Jovem, desculpe. Pode me dizer
+onde encontro o Sr. Mike Williams?
+
+609
+00:31:48,531 --> 00:31:51,242
+Está na oficina de manutenção,
+ao lado da cafeteria.
+
+610
+00:31:51,325 --> 00:31:52,994
+-Muito obrigado.
+-Tenha um bom dia.
+
+611
+00:31:53,119 --> 00:31:54,161
+Igualmente.
+
+612
+00:31:58,374 --> 00:31:59,584
+Sr. Williams?
+
+613
+00:32:01,544 --> 00:32:02,795
+Sr. Vidrine, está perdido?
+
+614
+00:32:03,963 --> 00:32:04,964
+Não mesmo.
+
+615
+00:32:05,047 --> 00:32:08,342
+Queria te fazer uma visita.
+
+616
+00:32:08,885 --> 00:32:10,011
+Como posso ajudar?
+
+617
+00:32:10,636 --> 00:32:14,181
+Você parecia querer dizer algo mais,
+
+618
+00:32:14,265 --> 00:32:16,976
+e eu pensei em te dar a oportunidade.
+
+619
+00:32:22,857 --> 00:32:26,611
+A plataforma não funciona?
+
+620
+00:32:26,694 --> 00:32:28,863
+-Não disse isso.
+-Pareceu dizer.
+
+621
+00:32:30,323 --> 00:32:32,283
+Veio aqui por algum motivo,
+Sr. Vidrine?
+
+622
+00:32:32,825 --> 00:32:35,578
+A BP é uma grande empresa, Mike.
+
+623
+00:32:35,828 --> 00:32:39,624
+Muito grande por um motivo,
+é uma organização complexa.
+
+624
+00:32:39,707 --> 00:32:42,793
+Possui muitas peças. Milhões delas.
+
+625
+00:32:42,919 --> 00:32:45,504
+Milhares e milhares
+de pessoas envolvidas.
+
+626
+00:32:46,297 --> 00:32:49,008
+Todos damos duro para garantir
+
+627
+00:32:49,383 --> 00:32:51,761
+que toda essa gente e essas peças
+
+628
+00:32:51,844 --> 00:32:54,847
+funcionem direito até o final.
+
+629
+00:32:54,931 --> 00:32:57,225
+Até um final
+lucrativo para todos, então,
+
+630
+00:32:57,308 --> 00:32:58,976
+há um bem maior,
+
+631
+00:32:59,602 --> 00:33:01,479
+há um bem menor,
+
+632
+00:33:01,562 --> 00:33:04,273
+como você e as privadas com problema.
+
+633
+00:33:04,357 --> 00:33:08,653
+Mas sabe, acontece que
+está tudo interligado.
+
+634
+00:33:08,736 --> 00:33:10,947
+Há um fluxo de trabalho, Mike.
+
+635
+00:33:11,030 --> 00:33:14,116
+Se você desliga, eu desligo.
+
+636
+00:33:14,325 --> 00:33:17,495
+Nós desligamos. O trem todo desliga.
+
+637
+00:33:18,788 --> 00:33:20,373
+Entende, Sr. Williams?
+
+638
+00:33:21,249 --> 00:33:22,792
+Quer remédio, Sr. Vidrine?
+
+639
+00:33:23,960 --> 00:33:27,755
+Estou tentando avaliar o quanto
+
+640
+00:33:27,838 --> 00:33:30,258
+esse trem está preso aos trilhos.
+
+641
+00:33:32,134 --> 00:33:33,970
+Estou ouvindo.
+
+642
+00:33:34,053 --> 00:33:35,763
+Quer saber minha visão?
+
+643
+00:33:35,846 --> 00:33:37,557
+-Quero.
+-Certo.
+
+644
+00:33:37,974 --> 00:33:39,308
+Querem ficar sem combustível
+
+645
+00:33:39,392 --> 00:33:40,518
+assim que tocar o solo.
+
+646
+00:33:41,561 --> 00:33:43,980
+Ficar sem combustível
+quando o avião aterrissa não é sábio.
+
+647
+00:33:44,564 --> 00:33:47,650
+É uma lógica defeituosa.
+É ter esperança como tática.
+
+648
+00:33:49,443 --> 00:33:50,570
+Está anotado.
+
+649
+00:33:51,279 --> 00:33:52,905
+E muito obrigado, senhor.
+
+650
+00:33:53,656 --> 00:33:55,366
+É a opinião
+de um cara nada importante.
+
+651
+00:33:57,618 --> 00:33:58,786
+É um bagre?
+
+652
+00:33:59,579 --> 00:34:01,664
+Sim. 30 kg.
+
+653
+00:34:02,164 --> 00:34:04,333
+Como se chamada essa tática?
+Pescar manualmente?
+
+654
+00:34:04,417 --> 00:34:05,459
+Pesca com as mãos.
+
+655
+00:34:05,585 --> 00:34:06,627
+Pescamos bagre à mão.
+
+656
+00:34:07,503 --> 00:34:09,505
+É engraçado, quando vamos pescar,
+
+657
+00:34:09,589 --> 00:34:10,631
+meu melhor amigo e eu,
+
+658
+00:34:10,715 --> 00:34:12,550
+vamos até o lago com um uísque,
+
+659
+00:34:12,675 --> 00:34:15,887
+procuramos pelo
+maior e mais escuro buraco
+
+660
+00:34:15,970 --> 00:34:17,138
+e colocamos o braço nele.
+
+661
+00:34:17,221 --> 00:34:19,849
+E esperamos que um
+bagre dos grandes nos morda
+
+662
+00:34:19,932 --> 00:34:22,310
+o mais forte que puder,
+para que possamos puxá-lo do buraco.
+
+663
+00:34:22,685 --> 00:34:23,853
+Queremos ser mordidos.
+
+664
+00:34:24,645 --> 00:34:25,646
+Esse é o plano.
+
+665
+00:34:25,938 --> 00:34:27,607
+A diferença é que estamos prontos.
+
+666
+00:34:28,441 --> 00:34:29,442
+Estamos prontos.
+
+667
+00:34:29,692 --> 00:34:31,235
+Estou de sapatos, chapéu, luvas,
+
+668
+00:34:31,319 --> 00:34:33,446
+touca, óculos escuros,
+estamos prontos.
+
+669
+00:34:33,529 --> 00:34:35,907
+Não vou meter a mão no buraco
+com aquele monstro
+
+670
+00:34:35,990 --> 00:34:37,033
+e esperar pelo melhor.
+
+671
+00:34:38,367 --> 00:34:39,952
+Esperança não é tática, Don.
+
+672
+00:34:45,208 --> 00:34:46,584
+Agradeço por seu tempo.
+
+673
+00:34:47,293 --> 00:34:49,503
+-Tenha um ótimo dia, senhor.
+-Você também.
+
+674
+00:34:50,838 --> 00:34:51,839
+Que merda.
+
+675
+00:34:54,175 --> 00:34:56,344
+TESTE NEGATIVO DE PRESSÃO PARA
+CONFIRMAR A INTEGRIDADE DA PLATAFORMA
+
+676
+00:34:56,427 --> 00:34:58,512
+<i>Atenção, o teste negativo
+de pressão será realizado.</i>
+
+677
+00:34:58,596 --> 00:35:01,849
+<i>Todos que não são essenciais
+devem sair da plataforma.</i>
+
+678
+00:35:02,350 --> 00:35:03,392
+Entrando na corrente.
+
+679
+00:35:03,768 --> 00:35:05,978
+Dez graus para a direita.
+Travando em 176.
+
+680
+00:35:06,229 --> 00:35:09,106
+Passando por dez graus.
+Girando para 176.
+
+681
+00:35:09,732 --> 00:35:10,733
+Girando.
+
+682
+00:35:18,950 --> 00:35:20,284
+<i>Damon B. Bankston...</i>
+
+683
+00:35:20,368 --> 00:35:21,452
+É o que, seu quinto copo?
+
+684
+00:35:24,038 --> 00:35:25,039
+Só estou dizendo.
+
+685
+00:35:25,122 --> 00:35:26,916
+Garanta que estão todos
+acordados, comidos
+
+686
+00:35:26,999 --> 00:35:29,293
+e preparados. Pode ser o último teste.
+
+687
+00:35:29,835 --> 00:35:30,836
+Entendido.
+
+688
+00:35:32,338 --> 00:35:35,299
+-Outro teste negativo de pressão?
+-Algum problema?
+
+689
+00:35:35,424 --> 00:35:36,425
+Temos um poço ruim.
+
+690
+00:35:36,509 --> 00:35:39,011
+Todos os poços são ruins,
+o prospecto é ruim.
+
+691
+00:35:39,095 --> 00:35:40,429
+Tudo pronto, Hollywood?
+
+692
+00:35:40,513 --> 00:35:41,597
+Sim.
+
+693
+00:35:44,475 --> 00:35:46,310
+<i>Em posição.</i>
+
+694
+00:35:47,478 --> 00:35:49,063
+Travado em 176, Capitão.
+
+695
+00:35:49,522 --> 00:35:50,773
+Vire dez graus para a direita.
+
+696
+00:35:50,856 --> 00:35:52,650
+<i>Estamos travados.
+Podem fazer o teste.</i>
+
+697
+00:35:54,235 --> 00:35:55,861
+-Prossiga, Jason.
+-Entendido.
+
+698
+00:35:55,945 --> 00:35:57,280
+Fechando o preventivo.
+
+699
+00:36:20,136 --> 00:36:22,179
+Iniciar teste negativo de pressão.
+
+700
+00:36:22,763 --> 00:36:25,766
+<i>Iniciando teste de pressão dos tubos.</i>
+
+701
+00:36:49,165 --> 00:36:50,833
+Acha mesmo que é o último teste?
+
+702
+00:36:51,918 --> 00:36:55,004
+Espero que sim.
+É um poço dos infernos.
+
+703
+00:37:20,238 --> 00:37:22,073
+Não vai demorar.
+
+704
+00:37:23,824 --> 00:37:24,825
+É tudo que tem?
+
+705
+00:37:26,077 --> 00:37:27,078
+Gol!
+
+706
+00:37:37,838 --> 00:37:39,674
+7 quilos por centímetro quadrado.
+
+707
+00:37:41,717 --> 00:37:42,843
+Tudo bem.
+
+708
+00:37:42,927 --> 00:37:46,722
+Está nos forçando um pouco
+para nos deixar atentos.
+
+709
+00:37:50,434 --> 00:37:54,564
+Don, recebeu a garrafa de vinho
+que te mandei um mês atrás?
+
+710
+00:37:54,647 --> 00:37:58,192
+Recebi. Muito obrigado.
+Não só recebi como bebi.
+
+711
+00:37:59,068 --> 00:38:00,736
+-Bem bom, né?
+-Muito, obrigado.
+
+712
+00:38:00,820 --> 00:38:02,154
+Super Tuscan, é?
+
+713
+00:38:02,780 --> 00:38:05,283
+Gaja, né? Sei que gosta.
+
+714
+00:38:06,325 --> 00:38:07,326
+Gaja.
+
+715
+00:38:08,202 --> 00:38:09,203
+Como?
+
+716
+00:38:09,287 --> 00:38:11,372
+Gaja... é assim.
+
+717
+00:38:20,464 --> 00:38:22,008
+Acho que estão na metade.
+
+718
+00:38:22,967 --> 00:38:24,927
+Quanto café tem bebido ultimamente?
+
+719
+00:38:25,595 --> 00:38:27,555
+Capitão, eu parei há muitos meses.
+
+720
+00:38:27,722 --> 00:38:29,140
+Só bebo chá verde agora.
+
+721
+00:38:29,432 --> 00:38:31,517
+Parei com o café.
+Faço ioga diariamente.
+
+722
+00:38:33,644 --> 00:38:34,645
+Tem duas semanas já.
+
+723
+00:38:48,409 --> 00:38:50,077
+Trinta quilos por centímetro quadrado.
+
+724
+00:38:55,875 --> 00:38:57,084
+Não me parece bom.
+
+725
+00:39:02,798 --> 00:39:04,383
+<i>Alerta de pressão.</i>
+
+726
+00:39:05,593 --> 00:39:06,677
+Sessenta.
+
+727
+00:39:21,275 --> 00:39:22,568
+Alerta de pressão.
+
+728
+00:39:23,653 --> 00:39:25,071
+Noventa e oito.
+
+729
+00:39:26,280 --> 00:39:27,323
+<i>Alerta de pressão.</i>
+
+730
+00:39:29,075 --> 00:39:30,368
+<i>Alerta de pressão.</i>
+
+731
+00:39:31,953 --> 00:39:33,162
+<i>Alerta de pressão.</i>
+
+732
+00:39:34,914 --> 00:39:37,083
+Estabilizou em 98, Sr. Jimmy.
+
+733
+00:39:37,667 --> 00:39:38,960
+É bastante pressão.
+
+734
+00:39:39,043 --> 00:39:41,671
+O bastante
+para cortar um carro ao meio.
+
+735
+00:39:42,213 --> 00:39:43,589
+Abrir fecho superior.
+
+736
+00:39:44,048 --> 00:39:46,509
+Hollywood, abre a válvula
+do tubo de perfuração,
+
+737
+00:39:46,592 --> 00:39:47,927
+precisamos aliviar a pressão.
+
+738
+00:39:50,304 --> 00:39:54,267
+Cavalheiros, detesto dizer,
+mas foi um mau teste.
+
+739
+00:39:54,350 --> 00:39:55,434
+Não necessariamente.
+
+740
+00:39:55,643 --> 00:39:57,979
+Don, um bom teste começa...
+
+741
+00:39:58,062 --> 00:40:01,065
+Começa com zero. Fica em zero.
+Acaba em zero.
+
+742
+00:40:01,148 --> 00:40:02,149
+Obrigado.
+
+743
+00:40:02,233 --> 00:40:03,651
+Havia pressão,
+
+744
+00:40:03,734 --> 00:40:06,821
+mas nenhuma lama passou pelo cano.
+
+745
+00:40:06,904 --> 00:40:08,155
+Explique isso para mim.
+
+746
+00:40:14,704 --> 00:40:16,706
+É um resultado confuso, admito.
+
+747
+00:40:16,789 --> 00:40:20,042
+Kaluza e eu conversamos
+sobre esse tubo
+
+748
+00:40:20,126 --> 00:40:22,461
+até cansarmos.
+
+749
+00:40:22,545 --> 00:40:24,672
+Tem algo errado com ele.
+
+750
+00:40:25,506 --> 00:40:27,758
+Ele diz que é o efeito bexiga.
+
+751
+00:40:27,842 --> 00:40:28,926
+Efeito bexiga?
+
+752
+00:40:29,135 --> 00:40:30,344
+Efeito bexiga.
+
+753
+00:40:30,428 --> 00:40:32,930
+Ele disse que Jason entenderia.
+
+754
+00:40:33,014 --> 00:40:35,182
+O medidor não indica nada, certo?
+
+755
+00:40:35,683 --> 00:40:37,059
+-Correto.
+-Veja aqui.
+
+756
+00:40:37,268 --> 00:40:39,270
+Precisávamos disso.
+
+757
+00:40:39,812 --> 00:40:41,898
+Efeito bexiga.
+
+758
+00:40:41,981 --> 00:40:45,443
+É uma pressão...
+
+759
+00:40:47,069 --> 00:40:49,363
+em torno do preventivo
+
+760
+00:40:49,447 --> 00:40:51,991
+que parece ser pressão de perfuração
+
+761
+00:40:52,241 --> 00:40:56,704
+porque ela está presa aqui,
+está bem em cima
+
+762
+00:40:56,787 --> 00:40:58,247
+do sensor.
+
+763
+00:40:58,331 --> 00:41:01,542
+Se fosse
+um verdadeiro problema de pressão,
+
+764
+00:41:01,834 --> 00:41:03,419
+teríamos lama
+
+765
+00:41:03,586 --> 00:41:07,590
+saindo pelo tubo.
+
+766
+00:41:07,757 --> 00:41:09,884
+Como testaremos isso?
+
+767
+00:41:10,092 --> 00:41:13,346
+Faremos o teste novamente.
+
+768
+00:41:13,429 --> 00:41:15,514
+Mas faremos no estrangulador,
+
+769
+00:41:15,598 --> 00:41:16,807
+não no tubo de perfuração.
+
+770
+00:41:17,141 --> 00:41:20,144
+É óbvio que nosso problema
+não está no tubo.
+
+771
+00:41:20,228 --> 00:41:21,979
+Não se pode ter
+
+772
+00:41:22,063 --> 00:41:27,652
+98 kg de pressão
+por centímetro quadrado,
+
+773
+00:41:27,860 --> 00:41:29,820
+suficiente para dividir seu carro,
+
+774
+00:41:30,029 --> 00:41:31,906
+e não ter nenhum fluido
+
+775
+00:41:32,073 --> 00:41:35,618
+sendo forçado para dentro do tubo
+por essa pressão.
+
+776
+00:41:38,246 --> 00:41:40,414
+<i>Suas botas estão sujas</i>
+
+777
+00:41:40,498 --> 00:41:41,916
+<i>com lama de perfuração? Não?</i>
+
+778
+00:41:42,291 --> 00:41:43,292
+<i>Don.</i>
+
+779
+00:41:47,213 --> 00:41:48,756
+A discussão esquentou na cabine.
+
+780
+00:41:49,257 --> 00:41:51,634
+Temos problemas no cano de perfuração
+
+781
+00:41:51,717 --> 00:41:55,680
+ou no sensor, o que nos retorna
+uma leitura falsa.
+
+782
+00:41:57,265 --> 00:42:01,602
+Ou em alguma
+das milhares de peças lá em baixo.
+
+783
+00:42:01,978 --> 00:42:04,313
+Nós descobriremos
+
+784
+00:42:04,397 --> 00:42:08,109
+fazendo o teste no estrangulador,
+
+785
+00:42:08,276 --> 00:42:11,112
+e se houver
+zero de pressão, Sr. Jimmy,
+
+786
+00:42:11,195 --> 00:42:14,031
+saberemos tudo que precisamos.
+
+787
+00:42:14,740 --> 00:42:15,992
+Todos concordamos?
+
+788
+00:42:16,951 --> 00:42:19,620
+Não sei do acordo,
+mas fazer um teste não machuca.
+
+789
+00:42:19,704 --> 00:42:20,705
+Ótimo.
+
+790
+00:42:20,997 --> 00:42:22,790
+Como estamos, Sr. Jimmy?
+
+791
+00:42:22,874 --> 00:42:25,585
+Estamos ótimos. Não é, Don?
+
+792
+00:42:26,752 --> 00:42:27,879
+Sim, estamos.
+
+793
+00:42:32,592 --> 00:42:33,759
+A BP está bem.
+
+794
+00:42:38,431 --> 00:42:40,266
+-Sim.
+-O petróleo da BP.
+
+795
+00:42:40,892 --> 00:42:41,893
+De fato.
+
+796
+00:42:42,310 --> 00:42:45,313
+Só somos a ajuda que contrataram
+para ajudar a perfurar.
+
+797
+00:42:45,938 --> 00:42:47,732
+Exatamente, Sr. Jimmy.
+
+798
+00:42:48,024 --> 00:42:49,817
+Mas estamos 50 dias atrasados.
+
+799
+00:42:50,318 --> 00:42:51,736
+E ainda não perfuramos.
+
+800
+00:42:53,571 --> 00:42:56,365
+Sr. Jimmy, temos problemas na cozinha.
+
+801
+00:42:57,199 --> 00:42:58,326
+-O quê?
+-Muitas pessoas.
+
+802
+00:42:58,409 --> 00:43:00,620
+-É um problema de segurança.
+-Só levará um minuto.
+
+803
+00:43:11,881 --> 00:43:13,716
+Estamos 43 dias atrasados, não 50.
+
+804
+00:43:13,799 --> 00:43:15,635
+Matemática simples.
+O dia do término
+
+805
+00:43:15,760 --> 00:43:18,137
+era par ser oito de março,
+hoje é 20 de abril. 43 dias.
+
+806
+00:43:19,138 --> 00:43:20,139
+Sim.
+
+807
+00:43:20,223 --> 00:43:22,516
+Achei que loucos por dinheiro
+seriam bons de conta.
+
+808
+00:43:23,726 --> 00:43:24,894
+Muito bem, cavalheiros.
+
+809
+00:43:25,436 --> 00:43:26,520
+Vá em frente, Dewey.
+
+810
+00:43:26,604 --> 00:43:28,689
+Teste negativo de pressão
+no estrangulador.
+
+811
+00:43:28,773 --> 00:43:30,274
+Trocando para teste de estrangulador.
+
+812
+00:43:30,399 --> 00:43:32,860
+<i>Iniciando teste de pressão
+no estrangulador.</i>
+
+813
+00:43:32,944 --> 00:43:33,945
+Efeito bexiga.
+
+814
+00:43:35,154 --> 00:43:36,322
+Acha que é verdade?
+
+815
+00:43:36,989 --> 00:43:39,825
+Se não saísse da boca do Don Vidrine
+
+816
+00:43:39,909 --> 00:43:42,119
+me pareceria verdade, mas sim.
+
+817
+00:43:42,203 --> 00:43:43,204
+Digo...
+
+818
+00:43:43,704 --> 00:43:47,124
+tem certa lógica nisso.
+
+819
+00:43:47,375 --> 00:43:48,501
+Tem mérito, mas...
+
+820
+00:43:49,335 --> 00:43:51,629
+Não sei.
+Aplicado a tubos e estranguladores?
+
+821
+00:43:52,797 --> 00:43:54,090
+Está fora da minha área.
+
+822
+00:43:54,382 --> 00:43:55,633
+Deveríamos ter visto lama.
+
+823
+00:44:39,385 --> 00:44:40,386
+Sim, Sr. Jimmy.
+
+824
+00:44:40,636 --> 00:44:41,804
+Sim, Sr. Jimmy.
+
+825
+00:44:41,888 --> 00:44:42,889
+PRÊMIO DE SEGURANÇA DA BP, 2010
+DEEPWATER HORIZON
+
+826
+00:44:42,972 --> 00:44:46,309
+<i>Deepwater Horizon </i>está recebendo
+o maior prêmio de segurança da BP
+
+827
+00:44:46,392 --> 00:44:47,935
+pelo sétimo ano consecutivo.
+
+828
+00:44:48,019 --> 00:44:52,565
+E tudo começa pelo homem
+que chamamos de Sr. Jimmy.
+
+829
+00:44:56,652 --> 00:44:58,321
+Sr. Jimmy, discurso.
+
+830
+00:44:59,363 --> 00:45:00,740
+Discurso!
+
+831
+00:45:17,381 --> 00:45:20,468
+Manteve-se em zero, chefe.
+É um bom teste. Nenhuma pressão.
+
+832
+00:45:20,968 --> 00:45:23,679
+Meus parabéns. Bom teste.
+
+833
+00:45:24,305 --> 00:45:27,642
+Ainda temos 98 kg de pressão
+por centímetro quadrado no tubo.
+
+834
+00:45:27,808 --> 00:45:30,770
+O tubo e o estrangulador deveriam ter
+exatamente a mesma pressão.
+
+835
+00:45:30,853 --> 00:45:32,396
+E deveriam estar alinhados.
+
+836
+00:45:32,480 --> 00:45:35,274
+Já concordamos
+que há algo errado com o tubo.
+
+837
+00:45:35,358 --> 00:45:36,859
+Por que ficar falando disso?
+
+838
+00:45:36,943 --> 00:45:38,736
+Não sei. Experiência em bombeamento?
+
+839
+00:45:38,819 --> 00:45:42,657
+Sem lama, sem fluxo. Tudo limpo.
+
+840
+00:45:43,699 --> 00:45:47,078
+Quão rápido podemos perfurar?
+
+841
+00:45:47,536 --> 00:45:50,248
+Não farei nada
+sem que o Sr. Jimmy saiba.
+
+842
+00:45:53,251 --> 00:45:56,462
+Tem um homem entre vocês?
+Tem um adulto aqui.
+
+843
+00:45:58,548 --> 00:46:01,092
+Vocês têm os equipamentos todos.
+
+844
+00:46:01,259 --> 00:46:05,263
+O scan, a broca, mas é tudo besteira.
+
+845
+00:46:06,055 --> 00:46:08,891
+Temos zero de pressão
+no estrangulador.
+
+846
+00:46:09,267 --> 00:46:11,227
+São medrosos como gatos.
+
+847
+00:46:11,644 --> 00:46:15,064
+Têm medo de qualquer coisa.
+
+848
+00:46:15,147 --> 00:46:19,360
+Esse será o resumo
+para meu chefe em Londres, Bob.
+
+849
+00:46:20,444 --> 00:46:21,571
+De acordo?
+
+850
+00:46:23,781 --> 00:46:24,782
+Novamente...
+
+851
+00:46:26,742 --> 00:46:28,578
+pode ligar para o Sr. Jimmy.
+
+852
+00:46:29,954 --> 00:46:31,998
+Não me deixem adiar mais o sorvete
+
+853
+00:46:32,081 --> 00:46:33,457
+de vocês. Obrigado.
+
+854
+00:46:35,126 --> 00:46:36,252
+É o Sr. Jimmy.
+
+855
+00:46:36,502 --> 00:46:37,920
+<i>Fizemos o teste.</i>
+
+856
+00:46:38,045 --> 00:46:40,339
+Deu tudo certo. Sem pressão.
+
+857
+00:46:41,674 --> 00:46:42,717
+Começarei o deslocamento,
+
+858
+00:46:42,800 --> 00:46:43,885
+<i>queria sua permissão.</i>
+
+859
+00:46:43,968 --> 00:46:45,261
+Tem certeza disso, Jason?
+
+860
+00:46:46,053 --> 00:46:49,849
+O estrangulador está bom.
+É a única certeza que tenho.
+
+861
+00:46:51,267 --> 00:46:53,978
+<i>Eles estão me pressionando.
+O que quer fazer?</i>
+
+862
+00:46:55,730 --> 00:46:57,064
+Zero de fluxo, certo?
+
+863
+00:46:57,231 --> 00:46:58,691
+<i>Sim. Sem fluxo.</i>
+
+864
+00:47:10,912 --> 00:47:11,913
+Tudo certo?
+
+865
+00:47:13,831 --> 00:47:16,000
+Parece que será uma longa noite.
+
+866
+00:47:17,668 --> 00:47:18,836
+Fique de olho, Jason,
+
+867
+00:47:18,920 --> 00:47:21,047
+te vejo em meia hora. Obrigado.
+
+868
+00:47:25,218 --> 00:47:27,053
+<i>Pessoal, o teste foi bom.</i>
+
+869
+00:47:28,304 --> 00:47:30,723
+Preparem-se para retirar
+dez mil barris de lama.
+
+870
+00:47:30,973 --> 00:47:33,017
+Acho que tomarei um banho
+
+871
+00:47:33,142 --> 00:47:34,477
+antes de começar minha noite.
+
+872
+00:47:34,685 --> 00:47:36,812
+-Será longa, né?
+-Tome um sorvete, Mike.
+
+873
+00:47:36,896 --> 00:47:38,147
+Tenho de tomar cuidado.
+
+874
+00:47:38,731 --> 00:47:39,774
+Consertar detectores de fumaça,
+
+875
+00:47:39,857 --> 00:47:41,734
+não estou com vontade de festejar.
+
+876
+00:47:41,817 --> 00:47:42,818
+É uma boa ideia.
+
+877
+00:47:43,778 --> 00:47:44,946
+Mande olá à Felicia por mim.
+
+878
+00:47:45,029 --> 00:47:46,072
+-Sr. Jimmy?
+-Sim.
+
+879
+00:47:46,155 --> 00:47:47,323
+Precisamos tirar uma foto.
+
+880
+00:47:47,406 --> 00:47:49,283
+-Tudo bem.
+-Certo.
+
+881
+00:47:49,367 --> 00:47:50,451
+Isso, Sr. Jimmy.
+
+882
+00:47:50,534 --> 00:47:53,412
+-Parabéns, Sr. Jimmy!
+-Agradeço, amigos.
+
+883
+00:48:05,216 --> 00:48:06,217
+Verifique sua área.
+
+884
+00:48:07,510 --> 00:48:08,511
+O teste foi bom.
+
+885
+00:48:08,594 --> 00:48:12,265
+<i>Começaremos a movimentar a lama.
+Transfira para o Bankston.</i>
+
+886
+00:48:12,348 --> 00:48:13,349
+Certo, entendido.
+
+887
+00:48:14,267 --> 00:48:16,602
+"Medrosos como gatos."
+Gatos não têm medo.
+
+888
+00:48:16,686 --> 00:48:19,230
+Tive um cato chamado Oscar,
+ele tentava subir no meu labrador.
+
+889
+00:48:20,147 --> 00:48:21,232
+Abrindo preventivo.
+
+890
+00:48:21,816 --> 00:48:23,442
+Esperemos que o monstro
+esteja dormindo.
+
+891
+00:48:26,654 --> 00:48:27,697
+Bombas de lama ligadas.
+
+892
+00:48:28,364 --> 00:48:30,074
+Retirando lama pesada do poço.
+
+893
+00:48:30,408 --> 00:48:32,618
+<i>Deslocamento depositado no tanque 2.</i>
+
+894
+00:48:33,119 --> 00:48:34,120
+<i>Quatro por cento.</i>
+
+895
+00:48:34,328 --> 00:48:35,830
+Rapazes, o teste foi bom.
+
+896
+00:48:35,913 --> 00:48:38,249
+Vamos bombear toda essa lama.
+
+897
+00:48:45,131 --> 00:48:46,132
+Terminamos!
+
+898
+00:48:46,215 --> 00:48:47,216
+DESLOCAMENTO DE LAMA
+
+899
+00:48:47,300 --> 00:48:49,427
+REMOVE A PRESSÃO, ESTABILIZANDO
+A LAMA DO POÇO ANTES DA DESCONEXÃO
+
+900
+00:48:49,510 --> 00:48:51,721
+-Vamos para casa.
+-Traga a lama.
+
+901
+00:48:52,388 --> 00:48:54,348
+<i>Damon Bankston, é a </i>Deepwater Horizon.
+
+902
+00:48:54,432 --> 00:48:56,976
+<i>Está livre para aproximar-se
+e receber barril de lama.</i>
+
+903
+00:48:57,059 --> 00:48:59,729
+Entendido, Deepwater.
+Aproximando-se para receber lama.
+
+904
+00:48:59,979 --> 00:49:02,732
+A referência é boa. Tudo bom.
+Tudo nos conformes.
+
+905
+00:49:05,359 --> 00:49:08,321
+<i>Atenção, plataforma,
+preparar para descarregar lama.</i>
+
+906
+00:49:08,696 --> 00:49:10,114
+<i>Dez mil barris.</i>
+
+907
+00:49:11,449 --> 00:49:14,243
+<i>Atenção.
+Os testes de pressão foram bons.</i>
+
+908
+00:49:14,327 --> 00:49:17,330
+<i>Parabéns, equipe da Deepwater Horizon.
+É bom prosseguir.</i>
+
+909
+00:49:17,413 --> 00:49:18,873
+Terminamos o poço do inferno.
+
+910
+00:49:19,040 --> 00:49:20,041
+Beleza.
+
+911
+00:49:20,124 --> 00:49:22,335
+Logo estarei em casa.
+
+912
+00:49:23,002 --> 00:49:25,004
+Em dois ou três dias.
+Estarei no meu barco.
+
+913
+00:49:25,463 --> 00:49:27,924
+Tomando cerveja. Pescando um peixe.
+
+914
+00:49:29,592 --> 00:49:31,385
+Bela lama!
+
+915
+00:49:31,469 --> 00:49:32,970
+<i>Trinta e cinco por cento.</i>
+
+916
+00:49:33,387 --> 00:49:35,306
+-Como está?
+-Vamos para casa!
+
+917
+00:49:35,389 --> 00:49:36,390
+Você tem uma?
+
+918
+00:49:36,474 --> 00:49:38,351
+Achei que tinha outros planos.
+Que sairia.
+
+919
+00:49:38,434 --> 00:49:39,518
+<i>Foi cancelado.</i>
+
+920
+00:49:41,103 --> 00:49:43,439
+Calças de moletom,
+cerveja e televisão.
+
+921
+00:49:43,522 --> 00:49:44,523
+<i>Meu favorito.</i>
+
+922
+00:49:45,733 --> 00:49:47,526
+Sou uma simples menina do interior.
+
+923
+00:50:00,206 --> 00:50:01,541
+<i>Sessenta e cinco por cento.</i>
+
+924
+00:50:07,004 --> 00:50:08,548
+<i>Setenta e cinco por cento.</i>
+
+925
+00:50:13,135 --> 00:50:16,013
+Jason! Tenho um aumento de 20 barris
+
+926
+00:50:16,097 --> 00:50:18,015
+e aumento no fluxo.
+Não está desafogando.
+
+927
+00:50:18,099 --> 00:50:19,517
+Pare de bombear a lama.
+
+928
+00:50:19,600 --> 00:50:20,601
+<i>Alerta de pressão.</i>
+
+929
+00:50:24,814 --> 00:50:26,148
+Estão desligando.
+
+930
+00:50:26,732 --> 00:50:28,442
+Deve ter acontecido algo errado.
+
+931
+00:50:29,569 --> 00:50:31,737
+Pessoal, vou urinar. Tudo bem?
+
+932
+00:50:31,821 --> 00:50:33,239
+-Tranquilo.
+-Beleza.
+
+933
+00:50:37,326 --> 00:50:38,327
+<i>Alerta de pressão.</i>
+
+934
+00:50:38,411 --> 00:50:39,453
+Não está parando.
+
+935
+00:50:39,954 --> 00:50:42,665
+Limpem a cabine.
+Tirem ele e ele daqui.
+
+936
+00:50:42,748 --> 00:50:43,749
+O que está havendo?
+
+937
+00:50:43,833 --> 00:50:47,295
+Cavalheiros, por que o alvoroço?
+Estipulamos que havia algo errado.
+
+938
+00:50:47,378 --> 00:50:48,629
+Não devia ter permitido isso.
+
+939
+00:50:48,713 --> 00:50:50,715
+Agora saia daqui
+antes que eu te force.
+
+940
+00:50:50,798 --> 00:50:52,675
+Esse comentário será anotado.
+
+941
+00:50:53,009 --> 00:50:54,302
+Estou pronto para ir para casa.
+
+942
+00:50:54,385 --> 00:50:56,470
+Estou com uma caixa de cerveja
+e um bife na mão.
+
+943
+00:51:01,058 --> 00:51:02,351
+Que está havendo?
+
+944
+00:51:02,602 --> 00:51:04,312
+Provavelmente nada, Sr. Kaluza.
+
+945
+00:51:05,229 --> 00:51:07,023
+-Cuidado onde pisa.
+-Droga, Caleb.
+
+946
+00:51:08,399 --> 00:51:09,483
+Que foi, Caleb?
+
+947
+00:51:13,195 --> 00:51:14,238
+O que ele está fazendo?
+
+948
+00:51:31,255 --> 00:51:32,423
+Merda.
+
+949
+00:51:32,506 --> 00:51:33,799
+O que está havendo?
+
+950
+00:51:33,883 --> 00:51:34,884
+Temos fluxo.
+
+951
+00:51:35,218 --> 00:51:36,552
+Droga! Não é bom!
+
+952
+00:51:37,178 --> 00:51:38,387
+Jason, está vendo isso?
+
+953
+00:51:38,638 --> 00:51:39,639
+Temos fluxo aqui.
+
+954
+00:51:40,348 --> 00:51:41,807
+<i>-Atenção.
+</i>-Não está parando.
+
+955
+00:51:42,225 --> 00:51:43,809
+Jason, está vendo isso?
+
+956
+00:51:43,893 --> 00:51:45,394
+Tem lama na área principal.
+
+957
+00:51:45,686 --> 00:51:47,271
+Não estão falando para fazer algo?
+
+958
+00:51:47,355 --> 00:51:48,648
+Nossa. Não dá para segurar?
+
+959
+00:51:52,109 --> 00:51:53,569
+-Merda!
+-Saiam da área!
+
+960
+00:51:55,780 --> 00:51:57,323
+Puta merda! Jason!
+
+961
+00:52:07,208 --> 00:52:09,043
+<i>Mike, que foi?
+Está tudo bem?</i>
+
+962
+00:52:12,463 --> 00:52:13,673
+Fecharei o preventivo.
+
+963
+00:52:17,426 --> 00:52:18,803
+Duck, venha aqui agora!
+
+964
+00:52:18,970 --> 00:52:19,971
+Está fechando?
+
+965
+00:52:20,054 --> 00:52:22,932
+Estamos bem. Fechei o preventivo.
+Temos 30 segundos.
+
+966
+00:52:27,645 --> 00:52:28,646
+<i>Alerta de pressão.</i>
+
+967
+00:52:28,729 --> 00:52:30,273
+-Duck, tudo bem?
+-Sim, tudo.
+
+968
+00:52:30,356 --> 00:52:32,858
+Dedo no botão de emergência.
+Fique pronto para cortar o cano.
+
+969
+00:52:32,942 --> 00:52:34,110
+Por aqui.
+
+970
+00:52:36,237 --> 00:52:37,238
+Adam!
+
+971
+00:52:37,405 --> 00:52:38,406
+Shane!
+
+972
+00:52:40,783 --> 00:52:41,909
+O que fazer?
+
+973
+00:52:42,451 --> 00:52:43,578
+-Caleb!
+-O que fazer?
+
+974
+00:52:43,661 --> 00:52:45,371
+Cortem o cano da área três.
+
+975
+00:52:55,423 --> 00:52:56,465
+Isso, conseguimos.
+
+976
+00:52:57,091 --> 00:52:58,092
+Não, eu entendo.
+
+977
+00:52:58,634 --> 00:53:00,970
+Faço o máximo para acomodar
+a todos, mas temos coisas...
+
+978
+00:53:20,698 --> 00:53:22,199
+Certo.
+
+979
+00:53:22,366 --> 00:53:25,119
+Estamos bem.
+
+980
+00:53:25,745 --> 00:53:27,204
+<i>Caleb, como está, amigo?</i>
+
+981
+00:53:27,288 --> 00:53:28,331
+Cortamos o cano?
+
+982
+00:53:28,623 --> 00:53:29,624
+<i>Não, tudo bem.</i>
+
+983
+00:53:30,124 --> 00:53:32,543
+<i>O preventivo deu conta.
+Foi só um estouro.</i>
+
+984
+00:53:33,211 --> 00:53:34,962
+<i>O maior estouro que já vi.</i>
+
+985
+00:53:36,505 --> 00:53:39,008
+Ela detonou Maggie e o pinguim.
+
+986
+00:53:39,091 --> 00:53:40,092
+<i>Pare com isso.</i>
+
+987
+00:53:40,176 --> 00:53:41,177
+É sério.
+
+988
+00:53:41,469 --> 00:53:42,845
+<i>Conseguiu sem isso aqui?</i>
+
+989
+00:53:44,138 --> 00:53:45,139
+Não!
+
+990
+00:53:45,223 --> 00:53:47,642
+É um verdadeiro dente de dinossauro.
+
+991
+00:54:32,103 --> 00:54:34,397
+<i>-Alerta de gás.
+</i>-Alerta de gás no depósito de lama.
+
+992
+00:54:34,480 --> 00:54:37,358
+É o mesmo que sempre dispara.
+Vou desligar.
+
+993
+00:54:41,028 --> 00:54:42,029
+Roy?
+
+994
+00:54:42,113 --> 00:54:43,990
+Consegui. Pode sair daqui agora.
+
+995
+00:54:44,574 --> 00:54:45,575
+Tarde demais!
+
+996
+00:54:50,621 --> 00:54:51,747
+<i>Alerta de pressão.</i>
+
+997
+00:54:52,748 --> 00:54:53,791
+<i>Alerta de pressão.</i>
+
+998
+00:54:55,334 --> 00:54:57,003
+-Jason!
+-Que merda!
+
+999
+00:54:58,087 --> 00:54:59,589
+<i>Caleb, tire todo mundo da...</i>
+
+1000
+00:55:14,645 --> 00:55:16,022
+O BOP não funciona.
+
+1001
+00:55:16,105 --> 00:55:19,150
+Puta merda.
+Duck, feche o segundo preventivo.
+
+1002
+00:55:19,233 --> 00:55:20,234
+<i>Falha no preventivo.</i>
+
+1003
+00:55:22,445 --> 00:55:24,906
+Adam! Shane! Vão à sala da lama agora.
+
+1004
+00:55:25,114 --> 00:55:26,115
+Adam!
+
+1005
+00:55:27,366 --> 00:55:28,451
+Temos de ir, cara!
+
+1006
+00:55:28,784 --> 00:55:29,994
+Temos de ir!
+
+1007
+00:55:30,494 --> 00:55:32,788
+Temos de chegar à sala da lama!
+
+1008
+00:55:34,081 --> 00:55:36,792
+-Caleb!
+-Saia da área! Saia!
+
+1009
+00:55:41,088 --> 00:55:43,132
+É a bomba 2. Nivele!
+
+1010
+00:55:43,341 --> 00:55:44,425
+Vai!
+
+1011
+00:56:01,359 --> 00:56:04,528
+Caleb, feche a válvula
+e envie o fluido para o tubo vertical.
+
+1012
+00:56:04,612 --> 00:56:06,364
+Desvie tudo.
+
+1013
+00:56:08,741 --> 00:56:09,951
+Jason, o que fazemos?
+
+1014
+00:56:31,931 --> 00:56:33,474
+-Temos detritos
+-Jesus Cristo.
+
+1015
+00:56:33,558 --> 00:56:34,559
+Que merda.
+
+1016
+00:56:34,642 --> 00:56:36,102
+Caleb, saia da área!
+
+1017
+00:56:41,983 --> 00:56:43,025
+Você está bem?
+
+1018
+00:56:43,109 --> 00:56:45,695
+O alarme não disparou.
+Vou falar para todos evacuarem.
+
+1019
+00:56:45,778 --> 00:56:47,780
+-Vá ao bote salva-vidas.
+-Certo.
+
+1020
+00:56:52,368 --> 00:56:53,369
+Parem tudo.
+
+1021
+00:57:06,924 --> 00:57:08,175
+Cuidado!
+
+1022
+00:57:13,764 --> 00:57:14,765
+Que diabos?
+
+1023
+00:57:23,190 --> 00:57:24,191
+Jesus.
+
+1024
+00:57:25,651 --> 00:57:27,820
+<i>Deepwater Horizon,
+</i>aqui é Damon Bankson. Copia?
+
+1025
+00:57:30,948 --> 00:57:32,491
+O BOP não responde.
+
+1026
+00:57:34,911 --> 00:57:36,537
+-Duck, corte o cano.
+-Sim, senhor.
+
+1027
+00:57:37,455 --> 00:57:38,456
+Agora!
+
+1028
+00:57:41,500 --> 00:57:43,127
+Duck!
+
+1029
+00:57:43,586 --> 00:57:44,587
+Que aconteceu?
+
+1030
+00:57:46,047 --> 00:57:47,673
+-Keith!
+-Quê?
+
+1031
+00:57:47,882 --> 00:57:50,051
+-Gordie!
+-Vamos, Gordie. Levante.
+
+1032
+00:57:50,259 --> 00:57:52,345
+Roy! Anda, cara!
+
+1033
+00:57:52,428 --> 00:57:55,556
+Temos de ir! Agora!
+
+1034
+00:58:25,086 --> 00:58:26,212
+<i>Alerta de gás.</i>
+
+1035
+00:58:27,046 --> 00:58:28,381
+Merda. Alarme de gás.
+
+1036
+00:58:41,394 --> 00:58:42,478
+Os propulsores aceleraram.
+
+1037
+00:58:45,898 --> 00:58:47,650
+Estou perdendo o controle.
+
+1038
+00:58:48,025 --> 00:58:49,402
+Não manterei a plataforma no lugar.
+
+1039
+00:58:49,485 --> 00:58:50,570
+Certo, calma.
+
+1040
+00:58:52,446 --> 00:58:53,447
+Nossa.
+
+1041
+00:58:56,033 --> 00:58:59,287
+<i>Sou eu ou ficou claro de repente?</i>
+
+1042
+00:59:06,544 --> 00:59:08,004
+<i>Alerta de gás.</i>
+
+1043
+00:59:08,087 --> 00:59:09,547
+Vermelho. Alerta vermelho.
+
+1044
+00:59:09,672 --> 00:59:10,673
+<i>Alerta de gás.</i>
+
+1045
+00:59:15,011 --> 00:59:16,429
+-O poço está estourando.
+-Quê?
+
+1046
+00:59:18,848 --> 00:59:19,849
+Mike.
+
+1047
+00:59:20,266 --> 00:59:22,518
+Socorro! É a <i>Deepwater Horizon. </i>Nós...
+
+1048
+00:59:23,728 --> 00:59:26,230
+Que está fazendo?
+Te falei para pedir socorro?
+
+1049
+00:59:28,608 --> 00:59:29,942
+<i>Eu retorno!</i>
+
+1050
+00:59:33,696 --> 00:59:35,990
+Não sabe a diferença entre
+um vazamento e um estouro.
+
+1051
+00:59:36,282 --> 00:59:37,783
+-Por que...
+-Você não sabe nada!
+
+1052
+00:59:37,867 --> 00:59:38,910
+E o monitor desligado?
+
+1053
+00:59:39,035 --> 00:59:40,036
+<i>Alerta de gás.</i>
+
+1054
+00:59:41,787 --> 00:59:44,540
+Socorro! É a <i>Deepwater Horizon.</i>
+
+1055
+00:59:52,548 --> 00:59:55,092
+Aguente, Duck.
+Tiraremos você daqui.
+
+1056
+01:00:24,914 --> 01:00:27,917
+Maldição! Dewey! Steve!
+
+1057
+01:00:40,388 --> 01:00:41,931
+Jesus!
+
+1058
+01:00:48,145 --> 01:00:50,398
+Socorro! É a <i>Deepwater Horizon.</i>
+
+1059
+01:00:50,481 --> 01:00:52,525
+-A plataforma está em chamas.
+-Sofremos explosão.
+
+1060
+01:00:52,608 --> 01:00:54,443
+-Não vê o fogo?
+-Precisamos de ajuda imediata.
+
+1061
+01:00:54,527 --> 01:00:56,571
+Repito, sofremos uma enorme explosão.
+
+1062
+01:00:56,654 --> 01:00:58,072
+Precisamos de ajuda imediata.
+
+1063
+01:00:58,197 --> 01:00:59,699
+<i>Socorro!</i>
+
+1064
+01:01:00,199 --> 01:01:02,076
+Deepwater Horizon, <i>é o rebocador.</i>
+
+1065
+01:01:02,201 --> 01:01:05,663
+<i>Damon Bankston, a </i>Deepwater Horizon
+<i>explodiu e está em chamas.</i>
+
+1066
+01:01:06,372 --> 01:01:10,334
+<i>Repito, a </i>Deepwater Horizon
+<i>explodiu e está em chamas.</i>
+
+1067
+01:01:10,418 --> 01:01:11,711
+<i>Vimos uma enorme explosão.</i>
+
+1068
+01:01:11,794 --> 01:01:14,088
+<i>Sim, senhor, nós vimos,
+</i>Deepwater Horizon <i>está em chamas.</i>
+
+1069
+01:01:14,171 --> 01:01:16,382
+<i>-Todos deixaram a plataforma?
+-Não sabemos.</i>
+
+1070
+01:01:17,216 --> 01:01:19,677
+ESTAÇÃO DA GUARDA COSTEIRA AMERICANA
+NOVA ORLEANS
+
+1071
+01:01:21,679 --> 01:01:23,431
+Guarda Costeira dos EUA,
+oitavo distrito,
+
+1072
+01:01:23,514 --> 01:01:24,682
+é a Subtenente Von Huene.
+
+1073
+01:01:24,849 --> 01:01:26,642
+<i>Plataforma em chamas,</i>
+
+1074
+01:01:26,726 --> 01:01:28,936
+<i>a cerca de 48 milhas náuticas
+ao sul de Venice.</i>
+
+1075
+01:01:29,979 --> 01:01:31,647
+Certo. Plataforma em chamas,
+
+1076
+01:01:31,731 --> 01:01:34,400
+a cerca de 48 milhas náuticas
+ao sul de Venice.
+
+1077
+01:01:34,483 --> 01:01:36,319
+<i>Sim, senhora.
+Nunca vi nada parecido.</i>
+
+1078
+01:01:36,527 --> 01:01:37,528
+Entendido, senhor.
+
+1079
+01:01:37,612 --> 01:01:39,822
+Em que embarcação está,
+qual o nome da embarcação?
+
+1080
+01:01:41,616 --> 01:01:43,910
+Guarda Costeira dos EUA,
+oitavo distrito, Tenente Degan.
+
+1081
+01:01:44,035 --> 01:01:45,995
+<i>Uma plataforma petrolífera
+está me chamas.</i>
+
+1082
+01:01:46,996 --> 01:01:48,789
+Uma plataforma? Senhor, tem a posição?
+
+1083
+01:01:48,873 --> 01:01:50,625
+Guarda Costeira dos EUA,
+oitavo distrito...
+
+1084
+01:01:50,833 --> 01:01:53,252
+Não tenho certeza.
+Preciso obter informação primeiro,
+
+1085
+01:01:53,336 --> 01:01:55,087
+se tudo bem.
+Pode me dar seu nome?
+
+1086
+01:01:55,171 --> 01:01:56,339
+Senhor, qual sua localização?
+
+1087
+01:01:57,298 --> 01:01:59,508
+Cem milhas ao sul de Port Fourchon...
+
+1088
+01:01:59,800 --> 01:02:02,178
+-De onde chama?
+-48 milhas náuticas ao sul de Venice.
+
+1089
+01:02:02,261 --> 01:02:04,889
+Houve o relato de um barco de apoio.
+
+1090
+01:02:04,972 --> 01:02:07,516
+Essa é a longitude.
+Posição confirmada.
+
+1091
+01:02:07,600 --> 01:02:09,685
+Senhor, temos
+imagem de satélite do local.
+
+1092
+01:02:09,852 --> 01:02:10,853
+Bem aqui.
+
+1093
+01:02:12,939 --> 01:02:13,940
+Meu Deus.
+
+1094
+01:02:15,441 --> 01:02:17,109
+Precisamos priorizar isso, certo?
+
+1095
+01:02:17,276 --> 01:02:19,737
+Chamem na área.
+Vejam que barcos estão perto.
+
+1096
+01:02:19,820 --> 01:02:21,113
+Mandem todos para o local.
+
+1097
+01:02:21,197 --> 01:02:23,699
+Estações aéreas. Preciso saber
+quantas aeronaves Bravo temos.
+
+1098
+01:02:23,783 --> 01:02:25,326
+-Certo, trabalhando.
+-Certo.
+
+1099
+01:02:32,625 --> 01:02:33,668
+Merda.
+
+1100
+01:02:43,219 --> 01:02:44,220
+Merda.
+
+1101
+01:03:42,236 --> 01:03:46,324
+<i>Processo de evacuação em andamento.
+Não é simulação.</i>
+
+1102
+01:03:46,824 --> 01:03:50,703
+<i>Processo de evacuação em andamento.
+Não é simulação.</i>
+
+1103
+01:04:12,016 --> 01:04:13,017
+Dougie?
+
+1104
+01:04:14,060 --> 01:04:16,771
+Dougie, pode me ouvir?
+
+1105
+01:04:17,104 --> 01:04:19,023
+-Quê?
+-Me ouve, Dougie?
+
+1106
+01:04:19,982 --> 01:04:20,983
+Meu irmãozinho.
+
+1107
+01:04:21,692 --> 01:04:22,693
+Quê?
+
+1108
+01:04:23,569 --> 01:04:24,570
+É aniversário dele.
+
+1109
+01:04:26,280 --> 01:04:27,281
+Do meu irmãozinho.
+
+1110
+01:04:27,365 --> 01:04:28,824
+Ele não está aqui.
+
+1111
+01:04:29,784 --> 01:04:31,661
+E suas pernas, consegue mexer?
+
+1112
+01:04:31,744 --> 01:04:32,745
+Meu irmãozinho.
+
+1113
+01:04:32,995 --> 01:04:35,164
+Olhe para mim, Dougie.
+Precisará usá-las.
+
+1114
+01:04:35,456 --> 01:04:38,501
+Temos de chegar aos botes.
+Vou te erguer, tá?
+
+1115
+01:04:44,590 --> 01:04:45,883
+Droga. Tudo bem.
+
+1116
+01:04:47,927 --> 01:04:51,847
+<i>Processo de evacuação em andamento.
+Não é simulação.</i>
+
+1117
+01:05:05,152 --> 01:05:07,363
+Perdi quatro propulsores laterais.
+
+1118
+01:05:07,446 --> 01:05:09,156
+-Restam apenas quatro, Capitão.
+-Que fazer?
+
+1119
+01:05:09,574 --> 01:05:10,658
+Relatório de danos.
+
+1120
+01:05:10,741 --> 01:05:12,493
+Assumirei o controle manual.
+
+1121
+01:05:12,577 --> 01:05:14,829
+Aqui é o Kuchta na ponte.
+Preciso do relatório de danos.
+
+1122
+01:05:17,665 --> 01:05:18,666
+Vamos, meu bem.
+
+1123
+01:05:19,542 --> 01:05:21,752
+<i>Damon Bankston para a Guarda Costeira.</i>
+
+1124
+01:05:21,836 --> 01:05:23,796
+Temos um incidente
+na <i>Deepwater Horizon.</i>
+
+1125
+01:05:23,880 --> 01:05:25,089
+Gire 90 graus a estibordo.
+
+1126
+01:05:25,172 --> 01:05:26,883
+Diga que
+os botes salva-vidas desceram.
+
+1127
+01:05:28,759 --> 01:05:30,177
+Vamos! Precisamos de kits médicos.
+
+1128
+01:05:31,888 --> 01:05:33,222
+Tanques de oxigênio!
+
+1129
+01:05:33,306 --> 01:05:35,308
+Esvaziem o depósito de suprimentos!
+
+1130
+01:06:29,820 --> 01:06:31,489
+Filho da puta!
+
+1131
+01:06:38,037 --> 01:06:39,789
+Mantenha o ritmo!
+
+1132
+01:06:39,872 --> 01:06:41,749
+Ele precisa ir para o bote.
+
+1133
+01:06:41,832 --> 01:06:43,125
+-Ele está ferido.
+-Homem ferido!
+
+1134
+01:06:43,209 --> 01:06:45,294
+-Ele está muito ferido.
+-Não interessa!
+
+1135
+01:06:45,461 --> 01:06:47,338
+Não quero subir no bote.
+
+1136
+01:06:47,421 --> 01:06:48,464
+Vai, cara.
+
+1137
+01:06:48,548 --> 01:06:50,883
+Ele está muito ferido.
+Você me entende?
+
+1138
+01:06:51,425 --> 01:06:52,426
+Acalme-se.
+
+1139
+01:06:53,135 --> 01:06:54,345
+Alguém viu o Sr. Jimmy?
+
+1140
+01:06:54,637 --> 01:06:55,972
+Vi ele no alojamento.
+
+1141
+01:06:56,097 --> 01:06:57,098
+Voltarei para procurá-lo.
+
+1142
+01:06:57,181 --> 01:06:59,267
+Garanta a saída desse homem, certo?
+
+1143
+01:06:59,350 --> 01:07:02,979
+Todos se acalmem. Devagar.
+Vamos sair, certo?
+
+1144
+01:07:03,062 --> 01:07:04,272
+-Certo.
+-Vamos nessa.
+
+1145
+01:07:34,552 --> 01:07:35,553
+Olá?
+
+1146
+01:07:40,933 --> 01:07:41,934
+Olá!
+
+1147
+01:07:43,144 --> 01:07:44,145
+Olá!
+
+1148
+01:07:45,271 --> 01:07:47,356
+Você está bem?
+
+1149
+01:07:47,440 --> 01:07:49,025
+-Acho que sim.
+-Aonde vai?
+
+1150
+01:07:49,108 --> 01:07:50,526
+Não sei. Mestre.
+
+1151
+01:07:50,610 --> 01:07:52,904
+-Precisa ir até os botes. Tá?
+-Sim.
+
+1152
+01:07:52,987 --> 01:07:55,489
+Vá para os botes. Anda.
+Viraremos à esquerda.
+
+1153
+01:07:55,573 --> 01:07:58,034
+Apoie-se na parede.
+
+1154
+01:07:58,117 --> 01:07:59,118
+Tudo bem.
+
+1155
+01:08:01,370 --> 01:08:02,371
+Olá?
+
+1156
+01:08:11,088 --> 01:08:12,256
+Sr. Jimmy?
+
+1157
+01:08:24,852 --> 01:08:26,312
+-Socorro!
+-Sr. Jimmy?
+
+1158
+01:08:29,398 --> 01:08:30,399
+Quem está aí?
+
+1159
+01:08:31,359 --> 01:08:32,485
+Por aqui!
+
+1160
+01:08:35,321 --> 01:08:37,949
+-Sr. Jimmy?
+-Mike.
+
+1161
+01:08:38,241 --> 01:08:41,118
+Não consigo ver nada. Que houve?
+
+1162
+01:08:41,202 --> 01:08:42,328
+-Explodiu, Sr. Jimmy.
+-Não...
+
+1163
+01:08:42,411 --> 01:08:45,748
+Houve outras explosões.
+Fogo por todo lado.
+
+1164
+01:08:45,831 --> 01:08:48,251
+Nos desconectamos?
+Cortamos o cano?
+
+1165
+01:08:48,334 --> 01:08:50,002
+Não sei. Mas acho que não.
+
+1166
+01:08:50,086 --> 01:08:53,047
+Precisamos desconectar, Mike.
+Leve-me à ponte.
+
+1167
+01:08:54,215 --> 01:08:55,841
+Vamos. Levante.
+
+1168
+01:08:58,386 --> 01:09:00,054
+Estou contigo. Calma.
+
+1169
+01:09:00,888 --> 01:09:01,889
+Onde estamos?
+
+1170
+01:09:02,557 --> 01:09:04,433
+Não reconheceria mesmo que viesse.
+
+1171
+01:09:07,228 --> 01:09:08,229
+Esse cano vai quebrar.
+
+1172
+01:09:10,815 --> 01:09:12,233
+Vamos, Sr. Jimmy.
+
+1173
+01:09:14,902 --> 01:09:17,989
+Se cair na água, você tem
+uma luz e um apito.
+
+1174
+01:09:18,239 --> 01:09:19,240
+Entendeu?
+
+1175
+01:09:19,323 --> 01:09:20,658
+Se cair no petróleo,
+
+1176
+01:09:20,741 --> 01:09:22,118
+nada para longe da plataforma.
+
+1177
+01:09:22,201 --> 01:09:24,829
+Esperamos até que a Guarda Costeira...
+
+1178
+01:09:24,912 --> 01:09:26,831
+Não. Temos de ir. Vamos.
+
+1179
+01:09:26,956 --> 01:09:29,208
+-Agora.
+-A água está em chamas.
+
+1180
+01:09:29,500 --> 01:09:30,918
+Quem está coordenando as aeronaves?
+
+1181
+01:09:31,002 --> 01:09:32,295
+ATC de asa fixa...
+
+1182
+01:09:32,378 --> 01:09:35,840
+Oeste, Jefferson, leste, Jefferson,
+e Tulane estão preparados para...
+
+1183
+01:09:40,303 --> 01:09:41,304
+Tem gente caindo na água.
+
+1184
+01:09:41,387 --> 01:09:42,722
+Ele viu três pularem na água.
+
+1185
+01:09:42,805 --> 01:09:44,348
+-Pularam? Ouviu?
+-Tem gente pulando.
+
+1186
+01:09:44,515 --> 01:09:46,475
+Qual o tempo de chegada
+do primeiro helicóptero?
+
+1187
+01:09:46,642 --> 01:09:48,185
+Levará cerca de 35 minutos.
+
+1188
+01:09:48,686 --> 01:09:50,146
+Cerca de 30 minutos, tarde demais.
+
+1189
+01:09:50,813 --> 01:09:54,984
+<i>B17 da Guarda Costeira
+dos EUA partindo</i>
+
+1190
+01:09:55,109 --> 01:09:58,279
+<i>a caminho do chamado de emergência
+da </i>Deepwater Horizon.
+
+1191
+01:09:58,529 --> 01:10:00,781
+<i>Tempo de chegada, 25 minutos.</i>
+
+1192
+01:10:12,418 --> 01:10:13,544
+Entre!
+
+1193
+01:10:31,854 --> 01:10:33,731
+Vamos! Tudo bem?
+
+1194
+01:10:33,814 --> 01:10:35,066
+-Sim.
+-Anda.
+
+1195
+01:10:35,149 --> 01:10:36,150
+Socorro!
+
+1196
+01:10:37,443 --> 01:10:39,237
+Ouviu ele? Grite!
+
+1197
+01:10:40,029 --> 01:10:41,030
+Merda!
+
+1198
+01:10:41,822 --> 01:10:42,865
+Grite!
+
+1199
+01:10:42,949 --> 01:10:44,909
+Tem alguém aí?
+É o Caleb, preciso de ajuda.
+
+1200
+01:10:44,992 --> 01:10:45,993
+É o Wyman!
+
+1201
+01:10:46,077 --> 01:10:48,621
+Temos de sair daqui.
+Tem metano por toda a parte.
+
+1202
+01:10:48,996 --> 01:10:50,164
+Achei ele aqui assim.
+
+1203
+01:10:50,248 --> 01:10:51,874
+Está muito ferido,
+não consigo tirá-lo.
+
+1204
+01:10:51,958 --> 01:10:53,668
+-Não olhe para baixo, tá?
+-Não.
+
+1205
+01:10:56,837 --> 01:10:59,131
+Espere! O osso prendeu no metal.
+
+1206
+01:11:10,142 --> 01:11:11,143
+Mike!
+
+1207
+01:11:11,811 --> 01:11:12,812
+Mike!
+
+1208
+01:11:12,895 --> 01:11:14,063
+Temos de abrir isso,
+
+1209
+01:11:14,146 --> 01:11:15,565
+precisamos de algo para abrir.
+
+1210
+01:11:17,066 --> 01:11:18,859
+Puxe!
+
+1211
+01:11:19,151 --> 01:11:20,152
+Continue puxando!
+
+1212
+01:11:27,535 --> 01:11:28,619
+Perdi a energia.
+
+1213
+01:11:28,703 --> 01:11:31,163
+Tá, me dê um segundo para pensar.
+
+1214
+01:11:41,132 --> 01:11:42,300
+Cortarei o cano.
+
+1215
+01:11:44,218 --> 01:11:46,637
+Andrea, volte para a estação.
+
+1216
+01:11:47,054 --> 01:11:48,306
+Não temos a autoridade.
+
+1217
+01:11:48,639 --> 01:11:49,682
+Selarei o poço.
+
+1218
+01:11:49,849 --> 01:11:51,350
+Não toque nesse botão!
+
+1219
+01:11:52,935 --> 01:11:54,520
+Precisa apertá-lo.
+
+1220
+01:11:54,937 --> 01:11:56,063
+Não temos autoridade.
+
+1221
+01:11:59,150 --> 01:12:00,151
+Você não apertará.
+
+1222
+01:12:01,736 --> 01:12:04,196
+<i>Alguém me ajuda! Por favor?</i>
+
+1223
+01:12:04,739 --> 01:12:06,032
+Saiam daqui!
+
+1224
+01:12:06,282 --> 01:12:08,075
+Você vai com ou sem a perna.
+
+1225
+01:12:08,326 --> 01:12:09,452
+Espere!
+
+1226
+01:12:09,535 --> 01:12:10,536
+Olhe para mim.
+
+1227
+01:12:10,620 --> 01:12:12,747
+Vai doer pra caramba,
+mas fique calmo, tá?
+
+1228
+01:12:12,955 --> 01:12:15,333
+Fique calmo. Olhe para mim.
+Não olhe para baixo.
+
+1229
+01:12:16,334 --> 01:12:17,335
+Estamos contigo.
+
+1230
+01:12:17,418 --> 01:12:18,419
+Espere.
+
+1231
+01:12:21,881 --> 01:12:22,882
+Wyman, consegue andar?
+
+1232
+01:12:22,965 --> 01:12:23,966
+Certo, vamos.
+
+1233
+01:12:25,718 --> 01:12:27,595
+Me leve à ponte, Mike.
+
+1234
+01:12:36,395 --> 01:12:38,481
+<i>Guarda Costeira, oitavo distrito,
+Tenente Degan.</i>
+
+1235
+01:12:38,564 --> 01:12:39,815
+Oi, senhor...
+
+1236
+01:12:41,567 --> 01:12:42,652
+Eu...
+
+1237
+01:12:43,110 --> 01:12:45,696
+Não quero incomodar,
+e deve estar tudo bem,
+
+1238
+01:12:46,364 --> 01:12:50,576
+mas meu marido Mike Williams
+está na <i>Deepwater Horizon, </i>e...
+
+1239
+01:12:50,660 --> 01:12:53,037
+<i>Sim, senhora.
+Tivemos alguns relatos de incêndio</i>
+
+1240
+01:12:53,120 --> 01:12:55,122
+<i>na plataforma. É tudo que posso dizer.</i>
+
+1241
+01:12:55,456 --> 01:12:58,125
+Na <i>Deepwater Horizon?</i>
+
+1242
+01:12:58,209 --> 01:13:00,670
+Porque existem
+muitas plataformas, sabe?
+
+1243
+01:13:00,753 --> 01:13:02,838
+<i>Sim, senhora.
+O incêndio é na Deepwater Horizon.</i>
+
+1244
+01:13:03,214 --> 01:13:05,758
+<i>É tudo que posso dizer.
+Lamento, tenho de desligar.</i>
+
+1245
+01:14:04,734 --> 01:14:05,735
+Que aconteceu?
+
+1246
+01:14:14,535 --> 01:14:16,704
+-Ken, tudo bem?
+-A torre vai cair em nós!
+
+1247
+01:14:19,665 --> 01:14:21,542
+Dale, o bote está saindo.
+
+1248
+01:14:21,834 --> 01:14:23,961
+Meu guindaste vai acabar com a torre.
+
+1249
+01:14:24,045 --> 01:14:25,880
+-Está descendo.
+-Vá para o bote agora!
+
+1250
+01:14:25,963 --> 01:14:28,049
+Tenho de impedir,
+senão matará todos nós.
+
+1251
+01:14:45,191 --> 01:14:46,400
+Vai, Dale!
+
+1252
+01:14:50,029 --> 01:14:51,239
+Vai!
+
+1253
+01:14:52,031 --> 01:14:54,367
+Suba as escadas!
+
+1254
+01:15:16,097 --> 01:15:17,265
+Vai, Dale!
+
+1255
+01:15:32,113 --> 01:15:33,864
+<i>Dale, saia daí, agora!</i>
+
+1256
+01:15:54,760 --> 01:15:56,095
+Meu Deus.
+
+1257
+01:16:12,945 --> 01:16:14,739
+-Quem está na ponte?
+-Fleytas.
+
+1258
+01:16:14,822 --> 01:16:15,823
+Kuchta.
+
+1259
+01:16:16,699 --> 01:16:18,826
+Estamos lotados. Vamos!
+
+1260
+01:16:28,961 --> 01:16:30,713
+Vá para o bote salva-vidas.
+
+1261
+01:16:37,428 --> 01:16:41,140
+Andrea, Kuchta, desconectamos?
+
+1262
+01:16:41,349 --> 01:16:42,350
+Não.
+
+1263
+01:16:42,683 --> 01:16:45,061
+Andrea, coloque minha mão no botão.
+
+1264
+01:16:45,603 --> 01:16:47,730
+Cortarei o cano e selarei o poço.
+
+1265
+01:16:48,189 --> 01:16:49,690
+Acabaremos com o incêndio.
+
+1266
+01:16:49,774 --> 01:16:51,734
+-Bem aqui.
+-Não. Em cima.
+
+1267
+01:17:03,037 --> 01:17:04,163
+Ainda está queimando?
+
+1268
+01:17:04,247 --> 01:17:05,581
+Ainda tem fluxo, Sr. Jimmy.
+
+1269
+01:17:05,665 --> 01:17:08,376
+Por favor. Por favor!
+
+1270
+01:17:14,882 --> 01:17:16,759
+Ainda está queimando.
+Temos de ir.
+
+1271
+01:17:28,354 --> 01:17:30,064
+Precisamos de energia aqui.
+
+1272
+01:17:30,273 --> 01:17:32,900
+Precisamos ligar o gerador reserva.
+
+1273
+01:17:32,984 --> 01:17:33,985
+As bombas de incêndio?
+
+1274
+01:17:34,068 --> 01:17:36,153
+Não, temos de manter
+a plataforma no lugar
+
+1275
+01:17:36,237 --> 01:17:38,281
+o máximo possível
+para o cano não quebrar.
+
+1276
+01:17:38,364 --> 01:17:40,199
+É tudo que podemos fazer.
+Não dá para salvar.
+
+1277
+01:17:40,283 --> 01:17:41,701
+Tentar não dói.
+
+1278
+01:17:41,784 --> 01:17:44,996
+Pode doer muito, Mike.
+Está do outro lado da torre.
+
+1279
+01:17:45,079 --> 01:17:46,706
+-Eu sei.
+-Vou contigo.
+
+1280
+01:17:46,789 --> 01:17:48,124
+-Quê?
+-Vou junto.
+
+1281
+01:17:48,207 --> 01:17:49,208
+-Tem certeza?
+-Tenho.
+
+1282
+01:17:49,292 --> 01:17:50,334
+Vai, Mike.
+
+1283
+01:17:56,674 --> 01:17:59,010
+<i>Pelo que sabemos,
+a plataforma está em chamas.</i>
+
+1284
+01:17:59,135 --> 01:18:01,095
+<i>Tem algo queimando lá.</i>
+
+1285
+01:18:01,178 --> 01:18:03,556
+<i>A gasolina, o gás natural
+ou o petróleo.</i>
+
+1286
+01:18:03,681 --> 01:18:04,682
+<i>É isso que entende, Mike?</i>
+
+1287
+01:18:04,974 --> 01:18:05,975
+<i>Ainda esta em chamas...</i>
+
+1288
+01:18:06,058 --> 01:18:08,936
+<i>A plataforma está a cerca de 32 km
+ao sul de Grand Isle, Louisiana.</i>
+
+1289
+01:18:09,020 --> 01:18:10,021
+<i>-Alô?
+</i>-Natalie.
+
+1290
+01:18:10,229 --> 01:18:11,731
+Aqui é a Felicia Williams.
+
+1291
+01:18:11,814 --> 01:18:14,358
+Nossos maridos trabalham juntos
+na <i>Deepwater Horizon.</i>
+
+1292
+01:18:14,692 --> 01:18:15,985
+Liguei para a Guarda Costeira
+
+1293
+01:18:16,068 --> 01:18:17,653
+e confirmaram que há um incêndio,
+
+1294
+01:18:17,737 --> 01:18:20,031
+mas eu queria saber se você
+sabe de alguma coisa.
+
+1295
+01:18:20,406 --> 01:18:21,782
+<i>O que a Guarda Costeira disse?</i>
+
+1296
+01:18:21,866 --> 01:18:23,534
+Só que há um incêndio.
+
+1297
+01:18:24,619 --> 01:18:27,121
+<i>Shelly soube que tem gente
+pulando da plataforma.</i>
+
+1298
+01:18:33,252 --> 01:18:34,337
+O que está fazendo?
+
+1299
+01:18:36,547 --> 01:18:37,715
+Agora não, meu bem.
+
+1300
+01:18:38,758 --> 01:18:40,301
+-Qual o problema.
+-Agora não.
+
+1301
+01:18:46,682 --> 01:18:47,892
+Que merda.
+
+1302
+01:18:48,100 --> 01:18:49,101
+Vamos.
+
+1303
+01:18:59,403 --> 01:19:01,364
+Bote salva-vidas um, lotado.
+
+1304
+01:19:01,447 --> 01:19:03,157
+Vão para o bote dois.
+
+1305
+01:19:03,241 --> 01:19:04,242
+Abaixe o bote!
+
+1306
+01:19:26,681 --> 01:19:28,182
+Merda!
+
+1307
+01:19:29,058 --> 01:19:30,851
+-Tem luvas?
+-Tenho.
+
+1308
+01:19:42,697 --> 01:19:44,323
+<i>-Mike?
+</i>-Merda.
+
+1309
+01:19:44,407 --> 01:19:45,408
+<i>Mike, está aí?</i>
+
+1310
+01:19:49,203 --> 01:19:51,163
+Mike? Ligue o gerador.
+
+1311
+01:19:51,247 --> 01:19:52,456
+Sabe como funciona?
+
+1312
+01:19:52,540 --> 01:19:53,749
+Não deve ser difícil.
+
+1313
+01:19:53,958 --> 01:19:55,501
+Venha cá.
+
+1314
+01:19:56,878 --> 01:19:58,129
+Tem de estar brincando.
+
+1315
+01:19:58,212 --> 01:19:59,213
+-Vamos!
+-Tudo bem.
+
+1316
+01:19:59,297 --> 01:20:00,548
+Gire o botão para 'local'.
+
+1317
+01:20:00,840 --> 01:20:03,175
+Gire o interruptor para "ligar".
+
+1318
+01:20:03,759 --> 01:20:05,303
+Pressione o botão principal.
+
+1319
+01:20:05,428 --> 01:20:06,637
+O vermelho ali.
+
+1320
+01:20:07,555 --> 01:20:10,099
+Estou impressionado.
+Não achei que caipiras sabiam ler.
+
+1321
+01:20:10,182 --> 01:20:11,601
+Muito engraçado.
+
+1322
+01:20:11,851 --> 01:20:13,936
+Eu tinha uma bolsa
+para estudar arquitetura.
+
+1323
+01:20:14,020 --> 01:20:15,187
+E o que está fazendo aqui?
+
+1324
+01:20:15,271 --> 01:20:17,106
+-Deveria ter ouvido a minha mãe.
+-É, deveria.
+
+1325
+01:20:17,189 --> 01:20:19,066
+Sr. Jimmy, está com energia aí?
+
+1326
+01:20:19,150 --> 01:20:20,151
+Deve dar conta.
+
+1327
+01:20:22,820 --> 01:20:24,989
+-Continuamos fora da área permitida?
+-Sim.
+
+1328
+01:20:25,072 --> 01:20:26,741
+-Leve-nos devagar.
+-Certo.
+
+1329
+01:20:26,949 --> 01:20:28,075
+-Certo.
+-Devagar.
+
+1330
+01:20:32,121 --> 01:20:33,205
+Isso, meu bem.
+
+1331
+01:20:36,876 --> 01:20:37,877
+Merda!
+
+1332
+01:20:38,211 --> 01:20:39,212
+Merda!
+
+1333
+01:20:42,798 --> 01:20:44,550
+Gire o interruptor para "ligar".
+
+1334
+01:20:47,762 --> 01:20:49,430
+Te pegamos.
+
+1335
+01:20:51,933 --> 01:20:52,934
+Cuidado com a perna!
+
+1336
+01:20:54,268 --> 01:20:55,603
+Espere a luz acender.
+
+1337
+01:20:56,187 --> 01:20:57,438
+Vai!
+
+1338
+01:20:58,231 --> 01:20:59,232
+Deve ser isso.
+
+1339
+01:20:59,482 --> 01:21:01,692
+Aqui vai.
+
+1340
+01:21:01,776 --> 01:21:02,777
+Sr. Jimmy,
+
+1341
+01:21:02,860 --> 01:21:04,195
+<i>recebeu energia aí?</i>
+
+1342
+01:21:04,528 --> 01:21:07,365
+-Não, Mike.
+-Qual é?
+
+1343
+01:21:08,532 --> 01:21:09,867
+Kuchta, pode me ajudar?
+
+1344
+01:21:10,409 --> 01:21:12,620
+-Feche a porta! Não.
+-Isso é muito ruim.
+
+1345
+01:21:13,621 --> 01:21:15,206
+Feche a maldita porta!
+
+1346
+01:21:15,289 --> 01:21:16,541
+<i>Vá aos botes, Mike.</i>
+
+1347
+01:21:16,624 --> 01:21:18,042
+-Merda.
+<i>-Isso já era.</i>
+
+1348
+01:21:18,668 --> 01:21:20,169
+Levante-se. Jimmy, temos de ir.
+
+1349
+01:21:36,018 --> 01:21:37,186
+Vamos!
+
+1350
+01:21:39,146 --> 01:21:40,147
+Cuidado!
+
+1351
+01:21:42,149 --> 01:21:43,442
+Está tudo caindo.
+
+1352
+01:21:44,026 --> 01:21:45,820
+Temos de chegar aos botes.
+
+1353
+01:21:46,487 --> 01:21:47,488
+Abaixe o bote.
+
+1354
+01:21:47,572 --> 01:21:48,948
+Feche a porta. Está lotado!
+
+1355
+01:21:52,535 --> 01:21:53,536
+Vamos!
+
+1356
+01:22:06,007 --> 01:22:07,008
+Anda.
+
+1357
+01:22:09,677 --> 01:22:10,678
+Nos deixaram.
+
+1358
+01:22:11,429 --> 01:22:12,430
+Nos deixaram!
+
+1359
+01:22:13,055 --> 01:22:14,056
+Merda!
+
+1360
+01:22:19,729 --> 01:22:21,772
+-O bote de emergência!
+-Alguém tem uma faca?
+
+1361
+01:22:23,524 --> 01:22:24,525
+Preciso de uma faca!
+
+1362
+01:22:29,196 --> 01:22:30,406
+Tenho uma. Cuidado!
+
+1363
+01:22:33,367 --> 01:22:35,578
+Abra! Puxe!
+
+1364
+01:22:36,245 --> 01:22:38,122
+-Segure firme.
+-Coloque a mão na manivela!
+
+1365
+01:22:38,205 --> 01:22:40,208
+Merda! Anda! Segure!
+
+1366
+01:22:41,959 --> 01:22:42,960
+Gire!
+
+1367
+01:22:43,044 --> 01:22:44,921
+Estou fazendo o melhor que posso!
+
+1368
+01:22:45,004 --> 01:22:46,005
+Vamos!
+
+1369
+01:22:46,088 --> 01:22:47,632
+Fique comigo.
+
+1370
+01:22:53,054 --> 01:22:54,055
+Amarre!
+
+1371
+01:22:55,765 --> 01:22:56,766
+Merda!
+
+1372
+01:23:02,521 --> 01:23:04,815
+Tragam-no.
+
+1373
+01:23:05,316 --> 01:23:07,193
+Feridos primeiro! Vai!
+
+1374
+01:23:08,653 --> 01:23:09,695
+Cadê a Andrea?
+
+1375
+01:23:10,196 --> 01:23:11,822
+Andrea, anda!
+
+1376
+01:23:11,906 --> 01:23:13,658
+Andrea. Venha.
+
+1377
+01:23:23,417 --> 01:23:24,919
+Não, espere!
+
+1378
+01:23:36,180 --> 01:23:38,182
+Tem fogo demais,
+não podemos pular daqui.
+
+1379
+01:23:40,226 --> 01:23:41,435
+Temos de subir.
+
+1380
+01:23:42,144 --> 01:23:43,813
+Temos de subir!
+
+1381
+01:23:49,068 --> 01:23:50,194
+Devagar!
+
+1382
+01:23:50,903 --> 01:23:51,904
+É um bote!
+
+1383
+01:23:52,154 --> 01:23:53,364
+Espere!
+
+1384
+01:23:57,285 --> 01:23:58,286
+Vai!
+
+1385
+01:23:59,662 --> 01:24:01,289
+Resgate Bankston!
+
+1386
+01:24:02,206 --> 01:24:03,875
+Estão aqui. Aqui!
+
+1387
+01:24:04,166 --> 01:24:05,793
+Te pegamos. Tome.
+
+1388
+01:24:12,008 --> 01:24:14,886
+Vamos! Temos de subir!
+
+1389
+01:24:21,225 --> 01:24:22,685
+Suba as escadas!
+
+1390
+01:24:27,231 --> 01:24:28,399
+Merda! Vai!
+
+1391
+01:24:34,447 --> 01:24:35,448
+Anda!
+
+1392
+01:25:00,890 --> 01:25:02,475
+Andrea. Ei!
+
+1393
+01:25:03,559 --> 01:25:04,894
+Tudo bem?
+
+1394
+01:25:06,562 --> 01:25:08,856
+Tem um motor V8 original ou não?
+
+1395
+01:25:09,774 --> 01:25:12,401
+Seu Mustang.
+Tem um motor V8 original ou não?
+
+1396
+01:25:12,485 --> 01:25:13,819
+É original.
+
+1397
+01:25:14,695 --> 01:25:17,907
+Legal. Talvez nós tenhamos
+de remontá-lo.
+
+1398
+01:25:18,616 --> 01:25:19,784
+"Nós" quem?
+
+1399
+01:25:20,576 --> 01:25:21,869
+Tem mais alguém aqui?
+
+1400
+01:25:23,579 --> 01:25:24,580
+Eu e você.
+
+1401
+01:25:26,791 --> 01:25:28,334
+Me escute. Me olhe.
+
+1402
+01:25:29,377 --> 01:25:31,671
+Um pouco mais alto
+e poderá pular mais longe.
+
+1403
+01:25:31,879 --> 01:25:34,048
+Tá? Pularemos por cima do fogo.
+
+1404
+01:25:37,218 --> 01:25:38,219
+Não posso!
+
+1405
+01:25:39,804 --> 01:25:41,722
+O quê? Remontar o motor?
+
+1406
+01:25:42,723 --> 01:25:43,933
+Pular.
+
+1407
+01:25:44,809 --> 01:25:46,978
+Confie em mim, não cairemos no fogo.
+
+1408
+01:25:47,061 --> 01:25:48,062
+-Ouviu?
+-Não quero morrer.
+
+1409
+01:25:48,145 --> 01:25:49,355
+-Não. Olhe.
+-Não quero morrer.
+
+1410
+01:25:49,647 --> 01:25:50,982
+-Não quero morrer.
+-Nossa escolha.
+
+1411
+01:25:51,482 --> 01:25:54,277
+Nossa escolha, agora,
+pegar fogo ou pular!
+
+1412
+01:25:54,360 --> 01:25:55,486
+-Me solta!
+-Tá!
+
+1413
+01:25:55,570 --> 01:25:58,573
+Não toque em mim!
+
+1414
+01:25:58,739 --> 01:26:00,658
+Pule. Faça o que quiser.
+
+1415
+01:26:01,242 --> 01:26:02,743
+Quer saber? Farei o que você fizer.
+
+1416
+01:26:07,582 --> 01:26:10,084
+Minha esposa chama Felicia
+e minha filha, Sydney.
+
+1417
+01:26:10,209 --> 01:26:12,336
+E eu as verei de novo, entendeu?
+
+1418
+01:26:13,713 --> 01:26:15,715
+Quanta chance acha que tem
+de sair viva daqui
+
+1419
+01:26:15,798 --> 01:26:17,508
+se não pular comigo agora?
+
+1420
+01:26:18,217 --> 01:26:20,219
+Sairei da plataforma, ouviu?
+
+1421
+01:26:20,469 --> 01:26:23,222
+Quer ficar aqui? Fique.
+
+1422
+01:26:29,228 --> 01:26:30,771
+Qual a cor do seu Mustang?
+
+1423
+01:27:12,188 --> 01:27:14,315
+Andrea!
+
+1424
+01:28:11,998 --> 01:28:13,499
+Se ouvir seu nome,
+
+1425
+01:28:14,166 --> 01:28:15,167
+grite!
+
+1426
+01:28:16,210 --> 01:28:17,837
+Alberns, Shane!
+
+1427
+01:28:17,920 --> 01:28:18,921
+Aqui!
+
+1428
+01:28:20,131 --> 01:28:21,924
+Holloway, Caleb!
+
+1429
+01:28:22,508 --> 01:28:23,509
+Aqui!
+
+1430
+01:28:27,054 --> 01:28:28,764
+Anderson, Jason!
+
+1431
+01:28:31,851 --> 01:28:34,145
+Jason Anderson, está aqui?
+
+1432
+01:28:38,024 --> 01:28:40,443
+Tem alguém aqui
+do controle de perfuração?
+
+1433
+01:28:45,239 --> 01:28:46,282
+Ninguém?
+
+1434
+01:29:01,756 --> 01:29:03,591
+Donald Clark, está aqui?
+
+1435
+01:29:07,970 --> 01:29:09,305
+Dewey Revette?
+
+1436
+01:29:13,476 --> 01:29:14,977
+Shane Roshto?
+
+1437
+01:29:17,146 --> 01:29:18,356
+Adam Weise?
+
+1438
+01:29:24,111 --> 01:29:25,279
+Roy Kemp?
+
+1439
+01:29:31,160 --> 01:29:32,411
+Dale Burkeen?
+
+1440
+01:29:37,833 --> 01:29:39,168
+Gordon Jones?
+
+1441
+01:29:43,130 --> 01:29:44,340
+Karl Kleppinger?
+
+1442
+01:29:52,181 --> 01:29:53,432
+Stephen Curtis?
+
+1443
+01:30:05,861 --> 01:30:06,946
+Keith Manuel.
+
+1444
+01:30:07,488 --> 01:30:08,489
+Obrigada.
+
+1445
+01:30:13,452 --> 01:30:14,453
+Você está bem?
+
+1446
+01:30:59,624 --> 01:31:00,958
+Pessoal, ajoelhem-se.
+
+1447
+01:31:03,002 --> 01:31:05,421
+Pai nosso que estais nos céus,
+
+1448
+01:31:05,755 --> 01:31:08,591
+Santo seja o teu nome.
+Venha a nós o teu reino.
+
+1449
+01:31:08,674 --> 01:31:11,510
+Seja feita a tua vontade
+Assim na terra como no céu.
+
+1450
+01:31:12,345 --> 01:31:14,472
+O pão nosso de cada dia nos dai hoje.
+Perdoai as nossas ofensas.
+
+1451
+01:31:14,972 --> 01:31:19,810
+Assim como nós perdoamos
+A quem nos tem ofendido,
+
+1452
+01:31:20,102 --> 01:31:23,522
+e não nos deixeis cair em tentação,
+mas livrai-nos do mal.
+
+1453
+01:31:51,133 --> 01:31:52,176
+Qual seu nome, senhor?
+
+1454
+01:31:52,969 --> 01:31:53,970
+Mike Williams.
+
+1455
+01:32:00,810 --> 01:32:02,687
+Você só precisa descansar.
+
+1456
+01:32:02,770 --> 01:32:04,438
+Depois disso, fale comigo...
+
+1457
+01:32:04,730 --> 01:32:06,691
+Estava na plataforma?
+
+1458
+01:32:06,774 --> 01:32:08,651
+-Sim, senhor.
+-Meu filho saiu de lá contigo?
+
+1459
+01:32:09,026 --> 01:32:10,695
+-Plataforma?
+-Ele saiu da plataforma?
+
+1460
+01:32:11,070 --> 01:32:12,238
+Não sei se conseguiu...
+
+1461
+01:32:12,446 --> 01:32:13,489
+Cadê meu filho?
+
+1462
+01:32:14,115 --> 01:32:15,992
+Cadê meu filho?
+
+1463
+01:32:16,200 --> 01:32:17,868
+-Ele saiu da plataforma?
+-Não sei.
+
+1464
+01:32:23,207 --> 01:32:25,167
+Meu filho. Você o conhece?
+
+1465
+01:32:25,251 --> 01:32:26,669
+Ele saiu?
+
+1466
+01:32:27,044 --> 01:32:29,255
+Alguém me diga alguma coisa...
+
+1467
+01:32:32,675 --> 01:32:35,052
+<i>Alguém me ajude! Por favor!</i>
+
+1468
+01:33:13,716 --> 01:33:14,926
+Querida, está tudo bem.
+
+1469
+01:35:21,969 --> 01:35:22,970
+Mike Williams
+nunca mais voltou ao mar.
+
+1470
+01:35:23,054 --> 01:35:24,055
+Ele agora mora com a família no Texas.
+
+1471
+01:35:24,138 --> 01:35:26,098
+<i>Lembro de fechar os olhos e rezar,</i>
+
+1472
+01:35:26,182 --> 01:35:28,476
+<i>pedia a Deus que dissesse
+à minha esposa e filha</i>
+
+1473
+01:35:29,435 --> 01:35:31,395
+<i>que o papai fez tudo que pôde.</i>
+
+1474
+01:35:31,646 --> 01:35:33,898
+<i>E se eu sobrevivi, deve ter uma razão.</i>
+
+1475
+01:35:41,030 --> 01:35:42,615
+Levante a mão direita, senhor.
+
+1476
+01:35:42,990 --> 01:35:44,116
+Jura solenemente
+
+1477
+01:35:44,283 --> 01:35:45,826
+que o testemunho
+que dará é verdadeiro,
+
+1478
+01:35:45,910 --> 01:35:47,119
+que é toda a verdade,
+
+1479
+01:35:47,203 --> 01:35:48,955
+e nada além da verdade?
+
+1480
+01:35:49,038 --> 01:35:50,248
+-Sim, senhor.
+-Obrigado.
+
+1481
+01:35:57,046 --> 01:35:59,590
+Fomos até a luz seguinte
+que vimos na água...
+
+1482
+01:35:59,966 --> 01:36:03,052
+e resgatamos a pessoa,
+que era a Andrea.
+
+1483
+01:36:03,135 --> 01:36:04,679
+Operadora de posicionamento.
+
+1484
+01:36:08,391 --> 01:36:09,850
+Andrea Fleytas mora na Califórnia.
+
+1485
+01:36:09,934 --> 01:36:11,769
+Ela não trabalha mais
+na indústria petrolífera.
+
+1486
+01:36:12,395 --> 01:36:15,064
+<i>Eu dei a última notícia,</i>
+
+1487
+01:36:15,189 --> 01:36:17,108
+<i>disse que abandonaríamos a plataforma.</i>
+
+1488
+01:36:17,400 --> 01:36:19,986
+<i>Quem, ao seu ver,
+era encarregado da plataforma?</i>
+
+1489
+01:36:20,069 --> 01:36:21,070
+<i>O gerente.</i>
+
+1490
+01:36:21,153 --> 01:36:23,030
+<i>E seria o Sr. Harrell, correto?</i>
+
+1491
+01:36:23,114 --> 01:36:24,156
+<i>Sim.</i>
+
+1492
+01:36:25,658 --> 01:36:27,535
+Jimmy Harrell continua trabalhando
+para a Transocean.
+
+1493
+01:36:27,618 --> 01:36:29,036
+<i>Houve uma enorme explosão,</i>
+
+1494
+01:36:29,120 --> 01:36:32,248
+seguida de uma segunda, a estibordo.
+
+1495
+01:36:32,748 --> 01:36:36,168
+<i>Depois da explosão,
+chamei a área central. Sem resposta.</i>
+
+1496
+01:36:37,962 --> 01:36:39,839
+Os supervisores da BP
+Robert Kaluza e Donald Vidrine
+
+1497
+01:36:39,922 --> 01:36:41,173
+foram indiciados por homicídio.
+
+1498
+01:36:41,257 --> 01:36:42,925
+Em 2015, as acusações foram desfeitas.
+
+1499
+01:36:43,593 --> 01:36:46,220
+<i>Tudo que nos disseram
+que não aconteceria...</i>
+
+1500
+01:36:46,512 --> 01:36:47,763
+<i>aconteceu.</i>
+
+1501
+01:36:47,847 --> 01:36:49,015
+<i>Homens perderam a vida.</i>
+
+1502
+01:36:50,766 --> 01:36:52,351
+Onze homens morreram
+a bordo da <i>Deepwater Horizon</i>
+
+1503
+01:36:52,435 --> 01:36:54,312
+na noite do dia 20 de abril de 2010.
+
+1504
+01:38:07,468 --> 01:38:09,554
+O vazamento perdurou por 87 dias,
+derramando aproximadamente
+
+1505
+01:38:09,637 --> 01:38:12,348
+210 milhões de galões de petróleo
+no Golfo do México.
+
+1506
+01:38:20,356 --> 01:38:24,360
+Foi o pior desastre petrolífero
+da história dos EUA.
+
