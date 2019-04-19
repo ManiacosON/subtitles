@@ -1,0 +1,3256 @@
+﻿1
+00:00:01,560 --> 00:00:04,475
+<i>Há uma guerra a caminho,
+uma guerra terrível.</i>
+
+2
+00:00:04,476 --> 00:00:07,200
+<i>Haverá caos.
+Rios de sangue nas ruas.</i>
+
+3
+00:00:07,201 --> 00:00:09,595
+Eu sei.
+Posso prevê-la.
+
+4
+00:00:09,900 --> 00:00:12,077
+<i>Chegou a hora.
+Alguém tem que assumir.</i>
+
+5
+00:00:12,078 --> 00:00:13,704
+Melhor que seja eu.
+
+6
+00:00:16,276 --> 00:00:18,339
+Procuro a conexão
+entre o Projeto Arkham...
+
+7
+00:00:18,340 --> 00:00:19,870
+e o assassinato
+dos meus pais.
+
+8
+00:00:19,871 --> 00:00:22,346
+Se Maroni conseguir
+só um pedaço de Arkham...
+
+9
+00:00:22,347 --> 00:00:25,114
+<i>provará
+que Falcone está fraco.</i>
+
+10
+00:00:25,115 --> 00:00:26,968
+<i>Jamais volte para Gotham.</i>
+
+11
+00:00:27,435 --> 00:00:29,850
+Olá, James, velho amigo.
+
+12
+00:00:29,851 --> 00:00:31,449
+Eu falei
+para nunca mais voltar!
+
+13
+00:00:31,450 --> 00:00:32,957
+Ninguém procura
+um homem morto.
+
+14
+00:00:32,958 --> 00:00:35,937
+- Quer o trabalho ou não?
+- Quero.
+
+15
+00:00:35,938 --> 00:00:38,875
+<i>Não procuro uma garota.
+Procuro uma arma.</i>
+
+16
+00:00:38,876 --> 00:00:40,881
+<i>Falcone acha
+que pode me atingir...</i>
+
+17
+00:00:40,882 --> 00:00:43,225
+no meu local de trabalho
+e se safar?!
+
+18
+00:00:43,226 --> 00:00:44,784
+Quero atingi-lo de volta.
+
+19
+00:00:54,196 --> 00:00:57,323
+Não quer dar um passeio?
+Está um dia adorável.
+
+20
+00:00:58,388 --> 00:01:00,975
+<i>Esticar as pernas,
+respirar ar fresco.</i>
+
+21
+00:01:00,976 --> 00:01:02,471
+Estou ocupado.
+
+22
+00:01:02,936 --> 00:01:05,303
+Tenho uma pergunta para você,
+Patrão Bruce.
+
+23
+00:01:06,524 --> 00:01:08,698
+E se tudo isso...
+
+24
+00:01:08,699 --> 00:01:12,066
+for uma completa
+perda de tempo?
+
+25
+00:01:13,435 --> 00:01:16,134
+E se você nunca descobrir
+quem matou seus pais?
+
+26
+00:01:19,535 --> 00:01:23,381
+E se nunca conseguir
+se vingar?
+
+27
+00:01:25,030 --> 00:01:26,621
+Não quero vingança.
+
+28
+00:01:27,646 --> 00:01:29,789
+Quero entender
+como tudo funciona.
+
+29
+00:01:29,790 --> 00:01:31,289
+Como Gotham funciona.
+
+30
+00:01:31,290 --> 00:01:34,677
+Terá mais sorte se cavar
+até a China com uma colher.
+
+31
+00:01:34,678 --> 00:01:37,132
+Pegue o Projeto Arkham,
+por exemplo.
+
+32
+00:01:37,133 --> 00:01:39,571
+Como as famílias criminosas
+Falcone e Maroni...
+
+33
+00:01:39,572 --> 00:01:41,576
+conseguem partes
+tão grandes no acordo?
+
+34
+00:01:41,577 --> 00:01:44,056
+Sei que a prefeitura
+é corrupta,
+
+35
+00:01:44,057 --> 00:01:47,472
+mas por que as Empresas Wayne
+não fizeram nada?
+
+36
+00:01:49,017 --> 00:01:51,168
+Pode me passar
+aquela pasta azul ali?
+
+37
+00:01:55,801 --> 00:01:59,741
+Acho que como passatempo
+isso é bem melhor...
+
+38
+00:01:59,742 --> 00:02:01,999
+do que se queimar
+como um porco.
+
+39
+00:02:03,625 --> 00:02:06,263
+Ainda não particularmente
+saudável, não é?
+
+40
+00:02:06,264 --> 00:02:07,688
+Obrigado.
+
+41
+00:02:09,244 --> 00:02:10,743
+Está me ouvindo?
+
+42
+00:02:12,169 --> 00:02:13,619
+Estou, é claro.
+
+43
+00:02:13,620 --> 00:02:15,816
+Vou caminhar mais tarde.
+Obrigado, Alfred.
+
+44
+00:02:22,492 --> 00:02:24,111
+Ganhei uma parte de Arkham.
+
+45
+00:02:24,112 --> 00:02:25,879
+Ataquei o prefeito.
+
+46
+00:02:25,880 --> 00:02:27,550
+Fiz Falcone recuar.
+
+47
+00:02:27,551 --> 00:02:31,090
+E me diz que não posso roubar
+um cassino qualquer?
+
+48
+00:02:31,091 --> 00:02:34,389
+Sal, o cassino
+é o orgulho de Falcone.
+
+49
+00:02:34,390 --> 00:02:35,824
+Digo, qual o sentido?
+
+50
+00:02:35,825 --> 00:02:38,092
+Por poucos milhares,
+por que mexer com Falcone?
+
+51
+00:02:38,093 --> 00:02:39,810
+Aí é que está.
+
+52
+00:02:39,811 --> 00:02:41,341
+Mexer com Falcone.
+
+53
+00:02:41,342 --> 00:02:43,590
+Quero que saibam
+que não recuaremos.
+
+54
+00:02:43,591 --> 00:02:45,645
+Arkham foi só o começo.
+
+55
+00:02:45,646 --> 00:02:48,693
+Estamos assumindo, Frankie.
+Centímetro por centímetro.
+
+56
+00:02:48,694 --> 00:02:50,861
+- Certo, mas...
+- Mas, mas, mas!
+
+57
+00:02:51,462 --> 00:02:53,785
+- Cuide disso.
+- Certo, chefe.
+
+58
+00:03:01,905 --> 00:03:04,840
+O que está olhando?
+Tem algo a dizer?
+
+59
+00:03:04,841 --> 00:03:07,320
+Não, senhor.
+Nadinha.
+
+60
+00:03:14,823 --> 00:03:17,378
+POR QUE MENTIR?
+QUERO GRANA PARA AS DROGAS.
+
+61
+00:03:21,523 --> 00:03:22,934
+Aqui está, amigo.
+
+62
+00:03:46,509 --> 00:03:47,948
+Ei!
+
+63
+00:03:48,365 --> 00:03:49,860
+<i>Ei, cara!</i>
+
+64
+00:03:59,261 --> 00:04:01,561
+RESPIRE-ME
+
+65
+00:04:50,824 --> 00:04:52,272
+Ei!
+
+66
+00:04:53,785 --> 00:04:55,927
+Precisa pagar por isso!
+
+67
+00:04:58,408 --> 00:05:01,359
+Não me perturbe, mortal.
+
+68
+00:05:02,869 --> 00:05:04,369
+Ah, é?
+
+69
+00:05:05,938 --> 00:05:07,532
+Fique à vontade, Zeus.
+
+70
+00:05:20,123 --> 00:05:22,097
+Aqui pode parecer
+uma espelunca...
+
+71
+00:05:22,098 --> 00:05:24,690
+mas é o melhor hambúrguer
+da cidade. Certo, Efraim?
+
+72
+00:05:24,691 --> 00:05:26,410
+- Se diz que sim.
+- Muito bem...
+
+73
+00:05:26,411 --> 00:05:27,927
+quero dois cheeseburgers...
+
+74
+00:05:27,928 --> 00:05:30,231
+Sem molho, com picles,
+e dois shakes batidos.
+
+75
+00:05:30,232 --> 00:05:31,797
+Sem picles no meu, por favor.
+
+76
+00:05:31,798 --> 00:05:33,472
+Tem que confiar em mim nisso,
+Jim.
+
+77
+00:05:33,473 --> 00:05:36,188
+É? Tudo certo.
+Picles! Manda ver.
+
+78
+00:05:44,510 --> 00:05:46,379
+<i>Agora,
+se quiser ficar bacana...</i>
+
+79
+00:05:46,380 --> 00:05:47,813
+em traje de banho como eu...
+
+80
+00:05:47,814 --> 00:05:49,816
+vai querer um monte desses
+aqui dentro.
+
+81
+00:05:49,817 --> 00:05:51,550
+Está certo!
+
+82
+00:05:54,487 --> 00:05:55,921
+Você!
+
+83
+00:06:05,232 --> 00:06:06,667
+Jim!
+
+84
+00:06:06,668 --> 00:06:08,766
+Vamos lá, é hora do almoço.
+Relaxa!
+
+85
+00:06:11,192 --> 00:06:13,098
+É hora do almoço!
+
+86
+00:06:13,874 --> 00:06:15,574
+Não, Jim.
+Não vamos...
+
+87
+00:06:15,575 --> 00:06:17,493
+É... almoço!
+
+88
+00:06:17,494 --> 00:06:19,378
+Irmão!
+
+89
+00:06:19,379 --> 00:06:24,081
+Jim, não podemos sair correndo
+cada vez que você ouve um sino.
+
+90
+00:06:27,474 --> 00:06:30,322
+Polícia de Gotham!
+Tem alguém aqui?
+
+91
+00:06:30,323 --> 00:06:32,257
+Por aqui... por aqui.
+
+92
+00:06:34,894 --> 00:06:36,764
+Está bem, senhor?
+Você está bem?
+
+93
+00:06:36,765 --> 00:06:38,589
+Graças a Deus
+que vocês estão aqui.
+
+94
+00:06:38,590 --> 00:06:40,031
+Alguém morto?
+
+95
+00:06:40,032 --> 00:06:42,229
+Acho que não.
+Um cara...
+
+96
+00:06:42,230 --> 00:06:44,631
+Estava roubando leite.
+Eu tentei impedi-lo...
+
+97
+00:06:44,632 --> 00:06:46,948
+Ele levou embora
+meu caixa eletrônico.
+
+98
+00:06:46,949 --> 00:06:48,474
+Muito bem,
+ninguém morreu.
+
+99
+00:06:48,475 --> 00:06:50,018
+Somos da homicídios,
+em almoço.
+
+100
+00:06:50,019 --> 00:06:52,198
+Tenha um bom dia, senhor.
+Ligue para o 911...
+
+101
+00:06:52,199 --> 00:06:53,583
+e alguém vai cuidar
+do caso.
+
+102
+00:06:53,584 --> 00:06:55,800
+Espere um minuto.
+Um cara fez isso?
+
+103
+00:06:55,801 --> 00:06:58,183
+- Roubou um caixa por leite?
+- Foi um magrelo...
+
+104
+00:06:58,184 --> 00:06:59,759
+com um estojo de violão.
+
+105
+00:06:59,760 --> 00:07:01,976
+Bebendo leite
+como se não houvesse vacas.
+
+106
+00:07:01,977 --> 00:07:04,663
+"Não me irrite, mortal",
+disse ele.
+
+107
+00:07:04,664 --> 00:07:06,064
+- Desculpe, o quê?
+- Olha...
+
+108
+00:07:06,065 --> 00:07:08,357
+Se eu recebesse um dólar
+para cada doido...
+
+109
+00:07:08,358 --> 00:07:10,196
+<i>que entra aqui,
+pensando ser Deus,</i>
+
+110
+00:07:10,197 --> 00:07:11,904
+eu não estaria aqui.
+
+111
+00:07:11,905 --> 00:07:15,107
+Mas esse filho da puta...
+não estava brincando.
+
+112
+00:07:15,108 --> 00:07:17,500
+Tudo bem...
+tem uma descrição do veículo?
+
+113
+00:07:17,501 --> 00:07:20,326
+- Placas, algo assim?
+- Ele não tinha um carro.
+
+114
+00:07:20,327 --> 00:07:22,688
+E como foi que ele arrancou
+o caixa da parede?
+
+115
+00:07:22,689 --> 00:07:24,179
+Como ele o levou embora?
+
+116
+00:07:24,180 --> 00:07:25,580
+É como eu disse, cara.
+
+117
+00:07:25,581 --> 00:07:27,673
+Ele o arrancou de lá
+com as próprias mãos!
+
+118
+00:07:30,273 --> 00:07:33,573
+<b>The_Tozz e Equipe InSanos
+apresentam...</b>
+
+119
+00:07:34,674 --> 00:07:38,974
+<b>GOTHAM - 1X05
+"Viper"</b>
+
+120
+00:07:40,676 --> 00:07:42,676
+<b>Legendas:
+@JBarra_ | @helder1965</b>
+
+121
+00:07:42,677 --> 00:07:44,677
+<b>Legendas:
+Caio | Eddy</b>
+
+122
+00:07:44,678 --> 00:07:46,678
+<b>Legendas:
+Mullr | Cirelli</b>
+
+123
+00:07:46,679 --> 00:07:48,679
+<b>Legendas:
+Poseidon | Samurai</b>
+
+124
+00:07:48,680 --> 00:07:51,680
+<b>Revisão:
+JhéFranchetti | Tozz</b>
+
+125
+00:07:51,681 --> 00:07:53,370
+<b>Ressync WEB-DL:
+kDragon</b>
+
+126
+00:07:54,875 --> 00:07:56,342
+Estou entediada.
+
+127
+00:07:56,343 --> 00:07:58,544
+Pobre bebezinha.
+
+128
+00:07:58,545 --> 00:08:00,680
+Mofando aqui o tempo todo.
+
+129
+00:08:00,681 --> 00:08:02,114
+Quer um pouco de emoção?
+
+130
+00:08:02,115 --> 00:08:05,283
+Sim, quero.
+Podemos ir a algum lugar e...
+
+131
+00:08:06,353 --> 00:08:08,821
+Que tal isso?
+Animada agora?
+
+132
+00:08:08,822 --> 00:08:10,261
+Por que fez isso?
+
+133
+00:08:10,262 --> 00:08:12,591
+Por que está aqui comigo?
+
+134
+00:08:14,193 --> 00:08:15,928
+Eu sou sua arma secreta.
+
+135
+00:08:15,929 --> 00:08:17,497
+Exatamente.
+
+136
+00:08:17,498 --> 00:08:20,233
+Mas você está me ajudando
+a ajudá-la?
+
+137
+00:08:20,234 --> 00:08:21,634
+Não, não está.
+
+138
+00:08:21,635 --> 00:08:23,569
+Nem aprende
+uma droga de da música.
+
+139
+00:08:23,570 --> 00:08:26,472
+Já disse que isso
+é importante.
+
+140
+00:08:26,473 --> 00:08:28,441
+Sinto muito, mamãe.
+
+141
+00:08:28,442 --> 00:08:30,176
+Não sou sua mãe.
+
+142
+00:08:30,177 --> 00:08:34,780
+Você pode ser minha garotinha,
+mas eu não sou sua mãe.
+
+143
+00:08:34,781 --> 00:08:36,382
+Ainda não.
+
+144
+00:08:36,946 --> 00:08:39,664
+Você tem que merecer isso.
+
+145
+00:09:02,742 --> 00:09:04,911
+Como é que isso é possível?
+
+146
+00:09:04,912 --> 00:09:08,214
+- Quem é esse cara?
+- Sem identificação ainda.
+
+147
+00:09:08,215 --> 00:09:09,849
+É um qualquer das ruas.
+
+148
+00:09:09,850 --> 00:09:13,886
+Pensamos que essa coisa
+tem algo a ver com a sua...
+
+149
+00:09:13,887 --> 00:09:15,788
+excessiva "disposição"!
+
+150
+00:09:15,789 --> 00:09:17,857
+Achamos no estojo de violão
+do suspeito.
+
+151
+00:09:17,858 --> 00:09:19,325
+É algum tipo de droga.
+
+152
+00:09:19,326 --> 00:09:21,360
+Uma droga fez aquilo?
+
+153
+00:09:22,863 --> 00:09:24,730
+Nygma achou vestígios da droga.
+
+154
+00:09:24,731 --> 00:09:27,266
+Vai descobrir que porcaria é
+até amanhã de manhã.
+
+155
+00:09:27,267 --> 00:09:29,268
+Até lá, vamos tentar
+descobrir quem ele é.
+
+156
+00:09:29,269 --> 00:09:30,669
+Certo.
+
+157
+00:09:47,286 --> 00:09:49,755
+Sei que suas famílias
+estão chateadas.
+
+158
+00:09:49,756 --> 00:09:51,157
+Mas diga a eles...
+
+159
+00:09:51,158 --> 00:09:53,359
+Todos tiveram uma parte
+do projeto Arkham.
+
+160
+00:09:53,360 --> 00:09:54,994
+Foi uma decisão de negócios.
+
+161
+00:09:54,995 --> 00:09:56,963
+Nós não perdemos,
+Maroni não venceu.
+
+162
+00:09:56,964 --> 00:09:58,898
+Maroni acha que ganhou.
+
+163
+00:09:58,899 --> 00:10:01,133
+Ele acha que ganhou
+uma grande batalha.
+
+164
+00:10:01,134 --> 00:10:03,236
+- Precisamos feri-lo.
+- Não.
+
+165
+00:10:03,237 --> 00:10:05,893
+Se não reagirmos,
+ele vai achar que...
+
+166
+00:10:05,894 --> 00:10:09,800
+Nikolai, aquele idiota pensará
+o que eu quiser que ele pense.
+
+167
+00:10:09,801 --> 00:10:11,858
+Não reagiremos,
+pelo menos ainda.
+
+168
+00:10:11,859 --> 00:10:14,215
+Em meu país dizemos...
+
+169
+00:10:14,216 --> 00:10:19,122
+"Se tiver dentes, até o idiota
+pode morder o rei."
+
+170
+00:10:19,123 --> 00:10:23,360
+Chega dessa ladainha, Niko.
+Não estamos no seu país.
+
+171
+00:10:23,361 --> 00:10:24,870
+Estamos em Gotham.
+
+172
+00:10:24,871 --> 00:10:27,270
+Onde temos encanamento,
+energia...
+
+173
+00:10:27,271 --> 00:10:29,877
+e Don Falcone é o chefe.
+
+174
+00:10:29,878 --> 00:10:33,007
+Ele está só está dando corda
+para o calhorda do Maroni!
+
+175
+00:10:33,008 --> 00:10:35,308
+- Só isso!
+- Por está nervosa, Fish?
+
+176
+00:10:35,689 --> 00:10:38,031
+Só dei a minha opinião,
+não é um crime.
+
+177
+00:10:38,032 --> 00:10:40,360
+E garanto para você
+que, no meu país,
+
+178
+00:10:40,361 --> 00:10:42,871
+temos todas essas
+comodidades modernas.
+
+179
+00:10:42,872 --> 00:10:44,523
+Apenas as mulheres
+são diferentes.
+
+180
+00:10:44,524 --> 00:10:46,328
+<i>Ou estão na cozinha,
+ou na cama...</i>
+
+181
+00:10:46,329 --> 00:10:48,028
+dependendo do talento.
+
+182
+00:10:48,029 --> 00:10:50,621
+Aposto que sua mãe
+era uma péssima cozinheira.
+
+183
+00:10:50,622 --> 00:10:53,599
+- Não fale da minha mãe.
+- Ou o quê?
+
+184
+00:10:55,577 --> 00:10:58,507
+- Vai bater em uma mulher?
+- Basta.
+
+185
+00:10:58,508 --> 00:11:00,231
+<i>Não haverá sangue aqui.</i>
+
+186
+00:11:00,966 --> 00:11:03,271
+Minhas desculpas,
+Don Falcone.
+
+187
+00:11:03,616 --> 00:11:06,993
+Precisamos um do outro.
+Somos uma família.
+
+188
+00:11:17,076 --> 00:11:18,486
+Ei.
+
+189
+00:11:20,213 --> 00:11:23,033
+Com licença.
+Já viram esse homem?
+
+190
+00:11:23,034 --> 00:11:24,435
+Não.
+
+191
+00:11:25,436 --> 00:11:26,845
+Já viu esse homem?
+
+192
+00:11:27,542 --> 00:11:28,960
+Com licença.
+
+193
+00:11:30,896 --> 00:11:32,696
+Parece familiar?
+
+194
+00:11:32,697 --> 00:11:34,134
+Já viu esse homem antes?
+
+195
+00:11:34,843 --> 00:11:38,040
+Sim, eu o conheço.
+O nome dele é Benny.
+
+196
+00:11:38,041 --> 00:11:41,174
+Ele toca guitarra,
+e toca muito bem.
+
+197
+00:11:42,101 --> 00:11:44,663
+- O que ele fez?
+- Nada ruim.
+
+198
+00:11:44,664 --> 00:11:47,261
+Ele tem uma herança
+que ninguém sabia.
+
+199
+00:11:47,262 --> 00:11:49,496
+Isso mesmo.
+1 milhão.
+
+200
+00:11:49,497 --> 00:11:52,234
+Um fazenda, cavalos...
+Sabe onde podemos encontrá-lo?
+
+201
+00:11:52,823 --> 00:11:54,228
+20 pratas.
+
+202
+00:11:56,019 --> 00:11:57,510
+10.
+
+203
+00:11:58,399 --> 00:11:59,886
+Mesma coisa
+que a bodega.
+
+204
+00:11:59,887 --> 00:12:01,971
+É, o que aconteceu
+com os laticínios?
+
+205
+00:12:08,904 --> 00:12:10,371
+Senhor?
+
+206
+00:12:10,372 --> 00:12:12,537
+DPGC.
+Mãos para o alto!
+
+207
+00:12:13,365 --> 00:12:14,951
+Ajudem-me.
+
+208
+00:12:14,952 --> 00:12:17,765
+Preciso de mais...
+
+209
+00:12:18,137 --> 00:12:20,152
+Mais o quê?
+O que você tomou?
+
+210
+00:12:20,153 --> 00:12:22,475
+Foi... foi tão bom.
+
+211
+00:12:22,476 --> 00:12:25,830
+Agora, não me sinto mais bem.
+Tem algo errado.
+
+212
+00:12:25,831 --> 00:12:29,684
+Preciso de mais.
+Por favor, precisam achá-lo.
+
+213
+00:12:29,685 --> 00:12:32,245
+Quem?
+O cara que lhe deu essa coisa?
+
+214
+00:12:32,246 --> 00:12:35,556
+Isso!
+O cara com a orelha mutilada.
+
+215
+00:12:35,557 --> 00:12:37,438
+Orelha mutilada.
+Pode deixar.
+
+216
+00:12:37,439 --> 00:12:39,294
+Fique calmo, deixe conosco.
+
+217
+00:12:39,295 --> 00:12:40,695
+Vamos ajudar...
+
+218
+00:12:40,696 --> 00:12:42,895
+- Não, não, não!
+- Senhor!
+
+219
+00:12:43,632 --> 00:12:45,504
+Senhor, precisamos
+que se acalme.
+
+220
+00:12:45,505 --> 00:12:47,104
+- Abaixe as mãos.
+- Por favor.
+
+221
+00:12:56,209 --> 00:12:59,352
+- Eu disse não!
+- Abaixe isso!
+
+222
+00:13:23,368 --> 00:13:24,777
+Mas que merda?
+
+223
+00:13:26,539 --> 00:13:28,708
+Deus nos ajude
+se essa droga se espalhar.
+
+224
+00:13:55,597 --> 00:13:57,612
+Olha só essa bagunça.
+
+225
+00:14:00,724 --> 00:14:02,496
+O que sua mãe diria?
+
+226
+00:14:04,504 --> 00:14:06,292
+Sabe, tenho uma vontade...
+
+227
+00:14:06,293 --> 00:14:09,650
+de jogar todos esse papeis
+no fogo.
+
+228
+00:14:09,651 --> 00:14:11,609
+- Sem fogo.
+- Veremos.
+
+229
+00:14:11,610 --> 00:14:13,289
+Vamos, acorde.
+
+230
+00:14:14,200 --> 00:14:19,050
+As Empresas Wayne dará
+um almoço de caridade amanhã.
+
+231
+00:14:19,051 --> 00:14:21,727
+Tomei a liberdade
+de aceitar o gentil convite...
+
+232
+00:14:21,728 --> 00:14:23,865
+- em seu nome, Patrão Bruce.
+- Que bom.
+
+233
+00:14:24,738 --> 00:14:26,286
+E o café da manhã?
+
+234
+00:14:26,643 --> 00:14:28,523
+Prepararei ovos.
+
+235
+00:14:29,182 --> 00:14:30,651
+Isso significa que você irá?
+
+236
+00:14:31,258 --> 00:14:32,698
+Sim.
+
+237
+00:14:32,699 --> 00:14:35,457
+Preciso fazer algumas perguntas
+aos membros do conselho.
+
+238
+00:14:36,011 --> 00:14:38,709
+- Que tipo de perguntas?
+- Sobre Arkham.
+
+239
+00:14:38,710 --> 00:14:40,473
+Parece-me
+que aqueles bandidos...
+
+240
+00:14:40,474 --> 00:14:43,364
+receberam suas partes em Arkham
+das Empresas Wayne.
+
+241
+00:14:43,365 --> 00:14:46,751
+Mas negócios são assim,
+não são?
+
+242
+00:14:46,752 --> 00:14:48,165
+São?
+
+243
+00:14:50,634 --> 00:14:52,832
+Meus pais não negociavam
+desse jeito.
+
+244
+00:14:53,203 --> 00:14:55,297
+- Negociavam?
+- Não.
+
+245
+00:14:55,660 --> 00:14:57,341
+Não, Patrão Bruce.
+
+246
+00:14:57,730 --> 00:14:59,339
+O conselho pode não
+estar ciente.
+
+247
+00:14:59,340 --> 00:15:01,441
+Eles encobriram tudo
+com muita inteligência.
+
+248
+00:15:02,075 --> 00:15:04,877
+Empresas de fachada,
+contas no exterior e etc.
+
+249
+00:15:05,712 --> 00:15:07,449
+Certo. Então, você...
+
+250
+00:15:07,450 --> 00:15:10,150
+descobriu tudo
+estudando isto aqui, não é?
+
+251
+00:15:12,118 --> 00:15:14,053
+Belo trabalho de detetive.
+
+252
+00:15:14,054 --> 00:15:16,088
+Mas ainda quero
+pegar a coisa toda...
+
+253
+00:15:16,089 --> 00:15:17,523
+e jogar direto no fogo.
+
+254
+00:15:17,524 --> 00:15:19,992
+Não jogue nada no fogo,
+Alfred.
+
+255
+00:15:20,926 --> 00:15:22,326
+É uma ordem.
+
+256
+00:15:22,792 --> 00:15:24,663
+Certo, Patrão Bruce.
+
+257
+00:15:27,166 --> 00:15:28,667
+Nada no fogo.
+
+258
+00:15:36,176 --> 00:15:38,377
+<i>Estamos ao vivo
+do centro de Gotham...</i>
+
+259
+00:15:38,378 --> 00:15:41,143
+<i>onde uma nova droga mortal
+circula pelas ruas.</i>
+
+260
+00:15:41,144 --> 00:15:44,484
+<i>Apelidada de "víbora",
+usuários dessa droga...</i>
+
+261
+00:15:44,485 --> 00:15:47,419
+<i>adquirem força sobre-humana
+e uma sensação de poder,</i>
+
+262
+00:15:47,420 --> 00:15:49,555
+<i>mas só por algumas horas.</i>
+
+263
+00:15:49,556 --> 00:15:53,292
+<i>Então, sem exceção,
+eles morrem de forma horrível.</i>
+
+264
+00:15:59,299 --> 00:16:00,699
+<i>Deixe-me sair!</i>
+
+265
+00:16:04,771 --> 00:16:06,171
+<i>Largue-me!</i>
+
+266
+00:16:08,909 --> 00:16:10,309
+Solte-me!
+
+267
+00:16:15,015 --> 00:16:17,116
+<i>Tire suas mãos imundas
+de mim!</i>
+
+268
+00:16:22,409 --> 00:16:24,323
+É extraordinário.
+
+269
+00:16:24,324 --> 00:16:27,660
+A víbora, de alguma forma,
+ativa o DNA não utilizado.
+
+270
+00:16:27,661 --> 00:16:31,230
+O corpo passa a queimar cálcio
+do esqueleto como combustível.
+
+271
+00:16:31,231 --> 00:16:34,166
+Daí o desejo das vítimas
+por leite e queijo.
+
+272
+00:16:34,167 --> 00:16:37,337
+Estão tentando desesperadamente
+repor o cálcio perdido.
+
+273
+00:16:37,338 --> 00:16:39,149
+Mas não podem consumir
+o suficiente.
+
+274
+00:16:39,150 --> 00:16:41,974
+Essencialmente,
+os ossos se desintegram.
+
+275
+00:16:41,975 --> 00:16:45,251
+- Então eles sufocam e morrem.
+- Já viu algo assim antes?
+
+276
+00:16:45,252 --> 00:16:47,180
+Não. Ninguém viu.
+É inédito.
+
+277
+00:16:47,181 --> 00:16:49,082
+Não imaginam
+como estou contente...
+
+278
+00:16:49,083 --> 00:16:51,283
+<i>Sem mais ocorrências recentes.</i>
+
+279
+00:16:51,284 --> 00:16:53,356
+Talvez a droga deles
+tenha acabado.
+
+280
+00:16:53,357 --> 00:16:54,756
+Eu duvido.
+
+281
+00:16:54,757 --> 00:16:57,690
+Quem colocaria isso nas ruas?
+E por quê?
+
+282
+00:16:57,691 --> 00:17:00,052
+Eles nem estão vendendo.
+Estão dando.
+
+283
+00:17:00,053 --> 00:17:01,528
+É como se cria
+uma demanda.
+
+284
+00:17:01,529 --> 00:17:03,789
+Para uma droga
+que mata você rapidamente?
+
+285
+00:17:03,790 --> 00:17:06,666
+Torna você o rei do mundo.
+Haverá compradores.
+
+286
+00:17:06,667 --> 00:17:09,769
+Vai rolar confusão, isso sim.
+Viciado contra viciado.
+
+287
+00:17:09,770 --> 00:17:12,304
+Se mantivermos os cidadãos
+em casa por umas semanas,
+
+288
+00:17:12,305 --> 00:17:15,609
+e deixá-los usar a droga,
+voilá, fim do crime.
+
+289
+00:17:15,610 --> 00:17:18,445
+É um belo pensamento.
+Só que não.
+
+290
+00:17:18,446 --> 00:17:20,280
+São drogas
+difíceis de produzir, não?
+
+291
+00:17:20,281 --> 00:17:22,949
+Requer um alto nível
+de sofisticação técnica.
+
+292
+00:17:22,950 --> 00:17:24,719
+Em um laboratório
+de ponta.
+
+293
+00:17:24,720 --> 00:17:27,319
+Então qual é o maior
+e melhor laboratório em Gotham?
+
+294
+00:17:27,320 --> 00:17:29,288
+O melhor é o WellZyn.
+
+295
+00:17:29,289 --> 00:17:30,689
+Mas não pode ser eles.
+
+296
+00:17:30,690 --> 00:17:32,859
+Eles são uma filial
+das Empresas Wayne.
+
+297
+00:17:32,860 --> 00:17:35,094
+Uma corporação
+multibilionária.
+
+298
+00:17:35,095 --> 00:17:36,762
+Por que produziriam isso?
+
+299
+00:17:36,763 --> 00:17:38,998
+Não sei, mas podemos começar
+por cima.
+
+300
+00:17:40,534 --> 00:17:42,001
+<i>Segure-a!
+Segure-a!</i>
+
+301
+00:17:42,002 --> 00:17:44,672
+- Venha cá!
+- Solte-me! Solte-me!
+
+302
+00:17:58,885 --> 00:18:02,655
+Fascinante.
+Fascinante!
+
+303
+00:18:02,656 --> 00:18:04,524
+<i>Notícias de última hora...</i>
+
+304
+00:18:04,525 --> 00:18:07,226
+Devia ter contratado esse cara
+para roubar o cassino.
+
+305
+00:18:07,227 --> 00:18:09,028
+Cheirar uma víbora,
+pode animar você.
+
+306
+00:18:09,029 --> 00:18:12,265
+- Quero aquele cassino.
+- Certo, vamos roubá-lo.
+
+307
+00:18:12,266 --> 00:18:14,001
+É meio complicado...
+
+308
+00:18:14,002 --> 00:18:17,570
+Dez guardas armados,
+portas blindadas, câmeras.
+
+309
+00:18:17,571 --> 00:18:20,040
+Vamos perder uns caras,
+mas vamos roubá-lo.
+
+310
+00:18:21,574 --> 00:18:23,142
+Com licença, cavalheiros.
+
+311
+00:18:23,143 --> 00:18:25,912
+Não pude deixar de ouvir
+a conversa sobre o cassino.
+
+312
+00:18:25,913 --> 00:18:27,680
+Vá cuidar de seus serviços.
+
+313
+00:18:27,681 --> 00:18:29,682
+Perdão. Esqueçam.
+Perdão.
+
+314
+00:18:29,683 --> 00:18:33,019
+Não. Diga-me,
+o que sabe do cassino?
+
+315
+00:18:34,521 --> 00:18:37,356
+Sei de um zelador que cuida
+das caldeiras do cassino.
+
+316
+00:18:37,791 --> 00:18:40,159
+Creio que possa fazer
+com que entrem facilmente.
+
+317
+00:18:40,160 --> 00:18:42,462
+Há túneis de acesso
+que ninguém conhece.
+
+318
+00:18:42,463 --> 00:18:44,197
+Túneis de acesso?
+
+319
+00:18:44,531 --> 00:18:46,232
+Sente-se. Aqui.
+
+320
+00:18:46,233 --> 00:18:49,202
+Obrigado, senhor.
+É uma grande honra.
+
+321
+00:18:49,936 --> 00:18:51,671
+Qual é mesmo seu nome?
+
+322
+00:18:51,672 --> 00:18:53,673
+Todos me chamam de Pinguim,
+senhor.
+
+323
+00:18:54,207 --> 00:18:55,775
+Não gosta desse nome,
+não é?
+
+324
+00:18:57,244 --> 00:19:00,212
+Bem, você está errado.
+É um belo nome.
+
+325
+00:19:00,947 --> 00:19:02,348
+Combina com você.
+
+326
+00:19:04,318 --> 00:19:06,653
+Como conhece esse homem?
+O zelador?
+
+327
+00:19:07,287 --> 00:19:10,456
+- Eu tenho contatos.
+- Ele é confiável?
+
+328
+00:19:10,990 --> 00:19:12,575
+Posso persuadi-lo a ser.
+
+329
+00:19:12,576 --> 00:19:14,791
+Esse cara é só
+um lavador de pratos de terno.
+
+330
+00:19:14,792 --> 00:19:16,762
+Relaxa.
+
+331
+00:19:16,763 --> 00:19:18,331
+É isso mesmo, Pinguim?
+
+332
+00:19:18,865 --> 00:19:21,133
+Você é só
+um lavador de pratos?
+
+333
+00:19:21,134 --> 00:19:22,835
+Pois não tenho
+essa impressão.
+
+334
+00:19:22,836 --> 00:19:24,904
+Você chegou todo humilde,
+mas...
+
+335
+00:19:25,238 --> 00:19:27,239
+Você tem um lado jogador,
+não tem?
+
+336
+00:19:27,240 --> 00:19:29,442
+Isso é bem perceptivo
+de sua parte.
+
+337
+00:19:30,177 --> 00:19:32,044
+Acho que é por isso
+que é o Don.
+
+338
+00:19:34,180 --> 00:19:35,882
+Não sou só
+um lavador de pratos.
+
+339
+00:19:36,316 --> 00:19:39,919
+E não é meu primeiro rodeio,
+por assim dizer.
+
+340
+00:19:42,022 --> 00:19:44,958
+Então, montou alguns touros?
+Eu sabia.
+
+341
+00:19:45,292 --> 00:19:46,893
+Conte-me tudo, cowboy.
+
+342
+00:19:47,627 --> 00:19:50,863
+Meu nome verdadeiro
+é Oswald Cobblepot.
+
+343
+00:19:51,498 --> 00:19:53,433
+E acho
+que ao ouvir minha história...
+
+344
+00:19:53,434 --> 00:19:55,901
+concordará que posso ser
+um trunfo para o senhor.
+
+345
+00:19:56,800 --> 00:19:59,619
+É uma história longa
+e engraçada, mas...
+
+346
+00:19:59,620 --> 00:20:02,240
+O resumo,
+só para você saber...
+
+347
+00:20:02,998 --> 00:20:04,899
+Eu trabalhava
+para a Fish Mooney.
+
+348
+00:20:04,900 --> 00:20:06,313
+Fish Mooney?
+
+349
+00:20:06,314 --> 00:20:07,849
+Sim, senhor.
+
+350
+00:20:07,850 --> 00:20:11,168
+Eu estava a par dos negócios
+da família Falcone.
+
+351
+00:20:11,855 --> 00:20:13,508
+Até eles tentarem me matar.
+
+352
+00:20:14,400 --> 00:20:15,700
+Estou aqui.
+
+353
+00:20:16,097 --> 00:20:17,447
+Acho que é o bastante...
+
+354
+00:20:20,093 --> 00:20:21,804
+É uma história engraçada.
+
+355
+00:20:35,600 --> 00:20:36,952
+Sou Taylor Reece...
+
+356
+00:20:36,953 --> 00:20:39,866
+advogada e relações públicas
+da WellZyn.
+
+357
+00:20:39,867 --> 00:20:41,449
+Bom dia, cavalheiros.
+
+358
+00:20:41,450 --> 00:20:43,323
+Obrigado por poupar
+nosso tempo.
+
+359
+00:20:43,324 --> 00:20:46,861
+Viemos assim que soubemos
+das suas dúvidas.
+
+360
+00:20:46,862 --> 00:20:50,403
+WellZyn está comprometida
+com o bem estar da comunidade.
+
+361
+00:20:50,404 --> 00:20:53,139
+- O que sabe sobre a víbora?
+- Só o que vemos no jornal.
+
+362
+00:20:53,140 --> 00:20:56,299
+WellZyn não tem conexão
+com essa tragédia.
+
+363
+00:20:56,300 --> 00:20:59,469
+Tomaremos medidas legais
+contra qualquer indivíduo...
+
+364
+00:20:59,470 --> 00:21:01,534
+que insinue o contrário.
+
+365
+00:21:02,161 --> 00:21:05,437
+Acha que pisamos
+no calo dela?
+
+366
+00:21:05,800 --> 00:21:08,409
+Procuramos um funcionário
+da WellZyn.
+
+367
+00:21:08,410 --> 00:21:11,376
+Homem,
+com o ouvido danificado.
+
+368
+00:21:12,412 --> 00:21:17,000
+Sim, para dizer a verdade,
+isso me lembra de alguém.
+
+369
+00:21:24,247 --> 00:21:26,357
+Ele se chama Stan Potolsky.
+
+370
+00:21:27,134 --> 00:21:30,879
+Trabalhou para nós por anos,
+como bioquímico.
+
+371
+00:21:30,880 --> 00:21:33,839
+No setor de produtos
+para higiene pessoal.
+
+372
+00:21:33,840 --> 00:21:36,199
+- Xampus, cremes dentais...
+- E o que aconteceu?
+
+373
+00:21:36,200 --> 00:21:40,301
+Ele ficou frustrado por não ter
+um trabalho mais importante.
+
+374
+00:21:40,302 --> 00:21:43,594
+<i>Começou a ficar instável
+e descontente.</i>
+
+375
+00:21:43,595 --> 00:21:45,683
+Tentamos ajudá-lo,
+mas ele resistiu.
+
+376
+00:21:45,684 --> 00:21:49,571
+Em abril passado,
+houve um incidente.
+
+377
+00:21:50,336 --> 00:21:53,078
+Ele tentou cortar
+a própria orelha...
+
+378
+00:21:53,079 --> 00:21:56,896
+durante um desentendimento
+com seu supervisor.
+
+379
+00:21:56,897 --> 00:21:59,068
+Deve ter sido mais difícil
+do que pensou.
+
+380
+00:21:59,069 --> 00:22:02,739
+- Tivemos que demiti-lo.
+- Último endereço conhecido?
+
+381
+00:22:02,740 --> 00:22:06,499
+Depois de ser despedido,
+nem limpou a própria mesa.
+
+382
+00:22:06,500 --> 00:22:08,843
+Simplesmente sumiu do mapa.
+
+383
+00:22:09,215 --> 00:22:11,067
+Você sabia, não sabia?
+
+384
+00:22:11,985 --> 00:22:15,528
+Sabia que foi ele.
+Por isso veio tão rápido.
+
+385
+00:22:15,529 --> 00:22:16,863
+Está incorreto.
+
+386
+00:22:16,864 --> 00:22:20,006
+A víbora só pode ser produzida
+em um laboratório de ponta,
+
+387
+00:22:20,007 --> 00:22:21,499
+como o seu.
+
+388
+00:22:21,500 --> 00:22:24,772
+Stan Potolsky
+é um homem brilhante.
+
+389
+00:22:24,773 --> 00:22:27,999
+Capaz de construir
+seu próprio laboratório.
+
+390
+00:22:28,000 --> 00:22:31,149
+Mas são mais que bem-vindos
+a examinarem as instalações.
+
+391
+00:22:31,150 --> 00:22:33,599
+Com a devida autorização,
+é claro.
+
+392
+00:22:33,600 --> 00:22:34,961
+Claro.
+
+393
+00:22:34,962 --> 00:22:36,962
+Iremos providenciar
+a papelada.
+
+394
+00:22:40,207 --> 00:22:42,799
+Advogados,
+a maioria deles são canalhas.
+
+395
+00:22:42,800 --> 00:22:45,399
+Alguns deles.
+Vamos achar Stan Potolsky.
+
+396
+00:22:45,400 --> 00:22:47,599
+Vamos sair por aí
+procurando por ele? Não.
+
+397
+00:22:47,600 --> 00:22:50,599
+Vou pedir
+para expedirem um alerta.
+
+398
+00:22:50,600 --> 00:22:53,340
+Certo, vou olhar os arquivos
+para ver se tem algo dele.
+
+399
+00:22:54,870 --> 00:22:57,072
+- Gordon, não é?
+- Sim e você?
+
+400
+00:22:57,073 --> 00:23:01,099
+- Venha comigo, em silêncio.
+- Do que está falando?
+
+401
+00:23:01,100 --> 00:23:02,965
+Relaxe.
+Temos um amigo em comum.
+
+402
+00:23:02,966 --> 00:23:06,300
+- E quem seria?
+- Oswald Cobblepot.
+
+403
+00:23:06,650 --> 00:23:08,199
+Sim, ele.
+
+404
+00:23:08,200 --> 00:23:09,899
+E se não vier comigo agora...
+
+405
+00:23:09,900 --> 00:23:13,399
+vamos mandar a cabeça dele
+em um saco, para o Falcone.
+
+406
+00:23:13,400 --> 00:23:16,216
+O que seria constrangedor
+para você, não?
+
+407
+00:23:18,000 --> 00:23:19,513
+Ou talvez seja um engano.
+
+408
+00:23:19,514 --> 00:23:23,063
+Já que você não lembra dele,
+não há o que temer.
+
+409
+00:23:24,645 --> 00:23:26,121
+Não, eu vou.
+
+410
+00:23:35,490 --> 00:23:36,928
+Chegue para lá.
+
+411
+00:23:56,810 --> 00:24:00,169
+Bem-vindo.
+Sou Salvatore Maroni.
+
+412
+00:24:00,170 --> 00:24:01,760
+Sei quem você é.
+
+413
+00:24:02,416 --> 00:24:03,781
+O que você quer?
+
+414
+00:24:03,782 --> 00:24:06,200
+- É o seguinte...
+- Jim, diga a verdade.
+
+415
+00:24:08,721 --> 00:24:12,023
+Quer uma bebida, Jim?
+Estou tomando um Negroni.
+
+416
+00:24:12,024 --> 00:24:13,674
+Ótimo com frutos do mar.
+
+417
+00:24:14,199 --> 00:24:15,499
+Água.
+
+418
+00:24:20,400 --> 00:24:23,201
+Nosso amigo acabou de contar
+uma história fascinante.
+
+419
+00:24:23,202 --> 00:24:26,480
+Nunca ouvi uma história assim.
+É difícil de acreditar.
+
+420
+00:24:26,481 --> 00:24:29,341
+- É verdade.
+- Cale a boca!
+
+421
+00:24:30,220 --> 00:24:33,240
+Mais uma palavra,
+e enfio isso em sua garganta!
+
+422
+00:24:33,600 --> 00:24:35,419
+Tento ser educado, Jim.
+
+423
+00:24:37,092 --> 00:24:39,680
+Mas não sou o tipo de homem
+que pergunta duas vezes.
+
+424
+00:24:40,643 --> 00:24:43,253
+- Então, será o seguinte...
+- Acalme-se, sr. Maroni.
+
+425
+00:24:43,254 --> 00:24:45,899
+- Eu não sei...
+- Não. Não. Não.
+
+426
+00:24:45,900 --> 00:24:49,659
+Deixe-me terminar.
+Terá sua vez de falar.
+
+427
+00:24:52,524 --> 00:24:53,890
+Tudo bem.
+
+428
+00:24:55,768 --> 00:24:58,999
+Quero que me conte
+exatamente a mesma história...
+
+429
+00:24:59,000 --> 00:25:02,099
+- que Pinguim contou.
+- Qual seria?
+
+430
+00:25:02,100 --> 00:25:04,486
+É melhor saber qual história,
+amigo.
+
+431
+00:25:04,487 --> 00:25:06,920
+Pois se me disser
+a mesma história que ele,
+
+432
+00:25:06,921 --> 00:25:09,144
+posso acreditar
+que é verdade.
+
+433
+00:25:09,145 --> 00:25:10,732
+Então estarei feliz.
+
+434
+00:25:11,300 --> 00:25:14,200
+Mas se for outra história,
+Mãe do Céu...
+
+435
+00:25:14,201 --> 00:25:16,631
+<i>Então alguém
+estará mentindo para mim.</i>
+
+436
+00:25:16,950 --> 00:25:19,329
+E não sei quem,
+e ambos morrerão.
+
+437
+00:25:19,330 --> 00:25:20,630
+<i>Entendeu?</i>
+
+438
+00:25:21,250 --> 00:25:23,040
+Sim, entendi.
+
+439
+00:25:23,041 --> 00:25:25,217
+Ótimo. Então...
+
+440
+00:25:27,150 --> 00:25:28,988
+Conte-me sua história,
+Jim.
+
+441
+00:25:32,400 --> 00:25:34,749
+Alguém matou
+Thomas e Martha Wayne.
+
+442
+00:25:34,750 --> 00:25:36,400
+Meu parceiro e eu
+pegamos o caso.
+
+443
+00:25:36,401 --> 00:25:38,975
+- Nem nos conhecíamos...
+- O que eu disse?
+
+444
+00:25:38,976 --> 00:25:41,158
+Coloque-o no fatiador.
+
+445
+00:25:41,159 --> 00:25:42,829
+Não, não, não.
+
+446
+00:25:43,800 --> 00:25:47,100
+<i>Se eu não gostar do que ouvi,
+fatie a cara dele.</i>
+
+447
+00:25:48,000 --> 00:25:50,463
+Desculpe-me.
+Continue.
+
+448
+00:25:53,950 --> 00:25:55,685
+Fui um peão...
+
+449
+00:25:57,050 --> 00:25:58,799
+Em uma conspiração...
+
+450
+00:25:58,800 --> 00:26:02,244
+entre Falcone,
+o prefeito e a DPGC...
+
+451
+00:26:02,550 --> 00:26:05,316
+para incriminar Mario Pepper
+pela morte dos Wayne.
+
+452
+00:26:06,000 --> 00:26:07,450
+Com ajuda
+da Fish Mooney,
+
+453
+00:26:07,451 --> 00:26:09,254
+a patroa do sr. Cobblepot
+na época.
+
+454
+00:26:10,800 --> 00:26:13,962
+O Sr. Cobblepot contou
+toda história para a UCE.
+
+455
+00:26:16,550 --> 00:26:18,770
+Para provar que eu não trairia
+a conspiração...
+
+456
+00:26:18,771 --> 00:26:21,028
+Falcone me mandou
+matar Cobblepot.
+
+457
+00:26:23,150 --> 00:26:24,749
+Eu não o fiz.
+
+458
+00:26:26,300 --> 00:26:27,861
+Deixei-o viver.
+
+459
+00:26:28,800 --> 00:26:30,472
+E aqui estamos.
+
+460
+00:26:36,400 --> 00:26:39,852
+Falcone, Mooney,
+policiais do UCE...
+
+461
+00:26:40,900 --> 00:26:42,828
+Ninguém sabe
+que ele está vivo?
+
+462
+00:26:42,829 --> 00:26:44,846
+Se soubessem,
+eu já estaria morto.
+
+463
+00:26:50,550 --> 00:26:52,174
+É delicioso.
+
+464
+00:26:52,800 --> 00:26:55,951
+<i>Frankie!
+Traga o Pinguim aqui!</i>
+
+465
+00:26:55,952 --> 00:26:57,976
+O imprestável
+disse a verdade.
+
+466
+00:26:58,350 --> 00:27:00,850
+Obrigado, Jim.
+Boa história.
+
+467
+00:27:00,851 --> 00:27:02,174
+Bem contada.
+
+468
+00:27:02,175 --> 00:27:04,852
+Muitos na sua situação,
+surtariam.
+
+469
+00:27:06,150 --> 00:27:08,281
+Ai está você,
+seu rato linguarudo...
+
+470
+00:27:08,282 --> 00:27:10,464
+seu lindo vira casaca,
+venha aqui.
+
+471
+00:27:10,465 --> 00:27:12,862
+Amo você!
+Anime-se, Frankie.
+
+472
+00:27:12,863 --> 00:27:15,495
+Ganhamos uma nova arma
+contra os Falcone.
+
+473
+00:27:15,496 --> 00:27:16,996
+É Natal!
+
+474
+00:27:16,997 --> 00:27:18,930
+Boas Festas.
+Posso ir agora?
+
+475
+00:27:18,931 --> 00:27:20,450
+Claro, Jim, pode ir.
+
+476
+00:27:23,500 --> 00:27:26,128
+Só para garantir
+que nos entendemos...
+
+477
+00:27:26,692 --> 00:27:29,014
+Sabe, mantenha isso
+em segredo.
+
+478
+00:27:29,015 --> 00:27:30,568
+Entre amigos.
+
+479
+00:27:31,350 --> 00:27:34,596
+E se eu precisar de você,
+eu ligarei.
+
+480
+00:27:35,597 --> 00:27:36,897
+<i>Obrigado.</i>
+
+481
+00:27:38,400 --> 00:27:39,700
+Faça isso.
+
+482
+00:27:43,206 --> 00:27:46,218
+<i>Olhe para você, venha cá.
+Vamos limpá-lo.</i>
+
+483
+00:27:50,500 --> 00:27:52,440
+<i>Eu amo você, bebê.</i>
+
+484
+00:27:52,900 --> 00:27:54,542
+Eu amo você, bebê.
+
+485
+00:27:55,200 --> 00:27:56,600
+Eu amo você, bebê.
+
+486
+00:27:56,601 --> 00:27:59,609
+Certo, ainda está exagerando
+na sedução.
+
+487
+00:27:59,610 --> 00:28:02,396
+Deixe suave.
+Como uma mãe.
+
+488
+00:28:04,800 --> 00:28:06,505
+Eu amo você, bebê.
+
+489
+00:28:08,150 --> 00:28:09,987
+Eu amo você, bebê.
+
+490
+00:28:10,550 --> 00:28:12,899
+Bom. Melhorou.
+
+491
+00:28:12,900 --> 00:28:16,767
+Agora, haja como se tivesse
+me pego mentindo.
+
+492
+00:28:18,700 --> 00:28:22,403
+Não com raiva.
+Desapontada.
+
+493
+00:28:24,900 --> 00:28:26,657
+Querido.
+
+494
+00:28:27,550 --> 00:28:29,192
+Querido.
+
+495
+00:28:29,800 --> 00:28:31,296
+Isso.
+
+496
+00:28:31,297 --> 00:28:33,722
+<i>Agora, sobre seu cabelo...</i>
+
+497
+00:28:37,080 --> 00:28:38,506
+<i>Aí está você.</i>
+
+498
+00:28:40,650 --> 00:28:42,366
+Onde diabos esteve?
+
+499
+00:28:43,300 --> 00:28:44,648
+Assuntos pessoais.
+
+500
+00:28:44,649 --> 00:28:48,167
+Desaparece no meio de um caso
+e não pode me dizer o porquê?
+
+501
+00:28:48,168 --> 00:28:49,906
+Isso que "pessoal" significa.
+
+502
+00:28:49,907 --> 00:28:51,579
+Está com problemas?
+
+503
+00:28:51,580 --> 00:28:53,550
+Esquece.
+Não quero saber seus problemas.
+
+504
+00:28:53,551 --> 00:28:56,250
+WellZyn mandou as coisas
+do Potolsky. Pegue uma caixa.
+
+505
+00:28:56,251 --> 00:28:57,627
+Já achou algo útil?
+
+506
+00:28:57,628 --> 00:29:00,235
+Não. Só o clássico
+de um nerd solitário.
+
+507
+00:29:00,236 --> 00:29:01,829
+Vivia para trabalhar.
+
+508
+00:29:01,830 --> 00:29:05,009
+Sem esposa, sem família,
+sem amigos de verdade.
+
+509
+00:29:06,552 --> 00:29:07,946
+É a Barbara?
+
+510
+00:29:08,280 --> 00:29:09,860
+Ela se envolveu em algo?
+
+511
+00:29:11,100 --> 00:29:13,000
+Sim. Algo assim.
+
+512
+00:29:13,333 --> 00:29:15,815
+Era de se esperar.
+Sem querer ofender.
+
+513
+00:29:15,816 --> 00:29:17,349
+Precisa de ajuda?
+
+514
+00:29:17,350 --> 00:29:19,240
+Não, estou bem,
+obrigado.
+
+515
+00:29:23,400 --> 00:29:24,700
+O que acha disso?
+
+516
+00:29:24,701 --> 00:29:26,788
+Parecem amigos, não?
+
+517
+00:29:31,800 --> 00:29:34,566
+Julgando pelos livros
+e o mascote...
+
+518
+00:29:35,000 --> 00:29:37,930
+Professor de filosofia,
+Universidade de Gotham.
+
+519
+00:29:38,450 --> 00:29:41,142
+- Vale a pena tentar.
+- Amém.
+
+520
+00:29:45,650 --> 00:29:48,083
+Eu estava indo
+para um compromisso...
+
+521
+00:29:48,084 --> 00:29:50,828
+mas, sim,
+conheço Stan Potolsky.
+
+522
+00:29:50,829 --> 00:29:52,708
+Ele era meu aluno.
+
+523
+00:29:52,709 --> 00:29:54,899
+Um brilhante aluno.
+
+524
+00:29:54,900 --> 00:29:57,331
+<i>E mantiveram contato
+durante os anos?</i>
+
+525
+00:29:57,332 --> 00:29:59,993
+Mantivemos.
+Ele pode ser um bioquímico...
+
+526
+00:29:59,994 --> 00:30:02,232
+mas filosofia é sua paixão.
+
+527
+00:30:02,233 --> 00:30:04,591
+O que sabe sobre
+a demissão dele da WellZyn?
+
+528
+00:30:04,592 --> 00:30:06,247
+A pesquisa para a WellZyn...
+
+529
+00:30:06,248 --> 00:30:09,447
+levou-o a fazer
+alguns questionamentos morais.
+
+530
+00:30:09,448 --> 00:30:11,285
+A WellZyn disse
+que ele fazia xampu.
+
+531
+00:30:11,286 --> 00:30:14,246
+- Qual a questão moral nisso?
+- Xampu?
+
+532
+00:30:15,000 --> 00:30:17,238
+Disseram mesmo isso?
+
+533
+00:30:17,239 --> 00:30:21,359
+Não. Stan projetava
+armas farmacêuticas.
+
+534
+00:30:21,360 --> 00:30:23,394
+Para serem usadas em combate.
+
+535
+00:30:23,395 --> 00:30:26,136
+Drogas que funcionam
+em um nível epigenético.
+
+536
+00:30:26,137 --> 00:30:28,186
+Imagine um exército,
+composto por soldados...
+
+537
+00:30:28,187 --> 00:30:30,999
+tão fortes que podem
+quebrar um homem ao meio,
+
+538
+00:30:31,000 --> 00:30:32,370
+com suas próprias mãos.
+
+539
+00:30:32,371 --> 00:30:35,540
+É claro que a princípio,
+houve efeitos colaterais.
+
+540
+00:30:35,541 --> 00:30:36,841
+Sim, morte.
+
+541
+00:30:36,842 --> 00:30:38,342
+Mas a víbora foi
+o primeiro lote.
+
+542
+00:30:38,343 --> 00:30:40,845
+Corrigiram as falhas
+na segunda versão.
+
+543
+00:30:40,846 --> 00:30:42,566
+Chamada de "veneno".
+
+544
+00:30:44,700 --> 00:30:46,169
+Mas então...
+
+545
+00:30:46,170 --> 00:30:49,170
+Stan adquiriu
+certa clareza de mente.
+
+546
+00:30:50,189 --> 00:30:53,892
+Ele implorou aos chefes
+que terminassem o programa.
+
+547
+00:30:53,893 --> 00:30:56,995
+Eles recusaram,
+daí ele passou por cima deles.
+
+548
+00:30:56,996 --> 00:30:58,997
+Falou com Thomas
+e Martha Wayne.
+
+549
+00:31:00,266 --> 00:31:02,674
+Ele os convenceu a cancelar.
+
+550
+00:31:02,675 --> 00:31:04,174
+Mas quando eles morreram...
+
+551
+00:31:04,175 --> 00:31:06,871
+a WellZyn, imediatamente,
+reiniciou o programa.
+
+552
+00:31:06,872 --> 00:31:09,492
+Com o apoio
+das Empresas Wayne.
+
+553
+00:31:09,493 --> 00:31:11,435
+No final,
+Stan não pode fazer nada...
+
+554
+00:31:11,436 --> 00:31:14,349
+além de tomar
+medidas mais radicais.
+
+555
+00:31:14,350 --> 00:31:15,650
+<i>Matando pessoas?</i>
+
+556
+00:31:15,651 --> 00:31:18,647
+Não estou percebendo
+seu ultraje moral, professor.
+
+557
+00:31:18,648 --> 00:31:21,234
+Se não se importa,
+reservo meu ultraje moral...
+
+558
+00:31:21,235 --> 00:31:23,554
+para os verdadeiros vilões
+neste caso.
+
+559
+00:31:23,555 --> 00:31:24,923
+A WellZyn.
+
+560
+00:31:25,525 --> 00:31:28,033
+O senhor planejou isso
+com Potolsky.
+
+561
+00:31:28,034 --> 00:31:30,128
+- Sim.
+- Onde ele está?
+
+562
+00:31:30,129 --> 00:31:31,429
+Desembucha, amigo.
+
+563
+00:31:31,430 --> 00:31:34,265
+O que fará comigo?
+Sou velho. Estou morrendo.
+
+564
+00:31:34,266 --> 00:31:36,103
+Vou apressar a sua morte,
+terrorista.
+
+565
+00:31:36,104 --> 00:31:37,869
+Em breve,
+Stan fará uma declaração...
+
+566
+00:31:37,870 --> 00:31:39,586
+que o mundo
+não poderá ignorar.
+
+567
+00:31:39,587 --> 00:31:42,699
+- Em breve? Hoje?
+- Vocês estão atrasados.
+
+568
+00:31:42,700 --> 00:31:44,600
+- Diga onde ele está!
+- Espere, espere!
+
+569
+00:31:44,601 --> 00:31:46,975
+Disse ter um compromisso.
+Para onde estava indo?
+
+570
+00:31:46,976 --> 00:31:50,467
+Bravo!
+Fez a pergunta correta.
+
+571
+00:31:50,468 --> 00:31:52,758
+O primeiro passo
+para a iluminação.
+
+572
+00:32:03,270 --> 00:32:04,570
+Não!
+
+573
+00:32:14,663 --> 00:32:17,575
+- Onde está Potolsky?
+- Aqueles hipócritas!
+
+574
+00:32:17,576 --> 00:32:20,429
+Altruísmo vazio
+nunca apagará o que fizeram.
+
+575
+00:32:20,880 --> 00:32:22,230
+Eles devem pagar.
+
+576
+00:32:22,231 --> 00:32:23,574
+Quem?
+Quem deve pagar?
+
+577
+00:32:23,575 --> 00:32:26,572
+A WellZyn.
+As Empresas Wayne.
+
+578
+00:32:26,573 --> 00:32:30,618
+Todos finalmente verão
+quem eles realmente são.
+
+579
+00:32:30,619 --> 00:32:32,785
+Como?
+Para onde Potolsky foi?
+
+580
+00:32:33,726 --> 00:32:35,827
+O que é "altruísmo"?
+
+581
+00:32:37,863 --> 00:32:39,323
+Caridade.
+
+582
+00:32:41,475 --> 00:32:43,257
+Sei para onde ele vai.
+
+583
+00:32:47,156 --> 00:32:49,891
+- Nome, por favor.
+- Ele é Bruce Wayne.
+
+584
+00:32:49,892 --> 00:32:51,192
+Ele é Bruce Wayne.
+
+585
+00:32:51,193 --> 00:32:52,999
+- Por aqui. Obrigada.
+- Obrigado.
+
+586
+00:33:29,092 --> 00:33:31,413
+<i>As Empresas Wayne são...</i>
+
+587
+00:33:31,414 --> 00:33:33,172
+<i>a mão que ajuda.</i>
+
+588
+00:33:33,542 --> 00:33:35,136
+<i>Um porto na tempestade...</i>
+
+589
+00:33:35,736 --> 00:33:37,132
+Aquela é a srta. Mathis.
+
+590
+00:33:37,133 --> 00:33:39,698
+Ela trabalhou próxima
+a seu pai.
+
+591
+00:33:40,912 --> 00:33:42,692
+<i>Um abrigo para todos.</i>
+
+592
+00:33:43,006 --> 00:33:44,735
+<i>E água limpa.</i>
+
+593
+00:34:02,224 --> 00:34:04,159
+<i>O sorriso de uma criança.</i>
+
+594
+00:34:04,160 --> 00:34:05,847
+Sente-se, Bruce, por favor.
+
+595
+00:34:07,208 --> 00:34:11,383
+- É bom vê-lo fora de casa.
+- Estou feliz por estar aqui.
+
+596
+00:34:11,384 --> 00:34:15,760
+Todos nós das Empresas Wayne
+lamentamos por sua perda.
+
+597
+00:34:17,660 --> 00:34:19,682
+Todos vocês aqui
+são do conselho?
+
+598
+00:34:20,536 --> 00:34:23,297
+Céus, não.
+Somos gerentes.
+
+599
+00:34:23,298 --> 00:34:26,107
+Os membros do conselho
+não vêm a essas coisas.
+
+600
+00:34:26,108 --> 00:34:27,484
+Não?
+
+601
+00:34:28,068 --> 00:34:29,378
+Por que não?
+
+602
+00:34:30,075 --> 00:34:33,891
+Eles são muito ocupados,
+Bruce.
+
+603
+00:34:34,275 --> 00:34:36,057
+Sua família
+criou uma companhia...
+
+604
+00:34:36,058 --> 00:34:39,360
+que vale bilhões
+e bilhões de dólares.
+
+605
+00:34:39,361 --> 00:34:42,414
+- Isso não é incrível?
+- Incrível.
+
+606
+00:34:42,415 --> 00:34:44,037
+Queria falar com eles...
+
+607
+00:34:44,038 --> 00:34:46,485
+pois encontrei
+sérias irregularidades...
+
+608
+00:34:46,486 --> 00:34:48,045
+no Projeto Arkham.
+
+609
+00:34:48,046 --> 00:34:49,537
+Irregularidades?
+
+610
+00:34:58,300 --> 00:35:02,349
+Posso assegurar, Bruce,
+que as Empresas Wayne...
+
+611
+00:35:02,350 --> 00:35:05,253
+nunca iriam considerar
+fazer negócios com criminosos.
+
+612
+00:35:05,254 --> 00:35:07,255
+- É impossível.
+- Assim espero...
+
+613
+00:35:07,256 --> 00:35:09,700
+mas eu gostaria de falar
+diretamente com o conselho.
+
+614
+00:35:10,341 --> 00:35:12,027
+Pode conseguir isso?
+
+615
+00:35:13,091 --> 00:35:14,950
+Posso tentar.
+
+616
+00:35:18,133 --> 00:35:20,770
+Eles preferem se comunicar
+com acionistas minoritários...
+
+617
+00:35:20,771 --> 00:35:23,018
+da forma legal, mas...
+
+618
+00:35:23,019 --> 00:35:24,519
+<i>Boa noite,
+senhoras e senhores.</i>
+
+619
+00:35:24,520 --> 00:35:26,350
+<i>Este é um anúncio público...</i>
+
+620
+00:35:26,351 --> 00:35:29,076
+<i>em nome de todas
+as criaturas vivas!</i>
+
+621
+00:35:29,077 --> 00:35:31,949
+<i>Ouviram falar de um droga
+chamada Víbora?</i>
+
+622
+00:35:34,615 --> 00:35:35,983
+<i>É minha.</i>
+
+623
+00:35:36,818 --> 00:35:38,853
+<i>Eu a fiz para WellZyn.</i>
+
+624
+00:35:38,854 --> 00:35:41,859
+<i>Uma subsidiária
+das Empresas Wayne.</i>
+
+625
+00:35:41,860 --> 00:35:44,165
+- Isso é verdade?
+- Claro que não, Bruce.
+
+626
+00:35:44,166 --> 00:35:46,594
+Esse homem
+é claramente inSano.
+
+627
+00:35:55,737 --> 00:35:57,496
+O duto de ar,
+está no telhado?
+
+628
+00:35:57,497 --> 00:36:00,253
+- Na escadaria depois do salão.
+- Esvazie o salão!
+
+629
+00:36:00,254 --> 00:36:02,410
+<i>Eu esperava
+que uma demonstração...</i>
+
+630
+00:36:02,411 --> 00:36:05,600
+<i>usando pessoas de rua bastasse,
+mas parece que coisas ruins...</i>
+
+631
+00:36:05,601 --> 00:36:07,541
+<i>só acontecem de verdade...</i>
+
+632
+00:36:07,542 --> 00:36:09,952
+<i>quando acontecem
+com pessoas importantes.</i>
+
+633
+00:36:11,086 --> 00:36:12,454
+<i>Como vocês!</i>
+
+634
+00:36:17,960 --> 00:36:20,161
+DPGC!
+Todos para fora!
+
+635
+00:36:20,162 --> 00:36:21,695
+<i>Agora!</i>
+
+636
+00:36:24,799 --> 00:36:26,133
+Desligue isso!
+
+637
+00:36:27,969 --> 00:36:29,270
+Não posso fazer isso.
+
+638
+00:36:29,704 --> 00:36:32,769
+- Desligue ou eu atiro!
+- Vá em frente!
+
+639
+00:36:32,770 --> 00:36:34,509
+Meu trabalho está feito.
+
+640
+00:36:50,158 --> 00:36:53,227
+Vire-se! Mãos na cabeça!
+Entrelace os dedos!
+
+641
+00:36:53,228 --> 00:36:54,529
+<i>Está tudo bem.</i>
+
+642
+00:36:54,863 --> 00:36:58,698
+Você está com raiva e confuso.
+Eu entendo.
+
+643
+00:36:59,702 --> 00:37:02,337
+Não há mais necessidade
+de violência.
+
+644
+00:37:02,771 --> 00:37:04,273
+Não atire!
+
+645
+00:37:04,951 --> 00:37:07,130
+Isso é atencioso da sua parte.
+
+646
+00:37:09,111 --> 00:37:10,947
+Estou saindo agora.
+
+647
+00:37:12,281 --> 00:37:14,883
+Procurem no armazém 39.
+
+648
+00:37:14,884 --> 00:37:19,152
+- Você não vai a lugar nenhum.
+- Posso ir onde eu quiser!
+
+649
+00:37:22,158 --> 00:37:23,458
+Não faça isso!
+
+650
+00:37:31,467 --> 00:37:34,021
+Tem cara que não aguenta
+uma parada da boa.
+
+651
+00:38:14,050 --> 00:38:15,357
+<i>Nada.</i>
+
+652
+00:38:16,892 --> 00:38:19,894
+O que você esperava?
+É Gotham.
+
+653
+00:38:30,239 --> 00:38:31,550
+<i>É a Mathis.</i>
+
+654
+00:38:31,551 --> 00:38:34,021
+Estou do lado de fora do local.
+Eles estão aqui.
+
+655
+00:38:34,650 --> 00:38:37,102
+Não. Acho que devemos
+deixá-los continuar.
+
+656
+00:38:37,103 --> 00:38:39,072
+Não há nada aqui para eles.
+
+657
+00:38:40,160 --> 00:38:43,079
+Vamos rever isso
+se chegarem perto.
+
+658
+00:39:29,506 --> 00:39:30,922
+Já se passaram 10 minutos.
+
+659
+00:39:30,923 --> 00:39:33,850
+Garanto que meu amigo
+é confiável.
+
+660
+00:39:35,899 --> 00:39:37,579
+Está com medo, Pinguim?
+
+661
+00:39:37,965 --> 00:39:39,966
+Sua voz
+está trêmula de novo.
+
+662
+00:39:41,040 --> 00:39:43,688
+Não, senhor.
+Estou bem.
+
+663
+00:39:43,689 --> 00:39:46,872
+Não tem que bancar o durão.
+Ficar nervoso é bom.
+
+664
+00:39:46,873 --> 00:39:50,409
+Talvez eu esteja
+um pouco nervoso, senhor.
+
+665
+00:39:50,410 --> 00:39:51,844
+Bom.
+
+666
+00:39:51,845 --> 00:39:53,212
+Deveria estar.
+
+667
+00:39:53,654 --> 00:39:55,628
+Porque se meu rapazes
+não sobreviverem...
+
+668
+00:39:55,629 --> 00:39:57,323
+você também não vai.
+
+669
+00:40:04,124 --> 00:40:05,424
+<i>Conseguimos!</i>
+
+670
+00:40:05,425 --> 00:40:07,125
+<i>Continuem!</i>
+
+671
+00:40:08,950 --> 00:40:11,765
+Toma essa, Falcone,
+seu filho da puta!
+
+672
+00:40:12,184 --> 00:40:14,834
+Eu lhe disse, Frankie,
+o garoto é um jogador.
+
+673
+00:40:14,835 --> 00:40:16,136
+Ele tem futuro.
+
+674
+00:40:16,670 --> 00:40:18,684
+Por que está esperando
+como uma velhinha?
+
+675
+00:40:19,059 --> 00:40:20,359
+Vai!
+
+676
+00:40:28,615 --> 00:40:30,246
+Solte-me.
+
+677
+00:40:32,786 --> 00:40:35,180
+Diga "por favorzinho".
+
+678
+00:40:36,890 --> 00:40:38,432
+Por favor.
+
+679
+00:40:45,500 --> 00:40:49,220
+Às vezes, acho que realmente
+não gosta de mim.
+
+680
+00:40:49,933 --> 00:40:52,205
+E estaria ajudando você
+a tomar o controle...
+
+681
+00:40:52,206 --> 00:40:54,173
+se não gostasse?
+
+682
+00:40:54,708 --> 00:40:56,099
+E aquilo com Falcone...
+
+683
+00:40:56,100 --> 00:40:57,976
+Temos que parecer bem
+para o velho.
+
+684
+00:40:57,977 --> 00:41:00,513
+Se ele descobrir
+que trabalhamos juntos...
+
+685
+00:41:01,847 --> 00:41:03,883
+estaremos ferrados.
+
+686
+00:41:03,884 --> 00:41:07,389
+- Paciência.
+- Não tenho mais paciência.
+
+687
+00:41:07,822 --> 00:41:09,650
+O velho tem que cair.
+
+688
+00:41:10,357 --> 00:41:12,424
+Devemos atacar logo.
+
+689
+00:41:14,350 --> 00:41:18,030
+Sim.
+Mas sutilmente.
+
+690
+00:42:04,090 --> 00:42:05,390
+Com licença.
+
+691
+00:42:06,550 --> 00:42:09,702
+Não pude deixar de ouvir
+a música que estava cantando.
+
+692
+00:42:09,703 --> 00:42:13,052
+- Sim. É minha favorita.
+- A minha também.
+
+693
+00:42:13,809 --> 00:42:16,351
+Bem... aí está.
+
+694
+00:42:16,900 --> 00:42:19,058
+Desculpe-me, eu só...
+
+695
+00:42:19,059 --> 00:42:21,318
+Não queria incomodar você.
+
+696
+00:42:22,100 --> 00:42:24,792
+Minha mãe cantava isso para mim
+quando eu era criança.
+
+697
+00:42:24,793 --> 00:42:27,166
+A vida toda,
+ela cantou isso para mim.
+
+698
+00:42:27,700 --> 00:42:29,768
+Eu já não escutava
+há um tempo, e eu...
+
+699
+00:42:29,769 --> 00:42:32,322
+Tive que sorrir,
+porque você se parece...
+
+700
+00:42:34,742 --> 00:42:38,210
+Enfim, desculpe-me.
+Estou divagando.
+
+701
+00:42:38,211 --> 00:42:39,946
+Não, tudo bem.
+
+702
+00:42:40,480 --> 00:42:42,250
+Quer ouvir?
+
+703
+00:42:43,584 --> 00:42:46,514
+Sim...
+Claro, obrigado.
+
+704
+00:42:46,515 --> 00:42:47,915
+Vamos nos sentar.
+
+705
+00:43:18,416 --> 00:43:21,416
+<b>The_Tozz e Equipe InSanos!
+Venom Is Life!</b>
+
