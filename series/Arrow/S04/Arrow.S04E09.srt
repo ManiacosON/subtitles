@@ -1,0 +1,3279 @@
+1
+00:00:02,164 --> 00:00:04,278
+<i>Meu nome é Oliver Queen.</i>
+
+2
+00:00:04,279 --> 00:00:05,868
+<i>Depois de cinco anos
+no inferno,</i>
+
+3
+00:00:05,869 --> 00:00:09,777
+<i>voltei com um objetivo.
+Salvar a minha cidade.</i>
+
+4
+00:00:09,778 --> 00:00:11,746
+<i>Meu jeito antigo
+não foi o bastante.</i>
+
+5
+00:00:11,747 --> 00:00:14,047
+<i>Precisei me tornar
+uma pessoa diferente.</i>
+
+6
+00:00:14,048 --> 00:00:16,950
+<i>Precisei me tornar
+algo diferente.</i>
+
+7
+00:00:16,951 --> 00:00:19,893
+<i>Precisei me tornar
+o Arqueiro Verde.</i>
+
+8
+00:00:19,894 --> 00:00:21,588
+<i>Anteriormente...</i>
+
+9
+00:00:21,589 --> 00:00:23,819
+Quando você vai propor?
+
+10
+00:00:23,820 --> 00:00:25,120
+Hoje à noite.
+
+11
+00:00:25,860 --> 00:00:29,448
+É um mapa de Lian Yu,
+e acho que nos levará
+
+12
+00:00:29,449 --> 00:00:32,049
+ao que Reiter procura.
+Para chegar, preciso de ajuda.
+
+13
+00:00:32,050 --> 00:00:35,285
+A limpeza da baía de Starling.
+Deixe-a assim.
+
+14
+00:00:35,286 --> 00:00:36,587
+E se eu recusar?
+
+15
+00:00:36,588 --> 00:00:39,539
+A luta para salvar Star City
+não será nas sombras.
+
+16
+00:00:39,540 --> 00:00:40,974
+Será em plena luz do dia.
+
+17
+00:00:40,975 --> 00:00:43,345
+E prometo a vocês
+que nunca desistirei de lutar
+
+18
+00:00:43,346 --> 00:00:44,646
+para salvar esta cidade.
+
+19
+00:00:44,647 --> 00:00:47,048
+<i>Teve tempos em que pensaria
+que isso é minha culpa.</i>
+
+20
+00:00:47,049 --> 00:00:49,817
+<i>Não é minha culpa.
+É minha responsabilidade.</i>
+
+21
+00:00:59,227 --> 00:01:00,813
+Ollie.
+
+22
+00:01:00,814 --> 00:01:02,795
+Como estamos?
+
+23
+00:01:02,796 --> 00:01:05,220
+Teve um grande
+comparecimento.
+
+24
+00:01:05,221 --> 00:01:07,168
+Quem diria
+que prefeririam catar lixo
+
+25
+00:01:07,169 --> 00:01:08,622
+a celebrar as festas?
+
+26
+00:01:08,623 --> 00:01:10,884
+Nada mal para um programa
+hippie e verde.
+
+27
+00:01:10,885 --> 00:01:12,687
+Ninguém gosta de ouvir
+"eu te disse".
+
+28
+00:01:12,688 --> 00:01:15,709
+Exceto em Star City.
+Sua aprovação subiu 10 pontos.
+
+29
+00:01:15,710 --> 00:01:17,875
+- Tenho um índice de aprovação.
+- Você tem.
+
+30
+00:01:17,876 --> 00:01:19,874
+Bem-vindo à política,
+sr. Queen.
+
+31
+00:01:19,875 --> 00:01:21,307
+- Sr. Queen!
+- Sim!
+
+32
+00:01:21,308 --> 00:01:22,650
+Com licença.
+
+33
+00:01:23,102 --> 00:01:26,420
+Como você se sente inspirando
+tanta gente a vir aqui hoje?
+
+34
+00:01:26,421 --> 00:01:28,555
+Eu não inspirei ninguém.
+
+35
+00:01:28,556 --> 00:01:31,259
+Essa é a cidade que conheço,
+a cidade de que me lembro,
+
+36
+00:01:31,260 --> 00:01:32,910
+a cidade
+que podemos voltar a ser.
+
+37
+00:01:32,911 --> 00:01:34,761
+- Agradeço seu tempo.
+- Obrigado.
+
+38
+00:01:34,762 --> 00:01:37,999
+Boa resposta.
+Você queria ter dito essa a ele?
+
+39
+00:01:38,000 --> 00:01:40,168
+Talvez eu tenha dado
+uma dica ou duas.
+
+40
+00:01:40,169 --> 00:01:43,520
+Conseguiu fazer as pessoas catar
+lixo em vez de abrir presentes.
+
+41
+00:01:43,521 --> 00:01:45,922
+- Desperdiçou a sua vocação.
+- Como você está?
+
+42
+00:01:45,923 --> 00:01:48,575
+Tenho meu irmão em casa
+para os feriados, Oliver.
+
+43
+00:01:48,576 --> 00:01:51,612
+Ele está numa cela,
+mas está aqui.
+
+44
+00:01:51,613 --> 00:01:54,265
+Vamos tirar Andy
+da influência de Darhk, John.
+
+45
+00:01:55,209 --> 00:01:56,984
+É uma promessa.
+
+46
+00:01:57,500 --> 00:02:00,495
+Se conseguirmos reduzir
+apenas 40% da toxicidade
+
+47
+00:02:00,496 --> 00:02:03,697
+produzida pelas bactérias
+que se desenvolveram aqui...
+
+48
+00:02:03,698 --> 00:02:05,186
+Poderemos nadar em 12 dias,
+
+49
+00:02:05,187 --> 00:02:07,337
+se as taxas de restituição
+forem constantes.
+
+50
+00:02:07,338 --> 00:02:09,430
+- Isso!
+- Ela é uma mini você.
+
+51
+00:02:09,431 --> 00:02:11,156
+- Tão fofo.
+- Incrível.
+
+52
+00:02:13,404 --> 00:02:15,062
+Todos se abaixem!
+
+53
+00:02:17,573 --> 00:02:18,873
+Vamos!
+
+54
+00:02:20,142 --> 00:02:21,442
+Abaixe-se!
+
+55
+00:02:23,660 --> 00:02:25,910
+Acho que posso desligar
+os drones remotamente.
+
+56
+00:02:25,911 --> 00:02:28,201
+- Agora seria um bom momento.
+- Vão!
+
+57
+00:02:31,954 --> 00:02:33,254
+Apresse-se!
+
+58
+00:02:36,467 --> 00:02:37,767
+Abaixem-se!
+
+59
+00:02:47,736 --> 00:02:49,036
+Você está bem?
+
+60
+00:02:54,268 --> 00:02:56,667
+4ª Temporada | Episódio 09
+-= Dark Waters =-
+
+61
+00:02:56,668 --> 00:02:58,923
+Legenda: Brunobrb, DSergio,
+SongMade, Chip, TimePink, laisleite
+
+62
+00:02:58,924 --> 00:03:00,852
+Revisão:
+Billy
+
+63
+00:03:00,853 --> 00:03:02,364
+[InSUBs]
+Qualidade é InSUBstituível!
+
+64
+00:03:02,950 --> 00:03:05,318
+<i>Um dia de esperança
+para um amanhã melhor</i>
+
+65
+00:03:05,319 --> 00:03:08,517
+<i>virou outro dia de desespero
+em Star City.</i>
+
+66
+00:03:08,518 --> 00:03:11,865
+<i>Um ataque terrorista
+deixou dúzias em estado crítico</i>
+
+67
+00:03:11,866 --> 00:03:15,296
+<i>quando as pessoas vieram ajudar
+Oliver Queen e sua equipe</i>
+
+68
+00:03:15,297 --> 00:03:17,000
+<i>a limpar
+a baía de Star City.</i>
+
+69
+00:03:17,001 --> 00:03:19,919
+<i>Enquanto isso, a polícia local
+e autoridades federais</i>
+
+70
+00:03:19,920 --> 00:03:22,382
+<i>procuram
+pelos indivíduos responsáveis,</i>
+
+71
+00:03:22,383 --> 00:03:26,106
+<i>mas até agora,
+não há suspeitos.</i>
+
+72
+00:03:26,522 --> 00:03:27,976
+Algo sobre as vítimas?
+
+73
+00:03:27,977 --> 00:03:30,319
+Uns já foram liberados,
+outros sendo operados.
+
+74
+00:03:30,320 --> 00:03:31,921
+É um milagre
+ninguém ter morrido.
+
+75
+00:03:31,922 --> 00:03:33,600
+Apesar
+dos esforços de Darhk.
+
+76
+00:03:33,601 --> 00:03:35,982
+Tem certeza
+que era a COLMÉIA?
+
+77
+00:03:36,919 --> 00:03:39,162
+Foi o que pensei.
+
+78
+00:03:40,629 --> 00:03:42,056
+Você está bem?
+
+79
+00:03:42,057 --> 00:03:43,411
+Havia crianças lá.
+
+80
+00:03:43,918 --> 00:03:45,233
+É Alex.
+
+81
+00:03:45,234 --> 00:03:49,211
+Todas emissoras do país
+querem um comentário.
+
+82
+00:03:49,212 --> 00:03:50,899
+Sem comentários.
+
+83
+00:03:50,900 --> 00:03:53,104
+Ollie, temos que dizer algo.
+
+84
+00:03:53,105 --> 00:03:54,469
+O que quer que eu diga?
+
+85
+00:03:54,470 --> 00:03:57,070
+Pedi ajuda às pessoas,
+e elas quase morreram por isso.
+
+86
+00:03:57,071 --> 00:04:00,690
+Quando tivermos
+um plano contra Darhk,
+
+87
+00:04:00,691 --> 00:04:02,507
+vou falar com a imprensa.
+
+88
+00:04:02,508 --> 00:04:04,358
+Sei que a COLMÉIA
+quer a cidade morta,
+
+89
+00:04:04,359 --> 00:04:06,720
+mas ir atrás
+de um evento voluntário,
+
+90
+00:04:06,721 --> 00:04:09,297
+parece um pouco excessivo.
+
+91
+00:04:09,298 --> 00:04:12,500
+Há duas semanas, Darhk me disse
+para parar a limpeza da baía.
+
+92
+00:04:12,501 --> 00:04:14,007
+Hoje ele foi atrás de civis.
+
+93
+00:04:14,008 --> 00:04:17,057
+É importante para ele
+por algum motivo.
+
+94
+00:04:17,058 --> 00:04:18,792
+Preciso entender qual é.
+
+95
+00:04:19,610 --> 00:04:22,061
+Da outra vez que falei
+com meu irmão não adiantou.
+
+96
+00:04:22,062 --> 00:04:23,890
+Tente falar com ele de novo.
+
+97
+00:04:23,891 --> 00:04:26,994
+Duas semanas numa cela
+muda a sua perspectiva.
+
+98
+00:04:27,550 --> 00:04:28,850
+Acredite.
+
+99
+00:04:31,700 --> 00:04:34,208
+Estamos quase lá.
+Talvez mais 3km.
+
+100
+00:04:34,209 --> 00:04:36,721
+Desde quando 3km
+significam "quase lá"?
+
+101
+00:04:36,722 --> 00:04:38,876
+Taiana, precisamos
+seguir em frente.
+
+102
+00:04:38,877 --> 00:04:40,948
+Não, isso é o que você quer.
+
+103
+00:04:40,949 --> 00:04:43,451
+Meu irmão está morto,
+e você me faz andar até o mar.
+
+104
+00:04:43,452 --> 00:04:44,880
+Achei que quisesse vingança.
+
+105
+00:04:44,881 --> 00:04:47,905
+Quero matar os bastardos
+que mataram meu irmão.
+
+106
+00:04:49,241 --> 00:04:51,258
+Conklin é só uma extensão
+de Reiter.
+
+107
+00:04:51,259 --> 00:04:54,061
+Se quiser afetá-los, não deixe
+que consigam o que querem.
+
+108
+00:04:54,062 --> 00:04:57,163
+Sua ideia de vingança
+é mais indireta que a minha.
+
+109
+00:04:57,164 --> 00:04:59,937
+Você está certa.
+Estou te usando.
+
+110
+00:04:59,938 --> 00:05:02,688
+Você é instrutora de mergulho.
+Preciso dessa habilidade.
+
+111
+00:05:02,689 --> 00:05:05,581
+Mas prometo,
+se eu conseguir o que quero,
+
+112
+00:05:05,582 --> 00:05:08,375
+Reiter e Conklin vão sofrer.
+
+113
+00:05:09,000 --> 00:05:10,978
+O que Vlad iria querer
+que você fizesse?
+
+114
+00:05:18,746 --> 00:05:21,209
+Meu amigo acha
+que você vai falar.
+
+115
+00:05:21,210 --> 00:05:22,610
+Mas eu te conheço.
+
+116
+00:05:25,500 --> 00:05:28,128
+Você sempre foi
+um desgraçado teimoso.
+
+117
+00:05:30,620 --> 00:05:34,702
+Fotos
+de Carly e Andy Júnior.
+
+118
+00:05:34,703 --> 00:05:39,139
+Um homem de verdade
+já teria perguntado por eles.
+
+119
+00:05:40,876 --> 00:05:44,010
+Carly chorou por meses
+por achar que estava morto.
+
+120
+00:05:44,011 --> 00:05:46,813
+Andy Júnior
+cresceu sem um pai.
+
+121
+00:05:47,620 --> 00:05:49,250
+E você os deixou.
+
+122
+00:05:49,251 --> 00:05:51,610
+Não fui eu.
+Foi a COLMÉIA.
+
+123
+00:05:51,611 --> 00:05:54,261
+Eles forjam nossas mortes
+para não sermos rastreados.
+
+124
+00:05:54,262 --> 00:05:56,723
+Floyd Lawton atirou em mim
+com munição da COLMÉIA.
+
+125
+00:05:56,724 --> 00:05:58,099
+Ele não fazia ideia.
+
+126
+00:05:58,100 --> 00:05:59,987
+Você destruiu
+sua família, Andy!
+
+127
+00:05:59,988 --> 00:06:01,695
+E nunca procurou por eles.
+
+128
+00:06:01,696 --> 00:06:03,196
+Nem uma vez.
+
+129
+00:06:03,197 --> 00:06:04,788
+Como pôde fazer isso?
+
+130
+00:06:05,968 --> 00:06:09,845
+Entendo. Não se importava antes,
+não se importa agora.
+
+131
+00:06:12,359 --> 00:06:14,109
+Só para você saber,
+
+132
+00:06:14,110 --> 00:06:16,243
+seu amigo Damien Darhk
+
+133
+00:06:16,244 --> 00:06:18,279
+atacou a baía de Star City,
+hoje de manhã.
+
+134
+00:06:18,280 --> 00:06:20,318
+Machucou várias pessoas.
+
+135
+00:06:20,319 --> 00:06:23,585
+E os neurobloqueadores
+saíram do seu sistema.
+
+136
+00:06:23,586 --> 00:06:26,937
+Quimicamente falando,
+você não é mais a vadia dele.
+
+137
+00:06:26,938 --> 00:06:29,090
+Não sou a vadia de ninguém.
+
+138
+00:06:29,091 --> 00:06:30,934
+E não sou a sua.
+
+139
+00:06:32,550 --> 00:06:34,106
+O que aconteceu com você,
+Andy?
+
+140
+00:06:34,730 --> 00:06:38,299
+Se Damien Darhk tivesse feito
+lavagem cerebral em você,
+
+141
+00:06:38,300 --> 00:06:39,733
+eu poderia entender.
+
+142
+00:06:40,569 --> 00:06:41,869
+Mas segundo Darhk...
+
+143
+00:06:43,105 --> 00:06:45,705
+Você estava traficando
+drogas e armas no Afeganistão?
+
+144
+00:06:46,684 --> 00:06:48,509
+Fiz o que precisei fazer.
+
+145
+00:06:48,510 --> 00:06:50,324
+Estou te dando uma chance.
+
+146
+00:06:51,680 --> 00:06:54,979
+Uma chance para se redimir
+por tudo o que fez.
+
+147
+00:06:54,980 --> 00:06:57,284
+Preciso crer que em algum lugar
+dentro de você,
+
+148
+00:06:57,285 --> 00:06:59,499
+você quer fazer
+a escolha certa.
+
+149
+00:06:59,500 --> 00:07:03,568
+Então pergunto ao que sobrou
+do irmão que amei
+
+150
+00:07:03,569 --> 00:07:06,942
+e ainda amo.
+Uma última vez.
+
+151
+00:07:06,943 --> 00:07:09,236
+O que Darhk quer com a baía?
+
+152
+00:07:10,900 --> 00:07:12,539
+Eu não sei.
+
+153
+00:07:18,700 --> 00:07:20,000
+Oi, mãe.
+
+154
+00:07:20,800 --> 00:07:22,650
+Graças a Deus!
+Você está bem, querida?
+
+155
+00:07:22,651 --> 00:07:24,899
+Sim, estou bem.
+
+156
+00:07:24,900 --> 00:07:27,499
+É tão horrível.
+É só que...
+
+157
+00:07:27,500 --> 00:07:30,143
+Quem atira num monte de pessoas
+no Natal?
+
+158
+00:07:30,144 --> 00:07:31,747
+É isso o horrível?
+
+159
+00:07:33,200 --> 00:07:35,300
+Por que parece
+que Papai Noel vomitou aqui?
+
+160
+00:07:35,301 --> 00:07:38,195
+É para festa natalícia
+da campanha do Oliver.
+
+161
+00:07:38,196 --> 00:07:40,878
+Eu queria garantir
+que sua herança judaica
+
+162
+00:07:40,879 --> 00:07:42,179
+estava representada.
+
+163
+00:07:42,180 --> 00:07:44,200
+Não tenho certeza
+se ainda vai acontecer.
+
+164
+00:07:44,201 --> 00:07:45,519
+O quê?
+Mentira.
+
+165
+00:07:45,520 --> 00:07:47,541
+Não, não, não.
+Isso é ridículo, querida.
+
+166
+00:07:47,542 --> 00:07:50,099
+Não pode deixar
+os terroristas vencerem.
+
+167
+00:07:50,100 --> 00:07:53,249
+- Vou tomar banho.
+- Tudo bem.
+
+168
+00:07:56,113 --> 00:07:59,400
+Mãe!
+Mãe, você está bem?
+
+169
+00:07:59,401 --> 00:08:02,764
+Nas luzes de Natal,
+em uma caixa de anel.
+
+170
+00:08:03,300 --> 00:08:04,700
+Encontrei isto.
+
+171
+00:08:05,700 --> 00:08:08,619
+3 quilates, corte de princesa,
+sem nebulosidade.
+
+172
+00:08:08,620 --> 00:08:12,299
+Eu sabia que Oliver te amava,
+mas não tanto assim.
+
+173
+00:08:12,300 --> 00:08:13,800
+Ele vai pedir em casamento.
+
+174
+00:08:14,750 --> 00:08:16,200
+Ele vai pedir em casamento.
+
+175
+00:08:17,000 --> 00:08:20,300
+Não sei quem está mais animada,
+você ou eu.
+
+176
+00:08:33,400 --> 00:08:34,738
+Obrigado por virem.
+
+177
+00:08:35,900 --> 00:08:38,313
+Estava tentando descobrir
+como lidar com eles.
+
+178
+00:08:39,250 --> 00:08:41,599
+Acho que é melhor
+contarmos a verdade.
+
+179
+00:08:41,600 --> 00:08:43,208
+É a única coisa
+que temos, cara.
+
+180
+00:08:43,209 --> 00:08:45,006
+A COLMÉIA nos tem
+em desvantagem.
+
+181
+00:08:45,007 --> 00:08:46,900
+Se tivermos chances
+de impedir Darhk,
+
+182
+00:08:46,901 --> 00:08:48,964
+precisamos pedir ajuda
+da cidade.
+
+183
+00:08:48,965 --> 00:08:52,499
+Se fizermos isso,
+seremos alvos.
+
+184
+00:08:52,500 --> 00:08:55,417
+- Sabemos nos cuidar.
+- Vamos abrir o jogo.
+
+185
+00:09:04,100 --> 00:09:06,823
+Obrigado a todos por virem.
+Obrigado.
+
+186
+00:09:06,824 --> 00:09:08,836
+Como a tragédia de hoje
+nos lembrou,
+
+187
+00:09:08,837 --> 00:09:10,668
+estamos em guerra.
+
+188
+00:09:10,669 --> 00:09:13,213
+Por seis meses
+estamos sendo assediados
+
+189
+00:09:13,214 --> 00:09:16,920
+por uma organização
+sem nome e sem rosto
+
+190
+00:09:16,921 --> 00:09:19,565
+que parece querer a todo custo
+destruir nossa cidade.
+
+191
+00:09:19,566 --> 00:09:21,169
+Vocês os conhecem
+como Fantasmas.
+
+192
+00:09:21,170 --> 00:09:24,197
+Enquanto podem ser anônimos,
+o líder deles não é.
+
+193
+00:09:24,198 --> 00:09:26,172
+Ele tem um rosto e um nome,
+
+194
+00:09:26,173 --> 00:09:27,850
+e acho que está na hora
+
+195
+00:09:27,851 --> 00:09:29,978
+das pessoas de Star City
+saberem a verdade
+
+196
+00:09:29,979 --> 00:09:31,797
+sobre quem ele é.
+
+197
+00:09:34,100 --> 00:09:36,200
+O nome dele é Damien Darhk.
+
+198
+00:09:36,201 --> 00:09:38,751
+Ele controla os Fantasmas
+em nome de uma organização
+
+199
+00:09:38,752 --> 00:09:42,505
+conhecida como COLMÉIA.
+Ela quer que a cidade morra.
+
+200
+00:09:42,506 --> 00:09:45,228
+Estarei distribuindo isto,
+a única foto conhecida
+
+201
+00:09:45,229 --> 00:09:49,199
+do sr. Darhk para os noticiários
+e mídias sociais do país.
+
+202
+00:09:49,200 --> 00:09:53,272
+<i>Por meses esse homem
+nos fez temer sair nas ruas.</i>
+
+203
+00:09:53,273 --> 00:09:55,273
+<i>Sugiro retribuirmos o favor.</i>
+
+204
+00:09:55,274 --> 00:09:57,499
+<i>Também estaremos montando
+um disque denúncia.</i>
+
+205
+00:09:57,500 --> 00:10:00,327
+<i>Individualmente,
+o sr. Darhk pode nos derrotar,</i>
+
+206
+00:10:00,328 --> 00:10:01,654
+<i>mas unidos,</i>
+
+207
+00:10:03,150 --> 00:10:04,900
+<i>ele não tem chance.</i>
+
+208
+00:10:07,350 --> 00:10:10,700
+Parabéns, Damien.
+Você é famoso.
+
+209
+00:10:21,000 --> 00:10:23,508
+Isso deve chamar a atenção dele,
+no mínimo.
+
+210
+00:10:23,509 --> 00:10:25,706
+- Prepara o disque denúncia?
+- Pode deixar.
+
+211
+00:10:26,600 --> 00:10:29,651
+- Feliz caçada.
+- Isso é muito Hanukah.
+
+212
+00:10:29,652 --> 00:10:32,199
+Sim, para sua festa natalícia
+de campanha.
+
+213
+00:10:32,200 --> 00:10:35,370
+É melhor acreditar que minha fé
+será bem representada.
+
+214
+00:10:35,371 --> 00:10:38,980
+Felicity, acabamos de atiçar
+um touro.
+
+215
+00:10:38,981 --> 00:10:40,948
+Não significa que o touro
+atacará agora.
+
+216
+00:10:40,949 --> 00:10:44,224
+E não podemos parar de viver
+enquanto isso.
+
+217
+00:10:45,250 --> 00:10:47,352
+- Ajude-me aqui, cara.
+- Não posso.
+
+218
+00:10:47,353 --> 00:10:49,699
+- Não pode atacar e recuar.
+- John está certo.
+
+219
+00:10:49,700 --> 00:10:52,499
+Por mais que seu discurso
+foi sobre entregar Darhk,
+
+220
+00:10:52,500 --> 00:10:55,241
+também mandou a mensagem
+de que não está mais com medo.
+
+221
+00:10:55,242 --> 00:10:58,199
+- Cancelar sua festa de Natal...
+- Feriado.
+
+222
+00:10:58,200 --> 00:11:00,592
+- Feriado.
+- Sua festa no feriado,
+
+223
+00:11:01,000 --> 00:11:03,452
+é mandar
+a mensagem contrária.
+
+224
+00:11:05,800 --> 00:11:08,990
+Certo, fale com Lance, veja
+se ele consegue segurança extra
+
+225
+00:11:08,991 --> 00:11:11,376
+- para essa festa.
+- Certo.
+
+226
+00:11:21,300 --> 00:11:22,800
+Posso te fazer uma pergunta?
+
+227
+00:11:23,400 --> 00:11:24,875
+Agora?
+Aqui?
+
+228
+00:11:24,876 --> 00:11:26,180
+Quero dizer...
+
+229
+00:11:27,200 --> 00:11:28,750
+Qual é a pergunta?
+
+230
+00:11:30,000 --> 00:11:31,850
+Fizemos o certo?
+
+231
+00:11:33,200 --> 00:11:36,236
+- Com o Darhk?
+- Sim.
+
+232
+00:11:36,237 --> 00:11:39,099
+Ele vai retaliar
+
+233
+00:11:39,100 --> 00:11:41,841
+em algum lugar.
+
+234
+00:11:41,842 --> 00:11:44,731
+Quando ele retaliar,
+estaremos prontos.
+
+235
+00:11:48,150 --> 00:11:50,700
+As drogas que Reiter fez você
+e os presos cultivarem
+
+236
+00:11:50,701 --> 00:11:52,051
+financiam o plano dele.
+
+237
+00:11:52,052 --> 00:11:54,699
+Procurar por algum tipo
+de artefato místico.
+
+238
+00:11:54,700 --> 00:11:56,600
+Ele gosta das preces
+e bugigangas dele.
+
+239
+00:11:56,601 --> 00:11:58,162
+E mapas.
+
+240
+00:11:58,163 --> 00:12:01,100
+Mas não posso entender este
+sem os mapas detalhados da ilha.
+
+241
+00:12:01,101 --> 00:12:03,451
+- Reiter não tem eles?
+- Não que eu tenha visto.
+
+242
+00:12:03,452 --> 00:12:07,200
+Mas Reiter não é o primeiro
+a vir enquanto estive na ilha.
+
+243
+00:12:13,400 --> 00:12:15,227
+Se veio me dar
+um presente de Natal,
+
+244
+00:12:15,228 --> 00:12:19,583
+pode ficar, seja lá se for faca
+ou dispositivo de tortura.
+
+245
+00:12:19,584 --> 00:12:22,800
+Nenhum presente
+e nada embrulhado.
+
+246
+00:12:22,801 --> 00:12:24,985
+Eu só queria saber
+como está se sentindo.
+
+247
+00:12:26,600 --> 00:12:29,540
+Estou ótima. Não quis agarrar
+o pescoço de ninguém
+
+248
+00:12:29,541 --> 00:12:30,849
+que me olhou torto
+
+249
+00:12:30,850 --> 00:12:33,519
+desde que Damien Darhk
+me atacou.
+
+250
+00:12:34,393 --> 00:12:36,699
+Acho que posso
+ter sido curada, pai.
+
+251
+00:12:37,100 --> 00:12:41,258
+Então pode guardar os arquivos
+que tiver de um pedófilo,
+
+252
+00:12:41,259 --> 00:12:43,709
+guarda de trânsito,
+ou político,
+
+253
+00:12:43,710 --> 00:12:46,599
+seja lá quem você pensa
+que vou matar.
+
+254
+00:12:46,600 --> 00:12:49,459
+Desde que falou do seu encontro
+com Damien Darhk,
+
+255
+00:12:49,460 --> 00:12:52,599
+- fiz meus lacaios pesquisarem.
+- Você ama ter lacaios.
+
+256
+00:12:52,600 --> 00:12:54,551
+O efeito de Darhk em você
+não tem a ver
+
+257
+00:12:54,552 --> 00:12:56,902
+com a exposição dele
+às águas do Poço de Lázaro.
+
+258
+00:12:56,903 --> 00:12:59,270
+Por que ele está afetando
+minha sede por sangue?
+
+259
+00:12:59,271 --> 00:13:02,932
+Não sei. Thea, há poucas coisas
+no mundo que me assustam,
+
+260
+00:13:02,933 --> 00:13:04,944
+mas estou suspeitando
+que estamos lidando
+
+261
+00:13:04,945 --> 00:13:06,838
+com algo
+dentro dessa categoria.
+
+262
+00:13:06,839 --> 00:13:10,049
+Anime-se, pai.
+É Natal.
+
+263
+00:13:10,050 --> 00:13:11,949
+Estamos lidando
+com forças universais
+
+264
+00:13:11,950 --> 00:13:15,791
+que ainda não entendo,
+então prometa que terá cuidado.
+
+265
+00:13:16,300 --> 00:13:18,321
+Promessa de mindinho.
+
+266
+00:13:37,600 --> 00:13:39,700
+Não estava brincando
+com a segurança extra.
+
+267
+00:13:39,701 --> 00:13:41,551
+- Onde os achou?
+- Tenho um amigo SEAL
+
+268
+00:13:41,552 --> 00:13:43,502
+que conhece alguém
+que conhece alguém...
+
+269
+00:13:43,503 --> 00:13:45,689
+Caramba,
+eles dão três de mim.
+
+270
+00:13:45,690 --> 00:13:48,299
+- E a Laurel?
+- Atendendo milhares de chamadas
+
+271
+00:13:48,300 --> 00:13:50,450
+- no disque denúncia.
+- Ela deve te amar agora.
+
+272
+00:13:50,451 --> 00:13:52,498
+Impressão minha
+ou contrataram
+
+273
+00:13:52,499 --> 00:13:54,353
+o exército
+como seus fornecedores?
+
+274
+00:13:54,354 --> 00:13:58,100
+São da marinha. Sou John Diggle.
+Sou da segurança do sr. Queen.
+
+275
+00:13:58,101 --> 00:14:00,651
+Curtis Holt, trabalho
+para a namorada da sr. Queen.
+
+276
+00:14:00,652 --> 00:14:03,700
+- Este é meu marido, Paul.
+- Um gato. Bom trabalho, Curtis.
+
+277
+00:14:04,615 --> 00:14:06,731
+- O que foi? Isso foi estranho?
+- Um pouco.
+
+278
+00:14:06,732 --> 00:14:08,258
+Não se preocupe.
+Você é bonito,
+
+279
+00:14:08,259 --> 00:14:10,496
+mas você é gay
+e eu estou quase noiva.
+
+280
+00:14:10,497 --> 00:14:12,085
+Por quase noiva
+quero dizer...
+
+281
+00:14:12,086 --> 00:14:13,842
+que não estou
+nem um pouco noiva.
+
+282
+00:14:13,843 --> 00:14:15,877
+Certo? Digo,
+tudo pode acontecer.
+
+283
+00:14:15,878 --> 00:14:18,580
+Daqui alguns anos.
+Em outra galáxia.
+
+284
+00:14:18,581 --> 00:14:20,382
+Licença, posso pegar você
+emprestado?
+
+285
+00:14:20,383 --> 00:14:22,681
+O chefe dos bombeiros chegou.
+
+286
+00:14:22,682 --> 00:14:24,247
+- Muito bom conhecê-lo.
+- Idem.
+
+287
+00:14:24,248 --> 00:14:25,738
+- Curtis.
+- Oliver.
+
+288
+00:14:27,127 --> 00:14:30,005
+- A quanto tempo estão casados?
+- Há cinco anos.
+
+289
+00:14:30,426 --> 00:14:32,621
+Casamento no inverno.
+Deve ter sido lindo.
+
+290
+00:14:32,622 --> 00:14:34,062
+Era verão, na verdade.
+
+291
+00:14:34,063 --> 00:14:37,068
+Casamos num barco de mergulho
+na Grande Barreira de Coral.
+
+292
+00:14:37,069 --> 00:14:39,568
+Escondi o anel em uma concha
+no fundo do coral.
+
+293
+00:14:39,569 --> 00:14:41,871
+- Sorte sua que eu achei.
+- Você não acharia
+
+294
+00:14:41,872 --> 00:14:44,172
+se fosse numa sobremesa
+como os héteros fazem.
+
+295
+00:14:44,173 --> 00:14:47,926
+Você já viu ele comendo bolo?
+Ele não mastiga, ele aspira.
+
+296
+00:14:47,927 --> 00:14:49,227
+Suflês
+
+297
+00:14:50,280 --> 00:14:53,380
+- Felicity, você está bem?
+- Só preciso achar minha mãe.
+
+298
+00:14:56,697 --> 00:14:57,997
+Mãe?
+
+299
+00:15:02,733 --> 00:15:04,033
+Mãe?
+
+300
+00:15:06,821 --> 00:15:08,857
+Isso não vai sair
+da minha cabeça.
+
+301
+00:15:09,462 --> 00:15:10,762
+Desculpe-me, querida.
+
+302
+00:15:11,518 --> 00:15:14,936
+Querida, gostaria que conhecesse
+meu namorado, Quentin.
+
+303
+00:15:14,937 --> 00:15:17,234
+- Ela é sua mãe?
+- Ele é seu namorado?
+
+304
+00:15:17,235 --> 00:15:18,535
+O quê?
+
+305
+00:15:18,536 --> 00:15:21,471
+- Você disse namorado?
+- Desculpa, vocês se conhecem?
+
+306
+00:15:21,472 --> 00:15:25,780
+- Achei que era só um rolo.
+- Posso falar com a minha mãe?
+
+307
+00:15:25,781 --> 00:15:27,581
+Só um segundo.
+
+308
+00:15:29,151 --> 00:15:31,925
+Olha, a Laurel não sabe.
+
+309
+00:15:31,926 --> 00:15:36,039
+E eu vou bater na minha cabeça
+com algo pesado para esquecer.
+
+310
+00:15:36,040 --> 00:15:37,692
+Tudo bem.
+Certo.
+
+311
+00:15:37,693 --> 00:15:39,183
+- Tchau.
+- Tchau.
+
+312
+00:15:42,136 --> 00:15:44,935
+Quentin não é incrível?
+Meu Deus!
+
+313
+00:15:44,936 --> 00:15:47,320
+Oliver ia fazer o pedido
+três meses atrás.
+
+314
+00:15:47,321 --> 00:15:49,740
+- O quê?
+- Três meses atrás.
+
+315
+00:15:49,741 --> 00:15:51,365
+- Como sabe?
+- Longa história,
+
+316
+00:15:51,366 --> 00:15:53,826
+mas ele ia pedir,
+então voltamos para cá.
+
+317
+00:15:53,827 --> 00:15:57,077
+Por que ele não fez o pedido
+quando vocês chegaram?
+
+318
+00:16:04,053 --> 00:16:05,354
+Sim?
+
+319
+00:16:05,355 --> 00:16:07,097
+- Deixa pra lá.
+- O quê? Licença.
+
+320
+00:16:09,401 --> 00:16:10,701
+- O que houve?
+- Não sei.
+
+321
+00:16:10,702 --> 00:16:12,929
+- É o Darhk?
+- Por causa dele
+
+322
+00:16:12,930 --> 00:16:15,449
+que Laurel e Thea
+foram lá em casa há três meses,
+
+323
+00:16:15,450 --> 00:16:17,332
+na hora que você ia
+pedir minha mão.
+
+324
+00:16:17,333 --> 00:16:21,143
+Antes de falar, fique sabendo
+que minha mãe achou o anel.
+
+325
+00:16:21,144 --> 00:16:23,905
+- Não é o que está pensando.
+- Isso depende se você acha
+
+326
+00:16:23,906 --> 00:16:27,002
+que eu acho que você ia propor,
+mas mudou de ideia.
+
+327
+00:16:27,003 --> 00:16:28,736
+- Não mudei de ideia.
+- Algo mudou.
+
+328
+00:16:28,737 --> 00:16:33,477
+Tudo mudou. Onde vivemos,
+o que fazemos, quem somos...
+
+329
+00:16:34,450 --> 00:16:36,730
+Eu ia fazer o pedido.
+
+330
+00:16:36,731 --> 00:16:38,651
+Mas então voltamos
+para Star City,
+
+331
+00:16:39,369 --> 00:16:42,490
+e eu precisava de tempo
+para repensar nas coisas.
+
+332
+00:16:42,491 --> 00:16:44,901
+Por que achou
+que eu não aceitaria?
+
+333
+00:16:44,902 --> 00:16:48,797
+Não, porque o que fazemos
+é perigoso. E eu...
+
+334
+00:16:48,798 --> 00:16:50,966
+Mas eu escolhi esta vida
+e escolhi você.
+
+335
+00:16:50,967 --> 00:16:53,515
+E não entendo
+por que não podemos ter os dois.
+
+336
+00:17:09,018 --> 00:17:10,518
+Malbec.
+Legal.
+
+337
+00:17:10,519 --> 00:17:12,220
+Como sabia
+que era o meu favorito?
+
+338
+00:17:12,221 --> 00:17:15,190
+Tão encorpado
+e cheio de vida.
+
+339
+00:17:15,191 --> 00:17:17,471
+Diferente dos seus seguranças
+lá fora.
+
+340
+00:17:17,472 --> 00:17:20,230
+E em minha defesa,
+eles atiraram primeiro.
+
+341
+00:17:20,997 --> 00:17:23,789
+Acho que o meu convite
+se perdeu nos correios.
+
+342
+00:17:24,446 --> 00:17:27,039
+Estou brincando.
+Não sou desse tipo.
+
+343
+00:17:28,943 --> 00:17:32,455
+Só estou aqui para conversar
+com o homem do momento.
+
+344
+00:17:32,456 --> 00:17:33,756
+O que você quer?
+
+345
+00:17:34,206 --> 00:17:37,112
+Algo que não posso ter,
+aparentemente.
+
+346
+00:17:37,113 --> 00:17:40,200
+Sua lealdade,
+sua fidelidade.
+
+347
+00:17:40,201 --> 00:17:43,451
+Eu disse que teria um preço
+se você recusasse.
+
+348
+00:17:43,452 --> 00:17:46,676
+Eu tomei aquela decisão,
+não estas pessoas.
+
+349
+00:17:46,677 --> 00:17:48,581
+Deixe eles irem.
+
+350
+00:17:48,582 --> 00:17:51,026
+Eu queria poder fazer isso,
+queria mesmo.
+
+351
+00:17:51,027 --> 00:17:53,878
+Mas, às vezes, o melhor jeito
+de ensinar uma lição à alguém
+
+352
+00:17:53,879 --> 00:17:55,195
+não é punindo eles,
+
+353
+00:17:55,196 --> 00:17:58,324
+mas as pessoas
+com quem ele se importa mais.
+
+354
+00:18:00,518 --> 00:18:01,818
+Tchau, tchau.
+
+355
+00:18:07,943 --> 00:18:09,421
+Peguem eles.
+
+356
+00:18:21,382 --> 00:18:22,682
+Oliver.
+
+357
+00:18:22,683 --> 00:18:24,758
+- Oliver, eles levaram ela.
+- O quê?
+
+358
+00:18:25,596 --> 00:18:27,607
+Eles levaram minha bebê.
+
+359
+00:18:27,608 --> 00:18:29,371
+- Por favor.
+- Tudo bem. Tudo bem.
+
+360
+00:18:29,372 --> 00:18:31,991
+Está tudo bem.
+Vou trazê-la de volta.
+
+361
+00:18:34,814 --> 00:18:37,709
+- Levaram a Thea também.
+- Tudo bem, ela vai ficar bem.
+
+362
+00:18:38,984 --> 00:18:41,602
+- O que aconteceu?
+- Foi muito rápido.
+
+363
+00:18:41,603 --> 00:18:43,149
+John e Thea
+não tinham chance.
+
+364
+00:18:43,150 --> 00:18:46,178
+Eu não fiz nada ou Darhk saberia
+que estou com você.
+
+365
+00:18:46,179 --> 00:18:48,509
+- Não sei se fiz a coisa certa.
+- Fez.
+
+366
+00:18:48,510 --> 00:18:51,821
+Precisamos localizar Darhk.
+Pegue tudo que puder achar.
+
+367
+00:18:51,822 --> 00:18:54,121
+- Pode deixar.
+- Alex.
+
+368
+00:18:54,122 --> 00:18:55,911
+A polícia irá fazer perguntas.
+
+369
+00:18:55,912 --> 00:18:57,835
+Cuide destas pessoas.
+Leve-os para casa,
+
+370
+00:18:57,836 --> 00:18:59,488
+leve-os ao hospital
+se precisarem.
+
+371
+00:18:59,489 --> 00:19:01,836
+- Pague com o fundo de campanha.
+- Claro.
+
+372
+00:19:01,837 --> 00:19:04,244
+- E a polícia?
+- Enrole-os.
+
+373
+00:19:11,906 --> 00:19:14,132
+Diga-me onde achar
+Damien Darhk.
+
+374
+00:19:17,021 --> 00:19:20,259
+Cadê Damien Darhk?
+
+375
+00:19:21,196 --> 00:19:23,392
+Oliver, vamos achá-los.
+
+376
+00:19:24,366 --> 00:19:26,207
+Nem os fantasmas
+sabem onde ele está.
+
+377
+00:19:26,902 --> 00:19:29,031
+Descobriu algo
+com o disque denúncia?
+
+378
+00:19:29,032 --> 00:19:32,358
+Só que tem muito gente louca
+e entediada aqui na cidade.
+
+379
+00:19:34,646 --> 00:19:36,512
+- Não vá para lá.
+- Para onde?
+
+380
+00:19:36,513 --> 00:19:38,160
+Seu lugar distante.
+
+381
+00:19:38,161 --> 00:19:40,661
+Onde você fica e se culpa.
+
+382
+00:19:40,662 --> 00:19:42,631
+A culpa é minha.
+Eu que denunciei Darhk.
+
+383
+00:19:42,632 --> 00:19:45,646
+Eu sei. Lembro de estarmos lá
+quando fez isso.
+
+384
+00:19:45,647 --> 00:19:47,681
+Candidatei-me
+porque sei me proteger.
+
+385
+00:19:47,682 --> 00:19:50,313
+- Achei que vocês soubessem.
+- E estava certo.
+
+386
+00:19:50,314 --> 00:19:51,928
+- Sabemos nos proteger.
+- Eu sei.
+
+387
+00:19:51,929 --> 00:19:55,515
+- Mas vocês não escolheram isso.
+- Oliver, podemos nos cuidar.
+
+388
+00:19:56,031 --> 00:19:57,901
+E isso inclui a Felicity.
+
+389
+00:19:58,754 --> 00:20:00,851
+Você inspirou muitas pessoas.
+
+390
+00:20:00,852 --> 00:20:05,012
+Não é de inspiração que Thea,
+John e Felicity precisam agora.
+
+391
+00:20:07,690 --> 00:20:09,500
+ALGO SURGIU
+NO DISQUE DENÚNICA
+
+392
+00:20:09,501 --> 00:20:14,390
+Mas em algum lugar
+tem um fantasma que vai falar.
+
+393
+00:20:14,391 --> 00:20:15,775
+E se eles não falarem?
+
+394
+00:20:16,835 --> 00:20:20,086
+Terei grande prazer
+em forçá-los.
+
+395
+00:20:22,635 --> 00:20:25,967
+- Está pronto?
+- Espero que sim.
+
+396
+00:20:25,968 --> 00:20:29,284
+Não vejo como fará um mergulho
+depois de uma breve instrução.
+
+397
+00:20:29,285 --> 00:20:32,463
+Desde que cheguei, faço muitas
+coisas que achei que não faria.
+
+398
+00:20:32,464 --> 00:20:33,773
+E você me ensinou bem.
+
+399
+00:20:33,774 --> 00:20:36,010
+- Eu posso ir com você.
+- Conheço o navio.
+
+400
+00:20:36,011 --> 00:20:37,937
+Volto em alguns minutos.
+
+401
+00:20:51,546 --> 00:20:53,746
+Quero todos
+procurando por pistas.
+
+402
+00:20:53,747 --> 00:20:56,645
+Quero os detetives falando
+com os informantes. Entendeu?
+
+403
+00:20:57,541 --> 00:21:00,178
+Oi, querida, o que foi?
+Algo aconteceu?
+
+404
+00:21:00,179 --> 00:21:01,904
+Recebi uma mensagem
+do escritório.
+
+405
+00:21:01,905 --> 00:21:03,710
+Uma dica chegou
+pelo disque denúncia.
+
+406
+00:21:03,711 --> 00:21:05,952
+- Algo que podemos usar?
+- Sobre você.
+
+407
+00:21:10,436 --> 00:21:11,748
+Venha.
+
+408
+00:21:17,228 --> 00:21:19,450
+Está trabalhando
+com Damien Darhk?
+
+409
+00:21:19,451 --> 00:21:21,843
+- Não é o que pensa.
+- Não sabe o que penso.
+
+410
+00:21:21,844 --> 00:21:23,773
+Darhk ameaçou você.
+
+411
+00:21:23,774 --> 00:21:26,280
+Fiz o que precisava
+para te manter segura.
+
+412
+00:21:26,281 --> 00:21:28,032
+É mesmo?
+E o que é isso, pai?
+
+413
+00:21:28,033 --> 00:21:29,408
+Quantos morreram?
+
+414
+00:21:29,409 --> 00:21:31,275
+Quantas filhas?
+
+415
+00:21:31,276 --> 00:21:33,016
+Nenhuma, espero.
+Nenhuma, eu...
+
+416
+00:21:33,017 --> 00:21:35,408
+Eu só fui olhos
+e ouvidos, está bem?
+
+417
+00:21:35,409 --> 00:21:37,537
+Primeiro para Darhk
+e pelo último mês...
+
+418
+00:21:38,356 --> 00:21:39,813
+Oliver.
+
+419
+00:21:39,814 --> 00:21:41,156
+Oliver sabia disso?
+
+420
+00:21:41,157 --> 00:21:44,027
+Sim, ele descobriu.
+Não aceitou bem de primeira,
+
+421
+00:21:44,541 --> 00:21:47,205
+- mas depois acho que entendeu.
+- Entendeu o quê?
+
+422
+00:21:47,772 --> 00:21:51,352
+Que não tem nada que não faria
+para proteger minha filhinha.
+
+423
+00:21:57,551 --> 00:21:58,852
+Oliver.
+
+424
+00:22:06,849 --> 00:22:08,648
+Conseguiu algo?
+
+425
+00:22:08,649 --> 00:22:10,831
+Só muitos fantasmas suicidas.
+
+426
+00:22:10,832 --> 00:22:12,525
+- Onde isso nos leva?
+- A nada.
+
+427
+00:22:12,526 --> 00:22:15,043
+Honestamente, Oliver.
+Aqui é mais fácil de entrar
+
+428
+00:22:15,044 --> 00:22:17,004
+- do que o último.
+- Mas que diabos...
+
+429
+00:22:17,005 --> 00:22:18,305
+- Pai!
+- Malcolm!
+
+430
+00:22:20,340 --> 00:22:21,704
+Estamos apertados.
+
+431
+00:22:21,705 --> 00:22:24,927
+Obviamente, estou menos morto
+do que muitos pensam.
+
+432
+00:22:28,084 --> 00:22:30,665
+- O que faz aqui?
+- Minha filha está em perigo.
+
+433
+00:22:30,666 --> 00:22:33,416
+Sua pergunta não deveria ser:
+"Por que demorou tanto"?
+
+434
+00:22:35,587 --> 00:22:37,150
+- O que é isso?
+- COLMÉIA usou
+
+435
+00:22:37,151 --> 00:22:39,911
+comunicação via satélite
+com criptografia polifásica.
+
+436
+00:22:39,912 --> 00:22:42,009
+- É um dos telefones.
+- Onde conseguiu?
+
+437
+00:22:42,010 --> 00:22:44,285
+- Sou Ra's al Ghul.
+- Talvez possamos usá-lo
+
+438
+00:22:44,286 --> 00:22:47,274
+- para rastrear Darhk.
+- Se Felicity estivesse aqui.
+
+439
+00:22:47,275 --> 00:22:50,936
+O único plano
+é me trocar por eles.
+
+440
+00:22:50,937 --> 00:22:54,073
+Escute. Não vou fingir entender
+o que está havendo.
+
+441
+00:22:54,534 --> 00:22:57,429
+Mas a ideia de você
+se entregar ao Darhk,
+
+442
+00:22:57,430 --> 00:22:59,187
+é a pior que já ouvi
+há um bom tempo.
+
+443
+00:22:59,188 --> 00:23:01,201
+Talvez,
+mas é nossa única jogada.
+
+444
+00:23:01,202 --> 00:23:03,876
+Comecei isso.
+Preciso terminar.
+
+445
+00:23:07,463 --> 00:23:09,923
+Bom, espero que estejam
+gostando da cidade.
+
+446
+00:23:09,924 --> 00:23:14,318
+Temos uma ótima sinfonia
+e o melhor café do oeste.
+
+447
+00:23:14,319 --> 00:23:18,010
+Maravilhoso. A srta. Fayad
+disse que gosta de jogos.
+
+448
+00:23:18,011 --> 00:23:19,834
+- Jogos?
+- Sim. Jogos.
+
+449
+00:23:19,835 --> 00:23:21,596
+Agora só está
+perdendo tempo.
+
+450
+00:23:21,597 --> 00:23:23,925
+Viemos checar seu progresso
+com o Genesis.
+
+451
+00:23:23,926 --> 00:23:26,327
+Não para vê-lo exercitar
+vingança pessoal.
+
+452
+00:23:26,328 --> 00:23:28,676
+Fala dos amigos
+de Oliver Queen.
+
+453
+00:23:28,677 --> 00:23:31,947
+Temos maiores preocupações
+do que campanha para prefeito.
+
+454
+00:23:31,948 --> 00:23:36,699
+O envolvimento da campanha
+na baía tornou-se preocupante.
+
+455
+00:23:41,875 --> 00:23:45,745
+Amigos, as coisas parecem
+estar ficando interessantes.
+
+456
+00:23:46,637 --> 00:23:48,452
+E muito rápido.
+
+457
+00:23:51,687 --> 00:23:53,691
+Fiquei surpreso
+em receber sua ligação.
+
+458
+00:23:53,692 --> 00:23:56,407
+E em um dos nossos
+telefones seguros.
+
+459
+00:23:56,408 --> 00:23:58,798
+Você é mais do que parece.
+
+460
+00:23:58,799 --> 00:24:01,285
+É melhor esperar
+que isso não seja verdade.
+
+461
+00:24:02,988 --> 00:24:05,478
+Como se chama o homem
+que ameaça o homem
+
+462
+00:24:05,479 --> 00:24:07,992
+que está mantendo seus
+entes queridos prisioneiros?
+
+463
+00:24:07,993 --> 00:24:09,659
+Não sei.
+Idiota?
+
+464
+00:24:09,660 --> 00:24:12,548
+Não matou meus amigos.
+Queria mostrar um ponto.
+
+465
+00:24:12,549 --> 00:24:14,791
+- Conseguiu.
+- Não.
+
+466
+00:24:16,454 --> 00:24:17,849
+Ainda não.
+
+467
+00:24:26,825 --> 00:24:29,416
+Estou aqui.
+Deixe meus amigos irem.
+
+468
+00:24:29,417 --> 00:24:32,050
+Desculpe. Achou que seria
+<i>quid pro quo</i>, sr. Queen?
+
+469
+00:24:32,051 --> 00:24:34,893
+Temos um acordo.
+Deixe meus amigos irem.
+
+470
+00:24:35,333 --> 00:24:36,634
+Tenha paciência.
+
+471
+00:24:39,393 --> 00:24:41,470
+Sabe quem aperfeiçoou
+a câmara de gás?
+
+472
+00:24:41,471 --> 00:24:42,781
+Os nazistas.
+
+473
+00:24:43,209 --> 00:24:45,694
+Por anos pensei
+por que o mundo deixou
+
+474
+00:24:45,695 --> 00:24:47,776
+esses monstros existirem.
+
+475
+00:24:47,777 --> 00:24:49,246
+Muito menos ter sucesso.
+
+476
+00:24:49,247 --> 00:24:51,795
+Mas agora percebo
+que o mundo precisava deles.
+
+477
+00:24:51,796 --> 00:24:54,224
+Parece horrível,
+mas, de vez em quando,
+
+478
+00:24:54,225 --> 00:24:56,908
+a humanidade precisa
+de um recomeço.
+
+479
+00:24:56,909 --> 00:24:58,210
+Começar de novo.
+
+480
+00:24:58,211 --> 00:25:00,674
+Essa hora chegou.
+
+481
+00:25:00,675 --> 00:25:03,287
+- O que é isso?
+- Uma demonstração
+
+482
+00:25:03,288 --> 00:25:07,589
+do projeto em que vai nos ajudar
+quando te tornarmos prefeito.
+
+483
+00:25:07,590 --> 00:25:10,694
+Pense nisso como o seguro
+de sua família e amigos.
+
+484
+00:25:15,971 --> 00:25:20,471
+Obrigado pelo serviço,
+sua mente e sua crença em mim.
+
+485
+00:25:20,880 --> 00:25:23,692
+Será sempre uma parte
+da nossa COLMÉIA.
+
+486
+00:25:34,595 --> 00:25:36,127
+A flor está ativa.
+
+487
+00:25:40,847 --> 00:25:44,183
+Aliás,
+obrigado por limpar a baía.
+
+488
+00:25:44,184 --> 00:25:48,315
+Meu pessoal usava o porto
+para criar um tipo de alga.
+
+489
+00:25:48,316 --> 00:25:51,075
+Ela nos permitiria fazer isso
+sem nos detectarem.
+
+490
+00:25:52,459 --> 00:25:54,042
+Que chato.
+
+491
+00:25:54,043 --> 00:25:56,058
+Ao menos ele durou mais
+que o anterior.
+
+492
+00:25:56,059 --> 00:25:57,516
+Acho que é alguma coisa.
+
+493
+00:25:58,019 --> 00:26:01,963
+Certo, vamos continuar
+a ajustar a proporção da flor.
+
+494
+00:26:04,145 --> 00:26:08,129
+Se me contar que me acostumarei
+a te ver vestindo isso, eu...
+
+495
+00:26:08,130 --> 00:26:09,618
+Excelente.
+
+496
+00:26:09,619 --> 00:26:11,392
+Colocou sua roupa de fetiche.
+
+497
+00:26:12,137 --> 00:26:13,667
+Não tem máscara?
+
+498
+00:26:13,668 --> 00:26:14,969
+Não é minha praia.
+
+499
+00:26:15,714 --> 00:26:17,017
+Se vamos atrás do Oliver,
+
+500
+00:26:17,018 --> 00:26:20,206
+não faria sentido trazer
+alguns dos seus amigos ninjas?
+
+501
+00:26:20,207 --> 00:26:22,492
+Não posso colocar a Liga
+contra a COLMÉIA.
+
+502
+00:26:22,493 --> 00:26:24,202
+Sabe a localização do Oliver?
+
+503
+00:26:24,203 --> 00:26:26,883
+Um complexo industrial
+abandonado fora de Pennytown.
+
+504
+00:26:26,884 --> 00:26:29,410
+Darhk não checaria
+por rastreadores nele?
+
+505
+00:26:29,411 --> 00:26:32,180
+Com certeza.
+Damien é bem meticuloso.
+
+506
+00:26:32,914 --> 00:26:37,687
+Mas Oliver usou a mesma
+nanotecnologia que usou em mim.
+
+507
+00:26:38,145 --> 00:26:39,635
+- E eu?
+- Não.
+
+508
+00:26:39,636 --> 00:26:42,477
+- Vai estragar seu disfarce.
+- Já está estragado.
+
+509
+00:26:43,065 --> 00:26:45,121
+- Pode nos dar licença?
+- Alegremente.
+
+510
+00:26:45,122 --> 00:26:47,937
+Já tenho drama demais
+de pais e filhos na minha vida.
+
+511
+00:26:47,938 --> 00:26:49,353
+- Boa sorte.
+- Obrigado.
+
+512
+00:26:49,354 --> 00:26:51,220
+Lembrem-se.
+Corremos contra o tempo.
+
+513
+00:26:52,696 --> 00:26:55,413
+Se for sobre você
+não confiando mais em mim
+
+514
+00:26:55,414 --> 00:26:57,889
+- por trabalhar com Darhk...
+- É o contrário.
+
+515
+00:26:58,759 --> 00:27:00,279
+Você fez coisas.
+
+516
+00:27:00,280 --> 00:27:01,990
+Coisas das quais
+não se perdoará,
+
+517
+00:27:01,991 --> 00:27:04,692
+porque estava me protegendo,
+mas sou eu quem decide
+
+518
+00:27:04,693 --> 00:27:06,486
+se preciso de proteção.
+
+519
+00:27:06,487 --> 00:27:08,647
+Não é assim
+que família funciona, querida.
+
+520
+00:27:08,648 --> 00:27:11,364
+Acho que nós concordamos
+
+521
+00:27:11,365 --> 00:27:14,137
+que nosso relacionamento
+não é muito convencional.
+
+522
+00:27:14,935 --> 00:27:16,644
+A máscara seria
+a primeira pista.
+
+523
+00:27:16,645 --> 00:27:17,966
+Ouça, querida.
+
+524
+00:27:19,130 --> 00:27:21,176
+Tome cuidado lá fora,
+tudo bem?
+
+525
+00:27:21,721 --> 00:27:24,944
+Pois não sei o que faria
+se algo te acontecesse.
+
+526
+00:27:24,945 --> 00:27:27,441
+Não é verdade.
+Sei exatamente o que eu faria.
+
+527
+00:27:27,892 --> 00:27:29,497
+E seria feio.
+
+528
+00:27:37,275 --> 00:27:39,467
+Essas pessoas são voluntárias?
+
+529
+00:27:39,468 --> 00:27:42,184
+Verdadeiros fiéis.
+Cada um deles.
+
+530
+00:27:43,463 --> 00:27:44,764
+Oliver!
+
+531
+00:27:47,627 --> 00:27:50,847
+Vou dar privacidade
+para se despedirem.
+
+532
+00:27:56,648 --> 00:27:58,116
+John e Thea estão bem?
+
+533
+00:27:58,117 --> 00:27:59,425
+Sim, acho que sim.
+
+534
+00:28:02,084 --> 00:28:04,891
+Por favor, não me diga que
+trocou a sua vida pela nossa,
+
+535
+00:28:04,892 --> 00:28:07,326
+porque isso seria coisa
+do antigo Oliver.
+
+536
+00:28:07,728 --> 00:28:09,262
+Eu tive que me entregar.
+
+537
+00:28:09,263 --> 00:28:11,631
+Era a única forma de saber
+onde estava mantida.
+
+538
+00:28:11,632 --> 00:28:14,701
+Darhk não vai manter
+a parte dele no trato.
+
+539
+00:28:14,702 --> 00:28:17,770
+O que acontecerá quando a ajuda
+chegar sem o Arqueiro?
+
+540
+00:28:17,771 --> 00:28:19,072
+Darhk é mau, não burro.
+
+541
+00:28:19,073 --> 00:28:20,941
+Tenho tudo sobre controle,
+Felicity.
+
+542
+00:28:20,942 --> 00:28:23,009
+Tinha que ser assim.
+
+543
+00:28:23,010 --> 00:28:27,546
+Acha que estamos nesta situação
+por causa de suas decisões?
+
+544
+00:28:29,648 --> 00:28:33,853
+Odeio te contar isso, Oliver,
+mas você não manda em mim.
+
+545
+00:28:33,854 --> 00:28:37,556
+E eu decido quando preciso
+de qualquer proteção.
+
+546
+00:28:39,493 --> 00:28:43,160
+Na festa de Natal,
+disse que ia pedir minha mão,
+
+547
+00:28:43,161 --> 00:28:45,097
+mas não pediu
+porque não tinha certeza
+
+548
+00:28:45,098 --> 00:28:48,234
+se nosso relacionamento
+sobreviveria a esta vida.
+
+549
+00:28:49,136 --> 00:28:50,936
+Era uma festa de feriado.
+
+550
+00:28:51,973 --> 00:28:54,341
+Tinha mais para falar,
+mas fomos atacados.
+
+551
+00:28:54,342 --> 00:28:57,410
+E aqui estamos, lutando.
+
+552
+00:28:57,411 --> 00:29:00,246
+Lutando contra o perigo
+
+553
+00:29:00,247 --> 00:29:02,482
+em vez de fugir dele.
+
+554
+00:29:04,184 --> 00:29:05,719
+Casamento não é isso?
+
+555
+00:29:05,720 --> 00:29:10,656
+Lidar com maus momentos
+porque estamos juntos?
+
+556
+00:29:11,358 --> 00:29:12,658
+Sim.
+
+557
+00:29:15,996 --> 00:29:18,832
+Só para saber,
+se tivesse me perguntado...
+
+558
+00:29:20,334 --> 00:29:22,668
+Eu teria aceitado.
+
+559
+00:30:14,387 --> 00:30:15,722
+Obrigado por vir.
+
+560
+00:30:15,723 --> 00:30:17,557
+- Meu Deus.
+- <i>O que está acontecendo?</i>
+
+561
+00:30:17,558 --> 00:30:19,525
+O acordo
+era que eu me entregaria,
+
+562
+00:30:19,526 --> 00:30:21,726
+e você deixaria
+meus amigos irem!
+
+563
+00:30:26,033 --> 00:30:27,767
+Deixe-me ir!
+
+564
+00:30:27,768 --> 00:30:29,701
+Desculpe-me sobre isso.
+
+565
+00:30:31,473 --> 00:30:33,173
+Nós tínhamos um acordo!
+
+566
+00:30:33,174 --> 00:30:35,241
+Se relembrar nossa conversa,
+
+567
+00:30:35,242 --> 00:30:37,410
+nosso acordo estava,
+no máximo, implícito.
+
+568
+00:30:37,411 --> 00:30:39,979
+Mesmo assim,
+"cara mau", lembra?
+
+569
+00:30:39,980 --> 00:30:42,849
+- Deixe-os ir.
+- Eu vou. Existencialmente.
+
+570
+00:30:42,850 --> 00:30:46,019
+Faça isso e perderá qualquer
+vantagem que tem sobre mim.
+
+571
+00:30:46,020 --> 00:30:49,189
+Errado. Enquanto eles viverem,
+tem algo pelo que lutar.
+
+572
+00:30:49,190 --> 00:30:50,924
+Por isso vou tirá-los de você.
+
+573
+00:30:50,925 --> 00:30:53,258
+Mas não se preocupe,
+não vai doer.
+
+574
+00:30:53,894 --> 00:30:55,894
+Bem, na maior parte.
+
+575
+00:31:13,985 --> 00:31:15,352
+Procure por rupturas.
+
+576
+00:31:15,353 --> 00:31:17,752
+Esse lugar pode não ser
+100% selado.
+
+577
+00:31:18,855 --> 00:31:22,255
+- Eu amo você.
+- Eu amo você.
+
+578
+00:31:23,928 --> 00:31:26,696
+Oliver, não se preocupe,
+há muitas por aí.
+
+579
+00:31:26,697 --> 00:31:29,566
+Se gosta de loiras,
+posso trazer uma em 20 minutos.
+
+580
+00:31:29,567 --> 00:31:31,801
+Uma que não matarei.
+
+581
+00:32:01,032 --> 00:32:03,398
+Venha, vamos.
+
+582
+00:32:07,338 --> 00:32:10,706
+- Pensei que tinha te perdido.
+- Estou aqui.
+
+583
+00:32:12,009 --> 00:32:14,476
+É o meu pai?
+
+584
+00:32:22,752 --> 00:32:26,222
+Sério? Estava pronto
+para dar a noite por encerrada.
+
+585
+00:32:26,223 --> 00:32:28,057
+Podem ir.
+
+586
+00:32:28,859 --> 00:32:31,094
+Como as crianças falam...
+
+587
+00:32:31,095 --> 00:32:33,328
+"Eu cuido disso".
+
+588
+00:32:35,199 --> 00:32:37,100
+Você não aprendeu nada,
+não é?
+
+589
+00:32:37,101 --> 00:32:39,835
+Posso ter aprendido algo.
+
+590
+00:32:44,308 --> 00:32:45,641
+Aqui.
+
+591
+00:32:48,913 --> 00:32:50,546
+Onde Malcolm está?
+
+592
+00:32:59,523 --> 00:33:03,191
+Estou morrendo de curiosidade
+para saber quem é você.
+
+593
+00:33:03,694 --> 00:33:06,261
+Parece que está morrendo
+um pouco também.
+
+594
+00:33:15,439 --> 00:33:17,373
+Não deveríamos deixar
+esses caras aqui.
+
+595
+00:33:17,374 --> 00:33:20,408
+Se são como os caras
+da câmara de gás, deveríamos.
+
+596
+00:33:25,182 --> 00:33:28,583
+Definitivamente eles são
+como os caras da câmara de gás.
+
+597
+00:33:36,761 --> 00:33:38,128
+É o melhor que tem?
+
+598
+00:33:38,129 --> 00:33:40,362
+São quatro de vocês
+e muito de nós.
+
+599
+00:33:41,632 --> 00:33:43,999
+Bem, agora são cinco.
+
+600
+00:34:03,753 --> 00:34:06,554
+Adivinhe quem decidiu
+que não precisa de proteção.
+
+601
+00:34:08,125 --> 00:34:10,359
+Trouxe a cavalaria.
+Espero que não ligue.
+
+602
+00:34:10,360 --> 00:34:11,660
+Vamos lá!
+
+603
+00:34:16,333 --> 00:34:18,001
+Boas notícias.
+
+604
+00:34:18,002 --> 00:34:22,738
+Vou deixá-lo viver para me ver
+matar o seu amigo verde!
+
+605
+00:34:26,443 --> 00:34:27,743
+Saia daí!
+
+606
+00:34:47,780 --> 00:34:50,986
+Tem certeza que Darhk
+não sobreviveu àquela explosão?
+
+607
+00:34:50,987 --> 00:34:53,789
+Já viu algum filme de terror?
+Esses caras não morrem.
+
+608
+00:34:53,790 --> 00:34:56,025
+Especialmente
+se não encontram o corpo.
+
+609
+00:34:56,026 --> 00:34:58,460
+Tem como piorar?
+
+610
+00:34:58,461 --> 00:35:01,642
+O que quer que seja
+que Darhk estava fazendo lá,
+
+611
+00:35:01,643 --> 00:35:03,695
+- foi destruído.
+- Onde está Merlyn?
+
+612
+00:35:03,696 --> 00:35:05,864
+Disse que ia cuidar
+dos negócios da Liga.
+
+613
+00:35:05,865 --> 00:35:08,095
+Não acredito que direi isso,
+mas devo a ele.
+
+614
+00:35:08,096 --> 00:35:10,315
+- Também ajudei um pouquinho.
+- Sim, ajudou.
+
+615
+00:35:10,316 --> 00:35:12,488
+Espere. Não deveríamos ir
+para aquela coisa?
+
+616
+00:35:12,489 --> 00:35:15,213
+- Que coisa?
+- É uma surpresa.
+
+617
+00:35:15,214 --> 00:35:17,506
+Você não é o único
+que pode guardar segredos.
+
+618
+00:35:22,772 --> 00:35:24,583
+O que aconteceu?
+
+619
+00:35:24,584 --> 00:35:26,147
+Um tubarão.
+
+620
+00:35:26,148 --> 00:35:28,668
+Acho que meu gosto
+não é muito bom.
+
+621
+00:35:31,140 --> 00:35:33,386
+Isso vai deixar
+uma cicatriz.
+
+622
+00:35:36,118 --> 00:35:37,826
+O quê?
+
+623
+00:35:37,827 --> 00:35:39,659
+Taiana.
+
+624
+00:35:39,660 --> 00:35:42,849
+Você está um pouco menos morta
+do que deveria estar.
+
+625
+00:35:42,850 --> 00:35:45,324
+E você,
+pode não ser um espião,
+
+626
+00:35:45,325 --> 00:35:47,046
+mas definitivamente
+é um mentiroso.
+
+627
+00:35:47,047 --> 00:35:50,026
+Significa que está mentindo
+sobre ser um espião.
+
+628
+00:35:51,008 --> 00:35:53,966
+Eu vou gostar de tirar
+pedaços de você.
+
+629
+00:36:01,750 --> 00:36:04,098
+- O que você quer?
+- Conversar.
+
+630
+00:36:04,099 --> 00:36:05,668
+Achei
+que tinha desistido disso.
+
+631
+00:36:05,669 --> 00:36:08,904
+Desisti, até conhecer
+o líder do culto, Damien Darhk.
+
+632
+00:36:08,905 --> 00:36:10,319
+Não é um culto.
+
+633
+00:36:10,320 --> 00:36:12,166
+O cara tem pessoas,
+pessoas normais,
+
+634
+00:36:12,167 --> 00:36:13,505
+pessoas honestas,
+eu acho,
+
+635
+00:36:13,506 --> 00:36:16,516
+que sofreram lavagem cerebral
+e que morreriam por ele.
+
+636
+00:36:16,517 --> 00:36:18,019
+Culto.
+
+637
+00:36:18,020 --> 00:36:19,811
+Quer saber,
+pense o que quiser.
+
+638
+00:36:19,812 --> 00:36:21,503
+É um país livre.
+
+639
+00:36:22,157 --> 00:36:24,423
+- Por enquanto.
+- Esse não é você, Andy.
+
+640
+00:36:29,317 --> 00:36:30,971
+O homem que eu conheci
+
+641
+00:36:31,534 --> 00:36:33,628
+me tirou de águas escuras,
+
+642
+00:36:33,629 --> 00:36:36,159
+convenceu-me a continuar
+quando eu não via motivo.
+
+643
+00:36:36,160 --> 00:36:39,687
+Não, o que você não via,
+o que você falhou em ver
+
+644
+00:36:39,688 --> 00:36:41,633
+é o homem que eu sou,
+
+645
+00:36:41,634 --> 00:36:44,520
+bem na sua frente
+o tempo todo.
+
+646
+00:36:44,521 --> 00:36:46,503
+Então, o meu irmão é
+um fantasma?
+
+647
+00:36:47,465 --> 00:36:50,630
+Tudo bem, vamos te tratar
+como um fantasma.
+
+648
+00:36:57,335 --> 00:36:59,800
+O seu problema com o vigilante
+está piorando.
+
+649
+00:36:59,801 --> 00:37:01,318
+Relaxa, sra. Nixon.
+
+650
+00:37:01,319 --> 00:37:02,892
+Foque-se no aqui e agora.
+
+651
+00:37:02,893 --> 00:37:05,551
+Tem gente que acha
+que está desviando do caminho.
+
+652
+00:37:05,552 --> 00:37:09,753
+Não, estou nos levando
+para onde precisamos estar.
+
+653
+00:37:11,634 --> 00:37:13,036
+Lindo, não é?
+
+654
+00:37:13,037 --> 00:37:15,054
+E eu nem gosto de milho.
+
+655
+00:37:15,492 --> 00:37:17,643
+Vão em frente, respire.
+
+656
+00:37:17,644 --> 00:37:19,290
+Beba.
+
+657
+00:37:19,291 --> 00:37:21,981
+- O que isso lembra vocês?
+- Parece tão real.
+
+658
+00:37:21,982 --> 00:37:25,578
+Comparo-o com o ar no Everest.
+Talvez um pouco rarefeito.
+
+659
+00:37:25,579 --> 00:37:28,100
+É o bastante para manter
+as coisas interessantes.
+
+660
+00:37:28,101 --> 00:37:29,896
+Achei que o teste
+tinha falhado.
+
+661
+00:37:29,897 --> 00:37:31,650
+Não o último.
+
+662
+00:37:31,651 --> 00:37:34,512
+Graças a alga que desenvolvemos
+na baía de Star City,
+
+663
+00:37:34,513 --> 00:37:37,272
+o ar aqui embaixo
+é perfeitamente respirável.
+
+664
+00:37:37,273 --> 00:37:39,633
+Estamos no cronograma.
+
+665
+00:37:40,404 --> 00:37:44,282
+- Fase quatro começa agora.
+- E Oliver Queen?
+
+666
+00:37:49,552 --> 00:37:52,112
+Isso é tudo ideia do Alex.
+
+667
+00:37:52,113 --> 00:37:54,507
+Quer mostrar para as pessoas
+que não vai recuar.
+
+668
+00:37:54,508 --> 00:37:56,282
+Você só precisa
+apertar o botão
+
+669
+00:37:56,283 --> 00:37:57,705
+- e discursar.
+- É isso?
+
+670
+00:37:57,706 --> 00:37:59,723
+Estaremos esperando você
+quando terminar.
+
+671
+00:38:01,389 --> 00:38:03,922
+- Você vem comigo.
+- Não.
+
+672
+00:38:08,385 --> 00:38:10,162
+Obrigado.
+
+673
+00:38:11,008 --> 00:38:12,850
+Obrigado, pessoal.
+
+674
+00:38:12,851 --> 00:38:16,019
+Nesta semana,
+um evento como este
+
+675
+00:38:16,020 --> 00:38:18,054
+foi interrompido
+por terroristas.
+
+676
+00:38:18,055 --> 00:38:20,057
+Mas estamos todos aqui
+
+677
+00:38:20,058 --> 00:38:23,149
+para mandar a essas pessoas
+uma mensagem bem simples.
+
+678
+00:38:24,008 --> 00:38:26,440
+Não vamos deixar
+a escuridão ganhar.
+
+679
+00:38:26,441 --> 00:38:30,524
+Estamos todos aqui
+para acender uma vela.
+
+680
+00:38:30,525 --> 00:38:32,307
+Unidos.
+
+681
+00:38:38,296 --> 00:38:41,682
+Isso aqui é possível
+por causa de todos vocês,
+
+682
+00:38:41,683 --> 00:38:44,907
+e sou muito agradecido
+a cada um de vocês.
+
+683
+00:38:45,483 --> 00:38:50,286
+Há uma pessoa em particular
+que eu sou grato.
+
+684
+00:38:52,369 --> 00:38:53,769
+Você.
+
+685
+00:38:53,770 --> 00:38:57,172
+Alguém que ficou
+do meu lado
+
+686
+00:38:57,173 --> 00:38:59,657
+quando os momentos
+eram difíceis.
+
+687
+00:39:01,949 --> 00:39:04,606
+Ela ilumina o meu caminho.
+
+688
+00:39:09,454 --> 00:39:11,294
+Felicity Smoak...
+
+689
+00:39:15,078 --> 00:39:17,067
+Você me faria
+
+690
+00:39:17,510 --> 00:39:21,368
+o homem mais feliz
+da face da Terra?
+
+691
+00:39:23,689 --> 00:39:25,096
+Sim?
+
+692
+00:39:25,097 --> 00:39:26,423
+Sim.
+
+693
+00:39:57,466 --> 00:39:59,561
+Parece bem maior
+na minha mão.
+
+694
+00:40:03,310 --> 00:40:06,240
+Mas para dizer a verdade,
+nem me importo com joias.
+
+695
+00:40:06,241 --> 00:40:08,883
+Eu só me importo com você.
+
+696
+00:40:34,028 --> 00:40:35,713
+O que está acontecendo?
+
+697
+00:41:37,250 --> 00:41:38,974
+Felicity?
+
+698
+00:41:51,621 --> 00:41:53,838
+insubs.com
+
