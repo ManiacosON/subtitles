@@ -1,0 +1,2748 @@
+1
+00:00:06,048 --> 00:00:08,175
+UMA SÉRIE ORIGINAL NETFLIX
+
+2
+00:00:11,720 --> 00:00:14,223
+BASEADA NO LIVRO DE RICHARD K. MORGAN
+
+3
+00:00:31,365 --> 00:00:34,743
+<i>A humanidade chegou até as estrelas.</i>
+
+4
+00:00:35,577 --> 00:00:42,042
+<i>Saímos como antigos conquistadores</i>
+<i>para explorar esse oceano que é o espaço.</i>
+
+5
+00:00:43,001 --> 00:00:46,004
+<i>Mas não importa até onde</i>
+<i>nos aventuremos no desconhecido,</i>
+
+6
+00:00:46,088 --> 00:00:49,341
+<i>os piores monstros são aqueles</i>
+<i>que levamos conosco.</i>
+
+7
+00:00:50,300 --> 00:00:53,929
+"Era uma vez,
+em um vilarejo no meio da floresta..."
+
+8
+00:00:54,012 --> 00:00:55,597
+Não leia, Tak.
+
+9
+00:00:56,431 --> 00:00:58,642
+Quero que conte com suas palavras.
+
+10
+00:00:59,560 --> 00:01:01,311
+Certo. Está pronta?
+
+11
+00:01:03,939 --> 00:01:07,276
+"Havia um pai cruel que tinha dois filhos.
+
+12
+00:01:08,026 --> 00:01:10,404
+Chamavam ele de Mykola Maluco."
+
+13
+00:01:11,113 --> 00:01:15,367
+"Ele era moleiro, mas obrigava os filhos
+a fazerem todo o trabalho."
+
+14
+00:01:16,201 --> 00:01:20,664
+-Onde estava a mãe deles?
+-Nunca tem mãe nessas histórias.
+
+15
+00:01:21,790 --> 00:01:23,208
+Vamos, continue.
+
+16
+00:01:23,292 --> 00:01:28,213
+"A menina e o menino trabalhavam tanto
+que, uma noite, eles desmaiaram."
+
+17
+00:01:28,297 --> 00:01:34,553
+"Mykola Maluco os achou no chão
+e os jogou no moinho."
+
+18
+00:01:35,345 --> 00:01:39,391
+"Então ele pensou:
+'Quem vai fazer todo o trabalho?'"
+
+19
+00:01:39,975 --> 00:01:42,894
+"Ele foi até o vilarejo
+e roubou mais crianças.
+
+20
+00:01:42,978 --> 00:01:45,647
+Ele as matou, as esquartejou
+
+21
+00:01:45,731 --> 00:01:49,568
+e levou seus pedaços para o tear."
+
+22
+00:01:49,651 --> 00:01:52,779
+"E costurou todos
+os seus pedaços sangrentos
+
+23
+00:01:52,863 --> 00:01:56,700
+em um ser grande, forte e estranho."
+
+24
+00:01:57,284 --> 00:01:59,328
+"O Homem-Retalho.
+
+25
+00:02:00,037 --> 00:02:05,125
+Mas ele se virou contra Mykola Maluco
+e o triturou em pedaços."
+
+26
+00:02:05,876 --> 00:02:11,798
+"E então saiu para o mundo.
+Mas seu corpo continuava se desfazendo."
+
+27
+00:02:11,882 --> 00:02:16,553
+<i>"Até hoje, o Homem-Retalho vaga pelas ruas</i>
+
+28
+00:02:16,637 --> 00:02:21,642
+<i>procurando crianças para matar,</i>
+<i>cortar e costurar em seu corpo."</i>
+
+29
+00:02:26,563 --> 00:02:28,940
+<i>O Homem-Retalho</i>
+
+30
+00:02:29,024 --> 00:02:34,821
+Estamos em um novo mundo agora,
+com novas vidas. Pare de reclamar!
+
+31
+00:02:39,368 --> 00:02:44,039
+Por que não pode agradecer?
+Ao menos uma vez?
+
+32
+00:02:46,708 --> 00:02:48,960
+Sabe qual é seu problema?
+
+33
+00:02:50,212 --> 00:02:54,841
+Você não sabe apreciar o que tem.
+
+34
+00:02:55,592 --> 00:02:58,845
+Desculpe, Jakub, eu tenho tanta sorte.
+
+35
+00:02:59,596 --> 00:03:02,391
+Você tem razão, eu vou melhorar.
+
+36
+00:03:04,267 --> 00:03:08,814
+Não me importa o que faça.
+Pare de reclamar!
+
+37
+00:03:13,068 --> 00:03:14,653
+Temos que nos unir, Rei.
+
+38
+00:03:15,404 --> 00:03:19,408
+Nunca enfrente os monstros sozinha.
+
+39
+00:03:24,413 --> 00:03:29,918
+<i>O Homem-Retalho virá pegar você</i>
+
+40
+00:03:44,558 --> 00:03:46,601
+Chegou um convite para você.
+
+41
+00:03:46,685 --> 00:03:48,478
+Duvido que quisesse recebê-lo no banho.
+
+42
+00:03:48,562 --> 00:03:52,399
+Estão requerendo sua presença
+na Casa Toque do Sol esta noite.
+
+43
+00:03:54,109 --> 00:03:56,611
+E tenho outras notícias pertinentes.
+
+44
+00:03:57,404 --> 00:04:00,699
+Miriam Bancroft não foi
+a única a vir ontem à noite.
+
+45
+00:04:00,782 --> 00:04:03,452
+A privacidade do quarto foi comprometida.
+
+46
+00:04:03,535 --> 00:04:05,954
+Vulgarmente falando, fui hackeado.
+
+47
+00:04:06,037 --> 00:04:10,083
+Não sei explicar como o drone enganou
+meus protocolos de segurança,
+
+48
+00:04:10,167 --> 00:04:13,044
+mas ele recolheu material.
+
+49
+00:04:14,379 --> 00:04:16,256
+Só pode estar brincando.
+
+50
+00:04:20,927 --> 00:04:21,803
+CHAMADA RECEBIDA
+
+51
+00:04:21,887 --> 00:04:25,682
+<i>Sr. Kovacs, mandei um convite</i>
+<i>há algumas horas.</i>
+
+52
+00:04:25,766 --> 00:04:26,933
+<i>Por que não respondeu?</i>
+
+53
+00:04:27,017 --> 00:04:29,102
+Não gosto de festas.
+
+54
+00:04:29,686 --> 00:04:31,855
+<i>É uma festa só no nome.</i>
+
+55
+00:04:31,938 --> 00:04:36,568
+A lista de convidados inclui todos
+que podem ter motivo para me querer morto.
+
+56
+00:04:36,651 --> 00:04:40,655
+Fez uma lista de todo mundo que quer
+te matar e os convidou para jantar?
+
+57
+00:04:40,739 --> 00:04:43,450
+<i>Eles não viriam aqui</i>
+<i>para ser interrogados.</i>
+
+58
+00:04:43,533 --> 00:04:46,745
+E aí, bato papo com eles na fila do bufê?
+Preciso explicar os riscos?
+
+59
+00:04:46,828 --> 00:04:50,081
+Você vai sobreviver
+a três pratos e um digestivo.
+
+60
+00:04:51,166 --> 00:04:52,501
+<i>Vejo você às 19h.</i>
+
+61
+00:04:53,335 --> 00:04:57,005
+Acha que ele está ciente
+da sua conduta com a Sra. Bancroft?
+
+62
+00:04:57,088 --> 00:05:00,050
+Pode tentar matar dois coelhos
+com uma cajadada só.
+
+63
+00:05:00,133 --> 00:05:02,886
+Não vou àquela festa com um alvo na testa.
+
+64
+00:05:02,969 --> 00:05:05,013
+Eu o acompanharia com prazer se pudesse.
+
+65
+00:05:05,096 --> 00:05:07,724
+-Mas não posso sair daqui.
+-Como assim?
+
+66
+00:05:07,808 --> 00:05:10,101
+Minha rede neural é parte do prédio.
+
+67
+00:05:10,185 --> 00:05:14,147
+O hotel é como um corpo,
+e eu sou o cérebro.
+
+68
+00:05:14,231 --> 00:05:15,565
+Eu sou o hotel.
+
+69
+00:05:17,025 --> 00:05:18,610
+O hotel sou eu.
+
+70
+00:05:18,693 --> 00:05:21,279
+O que o deixa sem reforços.
+
+71
+00:05:21,363 --> 00:05:23,865
+Você como parceiro não era
+o que eu tinha em mente.
+
+72
+00:05:23,949 --> 00:05:28,119
+Você é tipo um programa de computador?
+Pode ir aonde quiser na matriz?
+
+73
+00:05:28,203 --> 00:05:31,623
+Posso ir para qualquer lugar
+onde a informação flua.
+
+74
+00:05:31,706 --> 00:05:33,375
+Quais protocolos virtuais tem à mão?
+
+75
+00:05:33,458 --> 00:05:37,212
+-Uma grande variedade, que vai...
+-Psicocirurgia terapêutica?
+
+76
+00:05:37,295 --> 00:05:40,131
+Nunca fui atrás dessa licença,
+mas posso fazê-lo.
+
+77
+00:05:40,215 --> 00:05:41,341
+Quanto tempo levará?
+
+78
+00:05:42,384 --> 00:05:43,218
+Pronto.
+
+79
+00:05:43,843 --> 00:05:47,389
+-Você é o paciente?
+-Não.
+
+80
+00:05:49,057 --> 00:05:52,352
+DELEGACIA BCPD FELL ST
+
+81
+00:05:52,435 --> 00:05:54,271
+-Oi.
+-Vou cuidar disso agora.
+
+82
+00:05:58,733 --> 00:06:02,362
+Sra. Prescott. A que devo esse desprazer?
+
+83
+00:06:02,445 --> 00:06:04,781
+Detetive Ortega. Bom revê-la.
+
+84
+00:06:04,864 --> 00:06:06,992
+Pare com isso. 
+Só vim convidá-la para jantar.
+
+85
+00:06:07,492 --> 00:06:08,660
+Prefiro morrer de fome.
+
+86
+00:06:08,743 --> 00:06:12,163
+Sinto muito, mas você não tem escolha.
+Capitão, poderia...
+
+87
+00:06:12,247 --> 00:06:16,710
+Sra. Prescott pediu uma licença
+para um evento de Dano Orgânico Extremo
+
+88
+00:06:16,793 --> 00:06:18,295
+na Casa Toque do Sol esta noite.
+
+89
+00:06:18,378 --> 00:06:20,547
+A licença foi aprovada há duas horas.
+
+90
+00:06:21,715 --> 00:06:24,342
+Matusas de merda.
+Ninguém consegue uma licença tão rápido.
+
+91
+00:06:24,426 --> 00:06:28,471
+Seja como for, Sr. Bancroft quer
+que você monitore o evento
+
+92
+00:06:28,555 --> 00:06:30,724
+em nome da Polícia de Bay City.
+
+93
+00:06:30,807 --> 00:06:32,183
+É o trabalho de um Uni.
+
+94
+00:06:32,267 --> 00:06:36,229
+Você foi especificamente solicitada.
+É uma honra.
+
+95
+00:06:36,313 --> 00:06:40,984
+Obrigada, capitão.
+Nos vemos hoje à noite, detetive.
+
+96
+00:06:45,864 --> 00:06:47,782
+Sério? Tenho casos a resolver.
+
+97
+00:06:47,866 --> 00:06:51,161
+Trabalhe neles amanhã.
+Hoje você vai à luta.
+
+98
+00:06:51,244 --> 00:06:53,330
+O que quer que haja entre você e Bancroft,
+
+99
+00:06:53,413 --> 00:06:55,582
+tem que deixar de lado.
+Pelo bem de todos.
+
+100
+00:06:56,207 --> 00:06:59,461
+Então aceite a honra de ser convidada
+para o Aerium
+
+101
+00:06:59,544 --> 00:07:02,088
+em nome de todos nós, humildes.
+
+102
+00:07:02,172 --> 00:07:04,758
+Sorria, acene e caia fora.
+
+103
+00:07:27,364 --> 00:07:29,616
+-O cara que eu procurava.
+-Cale a boca e saia.
+
+104
+00:07:29,699 --> 00:07:32,702
+Podemos avançar,
+ou tenho que te apagar de novo?
+
+105
+00:07:32,786 --> 00:07:33,662
+Estou preparado...
+
+106
+00:07:34,454 --> 00:07:37,415
+Se quer perder uma luta,
+fale sobre ela antes.
+
+107
+00:07:37,499 --> 00:07:40,627
+É essa bobagem
+de lavagem cerebral terrorista?
+
+108
+00:07:40,710 --> 00:07:44,130
+Não, é um conselho do cara
+que acabou de te desarmar.
+
+109
+00:07:47,634 --> 00:07:50,720
+-O que você quer?
+-Te oferecer um emprego lucrativo.
+
+110
+00:07:50,804 --> 00:07:54,224
+Que lhe seria bem útil.
+Você foi um ótimo reforço.
+
+111
+00:07:55,934 --> 00:08:00,271
+Vamos fazer uma troca.
+Você me ajuda, e eu ajudo Lizzie.
+
+112
+00:08:00,355 --> 00:08:02,440
+Não vai chegar perto
+da minha filha de novo.
+
+113
+00:08:02,524 --> 00:08:04,317
+Ela precisa de psicocirurgia.
+
+114
+00:08:06,111 --> 00:08:08,279
+-Quem vai pagar?
+-Boto na conta do Bancroft.
+
+115
+00:08:08,363 --> 00:08:10,156
+Não aceito nada daquele merda.
+
+116
+00:08:11,032 --> 00:08:12,617
+Não foi ele que a matou.
+
+117
+00:08:13,576 --> 00:08:15,245
+Ele curte morte consensual.
+
+118
+00:08:15,328 --> 00:08:18,456
+-Ele repõe as capas que mata.
+-É maluquice.
+
+119
+00:08:18,540 --> 00:08:21,584
+Sim. Mas isso não faz dele culpado.
+
+120
+00:08:21,668 --> 00:08:23,420
+Muito menos inocente.
+
+121
+00:08:24,379 --> 00:08:25,630
+Vamos fazer um acordo.
+
+122
+00:08:25,714 --> 00:08:27,382
+Investigo o que houve com Lizzie
+
+123
+00:08:27,465 --> 00:08:31,302
+e, se eu descobrir que Bancroft é culpado,
+e você quiser estourar os miolos dele,
+
+124
+00:08:32,095 --> 00:08:35,015
+não vou impedi-lo.
+Ponho a arma na sua mão.
+
+125
+00:08:35,974 --> 00:08:37,267
+Você não liga para Lizzie.
+
+126
+00:08:41,938 --> 00:08:44,065
+Não leve isso para o lado pessoal...
+
+127
+00:08:47,027 --> 00:08:48,945
+mas não ligo para ninguém.
+
+128
+00:08:52,741 --> 00:08:54,993
+Mas, se eu conseguir
+o que quero, ajudo ela.
+
+129
+00:09:00,373 --> 00:09:01,207
+Como?
+
+130
+00:09:01,791 --> 00:09:06,629
+HOTEL O CORVO
+
+131
+00:09:17,348 --> 00:09:20,060
+-Saudações.
+-Sério, pare com isso.
+
+132
+00:09:20,143 --> 00:09:22,520
+Trouxe um amigo para meu humilde hotel.
+
+133
+00:09:22,604 --> 00:09:25,982
+Saudações, senhor. É uma honra conhecê-lo.
+
+134
+00:09:26,066 --> 00:09:27,609
+-Quem é?
+-Sou parceiro dele.
+
+135
+00:09:27,692 --> 00:09:28,610
+Não.
+
+136
+00:09:28,693 --> 00:09:31,780
+-Sou seu estimado colega.
+-Não de novo.
+
+137
+00:09:31,863 --> 00:09:34,282
+Sou proprietário do hotel.
+
+138
+00:09:34,365 --> 00:09:37,660
+Ele é o hotel. Este é Poe.
+
+139
+00:09:37,744 --> 00:09:40,830
+Eu sabia!
+É um desses lugares bizarros de IA?
+
+140
+00:09:40,914 --> 00:09:42,165
+Você está em O Corvo.
+
+141
+00:09:42,832 --> 00:09:47,420
+Um estabelecimento de reputação
+inigualável e qualidade atemporal.
+
+142
+00:09:47,504 --> 00:09:51,549
+Quarto extra. Virtual ou não.
+Explique a ele, Poe.
+
+143
+00:09:51,633 --> 00:09:55,470
+Eu me qualifiquei em psicocirurgia
+para Protocolo de Nível Nove
+
+144
+00:09:55,553 --> 00:09:58,556
+e preparei um quarto de RV para sua filha.
+
+145
+00:09:58,640 --> 00:10:00,517
+Ela não pode ter contato humano.
+
+146
+00:10:00,600 --> 00:10:04,312
+Sempre que ela é ressuscitada,
+seu estado mental se deteriora.
+
+147
+00:10:04,395 --> 00:10:06,856
+-Está dizendo...
+-Posso curar a mente dela.
+
+148
+00:10:06,940 --> 00:10:08,983
+Mas você não vai poder vê-la.
+
+149
+00:10:10,110 --> 00:10:11,111
+Por quanto tempo?
+
+150
+00:10:11,194 --> 00:10:15,615
+Não posso dizer até analisá-la.
+Mas seu estado parece grave.
+
+151
+00:10:16,950 --> 00:10:19,077
+-Não poderei falar com ela?
+-Não.
+
+152
+00:10:20,745 --> 00:10:21,579
+De jeito nenhum.
+
+153
+00:10:24,165 --> 00:10:24,999
+Você autoriza?
+
+154
+00:10:36,302 --> 00:10:38,596
+No campo de batalha, estamos sob fogo.
+
+155
+00:10:39,139 --> 00:10:41,975
+Um cara se machuca,
+mas é muito pesado para carregar.
+
+156
+00:10:42,058 --> 00:10:45,311
+Você arranca o cartucho dele
+e segue em frente.
+
+157
+00:10:45,395 --> 00:10:48,606
+-Mata a capa para salvar a vida.
+-Não entendo sua guerra gráfica...
+
+158
+00:10:48,690 --> 00:10:53,695
+Na minha opinião, às vezes você tem
+que se queimar para tirar alguém do fogo.
+
+159
+00:10:56,114 --> 00:10:57,574
+Eu autorizo.
+
+160
+00:11:03,663 --> 00:11:06,249
+Não vai se arrepender.
+
+161
+00:11:06,332 --> 00:11:11,337
+Se me arrepender, vou reduzir
+este lugar a uma pilha de destroços,
+
+162
+00:11:11,421 --> 00:11:13,339
+e você vai junto.
+
+163
+00:11:16,426 --> 00:11:17,260
+Ótimo.
+
+164
+00:11:21,556 --> 00:11:22,932
+O que você quer de mim?
+
+165
+00:11:23,016 --> 00:11:25,393
+Você parece ter amigos
+em posições inferiores.
+
+166
+00:11:25,977 --> 00:11:27,478
+Preciso de um equipamento.
+
+167
+00:11:34,319 --> 00:11:35,236
+O que está fazendo?
+
+168
+00:11:36,446 --> 00:11:37,697
+Detectando.
+
+169
+00:11:37,780 --> 00:11:39,365
+É meu trabalho, afinal.
+
+170
+00:11:39,449 --> 00:11:41,659
+Certo, pense nisso.
+
+171
+00:11:41,743 --> 00:11:43,703
+O que sabemos sobre Mary Lou Henchy?
+
+172
+00:11:43,786 --> 00:11:46,122
+O quê? Eles acharam o corpo.
+
+173
+00:11:46,205 --> 00:11:48,374
+Tanaka tinha razão. A mãe ficou feliz.
+
+174
+00:11:48,458 --> 00:11:49,834
+Mas não autorizamos.
+
+175
+00:11:49,918 --> 00:11:52,337
+Isso é porque, como você falou,
+
+176
+00:11:52,420 --> 00:11:54,047
+o caso não é seu. Esqueça.
+
+177
+00:11:54,130 --> 00:11:56,049
+O que sabemos é
+
+178
+00:11:56,132 --> 00:12:00,219
+que ela caiu do céu vinda do nada.
+O que é impossível.
+
+179
+00:12:00,303 --> 00:12:03,348
+Deve ter sido jogada de um avião...
+
+180
+00:12:03,431 --> 00:12:04,641
+O caso não é seu.
+
+181
+00:12:04,724 --> 00:12:07,018
+Ela foi jogada de algum lugar alto.
+
+182
+00:12:07,101 --> 00:12:10,271
+Muita gente que mora lá em cima
+estará na Toque do Sol esta noite.
+
+183
+00:12:10,355 --> 00:12:14,275
+Tantas vezes tentamos interrogar Matusas
+e fomos barrados,
+
+184
+00:12:14,359 --> 00:12:18,029
+e agora... fui convidada
+a uma casa cheia deles.
+
+185
+00:12:21,282 --> 00:12:25,536
+Sabe, seu pai me pediu
+para cuidar de você antes de morrer.
+
+186
+00:12:25,620 --> 00:12:30,124
+Perfeito, você pode acessar meu ONI
+e escanear remotamente os veículos.
+
+187
+00:12:30,208 --> 00:12:31,459
+De jeito nenhum.
+
+188
+00:12:32,835 --> 00:12:36,381
+Por que tem a foto da Ertekin, 
+a Presidente do Supremo, no seu monitor?
+
+189
+00:12:36,464 --> 00:12:41,427
+Porque ela vai estar na casa do Bancroft
+esta noite, junto com vários Matusas.
+
+190
+00:12:41,511 --> 00:12:45,598
+É a lista de convidados. Ou seja,
+lista de suspeitos da morte de Mary Lou.
+
+191
+00:12:46,432 --> 00:12:47,976
+Vai ser ótimo.
+
+192
+00:12:48,601 --> 00:12:49,936
+Vou comprar uma roupa.
+
+193
+00:12:50,019 --> 00:12:53,773
+<i>Boas notícias, pessoal.</i>
+<i>É época das caveiras de açúcar de novo.</i>
+
+194
+00:12:53,856 --> 00:12:57,860
+<i>O Dia de Finados é amanhã,</i>
+<i>e os preparativos estão a toda.</i>
+
+195
+00:12:58,569 --> 00:13:02,532
+Takeshi Kovacs?
+Que tipo de nome esquizofrênico é esse?
+
+196
+00:13:02,615 --> 00:13:04,617
+É eslavo e japonês.
+
+197
+00:13:05,243 --> 00:13:08,079
+No caso dos meus pais,
+uma combinação infernal.
+
+198
+00:13:09,455 --> 00:13:11,708
+Pronto. Aqui está.
+
+199
+00:13:11,791 --> 00:13:14,460
+Certo, pessoal. Sejam bonzinhos.
+
+200
+00:13:15,086 --> 00:13:17,922
+-Toma.
+-Do que está falando?
+
+201
+00:13:18,006 --> 00:13:20,717
+Preciso de armas, não de chocolate.
+
+202
+00:13:20,800 --> 00:13:23,469
+Teor de fruta de 0,16%.
+
+203
+00:13:24,220 --> 00:13:25,221
+Continue.
+
+204
+00:13:27,015 --> 00:13:28,891
+-Verificação de crédito.
+-Foda-se.
+
+205
+00:13:28,975 --> 00:13:32,020
+Seu fuzileiro de merda. Não faço fiado.
+
+206
+00:13:32,687 --> 00:13:33,813
+Nada para você.
+
+207
+00:13:35,648 --> 00:13:38,735
+<i>Crédito aprovado. Nível berílio.</i>
+
+208
+00:13:38,818 --> 00:13:42,280
+Isso aí, filho da mãe. Nível berílio.
+
+209
+00:13:58,546 --> 00:14:01,090
+-Considere essas belezuras clássicas.
+-Não.
+
+210
+00:14:01,716 --> 00:14:04,177
+Se eu quisesse algo barato e legal,
+iria ao HugeMart.
+
+211
+00:14:04,260 --> 00:14:07,430
+Não tente empurrar seu estoque
+e mostre as coisas boas.
+
+212
+00:14:18,107 --> 00:14:20,068
+Uma flechette Ingram 40.
+
+213
+00:14:20,151 --> 00:14:21,986
+É isso que eu queria ver.
+
+214
+00:14:23,321 --> 00:14:25,490
+-Protótipo?
+-Em desenvolvimento no CCAT.
+
+215
+00:14:25,573 --> 00:14:27,617
+Usa munição perfurante encapsulada.
+
+216
+00:14:27,700 --> 00:14:30,661
+Clipe com dez balas.
+Tecnologia de localização.
+
+217
+00:14:30,745 --> 00:14:33,581
+-Não ponha a mão aí.
+-Por quê?
+
+218
+00:14:35,249 --> 00:14:36,542
+Vou te mostrar.
+
+219
+00:14:37,043 --> 00:14:38,044
+Filho da...
+
+220
+00:14:40,296 --> 00:14:41,714
+Abaixe a arma.
+
+221
+00:14:41,798 --> 00:14:43,007
+Vocês dois são fofos.
+
+222
+00:14:44,300 --> 00:14:45,760
+Não levante.
+
+223
+00:14:48,554 --> 00:14:49,764
+É por isso.
+
+224
+00:14:49,847 --> 00:14:52,475
+Revertendo o gerador,
+ela localiza a câmara de plasma
+
+225
+00:14:52,558 --> 00:14:54,727
+e volta para a arma.
+
+226
+00:14:54,811 --> 00:14:57,605
+Poderia ter me espetado
+como um <i>kebab.</i> Duas vezes.
+
+227
+00:14:58,439 --> 00:14:59,357
+Vou levar.
+
+228
+00:14:59,440 --> 00:15:03,319
+Bela arma feita por encomenda. Posso?
+
+229
+00:15:05,863 --> 00:15:08,116
+Nemex modificada de segunda série?
+
+230
+00:15:11,202 --> 00:15:14,122
+-Onde conseguiu isso?
+-Com um cara que não precisa mais dela.
+
+231
+00:15:15,039 --> 00:15:16,666
+-Justo.
+-Você tem lâminas?
+
+232
+00:15:17,667 --> 00:15:18,751
+Sim.
+
+233
+00:15:21,462 --> 00:15:22,630
+Faca Tebbit.
+
+234
+00:15:23,297 --> 00:15:25,883
+Lâmina de tântalo.
+Pedra na empunhadura para fazer peso.
+
+235
+00:15:25,967 --> 00:15:28,469
+-Arma biológica?
+-Revestido com Ceifador.
+
+236
+00:15:28,553 --> 00:15:32,181
+Betatanatina. Produzida
+para experiências de quase-morte.
+
+237
+00:15:32,265 --> 00:15:34,350
+Quanto mais fundo esfaquear, maior a dose.
+
+238
+00:15:34,934 --> 00:15:37,770
+Pode incluir. E mais o que ele quiser.
+
+239
+00:15:38,438 --> 00:15:41,816
+Quero uma... Sunjet 2320.
+
+240
+00:15:45,278 --> 00:15:46,779
+Clássicos nunca saem de moda.
+
+241
+00:15:47,947 --> 00:15:51,200
+Tem que aprender a fraqueza das armas.
+
+242
+00:16:10,052 --> 00:16:11,596
+Sua capa é uma ferramenta.
+
+243
+00:16:11,679 --> 00:16:15,850
+Ela não me controla. Eu a controlo.
+
+244
+00:16:15,933 --> 00:16:20,521
+A força do lobo está na matilha,
+não nos caninos e na velocidade.
+
+245
+00:16:20,605 --> 00:16:21,439
+<i>A matilha.</i>
+
+246
+00:16:21,522 --> 00:16:24,859
+<i>Não importa o mundo em que esteja,</i>
+<i>junte uma matilha.</i>
+
+247
+00:16:24,942 --> 00:16:28,321
+<i>Ache maneiras de inspirar lealdade</i>
+<i>em pessoas do local.</i>
+
+248
+00:16:30,281 --> 00:16:33,534
+<i>Mesmo que muitos sejam dispensáveis.</i>
+
+249
+00:16:34,118 --> 00:16:35,578
+Somos Emissários.
+
+250
+00:16:36,996 --> 00:16:38,539
+Aceitamos o que nos é dado.
+
+251
+00:17:23,417 --> 00:17:24,710
+Por que tanto rosa?
+
+252
+00:17:24,794 --> 00:17:27,838
+É a ideia de Poe de algo não ameaçador.
+
+253
+00:17:28,339 --> 00:17:30,049
+Parece o interior de um estômago.
+
+254
+00:17:43,396 --> 00:17:44,939
+Ela não está dizendo nada.
+
+255
+00:17:45,773 --> 00:17:47,191
+Não está funcionando.
+
+256
+00:18:00,121 --> 00:18:04,667
+Estou aqui para o que desejar.
+Você tem meu mais solene juramento.
+
+257
+00:18:07,086 --> 00:18:10,464
+Eles levaram a mamãe
+porque ela roubou estrelas do céu.
+
+258
+00:18:11,799 --> 00:18:15,344
+<i>Arrancaram a alma dela</i>
+<i>pelos olhos e a congelaram.</i>
+
+259
+00:18:16,178 --> 00:18:18,139
+<i>Agora ela dá piruetas por aí</i>
+
+260
+00:18:18,222 --> 00:18:20,099
+como uma dançarina no gelo.
+
+261
+00:18:21,559 --> 00:18:23,477
+Tem pingentes de gelo no cabelo.
+
+262
+00:18:25,354 --> 00:18:27,690
+Não vou deixar nada machucá-la aqui.
+
+263
+00:18:39,744 --> 00:18:42,121
+Não. Aonde eles foram?
+
+264
+00:18:44,832 --> 00:18:47,168
+Ela falou.
+
+265
+00:18:48,377 --> 00:18:50,921
+Falou. Ele está fazendo progresso.
+
+266
+00:18:53,549 --> 00:18:54,884
+Ele nem é humano.
+
+267
+00:18:54,967 --> 00:18:57,803
+-O que estou fazendo?
+-A coisa certa.
+
+268
+00:18:58,554 --> 00:19:01,223
+Ela é uma hóspede agora.
+Ele morreria para protegê-la.
+
+269
+00:19:02,683 --> 00:19:05,144
+Poe consegue se concentrar bem.
+
+270
+00:19:05,728 --> 00:19:09,065
+Ela está segura.
+Mantive minha parte do acordo.
+
+271
+00:19:10,024 --> 00:19:13,277
+Quer que eu vá
+para a casa do Bancroft com você?
+
+272
+00:19:13,361 --> 00:19:16,364
+Não sei no que estou me metendo.
+Preciso de cobertura.
+
+273
+00:19:17,198 --> 00:19:18,699
+Compras e uma noite fora.
+
+274
+00:19:19,575 --> 00:19:20,743
+Precisa de uma namorada.
+
+275
+00:19:20,826 --> 00:19:23,412
+Não vou levá-lo comigo
+para você matar Bancroft.
+
+276
+00:19:23,496 --> 00:19:25,623
+-Você vai me proteger.
+-Entendi.
+
+277
+00:19:26,707 --> 00:19:28,793
+Nada além disso.
+
+278
+00:19:29,293 --> 00:19:30,294
+Eu entendi.
+
+279
+00:19:58,030 --> 00:20:00,032
+Preciso revistar a mochila.
+
+280
+00:20:04,370 --> 00:20:07,707
+Eu teria deixado no carro,
+mas não confio nessa vizinhança.
+
+281
+00:20:25,641 --> 00:20:27,268
+Bebida, senhores?
+
+282
+00:20:32,440 --> 00:20:33,858
+Uniforme de garçom<i>?</i>
+
+283
+00:20:33,941 --> 00:20:35,568
+<i>Desculpe, senhor.</i>
+
+284
+00:20:35,651 --> 00:20:38,988
+<i>É o melhor que pude fazer</i>
+<i>em tão pouco tempo.</i>
+
+285
+00:20:43,200 --> 00:20:44,869
+Nada de armas no local.
+
+286
+00:20:47,413 --> 00:20:49,081
+Filho da puta.
+
+287
+00:20:56,505 --> 00:20:58,174
+Gosto do seu estilo.
+
+288
+00:20:59,300 --> 00:21:00,676
+Ou esta é sua "peça única"?
+
+289
+00:21:01,385 --> 00:21:02,553
+O quê?
+
+290
+00:21:02,636 --> 00:21:04,847
+Laurens pediu que trouxessem
+um objeto único.
+
+291
+00:21:04,930 --> 00:21:05,931
+Ele não avisou?
+
+292
+00:21:06,015 --> 00:21:07,725
+Festa temática? Tem 12 anos?
+
+293
+00:21:07,808 --> 00:21:10,019
+Imagino que tenha segundas intenções.
+
+294
+00:21:11,353 --> 00:21:13,397
+Havia um <i>spybot </i>no quarto ontem.
+
+295
+00:21:15,107 --> 00:21:16,567
+Alguém estava nos observando.
+
+296
+00:21:18,027 --> 00:21:19,403
+Sério?
+
+297
+00:21:22,490 --> 00:21:25,409
+Minha linda esposa está divertindo você?
+
+298
+00:21:25,493 --> 00:21:26,786
+Até demais.
+
+299
+00:21:26,869 --> 00:21:31,624
+Uma pena, mas eu e você
+temos negócios a discutir.
+
+300
+00:21:32,333 --> 00:21:33,751
+Me encontre lá em cima.
+
+301
+00:21:34,835 --> 00:21:36,462
+Até logo.
+
+302
+00:21:38,756 --> 00:21:40,090
+Miriam?
+
+303
+00:21:41,884 --> 00:21:42,885
+Cuidado.
+
+304
+00:22:03,322 --> 00:22:06,575
+Todos na lista de convidados
+estão presentes,
+
+305
+00:22:06,659 --> 00:22:08,619
+vamos começar a verificá-los.
+
+306
+00:22:08,702 --> 00:22:11,789
+<i>Só 276 carros aéreos para rastrear.</i>
+
+307
+00:22:11,872 --> 00:22:14,500
+Só precisamos dos registros de voo
+de uma noite.
+
+308
+00:22:14,583 --> 00:22:16,418
+E a maioria estava no chão
+
+309
+00:22:16,502 --> 00:22:18,921
+na hora em que Mary Lou Henchy foi jogada.
+
+310
+00:22:19,672 --> 00:22:21,131
+<i>Vai ser fácil eliminá-los.</i>
+
+311
+00:22:21,215 --> 00:22:22,842
+Claro, não é você fazendo isso.
+
+312
+00:22:22,925 --> 00:22:25,803
+-Pare de reclamar.
+<i>-Não estou reclamando.</i>
+
+313
+00:22:28,389 --> 00:22:30,558
+-Só pode estar brincando.
+<i>-O que foi?</i>
+
+314
+00:22:30,641 --> 00:22:35,187
+-O filho da mãe do Kovacs veio.
+<i>-Tente relaxar. Tome um drinque.</i>
+
+315
+00:22:35,271 --> 00:22:37,940
+<i>-Eles têm bebidas boas aí.</i>
+-Você nem bebe.
+
+316
+00:22:38,023 --> 00:22:39,692
+Sou muçulmano, não monge.
+
+317
+00:22:39,775 --> 00:22:42,820
+<i>Não me incomodo se vocês, infiéis,</i>
+<i>quiserem se intoxicar,</i>
+
+318
+00:22:42,903 --> 00:22:45,489
+<i>principalmente se a fizer esquecer</i>
+<i>suas teorias malucas.</i>
+
+319
+00:22:46,282 --> 00:22:48,033
+Obrigada.
+
+320
+00:22:48,784 --> 00:22:50,160
+<i>De nada. Estou aqui para isso.</i>
+
+321
+00:22:56,542 --> 00:23:01,630
+Kristin Ortega, Polícia de BC.
+Dano Orgânico.
+
+322
+00:23:01,714 --> 00:23:03,632
+São policiais de rua que fazem isso.
+
+323
+00:23:03,716 --> 00:23:06,135
+É, nem me lembre. Licenças de luta?
+
+324
+00:23:08,387 --> 00:23:09,930
+Tire o anel.
+
+325
+00:23:10,931 --> 00:23:13,892
+Minha última capa foi morta,
+esta tem mãos maiores.
+
+326
+00:23:13,976 --> 00:23:17,062
+-Mas é uma aliança, então...
+-Obriguei ele a enfiá-la.
+
+327
+00:23:18,522 --> 00:23:19,857
+Vocês são casados?
+
+328
+00:23:19,940 --> 00:23:22,109
+Temos que sustentar as crianças.
+
+329
+00:23:22,776 --> 00:23:25,446
+Ei, tenente. Gostei do uniforme.
+
+330
+00:23:27,114 --> 00:23:29,700
+-Quem são esses?
+-Eles lutam até a morte.
+
+331
+00:23:29,783 --> 00:23:32,995
+O vencedor ganha um <i>upgrade.</i>
+O perdedor, uma capa pior.
+
+332
+00:23:33,078 --> 00:23:34,913
+-E são casados.
+-Temos filhos.
+
+333
+00:23:34,997 --> 00:23:36,123
+Quer ver uma foto?
+
+334
+00:23:36,206 --> 00:23:38,667
+O quê? Vocês voltam para casa
+como estranhos?
+
+335
+00:23:38,751 --> 00:23:39,627
+Estão acostumados.
+
+336
+00:23:40,210 --> 00:23:42,421
+-Quantos anos eles têm?
+-Cinco e sete.
+
+337
+00:23:42,504 --> 00:23:44,673
+-Não estão acostumados.
+-Não estão acostumados.
+
+338
+00:23:47,176 --> 00:23:48,594
+Preciso de uma bebida.
+
+339
+00:23:57,978 --> 00:23:59,605
+Por que está aqui?
+
+340
+00:23:59,688 --> 00:24:01,565
+Já disse, não tem nada aqui para você.
+
+341
+00:24:01,649 --> 00:24:03,359
+Espiaram meu quarto ontem.
+
+342
+00:24:03,442 --> 00:24:05,069
+Me parece alguma coisa.
+
+343
+00:24:05,152 --> 00:24:08,113
+Acha que alguém aqui
+se daria ao trabalho de espiá-lo?
+
+344
+00:24:08,197 --> 00:24:10,115
+Ou a mim, ou a Miriam Bancroft.
+
+345
+00:24:11,116 --> 00:24:14,620
+Miriam estava no seu quarto
+ontem à noite? Por quê?
+
+346
+00:24:15,996 --> 00:24:17,831
+Procurando um trunfo.
+
+347
+00:24:17,915 --> 00:24:20,959
+E você deu a ela? Um trunfo?
+
+348
+00:24:21,669 --> 00:24:24,004
+Achei que fosse se interessar
+pela parte do espião.
+
+349
+00:24:24,088 --> 00:24:25,422
+Dormiu com uma suspeita?
+
+350
+00:24:25,506 --> 00:24:27,341
+Não há suspeitos se não há caso.
+
+351
+00:24:27,424 --> 00:24:28,884
+Você não negou.
+
+352
+00:24:30,177 --> 00:24:31,470
+Fique fora do meu caminho.
+
+353
+00:24:32,805 --> 00:24:33,973
+Sem problemas.
+
+354
+00:25:20,811 --> 00:25:22,354
+Quer me contar algo?
+
+355
+00:25:23,272 --> 00:25:26,525
+Sim, eu estava pensando
+em qual dos nossos convidados
+
+356
+00:25:26,608 --> 00:25:28,402
+você deveria prestar atenção
+
+357
+00:25:28,485 --> 00:25:30,362
+e quais não são suspeitos.
+
+358
+00:25:30,446 --> 00:25:34,533
+Achei que fosse me contar
+do seu hábito de ir a biocabines
+
+359
+00:25:34,616 --> 00:25:36,243
+e espancar mulheres até a morte?
+
+360
+00:25:36,326 --> 00:25:39,538
+Não achei que fosse importante.
+
+361
+00:25:39,621 --> 00:25:45,878
+Sim, passei algum tempo pagando
+por atividades sexuais
+
+362
+00:25:45,961 --> 00:25:49,631
+nos mundos virtual e real.
+
+363
+00:25:50,591 --> 00:25:53,260
+Mas também passei tempo apostando.
+
+364
+00:25:53,343 --> 00:25:56,096
+Me dedicando à minha paixão
+por briga com facas.
+
+365
+00:25:56,180 --> 00:25:57,973
+Com certeza tenho inimigos lá.
+
+366
+00:25:58,056 --> 00:26:00,517
+Mas nunca matei ninguém.
+
+367
+00:26:00,601 --> 00:26:05,898
+Diferente de você, tenho meus limites
+e tomo cuidado para não os ultrapassar.
+
+368
+00:26:06,815 --> 00:26:09,109
+-Melhor tomar cuidado.
+-Você está bem?
+
+369
+00:26:09,193 --> 00:26:10,652
+Isaac! Vamos!
+
+370
+00:26:11,612 --> 00:26:14,448
+Meu filho não sabe beber.
+
+371
+00:26:14,531 --> 00:26:16,325
+Talvez ele o tenha matado.
+
+372
+00:26:16,408 --> 00:26:18,619
+Isaac? Quem dera ele tivesse coragem.
+
+373
+00:26:18,702 --> 00:26:20,913
+Me pergunto o que fiz de errado.
+
+374
+00:26:20,996 --> 00:26:23,081
+-Dei a ele todas as vantagens.
+-Menos uma.
+
+375
+00:26:23,165 --> 00:26:25,793
+Há uma ordem natural
+para nascimentos e mortes.
+
+376
+00:26:25,876 --> 00:26:29,546
+Menino virando homem. Você a interrompeu.
+
+377
+00:26:29,630 --> 00:26:33,926
+Ordem natural?
+Você fala como um daqueles neocatólicos.
+
+378
+00:26:35,052 --> 00:26:37,971
+Perdemos camaradas, Sr. Kovacs.
+
+379
+00:26:38,972 --> 00:26:42,726
+Pessoas com quem você se importava,
+ou até amava.
+
+380
+00:26:42,810 --> 00:26:45,854
+Se tivesse nascido nesta época,
+poderia tê-los de volta.
+
+381
+00:26:45,938 --> 00:26:49,358
+Qualquer que fosse o preço,
+você toparia pagá-lo.
+
+382
+00:26:49,441 --> 00:26:52,069
+A morte não é nossa para darmos.
+
+383
+00:26:53,737 --> 00:26:56,448
+Devemos deixar nas mãos de Deus?
+
+384
+00:26:57,991 --> 00:27:02,287
+Sr. Kovacs, não soube? Deus está morto.
+
+385
+00:27:03,789 --> 00:27:05,457
+Tomamos o lugar dele.
+
+386
+00:27:08,293 --> 00:27:12,714
+Se você for um deus,
+para que precisa de mim?
+
+387
+00:27:12,798 --> 00:27:15,884
+Toda divindade tem subordinados.
+
+388
+00:27:15,968 --> 00:27:19,096
+Observe. Absorva.
+
+389
+00:27:19,179 --> 00:27:21,431
+Descubra o que outros deixaram escapar.
+
+390
+00:27:29,231 --> 00:27:32,568
+Ele dá uma festa
+com o cérebro dele de decoração.
+
+391
+00:27:32,651 --> 00:27:35,320
+Melhor notícia do ano? A morte dele.
+
+392
+00:27:35,404 --> 00:27:37,239
+Eu já odiei Laurens.
+
+393
+00:27:37,322 --> 00:27:41,034
+Mas, depois de cem anos,
+a gente percebe que não há vantagem.
+
+394
+00:27:41,118 --> 00:27:46,456
+Vamos ter que passar o resto
+do futuro da humanidade juntos.
+
+395
+00:27:47,332 --> 00:27:48,458
+Com licença.
+
+396
+00:27:50,669 --> 00:27:52,588
+Não acredito que não nos conhecemos.
+
+397
+00:27:52,671 --> 00:27:56,300
+Eu estava fora do mundo.
+Vim acertar uma dívida com Laurens,
+
+398
+00:27:56,383 --> 00:27:58,427
+mas alguém se antecipou.
+
+399
+00:27:58,510 --> 00:27:59,970
+Você não aprova?
+
+400
+00:28:01,388 --> 00:28:04,892
+É assustador
+que um assassino possa nos matar.
+
+401
+00:28:06,310 --> 00:28:07,269
+É doentio.
+
+402
+00:28:07,352 --> 00:28:09,146
+Não acha que ele se matou?
+
+403
+00:28:11,398 --> 00:28:16,278
+Temos que encontrar
+quem quer que o tenha matado para puni-lo
+
+404
+00:28:16,361 --> 00:28:17,905
+ou todos corremos perigo.
+
+405
+00:28:28,373 --> 00:28:31,460
+Abboud, quero que escaneie uma pessoa.
+
+406
+00:28:31,543 --> 00:28:33,754
+<i>O cara na minha frente</i>
+<i>não estava na lista.</i>
+
+407
+00:28:34,922 --> 00:28:35,923
+Não vejo ninguém.
+
+408
+00:28:47,976 --> 00:28:50,520
+Onde você estava?
+Devia estar me protegendo.
+
+409
+00:28:50,604 --> 00:28:54,733
+<i>Esse pessoal parece esponja.</i>
+<i>Tenho que ficar buscando mais bebida.</i>
+
+410
+00:28:54,816 --> 00:28:57,611
+<i>-Está me ouvindo?</i>
+-Não.
+
+411
+00:29:54,126 --> 00:29:55,210
+Meu Deus!
+
+412
+00:30:00,132 --> 00:30:01,300
+Pode nos deixar a sós?
+
+413
+00:30:11,143 --> 00:30:14,396
+Só vai ficar se estiver inconsciente.
+Você decide.
+
+414
+00:30:22,154 --> 00:30:25,324
+-Não pode contar para ninguém.
+-Quem é você?
+
+415
+00:30:26,033 --> 00:30:28,035
+-Você sabe.
+-Sei quem você não é.
+
+416
+00:30:30,412 --> 00:30:32,914
+-Não entendi.
+-Qual é o meu nome?
+
+417
+00:30:39,129 --> 00:30:41,423
+Tudo bem. Eu sou Naomi.
+
+418
+00:30:42,382 --> 00:30:44,384
+A 12ª filha.
+
+419
+00:30:44,468 --> 00:30:46,094
+E você?
+
+420
+00:30:46,178 --> 00:30:48,347
+Eu me pergunto
+por que usa a capa da sua mãe?
+
+421
+00:30:50,724 --> 00:30:52,434
+Os clones dela são de ponta.
+
+422
+00:30:52,517 --> 00:30:54,144
+Como não os usar?
+
+423
+00:30:54,227 --> 00:30:56,813
+Só estou me divertindo.
+
+424
+00:30:56,897 --> 00:31:01,234
+E amigos como Curtis
+se divertem ainda mais.
+
+425
+00:31:01,318 --> 00:31:03,987
+A arma que matou seu pai
+estava trancada em um cofre
+
+426
+00:31:04,071 --> 00:31:05,489
+que só seus pais podiam abrir.
+
+427
+00:31:06,698 --> 00:31:09,993
+Ou uma garota usando o capa da mãe.
+
+428
+00:31:10,077 --> 00:31:13,705
+Primeiro, não sou uma garota.
+Tenho 67 anos.
+
+429
+00:31:13,789 --> 00:31:19,044
+E segundo, se meu pai sofrer
+uma morte real, a família não ganha nada.
+
+430
+00:31:19,127 --> 00:31:20,837
+Está no testamento dele.
+
+431
+00:31:20,921 --> 00:31:25,842
+Se eu o matasse, ficaria sem dinheiro.
+E não quero ficar sem dinheiro.
+
+432
+00:31:27,010 --> 00:31:28,887
+É assim que ele se protege.
+
+433
+00:31:29,971 --> 00:31:32,557
+<i>Crianças que nunca puderam crescer...</i>
+
+434
+00:31:33,141 --> 00:31:36,019
+<i>Ganância não é o único motivo para matar.</i>
+
+435
+00:31:39,189 --> 00:31:41,566
+Com licença... Ele está incomodando você?
+
+436
+00:31:41,650 --> 00:31:43,402
+Eu estava falando!
+
+437
+00:31:43,485 --> 00:31:46,321
+Ele contou uma piada
+sobre um samurai transando
+
+438
+00:31:46,405 --> 00:31:48,031
+com um gato de rua.
+
+439
+00:31:48,115 --> 00:31:53,078
+Era uma metáfora para minha experiência
+com babacas japoneses como você.
+
+440
+00:31:53,161 --> 00:31:55,872
+Seu acordo com o Sr. Bancroft
+não envolve aturar agressões.
+
+441
+00:31:55,956 --> 00:31:57,165
+Sinto muito.
+
+442
+00:31:57,249 --> 00:31:59,334
+O acordo estava sendo elaborado há meses.
+
+443
+00:31:59,418 --> 00:32:00,836
+Ele não vai desfazê-lo.
+
+444
+00:32:03,004 --> 00:32:04,214
+Com licença.
+
+445
+00:32:04,297 --> 00:32:05,924
+Me solta!
+
+446
+00:32:10,512 --> 00:32:13,306
+Quanto precisa beber
+para tentar matar seu pai?
+
+447
+00:32:14,516 --> 00:32:17,602
+Não sou burro. Ele tem <i>um backup. </i>
+Todos temos.
+
+448
+00:32:17,686 --> 00:32:19,813
+Sr. Kovacs, o que está fazendo?
+
+449
+00:32:19,896 --> 00:32:20,730
+Isaac, tudo bem?
+
+450
+00:32:22,149 --> 00:32:23,984
+Você é maluco, sabia?
+
+451
+00:32:28,572 --> 00:32:33,243
+Eu esperava algo mais impressionante
+do que empurrar um cara mimado na parede.
+
+452
+00:32:33,326 --> 00:32:37,247
+-Acho que me enganei sobre você.
+-É provável, eu não te conheço.
+
+453
+00:32:37,330 --> 00:32:40,459
+Clarissa Severin.
+Negocio artes e antiguidades.
+
+454
+00:32:40,542 --> 00:32:42,085
+E você é o Emissário.
+
+455
+00:32:43,753 --> 00:32:46,214
+Não se preocupe.
+Oumou não disse uma palavra.
+
+456
+00:32:46,298 --> 00:32:49,259
+Laurens é obcecado
+por Quellcrist Falconer desde...
+
+457
+00:32:50,969 --> 00:32:52,387
+Desde sempre.
+
+458
+00:32:53,013 --> 00:32:54,973
+Tenho que agradecê-lo.
+
+459
+00:32:55,056 --> 00:33:01,104
+A comissão por ter achado
+algo tão raro quanto você foi bem alta.
+
+460
+00:33:01,855 --> 00:33:03,398
+Nos vemos no bar, Oumou.
+
+461
+00:33:04,232 --> 00:33:05,317
+Que comissão?
+
+462
+00:33:05,400 --> 00:33:08,778
+Entende o que está em risco
+se você se humilhar...
+
+463
+00:33:08,862 --> 00:33:12,657
+Fazendo meu trabalho?
+Por que se importa com meus modos?
+
+464
+00:33:12,741 --> 00:33:15,702
+O que importa não sou eu. É você.
+
+465
+00:33:15,785 --> 00:33:17,329
+Não. Meu comportamento não é...
+
+466
+00:33:17,412 --> 00:33:20,624
+Quantos convidados desta festa
+não são Matusas?
+
+467
+00:33:20,707 --> 00:33:22,667
+Dois. Você e eu.
+
+468
+00:33:22,751 --> 00:33:26,963
+Sabe quantos anos levei
+para vir para esta casa como convidada
+
+469
+00:33:27,047 --> 00:33:28,048
+e não como empregada?
+
+470
+00:33:28,131 --> 00:33:30,675
+-Você quer ser um deles.
+-Eu vou ser um deles.
+
+471
+00:33:30,759 --> 00:33:32,719
+Que comissão é essa?
+
+472
+00:33:33,595 --> 00:33:38,016
+Clarissa sugeriu trazer você de volta
+e aceitou uma comissão alta para achá-lo.
+
+473
+00:33:38,099 --> 00:33:42,437
+É a interseção da nostalgia do Bancroft
+e do senso de negócios da Clarissa.
+
+474
+00:33:42,521 --> 00:33:45,524
+Você é um agrado,
+como um bicho de estimação.
+
+475
+00:33:48,276 --> 00:33:51,655
+<i>Eu não tinha avançado muito</i>
+<i>desde que cheguei.</i>
+
+476
+00:33:52,239 --> 00:33:53,949
+<i>Mas eu tinha certeza de uma coisa.</i>
+
+477
+00:33:54,032 --> 00:33:58,328
+<i>Ninguém ali ligava para nenhuma vida</i>
+<i>que não fosse a sua própria.</i>
+
+478
+00:34:00,997 --> 00:34:04,292
+Como objeto único, trouxe esta mão.
+
+479
+00:34:05,710 --> 00:34:11,049
+Pertencia a Konrad Harlan,
+fundador do Mundo de Harlan.
+
+480
+00:34:11,925 --> 00:34:16,096
+E ele tem uma mensagem importante
+para todos.
+
+481
+00:34:23,812 --> 00:34:26,606
+Ótimo, chame mais atenção para si.
+
+482
+00:34:26,690 --> 00:34:28,400
+Vai, foi engraçado.
+
+483
+00:34:28,483 --> 00:34:30,902
+Optei por usar meu objeto único.
+
+484
+00:34:31,736 --> 00:34:34,197
+<i>Dizem que é ilegal baixar a mente humana</i>
+
+485
+00:34:34,281 --> 00:34:36,866
+<i>em qualquer coisa</i>
+<i>que não seja um corpo humano.</i>
+
+486
+00:34:36,950 --> 00:34:38,743
+Mas que se foda.
+
+487
+00:34:39,744 --> 00:34:41,955
+As leis não se aplicam a nós.
+
+488
+00:34:43,039 --> 00:34:46,376
+Então apresento a vocês Janus.
+É um estuprador e assassino
+
+489
+00:34:46,459 --> 00:34:49,713
+<i>que ia ser apagado</i>
+<i>quando o tirei do triturador</i>
+
+490
+00:34:49,796 --> 00:34:52,173
+<i>e ofereci a ele um lugar ao meu lado.</i>
+
+491
+00:34:55,010 --> 00:34:56,678
+Só funcionários autorizados.
+
+492
+00:34:59,306 --> 00:35:01,850
+É uma pena que ele não leu as cláusulas.
+
+493
+00:35:05,437 --> 00:35:07,981
+-Quer uma bebida?
+-Não posso beber em serviço.
+
+494
+00:35:08,064 --> 00:35:10,108
+Como se soubessem o que é serviço.
+
+495
+00:35:10,191 --> 00:35:14,112
+-Tim-tim.
+-Me passa o copo.
+
+496
+00:35:14,195 --> 00:35:18,199
+Fiquei curiosa com o que aconteceria
+se um homem fosse baixado em um réptil.
+
+497
+00:35:19,659 --> 00:35:24,080
+<i>Um complexo neomamífero preso</i>
+<i>nos mais básicos gânglios basais.</i>
+
+498
+00:35:27,042 --> 00:35:28,335
+Pela ciência.
+
+499
+00:35:31,254 --> 00:35:33,214
+<i>Parece que você enlouquece.</i>
+
+500
+00:35:34,257 --> 00:35:38,386
+Tentei reencapá-lo uma vez,
+e ele só ficou no chão se contorcendo.
+
+501
+00:35:39,220 --> 00:35:40,805
+Vai ser uma cobra para sempre.
+
+502
+00:35:45,310 --> 00:35:46,853
+-O quê...
+-Ceifador.
+
+503
+00:35:51,941 --> 00:35:54,027
+Serão só alguns minutos. Preciso da sala.
+
+504
+00:35:54,110 --> 00:35:57,072
+Não conte isso a ninguém,
+ou vão demiti-lo.
+
+505
+00:35:57,155 --> 00:36:00,575
+Tome uns analgésicos
+e se hidrate quando acordar.
+
+506
+00:36:03,203 --> 00:36:04,412
+Esta noite...
+
+507
+00:36:05,163 --> 00:36:09,376
+mostrarei algo mais raro
+do que podem imaginar.
+
+508
+00:36:09,459 --> 00:36:13,588
+Algo que ninguém mais tem
+no Protetorado...
+
+509
+00:36:14,297 --> 00:36:15,298
+além de mim.
+
+510
+00:36:16,800 --> 00:36:18,635
+Senhoras e senhores,
+
+511
+00:36:18,718 --> 00:36:21,971
+apresento a vocês o último Emissário.
+
+512
+00:36:25,266 --> 00:36:27,560
+Takeshi Kovacs.
+
+513
+00:36:38,571 --> 00:36:39,989
+Por favor...
+
+514
+00:36:40,615 --> 00:36:43,952
+Aproveitem a diversão
+que arranjamos para vocês.
+
+515
+00:36:44,744 --> 00:36:46,454
+<i>Dirija-se à arena.</i>
+
+516
+00:36:49,916 --> 00:36:53,545
+<i>Capas para a luta</i>
+<i>em posição de gravidade nula.</i>
+
+517
+00:36:53,628 --> 00:36:54,462
+ACESSO CONCEDIDO
+
+518
+00:36:54,546 --> 00:36:55,380
+Sim.
+
+519
+00:36:58,800 --> 00:37:01,344
+Achei que não quisesse ser meu dono.
+
+520
+00:37:02,554 --> 00:37:04,013
+Neste mundo,
+
+521
+00:37:04,639 --> 00:37:09,853
+a única escolha possível é
+ser comprador ou produto.
+
+522
+00:37:34,502 --> 00:37:35,670
+Esta noite,
+
+523
+00:37:36,504 --> 00:37:39,299
+duas capas vão lutar até a morte...
+
+524
+00:37:39,924 --> 00:37:43,261
+e eles são marido e mulher, e se amam.
+
+525
+00:37:50,268 --> 00:37:51,895
+Lutadores casados?
+
+526
+00:37:51,978 --> 00:37:54,022
+<i>-Preparem-se para lançar.</i>
+-Que mau gosto.
+
+527
+00:37:54,105 --> 00:37:56,065
+Ninguém os está forçando.
+
+528
+00:37:56,149 --> 00:37:59,110
+Podiam não lutar, se quiserem.
+
+529
+00:37:59,194 --> 00:38:01,821
+<i>Três, dois, um.</i>
+
+530
+00:38:06,951 --> 00:38:10,038
+Eles são casados, no fim das contas.
+
+531
+00:38:12,040 --> 00:38:13,833
+<i>Capas de combate prontas.</i>
+
+532
+00:38:24,302 --> 00:38:26,763
+Se está tentando me impressionar,
+não funcionou.
+
+533
+00:38:28,640 --> 00:38:32,227
+Você é mais divertido
+do que imagina, Sr. Kovacs.
+
+534
+00:38:34,521 --> 00:38:36,689
+ACESSANDO DADOS - ERRO DE PROTOCOLO
+
+535
+00:38:44,614 --> 00:38:48,701
+<i>Capas devem voltar</i>
+<i>para o campo de gravidade zero.</i>
+
+536
+00:39:22,902 --> 00:39:25,864
+Acabe com ele
+e darei um <i>upgrade</i> para os dois.
+
+537
+00:39:31,452 --> 00:39:33,538
+Destrua o Emissário!
+
+538
+00:39:33,621 --> 00:39:34,914
+Faça-o pagar!
+
+539
+00:39:36,040 --> 00:39:37,041
+Pare.
+
+540
+00:39:37,125 --> 00:39:39,544
+A sequência de luta está bloqueada.
+
+541
+00:39:54,517 --> 00:39:56,144
+Saia.
+
+542
+00:40:01,149 --> 00:40:02,609
+Elliot, onde você está?
+
+543
+00:40:02,692 --> 00:40:04,694
+Estou meio ocupado. Já ligo de volta.
+
+544
+00:40:14,287 --> 00:40:16,581
+COPIANDO DADOS - CÓPIA CONCLUÍDA
+
+545
+00:40:22,211 --> 00:40:24,047
+Você não tem licença para isso.
+
+546
+00:40:25,590 --> 00:40:27,175
+O Emissário não tem documentação.
+
+547
+00:40:27,258 --> 00:40:29,844
+Nossa. Um desses acidentes lamentáveis.
+
+548
+00:40:31,888 --> 00:40:34,390
+Legalmente, ele é de minha propriedade.
+
+549
+00:40:37,393 --> 00:40:39,103
+Vamos aumentar o risco?
+
+550
+00:40:51,366 --> 00:40:52,492
+Merda.
+
+551
+00:41:01,626 --> 00:41:03,044
+Polícia de BC, me dê essa arma!
+
+552
+00:41:30,822 --> 00:41:32,281
+A arma disparou.
+
+553
+00:41:32,365 --> 00:41:34,867
+Um desses acidentes lamentáveis.
+
+554
+00:41:36,536 --> 00:41:37,829
+Acabou o show, pessoal.
+
+555
+00:41:38,204 --> 00:41:39,706
+A capa dele...
+
+556
+00:41:40,456 --> 00:41:41,666
+está destruída!
+
+557
+00:41:41,749 --> 00:41:44,460
+Você lutou contra um Emissário
+e sobreviveu. Se saiu bem.
+
+558
+00:41:44,544 --> 00:41:46,838
+Mas ninguém morreu. Não ganhamos nada!
+
+559
+00:41:47,380 --> 00:41:49,215
+Não consigo pagar pelo conserto dele.
+
+560
+00:41:58,891 --> 00:42:02,395
+Podem ficar com o que ganhei.
+Dê um <i>upgrade</i> nas capas dos dois.
+
+561
+00:42:03,229 --> 00:42:04,856
+Ou vai voltar atrás na sua palavra?
+
+562
+00:42:06,024 --> 00:42:09,402
+Vá em frente. É mais do que justo.
+
+563
+00:42:34,844 --> 00:42:38,097
+Vamos começar sendo muito claros
+um com o outro, certo?
+
+564
+00:42:39,557 --> 00:42:41,434
+Fique longe da minha mulher.
+
+565
+00:42:44,479 --> 00:42:45,772
+Está espiando-a.
+
+566
+00:42:47,190 --> 00:42:49,525
+Não preciso espioná-la.
+
+567
+00:42:50,109 --> 00:42:53,988
+Quando se é casado com a mesma mulher
+há mais de cem anos,
+
+568
+00:42:54,072 --> 00:42:58,242
+sabemos o que ela faz
+e o que ela não consegue deixar de fazer.
+
+569
+00:42:58,326 --> 00:43:01,120
+Por que se importa com o que ela faz
+no tempo livre,
+
+570
+00:43:01,204 --> 00:43:03,331
+considerando o que faz no seu?
+
+571
+00:43:03,414 --> 00:43:05,917
+Sua pouca experiência de vida
+
+572
+00:43:06,000 --> 00:43:09,504
+não permite que você compreenda
+
+573
+00:43:09,587 --> 00:43:13,758
+o que é amar outra pessoa
+por mais de cem anos.
+
+574
+00:43:14,675 --> 00:43:18,805
+Nós chegamos a algo próximo da veneração.
+
+575
+00:43:18,888 --> 00:43:22,308
+Como podemos igualar esse tipo de respeito
+
+576
+00:43:22,391 --> 00:43:25,561
+com os desejos básicos da carne?
+
+577
+00:43:25,645 --> 00:43:28,815
+Então ama demais sua esposa para comê-la?
+
+578
+00:43:28,898 --> 00:43:31,818
+Com certeza a amo demais
+para deixar você comê-la.
+
+579
+00:43:33,319 --> 00:43:37,448
+Tem algo a relatar
+sobre suas investigações esta noite?
+
+580
+00:43:37,532 --> 00:43:39,992
+Não. Mas a festa foi ótima.
+
+581
+00:43:40,743 --> 00:43:41,953
+Obrigado.
+
+582
+00:43:53,297 --> 00:43:54,507
+Onde você estava?
+
+583
+00:43:54,590 --> 00:43:56,509
+Eu tinha uns assuntos para resolver.
+
+584
+00:43:56,592 --> 00:43:59,262
+Valeu deixarem fazer picadinho de mim?
+
+585
+00:43:59,345 --> 00:44:01,973
+Câmeras de segurança
+da noite em que Lizzie sumiu.
+
+586
+00:44:03,683 --> 00:44:06,060
+-Conseguiu algo?
+-Aviso quando eu analisar.
+
+587
+00:44:07,353 --> 00:44:08,187
+E você?
+
+588
+00:44:08,271 --> 00:44:10,356
+Só consegui ficar enojado.
+
+589
+00:44:10,439 --> 00:44:14,110
+Este lugar, a maneira como vivem,
+como se divertem...
+
+590
+00:44:14,193 --> 00:44:15,820
+Nada importa para eles.
+
+591
+00:44:15,903 --> 00:44:18,030
+Quanto mais vivem, pior fica.
+
+592
+00:44:18,114 --> 00:44:20,074
+Eles ficam entediados, então...
+
+593
+00:44:20,741 --> 00:44:21,909
+Isto é seu.
+
+594
+00:44:23,369 --> 00:44:24,370
+Aliás, quem é você?
+
+595
+00:44:24,453 --> 00:44:26,706
+Deveria ser meu reforço. E isso é meu.
+
+596
+00:44:27,331 --> 00:44:29,333
+Não achei que fosse participar do show.
+
+597
+00:44:29,792 --> 00:44:32,336
+-Vernon Elliot.
+-Kristin Ortega.
+
+598
+00:44:32,420 --> 00:44:34,714
+Fique fora de confusão por algumas horas.
+
+599
+00:44:35,590 --> 00:44:38,384
+Te salvar não é meu único trabalho.
+
+600
+00:44:38,467 --> 00:44:39,844
+O que você mandar, tenente.
+
+601
+00:44:41,888 --> 00:44:43,139
+Eu gosto dela.
+
+602
+00:44:44,015 --> 00:44:45,600
+Espere dez minutos.
+
+603
+00:44:47,018 --> 00:44:48,227
+Aonde vai?
+
+604
+00:44:48,311 --> 00:44:50,021
+Tenho que procurar algo.
+
+605
+00:44:50,104 --> 00:44:52,398
+Precisa de um reforço?
+
+606
+00:44:53,441 --> 00:44:55,067
+Nos falamos depois.
+
+607
+00:45:10,333 --> 00:45:11,459
+ALCOVA DO JACK
+
+608
+00:45:16,631 --> 00:45:17,632
+Alice...
+
+609
+00:45:19,091 --> 00:45:20,343
+Sou eu.
+
+610
+00:45:21,510 --> 00:45:22,511
+Ava.
+
+611
+00:45:40,780 --> 00:45:41,739
+O que aconteceu?
+
+612
+00:45:42,406 --> 00:45:43,532
+Desculpe...
+
+613
+00:45:44,700 --> 00:45:46,369
+Eles me obrigaram.
+
+614
+00:45:46,702 --> 00:45:47,703
+A fazer o quê?
+
+615
+00:46:17,984 --> 00:46:19,652
+Eu falei que ela o faria.
+
+616
+00:47:14,331 --> 00:47:17,251
+Ponha ele no número cinco.
+Quanto tempo ele aguenta?
+
+617
+00:47:17,334 --> 00:47:19,295
+O tempo que quisermos.
+
+618
+00:47:27,261 --> 00:47:29,930
+Ele está acordando. Apague-o.
+
+619
+00:47:38,355 --> 00:47:40,191
+<i>Temos que nos unir, Rei.</i>
+
+620
+00:47:41,192 --> 00:47:44,737
+Nunca enfrente os monstros sozinha.
+
+621
+00:48:20,397 --> 00:48:23,275
+<i>Ele vai arrancar seus membros</i>
+
+622
+00:48:23,359 --> 00:48:26,195
+<i>E sua pele</i>
+
+623
+00:48:26,278 --> 00:48:32,076
+<i>E costurar os pedaços nele</i>
+
+624
+00:48:33,327 --> 00:48:38,791
+<i>Fique em casa, não saia sozinho</i>
+
+625
+00:48:38,874 --> 00:48:44,797
+<i>Ou o Homem-Retalho</i>
+<i>Quebrará seus ossos</i>
+
+626
+00:48:46,257 --> 00:48:52,429
+<i>Ou o Homem-Retalho</i>
+<i>Quebrará seus ossos</i>
+
+627
+00:48:53,681 --> 00:48:56,142
+Legendas: Paula Padilha
+
+628
+00:48:58,142 --> 00:49:00,142
+<b>Subrip: ~ FLeCha ~
+fb.com/FlechaLegendas</b>
