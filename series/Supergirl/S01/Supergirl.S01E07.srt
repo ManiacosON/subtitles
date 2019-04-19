@@ -1,0 +1,2966 @@
+﻿1
+00:00:01,179 --> 00:00:04,764
+<i>Quando era pequena, meu planeta,
+Krypton, estava morrendo.</i>
+
+2
+00:00:05,110 --> 00:00:07,864
+<i>Eu fui enviada à Terra
+para proteger meu primo.</i>
+
+3
+00:00:08,287 --> 00:00:11,737
+<i>Mas minha cápsula saiu de curso,
+e quando cheguei aqui</i>
+
+4
+00:00:11,740 --> 00:00:15,918
+<i>meu primo já havia crescido
+e se tornado o Superman.</i>
+
+5
+00:00:15,921 --> 00:00:17,716
+<i>Então eu escondi
+os meus poderes</i>
+
+6
+00:00:17,719 --> 00:00:22,543
+<i>até que um acidente me forçou
+a revelar-me para o mundo.</i>
+
+7
+00:00:22,597 --> 00:00:26,170
+<i>Para muitos, sou uma assistente
+na CatCo Worldwide Media.</i>
+
+8
+00:00:26,173 --> 00:00:29,762
+<i>Mas em segredo, trabalho
+com minha irmã adotiva no DOE</i>
+
+9
+00:00:29,765 --> 00:00:34,276
+<i>para proteger minha cidade
+de quem possa prejudicá-la.</i>
+
+10
+00:00:35,433 --> 00:00:38,152
+<i>Eu sou a Supergirl.</i>
+
+11
+00:00:38,255 --> 00:00:40,013
+<i>Anteriormente...</i>
+
+12
+00:00:40,116 --> 00:00:43,368
+Hank Henshaw foi a última pessoa
+a ver seu pai vivo.
+
+13
+00:00:43,371 --> 00:00:45,217
+<i>Talvez o homem
+com quem trabalho</i>
+
+14
+00:00:45,220 --> 00:00:47,991
+pelos últimos dois anos
+matou meu pai.
+
+15
+00:00:47,994 --> 00:00:50,586
+Ninguém pode ser
+um empecilho para nós.
+
+16
+00:00:50,589 --> 00:00:52,018
+Nem mesmo minha sobrinha.
+
+17
+00:00:52,021 --> 00:00:53,577
+<i>O chamo
+de Tornado Vermelho.</i>
+
+18
+00:00:53,585 --> 00:00:55,563
+Ele não é para combater
+os rebeldes.
+
+19
+00:00:55,598 --> 00:00:57,730
+E sim para matar
+os kryptonianos.
+
+20
+00:01:02,579 --> 00:01:04,179
+<i>Supergirl, você está bem?</i>
+
+21
+00:01:05,154 --> 00:01:07,453
+- Cuidado para não se cortar.
+- Estou bem.
+
+22
+00:01:07,572 --> 00:01:09,280
+Você está bem?
+
+23
+00:01:09,283 --> 00:01:12,327
+Não. Estou sangrando.
+
+24
+00:01:14,826 --> 00:01:17,974
+<i>A perda do seus poderes
+é sem dúvidas traumático.</i>
+
+25
+00:01:17,977 --> 00:01:19,377
+<i>Pode se sentir confusa,</i>
+
+26
+00:01:19,379 --> 00:01:21,672
+<i>ou com medo de que os perdeu
+para sempre.</i>
+
+27
+00:01:21,675 --> 00:01:26,280
+<i>A batalha drenou a energia solar
+de suas células kryptonianas.</i>
+
+28
+00:01:26,419 --> 00:01:29,752
+<i>Agora você é vulnerável
+como qualquer outro humano,</i>
+
+29
+00:01:29,755 --> 00:01:33,101
+<i>sujeita a dor, doenças,
+morte.</i>
+
+30
+00:01:33,696 --> 00:01:35,326
+<i>Mas tenha fé, Kara.</i>
+
+31
+00:01:35,329 --> 00:01:37,099
+<i>Quando suas células
+reabsorverem</i>
+
+32
+00:01:37,101 --> 00:01:39,769
+<i>radiação suficiente
+da estrela amarela terrestre,</i>
+
+33
+00:01:39,785 --> 00:01:43,466
+<i>seus poderes devem retornar.</i>
+<i>Não tenha medo.</i>
+
+34
+00:01:43,469 --> 00:01:45,334
+<i>E até que você se recupere,</i>
+
+35
+00:01:45,337 --> 00:01:47,588
+<i>conte com aqueles
+em quem confia.</i>
+
+36
+00:01:47,740 --> 00:01:51,156
+<i>É o meu maior remorso<i>
+que eu não esteja aí com você,
+
+37
+00:01:51,159 --> 00:01:52,559
+<i>minha amada filha.</i>
+
+38
+00:01:52,845 --> 00:01:56,217
+<i>Como sempre, meu conhecimento
+coletado está à sua disposição</i>
+
+39
+00:01:56,252 --> 00:01:59,073
+- <i>para maiores análises.</i>
+- Obrigada...
+
+40
+00:02:00,361 --> 00:02:02,124
+Mãe.
+
+41
+00:02:03,166 --> 00:02:05,001
+Acontece
+com o Superman também,
+
+42
+00:02:05,004 --> 00:02:07,227
+perder os poderes
+por um tempo, certo?
+
+43
+00:02:07,230 --> 00:02:10,032
+É, mas faz dois dias,
+e não me sinto diferente.
+
+44
+00:02:10,035 --> 00:02:14,311
+Você só está louca porque o DOE
+fez muitos testes em você.
+
+45
+00:02:14,314 --> 00:02:16,007
+Agora pode sair
+no mundo real
+
+46
+00:02:16,010 --> 00:02:17,954
+e ver como é ser humano
+por um dia.
+
+47
+00:02:17,959 --> 00:02:20,786
+Pode aprender algo
+sobre como é para nós.
+
+48
+00:02:21,747 --> 00:02:23,173
+- Como se sente?
+- Bem.
+
+49
+00:02:23,375 --> 00:02:27,243
+Eu acho...
+Se é isso que "bem" significa.
+
+50
+00:02:27,245 --> 00:02:30,135
+Kara está indo para o trabalho.
+Ia acompanhá-la.
+
+51
+00:02:30,675 --> 00:02:33,954
+Lidarei com um hóspede rebelde.
+Posso precisar da sua ajuda.
+
+52
+00:02:33,957 --> 00:02:35,357
+Será um prazer, senhor.
+
+53
+00:02:40,188 --> 00:02:41,657
+Legal.
+
+54
+00:02:41,678 --> 00:02:43,902
+Não suspeitaria
+que desconfia dele.
+
+55
+00:02:43,905 --> 00:02:47,198
+Tenho que agir assim até saber
+se ele sabe algo do meu pai.
+
+56
+00:02:47,301 --> 00:02:50,767
+Acha mesmo que ele sabe?
+Trabalha com o Hank há anos.
+
+57
+00:02:50,770 --> 00:02:54,422
+E em todo esse tempo, ele nunca
+falou que meu pai serviu no DOE.
+
+58
+00:02:54,425 --> 00:02:56,554
+Ou que estava lá
+quando meu pai morreu.
+
+59
+00:02:58,844 --> 00:03:02,024
+Tudo que o Hank me disse
+foi mentira.
+
+60
+00:03:02,583 --> 00:03:05,484
+Não confio mais nele, Kara.
+
+61
+00:03:05,487 --> 00:03:07,638
+Eu sei
+que ele esconde algo.
+
+62
+00:03:12,230 --> 00:03:13,630
+Perdão.
+
+63
+00:03:15,485 --> 00:03:18,186
+Kara...
+O que está acontecendo?
+
+64
+00:03:18,189 --> 00:03:21,162
+Tinha um garoto no ônibus
+com o nariz escorrendo.
+
+65
+00:03:21,165 --> 00:03:23,571
+Certo, está atrasada,
+pegou o ônibus,
+
+66
+00:03:23,574 --> 00:03:25,429
+e está gripada?
+
+67
+00:03:25,432 --> 00:03:28,181
+Gastei meus poderes
+lutando com aquele androide.
+
+68
+00:03:28,184 --> 00:03:29,710
+O quê? Por quanto tempo?
+
+69
+00:03:29,713 --> 00:03:32,801
+- Tornado Vermelho idiota.
+- Certo, eu vou te ajudar.
+
+70
+00:03:32,804 --> 00:03:36,902
+Ainda tenho as análises
+biológicas kryptonianas.
+
+71
+00:03:37,644 --> 00:03:42,445
+- Temos que achar respostas.
+- Alguém espirrou?
+
+72
+00:03:44,388 --> 00:03:45,855
+Quem fez isso?
+
+73
+00:03:46,679 --> 00:03:48,930
+Quem de vocês espalhou
+no meu escritório
+
+74
+00:03:48,933 --> 00:03:50,737
+um milhão
+de germes assassinos?
+
+75
+00:03:50,740 --> 00:03:54,223
+Já consigo sentir
+minha garganta fechar.
+
+76
+00:03:55,694 --> 00:03:57,864
+Você, Kerah?
+
+77
+00:03:58,653 --> 00:04:01,454
+Você nunca fica doente.
+É a melhor coisa em você.
+
+78
+00:04:01,457 --> 00:04:03,627
+- Melhor parte?
+- Se eu ficar doente,
+
+79
+00:04:03,630 --> 00:04:05,752
+meu desempenho cai.
+Se isso acontecer,
+
+80
+00:04:05,755 --> 00:04:08,864
+os preços das ações cairão,
+milhares perderão o emprego,
+
+81
+00:04:08,867 --> 00:04:10,380
+a bolsa tomará um golpe
+
+82
+00:04:10,383 --> 00:04:13,082
+e você vai ter causado
+a próxima recessão.
+
+83
+00:04:13,084 --> 00:04:15,252
+Você quer ser a próxima
+Lehman Brothers?
+
+84
+00:04:15,254 --> 00:04:16,801
+Acho que vou para casa.
+
+85
+00:04:20,066 --> 00:04:22,870
+Não exale
+quando estiver saindo.
+
+86
+00:04:26,915 --> 00:04:29,077
+DEPARTAMENTO
+DE OPERAÇÕES EXTRANORMAIS
+
+87
+00:04:36,189 --> 00:04:37,638
+Já se cansou?
+
+88
+00:04:37,641 --> 00:04:40,472
+Reverencie-me
+quando se aproximar!
+
+89
+00:04:40,812 --> 00:04:42,861
+Eu sou Jemm,
+
+90
+00:04:42,864 --> 00:04:44,813
+mestre
+dos Caçadores Sem-Rosto!
+
+91
+00:04:44,816 --> 00:04:46,714
+- Conquistador dos...
+- 12 mundos.
+
+92
+00:04:46,716 --> 00:04:48,717
+É, te escutei
+nas primeiras 10 vezes.
+
+93
+00:04:49,005 --> 00:04:51,006
+Não está ficando
+mais impressionante.
+
+94
+00:04:53,319 --> 00:04:55,861
+Tentando usar
+seus poderes psíquicos?
+
+95
+00:04:56,420 --> 00:04:58,894
+Controlar minha mente,
+me forçar a te soltar?
+
+96
+00:04:59,096 --> 00:05:02,139
+Odeio te dizer, Jemm,
+mas sua cela tem um escudo.
+
+97
+00:05:02,142 --> 00:05:06,505
+- Seus poderes são inúteis.
+- Então desative
+
+98
+00:05:06,703 --> 00:05:10,728
+para que eu consiga expor
+sua verdadeira identidade
+
+99
+00:05:10,763 --> 00:05:12,868
+como um covarde.
+
+100
+00:05:13,009 --> 00:05:16,975
+Triturarei seus amados
+um por um.
+
+101
+00:05:19,799 --> 00:05:21,886
+Não sobrou ninguém
+para triturar.
+
+102
+00:05:27,522 --> 00:05:30,241
+O aquário do Jemm precisa
+da limpeza mensal.
+
+103
+00:05:30,244 --> 00:05:32,024
+Entendido. Eu farei isso.
+
+104
+00:05:47,886 --> 00:05:51,778
+- Oi! Está indo aonde?
+- Olhar um aluguel.
+
+105
+00:05:51,781 --> 00:05:53,669
+Lucy e eu
+vamos morar juntos.
+
+106
+00:05:54,823 --> 00:05:57,338
+Isso é ótimo.
+
+107
+00:06:00,556 --> 00:06:04,034
+Perdeu seus poderes.
+Explosão solar.
+
+108
+00:06:04,037 --> 00:06:06,232
+Não sabia que estávamos
+chamando assim.
+
+109
+00:06:06,235 --> 00:06:07,635
+Bem, ele chama.
+
+110
+00:06:07,644 --> 00:06:10,396
+Ele gosta de colocar nomes.
+Sabe, visão de calor,
+
+111
+00:06:10,399 --> 00:06:12,724
+- sopro congelado.
+- Ele é tão nerd.
+
+112
+00:06:13,829 --> 00:06:17,517
+Hoje eu sou menos de aço
+e mais de gesso.
+
+113
+00:06:18,082 --> 00:06:20,441
+Você vai ficar bem.
+Apenas relaxe
+
+114
+00:06:21,099 --> 00:06:22,913
+e aproveite
+seu tempo de folga.
+
+115
+00:06:22,916 --> 00:06:26,581
+O mundo vai sobreviver
+sem Supergirl por um dia.
+
+116
+00:06:28,973 --> 00:06:30,373
+Kara!
+
+117
+00:06:50,145 --> 00:06:51,884
+Iniciando trava de ar.
+
+118
+00:06:57,802 --> 00:07:00,183
+Perdemos poder!
+Trocando para emergência!
+
+119
+00:07:00,186 --> 00:07:03,517
+- Preciso ver o prisioneiro!
+- O sistema está reiniciando.
+
+120
+00:07:08,999 --> 00:07:11,514
+O hostil está solto.
+Confine a base!
+
+121
+00:07:12,699 --> 00:07:14,850
+Disse para confinar a base!
+
+122
+00:07:21,273 --> 00:07:23,815
+- Você está bem?
+- Não...
+
+123
+00:07:23,850 --> 00:07:25,658
+Pode ter quebrado.
+
+124
+00:07:26,894 --> 00:07:28,394
+Meu Deus.
+
+125
+00:07:33,232 --> 00:07:36,117
+Tudo bem.
+Vou colocar isso aqui.
+
+126
+00:07:45,336 --> 00:07:46,984
+Meu Deus.
+
+127
+00:07:48,200 --> 00:07:50,200
+<b>| ManiacS |
+Haters Gonna Hate!</b>
+
+128
+00:07:50,201 --> 00:07:53,201
+<b>Zef | LauraA | BLuk | Zac
+Optimus | SongMade | Vitória</b>
+
+129
+00:07:53,202 --> 00:07:55,202
+<b>| Supergirl |
+1.04- Human for a Day</b>
+
+130
+00:08:12,086 --> 00:08:13,486
+Precisa ter cuidado.
+
+131
+00:08:13,487 --> 00:08:15,797
+Por que não me deixa
+te levar ao hospital?
+
+132
+00:08:15,799 --> 00:08:18,282
+Não, vai curar
+quando meus poderes voltarem.
+
+133
+00:08:18,317 --> 00:08:21,654
+- Você está bem?
+- Estou.
+
+134
+00:08:21,689 --> 00:08:23,763
+- Alex, você está bem?
+- Estou bem.
+
+135
+00:08:23,798 --> 00:08:25,820
+- Mentirosa.
+- Digo o mesmo.
+
+136
+00:08:25,822 --> 00:08:28,454
+<i>Quebrei um braço.</i>
+E a propósito,
+
+137
+00:08:28,499 --> 00:08:31,384
+teria sido legal um aviso
+sobre o quanto isso dói.
+
+138
+00:08:31,419 --> 00:08:33,673
+<i>Diga</i> qual é o problema aí.
+
+139
+00:08:34,549 --> 00:08:37,999
+- Estamos confinados.
+- <i>Espere</i>, está presa com o Hank?
+
+140
+00:08:38,001 --> 00:08:40,697
+É regra enquanto rodamos
+protocolos de segurança.
+
+141
+00:08:40,699 --> 00:08:44,115
+Não se preocupe, fique protegida
+até seus poderes voltarem.
+
+142
+00:08:44,150 --> 00:08:47,368
+E se voltarem, me ligue.
+
+143
+00:08:47,399 --> 00:08:49,760
+- Amo você.
+- Amo você.
+
+144
+00:08:50,536 --> 00:08:55,299
+Está todo mundo bem?
+Alguém se machucou?
+
+145
+00:08:55,449 --> 00:08:58,447
+Que bom. Às vezes,
+precisamos de um choque
+
+146
+00:08:58,449 --> 00:09:00,119
+para percebermos
+o que importa.
+
+147
+00:09:00,121 --> 00:09:03,386
+Se precisarem ir,
+se quiserem ir, vão.
+
+148
+00:09:03,421 --> 00:09:05,778
+Vão ficar
+com as suas famílias.
+
+149
+00:09:07,796 --> 00:09:11,145
+- E você. Vai ficar?
+- Sim, senhora.
+
+150
+00:09:11,147 --> 00:09:13,051
+Precisamos deixar
+a estação online.
+
+151
+00:09:13,053 --> 00:09:15,061
+Pessoas assustadas
+buscam informação.
+
+152
+00:09:15,063 --> 00:09:18,235
+- É nosso dever ajudá-las.
+- Estamos nisso, srª Grant,
+
+153
+00:09:18,237 --> 00:09:20,983
+- mas a expectativa é de 4h.
+- Inaceitável.
+
+154
+00:09:21,018 --> 00:09:24,204
+Pense criativamente
+e nos coloque no ar.
+
+155
+00:09:26,979 --> 00:09:29,343
+<i>A situação que enfrentam
+é de risco.</i>
+
+156
+00:09:29,378 --> 00:09:31,546
+<i>Jemm é um dos criminosos
+mais cruéis</i>
+
+157
+00:09:31,548 --> 00:09:33,531
+<i>banidos
+para a Zona Fantasma.</i>
+
+158
+00:09:33,533 --> 00:09:36,647
+<i>As habilidades psíquicas
+superam as das espécies vivas,</i>
+
+159
+00:09:36,649 --> 00:09:40,172
+<i>capaz de ler e controlar mentes
+contra suas vontades.</i>
+
+160
+00:09:40,786 --> 00:09:43,794
+<i>Sua chance de sobrevivência
+é minha filha Kara.</i>
+
+161
+00:09:43,829 --> 00:09:45,408
+- <i>Humanos não...</i>
+- Desliguem.
+
+162
+00:09:45,410 --> 00:09:49,404
+Primeira vamos garantir que Jemm
+não leia nossas mentes em ação.
+
+163
+00:09:49,406 --> 00:09:53,414
+R&D desenvolveu isso.
+Inibidores neurais.
+
+164
+00:09:53,416 --> 00:09:55,400
+Versão portátil
+do escudo de energia
+
+165
+00:09:55,402 --> 00:09:57,497
+que bloqueiam
+os poderes dele na cela.
+
+166
+00:09:57,499 --> 00:10:00,667
+Só temos 3 inibidores.
+Tsung e Reynolds, preparem-se.
+
+167
+00:10:00,768 --> 00:10:02,294
+Vamos!
+
+168
+00:10:02,329 --> 00:10:04,831
+Senhor,
+tenho mais experiência em ação
+
+169
+00:10:04,866 --> 00:10:06,617
+que Reynolds e Tsung
+juntos.
+
+170
+00:10:06,619 --> 00:10:08,826
+Preciso de você
+para proteger os outros.
+
+171
+00:10:08,828 --> 00:10:11,647
+Preciso saber que os deixo
+com alguém que confio.
+
+172
+00:10:12,599 --> 00:10:15,029
+Ou insinua que eu e você
+temos um problema?
+
+173
+00:10:15,449 --> 00:10:18,400
+- Não, senhor.
+- Bom. Fico feliz em ouvir isso.
+
+174
+00:10:22,756 --> 00:10:24,435
+Quer ver uma mágica?
+
+175
+00:10:26,999 --> 00:10:30,633
+Winn, isso é...
+Meu Deus. Olhe!
+
+176
+00:10:33,130 --> 00:10:37,702
+Se eu não tivesse problemas
+com isso, abraçaria você.
+
+177
+00:10:37,737 --> 00:10:39,926
+- Não fui eu.
+- Foi o Winn.
+
+178
+00:10:39,961 --> 00:10:42,608
+- Quem? Da empresa de satélites?
+- Eu.
+
+179
+00:10:42,643 --> 00:10:45,106
+Não, ele fica na mesa
+em frente a minha...
+
+180
+00:10:45,141 --> 00:10:48,906
+A que você passa em frente
+indo à sua sala, todo dia.
+
+181
+00:10:48,908 --> 00:10:51,093
+<i>As pessoas precisam
+de ajuda.</i>
+
+182
+00:10:51,094 --> 00:10:52,805
+<i>A cidade está em chamas.</i>
+
+183
+00:10:52,840 --> 00:10:56,120
+<i>Não vamos esperar que o governo
+ou a Supergirl nos salvem.</i>
+
+184
+00:10:56,510 --> 00:10:59,153
+<i>Quando a cidade mais precisa,
+ela não aparece.</i>
+
+185
+00:10:59,188 --> 00:11:02,005
+<i>A super-heroína
+menos confiável do mundo.</i>
+
+186
+00:11:02,040 --> 00:11:03,614
+<i>Que seja uma lição
+para nós.</i>
+
+187
+00:11:03,649 --> 00:11:06,437
+<i>Vamos confiar em nós,
+não em alienígenas de capa.</i>
+
+188
+00:11:06,472 --> 00:11:08,337
+Olhem o Max.
+Usando o terremoto
+
+189
+00:11:08,338 --> 00:11:10,260
+como oportunidade
+de propaganda.
+
+190
+00:11:10,295 --> 00:11:12,269
+Está pegando pesado
+com a Supergirl.
+
+191
+00:11:12,304 --> 00:11:14,602
+Não vou deixar
+esse narcisista pedante
+
+192
+00:11:14,637 --> 00:11:17,606
+derrubar minha criação
+só para se promover.
+
+193
+00:11:17,641 --> 00:11:19,096
+Whit.
+
+194
+00:11:20,549 --> 00:11:24,589
+- Perto o suficiente.
+- Provou não ser incompetente.
+
+195
+00:11:24,624 --> 00:11:26,419
+Vamos transmitir
+na minha sala.
+
+196
+00:11:26,454 --> 00:11:30,090
+Vamos responder a mensagem
+de Max sobre minha garota.
+
+197
+00:11:30,376 --> 00:11:34,443
+Se eu não voltar em meia hora,
+mandem ajuda.
+
+198
+00:11:34,478 --> 00:11:38,050
+Max está espalhando pânico.
+As pessoas já estão assustadas.
+
+199
+00:11:38,285 --> 00:11:40,356
+- O que quer fazer?
+- Fazê-lo parar.
+
+200
+00:11:40,391 --> 00:11:44,765
+Não pode voar até lá como fazia.
+Ele está cercado de seguranças.
+
+201
+00:11:44,767 --> 00:11:48,287
+Mas também é um exibido
+que ama aparecer na imprensa.
+
+202
+00:11:48,322 --> 00:11:51,441
+Felizmente,
+a Supergirl é amiga do fotógrafo
+
+203
+00:11:51,476 --> 00:11:54,365
+ganhador do Prêmio Pulitzer,
+Jimmy Olsen.
+
+204
+00:11:55,623 --> 00:11:57,198
+<i>Aproximando do Setor 12.</i>
+
+205
+00:12:10,040 --> 00:12:11,660
+Danvers, vê alguma coisa?
+
+206
+00:12:11,695 --> 00:12:14,324
+Nada nas câmeras,
+sensores de calor negativos.
+
+207
+00:12:14,326 --> 00:12:16,721
+Estamos com interferência
+na extremidade.
+
+208
+00:12:16,856 --> 00:12:19,359
+O terremoto pode ter danificado
+os circuitos.
+
+209
+00:12:19,690 --> 00:12:21,274
+Comigo.
+
+210
+00:12:31,375 --> 00:12:35,010
+<i>Ficamos sem luz.
+Luzes de capacete ligadas.</i>
+
+211
+00:12:37,494 --> 00:12:39,340
+<i>Henshaw, está aqui?</i>
+
+212
+00:12:40,100 --> 00:12:42,463
+- Só vemos 2 de vocês.
+<i>- Onde está Henshaw?</i>
+
+213
+00:12:42,465 --> 00:12:45,197
+<i>Eu não o vejo!</i> Ele sumiu.
+
+214
+00:12:47,690 --> 00:12:49,496
+Atenção,
+perdemos contato visual.
+
+215
+00:12:50,207 --> 00:12:53,955
+- Hostil no nosso setor!
+<i>- O que ele faz lá?</i>
+
+216
+00:12:53,990 --> 00:12:55,728
+Parece que ele nos cercou!
+
+217
+00:12:59,755 --> 00:13:01,526
+Dois agentes abatidos.
+
+218
+00:13:03,190 --> 00:13:05,459
+O que aconteceu
+com o diretor Henshaw?
+
+219
+00:13:12,890 --> 00:13:15,128
+Jimmy Olsen.
+Obrigado por nos fotografar!
+
+220
+00:13:15,130 --> 00:13:17,780
+- Claro.
+- Ouvi que pendurou a câmera.
+
+221
+00:13:17,815 --> 00:13:20,704
+Ainda a pego
+quando surge a necessidade.
+
+222
+00:13:20,889 --> 00:13:23,022
+- Parece familiar.
+- Já nos conhecemos.
+
+223
+00:13:23,057 --> 00:13:26,312
+Sou a assistente
+da Cat Grant, Kara.
+
+224
+00:13:26,820 --> 00:13:30,830
+Preciso dizer. Acho maravilhoso
+o que está fazendo hoje.
+
+225
+00:13:30,865 --> 00:13:34,280
+Mas achei o que disse na TV
+um pouco...
+
+226
+00:13:34,740 --> 00:13:36,885
+- Surpreendente.
+- Sobre a Supergirl?
+
+227
+00:13:36,887 --> 00:13:39,039
+Se me conhecesse,
+não ficaria surpresa.
+
+228
+00:13:39,041 --> 00:13:40,637
+Eu conheço você.
+
+229
+00:13:40,672 --> 00:13:43,260
+Mas não acha
+que as pessoas precisam
+
+230
+00:13:43,261 --> 00:13:46,956
+de mensagens positivas?
+Esperança ao invés de medo?
+
+231
+00:13:47,159 --> 00:13:50,729
+Acho que se a Supergirl pudesse
+estar aqui agora, ela estaria.
+
+232
+00:13:50,764 --> 00:13:53,237
+Por que?
+Porque a Cat Grant disse?
+
+233
+00:13:53,239 --> 00:13:55,551
+Ela podia ser representante
+da Supergirl,
+
+234
+00:13:55,553 --> 00:13:57,936
+metendo o "S" em tudo,
+para fazer dinheiro.
+
+235
+00:13:57,938 --> 00:13:59,338
+O que você está fazendo?
+
+236
+00:13:59,340 --> 00:14:02,249
+Quero que todos saibam
+quem os ajuda quando precisam:
+
+237
+00:14:02,251 --> 00:14:04,004
+um ser humano.
+
+238
+00:14:04,401 --> 00:14:06,385
+A Supergirl nos leva
+à complacência.
+
+239
+00:14:06,420 --> 00:14:08,259
+Ela nos faz pensar
+que nos salvará
+
+240
+00:14:08,294 --> 00:14:10,740
+e nos torna incapazes
+de salvar a nós mesmos.
+
+241
+00:14:10,878 --> 00:14:12,778
+Como heroína
+ou o capitalismo.
+
+242
+00:14:12,837 --> 00:14:15,159
+- Que cinismo.
+- É realismo.
+
+243
+00:14:15,178 --> 00:14:17,740
+Ela deveria me agradecer
+pelo que eu não falo.
+
+244
+00:14:17,775 --> 00:14:20,150
+- Por exemplo?
+- Ela perdeu os poderes.
+
+245
+00:14:20,178 --> 00:14:22,306
+Isso explica
+por que ninguém mais a vê.
+
+246
+00:14:22,341 --> 00:14:23,782
+Acho que ela perdeu
+
+247
+00:14:23,847 --> 00:14:26,273
+as habilidades lutando
+contra o androide.
+
+248
+00:14:26,308 --> 00:14:28,177
+Agora,
+é só uma bateria sem carga.
+
+249
+00:14:28,178 --> 00:14:29,638
+Não tem certeza disso.
+
+250
+00:14:29,673 --> 00:14:32,679
+Estudei o Superman.
+Ele leva 48h para recarregar.
+
+251
+00:14:32,680 --> 00:14:34,177
+Já passamos disso.
+
+252
+00:14:34,178 --> 00:14:36,458
+Se ela não recuperou
+os poderes até agora,
+
+253
+00:14:36,488 --> 00:14:38,177
+é provável
+que nunca recupere.
+
+254
+00:14:38,178 --> 00:14:40,793
+Isso quer dizer
+que estamos por conta própria.
+
+255
+00:14:40,832 --> 00:14:44,757
+Socorro! Por favor,
+meu pai precisa de ajuda.
+
+256
+00:14:47,513 --> 00:14:50,394
+Não podemos sair.
+O diretor nos mandou ficar.
+
+257
+00:14:50,429 --> 00:14:52,879
+Não sabemos
+se ele ainda está vivo, Donovan.
+
+258
+00:14:52,914 --> 00:14:55,513
+As pessoas estão contando
+conosco. Nós vamos.
+
+259
+00:14:56,178 --> 00:14:59,888
+Não abram a porta
+sem minha autorização!
+
+260
+00:15:02,646 --> 00:15:04,739
+Importa-se em abaixar
+essa arma?
+
+261
+00:15:07,178 --> 00:15:09,648
+O que houve?
+Perdemos contato visual.
+
+262
+00:15:09,678 --> 00:15:12,323
+Uma interferência
+dos poderes psíquicos de Jemm.
+
+263
+00:15:12,783 --> 00:15:14,310
+Ele fez uma emboscada.
+
+264
+00:15:15,179 --> 00:15:17,178
+Tsung e Reynolds...
+
+265
+00:15:17,888 --> 00:15:19,444
+morreram.
+
+266
+00:15:20,178 --> 00:15:22,861
+- Estou armada e pronta para ir.
+- Você não pode.
+
+267
+00:15:22,862 --> 00:15:25,439
+Só há um inibidor.
+Jemm destruiu os outros.
+
+268
+00:15:25,474 --> 00:15:27,352
+Donovan,
+retorne ao seu posto.
+
+269
+00:15:27,387 --> 00:15:29,219
+Preciso que faça
+o que eu mandar.
+
+270
+00:15:29,254 --> 00:15:31,130
+Nossa situação
+piorou muito.
+
+271
+00:15:31,745 --> 00:15:34,899
+Há queimaduras em Reynolds,
+de uma análise psíquica.
+
+272
+00:15:34,901 --> 00:15:37,514
+Jemm leu a mente dele
+e sabe tudo que ele sabia.
+
+273
+00:15:37,516 --> 00:15:40,840
+- Era o chefe de segurança.
+- Jemm sabe como abrir a prisão.
+
+274
+00:15:40,875 --> 00:15:43,715
+Combinando poderes,
+ele pode arrombar as portas.
+
+275
+00:15:43,750 --> 00:15:46,144
+Vou proteger as celas,
+mas saia do caminho.
+
+276
+00:15:46,179 --> 00:15:47,652
+Ordeno que fique aqui.
+
+277
+00:15:48,578 --> 00:15:50,844
+Alex,
+precisa confiar em mim.
+
+278
+00:16:00,778 --> 00:16:03,779
+Aqui, ajudem!
+Por favor, ele está aqui!
+
+279
+00:16:09,178 --> 00:16:11,873
+- É um pneumotórax.
+- Você é médico?
+
+280
+00:16:11,874 --> 00:16:14,209
+Estudei um ano.
+Ele precisa de um hospital.
+
+281
+00:16:14,210 --> 00:16:16,267
+Chamei uma ambulância,
+mas não chegou.
+
+282
+00:16:16,269 --> 00:16:17,829
+Estão ocupados.
+
+283
+00:16:17,864 --> 00:16:19,977
+Vi um vídeo da Supergirl
+na televisão.
+
+284
+00:16:19,978 --> 00:16:22,412
+Ela levou alguém voando
+até um hospital.
+
+285
+00:16:22,447 --> 00:16:25,391
+Sabe onde ela está?
+Então somos a única chance dele.
+
+286
+00:16:38,578 --> 00:16:40,777
+- Droga, um sangramento venoso.
+- O quê?
+
+287
+00:16:40,778 --> 00:16:44,439
+- Outro vaso deve ter rompido.
+- Se acharmos, paramos. Certo?
+
+288
+00:16:44,474 --> 00:16:47,353
+São quilômetros de vasos,
+nunca acharemos o correto.
+
+289
+00:16:47,578 --> 00:16:49,872
+A não ser que tenha
+uma máquina de raio-x.
+
+290
+00:16:49,878 --> 00:16:53,739
+- Por favor, por favor!
+- Há uma hemorragia no peito.
+
+291
+00:16:54,244 --> 00:16:57,168
+Ele entrará em choque
+e morrerá em alguns minutos.
+
+292
+00:17:01,878 --> 00:17:05,379
+Não. Não! Por favor,
+faça alguma coisa.
+
+293
+00:17:05,380 --> 00:17:07,392
+Vamos lá, vamos lá.
+
+294
+00:17:08,329 --> 00:17:11,412
+Por favor, vamos lá.
+
+295
+00:17:13,878 --> 00:17:16,569
+- Kara.
+- Não, não.
+
+296
+00:17:16,604 --> 00:17:21,005
+Kara...
+Kara, por favor, pare.
+
+297
+00:17:32,878 --> 00:17:37,519
+Faça... Faça alguma coisa!
+Deve haver algo!
+
+298
+00:17:37,554 --> 00:17:39,933
+- Não há como salvar, desculpe.
+- Não!
+
+299
+00:17:40,213 --> 00:17:42,379
+- Que droga!
+- Não, não, não.
+
+300
+00:17:42,380 --> 00:17:44,676
+Tudo bem,
+vai ficar tudo bem.
+
+301
+00:17:44,677 --> 00:17:47,123
+<i>É questão de tempo</i>
+até que Jemm nos encontre.
+
+302
+00:17:47,125 --> 00:17:48,959
+Não acha que Henshaw
+virá por nós?
+
+303
+00:17:48,961 --> 00:17:51,520
+Não acho que contar com ele
+seja interessante.
+
+304
+00:17:51,522 --> 00:17:53,785
+- Não confia nele?
+- Não é a primeira vez
+
+305
+00:17:53,820 --> 00:17:56,094
+em que ele é o único
+sobrevivente.
+
+306
+00:17:56,129 --> 00:17:59,602
+Os detalhes daquela história
+são tão suspeitos quanto dessa.
+
+307
+00:18:00,265 --> 00:18:01,999
+- O que faremos?
+- Saímos daqui.
+
+308
+00:18:02,878 --> 00:18:06,352
+Não há mais inibidores neurais
+para nos proteger de Jemm.
+
+309
+00:18:07,583 --> 00:18:10,380
+- Estou dentro.
+- Certo.
+
+310
+00:18:10,878 --> 00:18:15,278
+Por isso não sou gentil.
+Elogio e você se esforça menos.
+
+311
+00:18:15,313 --> 00:18:19,293
+- Por que demora tanto?
+- Eu sou de TI.
+
+312
+00:18:19,328 --> 00:18:21,974
+A última vez em que mexi
+com transmissão
+
+313
+00:18:22,009 --> 00:18:24,222
+foi no clube de vídeo
+do colégio.
+
+314
+00:18:24,257 --> 00:18:25,959
+A última vez
+em que eu fiz isso
+
+315
+00:18:25,994 --> 00:18:28,680
+foi finalizando meu programa
+vencedor de prêmios.
+
+316
+00:18:28,715 --> 00:18:30,962
+Então estamos ambos
+voltando às raízes.
+
+317
+00:18:32,878 --> 00:18:35,877
+Quebrei.
+Sinto muito, srª Grant.
+
+318
+00:18:35,878 --> 00:18:37,877
+Isso não funcionará...
+
+319
+00:18:37,878 --> 00:18:41,877
+Eu o demitiria e o substituiria,
+mas temos poucos funcionários.
+
+320
+00:18:41,878 --> 00:18:45,196
+Então, em vez disso,
+vou inspirá-lo.
+
+321
+00:18:46,232 --> 00:18:49,595
+Até mesma eu
+já fui como você.
+
+322
+00:18:49,630 --> 00:18:52,209
+Antes disso tudo, eu...
+
+323
+00:18:52,878 --> 00:18:57,329
+Eu era uma disputada
+especialista da mídia
+
+324
+00:18:57,364 --> 00:18:58,839
+e uma premiada editora...
+
+325
+00:18:58,874 --> 00:19:01,987
+E isso seria como eu
+porque...
+
+326
+00:19:02,022 --> 00:19:03,783
+Porque, antes disso,
+
+327
+00:19:03,878 --> 00:19:08,258
+eu era aspirante à jornalista
+com coração de jornalista.
+
+328
+00:19:08,293 --> 00:19:11,414
+- Há histórias boas por aí.
+- Isso não está ajudando.
+
+329
+00:19:11,429 --> 00:19:13,771
+Elas não serão contadas
+porque Maxwell Lord
+
+330
+00:19:13,778 --> 00:19:16,213
+está contaminando o ar
+com negatividade.
+
+331
+00:19:16,248 --> 00:19:19,093
+E a Supergirl não está aqui
+para animar todo mundo.
+
+332
+00:19:19,095 --> 00:19:20,495
+Então eu animarei.
+
+333
+00:19:20,499 --> 00:19:24,495
+E você vai me ajudar
+a salvar esta cidade.
+
+334
+00:19:26,531 --> 00:19:28,028
+Consegui! Consegui!
+
+335
+00:19:30,214 --> 00:19:33,410
+Está vendo, Wyck?
+A história.
+
+336
+00:19:33,445 --> 00:19:37,618
+Pessoas comuns como você,
+que fazem coisas comuns,
+
+337
+00:19:37,653 --> 00:19:42,236
+de repente estão em uma crise
+fazendo algo extraordinário.
+
+338
+00:19:43,347 --> 00:19:44,818
+Heróis.
+
+339
+00:19:46,146 --> 00:19:48,549
+Agora vá atrás de alguém
+para me maquiar.
+
+340
+00:19:49,878 --> 00:19:51,817
+Para o... Sim, entendi.
+
+341
+00:19:58,456 --> 00:20:00,182
+Kara.
+
+342
+00:20:09,321 --> 00:20:10,721
+Não pude salvá-lo.
+
+343
+00:20:14,878 --> 00:20:18,068
+- Você fez o possível.
+- O possível para Kara Danvers.
+
+344
+00:20:20,101 --> 00:20:22,736
+A Supergirl
+poderia ter feito mais.
+
+345
+00:20:24,380 --> 00:20:27,723
+As últimas semanas têm sido
+as melhores da minha vida.
+
+346
+00:20:28,588 --> 00:20:30,573
+Eu estava
+fazendo a diferença.
+
+347
+00:20:30,608 --> 00:20:34,350
+Eu estava ajudando as pessoas,
+como eu sempre quis.
+
+348
+00:20:34,385 --> 00:20:37,394
+Sabe como é perder isso?
+
+349
+00:20:37,428 --> 00:20:40,773
+Não, não sei.
+Mas o que eu sei...
+
+350
+00:20:41,222 --> 00:20:43,727
+é que você é a mesma garota
+que era antes.
+
+351
+00:20:45,075 --> 00:20:47,270
+Perder seus poderes
+não mudou isso.
+
+352
+00:20:47,305 --> 00:20:51,214
+Mudou tudo. Eu me sinto...
+
+353
+00:20:52,387 --> 00:20:55,692
+- Eu me sinto tão impotente.
+- Isso é humano.
+
+354
+00:20:55,696 --> 00:20:58,017
+E se Max Lord...
+E se ele estiver certo?
+
+355
+00:20:58,052 --> 00:21:00,031
+E se meus poderes
+nunca voltarem?
+
+356
+00:21:00,135 --> 00:21:03,080
+Que tipo de herói
+eu seria sem eles?
+
+357
+00:21:04,928 --> 00:21:09,090
+- Não consegui salvar um homem.
+- Nenhum herói salva todo mundo.
+
+358
+00:21:09,091 --> 00:21:10,694
+Nem o Superman.
+
+359
+00:21:11,620 --> 00:21:14,422
+Mas um herói verdadeiro
+nunca para de tentar.
+
+360
+00:21:20,708 --> 00:21:23,709
+- O que você está fazendo?
+- Não posso parar de tentar.
+
+361
+00:21:23,710 --> 00:21:25,898
+Precisa recuperar
+seus poderes antes.
+
+362
+00:21:25,899 --> 00:21:28,448
+É uma máfia.
+Você pode levar um tiro.
+
+363
+00:21:28,449 --> 00:21:32,175
+- Preciso tentar.
+- Sua morte não ajudará ninguém.
+
+364
+00:21:32,176 --> 00:21:33,737
+Preciso tentar.
+
+365
+00:21:34,441 --> 00:21:37,637
+Kara, as balas
+não irão ricochetear.
+
+366
+00:21:37,638 --> 00:21:39,932
+- Eles não sabem disso.
+- Kara!
+
+367
+00:21:46,123 --> 00:21:47,523
+Liberado.
+
+368
+00:22:03,720 --> 00:22:07,055
+- O inibidor está funcionando.
+- Henshaw disse que quebraram.
+
+369
+00:22:07,056 --> 00:22:08,495
+Ele mentiu.
+
+370
+00:22:08,496 --> 00:22:10,373
+Verifique
+o que está no Reynolds.
+
+371
+00:22:15,592 --> 00:22:17,284
+Está funcionando também.
+
+372
+00:22:18,733 --> 00:22:22,054
+- Isso não é bom, certo?
+- Nem um pouco.
+
+373
+00:22:23,415 --> 00:22:25,293
+Coloque o inibidor, agora.
+
+374
+00:22:29,863 --> 00:22:33,097
+<i>- Donovan!</i>
+- Precisamos ir, agora!
+
+375
+00:22:33,346 --> 00:22:37,381
+<i>- Donovan, está me ouvindo?</i>
+- Donovan, está me ouvindo?
+
+376
+00:22:44,406 --> 00:22:46,431
+Ele está na minha cabeça.
+
+377
+00:22:49,797 --> 00:22:51,992
+Não sei por quanto tempo...
+
+378
+00:22:52,735 --> 00:22:55,372
+consigo me controlar.
+
+379
+00:22:56,766 --> 00:22:58,166
+Corra!
+
+380
+00:22:59,316 --> 00:23:00,716
+Corra!
+
+381
+00:23:03,701 --> 00:23:05,968
+- Atrás do balcão!
+- Não faça isso aqui!
+
+382
+00:23:05,970 --> 00:23:09,305
+- Quieto! Não me faça atirar.
+- Não faria isso se fosse você.
+
+383
+00:23:09,306 --> 00:23:11,838
+- Não funcionará comigo.
+- Para trás.
+
+384
+00:23:12,357 --> 00:23:16,768
+- Não aproxime-se.
+- Você não quer machucá-los.
+
+385
+00:23:17,413 --> 00:23:19,068
+<i>Moradores de National City.</i>
+
+386
+00:23:19,069 --> 00:23:22,351
+Aqui é Cat Grant,
+direto do CatCo Plaza.
+
+387
+00:23:22,352 --> 00:23:26,795
+Há alguns minutos,
+recuperamos nossa transmissão.
+
+388
+00:23:31,841 --> 00:23:33,241
+Prestem atenção.
+
+389
+00:23:33,375 --> 00:23:36,279
+Estamos sofrendo
+um enorme desastre.
+
+390
+00:23:36,280 --> 00:23:39,834
+Podem reagir à essa crise
+sendo egoístas,
+
+391
+00:23:39,835 --> 00:23:43,506
+individualistas,
+ignorando a segurança coletiva.
+
+392
+00:23:43,716 --> 00:23:47,612
+Afinal,
+ser egoísta é humano.
+
+393
+00:23:47,613 --> 00:23:52,031
+Mas superar fraquezas
+também é humano.
+
+394
+00:23:52,032 --> 00:23:54,456
+Agir como super-heróis,
+mesmo se não somos.
+
+395
+00:23:54,457 --> 00:23:58,236
+Eu sei que está com medo.
+Todos estamos.
+
+396
+00:23:58,237 --> 00:24:01,536
+Quer se salvar,
+salvar sua família.
+
+397
+00:24:02,960 --> 00:24:06,084
+Mas estamos nisso juntos.
+
+398
+00:24:06,085 --> 00:24:09,435
+É verdade. Supergirl ainda
+não foi localizada.
+
+399
+00:24:09,436 --> 00:24:12,458
+Mas o espírito dela
+está conosco,
+
+400
+00:24:12,459 --> 00:24:15,127
+sua insistência em enxergar
+o melhor nas pessoas,
+
+401
+00:24:15,129 --> 00:24:17,541
+um chamado para notarmos
+nossos anjos.
+
+402
+00:24:17,542 --> 00:24:20,451
+Posso impedi-lo
+de diversas maneiras.
+
+403
+00:24:21,458 --> 00:24:24,402
+- Mas não preciso.
+- Supergirl acredita em nós.
+
+404
+00:24:24,403 --> 00:24:26,563
+Você não é assim.
+
+405
+00:24:28,490 --> 00:24:33,163
+- Nenhum de vocês é assim.
+- Vamos acreditar nela.
+
+406
+00:24:33,866 --> 00:24:37,561
+Supergirl retornará
+quando precisarmos dela.
+
+407
+00:24:37,596 --> 00:24:39,912
+Enquanto isso,
+precisamos nos ajudar.
+
+408
+00:24:39,913 --> 00:24:42,605
+Acredito que somos
+melhores do que isso.
+
+409
+00:24:42,606 --> 00:24:46,650
+Ligue para nós, compartilhe
+histórias de heroísmo.
+
+410
+00:24:46,651 --> 00:24:49,508
+Vamos mostrar ao mundo
+do que somos capazes.
+
+411
+00:24:49,509 --> 00:24:52,801
+E não podemos fazer
+o que Supergirl faz, mas...
+
+412
+00:24:52,802 --> 00:24:54,358
+Escolhemos
+quem queremos ser.
+
+413
+00:24:54,359 --> 00:24:56,527
+Precisamos escolher
+fazer o que podemos.
+
+414
+00:24:56,528 --> 00:25:00,055
+<i>E eu sei que escolherá</i>
+ser um homem melhor.
+
+415
+00:26:09,484 --> 00:26:11,182
+O que você está
+fazendo aqui?
+
+416
+00:26:11,441 --> 00:26:14,540
+- Estávamos procurando por você.
+- Onde está o Donovan?
+
+417
+00:26:15,945 --> 00:26:17,345
+Você o perdeu. Droga!
+
+418
+00:26:17,346 --> 00:26:19,403
+Por isso mandei
+ficarem com os outros!
+
+419
+00:26:19,404 --> 00:26:22,737
+Disse que os inibidores
+estavam quebrados. Você mentiu!
+
+420
+00:26:22,738 --> 00:26:26,041
+Porque não queria que fizesse
+algo estúpido como fez!
+
+421
+00:26:26,042 --> 00:26:27,808
+<i>Agente Danvers, responda!</i>
+
+422
+00:26:28,644 --> 00:26:30,534
+Câmbio, Donovan.
+Qual é a situação?
+
+423
+00:26:30,535 --> 00:26:32,941
+<i>Estou bem, mas sozinho.
+Onde você está?</i>
+
+424
+00:26:32,942 --> 00:26:36,110
+- Achei que estivesse morto.
+- É difícil se livrar de mim.
+
+425
+00:26:36,111 --> 00:26:37,842
+- Encontre-me...
+- Pare.
+
+426
+00:26:38,847 --> 00:26:40,868
+Fique quieta.
+Não é mais o Donovan.
+
+427
+00:26:41,120 --> 00:26:42,744
+Jemm, sei que é você.
+
+428
+00:26:45,247 --> 00:26:47,598
+Você só adiou o inevitável.
+
+429
+00:26:53,665 --> 00:26:57,148
+Libertarei os prisioneiros
+e sairei daqui.
+
+430
+00:26:57,490 --> 00:26:59,676
+Não há saída para vocês.
+
+431
+00:27:02,948 --> 00:27:06,130
+Precisamos de um local seguro
+antes que Jemm desça aqui.
+
+432
+00:27:06,736 --> 00:27:08,439
+Afaste-se da porta.
+
+433
+00:27:09,306 --> 00:27:12,181
+- Largue a arma. Agora!
+- Alex.
+
+434
+00:27:22,063 --> 00:27:25,074
+Alex, o que está fazendo?
+Não sou seu inimigo.
+
+435
+00:27:25,075 --> 00:27:27,174
+Por isso não me contou
+sobre meu pai?
+
+436
+00:27:27,175 --> 00:27:29,031
+Descobri
+que ele era do DOE.
+
+437
+00:27:29,032 --> 00:27:32,485
+E que o chantageou
+para trabalhar para você.
+
+438
+00:27:32,486 --> 00:27:33,961
+Seu pai acreditava
+em mim.
+
+439
+00:27:33,962 --> 00:27:37,116
+- Ele era um ótimo homem.
+- Não fale sobre ele!
+
+440
+00:27:42,007 --> 00:27:43,407
+Algeme-se.
+
+441
+00:27:43,408 --> 00:27:46,417
+- Alex, por favor.
+- Prenda nas barras. Agora!
+
+442
+00:27:51,719 --> 00:27:54,469
+Jemm,
+aqui é a Agente Danvers.
+
+443
+00:27:54,470 --> 00:27:57,114
+Eu sei que você quer
+abrir os portões.
+
+444
+00:27:58,309 --> 00:28:00,511
+Não precisa libertar
+os prisioneiros.
+
+445
+00:28:00,512 --> 00:28:02,154
+Você só precisa de mim.
+
+446
+00:28:02,490 --> 00:28:04,000
+Tenho o código de acesso.
+
+447
+00:28:04,003 --> 00:28:06,987
+Vou te esperar
+na sala de controle.
+
+448
+00:28:07,583 --> 00:28:09,478
+Porque de uma forma
+ou de outra,
+
+449
+00:28:09,970 --> 00:28:12,099
+isso acaba agora.
+
+450
+00:28:12,702 --> 00:28:14,966
+Alex! Alex!
+
+451
+00:28:16,610 --> 00:28:20,185
+Nossa... isso foi melhor
+do que voar.
+
+452
+00:28:20,187 --> 00:28:22,440
+Foi melhor
+do que pegar um avião.
+
+453
+00:28:22,444 --> 00:28:24,153
+Foi melhor
+do que aquela vez
+
+454
+00:28:24,156 --> 00:28:27,164
+que evitei um assalto
+na pizzaria e ganhei 12 pizzas.
+
+455
+00:28:27,167 --> 00:28:29,439
+- Eram ótimas pizzas.
+- Eram mesmo.
+
+456
+00:28:31,023 --> 00:28:33,700
+Tenho visto tantas fotos
+minha ultimamente
+
+457
+00:28:33,705 --> 00:28:37,636
+e as acho exageradas.
+Mas essa parece diferente.
+
+458
+00:28:38,537 --> 00:28:40,670
+Dizem
+que as melhores fotografias
+
+459
+00:28:40,676 --> 00:28:43,384
+expressam o seu sentimento
+sobre o fotografado.
+
+460
+00:28:44,237 --> 00:28:45,637
+E eu conheço você.
+
+461
+00:28:46,597 --> 00:28:48,740
+Qual a primeira foto
+que você tirou?
+
+462
+00:28:48,743 --> 00:28:50,143
+Do meu pai.
+
+463
+00:28:52,225 --> 00:28:54,400
+Ele me deu uma câmera...
+
+464
+00:28:55,405 --> 00:28:57,504
+Antes de ir
+para a Guerra do Golfo.
+
+465
+00:28:57,745 --> 00:29:00,623
+Era a melhor
+que podiam pagar,
+
+466
+00:29:00,624 --> 00:29:02,570
+mas ainda não era boa.
+
+467
+00:29:07,109 --> 00:29:08,858
+Então,
+ele não voltou para casa.
+
+468
+00:29:11,284 --> 00:29:14,723
+E eu nunca mais larguei
+aquela câmera.
+
+469
+00:29:20,189 --> 00:29:22,153
+Você se parece com ele.
+
+470
+00:29:27,254 --> 00:29:28,654
+Pareço.
+
+471
+00:29:29,532 --> 00:29:31,557
+Quando você tira foto
+de alguém...
+
+472
+00:29:34,155 --> 00:29:35,600
+É permanente.
+
+473
+00:29:35,609 --> 00:29:38,990
+E você captura a verdade
+deles naquele momento
+
+474
+00:29:38,994 --> 00:29:41,713
+e as mantém para sempre.
+
+475
+00:29:44,507 --> 00:29:47,558
+E a verdade desse momento,
+
+476
+00:29:51,998 --> 00:29:54,731
+é que você não precisa
+de poderes
+
+477
+00:29:55,293 --> 00:29:56,841
+para ser uma heroína.
+
+478
+00:30:00,356 --> 00:30:01,772
+Adorei.
+
+479
+00:30:19,774 --> 00:30:22,460
+Acessei o arquivo
+do Superman no DOE
+
+480
+00:30:22,736 --> 00:30:27,359
+e usei uma análise
+diferenciada
+
+481
+00:30:27,470 --> 00:30:30,320
+nas taxas em que você metaboliza
+a radiação solar.
+
+482
+00:30:30,324 --> 00:30:32,120
+- Winn...
+- Indo direto ao ponto,
+
+483
+00:30:32,123 --> 00:30:34,355
+basicamente terá
+seus poderes de volta
+
+484
+00:30:34,357 --> 00:30:35,914
+se...
+
+485
+00:30:35,949 --> 00:30:40,876
+for inflamada por uma versão
+kryptoniana de adrenalina.
+
+486
+00:30:46,931 --> 00:30:48,680
+Winn. Pare
+
+487
+00:30:48,682 --> 00:30:50,600
+Sei o que acha que viu,
+mas...
+
+488
+00:30:50,605 --> 00:30:52,496
+- Não vi nada.
+- Tudo bem.
+
+489
+00:30:52,759 --> 00:30:54,630
+Sabia que ele tem namorada?
+
+490
+00:30:54,634 --> 00:30:56,638
+- O quê?
+- Lucy está voltando.
+
+491
+00:30:56,776 --> 00:30:59,050
+E seus poderes também.
+Nunca vai ter
+
+492
+00:30:59,057 --> 00:31:01,473
+um encontro romântico
+tradicional.
+
+493
+00:31:02,233 --> 00:31:05,487
+O super-herói
+nunca fica com alguém.
+
+494
+00:31:08,225 --> 00:31:11,228
+Pensou
+sobre meu futuro amoroso
+
+495
+00:31:11,229 --> 00:31:12,824
+ou a falta dele?
+
+496
+00:31:13,180 --> 00:31:14,693
+Olha...
+
+497
+00:31:15,098 --> 00:31:16,908
+Desculpe,
+mas depois de hoje...
+
+498
+00:31:18,311 --> 00:31:22,483
+Você não será mais humana.
+Você terá seus poderes.
+
+499
+00:31:22,793 --> 00:31:26,270
+Você vive em um nível diferente
+do que o resto de nós.
+
+500
+00:31:32,460 --> 00:31:35,149
+- Todos estão bem?
+- Estamos bem.
+
+501
+00:31:37,439 --> 00:31:39,400
+Não foi um abalo,
+foi uma explosão.
+
+502
+00:31:39,403 --> 00:31:41,626
+- Pode ser o gás.
+- Vou olhar as escadas.
+
+503
+00:31:41,762 --> 00:31:43,368
+Por favor,
+ninguém esteja aí.
+
+504
+00:31:43,370 --> 00:31:44,845
+- <i>Alô.</i>
+- Tem alguém.
+
+505
+00:31:44,847 --> 00:31:47,215
+Oi. Estamos alguns andares
+abaixo de vocês.
+
+506
+00:31:47,219 --> 00:31:48,669
+Ajuda está a caminho.
+
+507
+00:31:49,377 --> 00:31:52,170
+Menti para um andar inteiro
+de um prédio em chamas.
+
+508
+00:31:52,174 --> 00:31:54,180
+- E agora?
+- A escada está bloqueada.
+
+509
+00:31:54,185 --> 00:31:56,861
+Precisamos que as pessoas
+deste andar desçam.
+
+510
+00:31:56,865 --> 00:31:58,401
+E as que estão lá em cima?
+
+511
+00:32:00,051 --> 00:32:01,591
+O poço do elevador.
+
+512
+00:32:19,757 --> 00:32:22,350
+Apareça.
+
+513
+00:32:23,528 --> 00:32:27,223
+Vamos ver se você morre
+com mais honra
+
+514
+00:32:27,431 --> 00:32:29,900
+do que seus amigos.
+
+515
+00:32:58,004 --> 00:33:01,903
+Precisa mais do que isso
+para me matar, humana.
+
+516
+00:33:44,351 --> 00:33:45,939
+Eu te disse, Alex.
+
+517
+00:33:46,994 --> 00:33:48,898
+Não sou o inimigo.
+
+518
+00:33:55,468 --> 00:33:57,196
+Vá para o elevador.
+
+519
+00:33:58,035 --> 00:33:59,484
+Deixa comigo.
+
+520
+00:34:03,202 --> 00:34:05,093
+- Onde eles estão?
+- Aqui, aqui.
+
+521
+00:34:06,017 --> 00:34:08,196
+Minha nossa.
+Como faremos isso?
+
+522
+00:34:08,424 --> 00:34:10,956
+Eles não conseguem
+abrir a porta do elevador.
+
+523
+00:34:10,959 --> 00:34:13,460
+Terei que subir
+e abrir do outro lado.
+
+524
+00:34:13,464 --> 00:34:15,356
+James, não.
+Estamos no 23º andar...
+
+525
+00:34:15,391 --> 00:34:17,166
+Não disse
+que queria fazer isso.
+
+526
+00:34:17,201 --> 00:34:19,687
+- James...
+- Vou voltar. Eu prometo.
+
+527
+00:34:21,207 --> 00:34:22,913
+- Estou indo.
+- Ele está indo.
+
+528
+00:34:33,004 --> 00:34:34,545
+Tire-nos daqui!
+
+529
+00:34:46,299 --> 00:34:48,092
+Certo. Certo.
+
+530
+00:34:48,770 --> 00:34:51,501
+Pegue a escada. Lá vamos nós.
+Cuidado onde pisa.
+
+531
+00:34:52,631 --> 00:34:55,025
+Abrace a parede.
+Alguém mais aqui?
+
+532
+00:34:55,029 --> 00:34:56,497
+- Cuidado.
+- Vamos lá.
+
+533
+00:34:56,823 --> 00:34:58,277
+Você está aqui. Está aqui.
+
+534
+00:34:59,222 --> 00:35:00,622
+Peguei você.
+
+535
+00:35:01,966 --> 00:35:03,366
+Vamos.
+
+536
+00:35:06,853 --> 00:35:08,253
+James!
+
+537
+00:35:22,373 --> 00:35:23,800
+James!
+
+538
+00:35:25,634 --> 00:35:28,804
+Vão! Consigam ajuda!
+Rápido! Vão! Vão!
+
+539
+00:35:29,099 --> 00:35:31,766
+Nossa! Achei que ficaria
+em pânico sob pressão.
+
+540
+00:35:37,155 --> 00:35:39,463
+James! Alcance a escada!
+
+541
+00:35:43,936 --> 00:35:45,336
+Alcance!
+
+542
+00:36:13,013 --> 00:36:15,036
+Você quase me deu
+um ataque cardíaco.
+
+543
+00:36:15,942 --> 00:36:17,598
+Acho que era
+o que precisava.
+
+544
+00:36:17,599 --> 00:36:20,609
+- A cidade precisa de você.
+- Vá pegá-los, Supergirl.
+
+545
+00:37:05,546 --> 00:37:07,621
+Kara, sou eu.
+
+546
+00:37:07,622 --> 00:37:10,895
+Vejo que está ocupada.
+Isso é bom.
+
+547
+00:37:11,320 --> 00:37:14,560
+Só quero que saiba
+que estamos bem.
+
+548
+00:37:15,454 --> 00:37:17,097
+Nos falamos depois.
+
+549
+00:37:29,699 --> 00:37:33,258
+Está se perguntando
+como me libertei das algemas.
+
+550
+00:37:34,319 --> 00:37:35,742
+Para começar.
+
+551
+00:37:35,777 --> 00:37:38,103
+Só há outra pessoa
+que sabe a verdade.
+
+552
+00:37:38,104 --> 00:37:39,934
+Tem certeza que quer ouvir?
+
+553
+00:37:40,503 --> 00:37:43,880
+Não pode falar para ninguém.
+Nem para Kara. Pode fazer isso?
+
+554
+00:37:43,881 --> 00:37:46,532
+Foi você quem me ensinou
+a manter segredos dela.
+
+555
+00:37:50,168 --> 00:37:53,550
+Não sou Hank Henshaw.
+
+556
+00:37:54,418 --> 00:37:58,044
+Ele morreu
+na mesma noite que seu pai.
+
+557
+00:37:59,299 --> 00:38:03,271
+O DOE está perseguindo
+um alienígena há meses.
+
+558
+00:38:04,331 --> 00:38:07,308
+Não um dos prisioneiros
+do Forte Rozz, mas...
+
+559
+00:38:08,496 --> 00:38:11,519
+um inocente que ficou preso
+neste planeta.
+
+560
+00:38:12,299 --> 00:38:13,747
+Com a ajuda de seu pai,
+
+561
+00:38:13,748 --> 00:38:18,038
+o DOE rastreou o alienígena
+para um local remoto do Peru.
+
+562
+00:38:19,195 --> 00:38:21,675
+Henshaw liderou
+o esquadrão enviado
+
+563
+00:38:22,811 --> 00:38:25,381
+- para exterminá-lo.
+- Meu pai nunca participou
+
+564
+00:38:25,416 --> 00:38:27,715
+- de missão como essa.
+- Você está certa.
+
+565
+00:38:27,750 --> 00:38:31,252
+Jeremiah Danvers
+era um bom homem.
+
+566
+00:38:31,819 --> 00:38:34,128
+Ele percebeu que o alienígena
+que caçavam
+
+567
+00:38:34,163 --> 00:38:35,814
+não era uma ameaça.
+
+568
+00:38:37,780 --> 00:38:41,334
+Ele era um refugiado,
+como sua irmã.
+
+569
+00:38:42,815 --> 00:38:45,418
+O único sobrevivente
+de um mundo perdido.
+
+570
+00:38:46,891 --> 00:38:49,357
+Seu pai tentou
+parar a missão,
+
+571
+00:38:49,358 --> 00:38:53,689
+mas Henshaw
+estava obcecado.
+
+572
+00:38:54,962 --> 00:38:56,693
+Finalmente encurralara
+
+573
+00:38:56,728 --> 00:38:59,572
+o alienígena
+que caçava há tempos.
+
+574
+00:39:03,455 --> 00:39:05,500
+Então, Jeremiah...
+
+575
+00:39:07,036 --> 00:39:09,338
+fez o último sacrifício.
+
+576
+00:39:12,255 --> 00:39:16,266
+Ele deu a vida para salvar
+esse alienígena.
+
+577
+00:39:23,170 --> 00:39:25,618
+Seu pai morreu
+como um herói.
+
+578
+00:39:26,884 --> 00:39:28,736
+O alienígena...
+
+579
+00:39:32,388 --> 00:39:34,233
+É você?
+
+580
+00:39:38,120 --> 00:39:40,870
+Mas como você é ele?
+
+581
+00:39:43,564 --> 00:39:47,216
+Eu sou um metamorfo.
+Quando Hank Henshaw morreu,
+
+582
+00:39:47,217 --> 00:39:50,619
+assumi sua identidade
+para reformular o DOE.
+
+583
+00:39:51,323 --> 00:39:54,253
+Mas também
+fiz uma promessa ao seu pai.
+
+584
+00:39:56,021 --> 00:39:59,420
+Que eu cuidaria
+da filha dele.
+
+585
+00:39:59,899 --> 00:40:01,929
+Eu recrutei você
+
+586
+00:40:02,172 --> 00:40:04,455
+para eu poder honrar
+aquela promessa
+
+587
+00:40:04,490 --> 00:40:06,278
+e proteger você
+
+588
+00:40:06,881 --> 00:40:09,361
+como se fosse
+uma filha minha.
+
+589
+00:40:09,396 --> 00:40:11,569
+Se você não é
+Hank Henshaw...
+
+590
+00:40:13,784 --> 00:40:15,370
+quem é você?
+
+591
+00:40:20,991 --> 00:40:23,995
+Sou o único sobrevivente
+do meu planeta.
+
+592
+00:40:24,699 --> 00:40:27,399
+O último filho de Marte.
+
+593
+00:40:35,775 --> 00:40:37,474
+Meu nome...
+
+594
+00:40:37,920 --> 00:40:40,716
+é J'onn J'onzz.
+
+595
+00:40:46,776 --> 00:40:48,509
+- Winn.
+- Bom trabalho hoje.
+
+596
+00:40:49,127 --> 00:40:53,205
+Quer ir lá para casa e me ajudar
+a comer a comida na geladeira
+
+597
+00:40:53,206 --> 00:40:55,263
+antes que estrague?
+Estou sem luz.
+
+598
+00:40:55,264 --> 00:40:57,558
+Não estou com fome.
+Mas, obrigado.
+
+599
+00:40:57,559 --> 00:40:59,049
+Por favor.
+
+600
+00:41:01,846 --> 00:41:04,136
+Sei que está desapontado
+comigo e o James,
+
+601
+00:41:04,138 --> 00:41:05,538
+e sinto muito.
+
+602
+00:41:05,562 --> 00:41:07,812
+A Supergirl
+deveria ser melhor que isso.
+
+603
+00:41:07,847 --> 00:41:10,322
+Nunca estou desapontado
+com a Supergirl.
+
+604
+00:41:10,896 --> 00:41:12,882
+Fiquei decepcionado
+com você.
+
+605
+00:42:05,323 --> 00:42:08,140
+Ouvi a sua incrível
+transmissão hoje.
+
+606
+00:42:09,240 --> 00:42:12,340
+- Obrigada.
+- Obrigada pelo elogio.
+
+607
+00:42:12,632 --> 00:42:14,210
+Onde diabos você esteve?
+
+608
+00:42:14,211 --> 00:42:17,741
+Como pode desaparecer
+no pior desastre em décadas?
+
+609
+00:42:17,742 --> 00:42:22,044
+- Não queria te assustar.
+- Você não me assustou.
+
+610
+00:42:22,720 --> 00:42:25,742
+Mas as pessoas normais,
+começam a depender de você.
+
+611
+00:42:25,777 --> 00:42:27,766
+É fácil que se sintam
+abandonados.
+
+612
+00:42:27,767 --> 00:42:29,854
+Você tem que entender
+
+613
+00:42:29,889 --> 00:42:33,749
+que muitas pessoas
+passam a vida
+
+614
+00:42:33,750 --> 00:42:35,791
+se sentindo isoladas
+e sozinhas.
+
+615
+00:42:35,792 --> 00:42:37,553
+E quando
+uma tragédia acontece,
+
+616
+00:42:37,554 --> 00:42:40,739
+olham para seus heróis.
+Não para salvar, para consolo
+
+617
+00:42:40,740 --> 00:42:44,319
+- e consistência.
+- Que bom que tinham a você.
+
+618
+00:42:45,759 --> 00:42:47,744
+Você lhes deu esperança.
+
+619
+00:42:48,810 --> 00:42:51,812
+Sei que você os inspirou
+porque...
+
+620
+00:42:52,202 --> 00:42:54,097
+me inspirou.
+
+621
+00:43:22,032 --> 00:43:23,432
+Quem são vocês?
+
+622
+00:43:25,298 --> 00:43:27,809
+- Eles estão comigo.
+- Astra.
+
+623
+00:43:28,339 --> 00:43:30,072
+Minha querida sobrinha.
+
+624
+00:43:30,277 --> 00:43:32,975
+Você realmente achou
+que tinha acabado?
+
+625
+00:43:37,198 --> 00:43:40,198
+<b>Legende conosco!
+www.maniacsubs.co.nr</b>
+
