@@ -1,0 +1,6458 @@
+﻿1
+00:01:30,539 --> 00:01:32,041
+-Mamãe!
+-Já sabemos.
+
+2
+00:01:32,124 --> 00:01:34,293
+Jyn, pegue suas coisas.
+Está na hora.
+
+3
+00:01:45,513 --> 00:01:46,514
+<i>Alô?</i>
+
+4
+00:01:46,555 --> 00:01:47,890
+Saw, é a Lyra.
+
+5
+00:01:48,766 --> 00:01:51,602
+Aconteceu.
+Ele veio nos pegar.
+
+6
+00:01:51,769 --> 00:01:53,270
+<i>Você sabe o que fazer.</i>
+
+7
+00:02:10,496 --> 00:02:11,997
+Jyn, venha aqui.
+
+8
+00:02:12,498 --> 00:02:14,917
+Lembre-se, tudo o que eu faço...
+
+9
+00:02:15,167 --> 00:02:17,086
+é para proteger você.
+
+10
+00:02:17,336 --> 00:02:18,921
+Diga que entende.
+
+11
+00:02:19,422 --> 00:02:21,340
+Eu entendo.
+
+12
+00:02:25,594 --> 00:02:26,595
+Eu te amo, estrelinha.
+
+13
+00:02:27,096 --> 00:02:29,014
+Eu também te amo, papai.
+
+14
+00:02:29,348 --> 00:02:30,599
+Galen.
+
+15
+00:02:33,310 --> 00:02:34,562
+Vá.
+
+16
+00:02:54,290 --> 00:02:55,291
+Jyn.
+
+17
+00:02:59,128 --> 00:03:00,129
+Sabe aonde ir, não é?
+
+18
+00:03:05,301 --> 00:03:06,302
+Confie na Força.
+
+19
+00:03:39,502 --> 00:03:41,754
+É um homem difícil de achar, Galen.
+
+20
+00:03:42,088 --> 00:03:44,340
+Mas na fazenda...
+
+21
+00:03:44,382 --> 00:03:47,051
+Sério? Um homem com seus talentos?
+
+22
+00:03:47,843 --> 00:03:49,678
+É uma vida tranquila.
+
+23
+00:03:50,221 --> 00:03:52,306
+É solitária, eu imagino.
+
+24
+00:03:55,518 --> 00:03:56,977
+Desde a morte da Lyra.
+
+25
+00:03:57,853 --> 00:03:58,896
+Ah.
+
+26
+00:04:00,898 --> 00:04:02,191
+Ah...
+
+27
+00:04:08,114 --> 00:04:10,241
+Meus sentimentos.
+
+28
+00:04:11,575 --> 00:04:13,494
+Revistem a casa.
+
+29
+00:04:21,877 --> 00:04:23,504
+O que você quer?
+
+30
+00:04:23,546 --> 00:04:26,507
+O trabalho parou.
+Preciso que volte.
+
+31
+00:04:27,550 --> 00:04:29,051
+Eu não vou, Krennic.
+
+32
+00:04:29,343 --> 00:04:32,555
+Estávamos à beira da grandeza.
+Bem perto mesmo...
+
+33
+00:04:32,638 --> 00:04:35,808
+de proporcionar paz e segurança
+para a galáxia.
+
+34
+00:04:36,267 --> 00:04:38,227
+Está confundindo paz com terror.
+
+35
+00:04:38,394 --> 00:04:39,395
+Bem...
+
+36
+00:04:39,770 --> 00:04:41,897
+é preciso começar de algum jeito.
+
+37
+00:04:48,070 --> 00:04:50,114
+Não serei útil em nada, Krennic.
+
+38
+00:04:51,282 --> 00:04:52,908
+Minha mente não é mais a mesma.
+
+39
+00:04:53,117 --> 00:04:54,660
+Tenho dificuldade de lembrar.
+
+40
+00:04:55,870 --> 00:04:57,079
+Até de coisas simples.
+
+41
+00:04:58,789 --> 00:05:00,082
+Galen...
+
+42
+00:05:00,583 --> 00:05:03,586
+É um excelente cientista,
+mas péssimo mentiroso.
+
+43
+00:05:04,086 --> 00:05:05,296
+Mas admiro o esforço.
+
+44
+00:05:05,588 --> 00:05:06,922
+Admiro mesmo.
+
+45
+00:05:08,340 --> 00:05:10,468
+Ah, olha só,
+a Lyra voltou dos mortos.
+
+46
+00:05:10,760 --> 00:05:11,886
+É um milagre.
+
+47
+00:05:15,556 --> 00:05:16,557
+Pare!
+
+48
+00:05:19,685 --> 00:05:20,895
+Ah, Lyra...
+
+49
+00:05:21,353 --> 00:05:22,897
+inconveniente como sempre.
+
+50
+00:05:23,272 --> 00:05:24,523
+Você não vai levá-lo.
+
+51
+00:05:25,107 --> 00:05:27,109
+Não, é claro que não.
+Vou levar todos vocês.
+
+52
+00:05:27,777 --> 00:05:30,446
+Todos irão. Você, sua filha.
+Terão muito conforto.
+
+53
+00:05:31,280 --> 00:05:32,448
+Como reféns.
+
+54
+00:05:32,740 --> 00:05:36,035
+Como heróis do Império.
+
+55
+00:05:36,285 --> 00:05:39,080
+Lyra. Abaixe isso.
+
+56
+00:05:40,623 --> 00:05:42,750
+Pense muito bem.
+
+57
+00:05:50,216 --> 00:05:51,884
+-Você nunca vencerá.
+-Atire.
+
+58
+00:05:54,845 --> 00:05:55,971
+Lyra!
+
+59
+00:05:56,889 --> 00:05:57,890
+Lyra!
+
+60
+00:06:00,309 --> 00:06:01,394
+Eles têm uma filha!
+
+61
+00:06:02,895 --> 00:06:04,397
+Encontrem-na!
+
+62
+00:07:34,070 --> 00:07:35,237
+Minha criança!
+
+63
+00:07:36,781 --> 00:07:37,948
+Venha.
+
+64
+00:07:39,617 --> 00:07:41,243
+Venha.
+
+65
+00:07:41,660 --> 00:07:44,747
+Temos uma longa jornada à frente.
+
+66
+00:08:22,785 --> 00:08:26,497
+<i>Verificação de segurança,
+pavilhão 4227.</i>
+
+67
+00:08:27,873 --> 00:08:29,667
+<i>4227.</i>
+
+68
+00:09:13,878 --> 00:09:18,007
+<i>TK-62, XX-25900.</i>
+
+69
+00:09:31,020 --> 00:09:32,354
+Eu já estava de partida.
+
+70
+00:09:32,605 --> 00:09:33,898
+Vim o mais rápido que pude.
+
+71
+00:09:34,148 --> 00:09:36,025
+Eu preciso voltar.
+Venha comigo.
+
+72
+00:09:36,067 --> 00:09:37,068
+Vai voltar para Jedha?
+
+73
+00:09:37,193 --> 00:09:38,235
+Eles irão sem mim.
+
+74
+00:09:38,444 --> 00:09:40,196
+Calma!
+Você tem notícias de Jedha.
+
+75
+00:09:40,529 --> 00:09:41,739
+Conte.
+
+76
+00:09:43,199 --> 00:09:47,370
+Um piloto imperial que transporta carga
+desertou ontem.
+
+77
+00:09:48,079 --> 00:09:50,206
+Ele disse que estão
+construindo uma arma.
+
+78
+00:09:50,373 --> 00:09:52,208
+É para isso que servem
+os cristais Kyber.
+
+79
+00:09:52,458 --> 00:09:53,459
+Que tipo de arma?
+
+80
+00:09:53,542 --> 00:09:55,961
+-Eu preciso ir.
+-Que tipo de arma?
+
+81
+00:09:56,212 --> 00:09:58,798
+Uma destruidora de planetas!
+Foi o que ele disse!
+
+82
+00:09:59,048 --> 00:10:00,800
+Uma destruidora de planetas?
+
+83
+00:10:00,966 --> 00:10:03,886
+Alguém chamado Erso o enviou.
+Um velho amigo do Saw.
+
+84
+00:10:04,053 --> 00:10:05,888
+Galen Erso? Foi ele?
+
+85
+00:10:06,138 --> 00:10:08,474
+Não sei! Estavam procurando
+o Saw quando saímos.
+
+86
+00:10:08,724 --> 00:10:10,893
+-Quem mais sabe sobre isso?
+-Não sei.
+
+87
+00:10:11,435 --> 00:10:13,270
+Está tudo desmoronando.
+
+88
+00:10:13,896 --> 00:10:14,897
+O Saw tem razão.
+
+89
+00:10:14,980 --> 00:10:17,149
+Há espiões em todo lugar.
+
+90
+00:10:17,942 --> 00:10:18,943
+<i>O que está acontecendo?</i>
+
+91
+00:10:20,111 --> 00:10:21,737
+<i>Quero ver os documentos.</i>
+
+92
+00:10:21,904 --> 00:10:24,615
+Sim, claro... minhas luvas.
+
+93
+00:10:28,244 --> 00:10:29,245
+Não!
+
+94
+00:10:30,162 --> 00:10:31,956
+O que você fez?
+
+95
+00:10:32,998 --> 00:10:34,750
+<i>Soldados abatidos. Seção 9.</i>
+
+96
+00:10:34,917 --> 00:10:36,085
+Você é louco?
+
+97
+00:10:36,585 --> 00:10:39,046
+Não vou conseguir escalar isso.
+Meu braço!
+
+98
+00:10:39,296 --> 00:10:40,339
+<i>Saiam da frente.</i>
+
+99
+00:10:40,589 --> 00:10:41,590
+<i>Vamos! Vamos!</i>
+
+100
+00:10:42,675 --> 00:10:45,094
+Ei, calma. Acalme-se.
+
+101
+00:10:46,095 --> 00:10:47,888
+Vai dar tudo certo.
+
+102
+00:11:28,262 --> 00:11:29,305
+Senhor.
+
+103
+00:11:34,310 --> 00:11:35,811
+É ele?
+
+104
+00:11:35,978 --> 00:11:39,523
+Ele é meio diferente
+do que eu imaginei.
+
+105
+00:11:40,232 --> 00:11:41,484
+Fique de pé!
+
+106
+00:11:41,817 --> 00:11:43,819
+É o piloto. O desertor.
+
+107
+00:11:45,154 --> 00:11:47,531
+Ok. Então, você é o Saw Gerrera?
+
+108
+00:11:47,865 --> 00:11:48,866
+Saw Gerrera?
+
+109
+00:11:49,533 --> 00:11:50,534
+Não?
+
+110
+00:11:51,619 --> 00:11:53,162
+Não temos tempo a perder.
+
+111
+00:11:53,329 --> 00:11:55,164
+Preciso falar com Saw Gerrera.
+Escutem.
+
+112
+00:11:55,331 --> 00:11:56,832
+Antes que seja tarde demais.
+
+113
+00:11:57,124 --> 00:11:58,125
+Cabeça baixa!
+
+114
+00:11:58,334 --> 00:11:59,919
+Os Imperiais vão procurá-lo...
+
+115
+00:12:00,544 --> 00:12:03,422
+Estamos no meio do nada.
+Precisamos chegar à Jedha.
+
+116
+00:12:03,672 --> 00:12:06,842
+Que parte de "mensagem urgente"
+vocês não entendem?
+
+117
+00:12:09,762 --> 00:12:12,890
+Estamos do mesmo lado.
+Esqueçam o uniforme um minuto.
+
+118
+00:12:54,932 --> 00:12:56,058
+<i>O que foi agora?</i>
+
+119
+00:12:56,892 --> 00:12:59,395
+<i>Não sei.
+Devem ter esquecido alguém.</i>
+
+120
+00:13:00,771 --> 00:13:02,064
+<i>Achei que estávamos com todos.</i>
+
+121
+00:13:09,363 --> 00:13:10,364
+Liberado, senhor.
+
+122
+00:13:10,448 --> 00:13:12,283
+Hallik! Liana Hallik!
+
+123
+00:13:12,450 --> 00:13:13,492
+Ela.
+
+124
+00:13:14,577 --> 00:13:16,412
+Você quer sair daqui?
+
+125
+00:13:17,329 --> 00:13:18,497
+Ei! E eu?
+
+126
+00:13:22,168 --> 00:13:24,253
+Me dá a chave!
+
+127
+00:13:33,179 --> 00:13:34,930
+Parabéns.
+Você está sendo resgatada.
+
+128
+00:13:36,932 --> 00:13:38,601
+Por favor, não resista.
+
+129
+00:13:57,661 --> 00:14:00,664
+<i>LU-28, reportar à manutenção
+no 4º andar.</i>
+
+130
+00:14:12,635 --> 00:14:16,931
+Está dizendo que seu nome
+é Liana Hallik. É isso mesmo?
+
+131
+00:14:18,641 --> 00:14:22,853
+Posse de armas não autorizadas.
+Falsificação de documentos imperiais.
+
+132
+00:14:23,187 --> 00:14:26,190
+Agressão com agravantes.
+Fuga de custódia. Resistência à prisão.
+
+133
+00:14:27,441 --> 00:14:29,318
+Imagine se as autoridades...
+
+134
+00:14:29,610 --> 00:14:32,488
+tivessem descoberto
+quem você realmente é, Jyn Erso.
+
+135
+00:14:33,697 --> 00:14:36,325
+É o seu verdadeiro nome, não é?
+
+136
+00:14:37,326 --> 00:14:39,662
+Jyn Erso, filha de Galen Erso?
+
+137
+00:14:40,496 --> 00:14:43,833
+Um conhecido colaborador imperial
+para desenvolvimento bélico.
+
+138
+00:14:47,670 --> 00:14:49,046
+O que é isso?
+
+139
+00:14:49,213 --> 00:14:51,090
+Uma chance de ter um recomeço.
+
+140
+00:14:51,340 --> 00:14:53,008
+Achamos que pode nos ajudar.
+
+141
+00:14:54,844 --> 00:14:56,345
+Capitão Cassian Andor,
+Inteligência Rebelde.
+
+142
+00:14:59,056 --> 00:15:01,600
+Quando foi a última vez
+que teve contato com seu pai?
+
+143
+00:15:03,686 --> 00:15:04,937
+Há 15 anos.
+
+144
+00:15:05,563 --> 00:15:08,023
+Faz ideia de onde ele esteve
+esse tempo todo?
+
+145
+00:15:11,402 --> 00:15:12,486
+Prefiro pensar que morreu.
+
+146
+00:15:12,695 --> 00:15:13,988
+É mais fácil.
+
+147
+00:15:14,155 --> 00:15:17,324
+Mais fácil que saber que ele ajuda
+a máquina de guerra imperial?
+
+148
+00:15:17,742 --> 00:15:20,202
+Nunca tive o luxo
+de ter opinião política.
+
+149
+00:15:20,369 --> 00:15:21,370
+Sério?
+
+150
+00:15:21,746 --> 00:15:24,665
+Quando foi seu último contato
+com Saw Gerrera?
+
+151
+00:15:31,380 --> 00:15:32,673
+Faz muito tempo.
+
+152
+00:15:34,216 --> 00:15:36,677
+Mas ele vai se lembrar de você.
+Não é?
+
+153
+00:15:36,927 --> 00:15:40,056
+Ele concordará em vê-la,
+se for como amiga.
+
+154
+00:15:41,348 --> 00:15:43,184
+O tempo está contra nós.
+Se não há nada a dizer...
+
+155
+00:15:43,225 --> 00:15:44,602
+vamos devolvê-la
+onde a encontramos.
+
+156
+00:15:45,853 --> 00:15:48,022
+Eu era pequena.
+Saw Gerrera me salvou. E me criou.
+
+157
+00:15:48,189 --> 00:15:50,399
+Mas não sei onde ele está.
+Não o vejo há anos.
+
+158
+00:15:50,566 --> 00:15:53,235
+Sabemos como encontrá-lo.
+Não é esse o problema.
+
+159
+00:15:53,444 --> 00:15:56,322
+Precisamos de alguém que nos ajude
+a entrar em segurança.
+
+160
+00:15:58,365 --> 00:16:00,242
+Todos vocês são rebeldes, não é?
+
+161
+00:16:00,409 --> 00:16:03,245
+Sim, mas Saw Gerrera
+é um extremista.
+
+162
+00:16:03,412 --> 00:16:05,831
+Luta sozinho desde que rompeu
+com a Rebelião.
+
+163
+00:16:06,374 --> 00:16:10,836
+Sua militância causou
+muitos problemas à Aliança.
+
+164
+00:16:12,630 --> 00:16:15,758
+Nossa única opção é tentar
+resgatar a confiança perdida.
+
+165
+00:16:16,550 --> 00:16:18,928
+O que isso tem a ver com meu pai?
+
+166
+00:16:24,517 --> 00:16:27,603
+Há um desertor imperial em Jedha.
+Um piloto.
+
+167
+00:16:27,770 --> 00:16:29,438
+Foi capturado por Saw Gerrera.
+
+168
+00:16:29,605 --> 00:16:32,441
+Ele diz que o Imperador
+está criando uma arma...
+
+169
+00:16:32,608 --> 00:16:34,735
+com o poder de destruir
+planetas inteiros.
+
+170
+00:16:37,488 --> 00:16:41,242
+O piloto diz que foi enviado
+por seu pai.
+
+171
+00:16:43,119 --> 00:16:45,579
+Precisamos deter essa arma
+antes que seja concluída.
+
+172
+00:16:46,205 --> 00:16:48,582
+A missão do capitão Andor
+é checar a história do piloto.
+
+173
+00:16:48,749 --> 00:16:50,292
+E depois, se possível,
+achar seu pai.
+
+174
+00:16:50,459 --> 00:16:53,671
+Parece que ele é essencial
+para criar essa superarma.
+
+175
+00:16:54,130 --> 00:16:57,675
+Devido à gravidade da situação
+e seu histórico com Saw...
+
+176
+00:16:57,842 --> 00:16:59,844
+esperamos que ele nos ajude
+a achar seu pai...
+
+177
+00:17:00,010 --> 00:17:02,638
+e entregá-lo ao Senado
+para testemunhar.
+
+178
+00:17:11,939 --> 00:17:13,065
+E se eu colaborar?
+
+179
+00:17:13,816 --> 00:17:16,402
+Providenciaremos para
+que seja libertada.
+
+180
+00:17:36,005 --> 00:17:37,006
+Capitão Andor.
+
+181
+00:17:48,851 --> 00:17:50,019
+Eu sou K-2SO.
+
+182
+00:17:52,521 --> 00:17:54,899
+Sou um droide imperial reprogramado.
+
+183
+00:17:55,775 --> 00:17:57,234
+Eu me lembro de você.
+
+184
+00:17:57,735 --> 00:17:59,987
+Vejo que o Conselho
+vai enviá-la à Jedha conosco.
+
+185
+00:18:02,490 --> 00:18:03,824
+Parece que sim.
+
+186
+00:18:05,326 --> 00:18:08,162
+É uma má ideia.
+É o que eu e o Cassian achamos.
+
+187
+00:18:12,541 --> 00:18:13,542
+Mas quem liga?
+
+188
+00:18:14,126 --> 00:18:17,421
+Eu sou só um especialista
+em análise estratégica.
+
+189
+00:18:17,713 --> 00:18:20,216
+Galen Erso é crucial
+para o programa bélico imperial.
+
+190
+00:18:20,424 --> 00:18:21,509
+Esqueça o que ouviu.
+
+191
+00:18:21,634 --> 00:18:23,386
+Não haverá extração.
+
+192
+00:18:23,552 --> 00:18:24,720
+Encontre-o...
+
+193
+00:18:25,346 --> 00:18:26,597
+e mate-o.
+
+194
+00:18:27,932 --> 00:18:29,600
+Imediatamente.
+
+195
+00:18:33,145 --> 00:18:35,147
+<i>Nave LMTR-20.</i>
+
+196
+00:18:35,231 --> 00:18:38,734
+<i>Preparar para decolar
+enquanto checamos a autorização.</i>
+
+197
+00:18:39,360 --> 00:18:40,361
+Conheceu o K-2?
+
+198
+00:18:40,569 --> 00:18:41,570
+Encantador.
+
+199
+00:18:42,947 --> 00:18:45,783
+Fala a primeira coisa
+que passa nos circuitos dele.
+
+200
+00:18:46,075 --> 00:18:48,244
+Efeito colateral da reprogramação.
+
+201
+00:18:48,327 --> 00:18:50,830
+Por que ela ganha um <i>blaster
+</i>e eu não?
+
+202
+00:18:52,081 --> 00:18:53,916
+-O quê?
+-Eu sei usar.
+
+203
+00:18:54,125 --> 00:18:56,752
+Meu medo é esse.
+Me dá isso.
+
+204
+00:18:59,755 --> 00:19:01,674
+Nós vamos para Jedha.
+
+205
+00:19:01,841 --> 00:19:03,259
+É uma zona de guerra.
+
+206
+00:19:03,509 --> 00:19:05,845
+Não é essa a questão.
+Onde conseguiu?
+
+207
+00:19:06,512 --> 00:19:07,513
+Eu encontrei.
+
+208
+00:19:07,680 --> 00:19:09,598
+É uma resposta vaga
+e pouco convincente.
+
+209
+00:19:12,685 --> 00:19:14,687
+A confiança deve ser mútua.
+
+210
+00:19:22,611 --> 00:19:24,280
+Vai deixá-la ficar com a arma?
+
+211
+00:19:25,448 --> 00:19:29,160
+Quer saber a probabilidade
+de ela ser usada contra você?
+
+212
+00:19:31,620 --> 00:19:32,955
+É alta.
+
+213
+00:19:33,122 --> 00:19:34,540
+Vamos nessa.
+
+214
+00:19:34,749 --> 00:19:36,125
+É muito alta.
+
+215
+00:20:16,290 --> 00:20:17,291
+Mentiras!
+
+216
+00:20:20,378 --> 00:20:21,670
+Trapaças!
+
+217
+00:20:26,008 --> 00:20:27,009
+Vejamos.
+
+218
+00:20:29,637 --> 00:20:33,224
+"Bodhi Rook. Piloto de carga."
+
+219
+00:20:33,474 --> 00:20:34,809
+É daqui, não é?
+
+220
+00:20:36,685 --> 00:20:39,188
+Foi capturado com isto na bota.
+
+221
+00:20:40,106 --> 00:20:41,524
+Estou ouvindo.
+
+222
+00:20:41,816 --> 00:20:43,609
+Não fui capturado.
+Vim porque quis.
+
+223
+00:20:43,692 --> 00:20:44,693
+Eu desertei.
+
+224
+00:20:44,735 --> 00:20:47,029
+Todo dia surgem mais mentiras.
+
+225
+00:20:48,489 --> 00:20:52,326
+Mentiras? E eu arriscaria tudo à toa?
+Não temos tempo pra isso.
+
+226
+00:20:52,493 --> 00:20:53,869
+Preciso falar com Saw Gerrera
+antes que seja tarde.
+
+227
+00:20:59,583 --> 00:21:00,584
+Ok.
+
+228
+00:21:01,168 --> 00:21:02,670
+Desculpe, você...
+
+229
+00:21:08,551 --> 00:21:10,136
+É para você.
+
+230
+00:21:11,637 --> 00:21:12,638
+Eu entreguei a eles.
+
+231
+00:21:12,722 --> 00:21:14,306
+Eles não acharam!
+
+232
+00:21:15,474 --> 00:21:16,726
+Eu entreguei.
+
+233
+00:21:19,019 --> 00:21:20,438
+Galen Erso.
+
+234
+00:21:21,731 --> 00:21:23,816
+Ele me pediu para achá-lo.
+
+235
+00:21:43,169 --> 00:21:44,170
+Bor Gullet.
+
+236
+00:21:44,879 --> 00:21:46,338
+Bor Gullet?
+
+237
+00:21:47,590 --> 00:21:49,425
+O quê? Espere!
+
+238
+00:21:50,676 --> 00:21:52,344
+Galen Erso me enviou!
+
+239
+00:21:52,762 --> 00:21:54,638
+Ele me pediu para achá-lo.
+
+240
+00:22:26,003 --> 00:22:29,799
+É lamentável a falha de segurança
+em Jedha, diretor Krennic.
+
+241
+00:22:29,965 --> 00:22:33,511
+Foram tantos contratempos
+e atrasos, e agora isso.
+
+242
+00:22:38,891 --> 00:22:42,269
+Ouvimos falar dos boatos
+que circulam pela cidade.
+
+243
+00:22:42,895 --> 00:22:46,399
+Parece que perdeu um piloto de carga
+bem tagarela.
+
+244
+00:22:46,732 --> 00:22:50,820
+Se o Senado souber do nosso projeto,
+muitos sistemas vão aderir à Rebelião.
+
+245
+00:22:50,861 --> 00:22:52,738
+Quando a estação for concluída,
+governador Tarkin...
+
+246
+00:22:53,364 --> 00:22:55,825
+o Senado não nos causará
+grandes transtornos.
+
+247
+00:22:56,784 --> 00:22:59,495
+A hora chegou, diretor Krennic.
+
+248
+00:22:59,829 --> 00:23:02,331
+O Imperador não vai tolerar
+mais atrasos.
+
+249
+00:23:03,165 --> 00:23:05,334
+Você transformou o tempo
+em aliado da Rebelião.
+
+250
+00:23:07,169 --> 00:23:09,088
+Sugiro resolvermos os dois problemas
+de uma vez só...
+
+251
+00:23:09,880 --> 00:23:12,842
+testando a arma imediatamente.
+
+252
+00:23:15,761 --> 00:23:21,016
+Se falhar, precisará se explicar
+a alguém bem menos paciente.
+
+253
+00:23:21,767 --> 00:23:24,228
+Eu não falharei.
+
+254
+00:24:02,224 --> 00:24:04,643
+Qual é o problema, Jyn?
+Parece assustada.
+
+255
+00:24:08,064 --> 00:24:10,191
+Sempre irei protegê-la.
+
+256
+00:24:15,780 --> 00:24:16,989
+Estrelinha.
+
+257
+00:24:17,656 --> 00:24:18,657
+Não mude nunca.
+
+258
+00:24:22,495 --> 00:24:23,746
+Confie.
+
+259
+00:24:26,290 --> 00:24:27,291
+<i>Galen.</i>
+
+260
+00:24:40,179 --> 00:24:41,972
+Entrando em órbita.
+Assuma o controle.
+
+261
+00:24:55,111 --> 00:24:56,153
+É Jedha.
+
+262
+00:24:58,114 --> 00:24:59,407
+Ou o que sobrou dela.
+
+263
+00:25:01,826 --> 00:25:04,412
+Se acharmos o Saw,
+encontraremos seu pai.
+
+264
+00:25:49,040 --> 00:25:50,249
+E esse destróier?
+
+265
+00:25:51,208 --> 00:25:54,086
+É por causa do seu amigo
+Saw Gerrera.
+
+266
+00:25:54,253 --> 00:25:56,756
+Ele tem atacado
+as remessas de carga.
+
+267
+00:25:57,882 --> 00:25:58,883
+O que estão trazendo?
+
+268
+00:26:01,010 --> 00:26:03,554
+A questão é o que estão levando.
+
+269
+00:26:05,139 --> 00:26:07,600
+Cristal Kyber.
+Todos que conseguirem.
+
+270
+00:26:07,767 --> 00:26:10,644
+Agora sabemos por que
+estavam dilapidando o templo.
+
+271
+00:26:10,978 --> 00:26:13,230
+É o combustível da arma.
+
+272
+00:26:13,397 --> 00:26:16,025
+A arma que seu pai está construindo.
+
+273
+00:26:16,233 --> 00:26:19,236
+Acho que devemos deixar
+nosso alvo fácil de lado.
+
+274
+00:26:19,487 --> 00:26:21,155
+Está falando de mim?
+
+275
+00:26:21,405 --> 00:26:24,742
+Ela tem razão. Vamos nos misturar.
+Fique na nave.
+
+276
+00:26:25,409 --> 00:26:28,454
+Eu consigo me misturar.
+Sou um droide imperial.
+
+277
+00:26:28,704 --> 00:26:31,040
+A cidade está sob ocupação imperial.
+
+278
+00:26:31,082 --> 00:26:32,500
+Metade das pessoas
+quer reprogramá-lo.
+
+279
+00:26:32,875 --> 00:26:35,294
+A outra metade quer matá-lo.
+
+280
+00:26:35,628 --> 00:26:38,005
+Estou surpreso que se preocupe
+com minha segurança.
+
+281
+00:26:38,047 --> 00:26:39,048
+Não é isso.
+
+282
+00:26:39,131 --> 00:26:42,718
+Tenho medo que errem o alvo
+e acabem acertando em mim.
+
+283
+00:26:47,932 --> 00:26:50,393
+Não me parece tão ruim.
+
+284
+00:27:10,246 --> 00:27:14,625
+Bor Gullet consegue sentir
+seus pensamentos.
+
+285
+00:27:17,920 --> 00:27:20,965
+Não é seguro mentir.
+
+286
+00:27:26,429 --> 00:27:30,933
+Afinal, o que você trouxe para mim,
+piloto de carga?
+
+287
+00:27:33,978 --> 00:27:37,106
+Bor Gullet saberá a verdade.
+
+288
+00:27:38,649 --> 00:27:42,236
+O efeito colateral indesejado
+é a tendência...
+
+289
+00:27:43,195 --> 00:27:44,613
+a enlouquecer.
+
+290
+00:27:44,780 --> 00:27:45,781
+Não!
+
+291
+00:28:16,479 --> 00:28:17,480
+Ei.
+
+292
+00:28:17,563 --> 00:28:18,564
+É bom tomar cuidado.
+
+293
+00:28:18,647 --> 00:28:19,648
+Espere. Não.
+
+294
+00:28:19,774 --> 00:28:20,775
+Desculpe.
+
+295
+00:28:20,900 --> 00:28:22,401
+Não queremos problemas.
+
+296
+00:28:23,569 --> 00:28:24,695
+Venha. Venha.
+
+297
+00:28:24,779 --> 00:28:26,614
+<i>Cidadãos de Jedha.</i>
+
+298
+00:28:26,781 --> 00:28:31,786
+<i>Apresentem-se com informações sobre
+a localização do piloto desaparecido.</i>
+
+299
+00:28:33,829 --> 00:28:35,873
+<i>E receberão 600 créditos
+como gratificação.</i>
+
+300
+00:28:35,956 --> 00:28:36,957
+Eu tinha um contato.
+
+301
+00:28:37,124 --> 00:28:39,043
+Um dos rebeldes de Saw.
+
+302
+00:28:39,543 --> 00:28:41,212
+Mas ele desapareceu.
+
+303
+00:28:41,545 --> 00:28:43,839
+A irmã dele irá procurá-lo.
+
+304
+00:28:44,507 --> 00:28:47,301
+O templo foi destruído,
+mas ela estará lá esperando.
+
+305
+00:28:47,468 --> 00:28:50,805
+Temos esperança de que seu nome
+nos consiga um encontro com Saw.
+
+306
+00:28:51,013 --> 00:28:52,098
+Esperança?
+
+307
+00:28:52,723 --> 00:28:55,893
+É. Rebeliões são construídas
+com esperança.
+
+308
+00:28:56,227 --> 00:28:57,895
+<i>Mãos ao alto.</i>
+
+309
+00:28:57,978 --> 00:28:58,979
+<i>Vá para lá.</i>
+
+310
+00:28:59,105 --> 00:29:01,524
+<i>Mostre seus documentos.
+Verifique lá dentro.</i>
+
+311
+00:29:03,234 --> 00:29:05,069
+Tudo isso é por causa
+do seu piloto?
+
+312
+00:29:09,615 --> 00:29:11,534
+Que a Força de outros
+esteja com você.
+
+313
+00:29:13,786 --> 00:29:15,162
+Espere por mim.
+
+314
+00:29:15,955 --> 00:29:17,873
+Que a Força de outros
+esteja com vocês.
+
+315
+00:29:20,042 --> 00:29:21,711
+Que a Força de outros
+esteja com vocês.
+
+316
+00:29:21,794 --> 00:29:24,839
+Quer trocar o colar
+por uma visão do seu futuro?
+
+317
+00:29:27,133 --> 00:29:28,134
+Sim.
+
+318
+00:29:28,634 --> 00:29:30,136
+Estou falando com você.
+
+319
+00:29:37,727 --> 00:29:39,979
+Sou Chirrut Îmwe.
+
+320
+00:29:41,272 --> 00:29:43,065
+Como sabe que estou
+usando um colar?
+
+321
+00:29:43,315 --> 00:29:45,234
+Para saber,
+terá que pagar.
+
+322
+00:29:49,905 --> 00:29:51,449
+O que sabe sobre cristais Kyber?
+
+323
+00:29:51,532 --> 00:29:53,117
+Meu pai, ele...
+
+324
+00:29:53,576 --> 00:29:56,078
+Disse que alimentavam
+os sabres de luz dos Jedi.
+
+325
+00:29:57,747 --> 00:29:58,914
+Jyn.
+
+326
+00:29:59,206 --> 00:30:00,291
+Venha. Vamos.
+
+327
+00:30:03,669 --> 00:30:06,630
+As estrelas mais fortes
+têm coração de Kyber.
+
+328
+00:30:10,801 --> 00:30:11,802
+Vamos.
+
+329
+00:30:12,428 --> 00:30:14,555
+Não viemos fazer amizades.
+
+330
+00:30:18,601 --> 00:30:19,602
+Quem são eles?
+
+331
+00:30:19,769 --> 00:30:23,230
+Os Guardiões dos Whills.
+Protetores do templo Kyber.
+
+332
+00:30:24,065 --> 00:30:26,233
+Mas não há mais nada a proteger.
+
+333
+00:30:26,567 --> 00:30:29,070
+Então, eles só criam problemas
+para todos.
+
+334
+00:30:30,613 --> 00:30:32,615
+Você ficou muito tenso de repente.
+
+335
+00:30:32,782 --> 00:30:36,660
+Temos que nos apressar.
+Esta cidade está prestes a explodir.
+
+336
+00:30:38,037 --> 00:30:39,705
+<i>Cidadãos do Império...</i>
+
+337
+00:30:40,456 --> 00:30:44,543
+<i>Forças imperiais combatem ativamente
+o reinado de terror de Saw Gerrera...</i>
+
+338
+00:30:44,710 --> 00:30:47,338
+<i>sobre o povo desta amada cidade.</i>
+
+339
+00:30:47,505 --> 00:30:50,966
+<i>Verdade e justiça
+são as ferramentas do Império.</i>
+
+340
+00:31:08,484 --> 00:31:10,486
+Diga que tem um plano B.
+
+341
+00:31:16,033 --> 00:31:17,034
+<i>Atenção!</i>
+
+342
+00:31:32,508 --> 00:31:34,719
+Parece que achamos
+os rebeldes do Saw.
+
+343
+00:31:40,891 --> 00:31:41,892
+<i>Ali!</i>
+
+344
+00:31:44,979 --> 00:31:46,021
+Jyn, não!
+
+345
+00:31:58,868 --> 00:31:59,869
+<i>Acertem o terrorista.</i>
+
+346
+00:32:00,703 --> 00:32:01,704
+Saia daí!
+
+347
+00:32:43,454 --> 00:32:44,497
+Vamos!
+
+348
+00:33:04,600 --> 00:33:05,601
+Por aqui!
+
+349
+00:33:07,269 --> 00:33:08,270
+Cassian!
+
+350
+00:33:31,460 --> 00:33:32,795
+Sabia que não era eu?
+
+351
+00:33:33,629 --> 00:33:35,297
+Sabia. É claro.
+
+352
+00:33:35,589 --> 00:33:37,383
+Achei que tinha dito
+pra ficar na nave.
+
+353
+00:33:37,883 --> 00:33:41,387
+E disse. Mas estava um tédio,
+e você se encrencou.
+
+354
+00:33:44,140 --> 00:33:45,182
+Houve explosões demais...
+
+355
+00:33:45,808 --> 00:33:47,601
+-para vocês se misturarem.
+<i>-Pare!</i>
+
+356
+00:33:50,479 --> 00:33:53,274
+Tem razão.
+Eu devia ter ficado na nave.
+
+357
+00:34:05,661 --> 00:34:07,747
+<i>Alto. Pare onde está.</i>
+
+358
+00:34:10,875 --> 00:34:12,043
+<i>Aonde vai com estes prisioneiros?</i>
+
+359
+00:34:13,794 --> 00:34:16,005
+-São prisioneiros.
+<i>-Sim. Aonde vão?</i>
+
+360
+00:34:16,297 --> 00:34:20,801
+Vou levá-los para aprisioná-los
+na prisão.
+
+361
+00:34:20,968 --> 00:34:22,511
+-Ele está nos levando...
+-Quieto!
+
+362
+00:34:23,554 --> 00:34:25,723
+Vai ganhar outro se não parar.
+
+363
+00:34:25,973 --> 00:34:27,391
+<i>-Nós os levaremos.
+</i>-Pode deixar.
+
+364
+00:34:27,683 --> 00:34:29,351
+Basta me dizer onde é
+que eu mesmo levo.
+
+365
+00:34:29,977 --> 00:34:31,395
+-Já trouxe até aqui.
+-Espere aí.
+
+366
+00:34:31,479 --> 00:34:32,480
+<i>-Leve-os.
+</i>-Espere.
+
+367
+00:34:32,980 --> 00:34:34,273
+Não pode levá-los.
+
+368
+00:34:34,523 --> 00:34:35,858
+<i>Você. Fique aqui.</i>
+
+369
+00:34:36,108 --> 00:34:37,193
+<i>Vamos checar seu diagnóstico.</i>
+
+370
+00:34:37,693 --> 00:34:38,819
+Diagnóstico?
+
+371
+00:34:39,028 --> 00:34:41,864
+Sei rodar meu diagnóstico sozinho,
+obrigado.
+
+372
+00:34:42,156 --> 00:34:43,616
+Deixe que sigam em paz.
+
+373
+00:34:49,538 --> 00:34:51,123
+Deixe que sigam em paz.
+
+374
+00:34:53,209 --> 00:34:54,794
+A Força está comigo.
+
+375
+00:34:55,378 --> 00:34:57,380
+E eu estou com a Força.
+
+376
+00:34:57,630 --> 00:35:01,384
+E eu não temo nada,
+pois tudo segue os desígnios da Força.
+
+377
+00:35:01,717 --> 00:35:03,469
+<i>Ei, pare aí mesmo.</i>
+
+378
+00:35:03,719 --> 00:35:04,720
+<i>Ele é cego.</i>
+
+379
+00:35:04,887 --> 00:35:06,222
+<i>Ele é surdo?</i>
+
+380
+00:35:06,472 --> 00:35:07,556
+<i>Eu mandei parar!</i>
+
+381
+00:35:22,238 --> 00:35:23,447
+Tudo bem com seu pé?
+
+382
+00:35:57,773 --> 00:35:58,774
+Quase me acertou.
+
+383
+00:35:58,941 --> 00:36:00,443
+De nada.
+
+384
+00:36:04,864 --> 00:36:06,198
+Sem agressores.
+
+385
+00:36:07,283 --> 00:36:09,201
+-Um agressor.
+-Ele está com a gente.
+
+386
+00:36:09,452 --> 00:36:10,453
+São confiáveis.
+
+387
+00:36:17,376 --> 00:36:18,627
+Obrigada.
+
+388
+00:36:20,087 --> 00:36:22,548
+Cassian, desculpe pelo tapa.
+
+389
+00:36:23,132 --> 00:36:25,760
+Volte para a nave.
+Espere eu chamar.
+
+390
+00:36:29,513 --> 00:36:30,514
+Ele é um Jedi?
+
+391
+00:36:30,806 --> 00:36:32,641
+Não tem mais nenhum Jedi aqui.
+
+392
+00:36:32,892 --> 00:36:34,310
+Só sonhadores como esse tolo.
+
+393
+00:36:34,977 --> 00:36:36,312
+A Força me protegeu.
+
+394
+00:36:36,729 --> 00:36:37,855
+Eu protegi você.
+
+395
+00:36:38,147 --> 00:36:39,982
+Podem nos levar a Saw Gerrera?
+
+396
+00:36:48,157 --> 00:36:49,158
+Não estão vendo?
+
+397
+00:36:49,408 --> 00:36:51,160
+Não somos amigos do Império.
+
+398
+00:36:51,494 --> 00:36:53,996
+Diga a quem matou nossos homens.
+
+399
+00:36:54,997 --> 00:36:58,459
+Quem matar a mim ou meus amigos
+vai se explicar com Saw Gerrera.
+
+400
+00:36:58,751 --> 00:37:00,669
+E por quê?
+
+401
+00:37:01,170 --> 00:37:03,172
+Porque eu sou a filha
+de Galen Erso.
+
+402
+00:37:04,840 --> 00:37:05,841
+Levem eles!
+
+403
+00:37:08,511 --> 00:37:11,180
+Estão de brincadeira?
+Eu sou cego.
+
+404
+00:38:48,486 --> 00:38:50,362
+Estou unido à Força,
+a Força está comigo.
+
+405
+00:38:50,696 --> 00:38:52,073
+Estou unido à Força,
+a Força está comigo.
+
+406
+00:38:52,239 --> 00:38:53,616
+Estou unido à Força,
+a Força está comigo.
+
+407
+00:38:54,617 --> 00:38:55,618
+Você reza?
+
+408
+00:38:55,785 --> 00:38:57,912
+Estou unido à Força,
+a Força está comigo.
+
+409
+00:38:58,079 --> 00:38:59,121
+Sério?
+
+410
+00:38:59,288 --> 00:39:00,623
+Estou unido à Força,
+a Força está comigo.
+
+411
+00:39:01,332 --> 00:39:03,125
+Ele está rezando
+pra porta abrir.
+
+412
+00:39:04,168 --> 00:39:06,253
+Ele fica assim
+porque sabe que é possível.
+
+413
+00:39:08,881 --> 00:39:12,635
+Baze Malbus já foi o guardião
+mais dedicado de todos nós.
+
+414
+00:39:13,469 --> 00:39:16,597
+Estou achando que a Força e eu
+temos prioridades diferentes.
+
+415
+00:39:16,931 --> 00:39:17,932
+Relaxe, Capitão.
+
+416
+00:39:18,516 --> 00:39:19,809
+Já estivemos em celas piores.
+
+417
+00:39:20,768 --> 00:39:21,852
+É a minha primeira.
+
+418
+00:39:23,729 --> 00:39:26,941
+Há vários tipos de prisão, Capitão.
+
+419
+00:39:27,233 --> 00:39:29,485
+Sinto que carrega a sua
+aonde quer que vá.
+
+420
+00:39:49,380 --> 00:39:50,381
+Jyn.
+
+421
+00:39:52,091 --> 00:39:54,427
+É você?
+
+422
+00:39:55,302 --> 00:39:57,513
+Não acredito!
+
+423
+00:39:58,723 --> 00:40:00,349
+Deve ser uma surpresa e tanto.
+
+424
+00:40:01,142 --> 00:40:04,687
+Nós não somos mais amigos?
+
+425
+00:40:05,438 --> 00:40:08,232
+Da última vez, me deu uma faca
+e um <i>blaster</i>...
+
+426
+00:40:08,524 --> 00:40:10,526
+e me disse para esperar
+no abrigo até amanhecer.
+
+427
+00:40:10,609 --> 00:40:12,361
+Eu sabia que estaria a salvo.
+
+428
+00:40:12,820 --> 00:40:14,363
+Você me abandonou.
+
+429
+00:40:14,697 --> 00:40:16,866
+Você já era meu melhor soldado.
+
+430
+00:40:17,032 --> 00:40:18,034
+Eu tinha 16 anos!
+
+431
+00:40:18,075 --> 00:40:19,076
+Estava te protegendo!
+
+432
+00:40:19,201 --> 00:40:20,202
+Você me descartou!
+
+433
+00:40:20,286 --> 00:40:23,205
+Você era filha de um cientista
+imperial conhecido.
+
+434
+00:40:24,331 --> 00:40:26,500
+As pessoas estavam percebendo.
+
+435
+00:40:27,043 --> 00:40:30,463
+As que queriam usá-la como refém.
+
+436
+00:40:33,257 --> 00:40:35,593
+Não há um dia...
+
+437
+00:40:36,093 --> 00:40:37,261
+que eu não pense em você.
+
+438
+00:40:42,516 --> 00:40:44,143
+Mas hoje...
+
+439
+00:40:44,935 --> 00:40:46,771
+dentre todos os dias...
+
+440
+00:40:52,068 --> 00:40:53,069
+É uma armadilha.
+
+441
+00:40:53,861 --> 00:40:54,945
+Não é?
+
+442
+00:40:56,155 --> 00:40:57,156
+O quê?
+
+443
+00:40:57,364 --> 00:40:58,657
+O piloto.
+
+444
+00:40:58,824 --> 00:41:00,326
+A mensagem.
+
+445
+00:41:00,409 --> 00:41:01,410
+Tudo.
+
+446
+00:41:14,423 --> 00:41:17,968
+Eles a enviaram?
+
+447
+00:41:20,971 --> 00:41:22,890
+Veio até aqui...
+
+448
+00:41:23,849 --> 00:41:25,434
+para me matar?
+
+449
+00:41:27,269 --> 00:41:28,854
+Não sobrou muita coisa.
+
+450
+00:41:29,605 --> 00:41:31,565
+A Aliança quer meu pai.
+
+451
+00:41:32,191 --> 00:41:34,652
+Acham que ele te mandou
+uma mensagem sobre uma arma.
+
+452
+00:41:34,819 --> 00:41:38,197
+Acham que me mandando aqui
+você poderia ajudá-los.
+
+453
+00:41:41,325 --> 00:41:44,286
+Então, o que é que você quer, Jyn?
+
+454
+00:41:47,164 --> 00:41:49,291
+Queriam chegar até você,
+já conseguiram.
+
+455
+00:41:49,750 --> 00:41:50,876
+Agora, estou fora.
+
+456
+00:41:51,043 --> 00:41:52,878
+Façam o que quiserem.
+
+457
+00:41:53,629 --> 00:41:56,424
+Não se importa com a causa?
+
+458
+00:41:56,757 --> 00:41:58,467
+A causa?
+
+459
+00:41:58,634 --> 00:42:00,010
+Sério?
+
+460
+00:42:01,095 --> 00:42:02,722
+A Aliança...
+
+461
+00:42:03,180 --> 00:42:05,641
+os rebeldes, sei lá
+qual é o nome atualmente...
+
+462
+00:42:05,933 --> 00:42:08,060
+tudo isso só me trouxe dor.
+
+463
+00:42:10,730 --> 00:42:14,817
+Tolera ver a bandeira imperial
+reinar por toda a galáxia?
+
+464
+00:42:15,609 --> 00:42:18,028
+Se não olhar para cima,
+não tem problema.
+
+465
+00:42:21,490 --> 00:42:23,284
+Tem uma coisa
+que quero que veja.
+
+466
+00:42:24,577 --> 00:42:25,578
+Venha.
+
+467
+00:42:42,720 --> 00:42:44,764
+O Imperador aguarda
+meu relatório.
+
+468
+00:42:44,930 --> 00:42:48,059
+Imaginei que ele e o Lorde Vader
+poderiam vir para a ocasião.
+
+469
+00:42:48,225 --> 00:42:50,853
+Achei que devia poupá-lo
+de um possível constrangimento.
+
+470
+00:42:51,020 --> 00:42:53,189
+Sua preocupação não se justifica.
+
+471
+00:42:53,355 --> 00:42:55,441
+Se falar adiantasse alguma coisa.
+
+472
+00:42:57,902 --> 00:43:00,613
+Todas as forças imperiais
+foram evacuadas...
+
+473
+00:43:00,780 --> 00:43:03,699
+e estou pronto
+para destruir a lua inteira.
+
+474
+00:43:03,991 --> 00:43:05,117
+Não será necessário.
+
+475
+00:43:05,284 --> 00:43:07,119
+Queremos uma declaração,
+não um manifesto.
+
+476
+00:43:07,578 --> 00:43:10,039
+A Cidade Sagrada bastará por hoje.
+
+477
+00:43:10,873 --> 00:43:14,418
+Alvo em Jedha.
+Ignição de reator único.
+
+478
+00:43:19,382 --> 00:43:20,424
+Senhor, quando quiser...
+
+479
+00:43:20,591 --> 00:43:21,592
+Fogo!
+
+480
+00:43:22,301 --> 00:43:24,095
+Iniciar ignição primária.
+
+481
+00:43:27,932 --> 00:43:29,266
+Quem está na cela ao lado?
+
+482
+00:43:30,226 --> 00:43:31,268
+O quê?
+
+483
+00:43:31,936 --> 00:43:33,104
+Onde?
+
+484
+00:43:37,983 --> 00:43:39,777
+Um piloto imperial.
+
+485
+00:43:40,069 --> 00:43:41,070
+-Piloto?
+-Vou matá-lo!
+
+486
+00:43:41,237 --> 00:43:42,238
+-Não, espere!
+-Venha aqui!
+
+487
+00:43:42,405 --> 00:43:43,739
+Não!
+
+488
+00:43:44,073 --> 00:43:45,741
+Para trás! Para trás!
+
+489
+00:43:48,411 --> 00:43:50,246
+Tudo bem.
+
+490
+00:43:50,996 --> 00:43:52,623
+Você é o piloto?
+
+491
+00:43:55,292 --> 00:43:59,296
+Ei. Ei. Você é o piloto?
+O piloto de carga?
+
+492
+00:43:59,463 --> 00:44:00,506
+Piloto?
+
+493
+00:44:00,840 --> 00:44:02,383
+Qual é o problema dele?
+
+494
+00:44:04,969 --> 00:44:06,595
+Galen Erso.
+
+495
+00:44:08,389 --> 00:44:09,598
+Já ouviu falar?
+
+496
+00:44:11,350 --> 00:44:14,228
+Eu trouxe a mensagem.
+Eu sou o piloto.
+
+497
+00:44:19,650 --> 00:44:20,943
+Eu sou o piloto.
+
+498
+00:44:22,278 --> 00:44:23,654
+Eu sou o piloto.
+
+499
+00:44:23,821 --> 00:44:25,489
+Tudo bem. Ótimo.
+
+500
+00:44:26,115 --> 00:44:27,783
+Onde está Galen Erso?
+
+501
+00:44:31,287 --> 00:44:32,288
+<i>Aguardar.</i>
+
+502
+00:44:38,377 --> 00:44:39,670
+Esta é a mensagem que eu trouxe.
+
+503
+00:44:44,884 --> 00:44:47,178
+<i>Saw, se estiver assistindo a isso...</i>
+
+504
+00:44:47,595 --> 00:44:50,598
+<i>talvez haja uma chance
+de salvar a Aliança.</i>
+
+505
+00:44:50,765 --> 00:44:52,892
+<i>Talvez haja uma chance
+de me explicar...</i>
+
+506
+00:44:53,059 --> 00:44:55,102
+<i>e, mesmo sem ter
+muita esperança...</i>
+
+507
+00:44:55,269 --> 00:44:57,813
+<i>uma chance para Jyn,
+se estiver viva...</i>
+
+508
+00:44:57,980 --> 00:44:59,940
+<i>se você conseguir achá-la...</i>
+
+509
+00:45:00,107 --> 00:45:04,862
+<i>diga a ela que meu amor
+não diminuiu...</i>
+
+510
+00:45:05,362 --> 00:45:07,281
+<i>e que sinto uma saudade imensa.</i>
+
+511
+00:45:11,202 --> 00:45:13,204
+<i>Jyn, minha estrelinha...</i>
+
+512
+00:45:14,872 --> 00:45:17,416
+<i>Não posso imaginar
+o que pensa de mim.</i>
+
+513
+00:45:17,583 --> 00:45:21,337
+<i>Quando fui levado,
+enfrentei amargas verdades.</i>
+
+514
+00:45:21,504 --> 00:45:25,132
+<i>Disseram-me que Krennic
+não demoraria a pegá-la também.</i>
+
+515
+00:45:25,299 --> 00:45:26,300
+<i>Com o tempo...</i>
+
+516
+00:45:26,675 --> 00:45:28,469
+<i>eu sabia que
+se não estivesse morta...</i>
+
+517
+00:45:28,636 --> 00:45:30,971
+<i>estaria tão bem escondida
+que ele nunca a acharia.</i>
+
+518
+00:45:31,722 --> 00:45:33,808
+<i>Que se me negasse a trabalhar
+e me matasse...</i>
+
+519
+00:45:34,350 --> 00:45:36,685
+<i>seria uma questão de tempo
+até Krennic notar...</i>
+
+520
+00:45:36,852 --> 00:45:39,271
+<i>que não precisava de mim
+para concluir o projeto.</i>
+
+521
+00:45:39,438 --> 00:45:41,857
+<i>Então fiz a única coisa
+que ninguém esperava.</i>
+
+522
+00:45:41,982 --> 00:45:42,983
+<i>Eu menti.</i>
+
+523
+00:45:43,818 --> 00:45:45,694
+<i>Eu aprendi a mentir.</i>
+
+524
+00:45:45,861 --> 00:45:49,782
+<i>Fiz o papel de alguém derrotado
+e resignado ao santuário do trabalho.</i>
+
+525
+00:45:50,074 --> 00:45:51,826
+<i>Eu me tornei indispensável...</i>
+
+526
+00:45:51,992 --> 00:45:55,913
+<i>e, enquanto isso, eu fui
+planejando minha vingança.</i>
+
+527
+00:45:56,622 --> 00:45:58,416
+<i>Chamamos de Estrela da Morte.</i>
+
+528
+00:45:58,874 --> 00:46:00,209
+<i>Não há nome melhor...</i>
+
+529
+00:46:00,376 --> 00:46:03,587
+<i>e logo chegará o dia
+em que ela será acionada.</i>
+
+530
+00:46:04,046 --> 00:46:06,590
+<i>Eu inseri um ponto vulnerável
+no sistema...</i>
+
+531
+00:46:06,924 --> 00:46:09,719
+<i>uma falha tão pequena e poderosa
+que nunca será achada.</i>
+
+532
+00:46:09,844 --> 00:46:10,845
+<i>Mas, Jyn...</i>
+
+533
+00:46:11,095 --> 00:46:13,347
+<i>Se estiver ouvindo,
+minha querida...</i>
+
+534
+00:46:14,765 --> 00:46:17,476
+<i>grande parte da minha vida
+foi desperdiçada.</i>
+
+535
+00:46:18,102 --> 00:46:21,522
+<i>Eu tento só pensar em você
+quando me sinto forte...</i>
+
+536
+00:46:21,689 --> 00:46:24,358
+<i>porque a dor
+de não ter você comigo...</i>
+
+537
+00:46:24,525 --> 00:46:27,278
+<i>sua mãe, nossa família.</i>
+
+538
+00:46:27,695 --> 00:46:29,655
+<i>A dor da perda é tão intensa...</i>
+
+539
+00:46:29,822 --> 00:46:31,615
+<i>que talvez eu não consiga
+ir até o fim.</i>
+
+540
+00:46:32,074 --> 00:46:34,493
+<i>É muito difícil não pensar em você.</i>
+
+541
+00:46:36,454 --> 00:46:38,247
+<i>Imaginar onde você está...</i>
+
+542
+00:46:39,623 --> 00:46:41,208
+<i>minha estrelinha.</i>
+
+543
+00:46:42,752 --> 00:46:43,753
+<i>Saw...</i>
+
+544
+00:46:43,836 --> 00:46:45,755
+<i>o módulo do reator é o segredo.</i>
+
+545
+00:46:46,047 --> 00:46:47,673
+<i>Foi onde deixei minha armadilha.</i>
+
+546
+00:46:48,132 --> 00:46:50,176
+<i>Está bem escondida e instável.</i>
+
+547
+00:46:50,760 --> 00:46:53,763
+<i>Um disparo em qualquer parte
+destruirá toda a estação.</i>
+
+548
+00:46:55,056 --> 00:46:56,432
+<i>Você precisará dos planos...</i>
+
+549
+00:46:56,766 --> 00:46:59,894
+<i>das plantas da Estrela da Morte,
+para localizar o reator.</i>
+
+550
+00:47:00,227 --> 00:47:01,979
+<i>Sei que há um mapa completo...</i>
+
+551
+00:47:02,146 --> 00:47:05,274
+<i>no banco de dados
+da Torre da Cidadela em Scarif.</i>
+
+552
+00:47:05,441 --> 00:47:07,735
+<i>Qualquer explosão pressurizada
+no módulo do reator...</i>
+
+553
+00:47:08,152 --> 00:47:10,821
+<i>desencadeará uma reação
+que destruirá a estação toda.</i>
+
+554
+00:47:38,808 --> 00:47:39,809
+Vá, vá!
+
+555
+00:47:43,604 --> 00:47:45,022
+K-2, K-2! Cadê você?
+
+556
+00:47:45,606 --> 00:47:46,649
+<i>Finalmente.</i>
+
+557
+00:47:47,024 --> 00:47:48,901
+Estou aguardando,
+conforme solicitado...
+
+558
+00:47:49,068 --> 00:47:51,028
+mas há um problema à vista.
+
+559
+00:47:51,946 --> 00:47:54,281
+Não há mais nada à vista.
+
+560
+00:47:54,532 --> 00:47:57,243
+Localize nossa posição.
+Traga a nave aqui, agora!
+
+561
+00:47:57,410 --> 00:47:58,494
+Aonde estão indo?
+
+562
+00:47:58,828 --> 00:48:00,287
+Preciso achar a Jyn.
+
+563
+00:48:00,955 --> 00:48:01,997
+Traga o piloto,
+precisamos dele!
+
+564
+00:48:02,164 --> 00:48:03,416
+Está bem.
+
+565
+00:48:03,582 --> 00:48:05,209
+Vou buscar o piloto.
+
+566
+00:48:12,842 --> 00:48:13,843
+Piloto.
+
+567
+00:48:15,469 --> 00:48:16,470
+Não, não!
+
+568
+00:48:19,265 --> 00:48:20,307
+Vamos.
+
+569
+00:48:20,599 --> 00:48:21,600
+Jyn!
+
+570
+00:48:22,560 --> 00:48:23,561
+Jyn!
+
+571
+00:48:27,857 --> 00:48:28,858
+Ei.
+
+572
+00:48:30,192 --> 00:48:31,193
+Precisamos ir.
+
+573
+00:48:32,153 --> 00:48:33,154
+Sei onde está seu pai.
+
+574
+00:48:34,739 --> 00:48:36,365
+Vá com ele, Jyn.
+
+575
+00:48:36,449 --> 00:48:37,450
+Precisa ir!
+
+576
+00:48:38,617 --> 00:48:39,618
+Venha conosco.
+
+577
+00:48:39,702 --> 00:48:41,370
+Não vou mais fugir.
+
+578
+00:48:41,746 --> 00:48:43,581
+-Venha.
+-Mas precisa se salvar.
+
+579
+00:48:44,123 --> 00:48:45,374
+-Venha.
+-Vá!
+
+580
+00:48:45,791 --> 00:48:46,792
+Não há mais tempo!
+
+581
+00:48:48,377 --> 00:48:49,920
+Salve a Rebelião!
+
+582
+00:48:50,629 --> 00:48:52,423
+Salve o sonho.
+
+583
+00:49:12,985 --> 00:49:14,820
+Ah, que lindo.
+
+584
+00:49:24,497 --> 00:49:26,040
+Chirrut, vamos!
+
+585
+00:49:27,708 --> 00:49:28,709
+Vamos!
+
+586
+00:49:28,959 --> 00:49:30,628
+Vamos sair daqui!
+
+587
+00:49:46,268 --> 00:49:47,269
+Tire-nos daqui!
+
+588
+00:49:47,603 --> 00:49:48,604
+Manda ver!
+
+589
+00:49:52,149 --> 00:49:53,192
+Não estou nada otimista.
+
+590
+00:49:53,526 --> 00:49:54,527
+Agora não, K.
+
+591
+00:50:40,656 --> 00:50:41,657
+Vamos!
+
+592
+00:50:46,328 --> 00:50:47,329
+Manda ver.
+
+593
+00:50:47,580 --> 00:50:48,581
+Não concluí meus cálculos.
+
+594
+00:50:48,873 --> 00:50:50,666
+Eu faço pra você.
+
+595
+00:51:18,944 --> 00:51:21,906
+Acho que devo me desculpar,
+diretor Krennic.
+
+596
+00:51:22,323 --> 00:51:25,076
+Seu trabalho superou
+todas as expectativas.
+
+597
+00:51:28,412 --> 00:51:30,247
+É o que dirá ao Imperador?
+
+598
+00:51:30,414 --> 00:51:32,416
+Direi que a paciência
+com suas desventuras...
+
+599
+00:51:32,708 --> 00:51:36,587
+foi recompensada com uma arma
+que eliminará rapidamente a Rebelião.
+
+600
+00:51:36,754 --> 00:51:40,591
+E foi só uma pequena amostra
+de seu poder de destruição.
+
+601
+00:51:40,758 --> 00:51:43,010
+Direi que assumirei
+o controle da arma...
+
+602
+00:51:43,260 --> 00:51:46,680
+que mencionei inicialmente há anos,
+desde já.
+
+603
+00:51:51,018 --> 00:51:53,938
+Estamos aqui graças
+à minha conquista.
+
+604
+00:51:54,397 --> 00:51:55,856
+E não sua!
+
+605
+00:51:55,940 --> 00:51:57,608
+Creio que as recentes
+falhas na segurança...
+
+606
+00:51:57,858 --> 00:52:01,070
+evidenciaram sua inadequação
+como diretor militar.
+
+607
+00:52:01,404 --> 00:52:03,656
+As falhas foram sanadas.
+
+608
+00:52:03,823 --> 00:52:06,158
+Jedha foi silenciada.
+
+609
+00:52:06,534 --> 00:52:08,077
+Acha que o piloto agiu sozinho?
+
+610
+00:52:08,494 --> 00:52:11,872
+Ele foi enviado
+da instalação em Eadu...
+
+611
+00:52:12,623 --> 00:52:15,209
+o complexo de Galen Erso.
+
+612
+00:52:18,671 --> 00:52:20,339
+Vamos apurar isso.
+
+613
+00:52:25,094 --> 00:52:26,429
+Mensagem codificada
+do capitão Andor.
+
+614
+00:52:27,763 --> 00:52:28,764
+"Arma confirmada."
+
+615
+00:52:29,306 --> 00:52:30,683
+"Jedha destruída."
+
+616
+00:52:31,267 --> 00:52:34,687
+"Alvo da missão localizado em Eadu,
+aguardo instruções."
+
+617
+00:52:34,770 --> 00:52:35,771
+Destruída?
+
+618
+00:52:41,444 --> 00:52:42,611
+Prossiga.
+
+619
+00:52:43,904 --> 00:52:46,282
+Informe que minhas ordens
+continuam válidas.
+
+620
+00:52:46,532 --> 00:52:48,451
+E que deve prosseguir
+com urgência...
+
+621
+00:52:48,868 --> 00:52:50,327
+e ater-se ao plano.
+
+622
+00:52:50,494 --> 00:52:52,663
+Não sabemos o que ele está
+construindo para o Império.
+
+623
+00:52:53,080 --> 00:52:56,167
+Temos que matar Galen Erso
+enquanto temos chance.
+
+624
+00:53:06,260 --> 00:53:08,763
+Baze, conte-me.
+
+625
+00:53:10,514 --> 00:53:11,807
+Tudo?
+
+626
+00:53:12,600 --> 00:53:14,351
+A cidade toda?
+
+627
+00:53:17,146 --> 00:53:18,147
+Conte-me.
+
+628
+00:53:18,230 --> 00:53:19,356
+Tudo.
+
+629
+00:53:26,989 --> 00:53:28,074
+Entendido.
+
+630
+00:53:36,499 --> 00:53:38,209
+Ajuste a rota para Eadu.
+
+631
+00:53:38,376 --> 00:53:39,418
+Ajustando para Eadu.
+
+632
+00:53:39,877 --> 00:53:41,504
+É onde meu pai está?
+
+633
+00:53:42,755 --> 00:53:43,756
+Acho que sim.
+
+634
+00:53:44,131 --> 00:53:45,841
+Você é a filha do Galen?
+
+635
+00:53:46,425 --> 00:53:47,426
+Você o conhece?
+
+636
+00:53:47,635 --> 00:53:50,137
+Eu sou Bodhi, o piloto.
+
+637
+00:53:50,429 --> 00:53:51,680
+Você trouxe a mensagem.
+
+638
+00:53:51,847 --> 00:53:52,848
+Sim.
+
+639
+00:53:52,973 --> 00:53:54,016
+Seu pai...
+
+640
+00:53:54,600 --> 00:53:56,852
+ele disse que eu podia
+me redimir.
+
+641
+00:53:57,603 --> 00:53:58,979
+Que eu conseguiria
+acertar as coisas...
+
+642
+00:53:59,438 --> 00:54:01,315
+se tivesse coragem suficiente...
+
+643
+00:54:02,149 --> 00:54:03,692
+para ouvir meu coração.
+
+644
+00:54:04,902 --> 00:54:06,404
+E tomasse uma providência.
+
+645
+00:54:09,657 --> 00:54:10,658
+Acho que foi tarde demais.
+
+646
+00:54:12,910 --> 00:54:14,120
+Não foi não.
+
+647
+00:54:14,578 --> 00:54:16,247
+Me parece meio tarde.
+
+648
+00:54:16,330 --> 00:54:17,581
+Não.
+
+649
+00:54:18,165 --> 00:54:20,418
+Podemos derrotar quem fez isso.
+
+650
+00:54:20,876 --> 00:54:23,421
+Eu vi a mensagem do meu pai.
+
+651
+00:54:25,214 --> 00:54:26,882
+Eles a chamam
+de Estrela da Morte.
+
+652
+00:54:27,425 --> 00:54:28,426
+Mas não sabem...
+
+653
+00:54:28,759 --> 00:54:30,219
+que há um jeito de destruí-la.
+
+654
+00:54:30,636 --> 00:54:31,679
+Está enganado sobre meu pai.
+
+655
+00:54:33,055 --> 00:54:34,056
+Ele a projetou.
+
+656
+00:54:34,223 --> 00:54:35,808
+Porque sabia que fariam sem ele.
+
+657
+00:54:36,684 --> 00:54:38,018
+Meu pai fez uma escolha.
+
+658
+00:54:38,394 --> 00:54:40,563
+Ele se sacrificou pela Rebelião.
+
+659
+00:54:40,730 --> 00:54:42,064
+Ele inseriu uma armadilha nela.
+
+660
+00:54:42,523 --> 00:54:44,567
+E enviou você para trazer
+essa mensagem.
+
+661
+00:54:44,817 --> 00:54:45,818
+Onde está?
+
+662
+00:54:46,569 --> 00:54:47,737
+Onde está a mensagem?
+
+663
+00:54:51,240 --> 00:54:52,241
+Era um holograma.
+
+664
+00:54:53,743 --> 00:54:55,745
+Você está com a mensagem, não é?
+
+665
+00:55:01,834 --> 00:55:04,045
+Foi tudo tão rápido.
+
+666
+00:55:04,920 --> 00:55:05,921
+Você viu?
+
+667
+00:55:09,258 --> 00:55:10,259
+Não acredita em mim?
+
+668
+00:55:12,178 --> 00:55:14,430
+Não é a mim que precisa convencer.
+
+669
+00:55:14,722 --> 00:55:15,765
+Eu acredito nela.
+
+670
+00:55:17,600 --> 00:55:18,809
+É bom saber.
+
+671
+00:55:19,143 --> 00:55:20,144
+Que tipo de armadilha?
+
+672
+00:55:21,687 --> 00:55:22,938
+Disse que seu pai fez uma.
+
+673
+00:55:23,314 --> 00:55:25,274
+O reator.
+Tem um ponto vulnerável.
+
+674
+00:55:25,524 --> 00:55:26,525
+Escondido há anos.
+
+675
+00:55:26,776 --> 00:55:30,446
+Disse que se explodirem o módulo
+do reator, o sistema todo é destruído.
+
+676
+00:55:31,530 --> 00:55:33,074
+Precisa avisar à Aliança.
+
+677
+00:55:33,199 --> 00:55:34,200
+Já fiz isso.
+
+678
+00:55:34,283 --> 00:55:36,160
+Precisam saber que há
+como destruir essa coisa.
+
+679
+00:55:36,577 --> 00:55:38,245
+Precisam ir a Scarif
+e pegar os planos.
+
+680
+00:55:38,412 --> 00:55:39,955
+É arriscado transmitir isso.
+
+681
+00:55:40,164 --> 00:55:41,832
+Estamos em território imperial.
+
+682
+00:55:43,250 --> 00:55:45,836
+Então, vamos achá-lo
+e trazê-lo de volta.
+
+683
+00:55:46,921 --> 00:55:48,172
+E ele mesmo poderá falar.
+
+684
+00:56:06,315 --> 00:56:08,484
+Rota ajustada para Eadu, senhor.
+
+685
+00:56:26,836 --> 00:56:28,170
+Estou unido à Força,
+a Força está comigo.
+
+686
+00:56:28,212 --> 00:56:29,380
+Estou unido à Força,
+a Força está comigo.
+
+687
+00:56:29,463 --> 00:56:30,464
+20 graus à direita.
+
+688
+00:56:32,508 --> 00:56:33,676
+10 para cima.
+
+689
+00:56:33,926 --> 00:56:35,010
+Pra baixo, pra baixo!
+
+690
+00:56:35,594 --> 00:56:36,887
+Tem certeza de que é por aqui?
+
+691
+00:56:37,179 --> 00:56:38,180
+Há rastreadores de pouso.
+
+692
+00:56:38,514 --> 00:56:39,515
+Esquadrões de patrulha.
+
+693
+00:56:39,557 --> 00:56:40,850
+Precisa ficar no cânion.
+Esconda-se.
+
+694
+00:56:46,063 --> 00:56:47,064
+Cuidado à direita!
+
+695
+00:56:51,360 --> 00:56:53,070
+Há 26% de chance de falha.
+
+696
+00:56:53,320 --> 00:56:54,321
+Quanto falta?
+
+697
+00:56:54,447 --> 00:56:56,240
+Não tenho certeza.
+Nunca venho por aqui.
+
+698
+00:56:56,532 --> 00:56:58,367
+Mas está bem perto.
+Isso eu sei.
+
+699
+00:56:58,868 --> 00:57:01,370
+-Agora, há 35% de chance de falha.
+-Não interessa. Obrigado!
+
+700
+00:57:01,412 --> 00:57:02,413
+Entendo.
+
+701
+00:57:03,706 --> 00:57:04,999
+Agora! Pra baixo, agora!
+
+702
+00:57:05,249 --> 00:57:06,333
+O vento.
+
+703
+00:57:06,584 --> 00:57:08,085
+Siga e sairá acima
+da estação de transporte.
+
+704
+00:57:09,211 --> 00:57:10,212
+-Cuidado!
+-K!
+
+705
+00:57:13,424 --> 00:57:14,675
+Segurem firme!
+
+706
+00:57:14,759 --> 00:57:15,968
+Vamos descer com tudo!
+
+707
+00:57:28,481 --> 00:57:29,482
+Tente de novo.
+
+708
+00:57:29,565 --> 00:57:31,609
+Estou tentando, senhor. Nós...
+
+709
+00:57:32,026 --> 00:57:33,152
+O sinal caiu.
+
+710
+00:57:35,613 --> 00:57:36,989
+Esquadrão ativo.
+
+711
+00:57:37,740 --> 00:57:38,908
+Alvo em Eadu.
+
+712
+00:57:48,876 --> 00:57:50,252
+E agora?
+Checar estabilizadores.
+
+713
+00:57:54,715 --> 00:57:56,175
+Bodhi, onde é o laboratório?
+
+714
+00:57:56,425 --> 00:57:57,426
+A unidade de pesquisa?
+
+715
+00:57:57,551 --> 00:57:58,552
+É. Onde fica?
+
+716
+00:57:58,636 --> 00:58:00,137
+Logo depois daquela colina.
+
+717
+00:58:00,471 --> 00:58:02,640
+Tem uma estação de transporte
+à nossa frente.
+
+718
+00:58:02,932 --> 00:58:04,433
+-Tem certeza?
+-Tenho.
+
+719
+00:58:04,683 --> 00:58:07,436
+Tomara que ainda tenha
+uma nave imperial para roubarmos.
+
+720
+00:58:08,312 --> 00:58:09,605
+Vamos fazer o seguinte.
+
+721
+00:58:09,897 --> 00:58:12,691
+A tempestade deverá nos manter
+escondidos aqui embaixo.
+
+722
+00:58:12,858 --> 00:58:14,652
+Bodhi, você vem comigo.
+
+723
+00:58:14,944 --> 00:58:16,445
+Vamos dar uma olhada lá da colina.
+
+724
+00:58:16,570 --> 00:58:17,655
+Vou com vocês.
+
+725
+00:58:17,947 --> 00:58:19,448
+Não, a mensagem do seu pai.
+
+726
+00:58:19,740 --> 00:58:21,784
+Não podemos arriscar.
+É a mensageira.
+
+727
+00:58:22,034 --> 00:58:24,578
+Isso é ridículo, todos recebemos
+a mensagem. Todos sabem.
+
+728
+00:58:26,163 --> 00:58:29,166
+"Se explodirem o módulo do reator,
+o sistema todo é destruído."
+
+729
+00:58:29,250 --> 00:58:31,836
+Foi como você disse:
+"o sistema todo é destruído".
+
+730
+00:58:32,086 --> 00:58:34,130
+Vá consertar o sistema
+de comunicação.
+
+731
+00:58:35,631 --> 00:58:38,050
+Eu só quero ter uma ideia
+do que iremos enfrentar.
+
+732
+00:58:38,300 --> 00:58:40,970
+Então, vamos subir aos poucos
+e com cuidado...
+
+733
+00:58:41,220 --> 00:58:42,221
+para entender a situação.
+
+734
+00:58:43,013 --> 00:58:44,181
+Vamos logo.
+
+735
+00:58:57,862 --> 00:58:59,613
+Ele tem cara de assassino?
+
+736
+00:59:00,156 --> 00:59:02,074
+Não, ele tem cara de amigo.
+
+737
+00:59:02,491 --> 00:59:03,951
+De quem estão falando?
+
+738
+00:59:04,660 --> 00:59:06,370
+Do capitão Andor.
+
+739
+00:59:06,954 --> 00:59:09,248
+Por que essa pergunta?
+Como assim "cara de assassino"?
+
+740
+00:59:09,540 --> 00:59:13,252
+A Força é sombria ao redor
+de uma criatura prestes a matar.
+
+741
+00:59:15,713 --> 00:59:17,465
+A arma dele tinha mira
+para longa distância.
+
+742
+00:59:24,013 --> 00:59:26,182
+Não, não.
+Precisamos subir.
+
+743
+00:59:26,348 --> 00:59:27,850
+Não dá pra ver nada
+lá de baixo.
+
+744
+01:00:01,842 --> 01:00:02,843
+Por aqui.
+
+745
+01:00:03,636 --> 01:00:05,679
+Estou logo atrás de você.
+
+746
+01:00:06,430 --> 01:00:07,640
+Vamos.
+
+747
+01:00:24,448 --> 01:00:25,866
+Aonde está indo?
+
+748
+01:00:26,200 --> 01:00:28,119
+Vou atrás da Jyn.
+
+749
+01:00:28,285 --> 01:00:30,204
+O caminho dela é claro.
+
+750
+01:00:30,371 --> 01:00:31,706
+Sozinho?
+
+751
+01:00:32,164 --> 01:00:33,457
+Boa sorte!
+
+752
+01:00:33,624 --> 01:00:36,585
+Não preciso de sorte.
+Eu tenho você!
+
+753
+01:00:45,678 --> 01:00:47,221
+O que estão fazendo?
+
+754
+01:00:47,805 --> 01:00:50,266
+Se Cassian voltar,
+vamos partir sem eles.
+
+755
+01:01:09,118 --> 01:01:10,703
+Está vendo o Erso lá?
+
+756
+01:01:18,169 --> 01:01:19,628
+Já fomos longe demais.
+
+757
+01:01:22,965 --> 01:01:24,633
+Paciência, meu amigo.
+
+758
+01:01:34,977 --> 01:01:36,062
+É ele.
+
+759
+01:01:36,228 --> 01:01:38,898
+É ele. Galen, de traje escuro.
+
+760
+01:01:54,705 --> 01:01:57,416
+Volte lá e dê um jeito
+de nos tirar daqui.
+
+761
+01:01:57,583 --> 01:01:58,667
+O que vai fazer?
+
+762
+01:01:58,793 --> 01:01:59,794
+Você me ouviu.
+
+763
+01:01:59,835 --> 01:02:01,295
+Não falou só pra dar uma olhada?
+
+764
+01:02:01,462 --> 01:02:03,714
+Estou aqui, estou olhando.
+Vá.
+
+765
+01:02:05,007 --> 01:02:06,092
+Rápido!
+
+766
+01:02:16,852 --> 01:02:18,521
+Ótima notícia, Galen.
+
+767
+01:02:18,604 --> 01:02:21,023
+A estação bélica está concluída.
+
+768
+01:02:21,607 --> 01:02:22,942
+Deve estar muito orgulhoso.
+
+769
+01:02:23,859 --> 01:02:25,528
+Mais orgulhoso impossível, Krennic.
+
+770
+01:02:25,861 --> 01:02:28,572
+Reúna seus engenheiros.
+Farei um comunicado.
+
+771
+01:02:45,047 --> 01:02:46,173
+Estão todos aqui?
+
+772
+01:02:46,632 --> 01:02:47,717
+Sim.
+
+773
+01:02:52,888 --> 01:02:55,182
+Cavalheiros, um de vocês...
+
+774
+01:02:55,725 --> 01:02:57,643
+traiu o Império.
+
+775
+01:02:59,228 --> 01:03:02,148
+Um de vocês conspirou
+com um piloto...
+
+776
+01:03:02,314 --> 01:03:05,484
+para enviar mensagens à Rebelião.
+
+777
+01:03:06,277 --> 01:03:08,529
+E eu ordeno que o traidor...
+
+778
+01:03:08,779 --> 01:03:09,989
+se apresente.
+
+779
+01:03:24,086 --> 01:03:25,087
+Muito bem...
+
+780
+01:03:25,171 --> 01:03:27,048
+vou assumir que é
+um trabalho coletivo.
+
+781
+01:03:27,381 --> 01:03:28,382
+Preparar!
+
+782
+01:03:28,424 --> 01:03:29,425
+Não!
+
+783
+01:03:29,508 --> 01:03:30,509
+Apontar!
+
+784
+01:03:31,927 --> 01:03:32,928
+E fogo!
+
+785
+01:03:33,220 --> 01:03:34,722
+Pare! Pare!
+
+786
+01:03:34,805 --> 01:03:35,806
+Krennic, pare!
+
+787
+01:03:35,931 --> 01:03:37,016
+Fui eu!
+
+788
+01:03:37,349 --> 01:03:39,101
+Fui eu!
+
+789
+01:03:49,403 --> 01:03:50,905
+Eles não têm nada
+a ver com isso.
+
+790
+01:03:51,197 --> 01:03:52,448
+Poupe-os.
+
+791
+01:04:17,598 --> 01:04:18,599
+Fogo!
+
+792
+01:04:30,820 --> 01:04:33,239
+Como saberei que a arma
+foi concluída?
+
+793
+01:04:33,406 --> 01:04:36,951
+Vou lhe contar alguns detalhes.
+
+794
+01:04:51,382 --> 01:04:52,425
+<i>Cassian.</i>
+
+795
+01:04:53,008 --> 01:04:54,343
+Cassian, está me ouvindo?
+
+796
+01:04:54,427 --> 01:04:55,803
+<i>Estou. Consertou?</i>
+
+797
+01:04:55,970 --> 01:04:57,847
+Positivo.
+Mas tem um problema.
+
+798
+01:04:58,139 --> 01:05:00,516
+Tem um esquadrão da Aliança
+chegando. Deixe o local.
+
+799
+01:05:00,808 --> 01:05:02,852
+Não, não, não!
+Mande esperar!
+
+800
+01:05:03,018 --> 01:05:04,478
+Jyn está na plataforma.
+
+801
+01:05:07,481 --> 01:05:08,482
+Jedha...
+
+802
+01:05:10,526 --> 01:05:12,862
+Saw Gerrera e seu bando
+de fanáticos...
+
+803
+01:05:12,903 --> 01:05:14,447
+sua cidade sagrada...
+
+804
+01:05:14,613 --> 01:05:18,284
+a última lembrança dos Jedi,
+foram todos destruídos.
+
+805
+01:05:19,493 --> 01:05:20,870
+Você nunca vencerá.
+
+806
+01:05:21,454 --> 01:05:24,206
+Onde foi que ouvi isso antes?
+
+807
+01:05:25,708 --> 01:05:27,209
+<i>Transmissão do capitão Andor.</i>
+
+808
+01:05:27,752 --> 01:05:28,753
+General.
+
+809
+01:05:28,878 --> 01:05:31,213
+<i>O Capitão solicita
+que o esquadrão de apoio aguarde.</i>
+
+810
+01:05:31,297 --> 01:05:33,883
+<i>Forças da Aliança no local.
+Confirme.</i>
+
+811
+01:05:34,050 --> 01:05:35,885
+Chame o líder do esquadrão.
+Agora!
+
+812
+01:05:36,093 --> 01:05:37,219
+Eles já estão em ação, senhor.
+
+813
+01:06:01,452 --> 01:06:03,704
+Jyn. Não.
+
+814
+01:06:04,789 --> 01:06:07,958
+Contra-ataquem! Às suas estações.
+
+815
+01:06:08,042 --> 01:06:10,211
+Mandem os caças decolarem!
+
+816
+01:06:16,384 --> 01:06:17,426
+Pai!
+
+817
+01:06:37,029 --> 01:06:38,656
+<i>Entendido. Do 3 ao 7.</i>
+
+818
+01:06:53,754 --> 01:06:55,923
+Recuar! Recuar!
+
+819
+01:06:56,090 --> 01:06:59,009
+Diretor, precisamos evacuar.
+
+820
+01:08:09,580 --> 01:08:10,581
+Papai.
+
+821
+01:08:10,664 --> 01:08:11,665
+Papai, sou eu.
+
+822
+01:08:15,169 --> 01:08:16,420
+É a Jyn.
+
+823
+01:08:17,254 --> 01:08:18,381
+Jyn?
+
+824
+01:08:20,466 --> 01:08:21,675
+Estrelinha.
+
+825
+01:08:22,718 --> 01:08:23,886
+Papai.
+
+826
+01:08:25,137 --> 01:08:26,722
+Eu vi sua mensagem.
+
+827
+01:08:26,972 --> 01:08:28,891
+Eu vi o holograma.
+
+828
+01:08:29,892 --> 01:08:31,769
+Ela deve ser destruída.
+
+829
+01:08:32,103 --> 01:08:33,938
+Eu sei. Eu sei.
+
+830
+01:08:34,939 --> 01:08:35,940
+Vamos fazer isso.
+
+831
+01:08:37,149 --> 01:08:38,359
+Jyn.
+
+832
+01:08:41,112 --> 01:08:42,113
+Olhe só pra você.
+
+833
+01:08:45,574 --> 01:08:47,827
+Tenho tanta coisa para contar.
+
+834
+01:08:58,587 --> 01:08:59,588
+Papai.
+
+835
+01:09:00,673 --> 01:09:01,674
+Não.
+
+836
+01:09:01,757 --> 01:09:03,801
+Não! Papai.
+
+837
+01:09:05,094 --> 01:09:06,387
+Papai, responda!
+
+838
+01:09:06,846 --> 01:09:08,097
+<i>Ali! Derrubem.</i>
+
+839
+01:09:09,265 --> 01:09:11,559
+Venha. Papai. Levante.
+
+840
+01:09:13,936 --> 01:09:14,937
+Jyn, precisamos ir.
+Venha.
+
+841
+01:09:15,104 --> 01:09:16,397
+Não posso deixá-lo.
+
+842
+01:09:16,647 --> 01:09:18,941
+Escute, ele morreu.
+
+843
+01:09:18,983 --> 01:09:20,651
+Não há o que fazer.
+Venha.
+
+844
+01:09:20,943 --> 01:09:22,153
+-Não posso deixá-lo.
+-Vamos!
+
+845
+01:09:22,445 --> 01:09:23,487
+Não posso.
+
+846
+01:09:23,779 --> 01:09:24,780
+Anda!
+
+847
+01:09:31,495 --> 01:09:33,080
+<i>-Por aqui!
+</i>-Abaixa!
+
+848
+01:09:38,210 --> 01:09:39,420
+Vamos!
+
+849
+01:09:56,062 --> 01:09:57,063
+Muito bem.
+
+850
+01:09:57,271 --> 01:09:59,106
+Agora você é um rebelde.
+
+851
+01:10:06,197 --> 01:10:07,198
+Vamos!
+
+852
+01:10:07,281 --> 01:10:08,616
+Rápido, vamos!
+
+853
+01:10:08,741 --> 01:10:10,618
+Rápido, vamos sair daqui!
+
+854
+01:10:10,785 --> 01:10:12,036
+Anda, anda!
+
+855
+01:10:13,120 --> 01:10:15,289
+Pronto, K-2, vamos!
+
+856
+01:10:15,498 --> 01:10:16,499
+Positivo.
+
+857
+01:10:34,558 --> 01:10:36,811
+Propulsores em baixa
+até deixar a tempestade.
+
+858
+01:10:36,852 --> 01:10:38,062
+Entendido.
+
+859
+01:10:56,288 --> 01:10:57,540
+Você mentiu para mim.
+
+860
+01:10:58,666 --> 01:11:00,084
+Você está em choque.
+
+861
+01:11:01,085 --> 01:11:02,753
+Foi até lá para matar meu pai.
+
+862
+01:11:04,171 --> 01:11:06,507
+Não sabe do que está falando.
+
+863
+01:11:06,757 --> 01:11:08,050
+Negue.
+
+864
+01:11:08,509 --> 01:11:12,054
+Está em choque
+e quer descontar em alguém.
+
+865
+01:11:12,221 --> 01:11:13,389
+Já vi isso.
+
+866
+01:11:13,597 --> 01:11:14,765
+Aposto que sim.
+
+867
+01:11:14,890 --> 01:11:15,891
+Eles sabem.
+
+868
+01:11:16,350 --> 01:11:19,019
+Mentiu sobre o motivo de termos vindo
+e de ter ido lá sozinho.
+
+869
+01:11:20,771 --> 01:11:23,065
+Eu poderia ter puxado o gatilho...
+
+870
+01:11:23,357 --> 01:11:24,859
+e eu fiz isso?
+
+871
+01:11:27,820 --> 01:11:28,821
+Fiz?
+
+872
+01:11:29,363 --> 01:11:30,489
+Foi como se tivesse feito.
+
+873
+01:11:31,532 --> 01:11:32,908
+Meu pai era a prova viva...
+
+874
+01:11:33,200 --> 01:11:34,410
+e você o colocou em risco.
+
+875
+01:11:35,077 --> 01:11:36,829
+As bombas que o mataram
+eram da Aliança.
+
+876
+01:11:37,079 --> 01:11:38,539
+Eu recebi ordens...
+
+877
+01:11:38,581 --> 01:11:40,750
+ordens que eu desobedeci.
+
+878
+01:11:41,125 --> 01:11:42,501
+Mas você não entenderia.
+
+879
+01:11:42,668 --> 01:11:43,711
+Ordens?
+
+880
+01:11:44,003 --> 01:11:45,755
+Mesmo sendo erradas?
+
+881
+01:11:47,757 --> 01:11:50,051
+Fala como se fosse um <i>stormtrooper.</i>
+
+882
+01:11:50,092 --> 01:11:51,260
+E o que você sabe?
+
+883
+01:11:51,969 --> 01:11:53,721
+Nem todos têm o luxo
+de decidir...
+
+884
+01:11:53,888 --> 01:11:56,223
+quando e onde queremos
+nos importar com algo.
+
+885
+01:11:56,807 --> 01:11:58,934
+A Rebelião é real para você agora.
+
+886
+01:11:59,518 --> 01:12:01,312
+Para alguns de nós
+é a vida inteira.
+
+887
+01:12:02,146 --> 01:12:05,274
+Estou nessa luta
+desde que eu tinha 6 anos.
+
+888
+01:12:07,943 --> 01:12:10,863
+Não é a única que perdeu tudo.
+
+889
+01:12:12,114 --> 01:12:15,868
+Alguns de nós decidimos
+fazer algo a respeito.
+
+890
+01:12:18,454 --> 01:12:20,790
+Não vai me convencer
+com essa conversa.
+
+891
+01:12:24,502 --> 01:12:26,003
+E nem quero.
+
+892
+01:12:29,882 --> 01:12:31,342
+Yavin 4.
+
+893
+01:12:31,967 --> 01:12:35,304
+Quero que saibam que chegaremos
+numa nave roubada.
+
+894
+01:12:38,808 --> 01:12:40,184
+Alguém mais?
+
+895
+01:13:37,491 --> 01:13:40,703
+Milorde, o diretor Krennic...
+
+896
+01:13:40,953 --> 01:13:42,788
+chegou.
+
+897
+01:14:43,307 --> 01:14:44,475
+Diretor Krennic.
+
+898
+01:14:46,018 --> 01:14:47,645
+Lorde Vader.
+
+899
+01:14:48,729 --> 01:14:50,940
+Parece estar pouco à vontade.
+
+900
+01:14:51,148 --> 01:14:52,316
+Não...
+
+901
+01:14:52,608 --> 01:14:53,734
+só estou sem tempo.
+
+902
+01:14:53,776 --> 01:14:56,070
+Tenho muitas coisas para fazer.
+
+903
+01:14:56,320 --> 01:14:57,780
+Desculpe-me.
+
+904
+01:14:57,822 --> 01:15:01,117
+Mas você tem muitas coisas
+para explicar.
+
+905
+01:15:01,283 --> 01:15:03,661
+Eu entreguei a arma
+que o Imperador solicitou.
+
+906
+01:15:03,953 --> 01:15:05,621
+Mereço ser recebido...
+
+907
+01:15:05,913 --> 01:15:09,792
+para garantir que ele entenda
+seu extraordinário...
+
+908
+01:15:11,210 --> 01:15:12,211
+potencial.
+
+909
+01:15:12,378 --> 01:15:16,549
+Seu poder de criar problemas
+certamente já foi confirmado.
+
+910
+01:15:16,716 --> 01:15:18,551
+Uma cidade destruída...
+
+911
+01:15:18,718 --> 01:15:21,762
+uma instalação imperial
+atacada diretamente.
+
+912
+01:15:22,221 --> 01:15:25,182
+Foi o governador Tarkin
+quem sugeriu o teste.
+
+913
+01:15:26,350 --> 01:15:29,979
+Não foi convocado para vir
+se humilhar, diretor Krennic.
+
+914
+01:15:30,146 --> 01:15:31,147
+Não...
+
+915
+01:15:31,230 --> 01:15:33,232
+Não existe nenhuma
+Estrela da Morte.
+
+916
+01:15:33,399 --> 01:15:34,650
+O Senado foi informado...
+
+917
+01:15:34,942 --> 01:15:38,154
+de que um desastre de mineração
+destruiu Jedha.
+
+918
+01:15:38,320 --> 01:15:39,321
+Sim, milorde.
+
+919
+01:15:39,572 --> 01:15:43,034
+Espero que não descanse
+até que possa garantir ao Imperador...
+
+920
+01:15:43,200 --> 01:15:47,955
+que Galen Erso não comprometeu
+essa arma de forma alguma.
+
+921
+01:15:51,959 --> 01:15:54,378
+Então eu ainda estou no comando?
+
+922
+01:15:57,256 --> 01:15:59,341
+Falará com o Imperador sobre...
+
+923
+01:16:12,480 --> 01:16:17,860
+Tome cuidado para não sufocar
+nas suas aspirações, Diretor.
+
+924
+01:16:28,996 --> 01:16:31,082
+<i>Temos que dispersar a frota.</i>
+
+925
+01:16:31,957 --> 01:16:34,543
+A única saída é a rendição.
+
+926
+01:16:34,919 --> 01:16:37,338
+Estamos falando de destruir algo...
+
+927
+01:16:37,630 --> 01:16:39,548
+que nos empenhamos tanto
+para criar?
+
+928
+01:16:39,840 --> 01:16:41,133
+Não podemos desistir!
+
+929
+01:16:41,634 --> 01:16:43,344
+Fizemos uma aliança,
+não um pacto suicida.
+
+930
+01:16:43,552 --> 01:16:44,887
+Só agora conseguimos
+unir forças.
+
+931
+01:16:45,388 --> 01:16:46,639
+Unir forças?
+
+932
+01:16:47,223 --> 01:16:49,392
+O general Draven já explodiu
+uma base imperial.
+
+933
+01:16:49,683 --> 01:16:50,851
+Foi necessário tomar uma decisão!
+
+934
+01:16:51,143 --> 01:16:52,561
+Se o que quer é guerra...
+
+935
+01:16:52,853 --> 01:16:54,063
+você lutará sozinho.
+
+936
+01:16:54,313 --> 01:16:56,065
+Então, por que formamos
+uma aliança?
+
+937
+01:16:56,315 --> 01:16:59,318
+Se o que ela diz é verdade,
+precisamos agir logo!
+
+938
+01:16:59,568 --> 01:17:00,861
+Conselheiros, por favor.
+
+939
+01:17:01,028 --> 01:17:02,029
+É simples.
+
+940
+01:17:02,113 --> 01:17:04,615
+O Império tem o poder
+de causar destruição em massa...
+
+941
+01:17:04,865 --> 01:17:05,866
+e a Rebelião, não.
+
+942
+01:17:06,117 --> 01:17:07,827
+Uma Estrela da Morte.
+É absurdo.
+
+943
+01:17:08,077 --> 01:17:09,662
+Por que meu pai mentiria?
+
+944
+01:17:09,745 --> 01:17:11,205
+O que ganharia com isso?
+
+945
+01:17:11,706 --> 01:17:14,875
+Para nos atrair para uma batalha final
+e nos destruir por completo.
+
+946
+01:17:15,626 --> 01:17:17,795
+Arriscar tudo? Com base em quê?
+
+947
+01:17:18,087 --> 01:17:19,255
+No testemunho de um criminoso?
+
+948
+01:17:19,588 --> 01:17:22,508
+Nas últimas palavras do pai dela,
+um cientista imperial?
+
+949
+01:17:22,675 --> 01:17:24,468
+Não se esqueçam
+do piloto imperial.
+
+950
+01:17:25,136 --> 01:17:27,179
+Meu pai deu a vida
+para termos uma chance de vencer.
+
+951
+01:17:27,555 --> 01:17:28,806
+É o que você diz.
+
+952
+01:17:29,098 --> 01:17:32,601
+Se o Império tem esse tipo de poder,
+que chance nós temos?
+
+953
+01:17:33,060 --> 01:17:35,104
+Que chance nós temos?
+
+954
+01:17:36,147 --> 01:17:37,773
+A pergunta é "que escolha".
+
+955
+01:17:38,441 --> 01:17:39,608
+Fugir, se esconder...
+
+956
+01:17:39,859 --> 01:17:42,236
+pedir misericórdia,
+dispersar suas forças.
+
+957
+01:17:42,403 --> 01:17:45,281
+Rendam-se a um inimigo tão cruel
+e com tanto poder...
+
+958
+01:17:45,322 --> 01:17:48,242
+e condenarão a galáxia
+à submissão eterna.
+
+959
+01:17:48,284 --> 01:17:50,119
+-Agora é a hora de lutar!
+-Isso.
+
+960
+01:17:50,286 --> 01:17:53,497
+Estamos cada vez mais perto
+da destruição, como Jedha.
+
+961
+01:17:54,749 --> 01:17:56,709
+O que ela está propondo?
+
+962
+01:17:56,876 --> 01:17:57,877
+Deixem a garota falar.
+
+963
+01:17:58,044 --> 01:17:59,754
+Enviem suas melhores tropas a Scarif.
+
+964
+01:18:03,382 --> 01:18:04,759
+E a frota rebelde,
+se necessário.
+
+965
+01:18:05,551 --> 01:18:08,763
+Devem pegar os planos da arma
+se houver esperança de destruí-la.
+
+966
+01:18:13,768 --> 01:18:16,020
+Está dizendo para invadirmos
+uma instalação imperial...
+
+967
+01:18:16,103 --> 01:18:17,980
+com base numa simples esperança?
+
+968
+01:18:20,066 --> 01:18:22,485
+Rebeliões são construídas
+com esperança.
+
+969
+01:18:24,653 --> 01:18:26,072
+Não existe esperança.
+
+970
+01:18:26,322 --> 01:18:27,948
+Eu digo que devemos lutar.
+
+971
+01:18:28,991 --> 01:18:30,659
+Eu digo que a Rebelião
+já teve seu fim!
+
+972
+01:18:35,539 --> 01:18:36,665
+Lamento, Jyn.
+
+973
+01:18:38,626 --> 01:18:40,836
+Sem o apoio total do Conselho...
+
+974
+01:18:43,047 --> 01:18:44,715
+o risco é alto demais.
+
+975
+01:19:04,527 --> 01:19:08,155
+<i>General Syndulla, apresente-se
+à sala de reunião.</i>
+
+976
+01:19:09,824 --> 01:19:10,825
+Não parece feliz.
+
+977
+01:19:11,283 --> 01:19:12,576
+Eles preferem se render.
+
+978
+01:19:12,868 --> 01:19:13,869
+E você?
+
+979
+01:19:14,078 --> 01:19:15,079
+Ela quer lutar.
+
+980
+01:19:15,371 --> 01:19:17,289
+Eu também. Todos nós.
+
+981
+01:19:17,540 --> 01:19:19,542
+A Força é poderosa.
+
+982
+01:19:20,126 --> 01:19:22,294
+Não sei se nós quatro
+daremos conta.
+
+983
+01:19:22,586 --> 01:19:23,838
+De quantos precisamos?
+
+984
+01:19:24,088 --> 01:19:25,214
+Como assim?
+
+985
+01:19:33,222 --> 01:19:35,474
+Eles nunca acreditariam em você.
+
+986
+01:19:35,725 --> 01:19:37,226
+Agradeço pelo apoio.
+
+987
+01:19:37,810 --> 01:19:39,019
+Mas eu sim.
+
+988
+01:19:41,564 --> 01:19:43,023
+Eu acredito em você.
+
+989
+01:19:48,154 --> 01:19:49,363
+Queremos nos voluntariar.
+
+990
+01:19:52,241 --> 01:19:53,909
+Alguns de nós...
+
+991
+01:19:53,993 --> 01:19:55,745
+Quase todos...
+
+992
+01:19:56,370 --> 01:19:59,623
+já fizemos coisas terríveis
+em nome da Rebelião.
+
+993
+01:20:00,541 --> 01:20:01,834
+Espiões...
+
+994
+01:20:02,543 --> 01:20:05,421
+sabotadores, assassinos.
+
+995
+01:20:06,797 --> 01:20:10,092
+Tudo o que eu fiz
+foi em nome da Rebelião.
+
+996
+01:20:11,594 --> 01:20:12,928
+E toda vez que me afastei...
+
+997
+01:20:13,220 --> 01:20:15,598
+de algo que eu queria esquecer...
+
+998
+01:20:16,557 --> 01:20:20,186
+dizia a mim mesmo que era
+por uma causa em que eu acreditava.
+
+999
+01:20:21,395 --> 01:20:22,938
+Uma causa que valia a pena.
+
+1000
+01:20:24,440 --> 01:20:26,609
+Sem isso, estamos perdidos.
+
+1001
+01:20:27,735 --> 01:20:30,404
+Tudo o que fizemos teria sido à toa.
+
+1002
+01:20:33,783 --> 01:20:36,285
+Eu não conseguiria
+me olhar no espelho.
+
+1003
+01:20:39,955 --> 01:20:41,415
+Nenhum de nós.
+
+1004
+01:20:46,462 --> 01:20:47,797
+Não vai ser confortável.
+
+1005
+01:20:48,255 --> 01:20:50,925
+Vai ficar meio apertado,
+mas vai caber.
+
+1006
+01:20:53,177 --> 01:20:54,637
+Podemos ir.
+
+1007
+01:20:56,597 --> 01:20:58,432
+Ok. Preparem-se.
+
+1008
+01:20:59,100 --> 01:21:00,976
+Peguem tudo
+que puderem carregar.
+
+1009
+01:21:02,853 --> 01:21:03,854
+Vão, vão!
+
+1010
+01:21:04,021 --> 01:21:05,022
+Jyn.
+
+1011
+01:21:05,940 --> 01:21:07,983
+Eu vou te dar apoio.
+
+1012
+01:21:09,944 --> 01:21:11,862
+O Cassian mandou.
+
+1013
+01:21:17,785 --> 01:21:21,163
+Não estou acostumada a ter gente
+por perto quando as coisas vão mal.
+
+1014
+01:21:21,831 --> 01:21:23,332
+Seja bem-vinda.
+
+1015
+01:21:47,815 --> 01:21:49,316
+Que a Força esteja conosco.
+
+1016
+01:21:55,531 --> 01:21:57,199
+<i>Veículo de carga, responda.</i>
+
+1017
+01:21:57,366 --> 01:21:58,367
+<i>O que está acontecendo aí?</i>
+
+1018
+01:22:00,411 --> 01:22:01,537
+<i>Essa nave é proibida.</i>
+
+1019
+01:22:01,871 --> 01:22:04,582
+<i>Ninguém poderia ter embarcado
+sem autorização.</i>
+
+1020
+01:22:05,666 --> 01:22:07,001
+Sim, nós sabemos.
+
+1021
+01:22:07,168 --> 01:22:08,252
+Positivo.
+
+1022
+01:22:08,419 --> 01:22:09,420
+<i>É uma nave imperial apreendida.</i>
+
+1023
+01:22:09,712 --> 01:22:10,963
+<i>Qual é o seu codinome, piloto?</i>
+
+1024
+01:22:13,132 --> 01:22:14,508
+Temos que ir.
+
+1025
+01:22:15,092 --> 01:22:16,135
+É...
+
+1026
+01:22:17,053 --> 01:22:18,304
+Fala alguma coisa.
+
+1027
+01:22:18,929 --> 01:22:19,930
+Vai.
+
+1028
+01:22:20,598 --> 01:22:21,599
+Rogue.
+
+1029
+01:22:24,143 --> 01:22:25,144
+Rogue 1.
+
+1030
+01:22:25,227 --> 01:22:26,228
+<i>Rogue 1?</i>
+
+1031
+01:22:26,687 --> 01:22:27,897
+<i>Não tem nenhum Rogue 1!</i>
+
+1032
+01:22:29,482 --> 01:22:30,691
+Bom, agora tem.
+
+1033
+01:22:31,525 --> 01:22:33,486
+Rogue 1, decolando.
+
+1034
+01:22:34,028 --> 01:22:35,154
+Decolando.
+
+1035
+01:22:50,127 --> 01:22:52,588
+Apesar do que os outros dizem,
+a guerra é inevitável.
+
+1036
+01:22:52,713 --> 01:22:53,714
+É, eu concordo.
+
+1037
+01:22:53,881 --> 01:22:58,052
+Devo voltar para Alderaan e dizer
+a meu povo que não haverá paz.
+
+1038
+01:22:58,844 --> 01:23:00,888
+Precisaremos de qualquer vantagem.
+
+1039
+01:23:01,931 --> 01:23:03,349
+Seu amigo...
+
+1040
+01:23:04,350 --> 01:23:05,810
+o Jedi.
+
+1041
+01:23:07,478 --> 01:23:09,563
+Ele me serviu bem
+durante as Guerras Clônicas...
+
+1042
+01:23:09,730 --> 01:23:12,108
+e vive escondido
+desde o expurgo do Imperador.
+
+1043
+01:23:12,274 --> 01:23:13,734
+Eu mandarei chamá-lo.
+
+1044
+01:23:13,901 --> 01:23:16,112
+Precisará de alguém de confiança.
+
+1045
+01:23:18,114 --> 01:23:20,324
+Eu confiaria minha vida a ela.
+
+1046
+01:23:20,658 --> 01:23:21,909
+-Capitão Antilles.
+-Senador.
+
+1047
+01:23:22,076 --> 01:23:24,078
+Tenho uma missão para o senhor.
+
+1048
+01:23:34,088 --> 01:23:36,632
+<i>Ok. Estamos chegando.</i>
+
+1049
+01:23:37,258 --> 01:23:38,759
+<i>Tem um escudo planetário...</i>
+
+1050
+01:23:39,009 --> 01:23:40,553
+com só um portal de entrada.
+
+1051
+01:23:40,720 --> 01:23:44,390
+Este veículo deve estar equipado
+com um código que nos dê acesso.
+
+1052
+01:23:44,682 --> 01:23:46,851
+Se o Império já não tiver dado baixa.
+
+1053
+01:23:47,643 --> 01:23:49,311
+E se tiver?
+
+1054
+01:23:50,688 --> 01:23:51,689
+Vão fechar o portal.
+
+1055
+01:23:51,981 --> 01:23:55,651
+E ficaremos no frio e escuro
+vácuo do espaço.
+
+1056
+01:23:56,569 --> 01:23:57,903
+Eu não.
+
+1057
+01:23:59,363 --> 01:24:01,866
+Eu sobrevivo no espaço.
+
+1058
+01:24:12,334 --> 01:24:13,335
+Ok.
+
+1059
+01:24:13,878 --> 01:24:15,046
+Lá vai.
+
+1060
+01:24:19,341 --> 01:24:22,970
+Veículo de carga SW-0608
+solicitando pista de pouso.
+
+1061
+01:24:25,681 --> 01:24:30,061
+<i>Veículo de carga SW-0608,
+seu registro não está na programação.</i>
+
+1062
+01:24:30,227 --> 01:24:32,146
+<i>Entendido, controle do portal.</i>
+
+1063
+01:24:32,313 --> 01:24:35,066
+<i>Fomos redirecionados
+da estação de Eadu.</i>
+
+1064
+01:24:35,232 --> 01:24:36,525
+Transmitindo código de acesso.
+
+1065
+01:24:36,817 --> 01:24:38,027
+Transmitindo.
+
+1066
+01:24:50,998 --> 01:24:53,292
+<i>Veículo de carga SW-0608...</i>
+
+1067
+01:24:56,212 --> 01:24:57,838
+<i>-entrada autorizada.
+</i>-Sim!
+
+1068
+01:24:58,631 --> 01:24:59,632
+Impressionante.
+
+1069
+01:25:04,678 --> 01:25:06,347
+Vou avisar aos outros.
+
+1070
+01:25:08,182 --> 01:25:09,183
+Ok.
+
+1071
+01:25:13,437 --> 01:25:16,023
+<i>Teste de raio trator
+nos hangares 2 a 8.</i>
+
+1072
+01:25:16,273 --> 01:25:19,485
+<i>Teste de raio trator
+nos hangares 2 a 8.</i>
+
+1073
+01:25:27,243 --> 01:25:30,955
+<i>SW-0608, pouso autorizado na Pista 9.</i>
+
+1074
+01:25:31,038 --> 01:25:32,540
+<i>Confirme, por favor.</i>
+
+1075
+01:25:33,082 --> 01:25:36,752
+SW-0608 seguindo para Pista 9
+conforme instruções.
+
+1076
+01:25:37,461 --> 01:25:39,088
+O que é aquela construção grande?
+
+1077
+01:25:39,130 --> 01:25:40,548
+É a Torre da Cidadela.
+
+1078
+01:25:40,798 --> 01:25:43,592
+É onde guardam todos os arquivos
+estruturais do Império.
+
+1079
+01:25:43,843 --> 01:25:45,928
+É onde os planos devem estar.
+
+1080
+01:25:46,220 --> 01:25:49,014
+E para que serve a antena no topo?
+
+1081
+01:25:49,598 --> 01:25:52,268
+Acho que para transmitir os dados
+precisa ter um sinal forte.
+
+1082
+01:25:55,146 --> 01:25:57,606
+Trem de pouso acionado.
+
+1083
+01:25:57,773 --> 01:25:58,816
+Trem de pouso travado.
+
+1084
+01:26:10,745 --> 01:26:11,746
+Vamos pousar.
+
+1085
+01:26:15,124 --> 01:26:16,459
+Estamos chegando.
+
+1086
+01:26:21,338 --> 01:26:22,423
+Saw Gerrera dizia...
+
+1087
+01:26:22,715 --> 01:26:27,136
+que um guerreiro com uma lâmina
+afiada e nada a perder, ganharia o dia.
+
+1088
+01:26:31,140 --> 01:26:33,017
+Eles não têm ideia
+de que estamos chegando.
+
+1089
+01:26:33,934 --> 01:26:35,978
+Não têm motivo para nos esperar.
+
+1090
+01:26:36,979 --> 01:26:39,899
+Se chegarmos ao solo,
+aproveitaremos a primeira chance.
+
+1091
+01:26:40,649 --> 01:26:43,736
+E a seguinte.
+Sem parar, até vencermos...
+
+1092
+01:26:46,155 --> 01:26:48,157
+ou as chances acabarem.
+
+1093
+01:26:50,659 --> 01:26:53,037
+Os planos da Estrela da Morte
+estão lá.
+
+1094
+01:26:54,080 --> 01:26:57,416
+Cassian, K-2 e eu vamos encontrá-los.
+
+1095
+01:26:59,126 --> 01:27:00,836
+Daremos um jeito de encontrá-los.
+
+1096
+01:27:02,671 --> 01:27:03,672
+Melshi...
+
+1097
+01:27:04,548 --> 01:27:05,549
+Bao...
+
+1098
+01:27:05,674 --> 01:27:06,675
+Baze, Chirrut...
+
+1099
+01:27:06,801 --> 01:27:08,219
+ataquem o esquadrão principal.
+
+1100
+01:27:08,469 --> 01:27:10,096
+Vão para o leste
+e afastem-se da nave.
+
+1101
+01:27:10,346 --> 01:27:12,348
+Posicionem-se entre aqui e a torre.
+
+1102
+01:27:13,307 --> 01:27:14,558
+Quando chegarem ao melhor lugar...
+
+1103
+01:27:15,309 --> 01:27:16,519
+façam barulho.
+
+1104
+01:27:17,895 --> 01:27:19,855
+Façam 10 homens parecerem 100.
+
+1105
+01:27:22,024 --> 01:27:24,235
+E deixem aqueles soldados
+longe de nós.
+
+1106
+01:27:24,652 --> 01:27:26,195
+E o que eu faço?
+
+1107
+01:27:26,362 --> 01:27:27,696
+Mantenha o motor ligado.
+
+1108
+01:27:28,030 --> 01:27:30,533
+Você é nossa única saída daqui.
+
+1109
+01:28:00,396 --> 01:28:03,816
+<i>Veículo de carga SW-0608...</i>
+
+1110
+01:28:04,108 --> 01:28:06,444
+<i>prepare-se para receber
+a equipe de inspeção.</i>
+
+1111
+01:28:06,610 --> 01:28:07,611
+Tudo ok?
+
+1112
+01:28:21,751 --> 01:28:22,752
+Olá.
+
+1113
+01:28:22,835 --> 01:28:23,836
+Oi.
+
+1114
+01:28:23,919 --> 01:28:24,920
+Você...
+
+1115
+01:28:25,004 --> 01:28:26,338
+quer ver o manifesto?
+
+1116
+01:28:26,422 --> 01:28:27,423
+Seria útil.
+
+1117
+01:28:29,258 --> 01:28:30,676
+Está aqui.
+
+1118
+01:28:39,060 --> 01:28:42,063
+<i>Diretor Krennic, estamos passando
+pelo portal do escudo de Scarif.</i>
+
+1119
+01:28:42,229 --> 01:28:44,940
+<i>O general Ramda foi informado
+da sua chegada.</i>
+
+1120
+01:29:09,382 --> 01:29:10,508
+Boa sorte...
+
+1121
+01:29:10,800 --> 01:29:12,301
+irmãzinha.
+
+1122
+01:29:18,391 --> 01:29:19,892
+Vão! Vão agora! Podem ir!
+
+1123
+01:29:20,935 --> 01:29:23,312
+Ok, vamos! Rápido.
+Andem, andem.
+
+1124
+01:29:26,857 --> 01:29:30,444
+<i>925-H para controle de transporte.</i>
+
+1125
+01:29:30,611 --> 01:29:34,073
+<i>925-H para controle de transporte.</i>
+
+1126
+01:29:52,800 --> 01:29:54,009
+Estou com um mau pressentimento...
+
+1127
+01:29:54,051 --> 01:29:55,094
+-K!
+-Quieto!
+
+1128
+01:29:55,261 --> 01:29:56,303
+O que foi?
+
+1129
+01:30:32,673 --> 01:30:34,008
+Precisamos de um mapa.
+
+1130
+01:30:34,175 --> 01:30:36,719
+Com certeza tem algum
+por aqui.
+
+1131
+01:30:37,178 --> 01:30:39,388
+Sabe o que tem que fazer.
+
+1132
+01:31:09,960 --> 01:31:10,961
+Uma por pista.
+
+1133
+01:31:11,045 --> 01:31:12,922
+Escolham o lugar.
+Temos que atraí-los.
+
+1134
+01:31:13,506 --> 01:31:15,299
+Eu digo quando. Vão!
+
+1135
+01:31:18,177 --> 01:31:19,428
+<i>Soube da última?</i>
+
+1136
+01:31:19,595 --> 01:31:21,347
+<i>Sim, aposentaram os T-15.</i>
+
+1137
+01:31:21,514 --> 01:31:23,224
+<i>Ah, estava na hora.</i>
+
+1138
+01:31:24,225 --> 01:31:25,226
+<i>Ei!</i>
+
+1139
+01:31:47,123 --> 01:31:48,165
+<i>O que...</i>
+
+1140
+01:31:54,046 --> 01:31:55,798
+Diretor, o que o traz a Scarif?
+
+1141
+01:31:55,840 --> 01:31:57,133
+Galen Erso.
+
+1142
+01:31:58,134 --> 01:32:01,554
+Eu quero cada mensagem,
+cada transmissão dele...
+
+1143
+01:32:01,637 --> 01:32:03,097
+inspecionada em detalhe.
+
+1144
+01:32:04,223 --> 01:32:05,224
+Todas?
+
+1145
+01:32:05,891 --> 01:32:07,143
+Sim, todas elas.
+
+1146
+01:32:08,352 --> 01:32:09,603
+Pode começar.
+
+1147
+01:32:41,677 --> 01:32:42,678
+K.
+
+1148
+01:32:43,220 --> 01:32:47,516
+A melhor rota para o banco de dados
+tem só 89 <i>stormtroopers</i> no caminho.
+
+1149
+01:32:47,683 --> 01:32:51,228
+Não conseguiremos percorrer
+mais de 33% antes de nos matarem.
+
+1150
+01:32:57,860 --> 01:32:58,903
+<i>Melshi, fala comigo.</i>
+
+1151
+01:32:58,986 --> 01:33:01,197
+Pronto. Pronto.
+Aguardando.
+
+1152
+01:33:06,243 --> 01:33:07,328
+Está na hora.
+
+1153
+01:33:15,586 --> 01:33:16,587
+Anda.
+
+1154
+01:33:31,102 --> 01:33:32,395
+Estamos cegos?
+
+1155
+01:33:32,645 --> 01:33:34,063
+Acionem a guarnição!
+
+1156
+01:33:34,355 --> 01:33:35,398
+Rápido!
+
+1157
+01:33:54,041 --> 01:33:55,042
+Soldados!
+
+1158
+01:33:56,335 --> 01:33:57,503
+À esquerda!
+
+1159
+01:33:57,670 --> 01:33:59,213
+Entrem! Entrem!
+
+1160
+01:34:24,363 --> 01:34:26,240
+Senhor, a base Scarif relatou
+uma incursão rebelde.
+
+1161
+01:34:27,116 --> 01:34:28,784
+Quero falar com o diretor Krennic.
+
+1162
+01:34:29,035 --> 01:34:30,995
+Ele está lá, senhor.
+Em Scarif.
+
+1163
+01:34:31,954 --> 01:34:34,707
+Os planos originais da estação
+ficam guardados lá, não é?
+
+1164
+01:34:35,041 --> 01:34:36,042
+Isso mesmo.
+
+1165
+01:34:36,584 --> 01:34:40,463
+Preparar pra saltar para o hiperespaço,
+e informe ao Lorde Vader.
+
+1166
+01:34:48,054 --> 01:34:49,138
+Podemos ajudá-los?
+
+1167
+01:34:49,430 --> 01:34:50,473
+Não será necessário.
+
+1168
+01:35:05,988 --> 01:35:07,490
+Senadora!
+
+1169
+01:35:09,200 --> 01:35:10,493
+Senadora!
+
+1170
+01:35:10,659 --> 01:35:11,827
+Parado aí, soldado.
+
+1171
+01:35:11,994 --> 01:35:13,329
+Deixe-o falar.
+
+1172
+01:35:14,330 --> 01:35:16,499
+Interceptamos uma transmissão
+imperial.
+
+1173
+01:35:16,791 --> 01:35:18,334
+Rebeldes em Scarif.
+
+1174
+01:35:19,001 --> 01:35:20,711
+Preciso falar com o almirante Raddus.
+
+1175
+01:35:20,878 --> 01:35:22,797
+Ele voltou para a nave.
+
+1176
+01:35:23,047 --> 01:35:24,715
+Ele vai lutar.
+
+1177
+01:35:35,893 --> 01:35:36,894
+Não!
+
+1178
+01:35:42,149 --> 01:35:45,653
+<i>Atenção, equipes de voo,
+reportem-se a seus comandantes.</i>
+
+1179
+01:35:47,071 --> 01:35:50,074
+<i>Equipes de voo, reportem-se
+a seus comandantes imediatamente.</i>
+
+1180
+01:35:51,409 --> 01:35:53,327
+<i>Fomos redirecionados para Scarif.</i>
+
+1181
+01:35:55,121 --> 01:35:58,374
+<i>Pilotos, vocês serão instruídos pelos
+líderes de esquadrão no caminho.</i>
+
+1182
+01:35:58,457 --> 01:36:00,376
+<i>Que a Força esteja com vocês.</i>
+
+1183
+01:36:01,127 --> 01:36:03,671
+Scarif? Eles vão para Scarif?
+
+1184
+01:36:03,754 --> 01:36:07,383
+Por que ninguém
+nunca me conta nada, R2?
+
+1185
+01:36:09,719 --> 01:36:11,345
+Anda, anda, anda!
+
+1186
+01:36:15,182 --> 01:36:17,643
+Em frente! Em frente!
+
+1187
+01:36:17,893 --> 01:36:19,979
+Continuem atraindo-os para fora!
+
+1188
+01:36:26,402 --> 01:36:27,403
+<i>Pista 12, reportar.</i>
+
+1189
+01:36:27,653 --> 01:36:28,821
+<i>Estão nos atacando.
+Envie apoio.</i>
+
+1190
+01:36:28,904 --> 01:36:30,239
+<i>Pista 14, o que está acontecendo aí?</i>
+
+1191
+01:36:30,406 --> 01:36:33,117
+<i>Todas as pistas, informem
+o status imediatamente.</i>
+
+1192
+01:36:33,409 --> 01:36:35,745
+<i>Estamos cercados de rebeldes!
+Estamos sob ataque!</i>
+
+1193
+01:36:35,995 --> 01:36:38,205
+<i>Pista 12, Pista 14
+solicitando apoio.</i>
+
+1194
+01:36:39,081 --> 01:36:40,458
+Aqui é a Pista 2. Pista 2.
+
+1195
+01:36:40,750 --> 01:36:42,835
+Vejo 40 rebeldes
+indo para oeste na Pista 2.
+
+1196
+01:36:42,918 --> 01:36:44,962
+E informe que estamos
+cercados na 5.
+
+1197
+01:36:45,254 --> 01:36:47,965
+<i>Aqui é a Pista 5!
+Estamos sendo invadidos! Ajudem!</i>
+
+1198
+01:36:48,132 --> 01:36:51,469
+Pista 12, Pista 10, Pista 8, confirmem.
+Confirmem e reportem.
+
+1199
+01:36:52,553 --> 01:36:54,638
+Enviem reforço à Pista 5
+imediatamente!
+
+1200
+01:36:57,933 --> 01:36:59,727
+Isso não está funcionando, K!
+
+1201
+01:37:00,603 --> 01:37:01,645
+Mão direita.
+
+1202
+01:37:23,125 --> 01:37:24,126
+Baze!
+
+1203
+01:37:25,795 --> 01:37:26,796
+-Baze!
+-O quê?
+
+1204
+01:37:26,837 --> 01:37:27,838
+Corra!
+
+1205
+01:37:33,969 --> 01:37:34,970
+<i>Karabast!</i> AT-AT!
+
+1206
+01:37:37,807 --> 01:37:38,808
+Rápido!
+
+1207
+01:37:56,325 --> 01:37:58,452
+Aqui é o almirante Raddus
+da Aliança Rebelde.
+
+1208
+01:37:59,161 --> 01:38:01,539
+<i>Todos os líderes de esquadrão,
+reportem.</i>
+
+1209
+01:38:02,540 --> 01:38:04,166
+Almirante, aqui é o Líder Azul,
+a postos.
+
+1210
+01:38:04,375 --> 01:38:06,711
+Aqui é o Líder Ouro, a postos.
+
+1211
+01:38:07,002 --> 01:38:09,130
+Aqui é o Líder Vermelho, a postos.
+
+1212
+01:38:09,463 --> 01:38:11,674
+Senhor, são naves rebeldes.
+
+1213
+01:38:12,007 --> 01:38:13,592
+Tragam o almirante Gorin,
+imediatamente!
+
+1214
+01:38:14,677 --> 01:38:18,180
+Diretor, a frota rebelde
+está se reunindo fora do escudo.
+
+1215
+01:38:21,016 --> 01:38:22,685
+Isolem a base. Isolem.
+
+1216
+01:38:22,727 --> 01:38:23,728
+E fechamos o escudo?
+
+1217
+01:38:23,811 --> 01:38:24,812
+Rápido!
+
+1218
+01:38:25,020 --> 01:38:27,565
+Esquadrões Vermelho e Ouro,
+formação de ataque.
+
+1219
+01:38:27,857 --> 01:38:29,316
+<i>Defendam a frota.</i>
+
+1220
+01:38:29,483 --> 01:38:32,695
+<i>Esquadrão Azul, chegue à superfície
+antes que fechem o portal.</i>
+
+1221
+01:38:32,862 --> 01:38:33,863
+<i>Entendido, Almirante.</i>
+
+1222
+01:38:33,904 --> 01:38:35,406
+Esquadrão Azul, comigo!
+
+1223
+01:38:35,531 --> 01:38:36,532
+Entendido, Líder Azul.
+
+1224
+01:38:36,574 --> 01:38:37,575
+Entendido, Líder Azul.
+
+1225
+01:38:37,658 --> 01:38:38,659
+Temos pouco tempo.
+
+1226
+01:38:50,337 --> 01:38:53,049
+Fechem a abertura do campo agora!
+Fechem!
+
+1227
+01:38:58,554 --> 01:38:59,555
+Vamos, vamos!
+
+1228
+01:39:00,306 --> 01:39:01,307
+Pra cima!
+
+1229
+01:39:13,736 --> 01:39:14,737
+A frota rebelde chegou.
+
+1230
+01:39:14,820 --> 01:39:15,821
+O quê?
+
+1231
+01:39:16,739 --> 01:39:17,740
+Há um confronto na praia.
+
+1232
+01:39:17,782 --> 01:39:21,035
+Eles isolaram a base.
+Fecharam o portal do escudo.
+
+1233
+01:39:21,285 --> 01:39:22,453
+O que isso significa?
+
+1234
+01:39:25,247 --> 01:39:26,248
+Estamos presos?
+
+1235
+01:39:27,750 --> 01:39:30,586
+Podíamos transmitir os planos
+para a frota rebelde.
+
+1236
+01:39:30,753 --> 01:39:33,798
+Teríamos que enviar um sinal
+para alertá-los.
+
+1237
+01:39:34,048 --> 01:39:36,300
+O problema é o tamanho
+dos arquivos.
+
+1238
+01:39:36,592 --> 01:39:38,260
+A transmissão nunca
+será concluída.
+
+1239
+01:39:38,719 --> 01:39:40,638
+Alguém tem que desativar o escudo.
+
+1240
+01:39:41,263 --> 01:39:43,391
+Bodhi, está me ouvindo?
+
+1241
+01:39:43,557 --> 01:39:45,142
+Bodhi, fala que está aí.
+
+1242
+01:39:46,143 --> 01:39:47,228
+Bodhi?
+
+1243
+01:39:47,311 --> 01:39:48,646
+<i>Estou aqui.</i>
+
+1244
+01:39:48,896 --> 01:39:49,897
+<i>Eu estava aguardando.</i>
+
+1245
+01:39:50,147 --> 01:39:51,607
+Começaram a lutar.
+A base foi isolada.
+
+1246
+01:39:51,649 --> 01:39:54,568
+<i>Eu sei. Escute.
+A frota rebelde está lá em cima.</i>
+
+1247
+01:39:54,735 --> 01:39:56,654
+<i>Diga a eles para abrirem
+um buraco no escudo...</i>
+
+1248
+01:39:56,821 --> 01:39:58,948
+<i>para transmitirmos os planos.</i>
+
+1249
+01:39:59,115 --> 01:40:02,243
+Não dá. Não estou conectado
+à torre de comunicação.
+
+1250
+01:40:02,410 --> 01:40:03,452
+Não temos como enviar.
+
+1251
+01:40:03,619 --> 01:40:05,538
+<i>É o único jeito de tirá-los daqui.</i>
+
+1252
+01:40:05,705 --> 01:40:06,706
+Ache um jeito!
+
+1253
+01:40:07,415 --> 01:40:08,749
+Dê cobertura.
+
+1254
+01:40:11,085 --> 01:40:12,086
+Vai precisar disto.
+
+1255
+01:40:14,171 --> 01:40:15,214
+Queria um, não é?
+
+1256
+01:40:17,800 --> 01:40:22,471
+Seu comportamento, Jyn Erso,
+segue sendo inesperado.
+
+1257
+01:40:23,305 --> 01:40:25,349
+Jyn. Venha.
+
+1258
+01:40:45,036 --> 01:40:46,037
+<i>Sa'kalla!</i>
+
+1259
+01:40:46,328 --> 01:40:48,164
+<i>Disparem ao meu comando.</i>
+
+1260
+01:41:03,512 --> 01:41:04,513
+Olhem!
+
+1261
+01:41:15,441 --> 01:41:16,734
+Preparem-se.
+Teremos que ir até lá.
+
+1262
+01:41:19,987 --> 01:41:20,988
+O que está fazendo?
+
+1263
+01:41:21,655 --> 01:41:23,532
+Fecharam o portal do escudo.
+
+1264
+01:41:23,824 --> 01:41:25,368
+Estamos presos aqui.
+
+1265
+01:41:25,618 --> 01:41:26,994
+Mas a frota rebelde está pressionando.
+
+1266
+01:41:27,036 --> 01:41:29,038
+Precisamos de um sinal
+que chegue até eles...
+
+1267
+01:41:29,205 --> 01:41:31,499
+para avisar
+que estamos presos aqui.
+
+1268
+01:41:31,665 --> 01:41:33,417
+Para isso, precisamos nos ligar
+à torre de comunicação.
+
+1269
+01:41:33,584 --> 01:41:35,753
+Posso fazer a ligação daqui
+da pista.
+
+1270
+01:41:35,961 --> 01:41:37,171
+Mas você tem que ir até o rádio.
+
+1271
+01:41:37,338 --> 01:41:40,383
+E dar um jeito de um dos caras
+achar uma chave de controle.
+
+1272
+01:41:40,549 --> 01:41:43,052
+Eles têm que ativar a conexão
+entre nós e a torre.
+
+1273
+01:41:43,094 --> 01:41:44,095
+Ok?
+
+1274
+01:41:44,178 --> 01:41:45,304
+Vá!
+
+1275
+01:41:48,682 --> 01:41:50,726
+O que está acontecendo lá, Tenente?
+
+1276
+01:41:50,893 --> 01:41:52,061
+Não sabemos, senhor.
+
+1277
+01:41:52,311 --> 01:41:54,563
+Todas as frequências rebeldes
+estão bloqueadas.
+
+1278
+01:41:55,398 --> 01:42:00,027
+Insista. Enfrente esses destróieres
+e vamos forçar o escudo!
+
+1279
+01:42:00,194 --> 01:42:01,278
+Sim, senhor!
+
+1280
+01:42:02,905 --> 01:42:04,407
+<i>Vamos entrar.</i>
+
+1281
+01:42:10,329 --> 01:42:11,372
+Fiquem comigo.
+
+1282
+01:42:47,450 --> 01:42:50,119
+<i>Banco de plantas, torre de dados 2.</i>
+
+1283
+01:42:50,369 --> 01:42:51,370
+Como encontro isso?
+
+1284
+01:42:51,537 --> 01:42:52,955
+<i>Procurando.</i>
+
+1285
+01:42:53,789 --> 01:42:57,293
+Posso localizar a fita, mas terá
+que usar a extração manual.
+
+1286
+01:43:01,338 --> 01:43:03,758
+E o que eu faço com isso?
+
+1287
+01:43:21,859 --> 01:43:22,860
+Finalmente.
+
+1288
+01:43:23,110 --> 01:43:24,445
+<i>Espere! Pare!</i>
+
+1289
+01:43:25,362 --> 01:43:27,490
+Os rebeldes foram por ali.
+
+1290
+01:43:27,698 --> 01:43:29,033
+<i>K, o que está acontecendo aí?</i>
+
+1291
+01:43:29,992 --> 01:43:30,993
+Ali tem um.
+
+1292
+01:43:31,952 --> 01:43:32,953
+Ah.
+
+1293
+01:43:44,173 --> 01:43:45,174
+Vamos!
+
+1294
+01:43:52,681 --> 01:43:54,225
+<i>Líder Vermelho,
+aqui é o Líder Ouro.</i>
+
+1295
+01:43:54,517 --> 01:43:56,727
+Vamos iniciar o ataque ao portal.
+
+1296
+01:43:56,894 --> 01:43:59,105
+<i>Aguente firme,
+e cuidado com as torres.</i>
+
+1297
+01:44:12,952 --> 01:44:16,122
+Mais caças. Formação 6-5.
+
+1298
+01:44:16,706 --> 01:44:19,625
+Senhor, caças inimigos
+se aproximando.
+
+1299
+01:44:26,048 --> 01:44:29,051
+<i>Melshi! Melshi, responda.
+Está na escuta?</i>
+
+1300
+01:44:29,260 --> 01:44:31,554
+<i>O Bodhi enviou um sinal daqui.
+Está nos conectando.</i>
+
+1301
+01:44:31,721 --> 01:44:33,681
+<i>Mas precisam abrir uma linha
+para a torre.</i>
+
+1302
+01:44:34,390 --> 01:44:35,474
+Como? Por favor, explique.
+
+1303
+01:44:35,558 --> 01:44:37,768
+Na base da torre
+tem uma chave de controle.
+
+1304
+01:44:37,935 --> 01:44:40,438
+Chave de controle? Descreva.
+O que estamos procurando?
+
+1305
+01:44:40,730 --> 01:44:43,232
+Como ela é? A chave de controle?
+Onde está?
+
+1306
+01:44:44,275 --> 01:44:46,569
+U-Wings, <i>deem apoio na praia.</i>
+
+1307
+01:44:46,777 --> 01:44:48,195
+Todos os caças, comigo.
+
+1308
+01:44:48,446 --> 01:44:49,864
+Temos que protegê-los
+do ataque aéreo.
+
+1309
+01:44:51,615 --> 01:44:52,742
+Reforços de tropas.
+
+1310
+01:44:53,200 --> 01:44:54,201
+Vamos lá.
+
+1311
+01:44:56,871 --> 01:44:57,955
+Por Jedha!
+
+1312
+01:45:05,463 --> 01:45:07,423
+Nosso ataque não surtiu efeito
+no escudo.
+
+1313
+01:45:07,715 --> 01:45:09,300
+Quanto mais essa coisa aguenta?
+
+1314
+01:45:12,094 --> 01:45:14,388
+Fique perto, Vermelho-5.
+Aonde está indo?
+
+1315
+01:45:15,264 --> 01:45:17,058
+<i>Estão por todo lado.
+Estou tentando despistar!</i>
+
+1316
+01:45:18,601 --> 01:45:20,603
+Aqui é o Vermelho-5!
+Preciso de ajuda!
+
+1317
+01:45:27,109 --> 01:45:29,612
+"Rastreamento de hiperespaço.
+Sistemas navegacionais."
+
+1318
+01:45:31,447 --> 01:45:34,575
+Duas telas abaixo.
+"Engenharia estrutural." Abra essa.
+
+1319
+01:45:37,036 --> 01:45:38,037
+<i>Tem um na minha cola!</i>
+
+1320
+01:45:38,954 --> 01:45:39,955
+<i>Deixa comigo!</i>
+
+1321
+01:45:53,886 --> 01:45:58,265
+Codinomes dos projetos: "Estratosfera,
+Mark Ômega, Pax Aurora".
+
+1322
+01:46:10,111 --> 01:46:14,532
+"Garras Humanas, Aglomerado Prisma,
+Sabre Negro."
+
+1323
+01:46:15,324 --> 01:46:16,325
+O que foi?
+
+1324
+01:46:16,617 --> 01:46:17,868
+"Estrelinha."
+
+1325
+01:46:20,037 --> 01:46:21,038
+É esse.
+
+1326
+01:46:21,455 --> 01:46:22,957
+Como sabe?
+
+1327
+01:46:23,833 --> 01:46:25,292
+Sei porque sou eu.
+
+1328
+01:46:28,504 --> 01:46:31,006
+<i>Ei, você aí! Identifique-se.</i>
+
+1329
+01:46:34,552 --> 01:46:35,553
+Eu posso...
+
+1330
+01:46:36,721 --> 01:46:37,763
+Estão atacando! Protejam-se!
+
+1331
+01:46:46,188 --> 01:46:47,940
+<i>K, nós precisamos
+do arquivo Estrelinha.</i>
+
+1332
+01:46:52,027 --> 01:46:53,028
+Estrelinha.
+
+1333
+01:46:57,283 --> 01:46:58,284
+É esse.
+
+1334
+01:47:19,764 --> 01:47:20,765
+K?
+
+1335
+01:47:21,182 --> 01:47:22,183
+Suba.
+
+1336
+01:47:22,349 --> 01:47:23,392
+<i>Suba.</i>
+
+1337
+01:47:24,185 --> 01:47:27,188
+<i>Ainda podem enviar os planos
+para a frota.</i>
+
+1338
+01:47:28,105 --> 01:47:29,273
+<i>Se abrirem o portal do escudo...</i>
+
+1339
+01:47:29,523 --> 01:47:31,650
+podem transmitir da torre.
+
+1340
+01:47:32,902 --> 01:47:34,320
+<i>Travando a porta do depósito agora.</i>
+
+1341
+01:47:34,403 --> 01:47:35,404
+K?
+
+1342
+01:47:35,529 --> 01:47:36,530
+K!
+
+1343
+01:47:36,572 --> 01:47:37,573
+Adeus.
+
+1344
+01:47:37,656 --> 01:47:38,657
+<i>K!</i>
+
+1345
+01:47:55,257 --> 01:47:58,094
+Senhor, acesso não autorizado
+no banco de dados.
+
+1346
+01:47:59,011 --> 01:48:00,012
+O quê?
+
+1347
+01:48:00,096 --> 01:48:01,764
+Acabamos de saber, senhor.
+
+1348
+01:48:05,643 --> 01:48:09,146
+Envie meu esquadrão para a batalha.
+Dois homens comigo, agora.
+
+1349
+01:48:09,772 --> 01:48:12,441
+Mantenham aquela praia sob controle!
+
+1350
+01:48:13,859 --> 01:48:16,320
+<i>Bodhi, você está aí?
+Falou com a frota?</i>
+
+1351
+01:48:16,821 --> 01:48:18,114
+Não consigo chegar ao veículo.
+
+1352
+01:48:19,490 --> 01:48:20,533
+Não consigo conectar.
+
+1353
+01:48:21,117 --> 01:48:23,285
+Dê um jeito.
+Precisam atingir o escudo.
+
+1354
+01:48:23,452 --> 01:48:25,788
+Se ele abrir,
+enviaremos os planos.
+
+1355
+01:48:56,277 --> 01:48:58,195
+<i>General, atrás do senhor!</i>
+
+1356
+01:49:11,542 --> 01:49:12,543
+Para trás.
+
+1357
+01:49:21,677 --> 01:49:23,179
+Estamos caindo!
+
+1358
+01:49:29,268 --> 01:49:30,269
+Vamos!
+
+1359
+01:50:31,872 --> 01:50:33,040
+Melshi, Melshi.
+
+1360
+01:50:33,290 --> 01:50:34,458
+Responda.
+
+1361
+01:50:34,709 --> 01:50:35,918
+<i>Eu me conectei.</i>
+
+1362
+01:50:36,127 --> 01:50:37,169
+Só falta uma linha aberta.
+
+1363
+01:50:37,753 --> 01:50:38,879
+Espere.
+
+1364
+01:50:40,589 --> 01:50:41,590
+A chave de controle.
+
+1365
+01:50:42,508 --> 01:50:44,093
+Está perto do console.
+
+1366
+01:50:47,930 --> 01:50:48,931
+Estou indo!
+
+1367
+01:50:58,607 --> 01:50:59,608
+Consegui!
+
+1368
+01:51:02,027 --> 01:51:03,028
+Cuidado!
+
+1369
+01:51:03,696 --> 01:51:04,697
+Tudo bem?
+
+1370
+01:51:14,248 --> 01:51:15,249
+Jyn!
+
+1371
+01:51:32,683 --> 01:51:35,311
+Estou unido à Força,
+a Força está comigo.
+
+1372
+01:51:36,437 --> 01:51:37,521
+Estou unido à Força,
+a Força está comigo.
+
+1373
+01:51:37,772 --> 01:51:38,773
+Chirrut!
+
+1374
+01:51:48,532 --> 01:51:51,452
+Estou unido à Força
+e a Força está comigo.
+
+1375
+01:51:51,702 --> 01:51:53,371
+Estou unido à Força
+e a Força está comigo.
+
+1376
+01:51:53,454 --> 01:51:54,455
+Estou unido à Força...
+
+1377
+01:51:54,705 --> 01:51:56,624
+a Força está comigo.
+Estou unido à Força...
+
+1378
+01:51:56,874 --> 01:51:57,875
+e a Força está comigo.
+
+1379
+01:51:57,958 --> 01:52:00,211
+Estou unido à Força,
+e a Força está comigo.
+
+1380
+01:52:00,378 --> 01:52:02,505
+Estou unido à Força,
+e a Força está comigo.
+
+1381
+01:52:03,339 --> 01:52:05,007
+Chirrut! Volte aqui!
+
+1382
+01:52:05,257 --> 01:52:06,258
+Estou unido à Força...
+
+1383
+01:52:15,017 --> 01:52:16,018
+Isso!
+
+1384
+01:52:20,356 --> 01:52:21,440
+Continue! Continue!
+
+1385
+01:52:26,112 --> 01:52:27,363
+Cassian!
+
+1386
+01:52:37,289 --> 01:52:39,417
+Chirrut! Venha! Venha comigo!
+
+1387
+01:52:44,505 --> 01:52:45,673
+Chirrut!
+
+1388
+01:52:51,387 --> 01:52:52,388
+Chirrut.
+
+1389
+01:52:52,888 --> 01:52:54,932
+Não morra. Não morra.
+
+1390
+01:52:55,224 --> 01:52:56,517
+Estou aqui, estou aqui.
+
+1391
+01:52:57,518 --> 01:52:58,769
+Está tudo bem.
+
+1392
+01:52:59,395 --> 01:53:03,190
+Está tudo bem.
+Procure a Força.
+
+1393
+01:53:03,357 --> 01:53:04,608
+Chirrut.
+
+1394
+01:53:04,775 --> 01:53:07,528
+E você sempre me encontrará.
+
+1395
+01:53:08,571 --> 01:53:12,241
+A Força está comigo
+e eu estou unido à Força.
+
+1396
+01:53:13,576 --> 01:53:17,413
+A Força está comigo
+e eu estou unido à Força.
+
+1397
+01:53:18,039 --> 01:53:22,835
+A Força está comigo
+e eu estou unido à Força.
+
+1398
+01:53:36,432 --> 01:53:39,393
+Escudos defletores em 50%!
+Sofremos danos graves!
+
+1399
+01:53:40,102 --> 01:53:41,353
+Agora não tem mais volta!
+
+1400
+01:53:41,645 --> 01:53:43,022
+Temos que continuar atacando!
+
+1401
+01:53:49,445 --> 01:53:50,446
+<i>Acerte aquela abertura!</i>
+
+1402
+01:53:50,613 --> 01:53:51,697
+<i>Já vimos, Líder Ouro!</i>
+
+1403
+01:53:51,989 --> 01:53:53,365
+Disparar torpedos iônicos!
+
+1404
+01:54:03,542 --> 01:54:04,543
+O que está acontecendo?
+
+1405
+01:54:04,627 --> 01:54:06,295
+Perdemos potência, senhor.
+
+1406
+01:54:09,256 --> 01:54:11,258
+Aquele destróier está desativado.
+
+1407
+01:54:13,636 --> 01:54:16,472
+Aqui é Rogue 1 para qualquer
+nave da Aliança na escuta.
+
+1408
+01:54:17,973 --> 01:54:19,141
+Tem alguém aí?
+Aqui é Rogue 1.
+
+1409
+01:54:19,433 --> 01:54:20,476
+<i>Responda!</i>
+
+1410
+01:54:20,643 --> 01:54:22,686
+Aqui é o almirante Raddus, Rogue 1.
+Na escuta.
+
+1411
+01:54:25,481 --> 01:54:26,941
+Estamos com os planos.
+
+1412
+01:54:27,817 --> 01:54:28,818
+Acharam os planos
+da Estrela da Morte.
+
+1413
+01:54:28,984 --> 01:54:30,945
+Precisam transmitir
+da torre de comunicação.
+
+1414
+01:54:31,112 --> 01:54:32,196
+Precisam derrubar o escudo.
+
+1415
+01:54:32,488 --> 01:54:34,490
+<i>É o único jeito de transmitirem.</i>
+
+1416
+01:54:35,616 --> 01:54:38,661
+Prepare uma Corvette Hammerhead.
+Tenho uma ideia.
+
+1417
+01:54:38,911 --> 01:54:40,496
+<i>Aguarde, Rogue 1.
+Cuidaremos disso.</i>
+
+1418
+01:54:40,538 --> 01:54:42,248
+Essa é por você, Galen.
+
+1419
+01:55:11,193 --> 01:55:14,488
+A Força está comigo,
+e eu estou unido à Força.
+
+1420
+01:56:05,581 --> 01:56:07,541
+Corvette 5, no alvo!
+
+1421
+01:56:08,876 --> 01:56:10,086
+Preparar para impacto.
+
+1422
+01:56:22,014 --> 01:56:23,849
+Propulsores subluz,
+potência total!
+
+1423
+01:57:00,761 --> 01:57:02,972
+<i>Redefinir alinhamento da antena.</i>
+
+1424
+01:57:04,598 --> 01:57:06,142
+<i>Redefinir alinhamento da antena.</i>
+
+1425
+01:57:07,184 --> 01:57:09,103
+<i>Redefinir alinhamento da antena.</i>
+
+1426
+01:57:10,521 --> 01:57:12,356
+<i>Redefinir alinhamento da antena.</i>
+
+1427
+01:57:36,338 --> 01:57:38,340
+Reverter motores! Potência total!
+
+1428
+01:57:59,570 --> 01:58:00,571
+<i>Antena alinhada.</i>
+
+1429
+01:58:00,863 --> 01:58:02,364
+<i>Pronta para transmitir.</i>
+
+1430
+01:58:37,066 --> 01:58:38,192
+Quem é você?
+
+1431
+01:58:40,403 --> 01:58:41,821
+Você sabe quem eu sou.
+
+1432
+01:58:44,740 --> 01:58:45,991
+Eu sou Jyn Erso.
+
+1433
+01:58:46,575 --> 01:58:48,577
+Filha de Galen e Lyra.
+
+1434
+01:58:49,078 --> 01:58:50,079
+Você perdeu.
+
+1435
+01:58:50,746 --> 01:58:52,248
+Eu perdi, tem certeza?
+
+1436
+01:58:52,540 --> 01:58:54,083
+A vingança do meu pai.
+
+1437
+01:58:54,333 --> 01:58:55,876
+Ele inseriu uma falha
+na Estrela da Morte.
+
+1438
+01:58:55,918 --> 01:58:57,753
+Colocou um pavio
+no meio da sua máquina...
+
+1439
+01:58:57,920 --> 01:59:00,005
+e eu contei à toda a galáxia
+como acendê-lo.
+
+1440
+01:59:00,923 --> 01:59:03,300
+O escudo está ativo.
+
+1441
+01:59:03,509 --> 01:59:05,886
+Seu sinal nunca chegará
+à base rebelde.
+
+1442
+01:59:06,053 --> 01:59:08,097
+Todas as suas naves em voo
+serão destruídas.
+
+1443
+01:59:08,264 --> 01:59:10,182
+Até agora só perdi tempo.
+
+1444
+01:59:10,474 --> 01:59:12,435
+Já você...
+
+1445
+01:59:13,227 --> 01:59:15,479
+morrerá com a Rebelião.
+
+1446
+01:59:46,302 --> 01:59:47,595
+<i>Transmitindo.</i>
+
+1447
+01:59:49,930 --> 01:59:50,931
+<i>Transmitindo.</i>
+
+1448
+01:59:52,767 --> 01:59:56,020
+Almirante, estamos recebendo
+uma transmissão de Scarif.
+
+1449
+02:00:05,571 --> 02:00:07,448
+Deixa, deixa!
+
+1450
+02:00:07,531 --> 02:00:08,657
+Já foi.
+
+1451
+02:00:09,825 --> 02:00:10,993
+Já foi.
+
+1452
+02:00:12,661 --> 02:00:13,662
+Vamos.
+
+1453
+02:00:13,829 --> 02:00:15,498
+<i>Transmissão recebida.</i>
+
+1454
+02:00:15,706 --> 02:00:18,000
+Almirante, recebemos os planos!
+
+1455
+02:00:18,334 --> 02:00:19,835
+Ela conseguiu!
+
+1456
+02:00:21,379 --> 02:00:24,298
+Acha que tem alguém ouvindo?
+
+1457
+02:00:25,216 --> 02:00:26,384
+Acho.
+
+1458
+02:00:28,010 --> 02:00:29,887
+Tem alguém lá.
+
+1459
+02:00:32,139 --> 02:00:36,602
+Senhor, detectamos um objeto imenso
+emergindo do hiperespaço.
+
+1460
+02:00:42,316 --> 02:00:44,068
+Senhor, devo começar
+mirando na frota?
+
+1461
+02:00:44,235 --> 02:00:45,569
+O Lorde Vader vai cuidar da frota.
+
+1462
+02:00:46,320 --> 02:00:49,824
+Mire na base em Scarif.
+Ignição de reator único.
+
+1463
+02:00:49,990 --> 02:00:51,492
+Sim, senhor.
+
+1464
+02:00:56,414 --> 02:00:57,415
+Vem.
+
+1465
+02:01:21,313 --> 02:01:23,733
+Atire quando estiver pronto.
+
+1466
+02:01:28,446 --> 02:01:30,072
+<i>Iniciar ignição primária.</i>
+
+1467
+02:01:52,136 --> 02:01:56,057
+Rogue 1,
+que a Força esteja com você.
+
+1468
+02:01:59,310 --> 02:02:02,730
+<i>Todas as naves, preparem-se
+para saltar para o hiperespaço.</i>
+
+1469
+02:02:35,137 --> 02:02:37,348
+Seu pai teria
+se orgulhado de você, Jyn.
+
+1470
+02:02:51,612 --> 02:02:53,823
+A nave foi desativada, milorde...
+
+1471
+02:02:53,989 --> 02:02:56,325
+mas recebeu transmissões
+da superfície.
+
+1472
+02:02:56,659 --> 02:02:58,994
+Prepare um grupo de abordagem.
+
+1473
+02:02:59,161 --> 02:03:00,621
+Sim, milorde.
+
+1474
+02:03:36,532 --> 02:03:37,533
+Rápido!
+
+1475
+02:03:41,996 --> 02:03:43,372
+Vamos!
+Temos que ir, agora!
+
+1476
+02:03:45,041 --> 02:03:46,834
+Vai! Vai! Vai!
+
+1477
+02:03:47,710 --> 02:03:49,045
+Rápido. Vamos!
+
+1478
+02:03:49,211 --> 02:03:50,212
+Vamos!
+
+1479
+02:03:50,337 --> 02:03:51,338
+Está presa!
+
+1480
+02:03:52,798 --> 02:03:53,841
+Ei!
+
+1481
+02:03:54,050 --> 02:03:55,509
+Ei! Socorro!
+
+1482
+02:04:12,234 --> 02:04:13,486
+Atirem!
+
+1483
+02:04:19,533 --> 02:04:20,534
+Alguém ajuda!
+
+1484
+02:04:24,246 --> 02:04:25,247
+Não abre!
+
+1485
+02:04:26,248 --> 02:04:27,249
+Força!
+
+1486
+02:04:32,755 --> 02:04:33,756
+Força!
+
+1487
+02:04:37,676 --> 02:04:38,677
+Aqui!
+
+1488
+02:04:39,387 --> 02:04:40,888
+Leva! Leva!
+
+1489
+02:04:48,604 --> 02:04:49,605
+Lançar!
+
+1490
+02:05:17,258 --> 02:05:20,803
+Protejam bem a porta principal.
+E preparem os módulos de fuga.
+
+1491
+02:05:25,182 --> 02:05:26,183
+Alteza.
+
+1492
+02:05:26,892 --> 02:05:28,769
+A transmissão que recebemos.
+
+1493
+02:05:29,854 --> 02:05:31,480
+O que nos enviaram?
+
+1494
+02:05:33,190 --> 02:05:34,650
+Esperança.
+
