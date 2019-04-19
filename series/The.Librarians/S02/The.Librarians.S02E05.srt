@@ -1,0 +1,3491 @@
+﻿1
+00:00:06,266 --> 00:00:09,810
+<i>- Cassandra, está aí?</i>
+- Desculpe.
+
+2
+00:00:10,486 --> 00:00:12,776
+Certo.
+
+3
+00:00:12,777 --> 00:00:14,106
+Estamos bem aqui.
+
+4
+00:00:14,107 --> 00:00:16,116
+<i>Se puder me escutar,
+eu posso te escutar.</i>
+
+5
+00:00:16,117 --> 00:00:17,781
+Entendido, Cassandra.
+Estamos bem.
+
+6
+00:00:17,782 --> 00:00:21,936
+Já que está aí dentro,
+procure por
+
+7
+00:00:21,937 --> 00:00:24,347
+uma pedra.
+
+8
+00:00:24,348 --> 00:00:26,718
+Algo redondo com cristais,
+
+9
+00:00:26,719 --> 00:00:29,633
+<i>ou um globo de cristal
+incrustado com pedras.</i>
+
+10
+00:00:29,634 --> 00:00:32,857
+Seria ótimo se você desse
+uma descrição de verdade.
+
+11
+00:00:32,858 --> 00:00:35,303
+Seria ótimo se os Bibliotecários
+da Era do Bronze
+
+12
+00:00:35,304 --> 00:00:36,640
+não fossem tão poéticos.
+
+13
+00:00:36,641 --> 00:00:39,972
+"O olho de Zaratustra
+é a chave
+
+14
+00:00:39,973 --> 00:00:41,947
+para a porta
+do conhecimento perdido,
+
+15
+00:00:41,948 --> 00:00:45,271
+o cajado invocado
+pelo sol e pelo pesar."
+
+16
+00:00:45,272 --> 00:00:48,157
+- Eu entendo.
+<i>- Vocês já estão dentro?</i>
+
+17
+00:00:48,812 --> 00:00:50,469
+Na maior parte.
+
+18
+00:00:50,470 --> 00:00:52,682
+Na maior parte dentro.
+Eu acho.
+
+19
+00:00:56,320 --> 00:00:58,118
+Alguém disse
+que ele podia quebrar
+
+20
+00:00:58,119 --> 00:01:00,525
+o sistema de segurança
+mais caro do mundo
+
+21
+00:01:00,526 --> 00:01:02,197
+em o quê?
+Um segundo?
+
+22
+00:01:02,198 --> 00:01:03,545
+Eu não sei.
+
+23
+00:01:03,546 --> 00:01:07,079
+Eu acho que o sotaque dele
+está ficando pior.
+
+24
+00:01:07,080 --> 00:01:09,306
+Três segundos.
+Só temos dois.
+
+25
+00:01:15,580 --> 00:01:18,314
+"Obrigado, Ezekiel.
+Você é um gênio, Ezekiel",
+
+26
+00:01:18,315 --> 00:01:20,083
+vocês nunca disseram.
+
+27
+00:01:26,942 --> 00:01:29,684
+<i>Você tem algo melhor
+que "coisa redonda cristalina"?</i>
+
+28
+00:01:29,685 --> 00:01:31,494
+Não.
+
+29
+00:01:31,495 --> 00:01:33,324
+Não é cristal.
+
+30
+00:01:33,325 --> 00:01:35,058
+É vidro.
+
+31
+00:01:35,059 --> 00:01:37,615
+Sr. Jenkins, você voltou.
+
+32
+00:01:37,616 --> 00:01:39,948
+Sim, da aventura emocionante
+
+33
+00:01:39,949 --> 00:01:43,435
+do subsolo secundário
+da Biblioteca.
+
+34
+00:01:43,436 --> 00:01:46,807
+A asa de Xenobia está lá,
+o que é muito estranho
+
+35
+00:01:46,808 --> 00:01:49,565
+considerando que nos últimos
+cinco séculos,
+
+36
+00:01:49,566 --> 00:01:51,558
+a asa de Xenobia
+esteve no sótão.
+
+37
+00:01:51,559 --> 00:01:54,959
+Como uma sala se move
+do sótão para o porão?
+
+38
+00:01:54,960 --> 00:01:59,362
+Isso, uma sala
+deve ficar em um lugar.
+
+39
+00:01:59,363 --> 00:02:01,366
+Como está
+o pingente de comunicação?
+
+40
+00:02:01,367 --> 00:02:03,472
+Está bom,
+só um pouco de ruído, mas...
+
+41
+00:02:03,473 --> 00:02:05,669
+<i>Olá!</i>
+Invadindo e entrando aqui!
+
+42
+00:02:05,670 --> 00:02:07,663
+<i>"Objeto de areias sem fim."</i>
+
+43
+00:02:07,664 --> 00:02:10,247
+Vidro é feito de areia.
+
+44
+00:02:10,248 --> 00:02:13,565
+O Olho de Zaratustra
+é um globo de vidro.
+
+45
+00:02:13,566 --> 00:02:15,782
+Tornando-o oficialmente
+
+46
+00:02:18,037 --> 00:02:21,564
+a 73° coisa a desaparecer
+dessa Biblioteca.
+
+47
+00:02:21,565 --> 00:02:24,065
+Então como
+um bilionário louco
+
+48
+00:02:24,066 --> 00:02:27,354
+com um gosto interessante
+termina com essa coisa?
+
+49
+00:02:28,456 --> 00:02:31,032
+Os emails ao advogado dele
+dizem que alguém apareceu
+
+50
+00:02:31,033 --> 00:02:32,918
+e doou para a coleção dele.
+
+51
+00:02:32,919 --> 00:02:34,402
+Por segurança.
+
+52
+00:02:36,086 --> 00:02:38,121
+Sim, eu hackeei o email dele.
+
+53
+00:02:40,322 --> 00:02:44,142
+- E você acredita?
+- É a chave para o conhecimento.
+
+54
+00:02:44,143 --> 00:02:46,043
+Se Prospero roubou,
+
+55
+00:02:46,044 --> 00:02:48,922
+passamos por muita coisa
+só para desistir.
+
+56
+00:02:50,082 --> 00:02:52,543
+Talvez seja um tipo
+de jogo profundo.
+
+57
+00:02:53,441 --> 00:02:55,178
+Alguma informação do dono?
+
+58
+00:02:55,179 --> 00:02:57,396
+<i>Não achei nada ainda.</i>
+
+59
+00:03:05,700 --> 00:03:07,000
+Flynn.
+
+60
+00:03:08,442 --> 00:03:11,615
+- Como chegou aqui?
+- Eu entrei como objeto de arte.
+
+61
+00:03:11,616 --> 00:03:13,425
+Por que está aqui?
+
+62
+00:03:13,426 --> 00:03:16,899
+Para ter acesso
+ao Olho de Zaratustra, claro.
+
+63
+00:03:17,991 --> 00:03:21,082
+Jenkins está tentando ligar
+as pedras de comunicação.
+
+64
+00:03:21,715 --> 00:03:24,003
+Cobre,
+uma escolha muito interessante.
+
+65
+00:03:24,004 --> 00:03:25,688
+O que está fazendo aqui?
+
+66
+00:03:25,689 --> 00:03:28,888
+Nós decidimos que você
+descobriria o plano de Prospero
+
+67
+00:03:28,889 --> 00:03:31,531
+e eu buscaria os artefatos
+que ele não pode pegar.
+
+68
+00:03:31,532 --> 00:03:34,088
+Não decidimos,
+e é um objetivo, não um plano.
+
+69
+00:03:35,207 --> 00:03:37,813
+Isso geralmente envolve
+mais bater do que discutir,
+
+70
+00:03:37,814 --> 00:03:39,601
+o que nós fazemos.
+
+71
+00:03:39,602 --> 00:03:41,967
+Mas estamos aqui,
+discutindo.
+
+72
+00:03:41,968 --> 00:03:45,078
+Eu sei que para você
+é difícil trabalhar...
+
+73
+00:03:45,079 --> 00:03:47,791
+Estar com outras pessoas.
+Sei que esteve sozinho.
+
+74
+00:03:47,792 --> 00:03:49,675
+Mas não podemos
+chegar dando ordens
+
+75
+00:03:49,676 --> 00:03:51,810
+- e esperar que sigam.
+- Achei!
+
+76
+00:03:53,836 --> 00:03:56,490
+Eles são Bibliotecários
+tanto quanto você.
+
+77
+00:03:56,491 --> 00:03:58,452
+Deixei cair.
+
+78
+00:03:58,453 --> 00:04:00,154
+Deixei cair!
+
+79
+00:04:00,155 --> 00:04:01,767
+Muito improvável.
+
+80
+00:04:02,852 --> 00:04:04,996
+Pegue, cara.
+
+81
+00:04:06,114 --> 00:04:08,610
+Vamos começar de novo.
+Oi, senti sua falta,
+
+82
+00:04:08,611 --> 00:04:09,945
+ainda é minha favorita.
+
+83
+00:04:09,946 --> 00:04:12,416
+Minha coisa favorita,
+seus olhos parecem um oceano
+
+84
+00:04:12,417 --> 00:04:15,766
+durante uma tempestade
+quando está com raiva.
+
+85
+00:04:15,767 --> 00:04:19,574
+Então você foi um idiota
+e me deixou com raiva pelos...
+
+86
+00:04:19,575 --> 00:04:21,030
+Olhos de tempestade.
+
+87
+00:04:21,031 --> 00:04:22,672
+Eu tento.
+
+88
+00:04:22,673 --> 00:04:24,954
+Eu tento confiar.
+Eu tento ser aberto.
+
+89
+00:04:24,955 --> 00:04:27,958
+E estou tentando abrir
+minha barreira emocional.
+
+90
+00:04:28,755 --> 00:04:30,281
+Viu o que eu fiz?
+
+91
+00:04:31,333 --> 00:04:33,300
+Significa que eu confio
+que você pode ir
+
+92
+00:04:33,301 --> 00:04:35,381
+e fazer as suas coisas,
+eu faço as minhas,
+
+93
+00:04:35,382 --> 00:04:38,459
+e cobrimos o dobro de lugares
+e não temos que nos ver sempre.
+
+94
+00:04:38,460 --> 00:04:41,432
+E aqui estamos,
+no mesmo lugar, porque...
+
+95
+00:04:41,433 --> 00:04:43,715
+Não nos comunicamos.
+
+96
+00:04:44,493 --> 00:04:45,928
+Eu vi o que você fez.
+
+97
+00:04:45,929 --> 00:04:48,179
+Ponha na sua cabeça,
+esse é o time agora.
+
+98
+00:04:48,180 --> 00:04:50,139
+Não é só você.
+
+99
+00:04:51,170 --> 00:04:52,619
+Eu não estava escutando.
+
+100
+00:04:52,620 --> 00:04:55,809
+- É um time, não só você.
+- Não só eu, entendi.
+
+101
+00:04:57,135 --> 00:04:59,575
+O que está fazendo, Jones?
+Pegue para nós...
+
+102
+00:05:08,146 --> 00:05:09,950
+O que tem de errado
+com a Biblioteca,
+
+103
+00:05:09,951 --> 00:05:12,744
+salas trocando,
+portas vazias, só fica pior.
+
+104
+00:05:12,745 --> 00:05:15,122
+É o primeiro artefato
+a aparecer em público.
+
+105
+00:05:15,123 --> 00:05:18,543
+- O Olho de Zaratustra.
+- E Jenkins quer saber o porquê.
+
+106
+00:05:18,544 --> 00:05:20,699
+- Você está aqui...
+- Porque o Olho
+
+107
+00:05:20,700 --> 00:05:22,946
+é um mapa
+para o Cajado de Zaratustra.
+
+108
+00:05:22,947 --> 00:05:25,195
+Pare de mostrar
+que você sabe pronunciar
+
+109
+00:05:25,196 --> 00:05:26,895
+- Zara...
+- Zaratustra.
+
+110
+00:05:26,896 --> 00:05:28,271
+- Zara-TU-stra.
+- Tustra.
+
+111
+00:05:28,272 --> 00:05:30,495
+Cajado antigo poderoso
+do conhecimento.
+
+112
+00:05:30,496 --> 00:05:33,414
+E já que Prospero quer
+reconstruir o cajado mágico...
+
+113
+00:05:33,415 --> 00:05:36,086
+- Como demonstrado.
+- A explicação mais provável
+
+114
+00:05:36,087 --> 00:05:37,891
+para a aparição
+do único artefato
+
+115
+00:05:37,892 --> 00:05:41,010
+que colocaria nós dois
+no mesmo lugar e tempo...
+
+116
+00:05:41,011 --> 00:05:43,100
+- Isso é uma armadilha.
+- Armadilha total.
+
+117
+00:05:43,977 --> 00:05:46,789
+Jones, vamos embora!
+
+118
+00:05:46,790 --> 00:05:48,521
+As Flautas Mágicas de Pan!
+
+119
+00:05:49,774 --> 00:05:52,905
+- O quê?
+- As Flautas Mágicas de Pan!
+
+120
+00:05:52,906 --> 00:05:54,804
+- O quê?
+- As Flautas Mágicas de Pan,
+
+121
+00:05:54,805 --> 00:05:56,642
+fazem você dormir!
+
+122
+00:06:01,705 --> 00:06:03,061
+O 74°.
+
+123
+00:06:03,062 --> 00:06:05,962
+As Flautas de Pan
+deveriam estar na Biblioteca.
+
+124
+00:06:15,373 --> 00:06:16,749
+Só...
+
+125
+00:06:17,758 --> 00:06:19,460
+- Cuidado!
+- Não!
+
+126
+00:06:21,003 --> 00:06:23,003
+<i>Legendas Em Série
+Apresenta:</i>
+
+127
+00:06:23,004 --> 00:06:24,804
+<i>2x05 - 22/11/15
+And the Hollow Men</i>
+
+128
+00:06:24,805 --> 00:06:26,105
+<i>Bibliotecários:</i>
+
+129
+00:06:26,106 --> 00:06:30,606
+<b><i>Maislane | AnaLaura
+Brunobrb² | jluizsd | RoBs</i></b>
+
+130
+00:06:30,607 --> 00:06:33,607
+<b><i>Guardião:
+jluizsd</i></b>
+
+131
+00:06:50,134 --> 00:06:51,434
+O que está fazendo, Jones?
+
+132
+00:06:51,435 --> 00:06:54,454
+Stone?
+Jones?
+
+133
+00:07:03,500 --> 00:07:04,644
+Onde está o Flynn?
+
+134
+00:07:04,645 --> 00:07:08,113
+- Onde está o Olho?
+- Estou procurando.
+
+135
+00:07:10,316 --> 00:07:11,716
+Flynn?
+
+136
+00:07:12,855 --> 00:07:15,286
+Baird, por que não está usando
+o seu pendente?
+
+137
+00:07:15,287 --> 00:07:18,795
+Jenkins, o pendente se foi.
+E o Flynn também.
+
+138
+00:07:19,877 --> 00:07:23,280
+E o Olho de Zaratustra.
+Essa missão foi para o buraco.
+
+139
+00:07:23,281 --> 00:07:26,177
+<i>Bem, a situação está</i>
+pior do que imagina.
+
+140
+00:07:27,702 --> 00:07:31,954
+A porta de trás está instável.
+<i>A não ser que voltem agora...</i>
+
+141
+00:07:38,396 --> 00:07:41,148
+- O que aconteceu?
+- Olhem isso. E o Flynn sumiu?
+
+142
+00:07:41,149 --> 00:07:43,951
+- É coisa do Prospero.
+- Prospero. Não o Prospero.
+
+143
+00:07:43,952 --> 00:07:46,055
+- Precisamos achar o Flynn.
+- Como?
+
+144
+00:07:46,056 --> 00:07:48,786
+Não vão dar a ele
+o direito a um telefonema.
+
+145
+00:07:50,141 --> 00:07:52,446
+Acho que é ele ligando.
+
+146
+00:07:58,115 --> 00:07:59,515
+Flynn?
+
+147
+00:08:01,836 --> 00:08:03,236
+<i>Flynn?</i>
+
+148
+00:08:11,630 --> 00:08:14,393
+<i>Flynn? É a Eve.
+Pode me ouvir?</i>
+
+149
+00:08:14,394 --> 00:08:16,350
+<i>Se está me ouvindo
+e não está sozinho,</i>
+
+150
+00:08:16,351 --> 00:08:18,543
+<i>faça algum barulho.
+O pendente está ativo,</i>
+
+151
+00:08:18,544 --> 00:08:20,304
+<i>- deve conseguir...</i>
+- Estou ouvindo!
+
+152
+00:08:20,305 --> 00:08:22,190
+<i>- Estou aqui, e bem.</i>
+- Graças a Deus.
+
+153
+00:08:22,191 --> 00:08:25,627
+<i>Flynn, faz 2h que levaram você.
+Sabe quem são?</i>
+
+154
+00:08:25,628 --> 00:08:27,692
+<i>Sabe onde está?</i>
+Alguma referência?
+
+155
+00:08:27,693 --> 00:08:30,900
+- Está machucado?
+<i>- Não, não,</i> não e não.
+
+156
+00:08:30,901 --> 00:08:33,730
+Estou em uma sala de metal,
+sem janelas.
+
+157
+00:08:33,731 --> 00:08:35,767
+<i>Acho que ouço água.</i>
+
+158
+00:08:37,222 --> 00:08:40,859
+E há uma surpreendente
+quantidade
+
+159
+00:08:40,860 --> 00:08:45,048
+de Trivia dos Bibliotecários
+nas paredes.
+
+160
+00:08:45,049 --> 00:08:49,096
+<i>E também</i>, os artefatos
+da Biblioteca estão aqui.
+
+161
+00:08:49,097 --> 00:08:52,109
+O jogo de xadrez
+da Terra dos Espelhos.
+
+162
+00:08:52,110 --> 00:08:54,601
+O primeiro Caduceu e...
+
+163
+00:08:55,256 --> 00:08:56,756
+Sim.
+
+164
+00:08:59,711 --> 00:09:02,880
+O Olho de Zaratustra.
+
+165
+00:09:02,881 --> 00:09:07,346
+Não!
+Não, não, não!
+
+166
+00:09:07,347 --> 00:09:11,852
+Devolva isso!
+Fique sentado! Sentado!
+
+167
+00:09:12,573 --> 00:09:17,710
+Sol e arruda. Dois de Seis.
+Sol e arruda. Dois de Seis.
+
+168
+00:09:17,711 --> 00:09:20,820
+Nós começamos com o pé errado.
+Meu nome é Flynn Carsen.
+
+169
+00:09:20,821 --> 00:09:24,348
+Agora não é hora para nomes.
+Exatamente agora, eu catalogo...
+
+170
+00:09:24,349 --> 00:09:26,233
+E você fica sentado!
+
+171
+00:09:26,234 --> 00:09:28,888
+- Quem é esse cara?
+- Alguém muito poderoso.
+
+172
+00:09:28,889 --> 00:09:30,654
+Um dragão trapaceiro
+ou deus menor.
+
+173
+00:09:30,655 --> 00:09:32,641
+Podemos usar o pendente
+para rastreá-lo?
+
+174
+00:09:32,642 --> 00:09:34,144
+Acho que tem
+interferência mágica
+
+175
+00:09:34,145 --> 00:09:37,888
+- dos artefatos de lá...
+- Esperem! Ouçam.
+
+176
+00:09:37,889 --> 00:09:39,588
+É código Morse.
+
+177
+00:09:46,457 --> 00:09:48,990
+Esses números não fazem
+nenhum sentido.
+
+178
+00:09:50,011 --> 00:09:54,094
+Espere.
+É código telegráfico chinês.
+
+179
+00:09:55,683 --> 00:09:59,061
+Flynn!
+A língua chinesa é pictográfica.
+
+180
+00:09:59,062 --> 00:10:01,314
+Com cada sinal,
+
+181
+00:10:01,315 --> 00:10:05,651
+temos mais informações,
+com menos pontos e linhas.
+
+182
+00:10:09,363 --> 00:10:10,863
+Certo.
+
+183
+00:10:12,483 --> 00:10:16,385
+Certo.
+Agora é a hora dos nomes.
+
+184
+00:10:16,386 --> 00:10:19,953
+Eu sou o Ray, Ray Glasney.
+E você...
+
+185
+00:10:19,954 --> 00:10:23,648
+- Você é Flynn, Flynn Carsen.
+- Quem é você?
+
+186
+00:10:23,649 --> 00:10:26,706
+- Isso! Diga-me você!
+- Eu não sei
+
+187
+00:10:26,707 --> 00:10:29,111
+- do que está falando.
+- Não, você tem que saber.
+
+188
+00:10:29,112 --> 00:10:32,528
+Você tem que saber! É o Flynn!
+É de quem preciso!
+
+189
+00:10:32,529 --> 00:10:34,673
+Dois de Seis,
+o sol e a arruda.
+
+190
+00:10:35,990 --> 00:10:38,123
+A orbe é o olho
+que acha o cajado.
+
+191
+00:10:38,124 --> 00:10:40,961
+Você está procurando
+o Cajado de Zaratustra?
+
+192
+00:10:40,962 --> 00:10:44,173
+Ótimo. Bem, ninguém conseguiu
+encontrá-lo...
+
+193
+00:10:48,419 --> 00:10:51,362
+Não! Não!
+
+194
+00:10:51,363 --> 00:10:54,644
+- Jenkins, preciso da porta.
+- Não!
+
+195
+00:10:54,645 --> 00:10:57,127
+Stone, mapa das Linhas Ley
+da América do Norte.
+
+196
+00:10:57,128 --> 00:11:01,381
+Cassandra, saindo de Washington.
+Até onde podem ter ido em 2h?
+
+197
+00:11:01,382 --> 00:11:04,403
+De carro, um pouco acima
+do limite de velocidade: 160km.
+
+198
+00:11:04,404 --> 00:11:07,025
+- Não!
+- Quantas cidades no perímetro,
+
+199
+00:11:07,026 --> 00:11:09,444
+- perto de rios?
+- São 37 cidades perto de rios.
+
+200
+00:11:09,445 --> 00:11:11,559
+Prefeito.
+Esse tem os pontos de magia
+
+201
+00:11:11,560 --> 00:11:13,419
+e as Linhas Ley.
+
+202
+00:11:13,420 --> 00:11:16,513
+Flynn disse que Glasney tem
+objetos poderosos desprotegidos.
+
+203
+00:11:16,514 --> 00:11:19,779
+Estava falando com alguém?
+Usava telegrafia chinesa.
+
+204
+00:11:19,780 --> 00:11:23,384
+- Por que falava com os chineses?
+- Aqui. Easton, Maryland.
+
+205
+00:11:23,385 --> 00:11:26,546
+- Perto da água.
+- Posso abrir a porta usando
+
+206
+00:11:26,547 --> 00:11:29,088
+a maior fonte de magia local.
+Posso enviá-los lá.
+
+207
+00:11:29,089 --> 00:11:32,266
+Mas se vão, precisam ir rápido.
+Está tudo ligado à Biblioteca,
+
+208
+00:11:32,267 --> 00:11:34,620
+- que está...
+- Mantenha a porta aberta.
+
+209
+00:11:34,621 --> 00:11:36,506
+Primeira prioridade:
+encontrar Flynn.
+
+210
+00:11:36,507 --> 00:11:39,186
+Acho que está
+com dificuldades cognitivas,
+
+211
+00:11:39,187 --> 00:11:42,906
+- e acho que posso ajudá-lo...
+- Não, não, não. Vai fugir.
+
+212
+00:11:42,907 --> 00:11:45,318
+Você é um fujão.
+É como aquele biscoito fujão.
+
+213
+00:11:45,319 --> 00:11:46,774
+Mas não desta vez.
+
+214
+00:11:48,282 --> 00:11:49,809
+Não desta vez.
+
+215
+00:11:56,320 --> 00:11:57,821
+Afastem-se!
+
+216
+00:12:41,148 --> 00:12:44,534
+Nossa,
+escapou delas rápido.
+
+217
+00:12:44,535 --> 00:12:48,771
+É só apertar o pino
+dentro da trava e pronto.
+
+218
+00:13:08,379 --> 00:13:10,116
+É uma aventura!
+
+219
+00:13:18,536 --> 00:13:21,730
+Vai ser ótimo.
+Só você e eu, Flynn.
+
+220
+00:13:31,054 --> 00:13:33,689
+Dá para alguém ser
+mais perseguidor que este aqui?
+
+221
+00:13:33,690 --> 00:13:38,077
+Não, há um padrão aqui.
+Eu só não estou vendo,
+
+222
+00:13:38,078 --> 00:13:40,062
+mas há uma mente organizada
+no trabalho.
+
+223
+00:13:40,063 --> 00:13:44,466
+Jenkins, é a casa de Glasney.
+Sem Flynn, mas muitos artefatos.
+
+224
+00:13:44,467 --> 00:13:47,837
+Por isso a porta os enviou aí.
+Um sinal forte de magia.
+
+225
+00:13:47,838 --> 00:13:51,488
+Pegue quantos artefatos der.
+Não podemos deixá-los
+
+226
+00:13:51,489 --> 00:13:53,209
+<i>para que Prospero
+os encontre.</i>
+
+227
+00:13:53,210 --> 00:13:55,661
+Peguem o que der,
+tudo o que for mágico.
+
+228
+00:13:55,662 --> 00:13:57,960
+Alguma ideia de como Glasney
+está fazendo isso?
+
+229
+00:13:57,961 --> 00:13:59,544
+Não. Nenhuma.
+
+230
+00:13:59,545 --> 00:14:03,064
+Obviamente, o que ele fez
+requer um poder fenomenal.
+
+231
+00:14:03,065 --> 00:14:06,010
+Estamos lidando com um ser
+extremamente perigoso.
+
+232
+00:14:08,210 --> 00:14:10,025
+Você quer me dizer
+
+233
+00:14:10,026 --> 00:14:12,394
+por que me trouxe,
+e o Olho de Zaratustra
+
+234
+00:14:12,395 --> 00:14:14,533
+para um restaurante
+no meio do nada?
+
+235
+00:14:15,269 --> 00:14:16,782
+Vê nossa garçonete ali?
+
+236
+00:14:16,783 --> 00:14:19,852
+Eu a observei e posso
+afirmar que ela certamente
+
+237
+00:14:19,853 --> 00:14:21,520
+é casada, tem 3 filhos,
+
+238
+00:14:21,521 --> 00:14:23,239
+criada no delta do Mississipi,
+
+239
+00:14:23,240 --> 00:14:24,907
+trabalhou e viveu aqui
+por 5 anos
+
+240
+00:14:24,908 --> 00:14:26,208
+e toca violoncelo.
+
+241
+00:14:26,209 --> 00:14:27,993
+Eu observo você
+
+242
+00:14:27,994 --> 00:14:30,183
+e não vejo nada.
+Nadinha. Coisa alguma.
+
+243
+00:14:30,184 --> 00:14:32,014
+Por isso preciso
+que você e o bastão
+
+244
+00:14:32,015 --> 00:14:33,965
+me ajudem a descobrir
+quem sou.
+
+245
+00:14:34,568 --> 00:14:36,068
+Recuperar as minhas memórias.
+
+246
+00:14:36,069 --> 00:14:37,853
+Tudo o que eu sei
+
+247
+00:14:37,854 --> 00:14:39,805
+é que tem magia
+solta no mundo.
+
+248
+00:14:39,806 --> 00:14:41,957
+Está nas árvores,
+nos esgotos,
+
+249
+00:14:41,958 --> 00:14:43,409
+nos berços e nos necrotérios.
+
+250
+00:14:43,410 --> 00:14:45,833
+E está, está por aí.
+Está solta!
+
+251
+00:14:45,834 --> 00:14:47,146
+Precisa estar contida.
+
+252
+00:14:47,147 --> 00:14:48,699
+Estamos chegando
+a algum lugar,
+
+253
+00:14:48,700 --> 00:14:50,500
+porque concordo
+completamente.
+
+254
+00:14:51,268 --> 00:14:53,402
+Precisa voltar à Biblioteca.
+
+255
+00:14:53,403 --> 00:14:55,321
+Tudo o que eu sei é que
+
+256
+00:14:55,322 --> 00:14:57,673
+eu me sentia mal
+antes de estarmos juntos
+
+257
+00:14:57,674 --> 00:14:59,525
+e agora me sinto bem.
+
+258
+00:14:59,526 --> 00:15:01,110
+Eu me sinto bem.
+
+259
+00:15:01,111 --> 00:15:02,645
+Sistema decimal de Dewey!
+
+260
+00:15:02,646 --> 00:15:04,346
+Foi como Glasney
+organizou isso.
+
+261
+00:15:04,347 --> 00:15:06,365
+Quem pensa
+em decimal de Dewey?
+
+262
+00:15:06,366 --> 00:15:07,966
+Quem, de fato,
+minha querida?
+
+263
+00:15:10,687 --> 00:15:11,987
+Moriarty.
+
+264
+00:15:12,925 --> 00:15:14,490
+Você está por trás disso.
+
+265
+00:15:14,491 --> 00:15:17,241
+Fui designado a encontrar
+objetos mágicos para Prospero.
+
+266
+00:15:17,242 --> 00:15:19,642
+Mas, convenhamos, "Magia" é
+só uma palavra bonita
+
+267
+00:15:19,643 --> 00:15:21,497
+para um campo desconhecido
+que altera
+
+268
+00:15:21,498 --> 00:15:23,398
+as propriedades quânticas
+da matéria.
+
+269
+00:15:23,399 --> 00:15:24,699
+É o que penso.
+
+270
+00:15:24,700 --> 00:15:27,821
+Talvez a intrusão
+extradimensional...
+
+271
+00:15:27,822 --> 00:15:31,845
+Cassandra, não aja como
+uma fã do arqui-inimigo.
+
+272
+00:15:31,846 --> 00:15:33,212
+- Desculpe.
+- Duquesa.
+
+273
+00:15:33,213 --> 00:15:35,228
+Não sejamos chatos, sim?
+
+274
+00:15:36,000 --> 00:15:38,101
+Vejo que o Sr. Carsen
+não está aqui.
+
+275
+00:15:38,102 --> 00:15:40,203
+Como não estamos com ele,
+devo concluir
+
+276
+00:15:40,204 --> 00:15:43,289
+que ele está em perigo
+por uma terceira parte?
+
+277
+00:15:43,290 --> 00:15:44,797
+Você é bem inteligente.
+
+278
+00:15:44,798 --> 00:15:47,654
+Mas será você astuto o bastante
+para aceitar minha oferta?
+
+279
+00:15:47,655 --> 00:15:50,109
+Entregue-me o objeto mágico
+e saia do meu caminho.
+
+280
+00:15:50,110 --> 00:15:52,910
+Talvez eu leve a Duquesa
+para dançar qualquer hora.
+
+281
+00:15:54,755 --> 00:15:56,319
+Sou só um garoto do campo,
+
+282
+00:15:56,320 --> 00:15:58,611
+mas sou esperto o bastante
+para saber
+
+283
+00:15:58,612 --> 00:16:00,978
+que esses containers
+têm duas portas!
+
+284
+00:16:42,390 --> 00:16:43,690
+Ariel.
+
+285
+00:16:44,740 --> 00:16:46,801
+Seu serviço é necessário.
+
+286
+00:16:49,062 --> 00:16:51,801
+Nós esbarramos em algo,
+não é mesmo, espírito?
+
+287
+00:16:56,952 --> 00:16:58,628
+Vai, vai, vai!
+
+288
+00:17:05,610 --> 00:17:07,009
+Baird, vamos!
+
+289
+00:17:07,010 --> 00:17:09,060
+Baird, se apresse!
+A Porta está fechando!
+
+290
+00:17:34,184 --> 00:17:35,484
+Isso melhora o sabor?
+
+291
+00:17:35,485 --> 00:17:36,994
+Melhora o sabor?
+
+292
+00:17:36,995 --> 00:17:38,667
+Quem diabos é você, Ray?
+
+293
+00:17:40,277 --> 00:17:42,127
+Por que você parece
+tão familiar?
+
+294
+00:17:44,083 --> 00:17:45,991
+Sumério.
+
+295
+00:17:45,992 --> 00:17:47,986
+É um cristal Acadiano?
+
+296
+00:17:49,162 --> 00:17:50,496
+O material é...
+
+297
+00:17:51,984 --> 00:17:53,923
+Extrato de palma da Judeia
+
+298
+00:17:53,924 --> 00:17:55,357
+extinto desde 500 a. C.
+
+299
+00:17:56,544 --> 00:17:58,193
+"No encontro do Sol
+e da arruda,
+
+300
+00:17:58,194 --> 00:18:00,421
+será revelado
+o Templo de Zaratustra."
+
+301
+00:18:00,422 --> 00:18:01,922
+Encontro, Sol, arruda...
+
+302
+00:18:01,923 --> 00:18:03,703
+Senhor,
+você precisa vir rápido.
+
+303
+00:18:03,704 --> 00:18:05,254
+Há algo errado
+com o seu amigo.
+
+304
+00:18:11,293 --> 00:18:13,467
+Ray? O que aconteceu?
+
+305
+00:18:13,468 --> 00:18:15,314
+Não sei.
+Eu estava falando,
+
+306
+00:18:15,315 --> 00:18:17,104
+e quando vi,
+estava no chão.
+
+307
+00:18:17,105 --> 00:18:18,471
+Acontece às vezes.
+
+308
+00:18:18,472 --> 00:18:20,244
+Ai!
+
+309
+00:18:20,245 --> 00:18:21,545
+Minha cabeça!
+
+310
+00:18:21,546 --> 00:18:22,928
+Parece que vai explodir.
+
+311
+00:18:22,929 --> 00:18:24,838
+Está acontecendo
+cada vez mais.
+
+312
+00:18:24,839 --> 00:18:26,139
+Quando foi a primeira vez?
+
+313
+00:18:26,140 --> 00:18:28,421
+Há 4 meses.
+Está piorando.
+
+314
+00:18:28,422 --> 00:18:29,954
+E quanto a antes disso?
+
+315
+00:18:29,955 --> 00:18:31,655
+Eu não lembro de nada.
+
+316
+00:18:31,656 --> 00:18:34,550
+Está dizendo que só lembra
+dos últimos 4 meses?
+
+317
+00:18:34,551 --> 00:18:37,480
+Ray. Ray. Ray. Ray!
+Foco. Foco.
+
+318
+00:18:37,481 --> 00:18:38,894
+Você está dizendo
+
+319
+00:18:38,895 --> 00:18:42,713
+que sua memória
+só volta até 4 meses atrás?
+
+320
+00:18:42,714 --> 00:18:44,162
+E que você pega nos bolsos
+
+321
+00:18:44,163 --> 00:18:46,135
+e tira artefatos
+da Biblioteca?
+
+322
+00:18:46,136 --> 00:18:47,436
+Eu não sei de onde eles vêm.
+
+323
+00:18:47,437 --> 00:18:49,537
+Você está ligado à Biblioteca
+de alguma forma.
+
+324
+00:18:49,538 --> 00:18:52,400
+Uma Biblioteca que se muda
+constantemente, aleatoriamente,
+
+325
+00:18:52,401 --> 00:18:54,281
+como se não tivesse
+
+326
+00:18:54,282 --> 00:18:55,582
+razão.
+
+327
+00:18:59,546 --> 00:19:00,866
+Você é a Biblioteca.
+
+328
+00:19:01,743 --> 00:19:03,766
+- Eu sou o quê?
+- Você é a Biblioteca.
+
+329
+00:19:03,767 --> 00:19:06,680
+Jenkins disse que a Biblioteca
+age com intenção.
+
+330
+00:19:06,681 --> 00:19:08,231
+Intenção é inteligência.
+É você.
+
+331
+00:19:08,232 --> 00:19:10,383
+Você é a inteligência,
+mas está separado,
+
+332
+00:19:10,384 --> 00:19:12,061
+transformado em uma pessoa.
+
+333
+00:19:12,062 --> 00:19:14,313
+Posso falar com você,
+eles podem falar comigo.
+
+334
+00:19:14,314 --> 00:19:15,614
+Pode tirar dúvidas.
+
+335
+00:19:15,615 --> 00:19:17,257
+Há tanto que eu quero saber.
+
+336
+00:19:17,258 --> 00:19:18,951
+Eu não sei
+do que está falando.
+
+337
+00:19:18,952 --> 00:19:21,855
+Milhares de anos de história,
+todos os mistérios nunca...
+
+338
+00:19:21,856 --> 00:19:23,165
+Judson?
+
+339
+00:19:23,166 --> 00:19:24,775
+Eu não lembro
+de nada disso.
+
+340
+00:19:24,776 --> 00:19:26,472
+Está bem, tudo bem.
+Comigo.
+
+341
+00:19:26,473 --> 00:19:27,823
+Os anos que passamos juntos
+
+342
+00:19:27,824 --> 00:19:29,528
+11 anos.
+Passamos por muito juntos.
+
+343
+00:19:29,529 --> 00:19:31,644
+Ai! Olha,
+
+344
+00:19:31,645 --> 00:19:34,474
+eu não lembro de Judson.
+Não lembro de nós.
+
+345
+00:19:35,240 --> 00:19:38,439
+Apenas dói.
+Minha cabeça, está bem?
+
+346
+00:19:40,539 --> 00:19:43,086
+Por isso precisa
+do Bastão do Conhecimento,
+
+347
+00:19:43,087 --> 00:19:45,741
+para recuperar a sua memória.
+E quanto mais esperamos,
+
+348
+00:19:45,742 --> 00:19:47,978
+quanto mais estamos
+separados, pior é...
+
+349
+00:19:50,451 --> 00:19:52,055
+Não, não. Vou te ajudar.
+
+350
+00:19:52,056 --> 00:19:53,371
+Acharemos o bastão.
+
+351
+00:19:53,372 --> 00:19:54,864
+- Você vai?
+- Vamos. Juntos.
+
+352
+00:19:54,865 --> 00:19:56,165
+Queremos a conta.
+
+353
+00:19:56,922 --> 00:19:59,051
+- E um milkshake.
+- Não, você comeu bem.
+
+354
+00:19:59,052 --> 00:20:01,155
+- Apenas a conta.
+- Qual é.
+
+355
+00:20:02,992 --> 00:20:04,374
+E um milkshake.
+
+356
+00:20:04,375 --> 00:20:06,379
+O que está fazendo, Jenkins?
+
+357
+00:20:06,380 --> 00:20:08,226
+Temos que voltar
+e achar a Baird.
+
+358
+00:20:08,227 --> 00:20:10,460
+Onde ela estiver
+é mais seguro que aqui.
+
+359
+00:20:10,461 --> 00:20:13,134
+Temos um problema maior.
+A Biblioteca está morrendo.
+
+360
+00:20:13,135 --> 00:20:15,925
+A Biblioteca não pode morrer.
+Não é um ser vivo.
+
+361
+00:20:15,926 --> 00:20:17,500
+Sério, Sr. Jones?
+
+362
+00:20:17,501 --> 00:20:19,358
+Depois de tanto tempo aqui,
+
+363
+00:20:19,359 --> 00:20:21,901
+você não aprendeu nada
+sobre a Biblioteca?
+
+364
+00:20:21,902 --> 00:20:23,635
+É um origami.
+
+365
+00:20:23,636 --> 00:20:26,742
+Dobras dentro de dobras,
+dentro de dobras.
+
+366
+00:20:26,743 --> 00:20:29,773
+Todas somando duas partes.
+
+367
+00:20:29,774 --> 00:20:33,202
+O infinito espaço dobrável,
+o corpo da Biblioteca.
+
+368
+00:20:33,203 --> 00:20:35,255
+A outra parte é o quê?
+O sistema?
+
+369
+00:20:35,256 --> 00:20:36,556
+Inteligência, sim,
+
+370
+00:20:36,557 --> 00:20:38,856
+organiza o espaço,
+o defende.
+
+371
+00:20:38,857 --> 00:20:42,692
+O Espírito da Biblioteca,
+por falta de um termo melhor.
+
+372
+00:20:42,693 --> 00:20:45,828
+Então você está dizendo que
+quando a Biblioteca voltou,
+
+373
+00:20:45,829 --> 00:20:48,714
+seu espírito foi
+extraído por Glasney?
+
+374
+00:20:48,715 --> 00:20:51,316
+Bem, ou isso ou o trauma
+ao retornar do vácuo
+
+375
+00:20:51,317 --> 00:20:54,253
+deixou-a vulnerável
+a um predador poderoso.
+
+376
+00:20:54,254 --> 00:20:56,100
+Onde quer que
+Ray Glasney esteja,
+
+377
+00:20:56,101 --> 00:20:59,036
+ele deixou a Biblioteca
+sem nutrição.
+
+378
+00:20:59,037 --> 00:21:01,239
+A Biblioteca
+agora come também?
+
+379
+00:21:01,240 --> 00:21:03,152
+Sim, Sr. Jones,
+
+380
+00:21:03,153 --> 00:21:05,657
+e está comendo a si própria.
+
+381
+00:21:06,581 --> 00:21:09,084
+É isso que essas sombras...
+É o que elas são.
+
+382
+00:21:09,085 --> 00:21:12,599
+E quando tudo ficar escuro
+a Biblioteca estará morta.
+
+383
+00:21:12,600 --> 00:21:13,900
+O que nos leva
+
+384
+00:21:17,301 --> 00:21:18,801
+às luzes fantasma.
+
+385
+00:21:24,126 --> 00:21:26,126
+Linda e
+interessada por mecânica.
+
+386
+00:21:27,096 --> 00:21:29,270
+Prefiro você
+como mulher moderna.
+
+387
+00:21:29,271 --> 00:21:30,861
+Duquesa, já passamos disso.
+
+388
+00:21:30,862 --> 00:21:33,468
+- Não pode me matar com isso.
+- Cinco segundos.
+
+389
+00:21:33,469 --> 00:21:35,091
+Fale logo, ou adeus joelhos.
+
+390
+00:21:35,092 --> 00:21:36,434
+Aritmética básica.
+
+391
+00:21:36,435 --> 00:21:38,128
+Você quer achar o Sr. Carsen,
+
+392
+00:21:38,129 --> 00:21:41,722
+eu quero encontrar o bastão
+para o meu chefe.
+
+393
+00:21:41,723 --> 00:21:44,315
+Estamos indo
+na mesma direção.
+
+394
+00:21:44,316 --> 00:21:46,338
+De novo com isso?
+
+395
+00:21:46,339 --> 00:21:47,798
+Posso achá-lo sozinha.
+
+396
+00:21:47,799 --> 00:21:50,362
+Sim.
+Mas aposto que Ariel
+
+397
+00:21:50,363 --> 00:21:52,399
+pode achá-lo mais rápido.
+
+398
+00:21:53,362 --> 00:21:55,715
+Você precisa de um guia,
+Duquesa,
+
+399
+00:21:55,716 --> 00:21:58,723
+e eu, de transporte.
+
+400
+00:21:59,466 --> 00:22:01,558
+Eu ainda não aprendi
+a dirigir.
+
+401
+00:22:01,559 --> 00:22:03,291
+Por que eu deveria
+confiar em você?
+
+402
+00:22:03,292 --> 00:22:05,826
+Porque estou
+sendo controlado.
+
+403
+00:22:05,827 --> 00:22:07,161
+Você sabe que fui invocado
+
+404
+00:22:07,162 --> 00:22:09,531
+para servir Prospero
+contra a minha vontade.
+
+405
+00:22:09,532 --> 00:22:12,182
+Encontramos seu Sr. Carsen
+e o Bastão do Conhecimento,
+
+406
+00:22:12,183 --> 00:22:13,783
+e usamos do conhecimento
+
+407
+00:22:13,784 --> 00:22:16,455
+para quebrar
+o feitiço de Prospero sobre mim,
+
+408
+00:22:16,456 --> 00:22:18,254
+e me tornar um homem livre.
+
+409
+00:22:18,959 --> 00:22:20,580
+Você o trairá?
+
+410
+00:22:20,581 --> 00:22:24,509
+Se não confia na minha virtude,
+confie no meu egoísmo.
+
+411
+00:22:28,305 --> 00:22:30,100
+Fantástico.
+
+412
+00:22:30,101 --> 00:22:33,397
+E podemos passar
+um tempo juntos.
+
+413
+00:22:34,994 --> 00:22:37,277
+Você não é tão charmoso
+quanto pensa.
+
+414
+00:22:39,350 --> 00:22:42,523
+Sou precisamente
+tão charmoso quanto penso.
+
+415
+00:22:42,524 --> 00:22:45,070
+Nos mínimos detalhes.
+
+416
+00:22:55,984 --> 00:22:57,871
+Você parece melhor.
+
+417
+00:22:57,872 --> 00:22:59,690
+Quero dizer, você parece...
+
+418
+00:22:59,691 --> 00:23:01,000
+Isso é bom.
+
+419
+00:23:01,001 --> 00:23:04,178
+Tenho que te dizer.
+Tenho tantas perguntas.
+
+420
+00:23:04,179 --> 00:23:07,090
+Sabe o que aconteceu aos 10
+Bibliotecários desaparecidos?
+
+421
+00:23:07,091 --> 00:23:10,789
+E a sala trancada no subsolo.
+O que tem lá?
+
+422
+00:23:10,790 --> 00:23:13,240
+Pensei em um Kraken.
+Jenkins diz que é um Grendel.
+
+423
+00:23:13,241 --> 00:23:15,974
+Não lembro nada disso!
+Não lembro de nada.
+
+424
+00:23:15,975 --> 00:23:18,427
+Por isso estamos aqui.
+Bem, não aqui,
+
+425
+00:23:18,428 --> 00:23:20,454
+mas perto.
+
+426
+00:23:20,455 --> 00:23:22,110
+Lá!
+
+427
+00:23:22,111 --> 00:23:23,411
+Não. Para lá!
+
+428
+00:23:24,713 --> 00:23:26,864
+- Aqui embaixo!
+- Ray!
+
+429
+00:23:26,865 --> 00:23:28,165
+Aí embaixo?
+
+430
+00:23:29,949 --> 00:23:31,364
+Perto daqui.
+
+431
+00:23:31,365 --> 00:23:32,781
+Ainda não acredito.
+
+432
+00:23:33,393 --> 00:23:37,491
+A Biblioteca em forma humana.
+
+433
+00:23:37,492 --> 00:23:39,792
+Acredito ser o único
+Bibliotecário na história
+
+434
+00:23:39,793 --> 00:23:42,693
+a ter uma chance de falar
+com a Biblioteca em pessoa.
+
+435
+00:23:42,694 --> 00:23:44,851
+Ray, olhe para mim
+
+436
+00:23:44,852 --> 00:23:47,999
+e me diga
+que se lembra de algo.
+
+437
+00:23:48,000 --> 00:23:49,500
+Nada mesmo?
+
+438
+00:23:50,632 --> 00:23:52,422
+Não lembro de nada.
+
+439
+00:23:53,350 --> 00:23:55,247
+Está bem. Isso é bom.
+
+440
+00:23:55,248 --> 00:23:57,350
+Só me diga,
+por que estamos parados?
+
+441
+00:23:57,351 --> 00:23:58,921
+Não sei.
+
+442
+00:23:58,922 --> 00:24:00,506
+O que eu sei é
+
+443
+00:24:00,507 --> 00:24:03,259
+que aqui é onde
+deveríamos estar.
+
+444
+00:24:03,260 --> 00:24:04,560
+O quê? Não.
+
+445
+00:24:06,134 --> 00:24:07,434
+Por aqui.
+
+446
+00:24:13,615 --> 00:24:16,783
+As luzes fantasma ficam
+em teatros do mundo ocidental.
+
+447
+00:24:19,655 --> 00:24:23,549
+Elas absorvem emoções,
+tudo o que a vida expressa.
+
+448
+00:24:24,359 --> 00:24:26,610
+Quando ficam cheias de vida,
+elas vêm para cá.
+
+449
+00:24:28,010 --> 00:24:29,471
+Ativando essas lâmpadas,
+
+450
+00:24:29,472 --> 00:24:33,087
+a Biblioteca se alimentará
+da energia vital delas
+
+451
+00:24:33,088 --> 00:24:36,561
+e ficará viva o suficiente para
+o Sr. Carsen e a Coronel Baird
+
+452
+00:24:36,562 --> 00:24:38,864
+acharem e pararem Glasney.
+
+453
+00:24:40,248 --> 00:24:42,665
+O que você não está contando,
+Sr. Jenkins?
+
+454
+00:24:45,814 --> 00:24:47,689
+Bastante coisa, acredito.
+
+455
+00:24:47,690 --> 00:24:49,690
+Depois do próximo monte,
+pelo menos.
+
+456
+00:24:55,252 --> 00:24:57,112
+Vamos lá, Duquesa.
+
+457
+00:24:57,113 --> 00:24:59,050
+Não precisa ser tão rígida.
+
+458
+00:25:00,387 --> 00:25:03,641
+Aposto que vai gostar de mim
+assim que me conhecer melhor.
+
+459
+00:25:03,642 --> 00:25:05,454
+Bem.
+
+460
+00:25:05,455 --> 00:25:07,109
+Primeiro,
+
+461
+00:25:07,110 --> 00:25:10,736
+estou meio que saindo
+com alguém.
+
+462
+00:25:10,737 --> 00:25:12,416
+"Meio que"?
+
+463
+00:25:12,417 --> 00:25:14,694
+Estou saindo com alguém
+que não é ficcional.
+
+464
+00:25:14,695 --> 00:25:18,960
+Segundo, não curto muito
+essa coisa de cara mau.
+
+465
+00:25:18,961 --> 00:25:20,860
+"Cara mau"? Termo relativo.
+
+466
+00:25:20,861 --> 00:25:23,358
+Holmes e eu
+quase fomos parceiros, sabia?
+
+467
+00:25:24,059 --> 00:25:25,528
+Ele te rejeitou?
+
+468
+00:25:25,529 --> 00:25:26,925
+Não.
+
+469
+00:25:26,926 --> 00:25:29,064
+Eu não quis
+trabalhar com ele.
+
+470
+00:25:29,065 --> 00:25:30,685
+Você leu as histórias,
+
+471
+00:25:30,686 --> 00:25:32,895
+nunca satisfeito,
+trocando de casos.
+
+472
+00:25:32,896 --> 00:25:34,404
+Sempre correndo.
+
+473
+00:25:34,405 --> 00:25:37,496
+Correndo de si mesmo,
+fugindo do tédio.
+
+474
+00:25:37,497 --> 00:25:39,498
+Não,
+eu queria construir algo.
+
+475
+00:25:39,499 --> 00:25:41,774
+Você construiu
+um império do crime.
+
+476
+00:25:41,775 --> 00:25:44,576
+Porque foi tudo
+o que me permitiram construir.
+
+477
+00:25:44,577 --> 00:25:46,151
+Pergunto a você,
+
+478
+00:25:46,152 --> 00:25:49,700
+o que faria
+se não lhe permitissem respirar?
+
+479
+00:25:49,701 --> 00:25:52,963
+Se não lhe deixassem
+abrir qualquer porta?
+
+480
+00:25:56,181 --> 00:25:57,723
+Você faria a sua própria.
+
+481
+00:25:57,724 --> 00:25:59,024
+Exatamente.
+
+482
+00:26:01,692 --> 00:26:03,394
+Em ambos nossos mundos
+
+483
+00:26:03,395 --> 00:26:06,287
+há aqueles que correm
+e há aqueles que constroem.
+
+484
+00:26:06,288 --> 00:26:08,053
+Nós?
+
+485
+00:26:08,054 --> 00:26:10,736
+Somos planejadores.
+Estrategistas.
+
+486
+00:26:11,595 --> 00:26:14,568
+Somos construtores,
+fazemos o que é preciso.
+
+487
+00:26:15,534 --> 00:26:18,309
+Qual é o tipo do Sr. Carsen,
+me diga?
+
+488
+00:26:34,076 --> 00:26:35,376
+É isso!
+
+489
+00:26:36,338 --> 00:26:37,638
+Deveria estar aqui.
+
+490
+00:26:37,639 --> 00:26:39,597
+O Templo deveria estar aqui.
+Onde está?
+
+491
+00:26:39,598 --> 00:26:41,970
+É, estou imaginando
+
+492
+00:26:41,971 --> 00:26:44,349
+que caminhar
+pelas árvores da Pensilvânia
+
+493
+00:26:44,350 --> 00:26:46,900
+não é a melhor forma
+de achar um templo Sumério.
+
+494
+00:26:46,901 --> 00:26:49,793
+Por que não está aqui?
+Tem que estar por aqui.
+
+495
+00:26:49,794 --> 00:26:52,379
+Há apenas árvores, pedras,
+musgo e...
+
+496
+00:26:52,380 --> 00:26:55,102
+Não preciso da floresta.
+Preciso do bastão. Onde está?
+
+497
+00:26:55,103 --> 00:26:57,405
+Acalme-se. Talvez
+você tenha que se concentrar?
+
+498
+00:26:57,406 --> 00:27:00,282
+Eu não sei onde estou!
+É tudo o que sei.
+
+499
+00:27:00,283 --> 00:27:01,758
+É o que eu preciso saber.
+
+500
+00:27:05,918 --> 00:27:09,106
+Ray!
+Ray, vamos lá.
+
+501
+00:27:09,107 --> 00:27:10,407
+Sobe aqui!
+
+502
+00:27:11,423 --> 00:27:13,297
+Vou resolver isso.
+
+503
+00:27:13,298 --> 00:27:15,035
+Vou resolver agora.
+
+504
+00:27:15,036 --> 00:27:16,440
+Vou resolver sozinho.
+
+505
+00:27:16,441 --> 00:27:18,067
+Aqui vou eu!
+
+506
+00:27:18,068 --> 00:27:19,675
+Arruda e sol.
+
+507
+00:27:20,735 --> 00:27:22,035
+Aqui vamos nós.
+
+508
+00:27:22,669 --> 00:27:24,069
+Ray, olha, está funcionando.
+
+509
+00:27:25,334 --> 00:27:27,359
+Ray, olha. Isso.
+
+510
+00:27:27,360 --> 00:27:28,887
+Lá vem o Sol.
+
+511
+00:27:29,680 --> 00:27:32,050
+Sim, sim!
+
+512
+00:27:34,988 --> 00:27:36,288
+Não está funcionando.
+
+513
+00:27:39,232 --> 00:27:40,940
+Por que não está funcionando?
+
+514
+00:27:41,591 --> 00:27:43,069
+Sol e arruda.
+
+515
+00:27:49,029 --> 00:27:52,493
+Se sentir triste?
+
+516
+00:27:52,494 --> 00:27:54,015
+Será tão simples?
+
+517
+00:27:54,016 --> 00:27:57,193
+Esses Sumérios bastardos!
+
+518
+00:27:57,194 --> 00:27:58,401
+Vamos! Suba aqui.
+
+519
+00:27:58,402 --> 00:28:01,016
+Não importa,
+fomos derrotados.
+
+520
+00:28:01,017 --> 00:28:03,227
+É uma metáfora,
+os sumérios eram poetas.
+
+521
+00:28:03,228 --> 00:28:04,799
+Para eles,
+o sol era esperança.
+
+522
+00:28:04,800 --> 00:28:06,968
+Eu sinto esperança,
+por isso está brilhando.
+
+523
+00:28:06,969 --> 00:28:09,554
+"Rue" significa triste,
+e é o que você sente.
+
+524
+00:28:09,555 --> 00:28:12,372
+Isto é um olho.
+Como o olho mostra tristeza?
+
+525
+00:28:30,542 --> 00:28:33,143
+O Templo de Zaratustra.
+
+526
+00:28:35,942 --> 00:28:38,466
+O Bastão do Conhecimento
+está lá dentro.
+
+527
+00:28:38,467 --> 00:28:40,835
+Sempre soube
+que você o acharia.
+
+528
+00:28:40,836 --> 00:28:42,186
+Vamos.
+
+529
+00:28:48,083 --> 00:28:49,669
+Um quebra cabeças.
+
+530
+00:28:49,670 --> 00:28:53,438
+- Terra acima, água abaixo.
+- Não devemos ir mais rápido?
+
+531
+00:28:53,439 --> 00:28:56,774
+"Pressa sem motivo é
+a estrada para o erro."
+
+532
+00:28:56,775 --> 00:28:59,277
+Judson costumava
+dizer isso. Certo.
+
+533
+00:29:01,230 --> 00:29:03,615
+Certo.
+Só existe um caminho.
+
+534
+00:29:03,616 --> 00:29:05,566
+Por ele estamos seguros.
+
+535
+00:29:07,569 --> 00:29:09,370
+Ou não.
+
+536
+00:29:09,371 --> 00:29:10,822
+Daedalus construiu
+algo assim.
+
+537
+00:29:10,823 --> 00:29:13,157
+Ouviu isso?
+É o intervalo para se rearmar.
+
+538
+00:29:13,158 --> 00:29:15,927
+Armadilha Sumeriana
+desleixada.
+
+539
+00:29:15,928 --> 00:29:17,345
+Certo, faremos o seguinte.
+
+540
+00:29:17,346 --> 00:29:19,797
+Vou pular para frente e para trás
+para fugir da flecha,
+
+541
+00:29:19,798 --> 00:29:21,416
+e novamente para frente
+quando ele se rearmar.
+
+542
+00:29:21,417 --> 00:29:22,834
+Você faz exatamente
+a mesma coisa,
+
+543
+00:29:22,835 --> 00:29:24,719
+e não daremos chance
+para ele se rearmar.
+
+544
+00:29:24,720 --> 00:29:26,721
+- Depois da primeira. Pronto?
+- Não.
+
+545
+00:29:26,722 --> 00:29:29,257
+Certo. Vamos.
+
+546
+00:29:31,544 --> 00:29:32,844
+- Você!
+- Certo.
+
+547
+00:29:32,845 --> 00:29:34,262
+E eu.
+
+548
+00:29:34,263 --> 00:29:35,763
+E você.
+
+549
+00:29:39,051 --> 00:29:40,551
+Está vendo?
+
+550
+00:29:42,855 --> 00:29:44,489
+- Não é divertido?
+- Não!
+
+551
+00:29:44,490 --> 00:29:46,357
+É aterrorizante!
+
+552
+00:29:50,579 --> 00:29:53,331
+Ainda está quente.
+Não estão longe.
+
+553
+00:29:53,332 --> 00:29:55,500
+Aprecio o seu cuidado,
+Duquesa.
+
+554
+00:29:55,501 --> 00:29:57,452
+Deixe o pequeno Ariel
+apontar para onde.
+
+555
+00:29:57,453 --> 00:29:59,871
+Fique de boa, inglês.
+Foram por aqui.
+
+556
+00:29:59,872 --> 00:30:01,539
+Fique por perto.
+
+557
+00:30:01,540 --> 00:30:04,676
+É o que mais quero,
+Duquesa.
+
+558
+00:30:04,677 --> 00:30:08,429
+Meu coração bate muito rápido
+e minha pele está molhada.
+
+559
+00:30:08,430 --> 00:30:10,381
+- O que é isso?
+- Está com medo, Ray.
+
+560
+00:30:10,382 --> 00:30:12,233
+Só respire fundo.
+
+561
+00:30:12,234 --> 00:30:14,385
+Certo.
+Elementos, elementos.
+
+562
+00:30:14,386 --> 00:30:15,887
+- Qual o próximo?
+- Olhe só você.
+
+563
+00:30:15,888 --> 00:30:17,605
+Parece que está
+se divertindo muito.
+
+564
+00:30:17,606 --> 00:30:20,641
+Pareço?
+Bem, amo templos antigos.
+
+565
+00:30:20,642 --> 00:30:22,560
+É que o que se precisa
+em templos
+
+566
+00:30:22,561 --> 00:30:24,012
+é meio que se entregar
+
+567
+00:30:24,013 --> 00:30:25,646
+ao espírito de se divertir
+com tudo.
+
+568
+00:30:25,647 --> 00:30:27,815
+Só relaxe e aproveite.
+
+569
+00:30:27,816 --> 00:30:30,651
+Tudo bem.
+
+570
+00:30:30,652 --> 00:30:32,620
+Você foi primeiro antes,
+agora é minha vez.
+
+571
+00:30:32,621 --> 00:30:34,222
+Espere! Ray! Ray!
+
+572
+00:30:37,292 --> 00:30:39,676
+Essa foi a última.
+E agora?
+
+573
+00:30:40,879 --> 00:30:43,247
+Por enquanto, nada.
+
+574
+00:30:43,248 --> 00:30:44,582
+Sr. Stone.
+
+575
+00:30:47,920 --> 00:30:50,455
+Terminado.
+
+576
+00:30:50,456 --> 00:30:53,007
+Na velocidade que vão,
+só temos alguns minutos.
+
+577
+00:30:53,008 --> 00:30:55,043
+E então?
+
+578
+00:30:55,044 --> 00:30:58,145
+Jenkins?
+Diga que tem um plano "B."
+
+579
+00:30:59,732 --> 00:31:02,417
+Sim, Sr. Stone.
+
+580
+00:31:02,418 --> 00:31:03,768
+Eu tenho.
+
+581
+00:31:05,354 --> 00:31:08,356
+Fogo! Claro que seria
+o próximo elemento.
+
+582
+00:31:12,911 --> 00:31:15,830
+Ray, pode parar de gritar
+para eu pensar um pouco?
+
+583
+00:31:17,282 --> 00:31:19,432
+Deixe-me pensar um pouco.
+
+584
+00:31:30,512 --> 00:31:32,547
+Armadilhas são
+coisas do Flynn.
+
+585
+00:31:32,548 --> 00:31:34,966
+Deve ter um intervalo
+para se rearmar.
+
+586
+00:31:38,423 --> 00:31:39,804
+Bem, vou te fazer
+algumas perguntas.
+
+587
+00:31:39,805 --> 00:31:42,924
+Não! Não tenho as respostas,
+estou sem nada!
+
+588
+00:31:42,925 --> 00:31:45,526
+Por isso preciso de ajuda.
+Por isso preciso de você!
+
+589
+00:31:45,527 --> 00:31:48,896
+E eu preciso de você!
+Nós temos que sair daqui!
+
+590
+00:31:48,897 --> 00:31:53,785
+Ray, você vê
+algum círculo nas paredes?
+
+591
+00:31:53,786 --> 00:31:56,554
+Sim, dois. Não, quatro.
+
+592
+00:31:56,555 --> 00:31:58,656
+Certo, são as chaves.
+
+593
+00:31:58,657 --> 00:32:00,958
+Quando eu disser,
+gire o botão dois,
+
+594
+00:32:00,959 --> 00:32:04,412
+duas vezes para
+a esquerda, está bem?
+
+595
+00:32:04,413 --> 00:32:07,465
+- Sim.
+- Pronto? Agora!
+
+596
+00:32:12,387 --> 00:32:14,088
+Bom.
+Agora os dois de cima.
+
+597
+00:32:14,089 --> 00:32:16,439
+Pronto? Agora!
+
+598
+00:32:23,265 --> 00:32:24,864
+- Conseguimos!
+- Conseguimos?
+
+599
+00:32:26,819 --> 00:32:28,736
+Sim, somos uma equipe!
+
+600
+00:32:29,771 --> 00:32:31,439
+Biblioteca, Bibliotecário!
+
+601
+00:32:31,440 --> 00:32:32,773
+É assim que se faz.
+
+602
+00:32:32,774 --> 00:32:34,992
+- Vamos pegar o bastão.
+- Certo.
+
+603
+00:32:34,993 --> 00:32:37,093
+Caramba,
+aquilo foi assustador.
+
+604
+00:32:42,918 --> 00:32:44,485
+É isso?
+
+605
+00:32:44,486 --> 00:32:45,953
+- Achei que seria...
+- Maior.
+
+606
+00:32:47,372 --> 00:32:49,674
+Talvez deveríamos tocá-lo?
+
+607
+00:32:49,675 --> 00:32:51,960
+- Sim, talvez.
+- Espere, espere.
+
+608
+00:32:51,961 --> 00:32:54,045
+Só para garantir
+
+609
+00:32:54,046 --> 00:32:56,313
+que não temos
+armadilhas nesta sala.
+
+610
+00:32:56,314 --> 00:32:58,633
+Acho que não tem.
+
+611
+00:32:58,634 --> 00:33:00,518
+E está certo sobre isso.
+
+612
+00:33:00,519 --> 00:33:03,471
+- As armadilhas estão atrás.
+- Moriarty.
+
+613
+00:33:03,472 --> 00:33:04,789
+Eve, cuidado!
+Moriarty!
+
+614
+00:33:04,790 --> 00:33:06,974
+- Eu sei, ele está comigo.
+- Espere, o quê?
+
+615
+00:33:06,975 --> 00:33:08,976
+Como vocês?
+Espere, o quê?
+
+616
+00:33:08,977 --> 00:33:10,394
+Você se juntou a esse cara?
+
+617
+00:33:10,395 --> 00:33:13,899
+Eu tinha que achar
+e avisar você
+
+618
+00:33:13,900 --> 00:33:16,701
+que o Ray não está
+tirando as coisas da Biblioteca.
+
+619
+00:33:16,702 --> 00:33:18,336
+- Ele...
+- Ele é a Biblioteca.
+
+620
+00:33:18,337 --> 00:33:21,121
+Com certeza eu ia dizer
+que ele a estava destruindo.
+
+621
+00:33:21,122 --> 00:33:22,723
+Ele, ele é a Biblioteca?
+
+622
+00:33:22,724 --> 00:33:24,141
+O espírito dela.
+
+623
+00:33:26,195 --> 00:33:27,579
+Acho que ele foi solto
+
+624
+00:33:27,580 --> 00:33:29,548
+quando trouxemos
+a Biblioteca do vácuo.
+
+625
+00:33:29,549 --> 00:33:31,799
+Sim, aquele cara amável
+é a Biblioteca.
+
+626
+00:33:31,800 --> 00:33:33,501
+Espere, você se juntou
+a este cara?
+
+627
+00:33:33,502 --> 00:33:35,142
+Então você não corre
+risco algum?
+
+628
+00:33:35,143 --> 00:33:37,618
+Não, só precisamos trazer
+a memória dele de volta
+
+629
+00:33:37,619 --> 00:33:39,440
+- então...
+- Chama isso de tudo bem?
+
+630
+00:33:39,441 --> 00:33:42,678
+Parece horrível.
+
+631
+00:33:42,679 --> 00:33:45,763
+Não poderia ser pior.
+
+632
+00:33:51,534 --> 00:33:53,586
+Flynn, está voltando!
+
+633
+00:33:54,788 --> 00:33:57,790
+Cada lei, cada teorema.
+
+634
+00:33:59,159 --> 00:34:01,410
+Todas as línguas perdidas,
+
+635
+00:34:01,411 --> 00:34:03,329
+e as músicas da Suméria,
+
+636
+00:34:03,330 --> 00:34:05,598
+cada poema e história,
+
+637
+00:34:05,599 --> 00:34:07,800
+e os livros de todas
+as línguas já escritos!
+
+638
+00:34:09,169 --> 00:34:12,221
+Mas é muita coisa!
+Machuca!
+
+639
+00:34:12,222 --> 00:34:13,673
+O que está acontecendo?
+
+640
+00:34:13,674 --> 00:34:15,808
+Está sobrecarregando!
+É muito poder!
+
+641
+00:34:15,809 --> 00:34:17,543
+Muitas memórias estão
+voltando!
+
+642
+00:34:17,544 --> 00:34:19,712
+Acho que um de nós
+precisa ir lá.
+
+643
+00:34:27,221 --> 00:34:30,607
+Um de vocês precisa ir lá.
+
+644
+00:34:30,608 --> 00:34:32,742
+Precisa voltar
+para a Biblioteca, Ray.
+
+645
+00:34:32,743 --> 00:34:34,611
+Solte o bastão!
+
+646
+00:34:34,612 --> 00:34:37,046
+Não, é muito poderoso!
+
+647
+00:34:37,047 --> 00:34:38,798
+Vai repercutir
+nas Linhas Ley!
+
+648
+00:34:38,799 --> 00:34:40,199
+Alguém precisa pegá-lo!
+
+649
+00:34:41,869 --> 00:34:43,736
+Está mais rápido.
+
+650
+00:34:43,737 --> 00:34:46,239
+Srt.ª Cillian, todos vocês,
+é hora de ir.
+
+651
+00:34:46,240 --> 00:34:48,041
+Quando a última
+lâmpada fantasma apagar,
+
+652
+00:34:48,042 --> 00:34:51,186
+a Biblioteca vai se agarrar
+à maior fonte de vida que puder,
+
+653
+00:34:51,187 --> 00:34:52,578
+e esse sou eu.
+
+654
+00:34:52,579 --> 00:34:55,581
+Esse é o plano "B"?
+Deixar esse lugar sugar você?
+
+655
+00:34:55,582 --> 00:34:59,375
+Se acha que o deixaremos
+aqui sozinho, no escuro, está...
+
+656
+00:34:59,376 --> 00:35:01,801
+Não sei o que você é,
+mas não faremos isso.
+
+657
+00:35:01,802 --> 00:35:06,227
+Cassandra, é a matemática.
+Eu sou imortal. Semi.
+
+658
+00:35:06,228 --> 00:35:09,272
+Você não é. Minha vida pode
+manter isso por mais tempo...
+
+659
+00:35:09,273 --> 00:35:12,770
+- Cara, não faremos isso.
+- De fato, estou considerando.
+
+660
+00:35:12,771 --> 00:35:14,908
+Está ficando
+muito escuro aqui.
+
+661
+00:35:20,246 --> 00:35:22,374
+Entregue para mim!
+Eu a seguro!
+
+662
+00:35:23,294 --> 00:35:25,745
+Não! Vai matá-lo!
+
+663
+00:35:26,420 --> 00:35:28,711
+A Biblioteca não pode matar
+um Bibliotecário.
+
+664
+00:35:28,712 --> 00:35:30,067
+Então dê para mim.
+
+665
+00:35:30,668 --> 00:35:32,335
+É o meu trabalho, Flynn.
+
+666
+00:35:32,336 --> 00:35:34,587
+Um sacrifício nobre, duquesa.
+
+667
+00:35:34,588 --> 00:35:37,168
+Mais uma vez, você se eleva
+em minha estima.
+
+668
+00:35:37,169 --> 00:35:38,703
+Ainda está aqui?
+Você é vilão.
+
+669
+00:35:38,704 --> 00:35:40,426
+Você não devia estar fugindo?
+
+670
+00:35:40,427 --> 00:35:43,027
+Toda essa informação,
+todo esse poder?
+
+671
+00:35:43,028 --> 00:35:45,700
+Forçando a queimar qualquer
+mortal que lidar com isso.
+
+672
+00:35:45,701 --> 00:35:47,613
+Você ainda não vê
+a solução?
+
+673
+00:35:47,614 --> 00:35:49,036
+Moriarty, quer...
+
+674
+00:35:50,437 --> 00:35:53,599
+Por Deus, acho que ele
+finalmente entendeu.
+
+675
+00:35:55,051 --> 00:35:56,776
+É o único jeito.
+
+676
+00:35:57,413 --> 00:35:59,078
+Ray...
+
+677
+00:35:59,079 --> 00:36:02,195
+Dê o bastão ao Moriarty.
+
+678
+00:36:02,196 --> 00:36:04,116
+Não! É o que ele quer!
+
+679
+00:36:04,117 --> 00:36:06,810
+Ele é imortal. Ele é ficcional.
+É o único jeito.
+
+680
+00:36:06,811 --> 00:36:09,058
+- Ele planejou isso, você sabe.
+- Não importa.
+
+681
+00:36:09,059 --> 00:36:12,385
+Ray, sou o Bibliotecário.
+Dê ao Moriarty o bastão.
+
+682
+00:36:28,225 --> 00:36:30,382
+Não posso morrer
+como outros homens.
+
+683
+00:36:30,383 --> 00:36:32,629
+Não significa que não dói.
+
+684
+00:36:41,182 --> 00:36:44,060
+Quis dizer cada palavra
+que eu disse, duquesa.
+
+685
+00:36:44,061 --> 00:36:45,631
+Não se esqueça disso.
+
+686
+00:36:51,716 --> 00:36:53,699
+Ray, diga algo.
+
+687
+00:36:55,386 --> 00:36:57,303
+Eu me lembro.
+
+688
+00:36:58,038 --> 00:36:59,761
+Você se lembra da Biblioteca?
+
+689
+00:37:00,555 --> 00:37:02,796
+Lembro-me do Judson.
+
+690
+00:37:04,127 --> 00:37:06,720
+O sábio, corajoso
+e gentil Judson.
+
+691
+00:37:06,721 --> 00:37:08,481
+Seu verdadeiro pai.
+
+692
+00:37:08,482 --> 00:37:10,784
+E eu me lembro da Charlene.
+
+693
+00:37:10,785 --> 00:37:14,146
+A engraçada, durona
+e amorosa Charlene.
+
+694
+00:37:14,147 --> 00:37:15,905
+Você...
+
+695
+00:37:17,291 --> 00:37:19,391
+Você se lembra de mim?
+
+696
+00:37:22,413 --> 00:37:25,125
+Claro que lembro, Flynn.
+
+697
+00:37:26,843 --> 00:37:29,112
+Você é meu melhor amigo.
+
+698
+00:37:36,644 --> 00:37:38,804
+Temos que levá-lo
+de volta à Biblioteca.
+
+699
+00:37:38,805 --> 00:37:40,236
+Vamos.
+
+700
+00:37:41,682 --> 00:37:44,894
+- É a última.
+- Sim, mas isso é estupidez.
+
+701
+00:37:44,895 --> 00:37:47,510
+- Não podem ficar.
+- Eu me ofereci para ir.
+
+702
+00:37:47,511 --> 00:37:49,355
+Problema com você
+é muito...
+
+703
+00:37:49,356 --> 00:37:50,957
+Jenkins,
+o que está acontecendo?
+
+704
+00:37:50,958 --> 00:37:52,592
+Não faço ideia.
+Devíamos todos...
+
+705
+00:37:52,593 --> 00:37:54,527
+Mas...
+
+706
+00:37:56,030 --> 00:37:58,960
+De quem foi a ideia
+das lâmpadas fantasma? Isso...
+
+707
+00:37:58,961 --> 00:38:00,556
+- Flynn!
+- Coronel Baird!
+
+708
+00:38:00,557 --> 00:38:02,224
+- Ei, pessoal.
+- Pessoal.
+
+709
+00:38:02,225 --> 00:38:05,126
+- Olá, Jenkins.
+- Fico feliz de vê-los vivos.
+
+710
+00:38:05,127 --> 00:38:08,791
+Tivemos uma ajudinha.
+
+711
+00:38:09,548 --> 00:38:10,953
+Ray?
+
+712
+00:38:10,954 --> 00:38:12,829
+Gostaria que todos
+conhecessem...
+
+713
+00:38:12,830 --> 00:38:16,432
+Ray,
+o Espírito da Biblioteca.
+
+714
+00:38:16,433 --> 00:38:19,390
+Ray,
+esses são os Bibliotecários.
+
+715
+00:38:19,391 --> 00:38:21,979
+- Olá.
+- Desculpe-me. Como...
+
+716
+00:38:21,980 --> 00:38:23,806
+Como isso é possível?
+
+717
+00:38:23,807 --> 00:38:27,959
+- Meio que uma longa história.
+- Cuja qual não temos tempo.
+
+718
+00:38:27,960 --> 00:38:30,513
+Ela está certa.
+Temos que fazer isso agora.
+
+719
+00:38:30,514 --> 00:38:32,114
+Tudo bem.
+
+720
+00:38:44,778 --> 00:38:47,012
+É bom ter a equipe
+de volta junta.
+
+721
+00:38:49,603 --> 00:38:51,868
+Você parece triste.
+
+722
+00:38:51,869 --> 00:38:55,378
+Só sinto que realmente
+não tivemos chance de conversar.
+
+723
+00:38:55,379 --> 00:38:57,305
+Quero dizer,
+realmente conversar.
+
+724
+00:38:57,306 --> 00:39:00,945
+Você é o único que tem um quadro
+como referência para minha vida
+
+725
+00:39:00,946 --> 00:39:04,252
+e só quero que você saiba
+o que significou para mim.
+
+726
+00:39:04,253 --> 00:39:05,702
+Eu já sei.
+
+727
+00:39:05,703 --> 00:39:07,333
+Tem que parar o Prospero.
+
+728
+00:39:07,334 --> 00:39:09,135
+Ele está mais perigoso
+do que nunca.
+
+729
+00:39:09,136 --> 00:39:12,722
+Mas eu tenho
+tantas perguntas.
+
+730
+00:39:12,723 --> 00:39:15,274
+Eu não posso responder
+tudo para você.
+
+731
+00:39:15,275 --> 00:39:17,143
+Além disso...
+
+732
+00:39:17,144 --> 00:39:20,530
+A jornada é mais importante
+que o destino.
+
+733
+00:39:20,531 --> 00:39:24,555
+E você, meu amigo, está prestes
+a ir numa aventura incrível.
+
+734
+00:39:27,020 --> 00:39:28,738
+Tudo bem.
+
+735
+00:39:28,739 --> 00:39:30,472
+Sem perguntas.
+
+736
+00:39:32,826 --> 00:39:34,927
+Será que vou falar com você
+de novo?
+
+737
+00:39:35,828 --> 00:39:37,830
+Você fala comigo
+o tempo todo.
+
+738
+00:39:37,831 --> 00:39:41,359
+E você não precisa gritar.
+Eu posso ouvir você.
+
+739
+00:39:47,656 --> 00:39:49,713
+Eu não sei como dizer adeus.
+
+740
+00:39:51,145 --> 00:39:52,545
+Não precisa.
+
+741
+00:39:52,546 --> 00:39:55,815
+Eu estarei aqui,
+
+742
+00:39:55,816 --> 00:39:58,234
+onde eu sempre estive,
+
+743
+00:39:58,235 --> 00:40:00,118
+onde eu sempre estarei.
+
+744
+00:40:16,849 --> 00:40:18,695
+- Você está bem?
+- Estou.
+
+745
+00:40:18,696 --> 00:40:20,452
+Estou, eu apenas... Sim.
+
+746
+00:40:22,951 --> 00:40:27,129
+Temos cem acres
+de Biblioteca para limpar,
+
+747
+00:40:27,130 --> 00:40:28,594
+então vamos começar.
+
+748
+00:40:28,595 --> 00:40:31,000
+- Então ache uma vassoura.
+- Sabe onde estão.
+
+749
+00:40:31,001 --> 00:40:32,825
+Não sei onde elas estão.
+
+750
+00:40:34,988 --> 00:40:36,820
+Fugindo de novo.
+
+751
+00:40:36,821 --> 00:40:39,928
+A Biblioteca quer que eu vá
+atrás do Prospero,
+
+752
+00:40:39,929 --> 00:40:42,753
+e garantir que ele não pegue
+de novo os artefatos.
+
+753
+00:40:42,754 --> 00:40:46,169
+Ele disse para parar o Prospero.
+Fugir é escolha sua.
+
+754
+00:40:46,170 --> 00:40:50,053
+Eu sou o Bibliotecário. Essa é
+a única maneira que eu sei...
+
+755
+00:40:50,054 --> 00:40:52,155
+De ser eu.
+
+756
+00:40:56,403 --> 00:40:58,853
+Sem beijo dessa vez.
+
+757
+00:40:58,854 --> 00:41:01,021
+Eu acho.
+
+758
+00:41:26,104 --> 00:41:28,904
+<i>Legendas Em Série
+legendas.em.serie@gmail.com</i>
+
+759
+00:41:28,905 --> 00:41:32,345
+<i>Junte-se aos Bibliotecários
+das legendas!</i>
+
