@@ -1,0 +1,3162 @@
+﻿1
+00:00:40,902 --> 00:00:42,361
+John?
+
+2
+00:00:47,325 --> 00:00:48,941
+Não precisava
+fazer isso sozinho.
+
+3
+00:00:48,977 --> 00:00:50,443
+Muitos de nós gostaríamos
+
+4
+00:00:50,445 --> 00:00:52,265
+de ter uma chance
+de se despedir.
+
+5
+00:00:57,885 --> 00:00:59,839
+Sei que você me culpa.
+
+6
+00:01:02,924 --> 00:01:05,838
+Essa guerra levou tantas pessoas
+que amamos.
+
+7
+00:01:07,762 --> 00:01:10,096
+O que podemos fazer
+é continuar lutando, vencer
+
+8
+00:01:10,098 --> 00:01:12,536
+e honrar a memória
+e o sacrifício deles.
+
+9
+00:01:17,488 --> 00:01:18,930
+E nós precisamos de você.
+
+10
+00:01:21,179 --> 00:01:22,915
+Nós estamos tão perto...
+
+11
+00:01:27,615 --> 00:01:30,173
+Precisamos de você.
+Foi isso que eu vim dizer.
+
+12
+00:01:34,922 --> 00:01:37,234
+Se quiser compartilhar sua dor,
+estamos aqui.
+
+13
+00:01:49,085 --> 00:01:51,385
+<b>UNITED & Tozz
+apresentam...</b>
+
+14
+00:01:53,386 --> 00:01:55,886
+<b>S05E04
+Pope Breaks Bad</b>
+
+15
+00:02:01,616 --> 00:02:03,349
+<i>Está errada, Anne.
+Eu estou bem.</i>
+
+16
+00:02:03,401 --> 00:02:05,418
+Quero ser colocado
+de volta na ativa.
+
+17
+00:02:05,870 --> 00:02:08,404
+Anthony, não tomo essas decisões
+facilmente, certo?
+
+18
+00:02:08,440 --> 00:02:10,573
+Você está sofrendo
+estresse pós-traumático.
+
+19
+00:02:10,625 --> 00:02:12,542
+Não estou!
+Eu saberia se estivesse!
+
+20
+00:02:12,594 --> 00:02:16,162
+Esse é o problema do estresse...
+Às vezes você não sabe.
+
+21
+00:02:16,164 --> 00:02:17,713
+Você passou por muita coisa.
+
+22
+00:02:17,765 --> 00:02:19,799
+- Precisa...
+- O que faço para provar?
+
+23
+00:02:19,851 --> 00:02:21,284
+Relaxa, soldado.
+
+24
+00:02:21,319 --> 00:02:23,803
+Coronel, você precisa de mim
+nessa luta.
+
+25
+00:02:23,855 --> 00:02:26,238
+Precisa de cada soldado
+em boas condições daqui.
+
+26
+00:02:26,240 --> 00:02:27,673
+Você não está pronto.
+
+27
+00:02:27,709 --> 00:02:29,675
+Não podemos arriscar
+outro lapso.
+
+28
+00:02:29,677 --> 00:02:32,344
+Isso é estúpido.
+Estamos travando uma guerra!
+
+29
+00:02:32,346 --> 00:02:35,047
+E você deixa seu melhor soldado
+de fora da luta?
+
+30
+00:02:35,449 --> 00:02:38,726
+Com todo respeito, Coronel,
+é assim que comanda uma equipe?
+
+31
+00:02:42,240 --> 00:02:44,190
+Parece que você está tendo
+tanta sorte
+
+32
+00:02:44,242 --> 00:02:45,908
+com Anthony
+quanto eu com Pope.
+
+33
+00:02:45,943 --> 00:02:47,910
+Ele ainda culpa você, não é?
+
+34
+00:02:47,945 --> 00:02:50,613
+E ele está certo.
+A decisão foi minha.
+
+35
+00:02:50,665 --> 00:02:53,516
+Fez o que devia
+devido às circunstâncias.
+
+36
+00:02:53,568 --> 00:02:56,119
+Ele pode me culpar.
+Não falei que eu estava errado.
+
+37
+00:02:56,171 --> 00:02:57,638
+Querem se despedir?
+
+38
+00:03:06,380 --> 00:03:08,214
+Se despeçam disso.
+
+39
+00:03:09,048 --> 00:03:11,033
+Foi tudo o que ela significou
+para você.
+
+40
+00:03:11,085 --> 00:03:13,052
+O que ela significou
+para todos vocês.
+
+41
+00:03:13,104 --> 00:03:16,639
+Sacrificar aqueles que amam.
+Ninguém perguntou a mim.
+
+42
+00:03:18,640 --> 00:03:20,640
+<b>Legenda:
+samuholmes | maraligro</b>
+
+43
+00:03:20,641 --> 00:03:22,641
+<b>Legenda:
+Caio | Junio_Tk2</b>
+
+44
+00:03:22,642 --> 00:03:24,642
+<b>Revisão:
+Tozz | lhenrique</b>
+
+45
+00:03:26,947 --> 00:03:30,183
+Cochise, sabia que os Volm
+voltariam hoje?
+
+46
+00:03:32,406 --> 00:03:35,275
+Não, Tom Mason.
+Eu que convoquei o Grande Volm.
+
+47
+00:03:36,566 --> 00:03:39,302
+Preciso ver meu pai,
+para me despedir.
+
+48
+00:03:39,613 --> 00:03:41,026
+Para onde ele vai agora?
+
+49
+00:03:41,916 --> 00:03:44,917
+Ele não vai a lugar algum.
+Eu estou morrendo.
+
+50
+00:03:44,919 --> 00:03:46,323
+- O quê?
+- Morrendo?
+
+51
+00:03:46,325 --> 00:03:48,090
+Do que está falando?
+Como assim?
+
+52
+00:03:48,092 --> 00:03:50,639
+Meu tempo de vida útil
+chegou ao fim.
+
+53
+00:03:50,675 --> 00:03:53,642
+- Sabemos o que morte significa.
+- Não entendo.
+
+54
+00:03:54,123 --> 00:03:56,965
+Eu procurei meu pai
+para a troca de silêncio.
+
+55
+00:03:57,348 --> 00:03:59,026
+Troca de silêncio?
+
+56
+00:03:59,367 --> 00:04:01,767
+Sentamos juntos
+e experienciamos
+
+57
+00:04:01,769 --> 00:04:03,936
+a presença um do outro
+por um tempo final.
+
+58
+00:04:03,938 --> 00:04:05,805
+Cochise,
+do que você está falando?
+
+59
+00:04:05,807 --> 00:04:07,573
+Como está morrendo?
+Como é possível?
+
+60
+00:04:07,575 --> 00:04:10,544
+- Como podemos ajudá-lo?
+- Não podem ajudar.
+
+61
+00:04:11,026 --> 00:04:13,546
+Nós Volm temos
+dois órgãos vitais,
+
+62
+00:04:13,581 --> 00:04:15,414
+que são semelhantes
+aos seus rins.
+
+63
+00:04:15,449 --> 00:04:18,784
+Eu nasci só com um.
+E agora ele está falhando,
+
+64
+00:04:18,836 --> 00:04:21,287
+então meu tempo de vida útil
+está concluído.
+
+65
+00:04:21,289 --> 00:04:24,267
+Então você está
+simplesmente desistindo?
+
+66
+00:04:24,759 --> 00:04:27,993
+- Que outra ação você sugere?
+- Que tal lutar?
+
+67
+00:04:28,028 --> 00:04:30,413
+Já não vimos o suficiente
+pessoas morrerem?
+
+68
+00:04:30,465 --> 00:04:33,048
+Não perdemos pessoas
+que amamos o suficiente?
+
+69
+00:04:33,100 --> 00:04:35,100
+Se há uma chance
+de você sobreviver...
+
+70
+00:04:35,136 --> 00:04:36,636
+Se são iguais aos rins,
+
+71
+00:04:36,688 --> 00:04:38,621
+não pode transplantar
+de um doador?
+
+72
+00:04:38,656 --> 00:04:40,356
+Seu pai, pode ser compatível.
+
+73
+00:04:40,391 --> 00:04:42,057
+Eu poderia vê-lo.
+Ele está aqui.
+
+74
+00:04:42,936 --> 00:04:44,710
+Cochise, está sentindo dor
+agora?
+
+75
+00:04:44,762 --> 00:04:46,199
+Como podemos ajudá-lo?
+
+76
+00:04:46,731 --> 00:04:49,732
+Não, achei a sugestão
+de Anne Mason hilária.
+
+77
+00:04:50,902 --> 00:04:53,720
+- Isso foi uma risada?
+- Sim.
+
+78
+00:04:53,722 --> 00:04:55,938
+Um transplante
+pode ser demais,
+
+79
+00:04:55,990 --> 00:04:57,817
+mas temos que tentar algo.
+
+80
+00:04:58,042 --> 00:05:00,326
+Meu pai, Waschak Cha'ab,
+
+81
+00:05:00,378 --> 00:05:02,278
+é um soldado
+no meio da guerra.
+
+82
+00:05:02,314 --> 00:05:04,654
+Não pode ser distraído
+por algo assim.
+
+83
+00:05:04,699 --> 00:05:07,049
+- "Algo assim"?
+- Entendi.
+
+84
+00:05:07,084 --> 00:05:10,619
+Um soldado não pisca
+até a batalha acabar.
+
+85
+00:05:11,104 --> 00:05:13,089
+Agora eu devo ir.
+
+86
+00:05:13,124 --> 00:05:16,242
+Minha energia está desvanecendo,
+e meu pai me espera.
+
+87
+00:05:16,894 --> 00:05:20,184
+Não vou piscar
+até a batalha ser vencida.
+
+88
+00:05:20,214 --> 00:05:23,361
+"Tempo de vida útil concluída".
+Desculpa, mas é loucura.
+
+89
+00:05:23,396 --> 00:05:25,601
+Talvez possa falar
+com seu pai. Explicar...
+
+90
+00:05:25,603 --> 00:05:27,854
+Ou posso mostrar a ele
+uma perspectiva médica.
+
+91
+00:05:27,855 --> 00:05:29,295
+Vou levar o Ben.
+
+92
+00:05:29,791 --> 00:05:31,273
+Eu sinto muito...
+
+93
+00:05:31,325 --> 00:05:32,992
+Não achava
+que incomodaria tanto.
+
+94
+00:05:33,027 --> 00:05:35,094
+Claro que incomoda.
+Você é nosso amigo.
+
+95
+00:05:35,129 --> 00:05:37,356
+Na verdade, faremos
+o possível para ajudá-lo.
+
+96
+00:05:37,449 --> 00:05:40,660
+Obrigado, meus amigos.
+
+97
+00:05:44,122 --> 00:05:46,000
+Um presente, Tom Mason.
+
+98
+00:05:46,474 --> 00:05:47,890
+Não estarei com vocês,
+
+99
+00:05:47,942 --> 00:05:50,843
+mas Shak-chic il she-sheshash
+saberá como usá-lo.
+
+100
+00:05:50,878 --> 00:05:52,325
+Shaq?
+
+101
+00:05:57,972 --> 00:05:59,374
+Temos que ajudá-lo.
+
+102
+00:06:00,451 --> 00:06:02,024
+Não vou trabalhar com Shaq.
+
+103
+00:06:04,592 --> 00:06:06,359
+Certo, isso é legal.
+
+104
+00:06:09,030 --> 00:06:10,529
+Posso?
+
+105
+00:06:12,116 --> 00:06:15,851
+Como podem ver, a atividade
+Espheni suspeita perto de D.C.,
+
+106
+00:06:15,903 --> 00:06:17,486
+continua obstruindo
+nossa rede.
+
+107
+00:06:17,538 --> 00:06:19,571
+Foi aumentada
+em uma margem poderosa.
+
+108
+00:06:19,573 --> 00:06:21,874
+Parecem estar escondendo
+várias operações.
+
+109
+00:06:21,926 --> 00:06:23,443
+Várias operações? Onde mais?
+
+110
+00:06:23,495 --> 00:06:25,164
+Principalmente nas capitais...
+
+111
+00:06:26,128 --> 00:06:29,204
+Moscou, Tóquio.
+
+112
+00:06:30,183 --> 00:06:32,701
+As maiores parecem estar
+acima da sua Washington.
+
+113
+00:06:34,070 --> 00:06:36,825
+E um local muito remoto...
+Tiwanaku.
+
+114
+00:06:36,826 --> 00:06:38,731
+- Bolívia.
+- Pai.
+
+115
+00:06:38,740 --> 00:06:40,835
+Espere um pouco,
+isto é perto das...
+
+116
+00:06:41,419 --> 00:06:42,852
+As linhas de Nazca.
+
+117
+00:06:42,853 --> 00:06:45,099
+- Que droga é isso?
+- Geoglifos.
+
+118
+00:06:45,350 --> 00:06:48,202
+Um antigo mito diz que aliens
+desembarcaram lá há séculos.
+
+119
+00:06:48,203 --> 00:06:49,908
+Talvez não seja um mito.
+
+120
+00:06:51,259 --> 00:06:53,768
+Ainda estão embaralhando
+os sinais em Fayetteville?
+
+121
+00:06:53,769 --> 00:06:55,069
+Pior do que antes.
+
+122
+00:06:55,070 --> 00:06:57,233
+- Pode chegar logo lá?
+- Assim que conseguir
+
+123
+00:06:57,234 --> 00:06:59,637
+- veículos e combustíveis.
+- Vim lhe contar isso.
+
+124
+00:06:59,638 --> 00:07:02,550
+Parece haver um depósito
+da polícia a 20 km daqui.
+
+125
+00:07:03,051 --> 00:07:05,301
+Shaq, tire essa coisa
+antes que nos dê câncer.
+
+126
+00:07:06,754 --> 00:07:09,701
+- Acha que tem combustível lá?
+- Sim, e fica fora da rota.
+
+127
+00:07:09,702 --> 00:07:11,955
+Há chances de ter
+gasolina e transportes.
+
+128
+00:07:12,356 --> 00:07:14,049
+Devemos checar isso rápido,
+cara.
+
+129
+00:07:14,050 --> 00:07:15,353
+- Ótimo, Matt.
+- Sim.
+
+130
+00:07:15,354 --> 00:07:18,057
+Os Espheni estão fugindo
+graças às Milícias Mason.
+
+131
+00:07:18,510 --> 00:07:20,911
+Mas o que estão escondendo
+em Fayetteville
+
+132
+00:07:20,912 --> 00:07:23,503
+e na sua capital, pode reverter
+todos esses avanços.
+
+133
+00:07:23,504 --> 00:07:25,005
+Mais uma razão
+para irmos logo.
+
+134
+00:07:25,006 --> 00:07:27,257
+Se vamos enfrentar
+algo tão ruim,
+
+135
+00:07:27,258 --> 00:07:29,309
+acho que devemos ter
+mais humanos, armas,
+
+136
+00:07:29,310 --> 00:07:31,264
+rifles e munição.
+Essas coisas.
+
+137
+00:07:31,265 --> 00:07:33,663
+Sem porra de dúvidas.
+Tom, falei com você
+
+138
+00:07:33,664 --> 00:07:36,442
+sobre a missão na base naval
+perto de Norfolk?
+
+139
+00:07:36,443 --> 00:07:39,044
+- Deve estar funcional.
+- E é perto de Washington.
+
+140
+00:07:39,197 --> 00:07:42,197
+Talvez consiga seu autorretrato
+cruzando o Potomac.
+
+141
+00:07:44,345 --> 00:07:46,146
+Isso é tudo
+o que tem pra contribuir?
+
+142
+00:07:46,147 --> 00:07:47,627
+Estou cavando uma cova.
+
+143
+00:07:47,628 --> 00:07:49,496
+Gostaria de ver
+quem será o próximo
+
+144
+00:07:49,497 --> 00:07:51,198
+a se "sacrificar
+pelo bem maior".
+
+145
+00:07:51,199 --> 00:07:53,000
+Com sorte,
+poderia ser você, Mason.
+
+146
+00:07:53,001 --> 00:07:54,617
+Quer fazer isso agora?
+
+147
+00:07:58,388 --> 00:08:00,437
+Confusão
+com a Milícia Mason?
+
+148
+00:08:07,633 --> 00:08:08,960
+Pope, escuta!
+
+149
+00:08:08,961 --> 00:08:10,632
+Não, não, Anthony,
+não enche!
+
+150
+00:08:10,633 --> 00:08:12,936
+Não vou seguir mais
+aquele filho da puta.
+
+151
+00:08:12,937 --> 00:08:14,344
+John!
+
+152
+00:08:15,873 --> 00:08:17,724
+Você não é o único
+que odeia os Mason.
+
+153
+00:08:19,371 --> 00:08:21,111
+Eles tiraram a arma
+de um soldado.
+
+154
+00:08:21,867 --> 00:08:23,910
+Eles me tiraram da luta.
+
+155
+00:08:28,958 --> 00:08:30,394
+Pro inferno com isso.
+
+156
+00:08:35,426 --> 00:08:36,854
+Pro inferno com isso.
+
+157
+00:08:42,009 --> 00:08:44,210
+Temos bastante gasolina
+para ir à instalação,
+
+158
+00:08:44,211 --> 00:08:46,062
+melhor seria achar mais
+no caminho.
+
+159
+00:08:46,063 --> 00:08:49,465
+- Poderíamos precisar de ajuda.
+- Ryan, quer dar uma volta?
+
+160
+00:08:49,948 --> 00:08:51,782
+Tá brincando?
+Estou enlouquecendo.
+
+161
+00:08:51,783 --> 00:08:53,301
+Pegue a sua arma.
+Recarregue-a.
+
+162
+00:08:53,302 --> 00:08:54,704
+Vamos pegar a estrada.
+
+163
+00:08:56,415 --> 00:08:58,853
+- Verdade?
+- Sim, por quê?
+
+164
+00:08:58,854 --> 00:09:01,388
+Nada. Ótimo.
+Entra logo.
+
+165
+00:09:04,922 --> 00:09:07,823
+Se fosse um dos garotos do Mason
+que estivesse ficado preso
+
+166
+00:09:07,824 --> 00:09:10,765
+ao invés da Sara?
+Acha que Tom os sacrificaria?
+
+167
+00:09:10,766 --> 00:09:13,484
+Iria se mandar
+e os buscaria depois?
+
+168
+00:09:13,485 --> 00:09:14,788
+Claro que não.
+
+169
+00:09:14,789 --> 00:09:16,976
+Moveria o céu e a terra
+pelos meninos
+
+170
+00:09:16,977 --> 00:09:18,692
+e para o inferno
+com o bem maior.
+
+171
+00:09:18,693 --> 00:09:20,173
+E quanto à Denny?
+
+172
+00:09:20,195 --> 00:09:22,362
+Mason tem o quê?
+Uma dúzia de caras,
+
+173
+00:09:22,363 --> 00:09:23,964
+que fazem todo
+o trabalho pesado,
+
+174
+00:09:23,965 --> 00:09:27,449
+e deixa uma criança entrar lá
+e fazer o trabalho perigoso.
+
+175
+00:09:28,719 --> 00:09:30,287
+É, ela era uma criança.
+
+176
+00:09:30,288 --> 00:09:32,309
+Uma criança, cara.
+
+177
+00:09:33,291 --> 00:09:34,921
+E ela morreu pra quê?
+
+178
+00:09:36,027 --> 00:09:37,327
+Pra nada.
+
+179
+00:09:37,328 --> 00:09:38,778
+Bem, fiquem alertas,
+senhores.
+
+180
+00:09:38,897 --> 00:09:41,585
+O próximo sacrifício
+poderá ser o de vocês.
+
+181
+00:09:49,600 --> 00:09:51,009
+Pai.
+
+182
+00:09:51,010 --> 00:09:53,610
+Cochise,
+podemos começar?
+
+183
+00:10:08,185 --> 00:10:10,026
+Pai? Eu sou...
+
+184
+00:10:11,877 --> 00:10:14,365
+Grato por esta vez.
+
+185
+00:10:18,200 --> 00:10:20,913
+Anne Mason foi me ver.
+
+186
+00:10:20,914 --> 00:10:22,317
+Eu sinto muito, pai.
+
+187
+00:10:22,318 --> 00:10:24,259
+Esperava falar com você
+primeiro.
+
+188
+00:10:24,260 --> 00:10:27,521
+Egoísmo não serve
+o propósito mais amplo.
+
+189
+00:10:27,522 --> 00:10:31,149
+Pai, prolongar o tempo de vida
+de qualquer Volm
+
+190
+00:10:31,150 --> 00:10:33,300
+também não serviria
+ao propósito mais amplo?
+
+191
+00:10:33,301 --> 00:10:35,208
+Eu falarei na língua deles,
+
+192
+00:10:35,209 --> 00:10:37,570
+já que escolheu
+os costumes deles,
+
+193
+00:10:37,571 --> 00:10:40,259
+- ao invés dos nossos.
+- Eu não escolhi isso.
+
+194
+00:10:40,260 --> 00:10:41,663
+Não escolheu?
+
+195
+00:10:41,664 --> 00:10:45,063
+Não adotou o costume deles
+sobre o amor?
+
+196
+00:10:45,064 --> 00:10:47,421
+Não é o amor que tem
+por esses humanos
+
+197
+00:10:47,422 --> 00:10:49,673
+- que está por trás disso?
+- Não, não é. Eu...
+
+198
+00:10:49,674 --> 00:10:53,293
+Não mexemos com
+o fim predestinado da vida.
+
+199
+00:10:53,294 --> 00:10:54,696
+Se isso fosse verdade,
+
+200
+00:10:54,697 --> 00:10:57,944
+cessaríamos todas as batalhas
+e nos tornaríamos extintos.
+
+201
+00:10:57,945 --> 00:11:00,689
+Chichauk, você não vai
+ser corrompido
+
+202
+00:11:00,690 --> 00:11:03,026
+por um narcisismo
+mesquinho de humanos!
+
+203
+00:11:03,027 --> 00:11:06,980
+É narcisismo viver
+a serviço da nossa causa?
+
+204
+00:11:06,981 --> 00:11:09,465
+Creio que seja melhor
+a força.
+
+205
+00:11:10,722 --> 00:11:12,416
+Morrer é fácil.
+
+206
+00:11:12,417 --> 00:11:15,023
+Mas continuar lutando
+através das dificuldades...
+
+207
+00:11:15,024 --> 00:11:17,367
+Isso é algo honroso!
+
+208
+00:11:18,329 --> 00:11:20,098
+É a vontade humana
+de sobreviver
+
+209
+00:11:20,099 --> 00:11:21,650
+que os manteve lutando
+por anos.
+
+210
+00:11:21,651 --> 00:11:23,772
+E apesar do que acredita,
+pai,
+
+211
+00:11:25,819 --> 00:11:27,939
+é possível
+
+212
+00:11:27,940 --> 00:11:30,865
+aprender com essa raça.
+
+213
+00:11:40,865 --> 00:11:43,511
+E cada um de vocês
+
+214
+00:11:43,512 --> 00:11:45,770
+estão sendo levados
+ao abatedouro.
+
+215
+00:11:46,124 --> 00:11:48,530
+Mas alguns de nós
+estão indo lutar
+
+216
+00:11:48,531 --> 00:11:50,293
+por nossa sobrevivência.
+
+217
+00:11:50,693 --> 00:11:52,095
+Não para os Mason.
+
+218
+00:11:53,099 --> 00:11:54,502
+Que merda está fazendo?
+
+219
+00:11:54,503 --> 00:11:55,906
+- Dizendo a verdade.
+- Ah é?
+
+220
+00:11:55,907 --> 00:11:57,523
+E o que está fazendo?
+
+221
+00:11:57,885 --> 00:12:00,711
+Pope, lamento não ter
+tirado a Sara a tempo.
+
+222
+00:12:00,712 --> 00:12:03,265
+Não se atreva pedir
+desculpas por ele.
+
+223
+00:12:03,266 --> 00:12:04,605
+Seu pai foi responsável.
+
+224
+00:12:04,606 --> 00:12:08,450
+Esqueceu-se que fomos invadidos
+por aliens hostis?
+
+225
+00:12:08,451 --> 00:12:10,276
+Ele não é responsável
+por cada morte.
+
+226
+00:12:10,277 --> 00:12:12,178
+Mas está ligado
+a muita delas!
+
+227
+00:12:12,179 --> 00:12:13,882
+Lembra-se da Lourdes, Hal?
+
+228
+00:12:13,883 --> 00:12:16,035
+Ela foi morta pela filha
+do Tom Mason.
+
+229
+00:12:16,036 --> 00:12:17,638
+Perdemos o Tector
+
+230
+00:12:17,639 --> 00:12:19,990
+ao executar
+um plano do Tom Mason!
+
+231
+00:12:19,991 --> 00:12:22,021
+Scotty, cujo o corpo
+mal esfriou
+
+232
+00:12:22,022 --> 00:12:24,661
+antes do seu pai usá-lo
+como isca.
+
+233
+00:12:24,662 --> 00:12:27,904
+Dai, Kadar, Lyle,
+Crazy Lee,
+
+234
+00:12:27,905 --> 00:12:29,583
+Jimmy, Sara!
+
+235
+00:12:30,918 --> 00:12:32,519
+Estão todos mortos.
+
+236
+00:12:32,520 --> 00:12:35,580
+Parece que quando
+alguém morre por aqui,
+
+237
+00:12:35,581 --> 00:12:38,778
+geralmente é por causa
+dos grandes planos do Mason.
+
+238
+00:12:38,779 --> 00:12:41,530
+E os planos do John Pope?
+Estocar suplementos?
+
+239
+00:12:41,531 --> 00:12:44,982
+Ficar irritado com cada ideia?
+Espalhar ódio? Esse é o plano?
+
+240
+00:12:45,487 --> 00:12:47,195
+- Esperto.
+- Você está certo.
+
+241
+00:12:47,712 --> 00:12:50,486
+Nós estivemos pensando
+pequeno demais.
+
+242
+00:12:51,433 --> 00:12:54,023
+Tenho que pensar
+numa escala muito maior.
+
+243
+00:12:55,409 --> 00:12:57,929
+Lembre-se...
+Foi ideia sua.
+
+244
+00:13:23,912 --> 00:13:25,314
+Mina de ouro.
+
+245
+00:13:25,604 --> 00:13:28,104
+Alguns desses veículos
+parecem poder andar.
+
+246
+00:13:28,105 --> 00:13:29,602
+Muito bem, Matt.
+
+247
+00:13:31,131 --> 00:13:33,937
+Vamos entrar nesses galpões
+e encontrar algo de útil.
+
+248
+00:13:34,046 --> 00:13:36,071
+Vou checar o outro lado.
+
+249
+00:13:51,581 --> 00:13:53,703
+- Tom!
+- Tiramos a sorte grande.
+
+250
+00:13:53,704 --> 00:13:55,659
+- Que bom.
+- Estão cheio de gasolina.
+
+251
+00:13:55,660 --> 00:13:57,683
+- Vamos levá-los para a van.
+- Pai.
+
+252
+00:14:01,501 --> 00:14:04,298
+Não há armas,
+mas podemos usar isto?
+
+253
+00:14:04,299 --> 00:14:07,242
+Com certeza.
+Ainda mais se tiverem bateria.
+
+254
+00:14:08,338 --> 00:14:09,909
+E spray de pimenta?
+
+255
+00:14:12,546 --> 00:14:14,477
+Spray de pimenta?
+Muito bem, Matt.
+
+256
+00:14:15,378 --> 00:14:17,834
+Assim conseguimos atingir
+os olhos de um Soberano.
+
+257
+00:14:17,835 --> 00:14:20,189
+Vamos colocar na van.
+Vá levando as coisas.
+
+258
+00:14:24,072 --> 00:14:25,545
+Droga.
+
+259
+00:14:26,483 --> 00:14:28,133
+Qual o problema?
+Está funcionando?
+
+260
+00:14:28,134 --> 00:14:30,123
+É um caminhão com rádio
+de ondas curtas,
+
+261
+00:14:30,124 --> 00:14:31,919
+mas não consigo
+falar com ninguém.
+
+262
+00:14:54,655 --> 00:14:58,351
+- São todas as línguas que sei.
+- Só 5? Que bárbaro.
+
+263
+00:14:58,352 --> 00:15:01,184
+- Vamos ajudar Weaver.
+<i>- Alô? Alguém aí?</i>
+
+264
+00:15:01,454 --> 00:15:06,286
+<i>- Alguém aí?</i>
+- Meu Deus. É a rainha.
+
+265
+00:15:07,225 --> 00:15:09,740
+<i>- Fala inglês?</i>
+- Esqueci de tentar inglês.
+
+266
+00:15:09,741 --> 00:15:13,327
+- Sim, onde você está?
+<i>- É a professora Cecily...</i>
+
+267
+00:15:13,328 --> 00:15:15,695
+<i>em uma instalação SETI
+em Inca, Peru.</i>
+
+268
+00:15:15,696 --> 00:15:17,982
+É perto da fronteira
+com a Bolívia.
+
+269
+00:15:17,983 --> 00:15:20,253
+Se é o SETI,
+devem ter um satélite potente.
+
+270
+00:15:20,254 --> 00:15:22,404
+<i>- Está ouvindo?</i>
+- O que está havendo aí?
+
+271
+00:15:22,405 --> 00:15:25,019
+<i>Tenho tentando...
+Qualquer um com...</i>
+
+272
+00:15:25,020 --> 00:15:27,787
+<i>...atividade alienígena...</i>
+
+273
+00:15:27,788 --> 00:15:30,255
+<i>Já era...
+...localização?</i>
+
+274
+00:15:30,256 --> 00:15:34,168
+Ela pediu nossa localização?
+Savannah, Georgia, EUA.
+
+275
+00:15:34,169 --> 00:15:36,123
+<i>Que bom.
+Americanos.</i>
+
+276
+00:15:36,124 --> 00:15:39,818
+<i>Espero que tenha um plano.
+Vocês sempre têm.</i>
+
+277
+00:15:39,819 --> 00:15:41,249
+<i>Estou...</i>
+
+278
+00:15:41,250 --> 00:15:43,859
+Caiu?
+Veja se consegue ligar de novo.
+
+279
+00:15:45,452 --> 00:15:48,231
+- Meu Deus!
+- Vou ver o que foi isso.
+
+280
+00:15:48,232 --> 00:15:49,732
+Veja se consegue
+ligar de novo.
+
+281
+00:15:49,733 --> 00:15:51,636
+Conte
+sobre o núcleo de energia.
+
+282
+00:15:51,737 --> 00:15:55,240
+E que a Milícia de lá deve
+destruir a tecnologia Espheni.
+
+283
+00:15:55,241 --> 00:15:56,713
+Tudo bem.
+
+284
+00:15:56,991 --> 00:15:58,410
+Alô?
+
+285
+00:16:01,874 --> 00:16:03,565
+Novinha em folha, Tom.
+
+286
+00:16:04,582 --> 00:16:06,893
+Ela tem um motor V8,
+
+287
+00:16:06,894 --> 00:16:09,774
+entrada de alumínio,
+exaustor personalizado,
+
+288
+00:16:09,775 --> 00:16:14,124
+transmissão de 4 marchas
+e suspensão reforçada.
+
+289
+00:16:14,468 --> 00:16:19,048
+- Mas não é muito prático.
+- Nunca foram.
+
+290
+00:16:21,966 --> 00:16:24,086
+Ela é inútil para nós.
+
+291
+00:16:25,108 --> 00:16:27,636
+Mas nunca quis tanto
+algo na minha vida.
+
+292
+00:16:30,134 --> 00:16:31,534
+Dan?
+
+293
+00:16:31,535 --> 00:16:33,469
+Só vou ver
+se ela ainda funciona.
+
+294
+00:16:34,480 --> 00:16:36,953
+- Não demore muito.
+- Não.
+
+295
+00:16:39,582 --> 00:16:40,888
+Querida...
+
+296
+00:16:40,889 --> 00:16:43,215
+Não tenho
+habilidades médicas.
+
+297
+00:16:43,216 --> 00:16:44,660
+Por que me chamou?
+
+298
+00:16:44,661 --> 00:16:47,088
+Tom e Weaver estavam ocupados.
+Você não.
+
+299
+00:16:47,617 --> 00:16:49,017
+Obrigado.
+
+300
+00:16:49,537 --> 00:16:53,494
+É que não pudemos conversar
+sobre...
+
+301
+00:16:53,495 --> 00:16:56,937
+- Sobre o quê?
+- Sobre a Lexi e tudo.
+
+302
+00:16:57,390 --> 00:16:59,044
+Acha que é sobre a Lexi?
+
+303
+00:16:59,835 --> 00:17:01,812
+Cochise é como família,
+certo?
+
+304
+00:17:01,813 --> 00:17:04,078
+Então se salvamos Cochise,
+ele nos ajudará...
+
+305
+00:17:04,079 --> 00:17:05,479
+- A esquecer a Lexi?
+- Não.
+
+306
+00:17:05,480 --> 00:17:07,629
+Ben, eu sou médica.
+Nós consertamos coisas.
+
+307
+00:17:07,630 --> 00:17:09,754
+Se eu não conseguir fazê-lo,
+ficarei puta.
+
+308
+00:17:09,755 --> 00:17:11,155
+Só isso.
+
+309
+00:17:11,156 --> 00:17:13,196
+- Nada a ver com a Lexi.
+- Certo.
+
+310
+00:17:13,690 --> 00:17:16,136
+- Anne Mason.
+- General. Que bom.
+
+311
+00:17:16,137 --> 00:17:19,688
+- Começamos com o pé esquerdo.
+- Continuaremos com a operação.
+
+312
+00:17:19,804 --> 00:17:21,265
+Mesmo?
+
+313
+00:17:21,292 --> 00:17:23,731
+É melhor
+para o plano Volm,
+
+314
+00:17:23,732 --> 00:17:25,684
+se meu filho tivesse
+uma longa vida.
+
+315
+00:17:26,418 --> 00:17:28,385
+- Que bonito.
+- É poético.
+
+316
+00:17:28,386 --> 00:17:30,690
+- Vamos começar agora.
+- Claro.
+
+317
+00:17:30,691 --> 00:17:33,045
+Gostaria de conhecer
+o médico de sua nave.
+
+318
+00:17:33,046 --> 00:17:34,673
+Gostaria de ver
+o procedimento.
+
+319
+00:17:34,674 --> 00:17:36,637
+Ver?
+Você vai fazê-lo.
+
+320
+00:17:36,638 --> 00:17:38,697
+Fazê-lo? Não.
+
+321
+00:17:38,698 --> 00:17:42,267
+O médico de sua nave
+deve saber mais do que eu.
+
+322
+00:17:42,268 --> 00:17:44,635
+Minha nave não tem
+um médico.
+
+323
+00:17:44,636 --> 00:17:48,043
+Os Volm feridos ficam em estase
+e se curam sozinhos,
+
+324
+00:17:48,044 --> 00:17:49,806
+contanto
+que tenha longevidade.
+
+325
+00:17:49,807 --> 00:17:51,694
+- Chichauk lhe informará.
+- General...
+
+326
+00:17:51,695 --> 00:17:54,712
+Acho que não sou
+qualificada...
+
+327
+00:17:54,713 --> 00:17:59,058
+Obrigado, Dra. Anne Mason.
+Por aqui, por favor.
+
+328
+00:18:01,530 --> 00:18:02,964
+A ideia foi sua.
+
+329
+00:18:07,029 --> 00:18:08,585
+Tem algo ligado aqui.
+
+330
+00:18:09,675 --> 00:18:11,309
+Ryan, não abra isso.
+
+331
+00:18:14,779 --> 00:18:16,746
+- Ryan!
+- O que é isso? Não!
+
+332
+00:18:30,881 --> 00:18:34,174
+Matt, corra!
+Largue a caixa. Corra!
+
+333
+00:18:34,175 --> 00:18:35,975
+- Dingaan ajude-o a entrar.
+- Entre.
+
+334
+00:18:35,976 --> 00:18:38,366
+Feche a porta!
+
+335
+00:18:41,200 --> 00:18:43,457
+Aqui!
+
+336
+00:18:43,458 --> 00:18:45,103
+Aqui!
+
+337
+00:18:45,302 --> 00:18:46,759
+Aqui!
+
+338
+00:19:07,114 --> 00:19:11,771
+- Então ele se anestesia?
+- Sim, entra em estase.
+
+339
+00:19:12,514 --> 00:19:15,787
+Então ele se curará
+depois do procedimento.
+
+340
+00:19:16,238 --> 00:19:19,255
+O órgão que regula a força
+de vida do meu pai
+
+341
+00:19:20,056 --> 00:19:23,129
+foi adormecido em preparação
+para o transplante.
+
+342
+00:19:23,130 --> 00:19:24,800
+Ele pode parar
+o próprio coração?
+
+343
+00:19:24,801 --> 00:19:28,336
+Sim, e voltar a sua função...
+
+344
+00:19:29,195 --> 00:19:30,865
+Depois que ele for curado...
+
+345
+00:19:31,084 --> 00:19:33,233
+Cochise?
+Você está bem?
+
+346
+00:19:36,372 --> 00:19:40,975
+- Anne Mason, obrigado.
+- Guarde isso para depois.
+
+347
+00:19:41,418 --> 00:19:42,846
+Está bem?
+
+348
+00:19:42,929 --> 00:19:45,609
+Esse laser tem 6 petawatts.
+
+349
+00:19:45,610 --> 00:19:48,672
+Dará 180 joules de energia
+a cada pulso.
+
+350
+00:19:48,673 --> 00:19:51,589
+Precisará cortar
+a capa de nosso exoesqueleto.
+
+351
+00:19:51,590 --> 00:19:53,362
+Nossa pele.
+
+352
+00:19:53,363 --> 00:19:55,548
+Não seria mais seguro
+se você cortasse?
+
+353
+00:19:55,549 --> 00:19:57,558
+Receio que minha visão
+e coordenação
+
+354
+00:19:57,559 --> 00:19:59,459
+tenham começado
+a falhar.
+
+355
+00:19:59,559 --> 00:20:01,822
+Mas eu ajudarei.
+
+356
+00:20:02,846 --> 00:20:05,251
+Pressione o botão.
+
+357
+00:20:06,153 --> 00:20:08,713
+Excelente.
+Muito bom.
+
+358
+00:20:13,294 --> 00:20:16,689
+Isso. Mais um pouco.
+
+359
+00:20:20,970 --> 00:20:22,270
+Ótimo.
+
+360
+00:20:22,405 --> 00:20:24,064
+Isso mesmo.
+
+361
+00:20:24,948 --> 00:20:26,477
+Pronto.
+
+362
+00:20:27,226 --> 00:20:29,984
+Agora estamos prontos.
+Pode prosseguir.
+
+363
+00:20:31,069 --> 00:20:32,619
+Tudo bem.
+
+364
+00:20:37,628 --> 00:20:39,920
+Que bom.
+
+365
+00:20:40,316 --> 00:20:42,167
+É bem saudável.
+
+366
+00:20:48,958 --> 00:20:51,543
+A incisão está fechada.
+
+367
+00:20:51,544 --> 00:20:54,096
+O corpo dele começou
+a se curar.
+
+368
+00:20:54,097 --> 00:20:57,800
+O procedimento, até agora,
+foi um sucesso.
+
+369
+00:20:58,451 --> 00:21:00,052
+Ótimo. Ótimo.
+
+370
+00:21:00,303 --> 00:21:02,554
+Cochise!
+Coloque-o na mesa.
+
+371
+00:21:05,475 --> 00:21:08,644
+Tudo bem. Relaxe.
+Estamos aqui.
+
+372
+00:21:08,645 --> 00:21:10,413
+Tudo bem.
+
+373
+00:21:10,414 --> 00:21:12,014
+Depois
+que eu entrar em estase,
+
+374
+00:21:12,015 --> 00:21:14,349
+é só reverter
+o procedimento em mim.
+
+375
+00:21:14,350 --> 00:21:16,018
+Certo.
+
+376
+00:21:16,019 --> 00:21:20,989
+Eu calculei nossa chance
+de sucesso em 35%.
+
+377
+00:21:20,990 --> 00:21:24,126
+Não, Eu vou fazer
+com que seja 100%.
+
+378
+00:21:24,527 --> 00:21:26,662
+Meu pai está correto.
+
+379
+00:21:26,663 --> 00:21:30,032
+Parece que eu adotei
+um de seus costumes.
+
+380
+00:21:30,433 --> 00:21:32,284
+Eu...
+
+381
+00:21:33,035 --> 00:21:36,438
+Eu amo todos vocês.
+
+382
+00:21:39,508 --> 00:21:41,109
+Cochise?
+
+383
+00:21:47,600 --> 00:21:51,100
+- Está pronta?
+- Sim.
+
+384
+00:22:08,203 --> 00:22:10,655
+Olhos...
+Eles têm olhos humanos.
+
+385
+00:22:31,593 --> 00:22:32,894
+Eu vi aquelas coisas.
+
+386
+00:22:32,895 --> 00:22:35,346
+Vamos levar tudo que pudermos
+e dar o fora daqui.
+
+387
+00:22:35,347 --> 00:22:37,115
+- Isso.
+- Pai?!
+
+388
+00:22:37,116 --> 00:22:39,734
+- Estou bem.
+- E o Ryan?
+
+389
+00:22:40,570 --> 00:22:43,287
+Eles o pegaram.
+Ele está morto.
+
+390
+00:22:44,757 --> 00:22:46,391
+Vamos andando então.
+
+391
+00:22:46,392 --> 00:22:48,510
+- Vamos andando, Tom.
+- Isso.
+
+392
+00:22:48,511 --> 00:22:49,811
+Vamos embora.
+
+393
+00:22:49,912 --> 00:22:51,280
+Vamos.
+
+394
+00:22:54,417 --> 00:22:56,320
+A espera está me matando.
+
+395
+00:22:57,521 --> 00:22:59,955
+Essa é a única hora
+que fico em paz.
+
+396
+00:22:59,956 --> 00:23:02,007
+Meu trabalho está feito.
+
+397
+00:23:02,608 --> 00:23:04,009
+Não é mais comigo.
+
+398
+00:23:04,010 --> 00:23:06,595
+Eu...
+Eu sinto por antes...
+
+399
+00:23:06,596 --> 00:23:09,097
+- Não queria ter...
+- Não. Eu é que sinto muito.
+
+400
+00:23:09,548 --> 00:23:11,116
+Você tinha razão.
+
+401
+00:23:12,327 --> 00:23:14,053
+Isso é tudo sobre a Lexi.
+
+402
+00:23:14,454 --> 00:23:15,822
+Claro que é.
+
+403
+00:23:16,723 --> 00:23:20,609
+Eu compreendi
+que lá no fundo da minha mente,
+
+404
+00:23:20,610 --> 00:23:22,727
+tem um pensamento
+que quando...
+
+405
+00:23:25,114 --> 00:23:27,115
+Essa guerra absurda
+tiver acabado...
+
+406
+00:23:28,316 --> 00:23:29,651
+O quê?
+
+407
+00:23:29,652 --> 00:23:31,954
+Que todos retornariam.
+
+408
+00:23:32,555 --> 00:23:35,160
+Todos que nós perdemos,
+eles só...
+
+409
+00:23:36,961 --> 00:23:38,310
+Retornariam.
+
+410
+00:23:39,109 --> 00:23:40,913
+Sei o que quer dizer.
+
+411
+00:23:46,219 --> 00:23:49,071
+Uma grande reunião.
+
+412
+00:23:50,072 --> 00:23:52,256
+Uma festa da vitória.
+
+413
+00:23:53,593 --> 00:23:55,111
+<i>Seria uma grande festa.</i>
+
+414
+00:23:55,112 --> 00:23:57,179
+- Cochise.
+- Cochise.
+
+415
+00:23:58,380 --> 00:24:00,615
+Ei, você está bem?
+Vamos levantá-lo.
+
+416
+00:24:00,616 --> 00:24:03,402
+- Você está bem?
+- Espantoso.
+
+417
+00:24:03,403 --> 00:24:06,989
+Parece que você alcançou
+seus 100%, Anne Mason.
+
+418
+00:24:06,990 --> 00:24:10,357
+- Sinto-me bem melhor.
+- Ótimo. Que ótimo.
+
+419
+00:24:10,358 --> 00:24:12,795
+Quando seu pai acordar
+vai ficar feliz por ver...
+
+420
+00:24:12,796 --> 00:24:15,080
+Meu pai ainda não
+saiu da estase?
+
+421
+00:24:15,081 --> 00:24:17,314
+- Não. Ainda está se curando.
+- Não está?
+
+422
+00:24:18,251 --> 00:24:20,668
+O coração dele parece ter...
+parado.
+
+423
+00:24:22,660 --> 00:24:24,010
+Anne?
+
+424
+00:24:24,013 --> 00:24:25,607
+Não temos desfibrilador.
+
+425
+00:24:25,608 --> 00:24:28,126
+Precisamos de algo
+que produza carga elétrica.
+
+426
+00:24:29,100 --> 00:24:30,412
+Eles voltaram.
+
+427
+00:24:30,413 --> 00:24:32,263
+- As baterias dos veículos...
+- Sim.
+
+428
+00:24:32,264 --> 00:24:34,099
+Fique aqui com ele.
+Já voltamos.
+
+429
+00:24:37,002 --> 00:24:38,403
+Baba?
+
+430
+00:24:47,107 --> 00:24:48,819
+Coronel,
+precisamos da sua bateria!
+
+431
+00:24:48,820 --> 00:24:50,369
+- Sim! Precisamos dela!
+- Como?
+
+432
+00:24:50,370 --> 00:24:52,090
+Alguém tem cabos?
+
+433
+00:24:52,091 --> 00:24:53,624
+- O quê?
+- Anne, o que foi?
+
+434
+00:24:53,625 --> 00:24:55,709
+Rápido. Explico depois.
+Abra o capô.
+
+435
+00:24:55,710 --> 00:24:57,034
+- Tudo bem?
+- Ainda não.
+
+436
+00:24:57,035 --> 00:24:58,807
+O Cochise está bem?
+E o transplante?
+
+437
+00:24:58,808 --> 00:25:00,791
+Ele está bem.
+Não posso explicar agora.
+
+438
+00:25:00,792 --> 00:25:02,559
+Tragam uma chave de boca!
+
+439
+00:25:02,560 --> 00:25:05,427
+Todos saúdem
+o herói conquistador!
+
+440
+00:25:09,283 --> 00:25:11,734
+Quando saíram daqui
+havia 5 pessoas, Tom.
+
+441
+00:25:11,735 --> 00:25:13,503
+Só estou vendo 4.
+
+442
+00:25:14,604 --> 00:25:16,605
+Imagino o que houve
+com o jovem Ryan.
+
+443
+00:25:19,476 --> 00:25:21,496
+O que foi, Tom?
+O gato comeu sua língua?
+
+444
+00:25:24,347 --> 00:25:26,030
+Ryan foi morto.
+
+445
+00:25:29,386 --> 00:25:31,171
+É uma guerra, Pope.
+Pessoas morrem.
+
+446
+00:25:31,172 --> 00:25:34,202
+Sei. E elas morrem mesmo
+quando você está no comando.
+
+447
+00:25:34,203 --> 00:25:36,242
+- Pope, vamos conversar.
+- Cuido disso.
+
+448
+00:25:36,243 --> 00:25:37,945
+Fomos atacados
+por aqueles insetos.
+
+449
+00:25:37,946 --> 00:25:39,880
+Pegaram o Ryan
+antes que eu o ajudasse.
+
+450
+00:25:40,181 --> 00:25:43,148
+Os mesmos que mataram Sara.
+Você, dentre todo mundo...
+
+451
+00:25:43,449 --> 00:25:45,934
+- Deveria mostrar compaixão.
+- Compaixão. Por quê?
+
+452
+00:25:46,587 --> 00:25:50,489
+Sabem, Ryan foi sacrificado
+pelo bem maior, não é?
+
+453
+00:25:50,725 --> 00:25:53,627
+Diria que foi mais uma
+bem sucedida missão Tom Mason.
+
+454
+00:25:53,628 --> 00:25:55,929
+Conseguiu alguns caminhões
+e só lhe custou
+
+455
+00:25:55,930 --> 00:25:58,764
+- uma vida humana.
+- Acredita mesmo...
+
+456
+00:25:59,465 --> 00:26:00,784
+Está tudo bem.
+
+457
+00:26:00,785 --> 00:26:02,502
+Vamos carregar tudo,
+pessoal.
+
+458
+00:26:02,503 --> 00:26:04,571
+Partimos para amanhã
+para Fayetteville.
+
+459
+00:26:04,572 --> 00:26:05,973
+- Vamos!
+- Isso!
+
+460
+00:26:05,974 --> 00:26:07,941
+Vamos para Fayetteville
+amanhã bem cedo!
+
+461
+00:26:07,942 --> 00:26:10,644
+Quero ver que bravo membro
+da 2ª Mass
+
+462
+00:26:10,645 --> 00:26:12,679
+vai se voluntariar
+para essa?
+
+463
+00:26:13,080 --> 00:26:16,082
+Que tal você, Anne?
+Você seria uma boa mártir.
+
+464
+00:26:16,433 --> 00:26:20,120
+E que tal algum
+dos preciosos garotos Mason?!
+
+465
+00:26:20,121 --> 00:26:22,189
+- E se eles...
+- Tudo bem! Basta!
+
+466
+00:26:22,990 --> 00:26:24,290
+Tom.
+
+467
+00:26:24,291 --> 00:26:27,293
+Não diz isso pelo seu luto.
+E mais de suas bravatas.
+
+468
+00:26:27,294 --> 00:26:29,480
+O que quer?!
+Quer ser o líder?!
+
+469
+00:26:30,181 --> 00:26:31,931
+Sempre criticando
+sem se arriscar.
+
+470
+00:26:31,932 --> 00:26:33,767
+Quer tomar coragem
+e liderar?
+
+471
+00:26:33,768 --> 00:26:35,469
+Comigo
+menos pessoas morreriam.
+
+472
+00:26:35,470 --> 00:26:38,222
+Não morreriam se não lutassem.
+É o seu plano?
+
+473
+00:26:38,223 --> 00:26:41,808
+Eu lutei tão ferozmente
+quanto qualquer um aqui!
+
+474
+00:26:41,809 --> 00:26:44,027
+A diferença
+é que você fica feliz
+
+475
+00:26:44,028 --> 00:26:46,146
+quando deixa
+outra pessoa qualquer morrer!
+
+476
+00:26:46,647 --> 00:26:50,316
+Três anos nessa guerra
+
+477
+00:26:50,317 --> 00:26:54,188
+e a família Mason não teve
+nem um arranhão!
+
+478
+00:26:54,189 --> 00:26:56,656
+- É coincidência?
+- Não lembra-se da minha filha?
+
+479
+00:26:57,657 --> 00:26:59,324
+É isso?
+
+480
+00:26:59,910 --> 00:27:02,446
+Minha família esteve
+no front de cada batalha!
+
+481
+00:27:02,447 --> 00:27:05,164
+Sempre se arriscando!
+Acha que foi fácil para mim?!
+
+482
+00:27:05,165 --> 00:27:08,666
+Vai me dizer que tivesse sido
+o Hal, o Ben ou o Matt
+
+483
+00:27:08,667 --> 00:27:11,004
+naquela porra Espheni,
+você os deixaria lá?
+
+484
+00:27:11,005 --> 00:27:12,873
+Não. É claro
+que eu voltaria por eles.
+
+485
+00:27:12,874 --> 00:27:15,341
+Mas não usaria para isso
+nosso único veículo!
+
+486
+00:27:15,342 --> 00:27:17,644
+E não teria impedido
+o ataque à fábrica!
+
+487
+00:27:17,645 --> 00:27:19,812
+Eu teria ido sozinho
+e dado um jeito!
+
+488
+00:27:19,813 --> 00:27:22,381
+- Então não me culpe...
+- A culpa é minha?!
+
+489
+00:27:22,767 --> 00:27:24,267
+É isso?!
+
+490
+00:27:24,268 --> 00:27:27,054
+Sim! É minha culpa
+a Sara ter morrido!
+
+491
+00:27:27,655 --> 00:27:30,224
+Sim!
+O grande Tom Mason
+
+492
+00:27:30,225 --> 00:27:33,276
+pegou a filha dele
+e voou com ela até a morte!
+
+493
+00:27:33,277 --> 00:27:35,510
+Sabe, Tom,
+você e a sua mulher ali...
+
+494
+00:27:35,511 --> 00:27:36,811
+Deixa pra lá, pai.
+
+495
+00:27:36,812 --> 00:27:39,340
+deveriam parir
+mais alguns mestiços! Sabia?
+
+496
+00:27:39,341 --> 00:27:41,076
+- Tom.
+- Não quer liderar.
+
+497
+00:27:41,077 --> 00:27:43,434
+Só quer me machucar.
+Quer que eu morra, é?
+
+498
+00:27:43,435 --> 00:27:47,122
+- Tom
+- Você não tem coragem!
+
+499
+00:27:52,454 --> 00:27:55,056
+Se sou responsável
+por toda essas mortes,
+
+500
+00:27:55,057 --> 00:27:57,358
+se fui eu quem levou
+todas essas pessoas
+
+501
+00:27:57,359 --> 00:27:59,878
+para suas covas,
+por favor, John Pope,
+
+502
+00:27:59,879 --> 00:28:01,614
+em frente
+a todas essas pessoas...
+
+503
+00:28:01,615 --> 00:28:03,665
+Seja meu juiz,
+jurado e executor!
+
+504
+00:28:03,666 --> 00:28:05,851
+Olhe me nos olhos
+e me mate!
+
+505
+00:28:05,852 --> 00:28:07,469
+Vá com calma.
+
+506
+00:28:07,470 --> 00:28:08,864
+Faça!
+
+507
+00:28:24,020 --> 00:28:25,604
+Não é justo.
+
+508
+00:28:26,508 --> 00:28:28,137
+Não assim.
+
+509
+00:28:28,138 --> 00:28:30,249
+Temos que ir.
+Eu sei.
+
+510
+00:28:37,533 --> 00:28:39,384
+Hoje não.
+
+511
+00:28:41,185 --> 00:28:42,994
+Quem quer ir com ele?
+
+512
+00:28:44,139 --> 00:28:45,807
+Todos que acham
+um erro me seguir,
+
+513
+00:28:45,808 --> 00:28:48,209
+podem seguir o Sr. Pope,
+mas ele não irá conosco.
+
+514
+00:28:48,710 --> 00:28:51,413
+Isso mesmo, Pope!
+Se quer sair, saia!
+
+515
+00:28:52,314 --> 00:28:53,772
+Saia até amanhã!
+
+516
+00:28:54,367 --> 00:28:57,243
+Estamos conversados!
+Você e eu estamos resolvidos!
+
+517
+00:29:00,039 --> 00:29:01,540
+Não, Tom.
+
+518
+00:29:02,535 --> 00:29:04,318
+Isso é só o começo.
+
+519
+00:29:05,527 --> 00:29:06,828
+Afastem!
+
+520
+00:29:08,143 --> 00:29:10,289
+- Ainda nada.
+- De novo.
+
+521
+00:29:12,220 --> 00:29:14,310
+- Anne Mason.
+- De novo.
+
+522
+00:29:15,905 --> 00:29:17,316
+Anne.
+
+523
+00:29:18,386 --> 00:29:20,532
+Não há mais nada
+a ser feito aqui.
+
+524
+00:29:22,249 --> 00:29:24,431
+Meu pai, já...
+
+525
+00:29:26,982 --> 00:29:29,274
+Chegou ao fim
+de sua vida útil.
+
+526
+00:29:48,476 --> 00:29:49,984
+Cochise?
+
+527
+00:29:51,356 --> 00:29:52,840
+Sim, Anne Mason?
+
+528
+00:29:52,841 --> 00:29:54,887
+Eu queria que houvesse algo...
+
+529
+00:30:02,871 --> 00:30:07,022
+Nunca fez o compartilhamento
+com seu pai, não é?
+
+530
+00:30:08,794 --> 00:30:10,545
+Não, nunca.
+
+531
+00:30:11,146 --> 00:30:12,914
+Isso é um arrependimento.
+
+532
+00:30:13,693 --> 00:30:16,134
+Ajudaria se...
+
+533
+00:30:16,135 --> 00:30:17,623
+Digo...
+
+534
+00:30:18,474 --> 00:30:21,624
+Gostaria que eu
+compartilhasse com você?
+
+535
+00:30:29,662 --> 00:30:32,891
+Sim, acho que seria útil.
+
+536
+00:30:34,042 --> 00:30:35,342
+Ótimo.
+
+537
+00:32:12,458 --> 00:32:14,176
+Minha nossa!
+
+538
+00:32:16,655 --> 00:32:20,194
+Há um vazio que sinto...
+
+539
+00:32:20,595 --> 00:32:23,930
+Que infecta
+cada pensamento meu.
+
+540
+00:32:25,254 --> 00:32:27,565
+É isso
+que vocês chamam de luto?
+
+541
+00:32:28,152 --> 00:32:29,611
+Sim.
+
+542
+00:32:32,086 --> 00:32:34,396
+Fica mais fácil
+com o tempo...
+
+543
+00:32:37,042 --> 00:32:39,584
+Mas isso nunca se vai.
+
+544
+00:32:41,796 --> 00:32:44,645
+Vai se tornar uma parte
+de como se lembra de seu pai.
+
+545
+00:32:46,818 --> 00:32:48,620
+Mas uma parte boa.
+
+546
+00:32:49,771 --> 00:32:51,257
+Me sinto...
+
+547
+00:32:52,958 --> 00:32:54,745
+Estranhamente aliviado...
+
+548
+00:32:54,946 --> 00:32:57,445
+De um fardo
+que não sabia que eu carregava.
+
+549
+00:32:57,796 --> 00:32:59,454
+Eu também, Cochise.
+
+550
+00:33:06,104 --> 00:33:08,255
+- Anne.
+- Anthony.
+
+551
+00:33:08,256 --> 00:33:10,308
+- Você me assustou.
+- Sinto muito.
+
+552
+00:33:11,209 --> 00:33:13,711
+Podemos conversar
+francamente?
+
+553
+00:33:14,612 --> 00:33:16,597
+Estou feliz
+em ouvi-lo falar isso.
+
+554
+00:33:16,598 --> 00:33:18,850
+- Vamos a um lugar mais seco?
+- Sim.
+
+555
+00:33:20,142 --> 00:33:23,789
+Sabe, isso não é incomum
+depois do que você passou.
+
+556
+00:33:23,790 --> 00:33:26,608
+Um soldado perder o rumo.
+
+557
+00:33:27,609 --> 00:33:29,612
+É onde discordamos, Anne.
+
+558
+00:33:31,113 --> 00:33:33,081
+Sei exatamente
+quem eu sou.
+
+559
+00:33:34,182 --> 00:33:36,184
+É do jeito que estou agora.
+
+560
+00:33:36,885 --> 00:33:38,185
+Do jeito que está?
+O que...
+
+561
+00:33:39,666 --> 00:33:41,122
+Por favor.
+
+562
+00:33:41,773 --> 00:33:43,182
+Está bem.
+
+563
+00:33:55,142 --> 00:33:56,721
+Olá, Anne.
+
+564
+00:33:58,906 --> 00:34:03,290
+Sara sempre
+me enchia o saco
+
+565
+00:34:05,396 --> 00:34:07,360
+para que eu cortasse
+o meu cabelo.
+
+566
+00:34:16,544 --> 00:34:19,608
+Percebi que era hora
+de um corte mais limpo.
+
+567
+00:34:21,258 --> 00:34:22,827
+Especialmente depois que...
+
+568
+00:34:22,828 --> 00:34:26,014
+Seu marido
+me expulsou do clubinho.
+
+569
+00:34:27,732 --> 00:34:31,352
+Achei que seria bom
+recomeçar, sabe?
+
+570
+00:34:32,122 --> 00:34:33,579
+Ele expulsou você?
+
+571
+00:34:34,130 --> 00:34:37,249
+Eu meio que entendi.
+Ele tem razão.
+
+572
+00:34:37,750 --> 00:34:40,019
+Eu odeio esse lugar.
+
+573
+00:34:41,020 --> 00:34:42,804
+Acho que sempre odiei.
+
+574
+00:34:43,255 --> 00:34:46,091
+Sempre fiquei reclamando
+e lamuriando
+
+575
+00:34:46,092 --> 00:34:49,227
+e choramingando
+e não quero ser esse cara.
+
+576
+00:34:51,648 --> 00:34:54,251
+Descobri
+que se eu ficar por aqui,
+
+577
+00:34:55,552 --> 00:35:00,539
+tudo em que irei pensar,
+é em me vingar.
+
+578
+00:35:00,940 --> 00:35:02,741
+Então é isso.
+
+579
+00:35:07,347 --> 00:35:09,481
+Você culpa o Tom
+pela Sara.
+
+580
+00:35:10,082 --> 00:35:11,634
+Você me mata...
+
+581
+00:35:12,585 --> 00:35:14,084
+E estão quites.
+
+582
+00:35:16,472 --> 00:35:18,541
+É uma ideia interessante.
+
+583
+00:35:19,592 --> 00:35:21,377
+Vou anotar.
+
+584
+00:35:22,478 --> 00:35:25,815
+Pope...
+Tom tomou uma decisão.
+
+585
+00:35:27,266 --> 00:35:30,469
+Talvez tenha sido um erro.
+Talvez tenha sido um engano.
+
+586
+00:35:31,170 --> 00:35:32,471
+Não sei...
+
+587
+00:35:32,472 --> 00:35:34,690
+Mas alguém tem
+que tomar essas decisões.
+
+588
+00:35:35,691 --> 00:35:38,310
+Acha que é fácil?
+Eu não quero fazer isso.
+
+589
+00:35:38,761 --> 00:35:42,398
+Dia após dia. Ano após ano.
+Todos olhando para você.
+
+590
+00:35:42,399 --> 00:35:46,066
+Todos esperando que saiba
+como chegar ao bem maior!
+
+591
+00:35:48,354 --> 00:35:50,272
+Não!
+
+592
+00:35:51,473 --> 00:35:54,227
+E se uma só pessoa fosse
+o seu bem maior?
+
+593
+00:35:59,165 --> 00:36:02,618
+John...
+eu conheço a sua dor.
+
+594
+00:36:03,369 --> 00:36:05,085
+Sabe disso.
+
+595
+00:36:06,339 --> 00:36:08,342
+Vivo com isso todos os dias.
+
+596
+00:36:10,943 --> 00:36:15,180
+Acha mesmo que me matar
+vai ferir o Tom?
+
+597
+00:36:15,781 --> 00:36:17,683
+Você o conhece muito bem.
+
+598
+00:36:17,884 --> 00:36:20,986
+Ele só liga
+para recuperar nosso mundo!
+
+599
+00:36:21,487 --> 00:36:22,855
+Pelo futuro!
+
+600
+00:36:22,856 --> 00:36:25,240
+Não para ele mesmo!
+Não para mim!
+
+601
+00:36:25,741 --> 00:36:28,493
+Para os filhos dele!
+Para o legado dele!
+
+602
+00:36:30,797 --> 00:36:32,797
+Qual será o seu legado?
+
+603
+00:36:36,986 --> 00:36:38,603
+É isso que quer?
+
+604
+00:36:58,691 --> 00:37:01,309
+<i>Está me ouvindo, Tom?
+É importante.</i>
+
+605
+00:37:01,812 --> 00:37:03,696
+<i>Está me ouvindo, Tom?</i>
+
+606
+00:37:04,881 --> 00:37:07,698
+Não existe esse lance
+de relacionamento único, Tom.
+
+607
+00:37:13,472 --> 00:37:15,473
+O que é isso?
+Eu não me lembro disso.
+
+608
+00:37:15,474 --> 00:37:17,225
+Isso não é uma memória.
+
+609
+00:37:17,226 --> 00:37:20,345
+Já conhecemos você o bastante
+para nos comunicar diretamente.
+
+610
+00:37:25,365 --> 00:37:26,952
+Rebecca.
+
+611
+00:37:27,553 --> 00:37:28,921
+Isso é...
+
+612
+00:37:30,622 --> 00:37:32,122
+Isso é tão bom.
+
+613
+00:37:36,595 --> 00:37:38,280
+Não, não. Pare.
+Não!
+
+614
+00:37:38,281 --> 00:37:40,932
+Posso me comunicar sem a imagem
+da minha esposa morta!
+
+615
+00:37:42,435 --> 00:37:44,353
+Por que não posso falar
+com os Dorniya?
+
+616
+00:37:44,354 --> 00:37:46,855
+Não podemos coexistir
+no mesmo estado de matéria.
+
+617
+00:37:47,856 --> 00:37:50,123
+- Nós morreríamos.
+- Dizem que estão extintos.
+
+618
+00:37:50,124 --> 00:37:51,574
+Como estão aqui?
+
+619
+00:37:53,012 --> 00:37:55,848
+São a grande ameaça
+que os Espheni mencionaram?
+
+620
+00:37:55,849 --> 00:37:58,400
+Para eles, sim.
+Espero que sim.
+
+621
+00:37:59,101 --> 00:38:00,836
+Vamos pedir algo
+de você, Tom.
+
+622
+00:38:01,087 --> 00:38:03,839
+Ainda existe uma batalha final
+que está por vir.
+
+623
+00:38:03,840 --> 00:38:05,876
+Você precisa estar pronto.
+
+624
+00:38:07,777 --> 00:38:09,644
+O que está acontecendo
+em Washington?
+
+625
+00:38:09,645 --> 00:38:11,964
+- Pode me dizer isso?
+- Tudo se esclarecerá.
+
+626
+00:38:11,965 --> 00:38:14,483
+O que isso quer dizer?!
+Não está me dizendo nada!
+
+627
+00:38:14,484 --> 00:38:16,985
+- Tom, espere. Onde está o Hal?
+- Onde está o Hal?
+
+628
+00:38:16,986 --> 00:38:18,554
+O que isso tem a ver?
+
+629
+00:38:18,555 --> 00:38:22,174
+Diga-me algo importante
+ou me deixe em paz!
+
+630
+00:38:22,875 --> 00:38:24,875
+Ele já deveria
+ter voltado da escola.
+
+631
+00:38:25,979 --> 00:38:27,646
+Onde está o Hal?
+
+632
+00:38:30,297 --> 00:38:32,733
+Hal. Hal?
+
+633
+00:38:33,769 --> 00:38:35,070
+Hal?
+
+634
+00:38:38,971 --> 00:38:41,471
+ISSO É JUSTIÇA
+VENHA SOZINHO
+
+635
+00:38:49,935 --> 00:38:53,069
+- Ele não feriu você?
+- Não, mas planejava isso.
+
+636
+00:38:54,789 --> 00:38:57,224
+Ele pirou.
+Não é mais o mesmo homem.
+
+637
+00:38:57,910 --> 00:39:00,477
+- Ele é perigoso.
+- E ele está com o Hal.
+
+638
+00:39:03,716 --> 00:39:06,568
+Se não voltar em 72 horas,
+vou atrás de você.
+
+639
+00:39:15,678 --> 00:39:17,946
+<i>Butterfield,
+você dirige o segundo veículo.</i>
+
+640
+00:39:17,947 --> 00:39:19,915
+Avise-me quando tiver
+carregado tudo.
+
+641
+00:39:20,566 --> 00:39:23,619
+Pope pegou a caminhonete.
+Ele está bem à sua frente.
+
+642
+00:39:23,920 --> 00:39:26,139
+Você vai liderar a 2ª Mass
+até a Base Naval.
+
+643
+00:39:27,340 --> 00:39:29,675
+Não diga nada sobre o Pope.
+Ou Hal.
+
+644
+00:39:29,676 --> 00:39:31,460
+Diga que o Hal
+foi na frente comigo.
+
+645
+00:39:31,461 --> 00:39:33,445
+Queria poder mandar
+alguém com você.
+
+646
+00:39:33,446 --> 00:39:36,381
+- Não sei o que achará lá.
+- Ele está pronto para atirar.
+
+647
+00:39:36,382 --> 00:39:38,016
+Se o assustarem,
+ele atira.
+
+648
+00:39:38,017 --> 00:39:40,385
+Não vou deixar que morram
+por meus problemas.
+
+649
+00:39:40,386 --> 00:39:42,854
+- São problemas nossos.
+- Não. São meus.
+
+650
+00:39:42,855 --> 00:39:46,475
+É coisa minha e do Pope.
+É pessoal. E sabe disso.
+
+651
+00:39:46,476 --> 00:39:49,010
+- Não vou deixar o Hal...
+- Não estou dizendo isso!
+
+652
+00:39:50,711 --> 00:39:53,532
+Tem que fazer isso. Certo.
+Só mantenha o foco.
+
+653
+00:39:54,433 --> 00:39:56,034
+E traga nosso garoto
+de volta.
+
+654
+00:39:56,485 --> 00:39:58,403
+A gente se vê lá
+em Fayetteville.
+
+655
+00:39:58,404 --> 00:40:00,739
+Vou trazer o Hal,
+vou sair de lá
+
+656
+00:40:00,740 --> 00:40:02,624
+e vou cuidar do Pope.
+
+657
+00:40:02,975 --> 00:40:04,626
+Vou fazer o que precisar.
+
+658
+00:40:05,327 --> 00:40:07,329
+A guerra pode ser
+uma droga.
+
+659
+00:40:07,430 --> 00:40:10,866
+As pessoas esquecem quem são.
+E fazem coisas que não fariam.
+
+660
+00:40:10,867 --> 00:40:12,834
+Sei disso.
+Ele é perigoso.
+
+661
+00:40:12,835 --> 00:40:15,203
+- Não é mais o mesmo...
+- Não falei do Pope.
+
+662
+00:40:15,204 --> 00:40:17,004
+Estava falando de você.
+
+663
+00:40:24,030 --> 00:40:25,613
+Tenha cuidado.
+
+664
+00:40:29,952 --> 00:40:31,318
+Acorda aí.
+
+665
+00:40:42,965 --> 00:40:44,632
+Vai me matar?
+
+666
+00:40:46,769 --> 00:40:48,269
+Vá em frente.
+
+667
+00:40:48,270 --> 00:40:51,088
+Não.
+Teve a sua chance.
+
+668
+00:40:54,076 --> 00:40:57,447
+A chance de morrer
+pela causa, jovem Mason.
+
+669
+00:40:59,148 --> 00:41:01,016
+Eu poderia ter
+matado o seu pai.
+
+670
+00:41:01,417 --> 00:41:05,320
+Eu poderia tê-lo matado
+na frente de toda 2º Mass.
+
+671
+00:41:05,321 --> 00:41:07,623
+Mas não o fiz.
+Sabe o motivo?
+
+672
+00:41:08,924 --> 00:41:10,892
+Seria muito fácil.
+
+673
+00:41:10,893 --> 00:41:12,747
+Daí eu pensei...
+
+674
+00:41:15,648 --> 00:41:17,416
+Ele virá por você.
+
+675
+00:41:18,417 --> 00:41:20,153
+E quando ele vier...
+
+676
+00:41:22,004 --> 00:41:23,974
+Vou matar você.
+
+677
+00:41:25,625 --> 00:41:27,458
+E vou matar o seu pai.
+
+678
+00:41:29,278 --> 00:41:30,762
+Isso é justiça.
+
