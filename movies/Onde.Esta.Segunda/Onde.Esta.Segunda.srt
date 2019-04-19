@@ -1,1 +1,4080 @@
-abc
+1
+00:00:37,917 --> 00:00:41,542
+NETFLIX APRESENTA
+
+2
+00:00:42,667 --> 00:00:46,417
+UM FILME ORIGINAL NETFLIX
+
+3
+00:01:33,958 --> 00:01:36,208
+<i>Nos últimos 50 anos,</i>
+<i>dobramos nossa população,</i>
+
+4
+00:01:36,333 --> 00:01:39,125
+<i>triplicamos nosso consumo</i>
+<i>de alimentos e de água</i>
+
+5
+00:01:39,250 --> 00:01:43,125
+<i>e quadruplicamos</i>
+<i>o uso de combustíveis fósseis.</i>
+
+6
+00:01:44,542 --> 00:01:47,208
+<i>A cada quatro dias,</i>
+<i>há mais um milhão de pessoas no mundo.</i>
+
+7
+00:01:48,333 --> 00:01:51,708
+<i>Como ele vai aguentar</i>
+<i>a explosão populacional?</i>
+
+8
+00:01:51,833 --> 00:01:54,208
+<i>A ONU prevê que, até o fim da década,</i>
+
+9
+00:01:54,333 --> 00:01:57,083
+<i>teremos uma população de dez bilhões.</i>
+
+10
+00:01:57,208 --> 00:01:59,708
+<i>Acredito firmemente</i>
+<i>que a mudança climática é real</i>
+
+11
+00:01:59,833 --> 00:02:02,958
+<i>e influenciada pela ação humana.</i>
+
+12
+00:02:03,083 --> 00:02:06,708
+<i>O governo declarou a maior parte</i>
+<i>da América do Sul zona de desastre.</i>
+
+13
+00:02:06,833 --> 00:02:09,458
+<i>A seca extrema</i>
+<i>e imensas tempestades de areia</i>
+
+14
+00:02:09,583 --> 00:02:12,583
+<i>inviabilizaram</i>
+<i>todo o sistema agrícola da Terra.</i>
+
+15
+00:02:12,708 --> 00:02:15,333
+<i>Gente demais, alimento insuficiente.</i>
+
+16
+00:02:15,458 --> 00:02:17,792
+<i>Tentando combater</i>
+<i>a escassez de alimentos,</i>
+
+17
+00:02:17,917 --> 00:02:21,333
+<i>a Federação Europeia</i>
+<i>pôs o futuro do mundo nas mãos da ciência.</i>
+
+18
+00:02:21,458 --> 00:02:25,792
+<i>A criação de culturas geneticamente</i>
+<i>modificadas mais resistentes, rentáveis,</i>
+
+19
+00:02:25,917 --> 00:02:28,167
+<i>está se espalhando pelo globo.</i>
+
+20
+00:02:29,167 --> 00:02:31,708
+<i>Prateleiras vazias</i>
+<i>foram totalmente abastecidas.</i>
+
+21
+00:02:32,875 --> 00:02:36,833
+<i>Mas modificar a natureza</i>
+<i>trouxe consequências de longo prazo.</i>
+
+22
+00:02:37,583 --> 00:02:40,542
+<i>No mundo inteiro, estamos observando</i>
+<i>um aumento impressionante</i>
+
+23
+00:02:40,667 --> 00:02:43,875
+<i>de nascimentos múltiplos</i>
+<i>e defeitos genéticos.</i>
+
+24
+00:02:44,000 --> 00:02:46,875
+<i>A solução está piorando o problema.</i>
+
+25
+00:02:47,000 --> 00:02:49,167
+<i>É a maior crise da história humana.</i>
+
+26
+00:02:49,292 --> 00:02:53,500
+<i>A ativista política e renomada bióloga</i>
+<i>conservacionista, Dra. Nicolette Cayman,</i>
+
+27
+00:02:53,625 --> 00:02:55,250
+urgiu a Federação
+
+28
+00:02:55,375 --> 00:02:58,500
+a instituir a política do filho único
+
+29
+00:02:58,625 --> 00:03:01,750
+chamada "Lei da Alocação Infantil".
+
+30
+00:03:02,542 --> 00:03:06,000
+Somos uma única família humana
+dividindo a Terra.
+
+31
+00:03:06,125 --> 00:03:08,417
+Hoje, juntos, faremos história.
+
+32
+00:03:08,542 --> 00:03:09,917
+AGÊNCIA DE ALOCAÇÃO INFANTIL
+
+33
+00:03:10,083 --> 00:03:14,042
+A Lei de Alocação Infantil
+é o primeiro passo vital
+
+34
+00:03:14,167 --> 00:03:16,292
+rumo à preservação do nosso planeta
+
+35
+00:03:16,417 --> 00:03:19,667
+e a um futuro melhor para nossos filhos.
+
+36
+00:03:19,792 --> 00:03:21,542
+<i>A nova legislação foi célere.</i>
+
+37
+00:03:21,667 --> 00:03:23,917
+<i>Há postos de verificação em todo o país.</i>
+
+38
+00:03:24,042 --> 00:03:27,917
+<i>Todos os cidadãos devem usar</i>
+<i>uma pulseira de identidade da Agência.</i>
+
+39
+00:03:28,042 --> 00:03:31,583
+<i>E, daqui por diante,</i>
+<i>irmãos concebidos ilegalmente</i>
+
+40
+00:03:31,708 --> 00:03:34,583
+<i>serão enviados</i>
+<i>para hibernação pela Agência.</i>
+
+41
+00:03:34,708 --> 00:03:38,750
+Crianças são mais do que apenas crianças.
+Elas são o futuro.
+
+42
+00:03:38,875 --> 00:03:42,375
+Com a criogenia,
+garantiremos que seu filho durma em paz,
+
+43
+00:03:42,500 --> 00:03:46,125
+de forma humana,
+livre da fome e dos perigos,
+
+44
+00:03:46,250 --> 00:03:49,542
+enquanto trabalhamos
+para construir um futuro melhor.
+
+45
+00:03:49,667 --> 00:03:50,833
+Cryo Sleep.
+
+46
+00:03:52,125 --> 00:03:54,458
+Acorde para um mundo melhor.
+
+47
+00:03:54,583 --> 00:04:00,042
+Sei que pode haver resistência,
+mas com a política do filho único...
+
+48
+00:04:01,292 --> 00:04:02,708
+podemos ganhar tempo.
+
+49
+00:04:27,208 --> 00:04:31,042
+Lamento, Sr. Settman. Fizemos o possível.
+
+50
+00:04:32,000 --> 00:04:35,792
+Melhor equipados,
+talvez pudéssemos tê-la salvo.
+
+51
+00:04:35,917 --> 00:04:37,083
+Ela conhecia os riscos.
+
+52
+00:04:40,125 --> 00:04:42,208
+Sabia que você não a denunciaria.
+
+53
+00:04:45,000 --> 00:04:47,167
+-E o pai?
+-Quem sabe?
+
+54
+00:04:47,833 --> 00:04:49,000
+Minha filha...
+
+55
+00:04:51,250 --> 00:04:52,708
+Não nos falávamos há anos.
+
+56
+00:04:57,875 --> 00:05:00,083
+Como pretende esconder isto?
+
+57
+00:05:01,500 --> 00:05:02,542
+Como vai dar conta?
+
+58
+00:05:03,958 --> 00:05:05,000
+Darei um jeito.
+
+59
+00:05:06,583 --> 00:05:07,625
+Terei de dar.
+
+60
+00:05:10,292 --> 00:05:11,458
+Já pensou nos nomes?
+
+61
+00:05:18,500 --> 00:05:19,375
+Bem...
+
+62
+00:05:24,208 --> 00:05:25,250
+São sete.
+
+63
+00:05:27,667 --> 00:05:32,500
+Então... Segunda, Terça, Quarta,
+
+64
+00:05:32,625 --> 00:05:38,292
+Quinta, Sexta, Sábado e Domingo.
+
+65
+00:05:38,375 --> 00:05:42,667
+DOMINGO
+
+66
+00:05:44,167 --> 00:05:49,292
+30 ANOS DEPOIS
+
+67
+00:06:05,792 --> 00:06:08,333
+<i>...livre da fome e dos perigos,</i>
+
+68
+00:06:08,458 --> 00:06:11,292
+<i>enquanto trabalhamos</i>
+<i>para construir um futuro melhor.</i>
+
+69
+00:06:12,458 --> 00:06:15,167
+<i>Cryo Sleep. Acorde para um mundo melhor.</i>
+
+70
+00:06:15,708 --> 00:06:19,375
+<i>Crianças são mais do que apenas crianças.</i>
+<i>Elas são o futuro.</i>
+
+71
+00:06:19,500 --> 00:06:23,292
+<i>Com a criogenia, garantiremos</i>
+<i>que seu filho durma em paz,</i>
+
+72
+00:06:23,375 --> 00:06:24,417
+<i>de forma humana.</i>
+
+73
+00:06:24,542 --> 00:06:27,292
+<i>Preparem suas pulseiras para inspeção.</i>
+
+74
+00:06:27,875 --> 00:06:30,708
+<i>Somente pessoas autorizadas</i>
+<i>podem entrar no setor.</i>
+
+75
+00:06:30,833 --> 00:06:33,750
+<i>Os seguintes itens não podem</i>
+<i>passar dos postos de verificação...</i>
+
+76
+00:06:33,833 --> 00:06:34,958
+FILHA ÚNICA
+
+77
+00:06:35,083 --> 00:06:39,292
+<i>...objetos afiados,</i>
+<i>inflamáveis ou químicos.</i>
+
+78
+00:06:43,375 --> 00:06:45,958
+JUNTOS VAMOS SOBREVIVER
+
+79
+00:06:46,083 --> 00:06:48,208
+FAMÍLIAS MENORES,
+FAMÍLIAS MAIS RICAS
+
+80
+00:06:48,333 --> 00:06:51,125
+ACORDE PARA UM MUNDO MELHOR
+
+81
+00:06:59,917 --> 00:07:02,375
+ESTERILIZAÇÃO SEM AGENDAMENTO
+
+82
+00:07:13,208 --> 00:07:18,000
+Não a levem, por favor! É minha filha!
+
+83
+00:07:31,500 --> 00:07:34,542
+Esta irmã está na lista
+
+84
+00:07:34,667 --> 00:07:37,792
+e será processada sob a autoridade
+da Lei de Alocação Infantil.
+
+85
+00:07:40,083 --> 00:07:41,500
+Meu bebê!
+
+86
+00:07:45,875 --> 00:07:47,250
+Meu bebê!
+
+87
+00:08:02,375 --> 00:08:03,458
+Quero esse.
+
+88
+00:08:11,333 --> 00:08:13,000
+RATAZANA
+
+89
+00:08:27,375 --> 00:08:28,208
+IDENTIDADE CONFIRMADA
+
+90
+00:08:37,625 --> 00:08:40,083
+"O que acontece com um sonho adiado?
+
+91
+00:08:40,208 --> 00:08:45,250
+Seca, como uma passa ao sol,
+ou escorre, como um ferimento supurado?
+
+92
+00:08:45,375 --> 00:08:48,625
+Talvez, apenas esmoreça,
+como um fardo pesado.
+
+93
+00:08:48,750 --> 00:08:50,375
+Ou será que explode?"
+
+94
+00:08:50,500 --> 00:08:54,167
+-Gostei. É seu?
+-Não, senhora.
+
+95
+00:08:54,292 --> 00:08:57,583
+É do grande Langston Hughes,
+o rei do jazz, do Harlem.
+
+96
+00:08:58,708 --> 00:09:00,917
+Eu já não lhe disse isso?
+
+97
+00:09:02,042 --> 00:09:03,333
+Acho que me esqueci.
+
+98
+00:09:05,125 --> 00:09:07,875
+Diga, Srta. Settman. Qual é o seu segredo?
+
+99
+00:09:08,000 --> 00:09:10,000
+Ontem, estava vomitando na floreira,
+
+100
+00:09:10,125 --> 00:09:13,708
+mas hoje, está fresca como uma flor.
+
+101
+00:09:52,917 --> 00:09:56,042
+REINICIAR ANÁLISE
+
+102
+00:09:56,167 --> 00:09:57,250
+O jantar está servido.
+
+103
+00:09:58,458 --> 00:10:01,125
+-Interessante.
+-As planilhas de amanhã.
+
+104
+00:10:01,250 --> 00:10:02,417
+Estou faminta.
+
+105
+00:10:03,375 --> 00:10:06,042
+-Você sempre está faminta.
+-Deve ter vermes.
+
+106
+00:10:07,042 --> 00:10:08,250
+Qual é, Sábado.
+
+107
+00:10:09,667 --> 00:10:12,833
+Tomara que eu tenha vermes.
+Podemos prepará-los semana que vem.
+
+108
+00:10:15,708 --> 00:10:17,833
+-Que nojo.
+-Está delicioso.
+
+109
+00:10:18,583 --> 00:10:20,458
+Até que é bonito.
+
+110
+00:10:20,583 --> 00:10:23,667
+-É um rato nojento.
+-Até que é bem gostoso.
+
+111
+00:10:23,792 --> 00:10:27,375
+Pelo menos, tem gosto, ao contrário
+da coisa sintética que você come.
+
+112
+00:10:27,500 --> 00:10:29,833
+Qual é, Quarta.
+Você come qualquer coisa.
+
+113
+00:10:30,500 --> 00:10:34,833
+Espetinho de pinto de porco frito.
+
+114
+00:10:35,792 --> 00:10:37,667
+Você compraria e comeria.
+
+115
+00:10:49,875 --> 00:10:50,917
+Você está bem?
+
+116
+00:10:51,958 --> 00:10:53,292
+-Estou.
+-Você parece...
+
+117
+00:10:53,417 --> 00:10:54,500
+Eu sei. É só que...
+
+118
+00:10:55,792 --> 00:10:57,875
+minha grande apresentação é amanhã.
+
+119
+00:10:58,000 --> 00:10:59,083
+"Nossa" apresentação.
+
+120
+00:10:59,208 --> 00:11:01,375
+Não graças a você
+ter enchido a cara ontem.
+
+121
+00:11:01,958 --> 00:11:04,417
+Eddie disse que você vomitou na floreira.
+
+122
+00:11:04,500 --> 00:11:07,083
+Eu nem soube o que dizer.
+Fiquei com vergonha.
+
+123
+00:11:07,208 --> 00:11:09,375
+Eu estava distraindo
+um dos nossos clientes.
+
+124
+00:11:09,500 --> 00:11:13,417
+Acho que exagerei nos martínis. Me mate.
+
+125
+00:11:13,542 --> 00:11:17,292
+Precisa nos contar tudo, Sábado.
+Como pode ser tão burra?
+
+126
+00:11:21,250 --> 00:11:24,833
+Só estou cansada.
+Amanhã é um dia importante.
+
+127
+00:11:27,625 --> 00:11:31,042
+Se conseguirmos a promoção,
+vai ser graças à Sexta.
+
+128
+00:11:33,042 --> 00:11:35,208
+Ela nos faz parecer geniais.
+
+129
+00:11:36,250 --> 00:11:37,417
+É um trabalho de equipe.
+
+130
+00:11:38,375 --> 00:11:41,917
+Vocês fazem o trabalho de campo.
+Eu mastigo os números.
+
+131
+00:11:43,917 --> 00:11:46,042
+Sete cabeças pensam melhor do que uma.
+
+132
+00:11:49,375 --> 00:11:51,208
+Precisam trabalhar em conjunto.
+
+133
+00:11:52,083 --> 00:11:54,750
+São mais fortes juntas do que sozinhas.
+
+134
+00:11:55,458 --> 00:11:56,500
+Na hora certa,
+
+135
+00:11:56,625 --> 00:12:00,833
+escolherão uma carreira
+que aproveite suas capacidades combinadas.
+
+136
+00:12:02,250 --> 00:12:05,750
+O que estão esperando?
+Vamos. Resolvam o problema.
+
+137
+00:12:22,375 --> 00:12:23,417
+Posso ver?
+
+138
+00:12:29,375 --> 00:12:30,417
+Muito bem.
+
+139
+00:13:17,833 --> 00:13:19,292
+Vamos!
+
+140
+00:14:19,167 --> 00:14:20,292
+Atenção, meninas.
+
+141
+00:14:21,875 --> 00:14:24,333
+Amanhã... é um grande dia.
+
+142
+00:14:26,375 --> 00:14:28,833
+Sabem que a semana tem sete dias.
+
+143
+00:14:30,042 --> 00:14:32,083
+A partir de amanhã,
+
+144
+00:14:32,208 --> 00:14:36,250
+cada uma sairá de casa
+no dia que leva o seu nome.
+
+145
+00:14:38,125 --> 00:14:41,792
+Então, a Domingo sairá no domingo,
+
+146
+00:14:41,917 --> 00:14:45,208
+a Segunda na segunda-feira,
+a Terça na terça e assim por diante.
+
+147
+00:14:48,417 --> 00:14:54,333
+Aqui, quero que sejam quem são,
+vistam-se como quiserem.
+
+148
+00:14:55,375 --> 00:14:58,000
+Quero que sejam criativas
+e que se expressem.
+
+149
+00:14:59,083 --> 00:15:00,708
+Mas, fora de casa,
+
+150
+00:15:01,292 --> 00:15:07,583
+vão assumir a identidade única
+de Karen Settman, o nome da sua mãe.
+
+151
+00:15:08,583 --> 00:15:12,917
+-Posso brincar lá fora?
+-Pode, desde que seja o seu dia.
+
+152
+00:15:13,042 --> 00:15:17,167
+Mas nunca podem sair juntas
+ao mesmo tempo. Jamais.
+
+153
+00:15:17,292 --> 00:15:19,083
+Mesmo de pulseira.
+
+154
+00:15:19,208 --> 00:15:21,667
+E, seja onde estiverem
+e o que estiverem fazendo,
+
+155
+00:15:22,667 --> 00:15:24,917
+não podem dizer a ninguém que são irmãs.
+
+156
+00:15:25,042 --> 00:15:27,708
+Isso é muito importante. Entenderam?
+
+157
+00:15:30,583 --> 00:15:34,417
+Certo. Começaremos amanhã.
+
+158
+00:15:35,708 --> 00:15:37,417
+Começando por você, Quinta.
+
+159
+00:15:50,917 --> 00:15:52,708
+Está preparada?
+
+160
+00:15:58,375 --> 00:15:59,417
+Certo.
+
+161
+00:16:53,833 --> 00:16:56,292
+ENTRADA
+
+162
+00:16:56,417 --> 00:16:58,042
+<i>...sem autorização:</i>
+
+163
+00:16:58,167 --> 00:17:01,417
+<i>objetos afiados,</i>
+<i>inflamáveis ou químicos.</i>
+
+164
+00:17:01,542 --> 00:17:04,042
+<i>Para sua segurança,</i>
+<i>preparem as bolsas...</i>
+
+165
+00:17:04,167 --> 00:17:05,458
+CHECANDO BANCO DE DADOS
+
+166
+00:17:05,583 --> 00:17:07,250
+<i>...para a inspeção de um guarda.</i>
+
+167
+00:17:08,000 --> 00:17:10,667
+<i>Preparem suas pulseiras</i>
+<i>para a inspeção.</i>
+
+168
+00:17:11,458 --> 00:17:12,500
+FILHA ÚNICA
+
+169
+00:17:12,625 --> 00:17:14,083
+<i>...podem entrar no setor.</i>
+
+170
+00:17:14,208 --> 00:17:17,292
+UMA TERRA, UM FILHO
+
+171
+00:17:23,458 --> 00:17:26,917
+PRÉ-ESCOLA
+
+172
+00:17:32,292 --> 00:17:35,750
+Não se esqueça,
+você é a única Karen Settman.
+
+173
+00:17:54,708 --> 00:17:58,292
+A reunião do fim do dia
+é a parte mais importante do dia.
+
+174
+00:17:58,417 --> 00:18:01,417
+É a hora de compartilhar cada detalhe
+com as suas irmãs.
+
+175
+00:18:03,292 --> 00:18:04,750
+Está bem?
+
+176
+00:18:35,458 --> 00:18:39,292
+-Meu Deus.
+-Pobrezinha. Direto para a hibernação.
+
+177
+00:18:39,417 --> 00:18:42,583
+Com a Cayman concorrendo ao Parlamento,
+a segurança está mais rígida.
+
+178
+00:18:42,708 --> 00:18:44,375
+Eu odeio aquela vaca.
+
+179
+00:18:44,958 --> 00:18:48,417
+Sei lá.
+Talvez a hibernação não seja má ideia.
+
+180
+00:18:49,375 --> 00:18:51,458
+Nós nos entregamos, somos congeladas,
+
+181
+00:18:51,917 --> 00:18:55,167
+bancamos as Belas Adormecidas
+até a população cair.
+
+182
+00:18:55,750 --> 00:18:59,750
+Eu soube que você fica tendo os pesadelos
+mais horríveis por centenas de anos.
+
+183
+00:18:59,875 --> 00:19:03,625
+Quando acorda, todo mundo
+que você conhece e ama já morreu.
+
+184
+00:19:03,750 --> 00:19:06,708
+Bom, vamos dormir juntas
+e acordaremos juntas.
+
+185
+00:19:07,583 --> 00:19:10,042
+A Lei de Alocação Infantil
+será coisa do passado
+
+186
+00:19:10,167 --> 00:19:11,458
+e enfim, poderemos viver.
+
+187
+00:19:11,583 --> 00:19:13,042
+Vamos ter esta conversa de novo?
+
+188
+00:19:13,625 --> 00:19:15,958
+Por que não aceita
+que a sua família é assim?
+
+189
+00:19:16,083 --> 00:19:18,875
+Isto não é uma família.
+É um regime repressivo.
+
+190
+00:19:19,708 --> 00:19:21,542
+Eu também não escolhi esta vida.
+
+191
+00:19:21,667 --> 00:19:23,458
+Mas gosta tanto dela.
+
+192
+00:19:23,583 --> 00:19:26,042
+Karen Settman, do berço à cova.
+
+193
+00:19:26,167 --> 00:19:28,333
+-É nojento.
+-Por que se importa?
+
+194
+00:19:29,333 --> 00:19:31,917
+Sua única ambição era ser um fracasso,
+e você já é.
+
+195
+00:19:32,042 --> 00:19:33,583
+Foda-se, Segunda.
+
+196
+00:19:34,417 --> 00:19:36,875
+Só porque tenho
+minha própria personalidade e sonhos
+
+197
+00:19:37,000 --> 00:19:38,417
+e quero ter um relacionamento
+
+198
+00:19:38,542 --> 00:19:41,958
+que seja mais do que uma trepada
+com alguém que nunca mais vou ver?
+
+199
+00:19:42,958 --> 00:19:46,583
+Eu estou de saco cheio
+da Srta. Karen Settman.
+
+200
+00:19:46,708 --> 00:19:49,750
+Karen Settman é a base
+sobre a qual construímos nossas vidas.
+
+201
+00:19:49,875 --> 00:19:54,458
+Não, é uma máscara que colocamos
+uma vez por semana.
+
+202
+00:19:55,042 --> 00:19:58,083
+Uma vez por semana saímos
+e nem podemos ser nós mesmas.
+
+203
+00:19:58,208 --> 00:20:01,042
+-Temos de ser uma pessoa falsa.
+-Calem a boca!
+
+204
+00:20:02,375 --> 00:20:07,083
+-Vocês estão nos enlouquecendo.
+-Esta é a nossa vida. É assim e pronto.
+
+205
+00:20:08,208 --> 00:20:10,792
+Ficar numa prisão
+seis dias por semana não é vida.
+
+206
+00:20:11,542 --> 00:20:14,583
+É uma morte lenta, agonizante,
+que vai sugando a nossa alma.
+
+207
+00:20:31,167 --> 00:20:32,500
+Vá para lá!
+
+208
+00:20:32,667 --> 00:20:36,083
+Sábado, vamos.
+Vai se atrasar para o recital.
+
+209
+00:20:53,792 --> 00:20:56,542
+Então... vocês não a viram sair...
+
+210
+00:20:57,958 --> 00:21:02,333
+e nem imaginam onde ela pode estar.
+
+211
+00:21:05,292 --> 00:21:06,333
+Bem...
+
+212
+00:21:09,208 --> 00:21:10,750
+Quando a viram pela última vez?
+
+213
+00:21:54,833 --> 00:21:57,833
+Eu estava andando de <i>skate</i> e caí.
+Foi só isso!
+
+214
+00:22:12,083 --> 00:22:13,708
+Quinta...
+
+215
+00:22:17,667 --> 00:22:19,375
+E se o a Agência te pegasse?
+
+216
+00:22:19,500 --> 00:22:23,042
+Basta um erro para pôr
+todas as nossas vidas em risco.
+
+217
+00:22:23,167 --> 00:22:26,000
+Eu odeio a Karen Settman!
+Eu queria não ter nascido!
+
+218
+00:22:26,167 --> 00:22:27,208
+Chega!
+
+219
+00:22:30,167 --> 00:22:31,458
+Quer ser levada embora?
+
+220
+00:22:31,583 --> 00:22:34,208
+Ser congelada eternamente
+naquela máquina hedionda
+
+221
+00:22:34,333 --> 00:22:36,500
+e nunca mais me ver, nem as suas irmãs?
+
+222
+00:22:40,958 --> 00:22:42,000
+Saia.
+
+223
+00:22:43,250 --> 00:22:44,083
+Segunda.
+
+224
+00:22:47,917 --> 00:22:51,750
+Eu avisei.
+Tudo o que vocês fazem afeta as outras.
+
+225
+00:22:59,042 --> 00:23:02,125
+-Para que é isso?
+-Quietinha.
+
+226
+00:23:17,083 --> 00:23:21,667
+O que acontece com uma de vocês...
+acontece com todas.
+
+227
+00:23:27,458 --> 00:23:28,500
+Segunda...
+
+228
+00:23:33,000 --> 00:23:34,333
+precisa ter coragem.
+
+229
+00:23:35,750 --> 00:23:37,458
+Dê o exemplo às suas irmãs.
+
+230
+00:23:42,542 --> 00:23:43,875
+Vai doer?
+
+231
+00:23:47,958 --> 00:23:48,958
+Vai.
+
+232
+00:23:51,958 --> 00:23:53,000
+Não se mexa.
+
+233
+00:24:17,042 --> 00:24:20,667
+SEGUNDA-FEIRA
+
+234
+00:24:25,500 --> 00:24:27,792
+Aposto que o rato
+estava mais gostoso ao entrar.
+
+235
+00:24:29,417 --> 00:24:30,458
+Cala a boca.
+
+236
+00:24:32,708 --> 00:24:35,708
+Você está queimando. Está com febre?
+
+237
+00:24:36,667 --> 00:24:37,708
+Não.
+
+238
+00:24:39,958 --> 00:24:42,000
+-Tem certeza?
+-Eu estou bem.
+
+239
+00:24:46,708 --> 00:24:49,792
+-Talvez seja melhor trocarem.
+-Eu posso fazer a Segunda.
+
+240
+00:24:51,375 --> 00:24:55,167
+"O sucesso não vem
+sem sacrifício e esforço."
+
+241
+00:24:57,542 --> 00:24:58,583
+Cala essa boca.
+
+242
+00:25:00,250 --> 00:25:01,333
+INICIAR NOVA ANÁLISE
+
+243
+00:25:04,542 --> 00:25:06,708
+ANALISANDO DADOS
+ANOMALIAS ENCONTRADAS
+
+244
+00:25:06,833 --> 00:25:08,083
+RESULTADOS
+
+245
+00:25:08,208 --> 00:25:10,125
+OLHOS VERMELHOS
+PELE DANIFICADA
+
+246
+00:25:10,250 --> 00:25:11,833
+NARIZ MANCHADO
+PELE DESIDRATADA
+
+247
+00:25:16,167 --> 00:25:17,625
+APLICAR MAQUIAGEM
+
+248
+00:25:34,792 --> 00:25:36,542
+RESULTADO DA VARREDURA
+
+249
+00:25:41,792 --> 00:25:46,417
+"Sob uma árvore alta, enquanto a noite
+vem mansamente, negra como eu."
+
+250
+00:25:46,542 --> 00:25:48,042
+Langston Hughes de novo, Eddie.
+
+251
+00:25:48,167 --> 00:25:51,292
+-Você parece um disco quebrado.
+-Bom dia para você também.
+
+252
+00:25:57,958 --> 00:26:02,083
+<i>Os seguintes itens não podem passar</i>
+<i>dos postos de verificação sem autorização:</i>
+
+253
+00:26:02,208 --> 00:26:05,875
+<i>objetos afiados, inflamáveis ou químicos.</i>
+
+254
+00:26:06,000 --> 00:26:07,917
+<i>Para sua segurança...</i>
+
+255
+00:26:15,375 --> 00:26:18,083
+SETOR 4 - ENTRADA
+
+256
+00:26:19,208 --> 00:26:23,083
+<i>Os seguintes itens não podem</i>
+<i>passar dos postos de verificação...</i>
+
+257
+00:26:23,208 --> 00:26:25,208
+CHECANDO BANCO DE DADOS
+FILHA ÚNICA
+
+258
+00:26:30,542 --> 00:26:31,625
+Estamos com pressa?
+
+259
+00:26:32,958 --> 00:26:34,000
+Dia importante.
+
+260
+00:26:35,417 --> 00:26:36,875
+As filas estão piorando.
+
+261
+00:26:39,042 --> 00:26:41,875
+Semana passada, uma mulher pariu aqui
+porque não pôde passar.
+
+262
+00:26:42,000 --> 00:26:44,750
+-Não brinca.
+-Claro que tinha de ser no meu dia.
+
+263
+00:26:45,917 --> 00:26:48,458
+As segundas-feiras são as piores.
+Odeio esse trabalho.
+
+264
+00:26:49,083 --> 00:26:50,542
+Pelo menos, posso te ver.
+
+265
+00:26:54,000 --> 00:26:55,000
+INTERROGAR
+
+266
+00:26:55,125 --> 00:26:58,792
+Preciso fazer algumas perguntas.
+Protocolo da Agência. Você entende.
+
+267
+00:27:00,167 --> 00:27:02,625
+-Como se chama?
+-Karen Settman.
+
+268
+00:27:02,750 --> 00:27:05,625
+-Karen, você tem irmãos?
+-Não.
+
+269
+00:27:05,750 --> 00:27:09,333
+-Está contrabandeando algo?
+-Não.
+
+270
+00:27:10,542 --> 00:27:14,375
+Tem certeza? Preciso revistá-la?
+
+271
+00:27:20,375 --> 00:27:21,417
+Pode passar.
+
+272
+00:27:58,000 --> 00:28:00,250
+-Karen.
+-Jerry.
+
+273
+00:28:07,167 --> 00:28:08,208
+Então...
+
+274
+00:28:09,208 --> 00:28:12,750
+Hoje é o grande dia.
+Vamos ver quem consegue a promoção.
+
+275
+00:28:14,583 --> 00:28:17,042
+Há anos, tento descobrir qual é a sua.
+
+276
+00:28:18,625 --> 00:28:22,750
+Sempre achei que, com esse corpo,
+treparia com alguém para subir.
+
+277
+00:28:25,042 --> 00:28:27,458
+Mas acontece que você é uma vaca frígida.
+
+278
+00:28:30,417 --> 00:28:32,333
+Só porque te acho nojento.
+
+279
+00:28:37,458 --> 00:28:39,125
+Você não se interessa por ninguém.
+
+280
+00:28:42,042 --> 00:28:46,292
+Trabalha aqui noite após noite,
+como um robô.
+
+281
+00:28:49,250 --> 00:28:51,208
+Pensa que enganou todo mundo, não é?
+
+282
+00:28:51,333 --> 00:28:54,583
+Eu não sei do que está falando.
+
+283
+00:28:55,542 --> 00:28:56,583
+Sabe, sim.
+
+284
+00:29:00,917 --> 00:29:01,750
+Karen.
+
+285
+00:29:04,167 --> 00:29:05,208
+Estou na sua cola.
+
+286
+00:29:39,083 --> 00:29:40,292
+Onde ela está?
+
+287
+00:29:43,417 --> 00:29:46,833
+-Ligou para ela de novo?
+-Sim. Direto para a caixa postal.
+
+288
+00:29:47,417 --> 00:29:49,542
+-Talvez tenha ficado presa.
+-Ela teria ligado.
+
+289
+00:29:51,417 --> 00:29:52,708
+Rastreie a pulseira dela.
+
+290
+00:30:01,750 --> 00:30:03,083
+-Que estranho.
+-O quê?
+
+291
+00:30:03,208 --> 00:30:04,250
+SEM SINAL
+
+292
+00:30:04,375 --> 00:30:06,083
+O localizador dela está desligado.
+
+293
+00:30:07,375 --> 00:30:09,167
+Ela não aparece na rede.
+
+294
+00:30:10,625 --> 00:30:15,250
+-Ela não pode sumir.
+-Pode sim... se quiser.
+
+295
+00:30:15,375 --> 00:30:20,167
+-Talvez tenha sofrido um acidente.
+-Faça uma busca. Hospitais, polícia.
+
+296
+00:30:21,750 --> 00:30:24,292
+E se a Segunda estiver ferida? Ou morta?
+
+297
+00:30:25,250 --> 00:30:27,875
+E as autoridades a encontrarem
+antes de nós?
+
+298
+00:30:29,917 --> 00:30:34,583
+Então... Karen Settman não existe mais.
+
+299
+00:30:34,708 --> 00:30:36,500
+E nossas vidas acabaram.
+
+300
+00:30:36,625 --> 00:30:39,000
+Credo, ela só está
+alguns minutos atrasada.
+
+301
+00:30:40,792 --> 00:30:43,500
+A Segunda nunca se atrasou
+para uma reunião do fim do dia.
+
+302
+00:30:49,500 --> 00:30:50,542
+Nunca.
+
+303
+00:31:09,333 --> 00:31:13,333
+TERÇA-FEIRA
+
+304
+00:31:14,833 --> 00:31:15,875
+INICIAR ANÁLISE
+
+305
+00:31:18,625 --> 00:31:20,000
+ANOMALIAS ENCONTRADAS
+
+306
+00:31:25,250 --> 00:31:27,958
+RESULTADOS
+
+307
+00:31:28,083 --> 00:31:32,542
+"Olhos injetados por excesso de drogas
+e desgaste emocional.
+
+308
+00:31:34,333 --> 00:31:36,667
+Olheiras debaixo dos olhos..."
+
+309
+00:32:05,208 --> 00:32:06,250
+Fique parada.
+
+310
+00:32:11,125 --> 00:32:13,333
+Sério? Bolo de maconha?
+
+311
+00:32:14,042 --> 00:32:17,583
+É medicinal.
+Sabe que faz bem para os meus nervos.
+
+312
+00:32:21,083 --> 00:32:23,042
+Estou com um mau pressentimento.
+
+313
+00:32:23,458 --> 00:32:26,125
+Lembra o que aconteceu
+da última vez que saímos juntas?
+
+314
+00:32:28,333 --> 00:32:29,167
+Foi ruim.
+
+315
+00:32:31,667 --> 00:32:35,542
+Temos de descobrir onde a Segunda está.
+Precisa agir normalmente.
+
+316
+00:32:36,125 --> 00:32:41,125
+É fácil falar. Não é o seu dia.
+E se estivermos na lista?
+
+317
+00:32:42,417 --> 00:32:44,833
+Escute.
+Se Karen Settman estiver na lista,
+
+318
+00:32:44,958 --> 00:32:47,458
+a Agência já teria derrubado a porta
+e nos processado.
+
+319
+00:32:48,875 --> 00:32:49,708
+Bom...
+
+320
+00:32:51,292 --> 00:32:53,833
+tecnicamente, uma de nós poderia viver.
+
+321
+00:33:06,375 --> 00:33:09,000
+-Bom dia, Srta. Settman.
+-Bom dia, Eddie.
+
+322
+00:33:09,958 --> 00:33:11,875
+Não a vi chegar ontem.
+
+323
+00:33:15,083 --> 00:33:18,458
+Cheguei tarde. Entrei sozinha.
+
+324
+00:33:42,125 --> 00:33:44,167
+SETOR 4
+
+325
+00:33:46,208 --> 00:33:47,708
+CHECANDO BANCO DE DADOS
+
+326
+00:33:49,000 --> 00:33:50,042
+FILHA ÚNICA
+
+327
+00:33:50,167 --> 00:33:52,208
+<i>Para sua segurança,</i>
+<i>preparem as bolsas</i>
+
+328
+00:33:52,333 --> 00:33:54,833
+<i>para a inspeção de um guarda.</i>
+
+329
+00:33:56,958 --> 00:33:58,000
+Ela passou.
+
+330
+00:34:16,667 --> 00:34:18,417
+CONEXÃO ESTABELECIDA
+
+331
+00:34:23,083 --> 00:34:24,792
+Então, conseguimos nossa promoção.
+
+332
+00:34:24,917 --> 00:34:26,417
+Concentre-se, Terça.
+
+333
+00:34:26,542 --> 00:34:30,000
+Cheque a agenda, a mesa,
+qualquer coisa que possa dar uma pista.
+
+334
+00:34:32,958 --> 00:34:35,083
+Tenho o resumo para sua reunião.
+
+335
+00:34:36,042 --> 00:34:38,375
+Vicky, quando sincronizou meu tablet?
+
+336
+00:34:38,500 --> 00:34:41,583
+Às 9h03 de hoje. Por quê?
+
+337
+00:34:42,583 --> 00:34:44,792
+Esqueci de desconectar ontem à noite.
+
+338
+00:34:45,500 --> 00:34:47,333
+Você saiu cedo para comemorar.
+
+339
+00:34:48,500 --> 00:34:49,667
+É, claro.
+
+340
+00:34:53,917 --> 00:34:55,125
+Aonde eu fui, mesmo?
+
+341
+00:34:56,167 --> 00:34:59,292
+Ao seu bar favorito. Harry's.
+
+342
+00:35:00,167 --> 00:35:04,083
+-É claro. Ao Harry's. Obrigada.
+-De nada.
+
+343
+00:35:47,500 --> 00:35:48,583
+-Saúde.
+-Saúde.
+
+344
+00:35:55,958 --> 00:35:59,792
+Ontem à noite, você se lembra
+a que horas eu fui embora?
+
+345
+00:36:00,375 --> 00:36:03,333
+Você só tomou um drinque.
+Mal tocou nele.
+
+346
+00:36:03,458 --> 00:36:05,417
+Acho que aquele seu colega te irritou.
+
+347
+00:36:06,208 --> 00:36:10,375
+É. Nossa, é mesmo. Qual deles?
+
+348
+00:36:11,708 --> 00:36:14,083
+Você sabe. O cretino de suspensórios.
+
+349
+00:36:15,083 --> 00:36:17,958
+-Jerry, eu acho?
+-É.
+
+350
+00:36:20,667 --> 00:36:23,417
+A Segunda e o Jerry brigaram
+pouco antes de ela sair do bar.
+
+351
+00:36:25,083 --> 00:36:28,375
+Ele descobriu. Eu sabia.
+
+352
+00:36:28,500 --> 00:36:31,208
+-O cretino nos entregou.
+-E por que não estamos na lista?
+
+353
+00:36:32,042 --> 00:36:33,625
+Precisa apertá-lo, Terça.
+
+354
+00:36:33,750 --> 00:36:37,375
+-Descubra o que ele sabe.
+-Ficou louca?
+
+355
+00:36:37,500 --> 00:36:39,917
+Ele pode ser a última pessoa
+que viu a Segunda.
+
+356
+00:36:41,083 --> 00:36:43,708
+<i>-É nossa única pista.</i>
+-Está bem.
+
+357
+00:36:44,750 --> 00:36:45,583
+CHAMADA
+
+358
+00:36:45,667 --> 00:36:46,500
+CHAMADA ENCERRADA
+
+359
+00:36:54,000 --> 00:36:55,042
+Srta. Settman.
+
+360
+00:36:57,708 --> 00:36:58,750
+Sim?
+
+361
+00:36:59,375 --> 00:37:01,250
+Entre no furgão, por favor.
+
+362
+00:37:02,458 --> 00:37:03,500
+Algum problema?
+
+363
+00:37:04,792 --> 00:37:06,750
+Não entendi. Quem são vocês?
+
+364
+00:37:14,042 --> 00:37:15,542
+DEPARTAMENTO DE ALOCAÇÃO
+
+365
+00:37:16,208 --> 00:37:17,833
+Entre no maldito furgão.
+
+366
+00:37:28,042 --> 00:37:29,083
+PULSEIRA <i>OFFLINE</i>
+
+367
+00:37:29,958 --> 00:37:32,250
+SEM SINAL
+
+368
+00:37:33,583 --> 00:37:36,542
+Que estranho. Eu a perdi.
+
+369
+00:37:43,125 --> 00:37:45,583
+AGÊNCIA DE ALOCAÇÃO INFANTIL
+
+370
+00:38:02,417 --> 00:38:04,292
+É óbvio que houve um engano.
+
+371
+00:38:04,500 --> 00:38:06,500
+Podem me dizer o que estou fazendo aqui?
+
+372
+00:38:34,333 --> 00:38:35,375
+Srta. Settman.
+
+373
+00:38:39,167 --> 00:38:41,417
+Que grande prazer conhecê-la.
+
+374
+00:38:56,417 --> 00:38:57,917
+Nicolette Cayman.
+
+375
+00:39:01,375 --> 00:39:02,750
+Eu sei quem você é.
+
+376
+00:39:07,792 --> 00:39:10,083
+Pode me dizer por que estou aqui?
+
+377
+00:39:13,333 --> 00:39:14,583
+Pobrezinha.
+
+378
+00:39:17,250 --> 00:39:20,208
+Estou surpresa
+com o que fizeram até aqui.
+
+379
+00:39:22,500 --> 00:39:25,833
+Isto é... um grande engano.
+
+380
+00:39:26,417 --> 00:39:28,000
+Sete crianças.
+
+381
+00:39:29,958 --> 00:39:31,792
+O que seu avô estava pensando?
+
+382
+00:39:33,583 --> 00:39:36,500
+Você tem ideia de quanta comida e água
+
+383
+00:39:36,625 --> 00:39:39,750
+foram tiradas das bocas dos outros
+para você poder estar aqui hoje?
+
+384
+00:39:39,875 --> 00:39:44,708
+Se todos fossem cruéis e egoístas
+como Terrence Settman,
+
+385
+00:39:44,833 --> 00:39:46,375
+o mundo acabaria amanhã.
+
+386
+00:39:51,667 --> 00:39:53,708
+Eu sou filha única.
+
+387
+00:39:56,417 --> 00:39:58,458
+Pelo seu bem, eu queria que fosse verdade.
+
+388
+00:39:59,667 --> 00:40:01,250
+Faltam cinco.
+
+389
+00:40:03,708 --> 00:40:06,042
+Todos os ovos podres na mesma cesta.
+
+390
+00:40:08,292 --> 00:40:10,750
+-Existe outro jeito?
+-Não, se quiser ser discreta.
+
+391
+00:40:16,125 --> 00:40:17,292
+O que está fazendo?
+
+392
+00:40:20,667 --> 00:40:23,583
+Eu trabalho num banco!
+Posso te dar dinheiro! Por favor!
+
+393
+00:40:23,708 --> 00:40:25,833
+Podemos fazer um acordo! Por favor!
+
+394
+00:40:27,333 --> 00:40:28,167
+Engraçado.
+
+395
+00:40:30,833 --> 00:40:32,542
+Foi o que a última disse.
+
+396
+00:40:37,917 --> 00:40:40,417
+Não, esperem. Por favor, não.
+
+397
+00:40:55,208 --> 00:40:57,458
+RODADA 9
+
+398
+00:40:59,125 --> 00:41:01,292
+GANCHO DE ESQUERDA
+SOCO DE DIREITA
+
+399
+00:41:18,250 --> 00:41:20,250
+Não acredito que isso está acontecendo.
+
+400
+00:41:21,708 --> 00:41:23,292
+Não podemos ficar esperando.
+
+401
+00:41:24,375 --> 00:41:27,375
+Temos de ajudá-la. Precisamos sair.
+
+402
+00:41:30,792 --> 00:41:32,542
+Precisamos fazer alguma coisa!
+
+403
+00:41:39,042 --> 00:41:40,167
+Quinta...
+
+404
+00:41:51,292 --> 00:41:53,583
+ALERTA: ARMAS DETECTADAS
+
+405
+00:41:54,708 --> 00:41:55,750
+Meu Deus...
+
+406
+00:41:56,875 --> 00:41:58,000
+INVASÃO DO SISTEMA
+
+407
+00:41:58,125 --> 00:41:59,417
+O que...
+
+408
+00:42:09,167 --> 00:42:10,958
+Moradores ou visitantes?
+
+409
+00:42:14,250 --> 00:42:15,292
+Visitantes.
+
+410
+00:43:42,417 --> 00:43:43,542
+Saiam.
+
+411
+00:43:44,208 --> 00:43:45,250
+Todas vocês.
+
+412
+00:43:47,667 --> 00:43:48,708
+Agora!
+
+413
+00:43:56,333 --> 00:43:57,375
+Assim.
+
+414
+00:43:58,125 --> 00:43:59,542
+Devagar.
+
+415
+00:44:00,625 --> 00:44:01,958
+Devagar.
+
+416
+00:44:04,833 --> 00:44:06,000
+Por aqui.
+
+417
+00:44:24,458 --> 00:44:25,500
+Olhe para elas.
+
+418
+00:44:26,333 --> 00:44:27,708
+Se escondendo feito ratos.
+
+419
+00:44:37,292 --> 00:44:38,333
+Então...
+
+420
+00:44:40,750 --> 00:44:41,875
+onde está a última?
+
+421
+00:44:44,292 --> 00:44:45,333
+Vai se foder.
+
+422
+00:45:39,583 --> 00:45:41,292
+Filha da puta!
+
+423
+00:46:10,458 --> 00:46:11,792
+Sua filha...
+
+424
+00:47:52,917 --> 00:47:53,958
+É grave?
+
+425
+00:47:56,000 --> 00:47:57,875
+Tudo bem. Olhe para mim.
+
+426
+00:48:05,292 --> 00:48:09,125
+Eu não quero morrer.
+
+427
+00:48:09,708 --> 00:48:13,208
+Você vai ficar bem.
+Eu estou aqui. Tudo bem.
+
+428
+00:48:21,417 --> 00:48:22,458
+Desculpe.
+
+429
+00:48:24,167 --> 00:48:25,583
+Eu sinto muito.
+
+430
+00:48:26,792 --> 00:48:29,000
+Não. Você é a Domingo.
+
+431
+00:48:31,792 --> 00:48:33,708
+Deveria ser a que mais acredita.
+
+432
+00:48:44,250 --> 00:48:46,125
+Eu não sei no que eu acredito.
+
+433
+00:48:49,542 --> 00:48:50,958
+Eu...
+
+434
+00:48:56,375 --> 00:48:57,750
+Eu não sei quem eu sou.
+
+435
+00:49:25,042 --> 00:49:26,500
+Não!
+
+436
+00:49:30,208 --> 00:49:33,042
+Não!
+
+437
+00:49:36,125 --> 00:49:37,625
+Não!
+
+438
+00:49:46,292 --> 00:49:48,000
+Não pode ser!
+
+439
+00:50:17,917 --> 00:50:19,000
+Elas não vão sofrer.
+
+440
+00:50:20,417 --> 00:50:22,333
+-O quê?
+-Tenho certeza disso.
+
+441
+00:50:26,792 --> 00:50:28,542
+Temos um problema de contenção.
+
+442
+00:50:29,083 --> 00:50:31,750
+Ainda não temos notícias
+da equipe Settman.
+
+443
+00:50:37,083 --> 00:50:42,292
+Esta noite, sonhei que este prédio
+entrava em erupção e expelia crianças.
+
+444
+00:50:44,500 --> 00:50:45,917
+Havia tantas.
+
+445
+00:50:47,125 --> 00:50:49,167
+Um mar de corpinhos...
+
+446
+00:50:51,083 --> 00:50:52,708
+queimados pelas chamas.
+
+447
+00:50:53,750 --> 00:50:55,667
+Eu sei o que sente por essas crianças.
+
+448
+00:50:57,000 --> 00:51:00,167
+Mas a culpa é dos pais, não sua.
+
+449
+00:51:00,708 --> 00:51:02,542
+Às vezes, eu penso: "Danem-se."
+
+450
+00:51:04,208 --> 00:51:05,500
+Danem-se todos.
+
+451
+00:51:07,250 --> 00:51:09,042
+Os humanos nunca aprenderão.
+
+452
+00:51:09,625 --> 00:51:12,208
+A senhora é a nossa última chance,
+doutora.
+
+453
+00:51:14,292 --> 00:51:15,750
+Nossa única esperança.
+
+454
+00:51:19,750 --> 00:51:22,500
+Preciso de você, Joe. Tenha cuidado.
+
+455
+00:51:24,250 --> 00:51:27,292
+Não subestime as Settmans.
+
+456
+00:51:28,042 --> 00:51:30,750
+Se as listarmos, elas serão identificadas
+no primeiro posto
+
+457
+00:51:30,875 --> 00:51:32,458
+e processadas dentro de horas.
+
+458
+00:51:32,583 --> 00:51:37,417
+Sete irmãs que sobreviveram até adultas?
+Destruiria minha credibilidade. Não.
+
+459
+00:51:38,250 --> 00:51:40,042
+Precisamos manter isto localizado.
+
+460
+00:51:40,250 --> 00:51:43,042
+Elas estão presas no apartamento
+e sabem disso.
+
+461
+00:51:44,125 --> 00:51:47,333
+Além disso... temos outro problema.
+
+462
+00:51:49,042 --> 00:51:50,292
+Uma complicação.
+
+463
+00:51:51,042 --> 00:51:52,792
+Trate como prioridade.
+
+464
+00:51:53,542 --> 00:51:56,750
+Depois, cuide das Settmans.
+
+465
+00:52:28,042 --> 00:52:29,792
+CHECANDO DADOS DA RETINA
+
+466
+00:52:32,125 --> 00:52:33,500
+É da Terça.
+
+467
+00:53:02,583 --> 00:53:03,833
+O que estamos fazendo?
+
+468
+00:53:04,708 --> 00:53:06,542
+Precisamos sair daqui agora.
+
+469
+00:53:07,500 --> 00:53:10,167
+Eles sabem de nós.
+Vão mandar mais gente.
+
+470
+00:53:10,292 --> 00:53:13,292
+Que venham. Vou matar todo mundo.
+
+471
+00:53:13,417 --> 00:53:14,833
+Calma.
+
+472
+00:53:15,458 --> 00:53:17,167
+Pense por um instante.
+
+473
+00:53:18,667 --> 00:53:22,542
+Nós quatro lá fora?
+Com tantos agentes, postos e sensores?
+
+474
+00:53:23,125 --> 00:53:26,750
+-Não vamos durar nem dois minutos.
+-Sempre fomos melhores em equipe.
+
+475
+00:53:28,500 --> 00:53:31,667
+-Num ambiente que possamos controlar.
+-Eles não eram da Agência.
+
+476
+00:53:32,417 --> 00:53:35,833
+Já estaríamos na lista.
+Isto estaria cheio de agentes.
+
+477
+00:53:35,958 --> 00:53:38,333
+Alguém quer que a gente desapareça.
+
+478
+00:53:47,833 --> 00:53:49,708
+A pergunta é: por quê?
+
+479
+00:53:49,833 --> 00:53:52,958
+QUARTA-FEIRA
+
+480
+00:53:53,083 --> 00:53:54,167
+INICIAR ANÁLISE
+
+481
+00:53:57,000 --> 00:53:58,042
+ANALISANDO DADOS
+
+482
+00:53:58,625 --> 00:54:00,417
+PELE DESIDRATADA
+MANCHA FACE ESQUERDA
+
+483
+00:54:00,542 --> 00:54:02,083
+DESGASTE OCULAR
+PELE DANIFICADA
+
+484
+00:54:03,708 --> 00:54:04,833
+Foda-se.
+
+485
+00:54:07,458 --> 00:54:10,333
+Toda quarta,
+eu uso um vestido idiota e salto alto.
+
+486
+00:54:10,458 --> 00:54:11,875
+Hoje, não.
+
+487
+00:54:14,292 --> 00:54:16,750
+-O que é isso?
+-Algo que eu devia ter bolado ontem.
+
+488
+00:54:16,875 --> 00:54:20,250
+Eu preparei para que a gente veja e ouça
+o mesmo que você.
+
+489
+00:54:22,375 --> 00:54:23,958
+Tem trava de usuário.
+
+490
+00:54:25,917 --> 00:54:28,292
+-Consegue destravar?
+-Se eu tivesse mais tempo.
+
+491
+00:54:29,458 --> 00:54:32,500
+-Por enquanto, não vai atirar.
+-Não fica menos intimidante.
+
+492
+00:54:33,833 --> 00:54:35,667
+Isto não é um jogo, Quarta.
+
+493
+00:54:35,792 --> 00:54:39,958
+Procure o Jerry. Descubra o que ele sabe.
+Não perca a cabeça.
+
+494
+00:54:43,125 --> 00:54:44,167
+Não vou perder.
+
+495
+00:54:45,042 --> 00:54:46,083
+SAÍDA
+
+496
+00:55:12,250 --> 00:55:16,458
+Oi, Karen. Meio em cima da hora, não é?
+
+497
+00:55:22,250 --> 00:55:23,292
+Entre.
+
+498
+00:55:25,667 --> 00:55:26,708
+Noite difícil?
+
+499
+00:55:33,208 --> 00:55:35,042
+<i>Eu disse que tinha até hoje cedo,</i>
+
+500
+00:55:35,167 --> 00:55:38,375
+<i>e tecnicamente, ainda é cedo, então...</i>
+
+501
+00:55:46,667 --> 00:55:47,708
+Como vai ser?
+
+502
+00:55:52,333 --> 00:55:54,167
+Como vai ser o quê?
+
+503
+00:55:55,208 --> 00:55:57,417
+Temos um trato ou não?
+
+504
+00:55:59,000 --> 00:56:00,042
+Trato...
+
+505
+00:56:01,250 --> 00:56:02,625
+Que trato?
+
+506
+00:56:02,750 --> 00:56:04,958
+Bancar a idiota não combina com você,
+Settman.
+
+507
+00:56:06,542 --> 00:56:07,583
+É muito simples.
+
+508
+00:56:08,792 --> 00:56:10,542
+Você abre mão da promoção.
+
+509
+00:56:11,125 --> 00:56:12,167
+Eu fico com ela.
+
+510
+00:56:12,833 --> 00:56:15,792
+E eu fico de boca fechada
+sobre o seu segredinho.
+
+511
+00:56:21,833 --> 00:56:23,167
+Seu filho da puta!
+
+512
+00:56:32,250 --> 00:56:33,667
+Há quanto tempo você sabe?
+
+513
+00:56:38,333 --> 00:56:42,917
+Devia estar contente
+porque fui eu quem achou o contrato,
+
+514
+00:56:43,000 --> 00:56:44,833
+senão, já estaria presa.
+
+515
+00:56:46,667 --> 00:56:48,167
+<i>Que contrato?</i>
+
+516
+00:56:49,625 --> 00:56:51,875
+-Está falando sério?
+-Que contrato?
+
+517
+00:56:52,000 --> 00:56:54,958
+A transferência de fundos 407-C.
+
+518
+00:56:56,583 --> 00:56:58,250
+Seu contrato com a Cayman.
+
+519
+00:57:00,000 --> 00:57:01,042
+Cayman.
+
+520
+00:57:04,917 --> 00:57:06,417
+Nicolette Cayman.
+
+521
+00:57:07,667 --> 00:57:10,875
+É. Sua nova cliente VIP.
+
+522
+00:57:12,292 --> 00:57:13,667
+Vocês sabiam disso?
+
+523
+00:57:34,500 --> 00:57:37,208
+Onde está esse contrato?
+
+524
+00:57:37,917 --> 00:57:39,583
+No meu tablet.
+
+525
+00:57:40,167 --> 00:57:41,208
+Me mostra.
+
+526
+00:57:53,667 --> 00:57:54,500
+Saia daí!
+
+527
+00:58:11,458 --> 00:58:13,000
+PERSIANAS
+SALA DE ESTAR
+
+528
+00:58:17,708 --> 00:58:19,417
+Perdi o alvo de vista.
+
+529
+00:58:22,333 --> 00:58:24,083
+Vamos entrar. Mantenham a posição.
+
+530
+00:58:48,042 --> 00:58:49,792
+Gente? Vocês estão aí?
+
+531
+00:58:51,458 --> 00:58:53,292
+Para que lado? Para onde vou?
+
+532
+00:58:58,625 --> 00:59:00,125
+A melhor opção é a entrada.
+
+533
+00:59:04,333 --> 00:59:07,000
+-Espalhem-se.
+-Não é possível.
+
+534
+01:00:36,333 --> 01:00:37,417
+Merda.
+
+535
+01:00:42,167 --> 01:00:43,208
+Erickson?
+
+536
+01:00:45,750 --> 01:00:46,792
+Erickson, câmbio.
+
+537
+01:00:47,125 --> 01:00:48,000
+<i>Erickson.</i>
+
+538
+01:01:40,708 --> 01:01:41,542
+Merda!
+
+539
+01:02:16,958 --> 01:02:17,792
+<i>Senhor?</i>
+
+540
+01:02:18,708 --> 01:02:19,833
+Está na escuta?
+
+541
+01:02:20,542 --> 01:02:22,583
+O que está acontecendo?
+Precisa de reforços?
+
+542
+01:02:34,375 --> 01:02:35,208
+Acho que sim.
+
+543
+01:02:36,292 --> 01:02:39,250
+Andem! Eliminem a irmã.
+
+544
+01:02:47,083 --> 01:02:49,750
+Meninas? Preciso de uma saída, agora.
+
+545
+01:02:49,875 --> 01:02:52,042
+CONTRATO DE TRANSFERÊNCIA DE FUNDOS
+
+546
+01:02:53,458 --> 01:02:56,583
+Tem uma caçamba
+debaixo da janela do quarto.
+
+547
+01:02:56,917 --> 01:02:57,750
+Vamos.
+
+548
+01:02:58,042 --> 01:03:01,458
+São três andares,
+mas o lixo vai absorver o impacto.
+
+549
+01:03:01,583 --> 01:03:02,792
+ARQUIVO RECEBIDO
+
+550
+01:03:04,167 --> 01:03:05,500
+É bom que tenha razão.
+
+551
+01:03:22,125 --> 01:03:25,458
+Merda! Está vazia!
+
+552
+01:03:25,583 --> 01:03:30,250
+A coleta de lixo é quarta de manhã.
+Desculpe.
+
+553
+01:03:31,917 --> 01:03:33,083
+Você está bem?
+
+554
+01:03:33,208 --> 01:03:35,792
+<i>-Consegue correr?</i>
+-Eu acho que sim.
+
+555
+01:03:38,458 --> 01:03:39,500
+Então, corra.
+
+556
+01:03:54,542 --> 01:03:55,958
+Andem!
+
+557
+01:03:57,000 --> 01:03:58,417
+Gente, para onde estou indo?
+
+558
+01:03:59,583 --> 01:04:02,417
+À esquerda. Tem uma porta no fim do beco.
+
+559
+01:05:08,708 --> 01:05:09,542
+Anda.
+
+560
+01:05:12,042 --> 01:05:14,167
+O que estão esperando? Peguem-na!
+
+561
+01:05:21,750 --> 01:05:23,000
+Saiam da frente!
+
+562
+01:05:28,250 --> 01:05:29,292
+LOCALIZAR PULSEIRA
+
+563
+01:05:34,417 --> 01:05:35,458
+Saiam!
+
+564
+01:05:37,417 --> 01:05:38,625
+Saiam da frente!
+
+565
+01:05:38,750 --> 01:05:40,417
+-Saiam da frente!
+-Saiam!
+
+566
+01:06:03,625 --> 01:06:04,667
+<i>O que eu faço?</i>
+
+567
+01:06:04,792 --> 01:06:08,333
+Você precisa chegar ao telhado.
+De lá, consegue vir para casa.
+
+568
+01:06:08,458 --> 01:06:09,500
+Aguente firme.
+
+569
+01:06:18,417 --> 01:06:19,833
+AGENTE IDENTIFICADO
+
+570
+01:06:19,958 --> 01:06:21,917
+-Merda.
+-É a Agência.
+
+571
+01:06:22,042 --> 01:06:24,542
+-Você disse que não estamos na lista.
+-Não estamos.
+
+572
+01:06:24,667 --> 01:06:26,000
+Então, por que ele está aqui?
+
+573
+01:06:26,875 --> 01:06:28,458
+Sexta? Sexta!
+
+574
+01:06:34,333 --> 01:06:36,417
+Espera!
+
+575
+01:06:38,250 --> 01:06:40,292
+-O que vai fazer?
+-Descobrir o que ele quer.
+
+576
+01:06:41,625 --> 01:06:43,042
+E me livrar dele.
+
+577
+01:06:47,542 --> 01:06:48,583
+Deixa comigo.
+
+578
+01:06:52,375 --> 01:06:53,500
+Abra!
+
+579
+01:07:04,583 --> 01:07:06,375
+-Oi.
+-Oi.
+
+580
+01:07:08,917 --> 01:07:09,833
+Mudou o visual?
+
+581
+01:07:13,292 --> 01:07:18,875
+É, eu queria... experimentar algo novo.
+
+582
+01:07:19,333 --> 01:07:20,167
+Legal.
+
+583
+01:07:23,667 --> 01:07:26,625
+Liguei para o seu escritório.
+Disseram que estava doente.
+
+584
+01:07:27,625 --> 01:07:30,875
+Sei que não devia ligar,
+mas quando te vi na Agência...
+
+585
+01:07:32,083 --> 01:07:33,125
+Na Agência?
+
+586
+01:07:35,583 --> 01:07:36,625
+É.
+
+587
+01:07:37,625 --> 01:07:39,208
+É, eu tive que ir para...
+
+588
+01:07:41,542 --> 01:07:42,667
+deixar umas coisas.
+
+589
+01:07:44,708 --> 01:07:45,958
+Coisa chata de banco.
+
+590
+01:07:50,917 --> 01:07:52,583
+Não vai me convidar para entrar?
+
+591
+01:07:53,500 --> 01:07:55,792
+Eu só estava brincando
+sobre forçar a entrada.
+
+592
+01:08:01,083 --> 01:08:02,125
+<i>Sexta?</i>
+
+593
+01:08:03,625 --> 01:08:05,667
+Espere. Temos um problema.
+
+594
+01:08:05,792 --> 01:08:07,125
+Vocês têm um problema?
+
+595
+01:08:14,750 --> 01:08:15,792
+Sua casa é bonita.
+
+596
+01:08:16,500 --> 01:08:19,042
+Sexta? Está aí?
+
+597
+01:08:58,583 --> 01:09:00,417
+Quem é esse cara?
+
+598
+01:09:11,208 --> 01:09:12,417
+Não faça isso.
+
+599
+01:09:13,542 --> 01:09:14,583
+O quê?
+
+600
+01:09:16,083 --> 01:09:18,167
+Está... falando sério?
+
+601
+01:09:19,458 --> 01:09:21,708
+Desculpe, pensei que você gostasse.
+Eu só...
+
+602
+01:09:23,375 --> 01:09:24,417
+Só...
+
+603
+01:09:25,542 --> 01:09:28,583
+Me dá um instante.
+
+604
+01:09:29,167 --> 01:09:31,417
+-Eu já volto.
+-Está bem.
+
+605
+01:09:50,167 --> 01:09:53,208
+-O que está acontecendo?
+-Diga você. Quem é esse cara?
+
+606
+01:09:53,333 --> 01:09:55,083
+Não venha com essa. Saiu com ele?
+
+607
+01:09:55,208 --> 01:09:56,500
+O quê? Não!
+
+608
+01:09:56,625 --> 01:09:59,167
+Ele é da Agência. Acha que eu sou burra?
+
+609
+01:09:59,292 --> 01:10:00,917
+Vocês pareciam muito íntimos.
+
+610
+01:10:01,583 --> 01:10:02,583
+Eu estava fingindo.
+
+611
+01:10:02,708 --> 01:10:05,667
+Como sei que não está fingindo
+e que não sai com ele faz tempo?
+
+612
+01:10:07,042 --> 01:10:10,417
+Eu nunca o vi na vida, juro por Deus.
+
+613
+01:10:15,833 --> 01:10:18,417
+Precisa fazer com que ele
+a leve para a casa dele
+
+614
+01:10:18,542 --> 01:10:20,667
+e descobrir com qual de nós
+ele está saindo.
+
+615
+01:10:20,792 --> 01:10:23,667
+-O quê?
+-É, descubra o que ele sabe.
+
+616
+01:10:23,792 --> 01:10:26,542
+Você ficou louca? Quer que eu vá com ele?
+
+617
+01:10:27,708 --> 01:10:30,333
+-É.
+-Eu acho que ele quer me comer.
+
+618
+01:10:30,458 --> 01:10:32,083
+Não brinca.
+
+619
+01:10:37,292 --> 01:10:39,417
+-Me dá sua pulseira.
+-Por quê?
+
+620
+01:10:39,542 --> 01:10:42,292
+É um sincronizador,
+da pulseira do cara morto.
+
+621
+01:10:43,125 --> 01:10:45,208
+Você só precisa colocar a sua
+perto da dele.
+
+622
+01:10:46,750 --> 01:10:48,292
+Espera. O quê?
+
+623
+01:10:48,875 --> 01:10:52,542
+Ative a sua pulseira
+e a conecte com a desse cara,
+
+624
+01:10:52,667 --> 01:10:54,833
+e vamos ter acesso
+aos servidores da Agência.
+
+625
+01:11:02,958 --> 01:11:04,375
+E se ele me pegar?
+
+626
+01:11:04,500 --> 01:11:07,792
+Bem, você deve conhecer
+alguns truques para distraí-lo.
+
+627
+01:11:08,500 --> 01:11:10,958
+Não conheço nenhum truque.
+
+628
+01:11:12,833 --> 01:11:13,667
+Como assim?
+
+629
+01:11:20,958 --> 01:11:22,250
+Você fala tanto...
+
+630
+01:11:24,333 --> 01:11:26,042
+Nunca esteve com ninguém?
+
+631
+01:11:30,458 --> 01:11:31,583
+Eu já vou.
+
+632
+01:11:55,583 --> 01:11:57,250
+Meu Deus! Quarta!
+
+633
+01:11:58,292 --> 01:11:59,250
+Merda!
+
+634
+01:12:05,958 --> 01:12:08,208
+-Voltamos.
+<i>-Finalmente.</i>
+
+635
+01:12:08,792 --> 01:12:10,333
+Tem um acesso ao telhado.
+
+636
+01:12:11,000 --> 01:12:12,917
+Última porta do canto sudoeste.
+
+637
+01:12:38,708 --> 01:12:39,750
+Gente...
+
+638
+01:12:40,833 --> 01:12:42,708
+Eu não consigo saltar.
+
+639
+01:12:43,292 --> 01:12:45,125
+Só existem duas saídas, Quarta.
+
+640
+01:12:45,250 --> 01:12:48,750
+Saltar ou levar um tiro.
+Desse jeito, você tem uma chance.
+
+641
+01:13:04,042 --> 01:13:05,958
+Você treinou para isso a vida inteira.
+
+642
+01:13:06,667 --> 01:13:07,708
+Você consegue.
+
+643
+01:13:08,708 --> 01:13:09,750
+Vai!
+
+644
+01:13:12,625 --> 01:13:14,125
+Você consegue saltar.
+
+645
+01:14:30,083 --> 01:14:31,792
+Levem-na ao centro de processamento.
+
+646
+01:14:32,750 --> 01:14:33,833
+Eles sabem o que fazer.
+
+647
+01:14:35,667 --> 01:14:36,708
+Vou avisá-los.
+
+648
+01:14:45,333 --> 01:14:46,417
+O que quer beber?
+
+649
+01:14:48,083 --> 01:14:49,125
+Uma dose de vodca.
+
+650
+01:16:09,250 --> 01:16:10,375
+CARREGANDO ARQUIVO
+
+651
+01:16:10,500 --> 01:16:11,708
+CONTRATO DE TRANSFERÊNCIA
+
+652
+01:16:11,833 --> 01:16:12,917
+O arquivo da Quarta.
+
+653
+01:16:13,042 --> 01:16:17,042
+É uma transferência 407-C,
+como o Jerry disse.
+
+654
+01:16:21,750 --> 01:16:23,250
+Por que Karen Settman
+
+655
+01:16:23,375 --> 01:16:28,542
+transferiria milhões de euros ilegalmente
+para a campanha da Nicolette Cayman?
+
+656
+01:16:31,750 --> 01:16:35,708
+O contrato foi executado
+no mesmo dia da promoção.
+
+657
+01:16:39,625 --> 01:16:41,208
+Uma transferência tão grande...
+
+658
+01:16:46,167 --> 01:16:49,708
+Karen Settman precisava mesmo da promoção.
+
+659
+01:16:53,875 --> 01:16:54,917
+Que estranho.
+
+660
+01:16:56,750 --> 01:16:58,500
+Não está assinado.
+
+661
+01:17:50,167 --> 01:17:52,833
+CONECTAR PULSEIRAS
+SINCRONIZAR
+
+662
+01:18:12,750 --> 01:18:14,125
+CONEXÃO ESTABELECIDA
+
+663
+01:18:19,167 --> 01:18:20,208
+<i>LOGIN</i> BEM-SUCEDIDO
+
+664
+01:18:21,292 --> 01:18:22,458
+Entramos.
+
+665
+01:18:24,125 --> 01:18:26,292
+-Ela conseguiu.
+-É.
+
+666
+01:18:49,667 --> 01:18:50,708
+Transa comigo.
+
+667
+01:19:18,000 --> 01:19:22,625
+QUINTA-FEIRA
+
+668
+01:19:28,917 --> 01:19:29,958
+Cadê as celas?
+
+669
+01:19:30,833 --> 01:19:32,833
+Onde eles guardam as pessoas.
+
+670
+01:19:34,833 --> 01:19:37,542
+-O centro de processamento.
+-Consegue entrar lá?
+
+671
+01:19:38,208 --> 01:19:40,875
+Acho que sim. Espere.
+
+672
+01:20:04,458 --> 01:20:05,500
+Pare.
+
+673
+01:20:11,583 --> 01:20:14,083
+-Esse vídeo é em tempo real?
+-É.
+
+674
+01:20:26,167 --> 01:20:28,250
+Acho que é a Segunda.
+
+675
+01:20:55,792 --> 01:20:57,000
+Merda.
+
+676
+01:20:58,750 --> 01:20:59,792
+Estou atrasado.
+
+677
+01:21:00,458 --> 01:21:01,500
+Não vá.
+
+678
+01:21:03,792 --> 01:21:04,833
+Eu preciso ir.
+
+679
+01:21:11,000 --> 01:21:13,208
+Tem um grande evento na Agência hoje.
+
+680
+01:21:14,000 --> 01:21:15,667
+A Cayman vai lançar a candidatura.
+
+681
+01:21:22,917 --> 01:21:24,292
+Por que trabalha para eles?
+
+682
+01:21:25,667 --> 01:21:28,333
+Para a Agência? Por que não?
+
+683
+01:21:30,250 --> 01:21:32,042
+Não podia arranjar outro emprego?
+
+684
+01:21:32,750 --> 01:21:34,333
+Por que ia querer outro emprego?
+
+685
+01:21:34,458 --> 01:21:37,833
+Não acha errado sair prendendo irmãos?
+
+686
+01:21:37,958 --> 01:21:40,333
+Você já esteve nos setores mais baixos?
+
+687
+01:21:41,125 --> 01:21:45,500
+A maioria das crianças que pegamos
+vivem em condições horríveis.
+
+688
+01:21:46,583 --> 01:21:50,667
+-Estamos fazendo um favor a elas.
+-Mandando-as para a criogenia?
+
+689
+01:21:53,750 --> 01:21:56,042
+É. Por enquanto.
+
+690
+01:21:56,625 --> 01:21:57,917
+Até as coisas melhorarem.
+
+691
+01:22:04,792 --> 01:22:05,875
+Te vejo mais tarde?
+
+692
+01:22:08,875 --> 01:22:12,417
+Preciso cuidar de umas coisas.
+
+693
+01:22:17,500 --> 01:22:20,458
+-Vamos nos ver no dia de sempre.
+-Já falamos sobre isso.
+
+694
+01:22:22,375 --> 01:22:24,083
+Quero estar com você todo dia.
+
+695
+01:22:25,958 --> 01:22:27,417
+Não só às segundas.
+
+696
+01:22:31,000 --> 01:22:32,042
+Tchau, amor.
+
+697
+01:22:53,500 --> 01:22:55,917
+<i>A Segunda estava saindo</i>
+<i>com o Adrian há meses.</i>
+
+698
+01:22:56,042 --> 01:22:58,625
+A Srta. Perfeita gosta
+de ser sufocada durante o sexo.
+
+699
+01:22:58,750 --> 01:23:00,125
+<i>Dá para acreditar?</i>
+
+700
+01:23:01,125 --> 01:23:02,625
+Ela está refém da Cayman.
+
+701
+01:23:03,208 --> 01:23:05,917
+O quê? A Segunda está viva?
+
+702
+01:23:06,042 --> 01:23:08,833
+Está. Tome cuidado, Sábado.
+
+703
+01:23:08,958 --> 01:23:11,083
+Esse agente pode estar nos enganando.
+
+704
+01:23:15,667 --> 01:23:18,167
+Eu não sei.
+
+705
+01:23:22,958 --> 01:23:26,333
+<i>Eu acho que não. Estou com medo, Quinta.</i>
+
+706
+01:23:27,333 --> 01:23:29,917
+-O que vamos fazer?
+-Vamos superar isso.
+
+707
+01:23:30,958 --> 01:23:33,292
+A cada dia que saímos,
+superamos as expectativas.
+
+708
+01:23:34,667 --> 01:23:38,458
+Vamos soltar a Segunda
+e mostrar ao mundo quem é a Cayman.
+
+709
+01:24:24,250 --> 01:24:25,292
+Eu amo...
+
+710
+01:24:46,125 --> 01:24:47,083
+COMPILANDO FOTOS
+
+711
+01:24:56,333 --> 01:24:58,958
+-Temos que ir!
+-Não! É tudo.
+
+712
+01:24:59,083 --> 01:24:59,958
+TRANSFERÊNCIA
+
+713
+01:25:00,042 --> 01:25:02,167
+-Nossa vida toda está aqui.
+-Não dá tempo.
+
+714
+01:25:02,292 --> 01:25:04,500
+Esta é a única prova de que existimos.
+
+715
+01:25:04,625 --> 01:25:08,167
+Vamos. Esqueça.
+Nós temos que ir. Está bem?
+
+716
+01:25:10,042 --> 01:25:11,042
+Está bem.
+
+717
+01:25:14,083 --> 01:25:15,500
+Ponha isto no rosto.
+
+718
+01:25:21,042 --> 01:25:22,083
+Vamos!
+
+719
+01:25:30,250 --> 01:25:31,292
+Vamos!
+
+720
+01:25:45,875 --> 01:25:47,375
+Vem, Sexta.
+
+721
+01:25:58,625 --> 01:26:00,708
+Sexta, o que está fazendo?
+
+722
+01:26:03,333 --> 01:26:04,375
+Sexta!
+
+723
+01:26:07,375 --> 01:26:08,750
+Sexta, o que foi?
+
+724
+01:26:13,792 --> 01:26:15,958
+Sexta, desça agora! Por favor!
+
+725
+01:26:20,875 --> 01:26:22,250
+Sexta!
+
+726
+01:26:48,500 --> 01:26:49,750
+INICIAR TRANSFERÊNCIA?
+
+727
+01:26:58,625 --> 01:26:59,750
+CHAMADA RECEBIDA
+
+728
+01:27:02,292 --> 01:27:03,833
+Sexta, desça, por favor.
+
+729
+01:27:06,375 --> 01:27:09,750
+-Sincronizei tudo com a sua pulseira.
+-O quê?
+
+730
+01:27:10,583 --> 01:27:11,750
+Vá buscar a Segunda.
+
+731
+01:27:11,875 --> 01:27:15,583
+<i>Mostre à Cayman quem é Karen Settman.</i>
+
+732
+01:27:15,708 --> 01:27:17,917
+Do que está falando?
+Por favor, ainda dá tempo!
+
+733
+01:27:21,458 --> 01:27:24,958
+Tudo bem. Eu não sou como vocês.
+
+734
+01:27:28,083 --> 01:27:30,292
+Por mais louca que fosse a nossa família,
+
+735
+01:27:30,417 --> 01:27:32,125
+<i>eu precisava dela para sobreviver.</i>
+
+736
+01:27:32,708 --> 01:27:34,125
+Eu não sobreviveria aí fora.
+
+737
+01:27:35,208 --> 01:27:36,375
+Não sem vocês.
+
+738
+01:27:36,500 --> 01:27:38,792
+Sexta, desça agora! Por favor!
+
+739
+01:27:46,083 --> 01:27:47,417
+Sexta!
+
+740
+01:27:47,917 --> 01:27:49,500
+Hora de desconectar, minha irmã.
+
+741
+01:27:59,750 --> 01:28:00,917
+TRANSFERÊNCIA COMPLETA
+
+742
+01:28:02,750 --> 01:28:04,250
+Eu te amo.
+
+743
+01:29:13,250 --> 01:29:16,958
+<i>Zulu Victor Um para Bravo Delta.</i>
+
+744
+01:29:17,083 --> 01:29:21,542
+<i>Relatos de uma explosão.</i>
+<i>Alexander Plaza, 25. Várias vítimas.</i>
+
+745
+01:29:21,667 --> 01:29:25,500
+<i>Repito, Alexander Plaza, 25.</i>
+<i>Várias vítimas. Por favor, responda.</i>
+
+746
+01:29:26,667 --> 01:29:27,708
+LOCALIZAR
+
+747
+01:29:55,917 --> 01:29:56,958
+Saiam!
+
+748
+01:30:01,583 --> 01:30:02,958
+Tem outra indo na sua direção.
+
+749
+01:30:03,042 --> 01:30:05,250
+<i>-Autorização?</i>
+-Total.
+
+750
+01:30:06,167 --> 01:30:08,000
+-Sabe o que fazer.
+<i>-Sim, senhor.</i>
+
+751
+01:30:17,542 --> 01:30:19,500
+-Karen?
+-Para trás, por favor.
+
+752
+01:30:19,625 --> 01:30:23,292
+-Tirem-no daqui.
+-É a Karen? Deixem-me vê-la.
+
+753
+01:30:23,417 --> 01:30:25,792
+Deixem-me vê-la! Karen!
+
+754
+01:30:47,792 --> 01:30:49,083
+Não se mexa!
+
+755
+01:30:51,333 --> 01:30:52,542
+Não se mexa!
+
+756
+01:30:54,417 --> 01:30:55,458
+O quê?
+
+757
+01:30:56,708 --> 01:30:58,250
+Você nos entregou.
+
+758
+01:31:00,083 --> 01:31:01,500
+Seu filho da puta!
+
+759
+01:31:03,208 --> 01:31:04,250
+Karen?
+
+760
+01:31:06,292 --> 01:31:07,125
+Karen?
+
+761
+01:31:07,417 --> 01:31:09,833
+Quem é você?
+
+762
+01:31:09,958 --> 01:31:14,167
+Chega de fingimento!
+Você sabe quem eu sou.
+
+763
+01:31:20,042 --> 01:31:21,917
+Puta merda, você é uma irmã.
+
+764
+01:31:24,417 --> 01:31:25,458
+Sou.
+
+765
+01:31:26,667 --> 01:31:27,750
+Uma de sete.
+
+766
+01:31:28,958 --> 01:31:30,958
+Idênticas em tudo.
+
+767
+01:31:34,125 --> 01:31:35,208
+Bom...
+
+768
+01:31:36,875 --> 01:31:38,000
+não em tudo.
+
+769
+01:31:39,250 --> 01:31:40,083
+Karen.
+
+770
+01:31:41,417 --> 01:31:43,917
+-Eu a vi num saco plástico.
+-Não era ela.
+
+771
+01:31:44,000 --> 01:31:46,125
+Ela esteve na minha casa ontem.
+
+772
+01:31:46,250 --> 01:31:47,500
+-Eu a vi.
+-Não era ela.
+
+773
+01:31:47,625 --> 01:31:50,292
+-Ela esteve na minha casa!
+-Não era ela! Ela não morreu.
+
+774
+01:31:52,542 --> 01:31:53,583
+Ela está viva.
+
+775
+01:32:07,958 --> 01:32:09,000
+<i>Eu amo...</i>
+
+776
+01:32:16,167 --> 01:32:19,958
+Não tenho nada a ver com isso.
+Precisa confiar em mim. Eu amo a Karen.
+
+777
+01:32:31,917 --> 01:32:33,625
+Ela está refém da Cayman.
+
+778
+01:32:35,208 --> 01:32:36,250
+Se você a ama...
+
+779
+01:32:37,875 --> 01:32:39,167
+Se a ama mesmo...
+
+780
+01:32:40,333 --> 01:32:41,750
+precisa me ajudar.
+
+781
+01:32:48,500 --> 01:32:49,542
+Você tem um plano?
+
+782
+01:32:53,292 --> 01:32:54,375
+Eu sou o plano.
+
+783
+01:33:09,000 --> 01:33:10,167
+TRANSFERIR PARA PROCESSAMENTO
+
+784
+01:33:15,208 --> 01:33:16,708
+Sim, estão esperando lá embaixo.
+
+785
+01:33:32,000 --> 01:33:33,667
+AGÊNCIA DE ALOCAÇÃO INFANTIL
+
+786
+01:34:13,958 --> 01:34:15,125
+Eu assumo agora.
+
+787
+01:34:51,833 --> 01:34:52,875
+Vai doer?
+
+788
+01:34:54,708 --> 01:34:55,750
+Não.
+
+789
+01:36:27,958 --> 01:36:29,250
+Não tinha sido um incêndio?
+
+790
+01:36:35,917 --> 01:36:36,958
+Merda.
+
+791
+01:36:44,375 --> 01:36:45,417
+Não!
+
+792
+01:36:55,375 --> 01:36:57,875
+Me ajudem! Me deixem sair!
+
+793
+01:36:58,000 --> 01:37:00,125
+Por favor! Me soltem!
+
+794
+01:37:17,542 --> 01:37:18,792
+-Você está bem?
+-Estou.
+
+795
+01:37:43,875 --> 01:37:45,000
+Era tudo mentira.
+
+796
+01:37:49,125 --> 01:37:50,667
+A Cayman matou todos eles.
+
+797
+01:37:56,625 --> 01:37:57,875
+Todos os irmãos.
+
+798
+01:38:16,458 --> 01:38:18,042
+PACIENTE 430.045
+
+799
+01:38:18,125 --> 01:38:19,583
+PROCESSADO
+
+800
+01:38:29,625 --> 01:38:30,667
+PACIENTE - SETOR
+
+801
+01:38:36,500 --> 01:38:38,333
+AGUARDANDO PROCESSAMENTO
+
+802
+01:38:39,458 --> 01:38:40,500
+CELA D2 34
+
+803
+01:38:41,042 --> 01:38:42,083
+Certo.
+
+804
+01:39:06,292 --> 01:39:07,333
+Karen.
+
+805
+01:39:07,458 --> 01:39:08,583
+Terça.
+
+806
+01:39:09,417 --> 01:39:12,500
+-Não, por favor!
+-Sou eu.
+
+807
+01:39:12,625 --> 01:39:13,667
+Não é ela.
+
+808
+01:39:23,750 --> 01:39:24,792
+Tudo bem.
+
+809
+01:39:29,250 --> 01:39:31,542
+Nós vamos sair. Está bem?
+
+810
+01:39:31,667 --> 01:39:34,833
+Onde está a Karen?
+Ela ainda está viva? Cadê a Karen?
+
+811
+01:39:37,375 --> 01:39:39,042
+O que aconteceu com a Segunda?
+
+812
+01:39:46,917 --> 01:39:47,958
+Karen.
+
+813
+01:39:48,500 --> 01:39:52,792
+Esta gostando da estadia?
+Espero que esteja confortável.
+
+814
+01:39:54,167 --> 01:39:55,583
+Mais do que isso.
+
+815
+01:39:56,833 --> 01:40:00,208
+Falhamos miseravelmente
+como espécie neste planeta.
+
+816
+01:40:00,542 --> 01:40:02,833
+Planejando nossa própria extinção.
+
+817
+01:40:04,208 --> 01:40:09,083
+Mas, através da sua doação
+e minha candidatura ao Parlamento,
+
+818
+01:40:09,208 --> 01:40:12,667
+talvez tenhamos outra chance.
+
+819
+01:40:22,042 --> 01:40:23,083
+Tire a peruca.
+
+820
+01:40:27,125 --> 01:40:28,167
+Tire!
+
+821
+01:40:33,167 --> 01:40:35,625
+Se está começando a hesitar,
+
+822
+01:40:35,750 --> 01:40:39,250
+saiba que mantive
+uma das suas irmãs como garantia.
+
+823
+01:40:40,250 --> 01:40:41,708
+Afinal...
+
+824
+01:40:42,292 --> 01:40:46,083
+alguém disposto a sacrificar
+a própria família...
+
+825
+01:40:46,917 --> 01:40:48,750
+não é de confiança.
+
+826
+01:40:57,458 --> 01:40:58,583
+ASSINADO
+
+827
+01:40:59,792 --> 01:41:00,833
+Então...
+
+828
+01:41:02,042 --> 01:41:06,167
+como é ser a única Karen Settman?
+
+829
+01:41:13,333 --> 01:41:16,667
+Quando entrar no servidor,
+use o código da Sexta.
+
+830
+01:41:16,792 --> 01:41:18,500
+A Cayman discursará em 15 minutos.
+
+831
+01:41:20,292 --> 01:41:21,708
+Vamos.
+
+832
+01:41:22,417 --> 01:41:24,083
+Vamos acabar com essa maldita.
+
+833
+01:41:42,708 --> 01:41:45,750
+CAYMAN 2073
+JUNTOS VAMOS SOBREVIVER
+
+834
+01:42:11,292 --> 01:42:12,333
+Merda.
+
+835
+01:42:16,250 --> 01:42:18,208
+Ninguém se mexe!
+
+836
+01:42:21,875 --> 01:42:23,125
+Mostrem as mãos!
+
+837
+01:42:24,750 --> 01:42:25,792
+Abra a porta!
+
+838
+01:42:27,375 --> 01:42:30,750
+-Abram essa porta ou eu o mato!
+-Abram.
+
+839
+01:43:11,333 --> 01:43:12,417
+INVASÃO DO SISTEMA
+
+840
+01:43:58,167 --> 01:43:59,208
+Segunda.
+
+841
+01:44:03,458 --> 01:44:04,500
+Estou impressionada.
+
+842
+01:44:05,833 --> 01:44:08,333
+Você nunca vestiu Karen Settman tão bem.
+
+843
+01:44:12,667 --> 01:44:16,292
+-Você acha que é sua. Não é.
+-Eu a mereço.
+
+844
+01:44:18,083 --> 01:44:19,125
+Você apenas finge.
+
+845
+01:44:25,167 --> 01:44:26,250
+ACESSANDO VÍDEO
+
+846
+01:44:26,375 --> 01:44:30,875
+<i>Obrigada pela presença.</i>
+<i>Estou muito honrada e grata.</i>
+
+847
+01:44:35,375 --> 01:44:36,583
+Preciso chegar à Cayman.
+
+848
+01:44:37,167 --> 01:44:38,875
+Afaste-a dos servidores.
+
+849
+01:44:52,083 --> 01:44:53,292
+Você nos entregou.
+
+850
+01:44:54,667 --> 01:44:55,875
+Como pôde?
+
+851
+01:44:56,708 --> 01:44:59,542
+Achei que você entenderia
+melhor que ninguém.
+
+852
+01:45:00,208 --> 01:45:03,042
+Entender? Nós éramos sua família.
+
+853
+01:45:03,167 --> 01:45:04,875
+O que você sabe sobre família?
+
+854
+01:45:08,083 --> 01:45:12,000
+Todos esses anos de sermão
+sobre responsabilidade e sacrifício?
+
+855
+01:45:12,500 --> 01:45:15,292
+Nunca vi você fazer nenhum, nem uma vez.
+
+856
+01:45:18,417 --> 01:45:20,333
+Eu fiz tudo o que me mandaram.
+
+857
+01:45:21,208 --> 01:45:24,917
+Fiz tudo certo. Tudo o que podia
+para proteger minha família.
+
+858
+01:45:27,250 --> 01:45:28,958
+Tem um jeito estranho de demonstrar.
+
+859
+01:45:34,875 --> 01:45:37,167
+A Domingo morreu nos meus braços.
+
+860
+01:45:40,792 --> 01:45:42,417
+A Quarta caiu para a morte.
+
+861
+01:45:42,708 --> 01:45:45,583
+A Sábado levou um tiro na cabeça,
+e a Sexta...
+
+862
+01:45:53,583 --> 01:45:55,167
+Eu não planejei isso.
+
+863
+01:45:59,083 --> 01:46:01,083
+Conheci o Adrian e me apaixonei.
+
+864
+01:46:03,292 --> 01:46:04,583
+As coisas mudaram.
+
+865
+01:46:06,375 --> 01:46:10,167
+Fiz um trato com a Cayman, e...
+ele saiu do controle.
+
+866
+01:46:13,625 --> 01:46:14,667
+Sinto muito.
+
+867
+01:46:20,417 --> 01:46:23,542
+Sinto muito que tenha perdido seu dedo
+por minha causa.
+
+868
+01:46:25,292 --> 01:46:27,792
+Eu era... Eu era perturbada.
+
+869
+01:46:29,833 --> 01:46:32,542
+Se eu pudesse voltar e mudar, mudaria.
+
+870
+01:46:37,083 --> 01:46:38,500
+Karen Settman...
+
+871
+01:46:39,750 --> 01:46:42,042
+era muito mais do que qualquer uma de nós.
+
+872
+01:46:44,583 --> 01:46:45,792
+Ela era todas nós.
+
+873
+01:46:49,750 --> 01:46:50,958
+Ela era nossa família.
+
+874
+01:46:56,667 --> 01:46:58,417
+Eu nasci primeiro.
+
+875
+01:47:00,167 --> 01:47:02,083
+Karen Settman sempre foi minha.
+
+876
+01:47:03,625 --> 01:47:04,667
+E vocês?
+
+877
+01:47:05,708 --> 01:47:07,542
+Vocês eram só placenta.
+
+878
+01:47:17,792 --> 01:47:21,875
+Por três décadas,
+a Agência de Alocação Infantil
+
+879
+01:47:22,000 --> 01:47:27,292
+combateu a crise mais séria
+que nosso mundo já enfrentou.
+
+880
+01:47:27,417 --> 01:47:29,875
+Uma superpopulação catastrófica.
+
+881
+01:47:34,500 --> 01:47:37,167
+Os críticos podem refutar nossos métodos,
+
+882
+01:47:37,792 --> 01:47:40,417
+mas os números não mentem.
+
+883
+01:47:40,542 --> 01:47:43,750
+NASCIDOS VIVOS POR ANO
+INTRODUÇÃO DA LEI DA ALOCAÇÃO INFANTIL
+
+884
+01:47:44,958 --> 01:47:46,167
+TRANSFERÊNCIA EM ANDAMENTO
+
+885
+01:47:54,833 --> 01:48:01,042
+Em um mundo perfeito,
+toda criança tem o direito de viver.
+
+886
+01:48:10,792 --> 01:48:13,583
+É por isso que estou concorrendo.
+
+887
+01:48:14,333 --> 01:48:16,583
+Para poder reformar a lei.
+
+888
+01:48:43,917 --> 01:48:44,875
+CARREGAR ARQUIVO
+
+889
+01:48:45,375 --> 01:48:48,958
+<i>Qualquer um que trouxer</i>
+<i>uma criança a este mundo</i>
+
+890
+01:48:49,083 --> 01:48:53,083
+deve comprovar estabilidade financeira...
+
+891
+01:48:56,417 --> 01:48:58,167
+<i>e ser capaz de garantir</i>
+
+892
+01:48:58,292 --> 01:49:02,625
+o bem-estar físico e emocional da criança.
+
+893
+01:49:09,875 --> 01:49:12,500
+<i>Talvez haja até lugar para irmãos...</i>
+
+894
+01:49:14,125 --> 01:49:16,083
+se os dados permitirem.
+
+895
+01:49:29,083 --> 01:49:30,833
+<i>Então, eu os elogio pela sua visão...</i>
+
+896
+01:49:31,333 --> 01:49:33,583
+enquanto continuamos
+a tomar ações positivas
+
+897
+01:49:33,708 --> 01:49:36,292
+na construção de um futuro sustentável,
+
+898
+01:49:36,417 --> 01:49:38,625
+cheio de esperança e possibilidades.
+
+899
+01:49:44,750 --> 01:49:45,833
+Juntos...
+
+900
+01:49:50,000 --> 01:49:51,042
+<i>vamos...</i>
+
+901
+01:49:55,583 --> 01:49:56,458
+sobreviver.
+
+902
+01:50:27,208 --> 01:50:28,250
+Você está bem?
+
+903
+01:50:39,125 --> 01:50:40,500
+GESTÃO DE DISPOSITIVOS
+SUBSTITUIR?
+
+904
+01:50:45,417 --> 01:50:46,417
+Mande.
+
+905
+01:50:48,417 --> 01:50:49,583
+EMISSÃO
+
+906
+01:51:43,833 --> 01:51:45,208
+Elas não sofreram.
+
+907
+01:51:46,583 --> 01:51:47,750
+Não, elas não sofreram.
+
+908
+01:51:48,583 --> 01:51:52,750
+Elas não sofreram!
+
+909
+01:52:10,625 --> 01:52:11,792
+O que você fez?
+
+910
+01:52:13,625 --> 01:52:14,917
+O que você fez?
+
+911
+01:53:11,792 --> 01:53:12,833
+Segunda.
+
+912
+01:53:15,042 --> 01:53:16,583
+Preciso que tenha coragem.
+
+913
+01:53:16,958 --> 01:53:19,000
+Dê o exemplo às suas irmãs.
+
+914
+01:53:59,833 --> 01:54:01,375
+Só estou tentando protegê-las.
+
+915
+01:54:08,458 --> 01:54:10,125
+Eu sinto muito.
+
+916
+01:54:49,083 --> 01:54:50,125
+Prometa...
+
+917
+01:54:56,417 --> 01:54:58,333
+Não deixe que os levem.
+
+918
+01:55:06,583 --> 01:55:08,125
+Não deixe que os levem.
+
+919
+01:55:38,167 --> 01:55:39,375
+Meu amor.
+
+920
+01:55:41,542 --> 01:55:42,625
+Fique comigo, está bem?
+
+921
+01:55:50,208 --> 01:55:54,083
+Amor, tudo bem. Amor...
+
+922
+01:56:13,708 --> 01:56:18,375
+Revoltas por toda a Federação forçaram
+a revogação da Lei de Alocação Infantil.
+
+923
+01:56:18,750 --> 01:56:22,458
+Centenas de irmãos presos
+em centros de processamento foram soltos.
+
+924
+01:56:23,167 --> 01:56:25,750
+Multidões de grávidas
+estão saindo de esconderijos,
+
+925
+01:56:26,000 --> 01:56:28,125
+a maioria dos distritos mais pobres.
+
+926
+01:56:28,583 --> 01:56:32,042
+Sem a revogação, muitas dessas crianças
+teriam sido descartadas
+
+927
+01:56:32,167 --> 01:56:35,125
+ou processadas assim que nascessem.
+
+928
+01:56:35,250 --> 01:56:37,208
+CAYMAN PODE PEGAR PENA DE MORTE
+
+929
+01:56:41,000 --> 01:56:43,917
+Este planeta é o único lar
+que conheceremos.
+
+930
+01:56:46,583 --> 01:56:47,625
+Olhem em volta.
+
+931
+01:56:48,875 --> 01:56:50,208
+Perguntem a si mesmos:
+
+932
+01:56:53,000 --> 01:56:56,333
+"Quem continuará
+a tomar as decisões difíceis
+
+933
+01:56:56,458 --> 01:56:58,250
+que garantirão nossa sobrevivência?"
+
+934
+01:57:01,708 --> 01:57:02,750
+Eu lamento...
+
+935
+01:57:06,625 --> 01:57:08,583
+Eu lamento que os seus filhos
+
+936
+01:57:08,708 --> 01:57:12,208
+jamais conhecerão
+o mundo que teríamos construído juntos.
+
+937
+01:57:14,083 --> 01:57:15,875
+Essa esperança se foi para sempre.
+
+938
+01:57:27,167 --> 01:57:28,792
+Gostei do olho novo, Terça.
+
+939
+01:57:32,250 --> 01:57:34,542
+-Fizeram um bom trabalho.
+-Obrigada.
+
+940
+01:57:37,417 --> 01:57:40,542
+Não é mais Terça. É Terry.
+
+941
+01:57:41,333 --> 01:57:43,375
+Está bem. Terry.
+
+942
+01:57:49,458 --> 01:57:50,500
+Então...
+
+943
+01:57:52,667 --> 01:57:53,708
+como devo chamá-la?
+
+944
+01:57:57,125 --> 01:57:58,167
+Karen.
+
+945
+01:58:00,750 --> 01:58:01,792
+Karen Settman.
+
+946
+01:58:12,583 --> 01:58:14,583
+A Segunda fez tudo isso por eles.
+
+947
+01:58:15,833 --> 01:58:17,333
+Queria que ficassem seguros.
+
+948
+01:58:20,750 --> 01:58:21,750
+Bem...
+
+949
+01:58:23,583 --> 01:58:25,000
+eles ficarão.
+
+950
+01:59:01,167 --> 01:59:03,167
+Legendas: Priscilla Rother
