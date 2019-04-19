@@ -1,0 +1,3841 @@
+1
+00:01:05,315 --> 00:01:07,025
+<i>O que você comeu?</i>
+
+2
+00:01:08,401 --> 00:01:10,236
+<i>Tinha comida para duas semanas.</i>
+
+3
+00:01:10,320 --> 00:01:12,655
+<i>Ficou lá dentro por quase quatro meses.</i>
+
+4
+00:01:13,281 --> 00:01:14,741
+<i>Não me lembro de comer.</i>
+
+5
+00:01:17,952 --> 00:01:20,080
+<i>Quanto tempo acha que ficou lá?</i>
+
+6
+00:01:22,415 --> 00:01:23,291
+<i>Dias.</i>
+
+7
+00:01:24,751 --> 00:01:25,877
+<i>Talvez semanas.</i>
+
+8
+00:01:29,798 --> 00:01:31,508
+<i>O que houve com Josie Radek?</i>
+
+9
+00:01:40,517 --> 00:01:42,644
+<i>-Não sei.</i>
+<i>-E com Sheppard?</i>
+
+10
+00:01:43,478 --> 00:01:44,771
+<i>Thorensen?</i>
+
+11
+00:01:48,316 --> 00:01:49,150
+<i>Morta.</i>
+
+12
+00:01:49,818 --> 00:01:50,735
+<i>Ventress?</i>
+
+13
+00:01:56,407 --> 00:01:57,283
+<i>Não sei.</i>
+
+14
+00:01:58,952 --> 00:02:00,328
+<i>E o que você sabe?</i>
+
+15
+00:02:44,706 --> 00:02:49,169
+<i>ANIQUILAÇÃO</i>
+
+16
+00:02:57,594 --> 00:02:59,596
+<i>Isso é uma célula.</i>
+
+17
+00:03:00,513 --> 00:03:04,642
+<i>Como todas as células, foi criada</i>
+<i>a partir de uma célula já existente.</i>
+
+18
+00:03:05,310 --> 00:03:06,477
+<i>Portanto,</i>
+
+19
+00:03:06,895 --> 00:03:10,273
+<i>todas as células foram criadas</i>
+<i>a partir de uma célula.</i>
+
+20
+00:03:10,899 --> 00:03:14,402
+<i>Um único organismo sozinho</i>
+<i>no planeta Terra,</i>
+
+21
+00:03:14,485 --> 00:03:16,404
+<i>talvez sozinho no universo.</i>
+
+22
+00:03:16,487 --> 00:03:18,698
+<i>Há cerca de quatro bilhões de anos...</i>
+
+23
+00:03:19,866 --> 00:03:22,577
+<i>um se tornou dois, </i>
+<i>dois se tornaram quatro.</i>
+
+24
+00:03:22,660 --> 00:03:26,414
+<i>Então oito, 16, 32.</i>
+
+25
+00:03:26,748 --> 00:03:29,000
+<i>O ritmo do par que foi separado...</i>
+
+26
+00:03:30,043 --> 00:03:34,547
+<i>se torna a estrutura de cada micróbio,</i>
+
+27
+00:03:34,631 --> 00:03:37,634
+<i>folha de grama, animal marinho,</i>
+<i>animal terrestre...</i>
+
+28
+00:03:38,009 --> 00:03:38,968
+<i>e humano.</i>
+
+29
+00:03:39,052 --> 00:03:42,096
+<i>A estrutura de tudo que vive...</i>
+
+30
+00:03:42,931 --> 00:03:45,308
+<i>e de tudo que morre.</i>
+
+31
+00:03:45,892 --> 00:03:49,437
+<i>Como estudantes de medicina,</i>
+<i>como médicos do amanhã,</i>
+
+32
+00:03:49,520 --> 00:03:50,939
+<i>é aqui que vocês entram.</i>
+
+33
+00:03:52,023 --> 00:03:55,735
+<i>A célula que estamos vendo é de um tumor.</i>
+
+34
+00:03:55,818 --> 00:03:59,405
+<i>Mulher, 30 e poucos anos,</i>
+<i>coletado do colo do útero.</i>
+
+35
+00:03:59,781 --> 00:04:01,199
+<i>No próximo semestre,</i>
+
+36
+00:04:01,282 --> 00:04:04,202
+<i>examinaremos células cancerosas</i>
+<i>in vitro de perto</i>
+
+37
+00:04:04,285 --> 00:04:06,162
+<i>e falaremos da atividade autofágica.</i>
+
+38
+00:04:07,205 --> 00:04:09,207
+<i>-Professora?</i>
+<i>-Oi, Katie.</i>
+
+39
+00:04:09,290 --> 00:04:11,417
+<i>Li a dissertação de John Sulston.</i>
+
+40
+00:04:11,501 --> 00:04:14,921
+<i>Ainda acho que não estudo o bastante.</i>
+<i>Os outros estão adiantados.</i>
+
+41
+00:04:15,004 --> 00:04:17,674
+<i>-Eles acham tudo mais fácil.</i>
+<i>-Não estão.</i>
+
+42
+00:04:17,757 --> 00:04:18,800
+<i>-Certo?</i>
+<i>-Lena.</i>
+
+43
+00:04:21,094 --> 00:04:21,970
+<i>Dan.</i>
+
+44
+00:04:22,720 --> 00:04:25,682
+<i>Procuro você na hora do almoço,</i>
+<i>mas nunca aparece.</i>
+
+45
+00:04:26,307 --> 00:04:28,017
+<i>Estou trabalhando em uns estudos.</i>
+
+46
+00:04:28,101 --> 00:04:31,729
+<i>Só trabalhar e não relaxar...</i>
+<i>não é saudável.</i>
+
+47
+00:04:33,273 --> 00:04:34,857
+<i>Eu queria perguntar,</i>
+
+48
+00:04:35,233 --> 00:04:37,318
+<i>você tem planos para sábado?</i>
+
+49
+00:04:37,402 --> 00:04:39,570
+<i>Eu e Sarah vamos receber algumas pessoas.</i>
+
+50
+00:04:39,821 --> 00:04:41,906
+<i>Uma festa no jardim se o tempo permitir.</i>
+
+51
+00:04:43,783 --> 00:04:45,201
+<i>Na verdade, tenho planos.</i>
+
+52
+00:04:45,660 --> 00:04:46,828
+<i>Será muito divertido.</i>
+
+53
+00:04:46,911 --> 00:04:50,248
+<i>Obrigada, Dan,</i>
+<i>mas vou pintar no nosso qua...</i>
+
+54
+00:04:50,873 --> 00:04:51,749
+<i>O quarto.</i>
+
+55
+00:04:54,877 --> 00:04:55,962
+<i>Faz um ano, Lena.</i>
+
+56
+00:04:59,048 --> 00:05:00,633
+<i>Tem direito de ir a um churrasco.</i>
+
+57
+00:05:00,717 --> 00:05:05,054
+<i>Não é uma traição</i>
+<i>nem um insulto à memória dele.</i>
+
+58
+00:05:07,515 --> 00:05:09,183
+<i>Vou pintar o quarto.</i>
+
+59
+00:06:59,127 --> 00:07:00,086
+<i>Meu Deus.</i>
+
+60
+00:07:04,549 --> 00:07:05,591
+<i>Meu Deus.</i>
+
+61
+00:07:14,892 --> 00:07:16,519
+<i>Pensei que tivesse morrido.</i>
+
+62
+00:07:26,237 --> 00:07:27,071
+<i>Kane?</i>
+
+63
+00:07:48,551 --> 00:07:50,678
+<i>Ninguém sabia nada sobre a sua unidade.</i>
+
+64
+00:07:50,761 --> 00:07:52,221
+<i>Entrei em contato com todos.</i>
+
+65
+00:07:52,638 --> 00:07:53,848
+<i>Com todos que podia.</i>
+
+66
+00:07:54,223 --> 00:07:56,726
+<i>Os outros parceiros sabiam</i>
+<i>tão pouco quanto eu.</i>
+
+67
+00:08:02,231 --> 00:08:03,357
+<i>Era secreto?</i>
+
+68
+00:08:07,028 --> 00:08:07,987
+<i>Talvez.</i>
+
+69
+00:08:08,154 --> 00:08:10,198
+<i>Como assim, "talvez"?</i>
+
+70
+00:08:12,533 --> 00:08:15,286
+<i>Tudo bem, sim, era secreto. Acho que sim.</i>
+
+71
+00:08:15,661 --> 00:08:17,288
+<i>Paquistão outra vez?</i>
+
+72
+00:08:18,998 --> 00:08:23,085
+<i>Não sei onde era nem...</i>
+
+73
+00:08:25,755 --> 00:08:26,589
+<i>o que era.</i>
+
+74
+00:08:26,672 --> 00:08:27,924
+<i>Como isso é possível?</i>
+
+75
+00:08:28,132 --> 00:08:30,134
+<i>Era calor?</i>
+
+76
+00:08:31,135 --> 00:08:31,969
+<i>Nevava?</i>
+
+77
+00:08:32,595 --> 00:08:37,016
+<i>As pessoas lá falavam português,</i>
+<i>ou suaíli, ou pachto?</i>
+
+78
+00:08:41,729 --> 00:08:42,688
+<i>Quando voltou?</i>
+
+79
+00:08:44,357 --> 00:08:45,233
+<i>Não sei.</i>
+
+80
+00:08:45,316 --> 00:08:47,652
+<i>Como voltou? Em que base chegou?</i>
+
+81
+00:08:49,529 --> 00:08:50,363
+<i>Não sei.</i>
+
+82
+00:08:50,446 --> 00:08:52,740
+<i>O resto da unidade voltou com você?</i>
+
+83
+00:08:55,701 --> 00:08:58,412
+<i>Deve poder me dizer alguma coisa.</i>
+
+84
+00:08:58,788 --> 00:09:01,415
+<i>Você desapareceu por 12 meses.</i>
+
+85
+00:09:01,999 --> 00:09:04,252
+<i>Mereço uma explicação melhor</i>
+<i>que nenhuma explicação.</i>
+
+86
+00:09:04,335 --> 00:09:05,419
+<i>Faz diferença?</i>
+
+87
+00:09:28,609 --> 00:09:29,527
+<i>Kane...</i>
+
+88
+00:09:31,070 --> 00:09:32,488
+<i>como chegou em casa?</i>
+
+89
+00:09:36,367 --> 00:09:37,535
+<i>Eu estava lá fora.</i>
+
+90
+00:09:39,120 --> 00:09:40,413
+<i>Fora de casa?</i>
+
+91
+00:09:41,872 --> 00:09:42,748
+<i>Não.</i>
+
+92
+00:09:43,583 --> 00:09:45,209
+<i>Não, fora do quarto.</i>
+
+93
+00:09:47,878 --> 00:09:49,297
+<i>O quarto que tem a cama.</i>
+
+94
+00:09:51,173 --> 00:09:52,758
+<i>A porta estava aberta e...</i>
+
+95
+00:09:54,760 --> 00:09:55,845
+<i>eu vi você.</i>
+
+96
+00:10:00,266 --> 00:10:01,517
+<i>Eu reconheci você.</i>
+
+97
+00:10:05,771 --> 00:10:06,731
+<i>O seu rosto.</i>
+
+98
+00:10:21,537 --> 00:10:22,955
+<i>Eu não me sinto bem.</i>
+
+99
+00:10:31,922 --> 00:10:35,343
+<i>Não me deixe, querido.</i>
+<i>Estou bem ao seu lado.</i>
+
+100
+00:10:35,426 --> 00:10:37,845
+<i>Homem, 31, hemorragia, convulsão.</i>
+
+101
+00:10:37,928 --> 00:10:40,348
+<i>Não me deixe, querido. Eu te amo.</i>
+
+102
+00:10:40,431 --> 00:10:41,807
+<i>Querido, olhe para mim.</i>
+
+103
+00:10:41,891 --> 00:10:42,850
+<i>Pode fazer algo?</i>
+
+104
+00:10:46,729 --> 00:10:48,230
+<i>Chamou escolta policial?</i>
+
+105
+00:10:58,199 --> 00:10:59,617
+<i>Ei, calma!</i>
+
+106
+00:11:12,380 --> 00:11:13,631
+<i>Saia da ambulância agora!</i>
+
+107
+00:11:13,714 --> 00:11:15,633
+<i>O que estão fazendo?</i>
+
+108
+00:11:15,716 --> 00:11:17,343
+<i>-Saia da ambulância!</i>
+<i>-Não atire!</i>
+
+109
+00:11:17,426 --> 00:11:18,844
+<i>Pra fora! Anda!</i>
+
+110
+00:11:18,928 --> 00:11:20,179
+<i>Pra fora!</i>
+
+111
+00:11:20,262 --> 00:11:21,222
+<i>O que está havendo?</i>
+
+112
+00:11:22,223 --> 00:11:24,308
+<i>O que está fazendo? Não pode pegá-lo.</i>
+
+113
+00:11:24,392 --> 00:11:27,019
+<i>Soltem-no!</i>
+
+114
+00:11:29,647 --> 00:11:31,023
+<i>Soltem-no!</i>
+
+115
+00:11:42,326 --> 00:11:46,247
+<i>ÁREA X</i>
+
+116
+00:12:31,083 --> 00:12:32,668
+<i>Deve estar se sentindo péssima.</i>
+
+117
+00:12:33,502 --> 00:12:36,338
+<i>É uma ressaca do sedativo que lhe deram.</i>
+
+118
+00:12:37,006 --> 00:12:38,090
+<i>Vamos, sente-se.</i>
+
+119
+00:12:42,887 --> 00:12:43,971
+<i>Quem é você?</i>
+
+120
+00:12:54,064 --> 00:12:55,816
+<i>O meu nome é Dra. Ventress.</i>
+
+121
+00:12:56,942 --> 00:12:58,194
+<i>Eu sou psicóloga.</i>
+
+122
+00:12:58,861 --> 00:13:01,030
+<i>Por que estou falando com uma psicóloga?</i>
+
+123
+00:13:03,616 --> 00:13:05,075
+<i>Estou num hospital psiquiátrico?</i>
+
+124
+00:13:05,409 --> 00:13:07,203
+<i>-Não.</i>
+<i>-E então?</i>
+
+125
+00:13:07,870 --> 00:13:08,871
+<i>Onde estou?</i>
+
+126
+00:13:10,164 --> 00:13:11,540
+<i>Onde está o meu marido?</i>
+
+127
+00:13:12,249 --> 00:13:15,002
+<i>Você serviu no exército por sete anos.</i>
+
+128
+00:13:16,337 --> 00:13:18,839
+<i>Sou professora da Univ. Johns Hopkins.</i>
+
+129
+00:13:19,048 --> 00:13:21,425
+<i>Quero saber o que estou fazendo aqui.</i>
+
+130
+00:13:21,509 --> 00:13:26,055
+<i>Sua área de pesquisa é o ciclo de vida</i>
+<i>programado geneticamente de uma célula.</i>
+
+131
+00:13:26,138 --> 00:13:27,556
+<i>Onde está o meu marido?</i>
+
+132
+00:13:27,640 --> 00:13:30,601
+<i>É, quero falar sobre o Sgt. Kane.</i>
+
+133
+00:13:32,102 --> 00:13:33,979
+<i>Quando ele voltou para casa?</i>
+
+134
+00:13:36,732 --> 00:13:39,944
+<i>-Quero um advogado.</i>
+<i>-Não pode ter um advogado.</i>
+
+135
+00:13:44,824 --> 00:13:46,534
+<i>Ele explicou como voltou?</i>
+
+136
+00:13:48,452 --> 00:13:51,121
+<i>-Não.</i>
+<i>-Ele entrou em contato com você</i>
+
+137
+00:13:51,205 --> 00:13:52,289
+<i>enquanto estava fora?</i>
+
+138
+00:13:52,873 --> 00:13:53,749
+<i>Não.</i>
+
+139
+00:13:55,125 --> 00:13:57,878
+<i>O que ele falou da missão quando voltou?</i>
+
+140
+00:13:59,046 --> 00:14:00,798
+<i>-Nada.</i>
+<i>-E antes de partir?</i>
+
+141
+00:14:01,298 --> 00:14:03,884
+<i>Ele mencionou aonde ia, o que ia fazer?</i>
+
+142
+00:14:03,968 --> 00:14:05,761
+<i>Ele não disse, não perguntei.</i>
+
+143
+00:14:05,845 --> 00:14:10,558
+<i>Mas frequentemente pediu informações</i>
+<i>para o comandante da unidade dele.</i>
+
+144
+00:14:11,934 --> 00:14:14,478
+<i>Até seis meses atrás e, então, parou.</i>
+
+145
+00:14:16,772 --> 00:14:19,275
+<i>Por quê? Pensou que ele estava morto?</i>
+
+146
+00:14:19,692 --> 00:14:21,193
+<i>Hora de virar a página?</i>
+
+147
+00:14:22,278 --> 00:14:24,488
+<i>Não é fácil virar a página.</i>
+
+148
+00:14:26,448 --> 00:14:27,408
+<i>Não virei.</i>
+
+149
+00:14:34,915 --> 00:14:38,377
+<i>Não vou mais responder perguntas.</i>
+<i>É a sua vez.</i>
+
+150
+00:14:39,503 --> 00:14:40,921
+<i>O seu marido está aqui.</i>
+
+151
+00:14:42,965 --> 00:14:44,258
+<i>Está muito doente.</i>
+
+152
+00:14:44,341 --> 00:14:45,384
+<i>Como assim?</i>
+
+153
+00:14:45,467 --> 00:14:47,177
+<i>Falência múltipla dos órgãos.</i>
+
+154
+00:14:48,929 --> 00:14:50,431
+<i>Forte hemorragia interna.</i>
+
+155
+00:14:51,473 --> 00:14:55,102
+<i>Ele deve ter sido exposto</i>
+<i>a algum tipo de radiação,</i>
+
+156
+00:14:55,728 --> 00:14:57,354
+<i>a algum tipo de vírus.</i>
+
+157
+00:14:57,897 --> 00:15:00,232
+<i>Tem que me dizer onde ele estava,</i>
+<i>o que fazia.</i>
+
+158
+00:15:03,485 --> 00:15:05,362
+<i>Eu poderia ajudá-lo.</i>
+
+159
+00:15:50,032 --> 00:15:51,367
+<i>Um evento religioso.</i>
+
+160
+00:15:52,451 --> 00:15:54,578
+<i>Um evento extraterrestre.</i>
+
+161
+00:15:55,663 --> 00:15:57,164
+<i>Outra dimensão.</i>
+
+162
+00:15:57,957 --> 00:15:59,667
+<i>Temos muitas teorias.</i>
+
+163
+00:16:00,084 --> 00:16:01,752
+<i>Poucos fatos.</i>
+
+164
+00:16:02,336 --> 00:16:04,463
+<i>Começou há cerca de três anos.</i>
+
+165
+00:16:04,755 --> 00:16:08,550
+<i>O Parque Nacional Blackwater informou</i>
+<i>que um farol estava cercado</i>
+
+166
+00:16:08,634 --> 00:16:11,303
+<i>por algo que denominaram "o brilho".</i>
+
+167
+00:16:11,971 --> 00:16:15,516
+<i>Um dos guardas foi investigar.</i>
+
+168
+00:16:16,767 --> 00:16:17,601
+<i>Jamais voltou.</i>
+
+169
+00:16:18,852 --> 00:16:20,396
+<i>O caso foi abafado.</i>
+
+170
+00:16:20,813 --> 00:16:23,440
+<i>Desde então,</i>
+<i>abordamos por terra, por mar,</i>
+
+171
+00:16:23,524 --> 00:16:27,403
+<i>enviamos drones, animais</i>
+<i>e equipes de pessoas.</i>
+
+172
+00:16:27,820 --> 00:16:29,279
+<i>Mas nada volta.</i>
+
+173
+00:16:30,197 --> 00:16:32,950
+<i>E o limite está ficando maior,</i>
+<i>se expandindo.</i>
+
+174
+00:16:33,033 --> 00:16:35,744
+<i>Até agora comeu pantanais pouco habitados,</i>
+
+175
+00:16:35,828 --> 00:16:40,290
+<i>que, você sabe, evacuamos </i>
+<i>com o pretexto de um acidente químico,</i>
+
+176
+00:16:40,374 --> 00:16:43,043
+<i>mas... isso não vai durar</i>
+<i>muito mais tempo.</i>
+
+177
+00:16:43,919 --> 00:16:48,841
+<i>Em alguns meses, a área terá crescido</i>
+<i>até onde estamos, agora.</i>
+
+178
+00:16:51,385 --> 00:16:54,138
+<i>E daí dominará cidades...</i>
+
+179
+00:16:54,972 --> 00:16:56,181
+<i>estados...</i>
+
+180
+00:16:57,975 --> 00:16:59,184
+<i>e assim por diante.</i>
+
+181
+00:17:01,437 --> 00:17:03,188
+<i>Você disse que nada volta.</i>
+
+182
+00:17:04,398 --> 00:17:05,858
+<i>Mas algo voltou.</i>
+
+183
+00:17:07,943 --> 00:17:08,777
+<i>Sim.</i>
+
+184
+00:17:17,536 --> 00:17:18,620
+<i>Ele está morrendo.</i>
+
+185
+00:17:20,748 --> 00:17:21,582
+<i>Sim.</i>
+
+186
+00:17:24,668 --> 00:17:28,088
+<i>Precisamos chegar a um acordo </i>
+<i>sobre o que fazer com você.</i>
+
+187
+00:17:28,422 --> 00:17:30,257
+<i>Não vai me deixar ir para casa?</i>
+
+188
+00:17:34,094 --> 00:17:36,555
+<i>É isso que quer? Ir para casa?</i>
+
+189
+00:17:40,976 --> 00:17:41,810
+<i>Não.</i>
+
+190
+00:17:42,978 --> 00:17:44,313
+<i>Quero ficar com ele.</i>
+
+191
+00:18:03,624 --> 00:18:05,125
+<i>Não está falando comigo.</i>
+
+192
+00:18:07,044 --> 00:18:08,003
+<i>Desculpa.</i>
+
+193
+00:18:09,630 --> 00:18:10,631
+<i>Saí do ar.</i>
+
+194
+00:18:12,174 --> 00:18:13,926
+<i>Está pensando na próxima missão?</i>
+
+195
+00:18:16,512 --> 00:18:17,346
+<i>Não.</i>
+
+196
+00:18:18,639 --> 00:18:20,349
+<i>Só estava olhando para a lua.</i>
+
+197
+00:18:22,976 --> 00:18:25,771
+<i>É sempre estranho vê-la na luz do dia.</i>
+
+198
+00:18:26,313 --> 00:18:28,065
+<i>Como se Deus tivesse cometido um erro.</i>
+
+199
+00:18:28,315 --> 00:18:29,775
+<i>Deixado a luz do corredor acesa.</i>
+
+200
+00:18:29,858 --> 00:18:31,985
+<i>Deus não cometeu erros. Isso é...</i>
+
+201
+00:18:32,611 --> 00:18:34,822
+<i>fundamental para ser Deus.</i>
+
+202
+00:18:36,990 --> 00:18:38,367
+<i>Tenho certeza de que cometeu.</i>
+
+203
+00:18:39,284 --> 00:18:41,411
+<i>Sabe que Ele está ouvindo, não é?</i>
+
+204
+00:18:43,372 --> 00:18:44,540
+<i>Se pegar uma célula,</i>
+
+205
+00:18:44,623 --> 00:18:47,417
+<i>quebrar o limite de Hayflick,</i>
+<i>pode evitar a senescência.</i>
+
+206
+00:18:48,919 --> 00:18:51,130
+<i>Eu ia falar exatamente a mesma coisa.</i>
+
+207
+00:18:51,213 --> 00:18:54,299
+<i>Então a célula não envelhece,</i>
+<i>se torna imortal.</i>
+
+208
+00:18:54,383 --> 00:18:55,592
+<i>Se divide, não morre.</i>
+
+209
+00:18:58,595 --> 00:19:02,933
+<i>Vemos o envelhecimento como um processo</i>
+<i>natural, mas é uma falha na genética.</i>
+
+210
+00:19:05,144 --> 00:19:07,771
+<i>Fico muito excitado</i>
+<i>quando você dá uma de superior.</i>
+
+211
+00:19:07,855 --> 00:19:10,858
+<i>Sem a falha genética,</i>
+<i>eu ficaria assim para sempre.</i>
+
+212
+00:19:11,316 --> 00:19:14,069
+<i>Tudo bem, isso pode ser um erro.</i>
+
+213
+00:19:20,200 --> 00:19:22,411
+<i>Não me disse para onde vai dessa vez.</i>
+
+214
+00:19:24,371 --> 00:19:27,457
+<i>Eu sei que tem algo</i>
+<i>de estranho nessa missão.</i>
+
+215
+00:19:31,044 --> 00:19:32,171
+<i>Por quê?</i>
+
+216
+00:19:33,589 --> 00:19:36,842
+<i>O silêncio dela fala mais alto</i>
+<i>do que nunca.</i>
+
+217
+00:19:39,136 --> 00:19:41,763
+<i>Estou à procura de uma pista.</i>
+
+218
+00:19:46,268 --> 00:19:47,269
+<i>Então...</i>
+
+219
+00:19:51,899 --> 00:19:53,984
+<i>Estaremos no mesmo hemisfério.</i>
+
+220
+00:19:55,694 --> 00:19:56,778
+<i>O que isso me diz?</i>
+
+221
+00:19:58,947 --> 00:20:01,617
+<i>Que se for lá fora e olhar para o céu...</i>
+
+222
+00:20:03,368 --> 00:20:04,995
+<i>veremos as mesmas estrelas.</i>
+
+223
+00:20:05,078 --> 00:20:07,456
+<i>-Puta merda.</i>
+<i>-O quê?</i>
+
+224
+00:20:07,539 --> 00:20:09,166
+<i>-Está brincando?</i>
+<i>-O quê?</i>
+
+225
+00:20:09,249 --> 00:20:11,877
+<i>Acha que é o que faço</i>
+<i>quando está viajando?</i>
+
+226
+00:20:12,336 --> 00:20:15,047
+<i>-O quê?</i>
+<i>-Acha que fico no jardim,</i>
+
+227
+00:20:15,130 --> 00:20:17,341
+<i>sofrendo, olhando para o céu?</i>
+
+228
+00:20:18,592 --> 00:20:20,677
+<i>-Cala a boca. Certo.</i>
+<i>-Ah, de pensar</i>
+
+229
+00:20:20,761 --> 00:20:22,596
+<i>que meu amado Kane</i>
+
+230
+00:20:22,679 --> 00:20:25,390
+<i>está olhando para a mesma lua.</i>
+
+231
+00:20:25,849 --> 00:20:26,975
+<i>Pare.</i>
+
+232
+00:20:27,059 --> 00:20:30,562
+<i>Ah, meu distante amigo celestial...</i>
+
+233
+00:20:30,938 --> 00:20:32,773
+<i>Não.</i>
+
+234
+00:20:32,981 --> 00:20:35,400
+<i>...por favor, cuide do meu bravo soldado.</i>
+
+235
+00:20:35,484 --> 00:20:37,402
+<i>Jesus. Quer saber?</i>
+<i>Você é desrespeitosa,</i>
+
+236
+00:20:37,486 --> 00:20:40,197
+<i>sério, não só com seus ex-colegas</i>
+<i>do exército,</i>
+
+237
+00:20:40,280 --> 00:20:42,407
+<i>-mas com o presidente.</i>
+<i>-Esqueceu da bandeira.</i>
+
+238
+00:20:42,491 --> 00:20:45,285
+<i>Ah, eu vou falar da bandeira.</i>
+
+239
+00:20:45,369 --> 00:20:46,411
+<i>Ah, meu herói.</i>
+
+240
+00:20:46,495 --> 00:20:48,205
+<i>-Vá se ferrar.</i>
+<i>-Tudo bem.</i>
+
+241
+00:20:58,590 --> 00:21:01,802
+<i>Ela está sozinha.</i>
+<i>Não acha que devemos fazer amigos?</i>
+
+242
+00:21:01,885 --> 00:21:04,721
+<i>-Você deve, obviamente.</i>
+<i>-Tudo bem, eu vou lá.</i>
+
+243
+00:21:11,228 --> 00:21:13,647
+<i>-Estou atrapalhando?</i>
+<i>-De maneira nenhuma.</i>
+
+244
+00:21:14,982 --> 00:21:15,899
+<i>Legal.</i>
+
+245
+00:21:16,817 --> 00:21:18,944
+<i>Sempre parece estar sozinha. É...</i>
+
+246
+00:21:20,779 --> 00:21:24,574
+<i>Acho que deve se sentir estranha</i>
+<i>ou desconfortável.</i>
+
+247
+00:21:26,285 --> 00:21:27,661
+<i>Um pouco, eu acho.</i>
+
+248
+00:21:28,870 --> 00:21:31,498
+<i>Não se sinta. Sério.</i>
+
+249
+00:21:32,749 --> 00:21:36,461
+<i>Aqui as pessoas dormem </i>
+<i>na posição fetal balbuciando.</i>
+
+250
+00:21:37,462 --> 00:21:38,588
+<i>É bizarro, sabe?</i>
+
+251
+00:21:40,841 --> 00:21:42,676
+<i>-Sou Anya.</i>
+<i>-Lena.</i>
+
+252
+00:21:43,093 --> 00:21:44,970
+<i>-É um prazer conhecê-la.</i>
+<i>-Igualmente.</i>
+
+253
+00:21:46,221 --> 00:21:48,015
+<i>Venha conhecer a minha equipe.</i>
+
+254
+00:21:48,390 --> 00:21:50,058
+<i>Venha fazer amigos. Venha.</i>
+
+255
+00:21:51,852 --> 00:21:54,062
+<i>Moças, essa é a Lena.</i>
+
+256
+00:21:54,938 --> 00:21:56,273
+<i>-Oi. Prazer.</i>
+<i>-Oi. Prazer.</i>
+
+257
+00:21:56,356 --> 00:21:59,192
+<i>Essa é Cassie Sheppard</i>
+<i>e essa é Josie Radek.</i>
+
+258
+00:21:59,276 --> 00:22:00,986
+<i>-Oi. É um prazer.</i>
+<i>-Oi.</i>
+
+259
+00:22:01,069 --> 00:22:02,154
+<i>Quer se sentar?</i>
+
+260
+00:22:02,779 --> 00:22:03,780
+<i>Obrigada.</i>
+
+261
+00:22:03,864 --> 00:22:07,159
+<i>-Então, primeiro dia no Comando Sul.</i>
+<i>-É.</i>
+
+262
+00:22:08,869 --> 00:22:10,162
+<i>-Obrigada.</i>
+<i>-De nada.</i>
+
+263
+00:22:11,288 --> 00:22:12,539
+<i>Estão aqui faz tempo?</i>
+
+264
+00:22:14,249 --> 00:22:15,625
+<i>Sim, desde o começo.</i>
+
+265
+00:22:15,709 --> 00:22:17,085
+<i>Sou geomorfologista.</i>
+
+266
+00:22:17,169 --> 00:22:20,380
+<i>Testo os campos magnéticos</i>
+<i>ao redor da fronteira,</i>
+
+267
+00:22:20,464 --> 00:22:23,633
+<i>que é como usar confete</i>
+<i>para testar um furacão.</i>
+
+268
+00:22:24,676 --> 00:22:27,721
+<i>E eu estou aqui há dez meses.</i>
+
+269
+00:22:28,638 --> 00:22:30,974
+<i>Dez meses. Paramédica de Chicago.</i>
+
+270
+00:22:31,058 --> 00:22:33,310
+<i>Tentei entrar para uma ONG,</i>
+<i>minha ficha identificada</i>
+
+271
+00:22:33,393 --> 00:22:34,603
+<i>e o Comando Sul me contratou.</i>
+
+272
+00:22:35,020 --> 00:22:35,854
+<i>Só dois meses.</i>
+
+273
+00:22:36,188 --> 00:22:39,483
+<i>Sou física. Vim direto</i>
+<i>do pós-doutorado em Cambridge.</i>
+
+274
+00:22:40,275 --> 00:22:41,568
+<i>Ela é muito inteligente.</i>
+
+275
+00:22:42,277 --> 00:22:43,820
+<i>Qual é a sua história, Lena?</i>
+
+276
+00:22:44,696 --> 00:22:46,740
+<i>Sou da Johns Hopkins, bióloga.</i>
+
+277
+00:22:46,823 --> 00:22:48,492
+<i>-Aí está.</i>
+<i>-Bióloga?</i>
+
+278
+00:22:48,575 --> 00:22:50,118
+<i>-Disse que era inteligente.</i>
+<i>-O quê?</i>
+
+279
+00:22:50,202 --> 00:22:53,455
+<i>Apostamos qual era a sua profissão</i>
+<i>e Josie disse bióloga, claro.</i>
+
+280
+00:22:55,916 --> 00:22:58,502
+<i>-Achei que era policial.</i>
+<i>-Achei que era solteira.</i>
+
+281
+00:22:58,585 --> 00:23:01,254
+<i>Credo. Tem que dar em cima</i>
+<i>de todo mundo o tempo todo?</i>
+
+282
+00:23:01,338 --> 00:23:02,923
+<i>Foda-se. Devido às circunstâncias,</i>
+
+283
+00:23:03,006 --> 00:23:05,342
+<i>acho que posso tentar a sorte</i>
+<i>mais algumas vezes.</i>
+
+284
+00:23:06,426 --> 00:23:07,969
+<i>Devido às circunstâncias?</i>
+
+285
+00:23:10,764 --> 00:23:13,892
+<i>É, por mais que pareça loucura...</i>
+
+286
+00:23:14,309 --> 00:23:15,894
+<i>Que seja loucura.</i>
+
+287
+00:23:18,772 --> 00:23:20,649
+<i>...estamos indo para lá.</i>
+
+288
+00:23:25,821 --> 00:23:28,365
+<i>-Irão para o Brilho?</i>
+<i>-Em seis dias.</i>
+
+289
+00:23:30,534 --> 00:23:32,077
+<i>-Vocês três?</i>
+<i>-Quatro.</i>
+
+290
+00:23:32,828 --> 00:23:33,662
+<i>Ventress.</i>
+
+291
+00:23:35,330 --> 00:23:36,415
+<i>A Dra. Ventress?</i>
+
+292
+00:23:37,124 --> 00:23:38,083
+<i>Líder de equipe.</i>
+
+293
+00:23:39,459 --> 00:23:41,336
+<i>-Somente mulheres.</i>
+<i>-Cientistas.</i>
+
+294
+00:23:41,420 --> 00:23:44,381
+<i>As equipes anteriores eram,</i>
+<i>na maioria, militares, então...</i>
+
+295
+00:23:46,425 --> 00:23:47,759
+<i>O que acham que houve?</i>
+
+296
+00:23:48,260 --> 00:23:51,930
+<i>Bom, tem duas teorias sobre</i>
+<i>o que deu errado no Brilho.</i>
+
+297
+00:23:52,097 --> 00:23:54,182
+<i>Primeira, algo os matou.</i>
+
+298
+00:23:54,266 --> 00:23:56,852
+<i>Segunda, eles enlouqueceram e se mataram.</i>
+
+299
+00:23:58,603 --> 00:24:00,772
+<i>Teve um militar que saiu.</i>
+
+300
+00:24:02,357 --> 00:24:03,191
+<i>Sargento.</i>
+
+301
+00:24:03,275 --> 00:24:05,485
+<i>Mas soube do estado</i>
+<i>em que se encontrava.</i>
+
+302
+00:24:53,700 --> 00:24:54,659
+<i>Kane...</i>
+
+303
+00:24:57,621 --> 00:24:59,414
+<i>eu sei por que você entrou.</i>
+
+304
+00:25:08,715 --> 00:25:10,008
+<i>Eu sinto muito.</i>
+
+305
+00:25:12,802 --> 00:25:14,679
+<i>E eu sei o que tenho que fazer.</i>
+
+306
+00:25:18,683 --> 00:25:22,020
+<i>Então não contou para elas</i>
+<i>sobre sua ligação com o Sgt. Kane?</i>
+
+307
+00:25:22,604 --> 00:25:25,273
+<i>Pensei que complicaria as coisas.</i>
+
+308
+00:25:26,107 --> 00:25:26,942
+<i>O quê?</i>
+
+309
+00:25:28,026 --> 00:25:29,903
+<i>O que complicaria?</i>
+
+310
+00:25:36,159 --> 00:25:38,495
+<i>Por que você vai ao Brilho?</i>
+
+311
+00:25:40,413 --> 00:25:43,166
+<i>O objetivo da missão é alcançar</i>
+
+312
+00:25:43,250 --> 00:25:46,169
+<i>a suposta fonte do Brilho, o farol,</i>
+
+313
+00:25:46,253 --> 00:25:50,215
+<i>entrar, coletar dados e voltar.</i>
+
+314
+00:25:51,967 --> 00:25:54,886
+<i>Mas acho que esse não é</i>
+<i>o objetivo da sua missão.</i>
+
+315
+00:26:00,058 --> 00:26:00,892
+<i>Não.</i>
+
+316
+00:26:09,401 --> 00:26:13,113
+<i>Faz tempo que observo esse fenômeno.</i>
+
+317
+00:26:13,488 --> 00:26:16,032
+<i>Faço o perfil dos voluntários.</i>
+
+318
+00:26:17,075 --> 00:26:19,202
+<i>Escolho as equipes.</i>
+
+319
+00:26:21,454 --> 00:26:24,499
+<i>Elas entram, eu observo.</i>
+
+320
+00:26:27,002 --> 00:26:29,004
+<i>Eu observo se aproximar.</i>
+
+321
+00:26:32,132 --> 00:26:34,217
+<i>Só dá para fazer isso por um tempo.</i>
+
+322
+00:26:36,303 --> 00:26:38,138
+<i>Mas precisa saber o que tem lá?</i>
+
+323
+00:26:40,056 --> 00:26:42,058
+<i>Sim.</i>
+
+324
+00:26:44,853 --> 00:26:46,104
+<i>Eu também.</i>
+
+325
+00:26:47,355 --> 00:26:49,107
+<i>Então é isso que complica.</i>
+
+326
+00:26:50,650 --> 00:26:51,901
+<i>Você quer ir conosco.</i>
+
+327
+00:26:53,403 --> 00:26:55,405
+<i>Não posso fazer nada por ele aqui.</i>
+
+328
+00:26:57,532 --> 00:26:58,992
+<i>Soldada-cientista.</i>
+
+329
+00:27:00,243 --> 00:27:01,703
+<i>Você pode lutar.</i>
+
+330
+00:27:02,829 --> 00:27:03,955
+<i>Pode aprender.</i>
+
+331
+00:27:06,458 --> 00:27:07,667
+<i>Pode salvá-lo.</i>
+
+332
+00:27:14,007 --> 00:27:16,259
+<i>Você pediu para fazer parte da missão.</i>
+
+333
+00:27:16,676 --> 00:27:18,887
+<i>Sabia que as outras missões fracassaram</i>
+
+334
+00:27:18,970 --> 00:27:21,931
+<i>e que o único sobrevivente mal sobrevivia.</i>
+
+335
+00:27:22,682 --> 00:27:24,184
+<i>Foi uma escolha corajosa.</i>
+
+336
+00:27:25,018 --> 00:27:26,102
+<i>Eu devia isso a ele.</i>
+
+337
+00:27:28,480 --> 00:27:30,607
+<i>Só estou tentando entender</i>
+<i>o que a motivou.</i>
+
+338
+00:27:34,152 --> 00:27:35,153
+<i>Eu devia isso a ele...</i>
+
+339
+00:27:38,323 --> 00:27:39,199
+<i>então eu fui.</i>
+
+340
+00:29:02,615 --> 00:29:08,121
+<i>O BRILHO</i>
+
+341
+00:30:24,155 --> 00:30:25,907
+<i>...daí teremos comida de verdade.</i>
+
+342
+00:30:26,825 --> 00:30:27,700
+<i>Espaguete.</i>
+
+343
+00:30:27,784 --> 00:30:29,786
+<i>O biscoito vegetal da Radek.</i>
+
+344
+00:30:32,247 --> 00:30:34,249
+<i>Ah, bolo de milho. Nada mal.</i>
+
+345
+00:30:34,874 --> 00:30:36,251
+<i>Finalmente acordou.</i>
+
+346
+00:30:36,876 --> 00:30:39,838
+<i>Só um segundo.</i>
+<i>Estou um pouco desorientada.</i>
+
+347
+00:30:40,213 --> 00:30:41,589
+<i>Bem-vinda ao clube.</i>
+
+348
+00:30:41,673 --> 00:30:44,217
+<i>Não se lembra de montar</i>
+<i>o acampamento, não é?</i>
+
+349
+00:30:46,302 --> 00:30:50,139
+<i>Não me lembro do que houve depois</i>
+<i>de passarmos da linha de árvores.</i>
+
+350
+00:30:51,474 --> 00:30:52,308
+<i>Ninguém se lembra.</i>
+
+351
+00:30:53,434 --> 00:30:55,103
+<i>E fizemos o inventário de alimentos,</i>
+
+352
+00:30:55,186 --> 00:30:57,146
+<i>pela redução parece que estamos aqui</i>
+
+353
+00:30:57,230 --> 00:30:59,941
+<i>por, pelo menos, três ou quatro dias.</i>
+
+354
+00:31:01,568 --> 00:31:02,485
+<i>Não é possível.</i>
+
+355
+00:31:03,319 --> 00:31:04,445
+<i>Foi o que eu disse.</i>
+
+356
+00:31:06,531 --> 00:31:11,202
+<i>Pessoal, estou verificando meus aparelhos</i>
+<i>de comunicação e navegação.</i>
+
+357
+00:31:11,286 --> 00:31:15,123
+<i>Eles ligam, não têm problemas eletrônicos</i>
+<i>e a câmera está funcionando,</i>
+
+358
+00:31:15,206 --> 00:31:19,085
+<i>mas tudo que manda sinal</i>
+<i>para fora do Brilho... não funciona.</i>
+
+359
+00:31:19,752 --> 00:31:22,672
+<i>Apesar de termos</i>
+<i>uns 20 satélites acima de nós,</i>
+
+360
+00:31:22,755 --> 00:31:24,966
+<i>e... olhem só.</i>
+
+361
+00:31:28,094 --> 00:31:32,473
+<i>Então não temos bússola,</i>
+<i>comunicação, coordenadas...</i>
+
+362
+00:31:33,224 --> 00:31:34,475
+<i>nem ponto de referência.</i>
+
+363
+00:31:34,559 --> 00:31:36,561
+<i>Sabemos que estamos no parque.</i>
+
+364
+00:31:36,644 --> 00:31:37,896
+<i>O oceano fica ao sul,</i>
+
+365
+00:31:37,979 --> 00:31:41,774
+<i>podemos seguir a costa até chegarmos</i>
+<i>no perímetro do muro. Certo?</i>
+
+366
+00:31:43,067 --> 00:31:45,653
+<i>-Como sabemos que é sul?</i>
+<i>-Vamos, você sabe.</i>
+
+367
+00:31:46,487 --> 00:31:47,739
+<i>Relógio de sol.</i>
+
+368
+00:31:49,198 --> 00:31:52,285
+<i>Divida a diferença entre</i>
+<i>o ponteiro das horas e 12, sul.</i>
+
+369
+00:31:52,785 --> 00:31:53,620
+<i>Ótimo.</i>
+
+370
+00:31:53,995 --> 00:31:55,121
+<i>Estamos orientadas.</i>
+
+371
+00:31:55,872 --> 00:31:59,375
+<i>Não esperávamos que os aparelhos</i>
+<i>de comunicação funcionassem, não é?</i>
+
+372
+00:31:59,459 --> 00:32:01,336
+<i>Foram três anos de expedição</i>
+
+373
+00:32:01,419 --> 00:32:03,713
+<i>e três anos de silêncio absoluto.</i>
+
+374
+00:32:04,213 --> 00:32:06,215
+<i>Vamos arrumar as coisas e ir.</i>
+
+375
+00:32:06,674 --> 00:32:08,384
+<i>Já perdemos boa parte do dia.</i>
+
+376
+00:33:09,529 --> 00:33:12,323
+<i>Vou ver o que é. Nos tirar deste pântano.</i>
+
+377
+00:33:12,407 --> 00:33:13,241
+<i>Tudo bem.</i>
+
+378
+00:33:14,075 --> 00:33:15,493
+<i>Vamos ver a cabana.</i>
+
+379
+00:33:34,137 --> 00:33:36,431
+<i>Parece que vai ter um casamento.</i>
+
+380
+00:33:39,100 --> 00:33:41,477
+<i>Elas são muito estranhas.</i>
+
+381
+00:33:42,270 --> 00:33:43,104
+<i>Por quê?</i>
+
+382
+00:33:45,231 --> 00:33:47,108
+<i>Elas são muito diferentes.</i>
+
+383
+00:33:47,316 --> 00:33:51,112
+<i>Elas nem parecem ser da mesma espécie.</i>
+
+384
+00:33:52,030 --> 00:33:54,198
+<i>Mas nascem do mesmo galho...</i>
+
+385
+00:33:55,408 --> 00:33:57,493
+<i>então têm que ser da mesma espécie.</i>
+
+386
+00:33:58,161 --> 00:33:59,620
+<i>É a mesma planta.</i>
+
+387
+00:34:00,705 --> 00:34:03,249
+<i>É como se estivessem</i>
+<i>numa mutação contínua.</i>
+
+388
+00:34:03,583 --> 00:34:04,667
+<i>Uma patologia?</i>
+
+389
+00:34:05,918 --> 00:34:06,794
+<i>Bem...</i>
+
+390
+00:34:08,755 --> 00:34:12,091
+<i>poderia ser patologia</i>
+<i>se fosse em um humano.</i>
+
+391
+00:34:22,935 --> 00:34:23,936
+<i>Que sorte!</i>
+
+392
+00:34:25,146 --> 00:34:25,980
+<i>Sheppard.</i>
+
+393
+00:34:26,689 --> 00:34:27,732
+<i>Meio de transporte.</i>
+
+394
+00:34:32,862 --> 00:34:34,363
+<i>Tem algo interessante aí?</i>
+
+395
+00:34:34,447 --> 00:34:37,492
+<i>Não. Está abandonada faz tempo,</i>
+<i>talvez até antes...</i>
+
+396
+00:34:39,160 --> 00:34:40,036
+<i>Radek?</i>
+
+397
+00:34:41,746 --> 00:34:42,955
+<i>Radek!</i>
+
+398
+00:34:43,539 --> 00:34:44,415
+<i>Radek?</i>
+
+399
+00:34:44,499 --> 00:34:45,666
+<i>Pegou a minha mochila!</i>
+
+400
+00:34:46,334 --> 00:34:47,251
+<i>Radek!</i>
+
+401
+00:34:50,588 --> 00:34:52,256
+<i>Algo pegou a minha mochila!</i>
+
+402
+00:34:53,007 --> 00:34:53,966
+<i>Não!</i>
+
+403
+00:34:54,675 --> 00:34:55,718
+<i>Pegou a minha mochila!</i>
+
+404
+00:35:00,723 --> 00:35:02,850
+<i>-Me ajuda!</i>
+<i>-O que está havendo?</i>
+
+405
+00:35:04,393 --> 00:35:05,770
+<i>Segure-se no meu ombro!</i>
+
+406
+00:35:09,065 --> 00:35:10,483
+<i>Pegue-a. Vamos.</i>
+
+407
+00:35:11,984 --> 00:35:13,069
+<i>Eu a peguei.</i>
+
+408
+00:35:13,277 --> 00:35:14,821
+<i>Certo? Você a pegou?</i>
+
+409
+00:35:16,364 --> 00:35:17,406
+<i>Você está bem.</i>
+
+410
+00:35:26,207 --> 00:35:28,668
+<i>Vamos sentar. Ajudem com a mochila.</i>
+
+411
+00:35:28,751 --> 00:35:29,877
+<i>Certo, respire.</i>
+
+412
+00:35:29,961 --> 00:35:31,337
+<i>Tudo bem. Você está bem.</i>
+
+413
+00:35:31,420 --> 00:35:33,464
+<i>-O que aconteceu?</i>
+<i>-Algo na água.</i>
+
+414
+00:35:44,934 --> 00:35:46,769
+<i>Levante-se. Vá.</i>
+
+415
+00:35:56,612 --> 00:35:58,322
+<i>-Merda.</i>
+<i>-Para trás.</i>
+
+416
+00:36:03,244 --> 00:36:05,663
+<i>Sheppard, cuidado!</i>
+
+417
+00:36:09,792 --> 00:36:11,002
+<i>Puta merda!</i>
+
+418
+00:36:55,421 --> 00:36:57,673
+<i>É exatamente igual às flores.</i>
+
+419
+00:36:59,008 --> 00:37:00,134
+<i>Olhem os dentes.</i>
+
+420
+00:37:01,552 --> 00:37:03,179
+<i>Fileiras concêntricas.</i>
+
+421
+00:37:04,013 --> 00:37:06,933
+<i>Alguma coisa está cavando</i>
+<i>pra valer no fundo genético.</i>
+
+422
+00:37:07,516 --> 00:37:09,060
+<i>Tubarões têm dentes assim, não?</i>
+
+423
+00:37:09,143 --> 00:37:11,145
+<i>Acha que é um cruzamento?</i>
+
+424
+00:37:12,521 --> 00:37:15,608
+<i>Não dá para cruzar</i>
+<i>duas espécies diferentes.</i>
+
+425
+00:37:19,237 --> 00:37:20,905
+<i>Lena, está ficando pesado.</i>
+
+426
+00:37:30,456 --> 00:37:33,000
+<i>As mutações eram sutis no começo.</i>
+
+427
+00:37:34,126 --> 00:37:37,505
+<i>Mais extremas perto do farol.</i>
+
+428
+00:37:39,048 --> 00:37:41,050
+<i>Deturpações de formas.</i>
+
+429
+00:37:42,343 --> 00:37:44,178
+<i>Duplicatas de formas.</i>
+
+430
+00:37:44,262 --> 00:37:45,263
+<i>Duplicatas?</i>
+
+431
+00:37:48,849 --> 00:37:49,767
+<i>Ecos.</i>
+
+432
+00:37:54,272 --> 00:37:57,066
+<i>É possível que tenham sido alucinações?</i>
+
+433
+00:37:59,068 --> 00:38:01,070
+<i>Eu também pensei nisso.</i>
+
+434
+00:38:02,405 --> 00:38:04,615
+<i>Mas todas víamos a mesma coisa.</i>
+
+435
+00:38:06,951 --> 00:38:08,661
+<i>Era como um sonho.</i>
+
+436
+00:38:10,204 --> 00:38:11,163
+<i>Pesadelos.</i>
+
+437
+00:38:12,123 --> 00:38:13,249
+<i>Nem sempre.</i>
+
+438
+00:38:15,543 --> 00:38:17,628
+<i>Às vezes era lindo.</i>
+
+439
+00:38:46,115 --> 00:38:46,991
+<i>Você se feriu?</i>
+
+440
+00:38:47,658 --> 00:38:49,201
+<i>É só um machucado.</i>
+
+441
+00:38:50,661 --> 00:38:52,788
+<i>Devo ter me machucado com o jacaré.</i>
+
+442
+00:38:59,128 --> 00:39:01,172
+<i>Então, onde aprendeu a atirar?</i>
+
+443
+00:39:03,299 --> 00:39:06,218
+<i>Fui das forças armadas antes</i>
+<i>de ser professora acadêmica.</i>
+
+444
+00:39:07,011 --> 00:39:07,845
+<i>Fuzileira?</i>
+
+445
+00:39:08,304 --> 00:39:09,930
+<i>Exército. Sete anos.</i>
+
+446
+00:39:10,598 --> 00:39:12,683
+<i>Agora parece que foi em outra vida.</i>
+
+447
+00:39:15,311 --> 00:39:17,813
+<i>Todas as outras vidas parecem</i>
+<i>que foram em outra vida.</i>
+
+448
+00:39:18,397 --> 00:39:20,441
+<i>Éramos jovens, eu era casada.</i>
+
+449
+00:39:21,817 --> 00:39:25,237
+<i>O que tem em volta do pescoço?</i>
+<i>Um marido ou um filho?</i>
+
+450
+00:39:25,738 --> 00:39:26,655
+<i>Marido.</i>
+
+451
+00:39:28,199 --> 00:39:30,201
+<i>Ele também era do exército. Foi...</i>
+
+452
+00:39:30,826 --> 00:39:32,036
+<i>como nos conhecemos.</i>
+
+453
+00:39:33,204 --> 00:39:34,580
+<i>"Era" do exército? Ele saiu?</i>
+
+454
+00:39:36,290 --> 00:39:37,291
+<i>Morto em combate.</i>
+
+455
+00:39:39,377 --> 00:39:40,753
+<i>Eu sinto muito.</i>
+
+456
+00:39:42,296 --> 00:39:43,714
+<i>Tinha que haver alguma coisa.</i>
+
+457
+00:39:44,590 --> 00:39:45,591
+<i>O que quer dizer?</i>
+
+458
+00:39:48,135 --> 00:39:50,638
+<i>Ser voluntário para... isto.</i>
+
+459
+00:39:50,721 --> 00:39:54,975
+<i>Não é algo que se faz se sua vida está...</i>
+<i>em perfeita harmonia.</i>
+
+460
+00:39:57,269 --> 00:39:58,979
+<i>Todas temos problemas.</i>
+
+461
+00:39:59,939 --> 00:40:01,065
+<i>Anya está sóbria...</i>
+
+462
+00:40:01,857 --> 00:40:03,067
+<i>portanto viciada.</i>
+
+463
+00:40:03,484 --> 00:40:05,528
+<i>Josie usa mangas compridas</i>
+
+464
+00:40:05,611 --> 00:40:08,322
+<i>porque não quer que vejam</i>
+<i>as cicatrizes nos antebraços.</i>
+
+465
+00:40:08,406 --> 00:40:10,074
+<i>Ela tentou se matar?</i>
+
+466
+00:40:10,658 --> 00:40:13,494
+<i>Não, acho que o contrário,</i>
+<i>tentava se sentir viva.</i>
+
+467
+00:40:16,664 --> 00:40:17,498
+<i>Ventress?</i>
+
+468
+00:40:18,666 --> 00:40:21,252
+<i>É. Pelo que se sabe...</i>
+
+469
+00:40:22,128 --> 00:40:26,090
+<i>não tem amigos, família, parceiro,</i>
+<i>nem filhos.</i>
+
+470
+00:40:27,216 --> 00:40:29,427
+<i>Não tem imunidade.</i>
+
+471
+00:40:31,887 --> 00:40:32,721
+<i>Você?</i>
+
+472
+00:40:33,681 --> 00:40:35,099
+<i>Também perdi uma pessoa.</i>
+
+473
+00:40:37,893 --> 00:40:39,270
+<i>Mas não um marido...</i>
+
+474
+00:40:39,937 --> 00:40:42,189
+<i>uma filha. Leucemia.</i>
+
+475
+00:40:43,399 --> 00:40:44,567
+<i>Meu Deus, sinto muito.</i>
+
+476
+00:40:45,317 --> 00:40:47,278
+<i>De certa maneira, são dois lutos.</i>
+
+477
+00:40:49,155 --> 00:40:51,657
+<i>Minha... linda filha...</i>
+
+478
+00:40:53,868 --> 00:40:55,202
+<i>e a pessoa que eu era.</i>
+
+479
+00:40:57,455 --> 00:40:58,831
+<i>Achamos uma coisa.</i>
+
+480
+00:41:09,967 --> 00:41:11,969
+<i>FORTE AMAYA</i>
+
+481
+00:41:18,392 --> 00:41:21,479
+<i>NÃO ULTRAPASSE</i>
+<i>INVASORES SERÃO PROCESSADOS</i>
+
+482
+00:41:30,362 --> 00:41:32,781
+<i>Esta era a sede do Comando Sul.</i>
+
+483
+00:41:34,325 --> 00:41:35,951
+<i>Antes de o Brilho engoli-la.</i>
+
+484
+00:41:39,622 --> 00:41:40,873
+<i>Mais mutações.</i>
+
+485
+00:41:41,999 --> 00:41:43,125
+<i>Estão por tudo.</i>
+
+486
+00:41:44,168 --> 00:41:45,211
+<i>Malignas.</i>
+
+487
+00:41:46,003 --> 00:41:47,463
+<i>Como tumores.</i>
+
+488
+00:41:49,340 --> 00:41:50,883
+<i>É o antigo refeitório?</i>
+
+489
+00:41:52,134 --> 00:41:54,470
+<i>Vamos nos alojar ali. Vamos.</i>
+
+490
+00:42:30,005 --> 00:42:33,425
+<i>Tem camas e mochilas.</i>
+<i>Acha que tem gente aqui?</i>
+
+491
+00:42:34,051 --> 00:42:35,052
+<i>Tinha.</i>
+
+492
+00:42:36,178 --> 00:42:37,846
+<i>É, vou falar no passado.</i>
+
+493
+00:42:58,909 --> 00:42:59,743
+<i>Credo.</i>
+
+494
+00:43:06,166 --> 00:43:07,459
+<i>Ah, merda.</i>
+
+495
+00:43:17,177 --> 00:43:19,680
+<i>Esta merda é pesada. Não posso carregá-la.</i>
+
+496
+00:43:36,572 --> 00:43:37,656
+<i>Lena, o que foi?</i>
+
+497
+00:43:39,825 --> 00:43:41,076
+<i>Gente, olhem isso.</i>
+
+498
+00:43:43,329 --> 00:43:45,497
+<i>"Peyton, Mayer...</i>
+
+499
+00:43:47,458 --> 00:43:49,793
+<i>Kane, Shelley."</i>
+
+500
+00:43:50,377 --> 00:43:52,546
+<i>São os soldados da última expedição.</i>
+
+501
+00:43:52,880 --> 00:43:55,758
+<i>Parece que usavam este lugar</i>
+<i>como base de operação.</i>
+
+502
+00:43:55,841 --> 00:43:57,635
+<i>Por que alguns nomes estão riscados?</i>
+
+503
+00:43:57,718 --> 00:43:59,386
+<i>Não tiremos conclusões precipitadas.</i>
+
+504
+00:43:59,470 --> 00:44:01,680
+<i>-Sei lá, talvez devêssemos.</i>
+<i>-É.</i>
+
+505
+00:44:02,306 --> 00:44:04,558
+<i>-É a planta baixa da base, não é?</i>
+<i>-Sim.</i>
+
+506
+00:44:04,642 --> 00:44:07,102
+<i>-Aqui é o refeitório.</i>
+<i>-Esse é o prédio em que estamos?</i>
+
+507
+00:44:07,186 --> 00:44:10,230
+<i>Acho que os horários ao lado dos nomes</i>
+<i>são a rotação de vigia...</i>
+
+508
+00:44:10,814 --> 00:44:12,691
+<i>vigiavam o perímetro,</i>
+<i>deveríamos fazer o mesmo.</i>
+
+509
+00:44:12,775 --> 00:44:14,360
+<i>-Entendido.</i>
+<i>-É.</i>
+
+510
+00:44:27,706 --> 00:44:29,875
+<i>Isto pode nos dizer alguma coisa.</i>
+
+511
+00:44:33,504 --> 00:44:35,422
+<i>"Para aqueles que seguem."</i>
+
+512
+00:44:36,799 --> 00:44:39,301
+<i>Acho que é para nós.</i>
+
+513
+00:44:48,185 --> 00:44:49,269
+<i>Cartão de memória.</i>
+
+514
+00:44:52,064 --> 00:44:53,857
+<i>Acho que vai dar para vermos.</i>
+
+515
+00:45:01,448 --> 00:45:02,658
+<i>Está funcionando.</i>
+
+516
+00:45:07,496 --> 00:45:08,622
+<i>Certo?</i>
+
+517
+00:45:45,868 --> 00:45:46,869
+<i>Merda.</i>
+
+518
+00:45:47,703 --> 00:45:49,079
+<i>O que ele está fazendo?</i>
+
+519
+00:45:57,254 --> 00:45:59,798
+<i>Pare.</i>
+
+520
+00:46:01,300 --> 00:46:02,968
+<i>Segure-o.</i>
+
+521
+00:46:06,930 --> 00:46:07,806
+<i>Pronto.</i>
+
+522
+00:46:24,990 --> 00:46:27,701
+<i>Sabemos o que houve com o último grupo,</i>
+<i>ficaram loucos.</i>
+
+523
+00:46:29,119 --> 00:46:31,163
+<i>Tinha algo vivo dentro daquele homem.</i>
+
+524
+00:46:31,246 --> 00:46:33,332
+<i>-Não, era um truque de luz.</i>
+<i>-O quê?</i>
+
+525
+00:46:33,415 --> 00:46:36,376
+<i>Fui paramédica por dez anos.</i>
+<i>Lidei com corpos esfolados.</i>
+
+526
+00:46:36,460 --> 00:46:39,338
+<i>Vemos merdas estranhas.</i>
+<i>Era um truque de luz.</i>
+
+527
+00:46:39,421 --> 00:46:42,090
+<i>-As tripas dele se mexiam.</i>
+<i>-Não, era choque, Radek.</i>
+
+528
+00:46:42,174 --> 00:46:44,176
+<i>-Foi uma reação ao choque.</i>
+<i>-Assista de novo.</i>
+
+529
+00:46:44,259 --> 00:46:46,011
+<i>Não vou assistir de novo!</i>
+
+530
+00:46:46,094 --> 00:46:46,929
+<i>Não era intestino.</i>
+
+531
+00:46:47,012 --> 00:46:49,890
+<i>-Era um bicho ou...</i>
+<i>-Então assista você, Sheppard!</i>
+
+532
+00:46:54,520 --> 00:46:55,479
+<i>Aonde vai?</i>
+
+533
+00:47:09,868 --> 00:47:11,620
+<i>-Aonde ela foi?</i>
+<i>-Ali na frente.</i>
+
+534
+00:48:08,594 --> 00:48:09,428
+<i>O que é?</i>
+
+535
+00:48:10,762 --> 00:48:11,889
+<i>Não sei.</i>
+
+536
+00:48:29,823 --> 00:48:32,409
+<i>-Não quero passar a noite aqui.</i>
+<i>-Não temos escolha.</i>
+
+537
+00:48:34,620 --> 00:48:36,246
+<i>-Por favor.</i>
+<i>-Vamos.</i>
+
+538
+00:48:36,330 --> 00:48:39,207
+<i>Já está ficando tarde</i>
+<i>para seguirmos em frente.</i>
+
+539
+00:48:39,791 --> 00:48:41,043
+<i>Vamos lá fora.</i>
+
+540
+00:49:23,251 --> 00:49:24,878
+<i>Que querido.</i>
+
+541
+00:49:27,506 --> 00:49:29,341
+<i>Por que não está aqui?</i>
+
+542
+00:49:31,551 --> 00:49:33,178
+<i>Tenho que partir mais cedo.</i>
+
+543
+00:49:33,887 --> 00:49:34,763
+<i>O quê?</i>
+
+544
+00:49:36,056 --> 00:49:37,391
+<i>Espere, hoje?</i>
+
+545
+00:49:39,017 --> 00:49:41,228
+<i>-Agora.</i>
+<i>-Ai, merda.</i>
+
+546
+00:49:41,603 --> 00:49:43,146
+<i>Mas tínhamos planejado nosso dia.</i>
+
+547
+00:49:43,230 --> 00:49:45,273
+<i>-Íamos para o campo...</i>
+<i>-Não posso.</i>
+
+548
+00:49:46,191 --> 00:49:48,193
+<i>-Não podemos.</i>
+<i>-Pode, pelo menos...</i>
+
+549
+00:49:53,907 --> 00:49:55,117
+<i>Agora quer dizer já.</i>
+
+550
+00:50:03,333 --> 00:50:04,251
+<i>O que foi?</i>
+
+551
+00:50:11,675 --> 00:50:12,592
+<i>Eu...</i>
+
+552
+00:50:16,638 --> 00:50:17,514
+<i>te amo...</i>
+
+553
+00:50:18,682 --> 00:50:19,599
+<i>Lena.</i>
+
+554
+00:50:22,019 --> 00:50:23,020
+<i>Eu também te amo.</i>
+
+555
+00:51:23,330 --> 00:51:24,706
+<i>O mistério se desvenda.</i>
+
+556
+00:51:26,792 --> 00:51:28,460
+<i>Algo se desvenda.</i>
+
+557
+00:51:29,628 --> 00:51:31,129
+<i>Acho que você está bem.</i>
+
+558
+00:51:33,548 --> 00:51:35,050
+<i>Josie está descansando.</i>
+
+559
+00:51:36,343 --> 00:51:38,220
+<i>Com a ajuda de sedativos.</i>
+
+560
+00:51:38,303 --> 00:51:40,722
+<i>E você? Dormiu um pouco?</i>
+
+561
+00:51:41,598 --> 00:51:42,432
+<i>Um pouco.</i>
+
+562
+00:51:43,558 --> 00:51:45,644
+<i>Estão tão assustada quanto a Josie.</i>
+
+563
+00:51:47,312 --> 00:51:48,980
+<i>Só estou disfarçando melhor.</i>
+
+564
+00:51:52,984 --> 00:51:54,111
+<i>Vou ver a Ventress.</i>
+
+565
+00:52:28,854 --> 00:52:31,231
+<i>Por que está acordada?</i>
+<i>Só tinha que vir às 3h.</i>
+
+566
+00:52:31,314 --> 00:52:33,233
+<i>Não vou mais dormir.</i>
+
+567
+00:52:36,653 --> 00:52:37,737
+<i>Venha ver isto.</i>
+
+568
+00:52:41,283 --> 00:52:42,617
+<i>Aqui é onde estamos...</i>
+
+569
+00:52:44,327 --> 00:52:45,745
+<i>e aqui fica o farol.</i>
+
+570
+00:52:45,829 --> 00:52:48,165
+<i>A sudoeste fica o Vilarejo Perdu.</i>
+
+571
+00:52:48,248 --> 00:52:50,959
+<i>É uma pequena comunidade </i>
+<i>que evacuamos há dois anos.</i>
+
+572
+00:52:51,751 --> 00:52:54,254
+<i>Acho que devemos ir para lá amanhã</i>
+
+573
+00:52:54,921 --> 00:52:57,674
+<i>e ir para a costa na manhã seguinte.</i>
+
+574
+00:53:01,136 --> 00:53:01,970
+<i>Ótimo.</i>
+
+575
+00:53:07,434 --> 00:53:08,435
+<i>Você está bem?</i>
+
+576
+00:53:14,733 --> 00:53:16,151
+<i>Eu ia dizer, quando...</i>
+
+577
+00:53:16,860 --> 00:53:19,321
+<i>não contou à equipe </i>
+<i>sobre a sua ligação com Kane,</i>
+
+578
+00:53:19,404 --> 00:53:21,364
+<i>não sabia se era uma boa ideia.</i>
+
+579
+00:53:23,658 --> 00:53:25,952
+<i>Mas depois de ver aquelas imagens...</i>
+
+580
+00:53:30,999 --> 00:53:33,126
+<i>Não sei como teriam reagido.</i>
+
+581
+00:53:36,254 --> 00:53:38,423
+<i>Por que meu marido faria</i>
+<i>uma missão suicida?</i>
+
+582
+00:53:39,007 --> 00:53:40,508
+<i>É o que acha que estamos fazendo?</i>
+
+583
+00:53:41,593 --> 00:53:43,803
+<i>-Nos suicidando?</i>
+<i>-Deve ter analisado seu perfil,</i>
+
+584
+00:53:43,887 --> 00:53:45,180
+<i>e o avaliado.</i>
+
+585
+00:53:46,514 --> 00:53:48,183
+<i>Ele deve ter dito alguma coisa.</i>
+
+586
+00:53:49,726 --> 00:53:51,895
+<i>Então me pergunta como psicóloga.</i>
+
+587
+00:53:56,024 --> 00:53:57,692
+<i>Então como psicóloga...</i>
+
+588
+00:53:58,777 --> 00:54:02,280
+<i>eu diria que está confundindo suicídio</i>
+<i>com autodestruição.</i>
+
+589
+00:54:04,491 --> 00:54:07,035
+<i>Quase nenhum de nós comete suicídio...</i>
+
+590
+00:54:07,953 --> 00:54:10,205
+<i>e quase todos nos autodestruímos.</i>
+
+591
+00:54:10,330 --> 00:54:13,083
+<i>De alguma maneira,</i>
+<i>em algum momento de nossas vidas.</i>
+
+592
+00:54:14,292 --> 00:54:16,920
+<i>Nós bebemos ou fumamos.</i>
+
+593
+00:54:17,379 --> 00:54:19,506
+<i>Desestabilizamos um bom trabalho.</i>
+
+594
+00:54:21,841 --> 00:54:23,176
+<i>Ou um casamento feliz.</i>
+
+595
+00:54:28,473 --> 00:54:30,475
+<i>Essas não são decisões, são...</i>
+
+596
+00:54:31,393 --> 00:54:32,560
+<i>São impulsos.</i>
+
+597
+00:54:32,852 --> 00:54:37,107
+<i>Na verdade... você deve ter</i>
+<i>mais competência para explicar isso</i>
+
+598
+00:54:37,190 --> 00:54:38,650
+<i>-do que eu.</i>
+<i>-Como assim?</i>
+
+599
+00:54:40,110 --> 00:54:41,236
+<i>Você é bióloga.</i>
+
+600
+00:54:42,487 --> 00:54:45,031
+<i>Autodestruição não está codificada</i>
+<i>dentro de nós?</i>
+
+601
+00:54:45,448 --> 00:54:46,908
+<i>Programada em cada célula?</i>
+
+602
+00:54:49,953 --> 00:54:50,870
+<i>O que foi isso?</i>
+
+603
+00:54:51,413 --> 00:54:52,330
+<i>Não sei.</i>
+
+604
+00:55:04,384 --> 00:55:05,302
+<i>Josie, acorde.</i>
+
+605
+00:55:05,385 --> 00:55:07,762
+<i>Acorde, Josie, vamos.</i>
+<i>Algo está acontecendo.</i>
+
+606
+00:55:08,179 --> 00:55:10,015
+<i>-Viu alguma coisa?</i>
+<i>-Não.</i>
+
+607
+00:55:10,515 --> 00:55:12,100
+<i>-O que foi?</i>
+<i>-Ouvi um barulho.</i>
+
+608
+00:55:14,311 --> 00:55:15,395
+<i>O que foi?</i>
+
+609
+00:55:17,647 --> 00:55:19,024
+<i>Algo passou pela cerca.</i>
+
+610
+00:55:20,025 --> 00:55:22,819
+<i>-Passou pela cerca?</i>
+<i>-Está aberta como um zíper.</i>
+
+611
+00:55:28,366 --> 00:55:30,368
+<i>-Não consigo ver nada.</i>
+<i>-Nem eu.</i>
+
+612
+00:55:33,288 --> 00:55:34,122
+<i>-Sheppard!</i>
+<i>-Nossa!</i>
+
+613
+00:55:34,956 --> 00:55:35,832
+<i>Sheppard!</i>
+
+614
+00:55:35,915 --> 00:55:36,750
+<i>Merda!</i>
+
+615
+00:55:36,833 --> 00:55:38,001
+<i>-O que está havendo?</i>
+<i>-O que foi?</i>
+
+616
+00:55:38,084 --> 00:55:39,836
+<i>Sheppard estava do meu lado</i>
+<i>e algo a pegou.</i>
+
+617
+00:55:40,920 --> 00:55:43,048
+<i>Ah, merda!</i>
+
+618
+00:55:43,131 --> 00:55:44,841
+<i>-Sheppard!</i>
+<i>-Ah, merda!</i>
+
+619
+00:55:52,015 --> 00:55:52,891
+<i>Merda!</i>
+
+620
+00:55:56,603 --> 00:55:57,812
+<i>Sheppard!</i>
+
+621
+00:56:02,359 --> 00:56:03,485
+<i>Sheppard!</i>
+
+622
+00:56:33,181 --> 00:56:34,224
+<i>Temos que voltar.</i>
+
+623
+00:56:34,808 --> 00:56:37,060
+<i>-Temos que voltar agora.</i>
+<i>-Ela está certa.</i>
+
+624
+00:56:37,310 --> 00:56:39,062
+<i>Certa? Em que sentido?</i>
+
+625
+00:56:39,145 --> 00:56:40,355
+<i>Fomos atacadas duas vezes.</i>
+
+626
+00:56:41,314 --> 00:56:42,732
+<i>Já perdemos uma pessoa.</i>
+
+627
+00:56:42,816 --> 00:56:45,944
+<i>Temos provas que a equipe anterior</i>
+<i>ficou louca e se retalhou.</i>
+
+628
+00:56:46,027 --> 00:56:48,446
+<i>Não sei se ela pode estar mais certa.</i>
+
+629
+00:56:48,530 --> 00:56:50,281
+<i>Não chegamos no farol.</i>
+
+630
+00:56:50,365 --> 00:56:53,159
+<i>Ainda não entendemos a causa</i>
+<i>nem a natureza do Brilho.</i>
+
+631
+00:56:53,243 --> 00:56:55,703
+<i>Temos dados, observações, fotos.</i>
+<i>Ela tem várias imagens.</i>
+
+632
+00:56:55,787 --> 00:56:59,499
+<i>Tudo isso torna o fenômeno</i>
+<i>menos explicável, não mais.</i>
+
+633
+00:57:01,960 --> 00:57:03,753
+<i>Eu vou chegar ao farol,</i>
+
+634
+00:57:03,837 --> 00:57:05,755
+<i>e não me importo de ir sozinha.</i>
+
+635
+00:57:05,839 --> 00:57:10,093
+<i>Vocês só precisam decidir...</i>
+<i>se vêm comigo ou não.</i>
+
+636
+00:57:22,147 --> 00:57:24,315
+<i>Parece que ela nem notou</i>
+<i>que Sheppard morreu.</i>
+
+637
+00:57:24,399 --> 00:57:25,567
+<i>Ela é louca.</i>
+
+638
+00:57:25,775 --> 00:57:27,569
+<i>Ela é uma velha louca.</i>
+
+639
+00:57:28,820 --> 00:57:31,197
+<i>E valeu pela ajuda, Lena.</i>
+
+640
+00:57:32,490 --> 00:57:34,742
+<i>-Não sabia que tinha dois lados.</i>
+<i>-Tem.</i>
+
+641
+00:57:35,201 --> 00:57:36,661
+<i>Tem dois lados.</i>
+
+642
+00:57:37,370 --> 00:57:40,790
+<i>Então concordo com você.</i>
+<i>Deveríamos voltar.</i>
+
+643
+00:57:41,082 --> 00:57:43,126
+<i>Ótimo. Pronto. Certo?</i>
+
+644
+00:57:43,209 --> 00:57:45,503
+<i>-Então nós três...</i>
+<i>-Espera aí.</i>
+
+645
+00:57:45,587 --> 00:57:46,963
+<i>Devemos voltar, sim.</i>
+
+646
+00:57:47,046 --> 00:57:49,507
+<i>Mas levou seis dias para chegar aqui.</i>
+
+647
+00:57:49,591 --> 00:57:51,926
+<i>E a costa fica a dois dias daqui.</i>
+
+648
+00:57:52,927 --> 00:57:55,346
+<i>E como Sheppard disse...</i>
+
+649
+00:57:56,181 --> 00:57:59,726
+<i>quando chegarmos à costa, podemos</i>
+<i>segui-la até atingirmos o perímetro.</i>
+
+650
+00:58:00,059 --> 00:58:01,936
+<i>Vamos sair indo ainda mais a fundo?</i>
+
+651
+00:58:02,687 --> 00:58:04,689
+<i>-É, se quiser.</i>
+<i>-Quiser?</i>
+
+652
+00:58:05,064 --> 00:58:07,692
+<i>Não, não quero.</i>
+
+653
+00:58:11,988 --> 00:58:14,782
+<i>Não é uma tática para nos levar</i>
+<i>ao farol, não é?</i>
+
+654
+00:58:14,866 --> 00:58:17,202
+<i>Isso não tem a ver com o farol, certo?</i>
+
+655
+00:58:17,994 --> 00:58:20,788
+<i>Acho que a costa é a melhor saída.</i>
+
+656
+00:58:39,265 --> 00:58:40,308
+<i>Mentiu para elas.</i>
+
+657
+00:58:43,603 --> 00:58:45,855
+<i>Não sabia o que aconteceria</i>
+<i>se voltássemos.</i>
+
+658
+00:58:46,314 --> 00:58:48,775
+<i>Por que seria mais seguro que prosseguir?</i>
+
+659
+00:58:50,193 --> 00:58:53,863
+<i>Não sabia, mas tomou a decisão</i>
+<i>de continuar como se soubesse.</i>
+
+660
+00:58:53,947 --> 00:58:55,281
+<i>Ventress tomou a decisão.</i>
+
+661
+00:58:55,365 --> 00:58:58,159
+<i>Ventress tinha câncer,</i>
+<i>ela jamais voltaria.</i>
+
+662
+00:58:59,536 --> 00:59:00,870
+<i>Sabia que ela estava doente.</i>
+
+663
+00:59:01,746 --> 00:59:02,664
+<i>Eu supus.</i>
+
+664
+00:59:06,084 --> 00:59:07,710
+<i>E você queria continuar.</i>
+
+665
+00:59:09,963 --> 00:59:10,797
+<i>Sim.</i>
+
+666
+00:59:12,173 --> 00:59:13,007
+<i>Queria.</i>
+
+667
+01:00:00,346 --> 01:00:01,889
+<i>Ela ainda pode estar viva.</i>
+
+668
+01:00:01,973 --> 01:00:03,433
+<i>É pouco provável.</i>
+
+669
+01:00:05,268 --> 01:00:06,269
+<i>Precisamos saber.</i>
+
+670
+01:00:09,772 --> 01:00:10,773
+<i>Vá.</i>
+
+671
+01:00:11,190 --> 01:00:12,025
+<i>Tudo bem.</i>
+
+672
+01:00:14,819 --> 01:00:15,695
+<i>Vou com você.</i>
+
+673
+01:00:17,280 --> 01:00:18,197
+<i>Eu vou sozinha.</i>
+
+674
+01:02:47,513 --> 01:02:48,473
+<i>Você a encontrou?</i>
+
+675
+01:02:51,559 --> 01:02:52,477
+<i>Ela está morta.</i>
+
+676
+01:03:17,502 --> 01:03:18,419
+<i>Você está bem?</i>
+
+677
+01:03:19,420 --> 01:03:22,632
+<i>Sim. Só... não enche a porra do meu saco.</i>
+
+678
+01:03:49,075 --> 01:03:50,493
+<i>Vamos acampar aqui hoje.</i>
+
+679
+01:03:51,786 --> 01:03:54,121
+<i>É uma caminhada de duas horas até a costa.</i>
+
+680
+01:04:32,159 --> 01:04:33,744
+<i>Cresceram assim.</i>
+
+681
+01:04:34,787 --> 01:04:36,247
+<i>Não faz sentido.</i>
+
+682
+01:04:37,081 --> 01:04:38,249
+<i>Eu acho que faz.</i>
+
+683
+01:04:47,425 --> 01:04:51,137
+<i>Primeiro achei que as ondas de rádio</i>
+<i>eram bloqueadas pelo Brilho,</i>
+
+684
+01:04:51,220 --> 01:04:55,349
+<i>por isso que ninguém conseguia</i>
+<i>se comunicar com a base ou com GPS,</i>
+
+685
+01:04:55,433 --> 01:05:00,688
+<i>mas as ondas de luz não estão bloqueadas,</i>
+<i>estão refratadas e...</i>
+
+686
+01:05:05,484 --> 01:05:07,278
+<i>é a mesma coisa com os rádios.</i>
+
+687
+01:05:08,070 --> 01:05:09,488
+<i>Os sinais não sumiram.</i>
+
+688
+01:05:10,072 --> 01:05:11,407
+<i>Estão alterados.</i>
+
+689
+01:05:17,496 --> 01:05:18,998
+<i>Essa folha na sua mão...</i>
+
+690
+01:05:20,291 --> 01:05:22,168
+<i>sabe o que aconteceria</i>
+<i>se as sequenciar?</i>
+
+691
+01:05:23,044 --> 01:05:25,379
+<i>-O quê?</i>
+<i>-Genes Hox humanos.</i>
+
+692
+01:05:25,463 --> 01:05:27,006
+<i>O que Hox quer dizer?</i>
+
+693
+01:05:27,882 --> 01:05:31,928
+<i>Eles são os genes que definem</i>
+<i>o plano anatômico, a estrutura física.</i>
+
+694
+01:05:34,096 --> 01:05:36,349
+<i>E as plantas têm plano anatômico humano.</i>
+
+695
+01:05:36,432 --> 01:05:39,268
+<i>Braços ligados aos ombros.</i>
+
+696
+01:05:39,352 --> 01:05:40,770
+<i>Pernas aos quadris.</i>
+
+697
+01:05:40,853 --> 01:05:42,480
+<i>É literalmente impossível.</i>
+
+698
+01:05:42,563 --> 01:05:44,482
+<i>É literalmente o que está acontecendo.</i>
+
+699
+01:05:47,109 --> 01:05:50,655
+<i>O Brilho é um prisma, mas refrata tudo.</i>
+
+700
+01:05:51,530 --> 01:05:54,367
+<i>Não só luz e ondas de rádio.</i>
+
+701
+01:05:54,450 --> 01:05:57,620
+<i>DNA animal, DNA vegetal...</i>
+
+702
+01:05:58,871 --> 01:06:00,039
+<i>todos os DNAs.</i>
+
+703
+01:06:00,414 --> 01:06:01,958
+<i>Como assim "todos os DNAs"?</i>
+
+704
+01:06:02,875 --> 01:06:04,627
+<i>Ela está falando do nosso DNA.</i>
+
+705
+01:06:07,630 --> 01:06:09,006
+<i>Ela está falando de nós.</i>
+
+706
+01:07:15,656 --> 01:07:18,159
+<i>Muito bem... Acho que isto é um quarto.</i>
+
+707
+01:07:19,618 --> 01:07:21,537
+<i>Vamos proteger as portas e as janelas.</i>
+
+708
+01:08:47,373 --> 01:08:48,999
+<i>Isto é um erro.</i>
+
+709
+01:08:59,051 --> 01:09:02,138
+<i>Fica mais tempo longe do seu marido</i>
+<i>do que com ele.</i>
+
+710
+01:09:03,764 --> 01:09:06,892
+<i>Não fala do seu trabalho para ele</i>
+<i>e ele não fala do dele para você.</i>
+
+711
+01:09:06,976 --> 01:09:10,980
+<i>E existe uma óbvia conexão física</i>
+<i>e intelectual entre nós.</i>
+
+712
+01:09:11,063 --> 01:09:11,939
+<i>Mencionei tudo?</i>
+
+713
+01:09:12,022 --> 01:09:14,984
+<i>-Esqueceu de mencionar sua esposa.</i>
+<i>-Amo minha esposa.</i>
+
+714
+01:09:17,319 --> 01:09:18,863
+<i>Ela não tem culpa de nada.</i>
+
+715
+01:09:27,413 --> 01:09:28,289
+<i>Vamos, Lena.</i>
+
+716
+01:09:29,999 --> 01:09:31,584
+<i>O que está havendo?</i>
+
+717
+01:09:33,627 --> 01:09:35,880
+<i>Acha que aconteceu alguma coisa</i>
+<i>com ele?</i>
+
+718
+01:09:41,093 --> 01:09:42,428
+<i>Ou acha que ele sabe?</i>
+
+719
+01:09:45,264 --> 01:09:46,307
+<i>É isso, não é?</i>
+
+720
+01:09:47,224 --> 01:09:49,852
+<i>Acha que ele descobriu que temos um caso.</i>
+
+721
+01:09:52,062 --> 01:09:53,105
+<i>Ele descobriu?</i>
+
+722
+01:09:54,398 --> 01:09:55,232
+<i>Sim.</i>
+
+723
+01:09:59,069 --> 01:09:59,945
+<i>Deve ir.</i>
+
+724
+01:10:02,406 --> 01:10:03,824
+<i>-Não, Lena...</i>
+<i>-Dan...</i>
+
+725
+01:10:04,825 --> 01:10:08,787
+<i>Não estou interessada em falar...</i>
+<i>nem em nada do que possa dizer.</i>
+
+726
+01:10:10,080 --> 01:10:11,582
+<i>Vista-se e saia daqui.</i>
+
+727
+01:10:14,335 --> 01:10:17,004
+<i>Sabe que não é a mim que odeia,</i>
+<i>é a si mesma.</i>
+
+728
+01:10:20,466 --> 01:10:22,009
+<i>Não, Dan, também odeio você.</i>
+
+729
+01:10:26,222 --> 01:10:28,098
+<i>Nunca mais vai acontecer.</i>
+
+730
+01:10:34,104 --> 01:10:35,606
+<i>Sua vadia mentirosa!</i>
+
+731
+01:10:36,982 --> 01:10:38,525
+<i>-O que está havendo?</i>
+<i>-Não.</i>
+
+732
+01:10:39,318 --> 01:10:42,071
+<i>Não pode fazer pergunta nenhuma. </i>
+<i>Só responde.</i>
+
+733
+01:11:11,809 --> 01:11:12,643
+<i>Irmão.</i>
+
+734
+01:11:15,020 --> 01:11:15,854
+<i>Namorado.</i>
+
+735
+01:11:17,982 --> 01:11:18,816
+<i>Marido.</i>
+
+736
+01:11:22,903 --> 01:11:24,113
+<i>Marido.</i>
+
+737
+01:11:26,282 --> 01:11:27,658
+<i>Por que não nos disse?</i>
+
+738
+01:11:30,661 --> 01:11:31,787
+<i>Você sabia.</i>
+
+739
+01:11:32,579 --> 01:11:33,789
+<i>Obviamente.</i>
+
+740
+01:11:38,002 --> 01:11:39,086
+<i>Você sabia?</i>
+
+741
+01:11:49,096 --> 01:11:51,265
+<i>Há duas teorias </i>
+<i>sobre o que deu errado no Brilho.</i>
+
+742
+01:11:51,348 --> 01:11:52,975
+<i>Uma é que algo os matou.</i>
+
+743
+01:11:53,058 --> 01:11:56,895
+<i>A outra... é que ficaram loucos</i>
+<i>e se mataram.</i>
+
+744
+01:11:58,689 --> 01:12:00,899
+<i>Josie quase foi morta por um jacaré,</i>
+
+745
+01:12:00,983 --> 01:12:03,610
+<i>e Cass foi morta por um urso.</i>
+
+746
+01:12:06,030 --> 01:12:08,198
+<i>Então, sim, a primeira teoria faz sentido.</i>
+
+747
+01:12:11,452 --> 01:12:12,286
+<i>Mas...</i>
+
+748
+01:12:15,331 --> 01:12:17,082
+<i>eu não vi um urso.</i>
+
+749
+01:12:18,500 --> 01:12:19,626
+<i>E Josie também não.</i>
+
+750
+01:12:20,794 --> 01:12:22,921
+<i>Só Lena e Ventress viram o urso.</i>
+
+751
+01:12:23,422 --> 01:12:24,965
+<i>Então nada foi confirmado.</i>
+
+752
+01:12:25,049 --> 01:12:30,888
+<i>Tudo é baseado no que disseram.</i>
+<i>Tudo é baseado no que Lena disse.</i>
+
+753
+01:12:30,971 --> 01:12:32,681
+<i>E o que sabemos agora...</i>
+
+754
+01:12:34,183 --> 01:12:37,061
+<i>o que sabemos,</i>
+
+755
+01:12:37,394 --> 01:12:40,647
+<i>é que a Lena... é uma mentirosa.</i>
+
+756
+01:12:41,273 --> 01:12:42,775
+<i>Cala a boca!</i>
+
+757
+01:12:44,485 --> 01:12:48,155
+<i>Lena... você é uma mentirosa.</i>
+
+758
+01:12:51,158 --> 01:12:52,076
+<i>Você matou a Cass?</i>
+
+759
+01:12:54,995 --> 01:12:56,372
+<i>Você ficou louca?</i>
+
+760
+01:12:59,500 --> 01:13:02,419
+<i>Ou acho que fiquei louca</i>
+<i>e agora vamos nos matar?</i>
+
+761
+01:13:02,503 --> 01:13:03,879
+<i>Essa é a teoria número dois.</i>
+
+762
+01:13:09,676 --> 01:13:10,886
+<i>Meu Deus.</i>
+
+763
+01:13:15,432 --> 01:13:17,101
+<i>Quando olho para as minhas mãos...</i>
+
+764
+01:13:18,310 --> 01:13:19,728
+<i>e minhas impressões digitais...</i>
+
+765
+01:13:21,522 --> 01:13:22,564
+<i>Vejo que se mexem.</i>
+
+766
+01:13:27,903 --> 01:13:29,238
+<i>Não posso.</i>
+
+767
+01:13:30,114 --> 01:13:31,615
+<i>Se eu soltar você,</i>
+
+768
+01:13:31,949 --> 01:13:34,743
+<i>e você me amarrar a uma cadeira</i>
+<i>e me cortar...</i>
+
+769
+01:13:36,370 --> 01:13:39,957
+<i>minhas tripas vão se mexer</i>
+<i>com minhas impressões digitais?</i>
+
+770
+01:13:47,548 --> 01:13:51,218
+<i>Mas.. não sou eu</i>
+<i>que estou amarrada a uma cadeira.</i>
+
+771
+01:13:55,764 --> 01:13:56,598
+<i>Você que está.</i>
+
+772
+01:14:01,353 --> 01:14:03,313
+<i>Socorro!</i>
+
+773
+01:14:06,483 --> 01:14:07,734
+<i>Socorro!</i>
+
+774
+01:14:08,318 --> 01:14:09,278
+<i>Socorro!</i>
+
+775
+01:14:09,778 --> 01:14:11,321
+<i>Ah, Cass?</i>
+
+776
+01:14:14,324 --> 01:14:15,701
+<i>Disse que estava morta.</i>
+
+777
+01:14:16,994 --> 01:14:19,455
+<i>Cass, eu já vou!</i>
+
+778
+01:14:21,957 --> 01:14:22,875
+<i>Cass, é você?</i>
+
+779
+01:15:06,877 --> 01:15:11,840
+<i>Socorro!</i>
+
+780
+01:15:12,424 --> 01:15:15,010
+<i>Socorro!</i>
+
+781
+01:15:29,608 --> 01:15:30,651
+<i>Não reaja.</i>
+
+782
+01:15:38,283 --> 01:15:41,328
+<i>Socorro!</i>
+
+783
+01:16:07,646 --> 01:16:09,731
+<i>Socorro!</i>
+
+784
+01:16:35,007 --> 01:16:37,342
+<i>Não!</i>
+
+785
+01:17:42,491 --> 01:17:43,825
+<i>O que está fazendo?</i>
+
+786
+01:17:44,409 --> 01:17:46,203
+<i>-Vou embora.</i>
+<i>-Agora?</i>
+
+787
+01:17:48,664 --> 01:17:50,832
+<i>-Nem amanheceu.</i>
+<i>-Não posso esperar.</i>
+
+788
+01:17:51,625 --> 01:17:53,251
+<i>Estamos nos desintegrando.</i>
+
+789
+01:17:53,335 --> 01:17:55,420
+<i>Nossos corpos e nossas mentes. Não sente?</i>
+
+790
+01:17:57,130 --> 01:17:59,049
+<i>É como o início da demência.</i>
+
+791
+01:18:02,260 --> 01:18:03,762
+<i>Se eu não chegar no farol logo...</i>
+
+792
+01:18:04,554 --> 01:18:07,474
+<i>a pessoa que começou a jornada</i>
+<i>não será a mesma que terminará.</i>
+
+793
+01:18:08,350 --> 01:18:10,102
+<i>Quero ser a pessoa que termina.</i>
+
+794
+01:19:12,497 --> 01:19:13,874
+<i>Devemos ir, Josie.</i>
+
+795
+01:19:22,090 --> 01:19:24,509
+<i>Quanto tempo seu marido ficou no Brilho?</i>
+
+796
+01:19:26,219 --> 01:19:28,096
+<i>Não dá para saber exatamente.</i>
+
+797
+01:19:31,224 --> 01:19:33,143
+<i>Teoricamente, um ano.</i>
+
+798
+01:19:35,771 --> 01:19:38,940
+<i>É muito tempo para ficar lá dentro</i>
+<i>e sair intacto.</i>
+
+799
+01:19:39,733 --> 01:19:41,651
+<i>Acho que ele não ficou intacto.</i>
+
+800
+01:19:45,989 --> 01:19:46,907
+<i>Estou certa...</i>
+
+801
+01:19:48,366 --> 01:19:52,204
+<i>-sobre as refrações... não estou?</i>
+<i>-Está.</i>
+
+802
+01:19:52,829 --> 01:19:54,664
+<i>Examinei meu sangue ontem.</i>
+
+803
+01:19:57,501 --> 01:19:59,461
+<i>Está... dentro de mim.</i>
+
+804
+01:20:02,798 --> 01:20:05,008
+<i>Vai estar dentro de todas nós.</i>
+
+805
+01:20:11,223 --> 01:20:12,891
+<i>Foi muito estranho ouvir...</i>
+
+806
+01:20:13,767 --> 01:20:17,062
+<i>a voz da Sheppard na boca</i>
+<i>daquela criatura ontem.</i>
+
+807
+01:20:18,271 --> 01:20:21,483
+<i>Acho que enquanto ela morria,</i>
+<i>parte de sua mente se tornou...</i>
+
+808
+01:20:22,400 --> 01:20:24,986
+<i>parte da criatura que a estava matando.</i>
+
+809
+01:20:26,738 --> 01:20:29,407
+<i>Imagine morrer assustada e com dor,</i>
+
+810
+01:20:29,491 --> 01:20:32,744
+<i>e essa ser a única parte de você</i>
+<i>que sobrevive.</i>
+
+811
+01:20:34,204 --> 01:20:35,872
+<i>Eu não gostaria nada disso.</i>
+
+812
+01:20:56,685 --> 01:20:58,353
+<i>Ventress quer enfrentar.</i>
+
+813
+01:20:59,229 --> 01:21:00,480
+<i>Você quer lutar.</i>
+
+814
+01:21:02,315 --> 01:21:05,151
+<i>Mas acho que não quero nenhum dos dois.</i>
+
+815
+01:21:12,534 --> 01:21:13,368
+<i>Josie.</i>
+
+816
+01:21:21,209 --> 01:21:22,043
+<i>Josie.</i>
+
+817
+01:21:26,923 --> 01:21:27,757
+<i>Josie.</i>
+
+818
+01:21:54,117 --> 01:21:58,079
+<i>Uma por uma, todas morreram, menos você.</i>
+
+819
+01:22:00,290 --> 01:22:01,583
+<i>Como explica isso?</i>
+
+820
+01:22:05,712 --> 01:22:07,714
+<i>É algo que preciso explicar?</i>
+
+821
+01:22:08,632 --> 01:22:09,925
+<i>Sim.</i>
+
+822
+01:22:16,514 --> 01:22:17,766
+<i>Eu tinha que voltar.</i>
+
+823
+01:22:19,809 --> 01:22:21,561
+<i>Não sei se elas tinham.</i>
+
+824
+01:22:23,647 --> 01:22:28,193
+<i>O FAROL</i>
+
+825
+01:22:28,276 --> 01:22:31,571
+<i>A VIDA IMORTAL DE HENRIETTA LACKS</i>
+
+826
+01:27:37,418 --> 01:27:38,878
+<i>Pensei ser um homem.</i>
+
+827
+01:27:46,761 --> 01:27:47,929
+<i>Eu tinha uma vida.</i>
+
+828
+01:27:50,098 --> 01:27:51,557
+<i>Me chamavam de Kane.</i>
+
+829
+01:27:54,143 --> 01:27:55,603
+<i>E agora eu não sei.</i>
+
+830
+01:28:00,566 --> 01:28:02,443
+<i>Se eu não era Kane, o que era então?</i>
+
+831
+01:28:09,033 --> 01:28:09,909
+<i>Eu era você?</i>
+
+832
+01:28:13,913 --> 01:28:14,789
+<i>Você era eu?</i>
+
+833
+01:28:26,801 --> 01:28:28,261
+<i>A minha pele se mexe...</i>
+
+834
+01:28:29,595 --> 01:28:30,638
+<i>como líquido.</i>
+
+835
+01:28:34,350 --> 01:28:35,560
+<i>A minha mente está...</i>
+
+836
+01:28:38,021 --> 01:28:38,980
+<i>distante.</i>
+
+837
+01:28:40,023 --> 01:28:41,065
+<i>Eu não aguento.</i>
+
+838
+01:28:43,943 --> 01:28:44,986
+<i>Eu não aguento.</i>
+
+839
+01:28:45,987 --> 01:28:46,946
+<i>Não aguento.</i>
+
+840
+01:28:52,410 --> 01:28:54,454
+<i>Já viu uma granada</i>
+<i>de fósforo branco detonar?</i>
+
+841
+01:28:56,706 --> 01:28:57,540
+<i>É brilhante.</i>
+
+842
+01:28:59,709 --> 01:29:00,918
+<i>Cubra seus olhos.</i>
+
+843
+01:29:02,879 --> 01:29:05,089
+<i>Se você sair daqui, encontre Lena.</i>
+
+844
+01:29:06,424 --> 01:29:07,342
+<i>Pode deixar.</i>
+
+845
+01:29:08,509 --> 01:29:09,344
+<i>Não.</i>
+
+846
+01:29:12,263 --> 01:29:14,390
+<i>Cinco, quatro...</i>
+
+847
+01:29:15,141 --> 01:29:17,268
+<i>três, dois...</i>
+
+848
+01:29:26,152 --> 01:29:27,195
+<i>Não.</i>
+
+849
+01:29:35,036 --> 01:29:36,287
+<i>Não.</i>
+
+850
+01:29:44,796 --> 01:29:45,630
+<i>Não.</i>
+
+851
+01:31:10,923 --> 01:31:13,092
+<i>É a última fase.</i>
+
+852
+01:31:14,969 --> 01:31:17,013
+<i>Se destruiu por completo.</i>
+
+853
+01:31:20,475 --> 01:31:23,519
+<i>Mente impenetrável...</i>
+
+854
+01:31:27,064 --> 01:31:29,192
+<i>e agora luz.</i>
+
+855
+01:31:29,984 --> 01:31:31,611
+<i>Agora mar.</i>
+
+856
+01:31:35,656 --> 01:31:36,866
+<i>Dra. Ventress?</i>
+
+857
+01:31:42,330 --> 01:31:43,247
+<i>Lena.</i>
+
+858
+01:31:51,005 --> 01:31:52,256
+<i>Nós conversamos.</i>
+
+859
+01:31:53,966 --> 01:31:55,426
+<i>O que foi que dissemos?</i>
+
+860
+01:32:01,140 --> 01:32:05,728
+<i>Que eu precisava saber</i>
+<i>o que havia dentro do farol.</i>
+
+861
+01:32:08,648 --> 01:32:09,941
+<i>O momento passou.</i>
+
+862
+01:32:13,903 --> 01:32:15,655
+<i>Agora está dentro de mim.</i>
+
+863
+01:32:17,073 --> 01:32:19,116
+<i>O que... está dentro de você?</i>
+
+864
+01:32:20,326 --> 01:32:21,702
+<i>Não é igual a nós.</i>
+
+865
+01:32:22,828 --> 01:32:24,664
+<i>É diferente de nós.</i>
+
+866
+01:32:27,917 --> 01:32:29,544
+<i>Não sei o que quer.</i>
+
+867
+01:32:30,294 --> 01:32:31,546
+<i>Ou se quer.</i>
+
+868
+01:32:32,630 --> 01:32:33,965
+<i>Mas vai crescer...</i>
+
+869
+01:32:34,549 --> 01:32:36,592
+<i>até tomar conta de tudo.</i>
+
+870
+01:32:39,554 --> 01:32:40,721
+<i>Nossos corpos e mentes</i>
+
+871
+01:32:40,805 --> 01:32:43,391
+<i>serão fragmentados</i>
+<i>em suas menores partes</i>
+
+872
+01:32:43,474 --> 01:32:46,936
+<i>até... não sobrar mais nada.</i>
+
+873
+01:32:51,566 --> 01:32:53,025
+<i>Aniquilação.</i>
+
+874
+01:44:12,204 --> 01:44:13,538
+<i>Então era alienígena.</i>
+
+875
+01:44:20,671 --> 01:44:22,214
+<i>Pode descrever como era?</i>
+
+876
+01:44:27,094 --> 01:44:28,262
+<i>Não.</i>
+
+877
+01:44:28,971 --> 01:44:30,681
+<i>Era a base de carbono ou...</i>
+
+878
+01:44:34,726 --> 01:44:35,560
+<i>Não sei.</i>
+
+879
+01:44:38,480 --> 01:44:39,731
+<i>O que queria?</i>
+
+880
+01:44:41,400 --> 01:44:43,402
+<i>Acho que não queria nada.</i>
+
+881
+01:44:43,860 --> 01:44:46,405
+<i>Mas... atacou você.</i>
+
+882
+01:44:47,322 --> 01:44:48,699
+<i>Me imitava.</i>
+
+883
+01:44:49,700 --> 01:44:50,784
+<i>Eu ataquei.</i>
+
+884
+01:44:52,411 --> 01:44:54,454
+<i>Nem sei se sabia que eu estava lá.</i>
+
+885
+01:44:54,538 --> 01:44:56,665
+<i>Veio aqui por algum motivo.</i>
+
+886
+01:44:57,541 --> 01:45:01,211
+<i>Estava mutando nosso ambiente,</i>
+<i>estava destruindo tudo.</i>
+
+887
+01:45:02,504 --> 01:45:04,506
+<i>Não estava destruindo.</i>
+
+888
+01:45:06,049 --> 01:45:08,051
+<i>Estava alterando tudo.</i>
+
+889
+01:45:08,885 --> 01:45:10,887
+<i>Estava criando algo novo.</i>
+
+890
+01:45:14,016 --> 01:45:14,975
+<i>Criando o quê?</i>
+
+891
+01:45:23,275 --> 01:45:24,192
+<i>Não sei.</i>
+
+892
+01:45:28,739 --> 01:45:31,450
+<i>Uma equipe chegou ao farol</i>
+<i>há algumas horas.</i>
+
+893
+01:45:32,659 --> 01:45:34,244
+<i>Tudo virou pó.</i>
+
+894
+01:45:34,953 --> 01:45:38,123
+<i>Se o que você enfrentou já foi vivo...</i>
+
+895
+01:45:38,832 --> 01:45:40,334
+<i>parece que agora está morto.</i>
+
+896
+01:46:02,105 --> 01:46:04,816
+<i>Agora vai me dizer o que houve</i>
+<i>com meu marido?</i>
+
+897
+01:46:06,568 --> 01:46:08,236
+<i>Quando o Brilho desapareceu,</i>
+
+898
+01:46:08,320 --> 01:46:12,407
+<i>sua pressão sanguínea se estabilizou</i>
+<i>e o batimento cardíaco aumentou.</i>
+
+899
+01:46:13,867 --> 01:46:15,994
+<i>Poucas horas depois,</i>
+<i>não só estava acordado,</i>
+
+900
+01:46:16,078 --> 01:46:17,162
+<i>mas estava lúcido.</i>
+
+901
+01:46:18,747 --> 01:46:20,916
+<i>Ele ainda está em quarentena, obviamente.</i>
+
+902
+01:46:22,376 --> 01:46:23,377
+<i>Eu também.</i>
+
+903
+01:47:07,504 --> 01:47:08,713
+<i>Você não é o Kane...</i>
+
+904
+01:47:10,507 --> 01:47:11,425
+<i>é?</i>
+
+905
+01:47:18,056 --> 01:47:19,182
+<i>Acho que não.</i>
+
+906
+01:47:27,607 --> 01:47:28,692
+<i>Você é a Lena?</i>
+
+907
+01:48:32,714 --> 01:48:39,679
+<i>ANIQUILAÇÃO</i>
+
+908
+01:54:50,717 --> 01:54:53,136
+<i>Legendas: Rita Macedo</i>
