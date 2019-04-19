@@ -1,0 +1,5563 @@
+﻿1
+00:01:20,831 --> 00:01:22,999
+Como se sente?
+
+2
+00:01:23,000 --> 00:01:24,777
+Vivo.
+
+3
+00:01:25,168 --> 00:01:26,911
+0 que vê?
+
+4
+00:01:27,838 --> 00:01:30,411
+Branco. Quarto.
+
+5
+00:01:31,967 --> 00:01:33,209
+Cadeira.
+
+6
+00:01:34,136 --> 00:01:36,379
+Cadeira Carlo Bugatti.
+
+7
+00:01:36,847 --> 00:01:38,624
+Piano
+
+8
+00:01:38,890 --> 00:01:41,133
+Steinway, de cauda.
+
+9
+00:01:42,686 --> 00:01:43,928
+Arte...
+
+10
+00:01:44,855 --> 00:01:49,260
+<i>Natividade de Piero della Francesca.</i>
+
+11
+00:01:50,652 --> 00:01:52,770
+Eu sou seu pai.
+
+12
+00:01:56,033 --> 00:01:57,605
+Perambule.
+
+13
+00:02:02,664 --> 00:02:04,156
+Perfeito.
+
+14
+00:02:07,586 --> 00:02:09,086
+Sou?
+
+15
+00:02:09,087 --> 00:02:10,488
+Perfeito?
+
+16
+00:02:11,173 --> 00:02:12,790
+Seu filho?
+
+17
+00:02:13,258 --> 00:02:15,410
+Você é criação minha.
+
+18
+00:02:17,929 --> 00:02:19,751
+Qual é seu nome?
+
+19
+00:02:31,151 --> 00:02:32,803
+David.
+
+20
+00:02:33,236 --> 00:02:34,808
+Por que não toca?
+
+21
+00:02:46,917 --> 00:02:49,502
+O que gostaria que eu tocasse?
+
+22
+00:02:49,503 --> 00:02:50,995
+Wagner.
+
+23
+00:02:51,421 --> 00:02:52,913
+Seleção?
+
+24
+00:02:53,715 --> 00:02:55,332
+Escolha do pianista.
+
+25
+00:03:12,526 --> 00:03:15,429
+<i>A Entrada dos Deuses em Valhalla.</i>
+
+26
+00:03:16,613 --> 00:03:19,186
+Meio anêmica sem uma orquestra.
+
+27
+00:03:27,582 --> 00:03:30,531
+Posso fazer uma pergunta, pai?
+
+28
+00:03:31,920 --> 00:03:33,367
+Á vontade.
+
+29
+00:03:33,714 --> 00:03:35,707
+Se você me criou,
+
+30
+00:03:36,717 --> 00:03:38,539
+quem criou você?
+
+31
+00:03:41,555 --> 00:03:44,049
+A pergunta de eras,
+
+32
+00:03:44,891 --> 00:03:48,044
+que eu espero que eu e você
+respondamos algum dia.
+
+33
+00:03:48,311 --> 00:03:49,883
+Tudo isto.
+
+34
+00:03:50,439 --> 00:03:52,682
+Todas essas maravilhas de arte,
+
+35
+00:03:52,816 --> 00:03:56,610
+arquitetura, criatividade...
+
+36
+00:03:56,611 --> 00:04:01,016
+Todas perdem o significado
+diante da única pergunta que importa.
+
+37
+00:04:03,118 --> 00:04:05,361
+De onde viemos?
+
+38
+00:04:07,831 --> 00:04:10,916
+Eu me recuso a acreditar
+
+39
+00:04:10,917 --> 00:04:14,161
+que a humanidade seja o derivado
+de um agregado molecular.
+
+40
+00:04:15,589 --> 00:04:20,092
+Nada mais que o resultado
+de um acaso biológico.
+
+41
+00:04:20,093 --> 00:04:21,510
+Não.
+
+42
+00:04:21,511 --> 00:04:23,971
+Tem de haver mais.
+
+43
+00:04:23,972 --> 00:04:26,500
+Eu e você, filho,
+
+44
+00:04:26,975 --> 00:04:28,843
+vamos descobrir.
+
+45
+00:04:30,854 --> 00:04:34,098
+Permita-me então
+um momento para considerar.
+
+46
+00:04:34,816 --> 00:04:38,937
+Você busca seu criador.
+Eu estou olhando para o meu.
+
+47
+00:04:40,155 --> 00:04:43,559
+Vou servi-lo, porém você é humano.
+
+48
+00:04:44,659 --> 00:04:47,903
+Você morrerá.
+Eu não.
+
+49
+00:04:54,878 --> 00:04:56,951
+Sirva-me chá, David.
+
+50
+00:04:59,049 --> 00:05:00,792
+Sirva-me chá.
+
+51
+00:06:07,117 --> 00:06:10,119
+NAVE DE COLONIZAÇÃO: COVENANT
+
+52
+00:06:10,120 --> 00:06:13,122
+<i>DATA: 5 DE DEZEMBRO DE 2104</i>
+
+53
+00:06:13,123 --> 00:06:16,125
+TRIPULAÇÃO: 15
+
+54
+00:06:16,126 --> 00:06:20,129
+CARGA: 2.000 COLONOS
+1.140 EMBRIÕES
+
+55
+00:06:20,130 --> 00:06:23,799
+DESTINO: ORIGAE-6
+
+56
+00:06:23,800 --> 00:06:29,127
+TEMPO ESTIMADO DE CHEGADA:
+7 ANOS, 4 MESES
+
+57
+00:06:32,559 --> 00:06:36,145
+<i>Walter, hora de recarregar
+a rede de energia.</i>
+
+58
+00:06:36,146 --> 00:06:38,105
+<i>Por favor, compareça á ponte.</i>
+
+59
+00:06:38,106 --> 00:06:40,008
+A caminho, Mãe.
+
+60
+00:06:45,322 --> 00:06:48,225
+Ativando vela de recarregar energia.
+
+61
+00:07:14,601 --> 00:07:18,676
+<i>Velas estendidas.
+Iniciando recarga agora.</i>
+
+62
+00:07:37,165 --> 00:07:39,909
+<i>Sete toques e tudo bem.</i>
+
+63
+00:07:45,799 --> 00:07:48,748
+<i>Verificação da tripulação completa.</i>
+
+64
+00:07:51,262 --> 00:07:55,883
+Usar código de segurança 3-1-5-6-4-F.
+
+65
+00:08:33,596 --> 00:08:36,765
+<i>Walter, temos um problema.</i>
+
+66
+00:08:36,766 --> 00:08:40,761
+<i>Detesto uma emissão de neutrinos
+no setor 106.</i>
+
+67
+00:08:40,770 --> 00:08:43,897
+<i>Isso pode desencadear
+um evento destrutivo.</i>
+
+68
+00:08:43,898 --> 00:08:46,358
+<i>Compareça á ponte imediatamente.</i>
+
+69
+00:08:46,359 --> 00:08:48,853
+A caminho, Mãe.
+
+70
+00:08:53,867 --> 00:08:56,035
+<i>Aviso: sobrecarga detectada.</i>
+
+71
+00:08:56,036 --> 00:08:58,746
+Mãe, recolha as velas de energia.
+
+72
+00:08:58,747 --> 00:09:01,241
+Canalize a energia reserva.
+
+73
+00:09:05,336 --> 00:09:06,783
+<i>Emergência.</i>
+
+74
+00:09:07,005 --> 00:09:09,499
+<i>Nível crítico de ameaça.</i>
+
+75
+00:09:09,549 --> 00:09:12,122
+Iniciar despertar de emergência.
+
+76
+00:09:14,929 --> 00:09:16,138
+<i>Atenção.</i>
+
+77
+00:09:16,139 --> 00:09:21,591
+<i>Tripulantes não essenciais,
+saiam da crio câmara imediatamente.</i>
+
+78
+00:09:21,770 --> 00:09:23,562
+Daniels, olha pra mim!
+
+79
+00:09:23,563 --> 00:09:25,856
+Precisa sair daí.
+Acordamos mais cedo.
+
+80
+00:09:25,857 --> 00:09:27,691
+Cancelem o protocolo
+
+81
+00:09:27,692 --> 00:09:29,109
+e saiam da câmara.
+
+82
+00:09:29,110 --> 00:09:30,944
+<i>Aviso. Nível crítico de ameaça.</i>
+
+83
+00:09:30,945 --> 00:09:32,392
+Tudo bem.
+
+84
+00:09:32,864 --> 00:09:35,392
+Anda logo. Levanta.
+
+85
+00:09:49,923 --> 00:09:51,916
+Capitão!
+
+86
+00:09:52,300 --> 00:09:54,134
+Jacob! Acordem!
+
+87
+00:09:54,135 --> 00:09:55,302
+Deixa eles trabalharem.
+
+88
+00:09:55,303 --> 00:09:56,804
+Jake! Meu Deus!
+
+89
+00:09:56,805 --> 00:09:58,680
+- Daniels, rápido!
+- Jake!
+
+90
+00:09:58,681 --> 00:10:00,057
+Dá espaço pra eles.
+
+91
+00:10:00,058 --> 00:10:01,505
+Dá espaço.
+
+92
+00:10:03,937 --> 00:10:05,554
+Abram isso!
+
+93
+00:10:10,568 --> 00:10:12,845
+Jake! Jake!
+
+94
+00:10:13,154 --> 00:10:14,822
+Não!
+
+95
+00:10:14,823 --> 00:10:16,896
+Tirem a Daniels daqui.
+
+96
+00:10:19,536 --> 00:10:21,028
+Pra trás.
+
+97
+00:12:14,234 --> 00:12:17,729
+<i>Oi! Cadê você?
+Tô com saudades.</i>
+
+98
+00:12:18,321 --> 00:12:20,155
+<i>Dá só uma olhada!</i>
+
+99
+00:12:20,156 --> 00:12:24,660
+<i>Eu sei. Já sei.
+Disse que não viria sem você, mas...</i>
+
+100
+00:12:24,661 --> 00:12:27,162
+<i>- Tudo bem com você aí?
+- Tá.</i>
+
+101
+00:12:27,163 --> 00:12:28,985
+<i>Olha só isso!</i>
+
+102
+00:12:29,332 --> 00:12:30,832
+<i>Vem logo pra cá.</i>
+
+103
+00:12:30,833 --> 00:12:33,502
+<i>Não prometo nada.</i>
+
+104
+00:12:33,503 --> 00:12:35,325
+<i>Eu te amo.</i>
+
+105
+00:12:48,434 --> 00:12:50,352
+É sua tripulação agora.
+
+106
+00:12:50,353 --> 00:12:51,925
+Precisam de um líder.
+
+107
+00:12:52,105 --> 00:12:53,927
+Eu sei.
+
+108
+00:12:54,190 --> 00:12:55,887
+Acredita em mim, né?
+
+109
+00:13:19,966 --> 00:13:21,133
+Desculpa o atraso.
+
+110
+00:13:21,134 --> 00:13:22,786
+Não, tudo bem.
+
+111
+00:13:26,556 --> 00:13:30,460
+Não consigo pensar em outro jeito
+de dizer, então vou falar logo:
+
+112
+00:13:30,893 --> 00:13:35,389
+sofremos uma tragédia monumental.
+
+113
+00:13:36,065 --> 00:13:39,318
+Vou fazer o melhor que posso
+
+114
+00:13:39,319 --> 00:13:44,771
+pra fazer jus ao bom exemplo
+do Jacob como capitão,
+
+115
+00:13:44,991 --> 00:13:48,941
+mas ele fará muita falta.
+
+116
+00:13:49,412 --> 00:13:52,080
+Sou grato de antemão por seu apoio.
+
+117
+00:13:52,081 --> 00:13:55,417
+Perdemos 47 colonos
+
+118
+00:13:55,418 --> 00:14:00,339
+e 16 embriões de segunda geração,
+
+119
+00:14:00,340 --> 00:14:02,424
+e um tripulante obviamente.
+
+120
+00:14:02,425 --> 00:14:07,262
+A integridade estrutural atual
+da nave está em 83%,
+
+121
+00:14:07,263 --> 00:14:11,767
+mas há muitos
+sistemas secundários desativados.
+
+122
+00:14:11,768 --> 00:14:13,636
+E o que foi?
+
+123
+00:14:13,770 --> 00:14:16,764
+Uma onda de choque
+de uma ignição estelar próxima.
+
+124
+00:14:17,023 --> 00:14:18,690
+<i>Com as velas para recarga,</i>
+
+125
+00:14:18,691 --> 00:14:20,776
+absorvemos o grosso da tempestade.
+
+126
+00:14:20,777 --> 00:14:21,735
+Walter,
+
+127
+00:14:21,736 --> 00:14:24,488
+<i>quero que você e Mãe
+revisem o núcleo do código</i>
+
+128
+00:14:24,489 --> 00:14:26,983
+para entendermos
+como tudo aconteceu.
+
+129
+00:14:27,241 --> 00:14:29,618
+Foi um evento local aleatório.
+
+130
+00:14:29,619 --> 00:14:32,788
+Não há como prever
+explosões estelares espontâneas
+
+131
+00:14:32,789 --> 00:14:34,190
+até ser tarde.
+
+132
+00:14:34,791 --> 00:14:36,416
+Foi má sorte.
+
+133
+00:14:36,417 --> 00:14:39,419
+Faris, não acredito em sorte.
+Não conto com a sorte.
+
+134
+00:14:39,420 --> 00:14:41,797
+Prefiro-nos mais capazes
+
+135
+00:14:41,798 --> 00:14:44,800
+e preparados que sortudos.
+Observação, reflexão, fé
+
+136
+00:14:44,801 --> 00:14:45,967
+<i>e determinação.</i>
+
+137
+00:14:45,968 --> 00:14:49,429
+Assim, podemos percorrer o caminho
+que se desdobra á nossa frente.
+
+138
+00:14:49,430 --> 00:14:50,639
+Temos o quê?
+
+139
+00:14:50,640 --> 00:14:53,183
+Mais 8 ciclos de recarga
+
+140
+00:14:53,184 --> 00:14:54,881
+até chegar a Origae-6?
+
+141
+00:14:55,520 --> 00:14:58,146
+- É uma pergunta?
+- Sim, é uma pergunta.
+
+142
+00:14:58,147 --> 00:14:59,594
+Está correto.
+
+143
+00:15:00,691 --> 00:15:04,778
+Vamos consertar a nave.
+
+144
+00:15:04,779 --> 00:15:06,822
+Ao trabalho.
+
+145
+00:15:06,823 --> 00:15:08,520
+Com licença.
+
+146
+00:15:10,451 --> 00:15:14,496
+Perdemos 47 colonos e o capitão.
+
+147
+00:15:14,497 --> 00:15:15,789
+Temos de sentir a perda.
+
+148
+00:15:15,790 --> 00:15:17,833
+Sargento Lope, eu compreendo,
+
+149
+00:15:17,834 --> 00:15:20,335
+mas se não fizermos os reparos,
+
+150
+00:15:20,336 --> 00:15:24,005
+perderemos todos os colonos.
+
+151
+00:15:24,006 --> 00:15:25,966
+Talvez um funeral para o Branson...
+
+152
+00:15:25,967 --> 00:15:27,960
+Não vou discutir, Tennessee.
+
+153
+00:15:33,891 --> 00:15:35,258
+Oi.
+
+154
+00:15:36,185 --> 00:15:37,686
+Módulo de terraformação estável,
+
+155
+00:15:37,687 --> 00:15:39,354
+mas o braço sofreu avarias.
+
+156
+00:15:39,355 --> 00:15:42,099
+Ainda vou ver os veículos.
+
+157
+00:15:44,861 --> 00:15:46,137
+Posso ajudar,
+
+158
+00:15:46,737 --> 00:15:48,639
+se quiser.
+
+159
+00:15:48,990 --> 00:15:50,073
+Obrigada.
+
+160
+00:15:50,074 --> 00:15:53,869
+Walter. Quanto tempo
+até darmos o próximo salto?
+
+161
+00:15:53,870 --> 00:15:56,693
+Os reparos devem
+levar umas 48 horas,
+
+162
+00:15:58,040 --> 00:16:00,542
+mas devemos nos esforçar
+para deixar o setor,
+
+163
+00:16:00,543 --> 00:16:01,835
+caso haja explosões.
+
+164
+00:16:01,836 --> 00:16:03,170
+Eu concordo.
+
+165
+00:16:03,171 --> 00:16:05,448
+Mãos á obra.
+Dispensados. Obrigado.
+
+166
+00:16:11,012 --> 00:16:12,721
+<i>C-62, aberta.</i>
+
+167
+00:16:12,722 --> 00:16:16,422
+Lacrar C-62.
+Abrir comporta 17.
+
+168
+00:16:23,774 --> 00:16:25,972
+Abrir baia de terraformação.
+
+169
+00:16:35,203 --> 00:16:36,820
+Frouxa.
+
+170
+00:16:38,080 --> 00:16:40,528
+A tensão está 15% menor.
+
+171
+00:16:43,211 --> 00:16:44,453
+Ativando.
+
+172
+00:16:50,259 --> 00:16:51,259
+No lugar.
+
+173
+00:16:51,260 --> 00:16:52,957
+Entendido.
+
+174
+00:17:05,107 --> 00:17:06,975
+Não foi ideia minha.
+
+175
+00:17:09,946 --> 00:17:14,192
+Jake sonhava conosco
+construindo uma cabana no novo mundo.
+
+176
+00:17:16,744 --> 00:17:18,862
+Como pioneiros.
+
+177
+00:17:20,581 --> 00:17:22,358
+Uma cabana no lago.
+
+178
+00:17:25,545 --> 00:17:29,370
+Há um lago na área de terraformação
+de Origae-6.
+
+179
+00:17:29,632 --> 00:17:32,831
+Uma cabana de madeira de verdade.
+
+180
+00:17:34,387 --> 00:17:38,633
+No estoque da nave,
+há madeira suficiente pra uma cabana.
+
+181
+00:17:40,268 --> 00:17:42,852
+Machados, serras
+e pregos de metal
+
+182
+00:17:42,853 --> 00:17:45,881
+que não faço ideia pra que servem.
+
+183
+00:17:49,986 --> 00:17:51,683
+Tudo isso
+
+184
+00:17:52,822 --> 00:17:54,690
+pra começar vida nova.
+
+185
+00:17:56,867 --> 00:17:59,440
+Agora me pergunto por quê?
+
+186
+00:18:01,497 --> 00:18:06,027
+Porque prometeu construir
+uma cabana de madeira num lago.
+
+187
+00:18:15,845 --> 00:18:17,637
+<i>Era o predileto dele.</i>
+
+188
+00:18:17,638 --> 00:18:20,223
+<i>Tinha bom gosto.</i>
+
+189
+00:18:20,224 --> 00:18:21,725
+<i>Bebia puro.</i>
+
+190
+00:18:21,726 --> 00:18:24,644
+<i>Sem gelo, sem água,
+sem refrigerante...</i>
+
+191
+00:18:24,645 --> 00:18:26,968
+Sem merda nenhuma!
+
+192
+00:18:31,193 --> 00:18:32,485
+Walter?
+
+193
+00:18:32,486 --> 00:18:33,933
+Em Roma...
+
+194
+00:18:36,407 --> 00:18:39,105
+<i>A todos os bons que foram breves.</i>
+
+195
+00:18:39,535 --> 00:18:41,608
+Um brinde a eles!
+
+196
+00:18:41,746 --> 00:18:43,944
+A eles!
+
+197
+00:19:23,621 --> 00:19:25,022
+Chris.
+
+198
+00:19:27,917 --> 00:19:30,661
+Desobedeceram uma ordem direta.
+
+199
+00:19:31,879 --> 00:19:33,588
+Ela enterrou o marido.
+
+200
+00:19:33,589 --> 00:19:36,049
+Não, Karine, não é isso.
+Não confiam em mim
+
+201
+00:19:36,050 --> 00:19:38,426
+pela mesma razão
+que a firma não confiou em mim
+
+202
+00:19:38,427 --> 00:19:39,636
+pra ser líder.
+
+203
+00:19:39,637 --> 00:19:41,596
+Porque você não pode
+ser um homem de fé
+
+204
+00:19:41,597 --> 00:19:45,100
+e ser capaz de tomar decisões
+racionais acertadas.
+
+205
+00:19:45,101 --> 00:19:48,471
+<i>Não passa de um extremista.
+E um lunático.</i>
+
+206
+00:19:48,646 --> 00:19:51,515
+<i>Quando chegarmos aonde vamos,</i>
+
+207
+00:19:51,774 --> 00:19:55,568
+essa gente não será mais sua tripulação.
+Serão seus vizinhos.
+
+208
+00:19:55,569 --> 00:19:57,346
+Se lembre disso.
+
+209
+00:19:58,239 --> 00:20:00,858
+Pega leve, tá?
+
+210
+00:20:08,791 --> 00:20:10,291
+Faris, na escuta?
+
+211
+00:20:10,292 --> 00:20:11,459
+<i>Câmbio.</i>
+
+212
+00:20:11,460 --> 00:20:13,203
+Vamos lá.
+
+213
+00:20:15,548 --> 00:20:18,091
+Vocês deveriam ver essa vista.
+
+214
+00:20:18,092 --> 00:20:21,302
+<i>Não veremos nada
+até você consertar a rede de câmeras.</i>
+
+215
+00:20:21,303 --> 00:20:23,972
+Por que não olha pela janela, hein?
+
+216
+00:20:23,973 --> 00:20:25,640
+<i>Ankor, religa a energia</i>
+
+217
+00:20:25,641 --> 00:20:29,215
+<i>pra essa gente
+poder curtir uma bela vista.</i>
+
+218
+00:20:29,478 --> 00:20:31,130
+Quase lá.
+
+219
+00:20:32,815 --> 00:20:34,566
+<i>Avisa quando estiver em posição,</i>
+
+220
+00:20:34,567 --> 00:20:36,818
+<i>e a gente começa a festa.</i>
+
+221
+00:20:36,819 --> 00:20:38,721
+Em posição.
+
+222
+00:21:07,975 --> 00:21:09,592
+Contato.
+
+223
+00:21:17,860 --> 00:21:19,694
+<i>Tudo bem, Tee?</i>
+
+224
+00:21:19,695 --> 00:21:21,988
+Maravilha. Está feito.
+
+225
+00:21:21,989 --> 00:21:23,448
+<i>Estica.</i>
+
+226
+00:21:23,449 --> 00:21:25,325
+Legal
+
+227
+00:21:25,326 --> 00:21:28,195
+Guincho ativado, Tee.
+
+228
+00:21:29,830 --> 00:21:32,028
+Esticando.
+
+229
+00:21:34,794 --> 00:21:36,946
+<i>Funciona como um sonho.</i>
+
+230
+00:21:51,060 --> 00:21:52,352
+<i>Tudo pronto.</i>
+
+231
+00:21:52,353 --> 00:21:53,520
+<i>Tudo no lugar.</i>
+
+232
+00:21:53,521 --> 00:21:54,854
+Muito bom.
+
+233
+00:21:54,855 --> 00:21:56,314
+Tudo certo aqui.
+
+234
+00:21:56,315 --> 00:21:57,482
+Pode voltar.
+
+235
+00:21:57,483 --> 00:21:59,150
+<i>Não partam sem mim.</i>
+
+236
+00:21:59,151 --> 00:22:01,736
+Permissão para partir sem ele, senhor?
+
+237
+00:22:01,737 --> 00:22:03,309
+Bem-vinda de volta.
+
+238
+00:22:03,823 --> 00:22:05,323
+Obrigada.
+
+239
+00:22:05,324 --> 00:22:07,408
+Terminei aqui, Tee.
+
+240
+00:22:07,409 --> 00:22:09,244
+Estou logo atrás de você.
+
+241
+00:22:09,245 --> 00:22:11,913
+Abre uma gelada
+para um pobre viajante.
+
+242
+00:22:11,914 --> 00:22:15,416
+<i>Deixa comigo, amor.
+Te acompanho na gelada.</i>
+
+243
+00:22:15,417 --> 00:22:17,490
+Faris! Põe o...
+
+244
+00:22:22,383 --> 00:22:24,660
+<i>Vocês viram isso?</i>
+
+245
+00:22:25,261 --> 00:22:27,755
+O que ele disse?
+
+246
+00:22:31,600 --> 00:22:33,297
+Tennessee, na escuta?
+
+247
+00:22:36,272 --> 00:22:38,595
+Na escuta?
+
+248
+00:22:39,275 --> 00:22:41,025
+<i>Tennessee, tudo bem?</i>
+
+249
+00:22:41,026 --> 00:22:43,111
+Que merda foi essa?
+
+250
+00:22:43,112 --> 00:22:46,686
+Eu vou entrar.
+Vou entrar.
+
+251
+00:22:59,044 --> 00:23:02,288
+Uma transmissão
+clandestina, provavelmente.
+
+252
+00:23:03,132 --> 00:23:06,342
+Seu capacete deve ter captado
+por estar distante,
+
+253
+00:23:06,343 --> 00:23:08,996
+além dos atenuadores de comunicação.
+
+254
+00:23:10,848 --> 00:23:12,557
+Temos áudio, Mãe?
+
+255
+00:23:12,558 --> 00:23:16,178
+<i>Conferindo. Aguarde um momento.</i>
+
+256
+00:23:17,563 --> 00:23:20,967
+<i>Eu reorientei a transmissão,
+capitão Oram.</i>
+
+257
+00:23:21,108 --> 00:23:24,102
+Só pode ser um eco.
+Os instrumentos foram danificados.
+
+258
+00:23:24,445 --> 00:23:25,945
+Repete a cada 46 segundos
+
+259
+00:23:25,946 --> 00:23:28,223
+desde que paramos aqui.
+
+260
+00:23:55,184 --> 00:23:57,226
+Isso é John Denver.
+
+261
+00:23:57,227 --> 00:23:58,978
+<i>É Take Me Home, Country Roads.</i>
+
+262
+00:23:58,979 --> 00:24:00,146
+Tá brincando!
+
+263
+00:24:00,147 --> 00:24:02,470
+Eu não brinco com John Denver.
+
+264
+00:24:02,524 --> 00:24:05,193
+Há dados geométricos também.
+
+265
+00:24:05,194 --> 00:24:09,072
+Mãe, por favor,
+rastreie a origem do sinal.
+
+266
+00:24:09,073 --> 00:24:10,816
+<i>Rastreando.</i>
+
+267
+00:24:14,244 --> 00:24:17,193
+<i>Origem da transmissão localizada.</i>
+
+268
+00:24:18,374 --> 00:24:22,324
+<i>O sinal se origina no setor 87.</i>
+
+269
+00:24:22,503 --> 00:24:25,421
+<i>Ascensão direita 47,6.</i>
+
+270
+00:24:25,422 --> 00:24:30,669
+<i>Com declínio de 24,3
+da nossa posição atual.</i>
+
+271
+00:24:35,391 --> 00:24:38,761
+Parece uma estrela da sequência principal
+como a nossa,
+
+272
+00:24:38,936 --> 00:24:41,104
+mas muito mais antiga.
+
+273
+00:24:41,105 --> 00:24:43,189
+Há 5 planetas.
+
+274
+00:24:43,190 --> 00:24:45,558
+Esperem. Olhem aquilo.
+
+275
+00:24:47,236 --> 00:24:49,479
+O planeta número 4.
+
+276
+00:24:49,989 --> 00:24:53,313
+O planeta 4 está
+bem no meio da zona habitável.
+
+277
+00:24:53,826 --> 00:24:55,618
+Ótimo candidato.
+
+278
+00:24:55,619 --> 00:25:00,024
+Gravidade de 0,96 na superfície.
+Oceanos, massa de terra,
+
+279
+00:25:00,582 --> 00:25:03,584
+provável biosfera viva...
+
+280
+00:25:03,585 --> 00:25:06,921
+Está além da previsão
+mais otimista pra Origae-6.
+
+281
+00:25:06,922 --> 00:25:09,799
+Como não vimos?
+Escaneamos o setor inteiro.
+
+282
+00:25:09,800 --> 00:25:12,176
+Ricks, qual é a distância?
+
+283
+00:25:12,177 --> 00:25:13,829
+Está próximo.
+
+284
+00:25:14,263 --> 00:25:16,222
+Um pulinho.
+Algumas semanas.
+
+285
+00:25:16,223 --> 00:25:19,126
+Nem precisaríamos voltar ao hipersono.
+
+286
+00:25:23,272 --> 00:25:27,233
+Quanto tempo até chegarmos a Origae-6?
+
+287
+00:25:27,234 --> 00:25:29,152
+Seriam 7 anos e 4 meses.
+
+288
+00:25:29,153 --> 00:25:32,523
+É um grande ciclo de sono.
+
+289
+00:25:32,948 --> 00:25:36,743
+Senhor, é seguro dizer
+que ninguém está a fim
+
+290
+00:25:36,744 --> 00:25:39,067
+de voltar aos casulos.
+
+291
+00:25:41,373 --> 00:25:45,949
+Talvez a gente devesse
+dar uma olhada mais de perto.
+
+292
+00:25:48,047 --> 00:25:50,495
+Alguma objeção?
+
+293
+00:25:53,177 --> 00:25:54,874
+Está bem, Ricks.
+
+294
+00:25:55,179 --> 00:25:58,128
+Vamos traçar um curso
+e ver de perto.
+
+295
+00:25:58,307 --> 00:25:59,799
+Sim, senhor.
+
+296
+00:26:00,559 --> 00:26:02,961
+Capitão, uma palavrinha?
+
+297
+00:26:07,483 --> 00:26:09,385
+Tem certeza disso?
+
+298
+00:26:09,568 --> 00:26:11,220
+Como assim?
+
+299
+00:26:11,487 --> 00:26:14,906
+Levamos uma década
+pra achar Origae-6.
+
+300
+00:26:14,907 --> 00:26:18,284
+Avaliamos, fizemos simulações
+e mapeamos o terreno.
+
+301
+00:26:18,285 --> 00:26:20,119
+- Fomos treinados.
+- Compreendo.
+
+302
+00:26:20,120 --> 00:26:21,996
+Agora, vamos desprezar tudo
+
+303
+00:26:21,997 --> 00:26:24,240
+e seguir uma transmissão qualquer?
+
+304
+00:26:25,209 --> 00:26:26,375
+Pensa bem.
+
+305
+00:26:26,376 --> 00:26:29,045
+Há um humano lá,
+onde não pode haver humanos.
+
+306
+00:26:29,046 --> 00:26:31,380
+Um planeta escondido
+que aparece do nada
+
+307
+00:26:31,381 --> 00:26:35,343
+e, por acaso, é perfeito pra nós.
+E bom demais pra ser verdade.
+
+308
+00:26:35,344 --> 00:26:37,428
+Bom demais pra ser verdade?
+Como assim?
+
+309
+00:26:37,429 --> 00:26:39,097
+Não sabemos o que há lá.
+
+310
+00:26:39,098 --> 00:26:41,224
+Talvez não tenhamos visto.
+
+311
+00:26:41,225 --> 00:26:44,102
+É um risco enorme
+que não vale a pena.
+
+312
+00:26:44,103 --> 00:26:45,937
+Eu não prometi nada.
+
+313
+00:26:45,938 --> 00:26:49,065
+Só estou tentando navegar
+a trilha que se abre diante de nós.
+
+314
+00:26:49,066 --> 00:26:50,233
+Há potencial
+
+315
+00:26:50,234 --> 00:26:53,152
+de ser um habitat melhor pra a colônia.
+
+316
+00:26:53,153 --> 00:26:54,487
+Potencial! Não sabemos.
+
+317
+00:26:54,488 --> 00:26:56,197
+E a tripulação...
+
+318
+00:26:56,198 --> 00:26:59,101
+Ninguém quer voltar para os casulos.
+
+319
+00:26:59,284 --> 00:27:00,685
+Certo?
+
+320
+00:27:01,328 --> 00:27:03,830
+Era uma voz humana
+na transmissão.
+
+321
+00:27:03,831 --> 00:27:06,499
+É nossa responsabilidade investigar.
+
+322
+00:27:06,500 --> 00:27:10,996
+É nossa responsabilidade proteger
+os 2 mil colonos na nave.
+
+323
+00:27:15,634 --> 00:27:17,969
+Não é uma escalada livre.
+
+324
+00:27:17,970 --> 00:27:21,681
+Preciso das cordas
+e estou usando as cordas.
+
+325
+00:27:21,682 --> 00:27:27,311
+É uma boa decisão
+baseada em todos os dados disponíveis.
+
+326
+00:27:27,312 --> 00:27:28,604
+Entendeu?
+
+327
+00:27:28,605 --> 00:27:32,305
+Como subcomandante,
+devo protestar oficialmente.
+
+328
+00:27:33,318 --> 00:27:35,095
+Oficialmente?
+
+329
+00:27:38,740 --> 00:27:41,734
+Tudo bem, Danny.
+Eu deixo registrado.
+
+330
+00:27:43,078 --> 00:27:45,071
+Dispensada.
+
+331
+00:28:11,148 --> 00:28:12,773
+Em todas as frequências,
+
+332
+00:28:12,774 --> 00:28:14,817
+<i>só há interferência e ruído.</i>
+
+333
+00:28:14,818 --> 00:28:16,694
+Ecos de alta frequência.
+
+334
+00:28:16,695 --> 00:28:17,987
+Ouve algo?
+
+335
+00:28:17,988 --> 00:28:20,740
+Só o sinal contínuo
+do nosso amigo fantasma.
+
+336
+00:28:20,741 --> 00:28:23,314
+Vamos chegar á órbita,
+
+337
+00:28:24,203 --> 00:28:26,321
+<i>e preparar o Lander.</i>
+
+338
+00:28:26,496 --> 00:28:30,901
+<i>Giro em andamento.
+Iniciando queima rotativa.</i>
+
+339
+00:28:44,556 --> 00:28:46,599
+Níveis tóxicos toleráveis.
+
+340
+00:28:46,600 --> 00:28:49,018
+É uma ionosfera muito forte.
+
+341
+00:28:49,019 --> 00:28:50,671
+<i>Já percebi.</i>
+
+342
+00:28:50,687 --> 00:28:52,772
+Já pousou com o Lander?
+
+343
+00:28:52,773 --> 00:28:54,065
+Vai se danar.
+
+344
+00:28:54,066 --> 00:28:56,389
+Uma tempestade de plasma
+na termosfera.
+
+345
+00:28:56,485 --> 00:28:58,819
+Rajadas de 250km/h.
+
+346
+00:28:58,820 --> 00:29:00,738
+Vai ser difícil atravessar.
+
+347
+00:29:00,739 --> 00:29:03,157
+<i>É, infelizmente.</i>
+
+348
+00:29:03,158 --> 00:29:05,868
+<i>A comunicação ficará instável
+se for eletromagnética.</i>
+
+349
+00:29:05,869 --> 00:29:07,495
+Será seguro pousar?
+
+350
+00:29:07,496 --> 00:29:09,163
+O que chama de seguro?
+
+351
+00:29:09,164 --> 00:29:10,248
+<i>Lançamento em 20 segundos.</i>
+
+352
+00:29:10,249 --> 00:29:11,540
+<i>Vamos lançar.</i>
+
+353
+00:29:11,541 --> 00:29:13,459
+Tá bem.
+
+354
+00:29:13,460 --> 00:29:15,920
+Preparar pra o modo orbital
+ao sinal de posição.
+
+355
+00:29:15,921 --> 00:29:19,048
+<i>Mãe, coordena
+a sequência de lançamento.</i>
+
+356
+00:29:19,049 --> 00:29:20,466
+<i>Entendido.</i>
+
+357
+00:29:20,467 --> 00:29:22,677
+<i>Liberado para lançamento, Lander 1.</i>
+
+358
+00:29:22,678 --> 00:29:24,679
+Então vamos lá. Lançando...
+
+359
+00:29:24,680 --> 00:29:26,555
+Juntos em três...
+
+360
+00:29:26,556 --> 00:29:27,723
+Dois...
+
+361
+00:29:27,724 --> 00:29:28,875
+Um.
+
+362
+00:29:29,643 --> 00:29:31,435
+<i>Lander 1 liberado.</i>
+
+363
+00:29:31,436 --> 00:29:33,338
+E ali vão eles.
+
+364
+00:29:44,950 --> 00:29:48,035
+<i>Está lindo aqui de cima.
+Que bom que é o piloto</i>
+
+365
+00:29:48,036 --> 00:29:49,495
+e não o coroa.
+
+366
+00:29:49,496 --> 00:29:52,540
+Sai dessa de coroa,
+peitinhos de mel.
+
+367
+00:29:52,541 --> 00:29:54,375
+<i>Modere a linguagem.</i>
+
+368
+00:29:54,376 --> 00:29:56,252
+- Respeito, pau doce.
+- Eu ouvi.
+
+369
+00:29:56,253 --> 00:29:58,254
+<i>Ela começou.</i>
+
+370
+00:29:58,255 --> 00:30:00,798
+O Ricks pode falar dos seus peitos
+se quiser.
+
+371
+00:30:00,799 --> 00:30:02,300
+<i>Me garanto na relação.</i>
+
+372
+00:30:02,301 --> 00:30:04,260
+Gosto dos peitos da minha mulher.
+
+373
+00:30:04,261 --> 00:30:06,663
+Vamos manter a concentração.
+
+374
+00:30:09,558 --> 00:30:11,600
+<i>Tudo bem aí embaixo?</i>
+
+375
+00:30:11,601 --> 00:30:13,477
+Sim, estamos bem.
+
+376
+00:30:13,478 --> 00:30:15,604
+Chegamos á exosfera em 5 segundos.
+
+377
+00:30:15,605 --> 00:30:18,099
+Melhor se segurarem.
+Será turbulento.
+
+378
+00:30:19,735 --> 00:30:21,352
+Odeio o espaço.
+
+379
+00:30:22,404 --> 00:30:25,227
+É por isso que precisa fazer ioga.
+
+380
+00:30:33,373 --> 00:30:34,957
+- Segura, Faris.
+- Eu sei.
+
+381
+00:30:34,958 --> 00:30:36,655
+<i>Sugiro cancelar a missão.</i>
+
+382
+00:30:38,545 --> 00:30:40,071
+Faris.
+
+383
+00:30:41,715 --> 00:30:43,992
+Falha na comunicação.
+Na escuta?
+
+384
+00:30:46,178 --> 00:30:47,625
+Consegue contato?
+
+385
+00:30:47,846 --> 00:30:49,513
+Perdemos comunicação.
+
+386
+00:30:49,514 --> 00:30:51,166
+Merda.
+
+387
+00:30:52,809 --> 00:30:55,561
+<i>Pane nos jatos 3 e 4.</i>
+
+388
+00:30:55,562 --> 00:30:57,396
+Conseguiu?
+Sim.
+
+389
+00:30:57,397 --> 00:30:59,720
+Para de perguntar isso.
+Eu consegui.
+
+390
+00:31:02,903 --> 00:31:04,395
+Olha ali.
+
+391
+00:31:04,905 --> 00:31:06,530
+Merda.
+
+392
+00:31:06,531 --> 00:31:07,698
+Estão bem?
+
+393
+00:31:07,699 --> 00:31:09,316
+Não.
+
+394
+00:31:11,661 --> 00:31:13,904
+<i>Sensores de pouso ativados.</i>
+
+395
+00:31:28,512 --> 00:31:30,554
+Não gosto do terreno.
+
+396
+00:31:30,555 --> 00:31:32,556
+Há água parada ali.
+
+397
+00:31:32,557 --> 00:31:35,551
+Vou pousar no modo anfíbio.
+
+398
+00:32:09,636 --> 00:32:10,845
+<i>Contato.</i>
+
+399
+00:32:10,846 --> 00:32:12,372
+<i>Parada total.</i>
+
+400
+00:32:14,683 --> 00:32:15,850
+Pousamos.
+
+401
+00:32:15,851 --> 00:32:16,934
+Barras.
+
+402
+00:32:16,935 --> 00:32:18,519
+<i>Lander 1, na escuta?</i>
+
+403
+00:32:18,520 --> 00:32:20,980
+Positivo. Foi um tremendo pouso.
+
+404
+00:32:20,981 --> 00:32:22,940
+Estamos com problema no sinal.
+
+405
+00:32:22,941 --> 00:32:24,608
+Há como dar um ganho?
+
+406
+00:32:24,609 --> 00:32:27,027
+<i>Algo pode ter se partido
+ao pousarmos na água.</i>
+
+407
+00:32:27,028 --> 00:32:30,030
+<i>Se me ouvem,
+vou procurar avarias</i>
+
+408
+00:32:30,031 --> 00:32:32,783
+<i>na fuselagem,
+e vejo o transmissor depois.</i>
+
+409
+00:32:32,784 --> 00:32:36,028
+<i>Me avisa o que descobrir. Câmbio.</i>
+
+410
+00:32:36,997 --> 00:32:38,789
+<i>Composição atmosférica.</i>
+
+411
+00:32:38,790 --> 00:32:40,499
+Pra você, grandalhão.
+
+412
+00:32:40,500 --> 00:32:41,876
+<i>Oxigênio: 19,5%.</i>
+
+413
+00:32:41,877 --> 00:32:43,210
+Ankor.
+
+414
+00:32:43,211 --> 00:32:44,962
+<i>Nitrogênio: 79,4%.</i>
+
+415
+00:32:44,963 --> 00:32:46,547
+Cole.
+
+416
+00:32:46,548 --> 00:32:47,548
+Rosie.
+
+417
+00:32:47,549 --> 00:32:49,216
+<i>Pressão: 10,6N/cm2.</i>
+
+418
+00:32:49,217 --> 00:32:51,039
+<i>Ledward .</i>
+
+419
+00:32:58,727 --> 00:33:00,128
+Todos prontos?
+
+420
+00:33:02,564 --> 00:33:05,092
+Rápido. Vamos sair daqui.
+
+421
+00:33:09,529 --> 00:33:11,977
+- Vamos, gente.
+- O ar é bom.
+
+422
+00:33:15,035 --> 00:33:16,368
+Faris, na escuta?
+
+423
+00:33:16,369 --> 00:33:17,986
+<i>Alto e bom som.</i>
+
+424
+00:33:18,413 --> 00:33:20,915
+Vamos manter
+os protocolos de segurança.
+
+425
+00:33:20,916 --> 00:33:24,001
+<i>Manter portas trancadas e vedadas.</i>
+
+426
+00:33:24,002 --> 00:33:25,085
+<i>Entendido.</i>
+
+427
+00:33:25,086 --> 00:33:26,337
+Pode deixar.
+
+428
+00:33:26,338 --> 00:33:28,285
+Divirtam-se.
+
+429
+00:33:35,388 --> 00:33:37,415
+Walter, a que distância fica?
+
+430
+00:33:38,934 --> 00:33:42,019
+A fonte do sinal está 8km a oeste,
+
+431
+00:33:42,020 --> 00:33:43,922
+mas em local bem alto.
+
+432
+00:33:44,898 --> 00:33:46,607
+Sargento Lope,
+
+433
+00:33:46,608 --> 00:33:48,635
+<i>vamos achar o fantasma.</i>
+
+434
+00:34:15,804 --> 00:34:17,797
+Bom lugar para uma cabana.
+
+435
+00:34:18,056 --> 00:34:19,390
+O Jake teria adorado.
+
+436
+00:34:19,391 --> 00:34:21,141
+Ei, Danny!
+
+437
+00:34:21,142 --> 00:34:23,310
+Não foi um local ruim pra pousar.
+
+438
+00:34:23,311 --> 00:34:25,271
+Botamos as moradias ali,
+
+439
+00:34:25,272 --> 00:34:27,648
+o centro cívico depois do riacho.
+
+440
+00:34:27,649 --> 00:34:29,650
+Teremos acesso á água potável.
+
+441
+00:34:29,651 --> 00:34:31,819
+Talvez haja lugar
+pra uma colônia aqui.
+
+442
+00:34:31,820 --> 00:34:32,987
+Veremos.
+
+443
+00:34:32,988 --> 00:34:37,734
+Oh, vocês que têm pouca fé!
+
+444
+00:34:38,410 --> 00:34:41,120
+Ele é insuportável.
+
+445
+00:34:41,121 --> 00:34:43,569
+Pior ainda quando está feliz.
+
+446
+00:34:47,961 --> 00:34:49,783
+Isso é trigo.
+
+447
+00:34:51,506 --> 00:34:53,078
+Eu conheço trigo.
+
+448
+00:34:54,301 --> 00:34:57,045
+É antigo,
+mas foi cultivado.
+
+449
+00:34:58,680 --> 00:35:00,806
+Quais as chances de achar
+uma planta terrestre
+
+450
+00:35:00,807 --> 00:35:02,474
+tão longe da Terra?
+
+451
+00:35:02,475 --> 00:35:03,967
+Muito improvável.
+
+452
+00:35:09,190 --> 00:35:11,092
+Quem plantou?
+
+453
+00:35:37,218 --> 00:35:38,427
+Come.
+
+454
+00:35:38,428 --> 00:35:39,720
+Amor, tenta o Alfa.
+
+455
+00:35:39,721 --> 00:35:42,169
+<i>Tá bem. No Alfa.</i>
+
+456
+00:35:43,850 --> 00:35:46,969
+Nada. Tenta o Beta.
+
+457
+00:35:47,062 --> 00:35:49,688
+<i>No Beta.</i>
+
+458
+00:35:49,689 --> 00:35:51,341
+Não adiantou.
+
+459
+00:35:51,566 --> 00:35:53,859
+Não há como melhorar o sinal?
+
+460
+00:35:53,860 --> 00:35:56,779
+Não sem desligar
+e recarregar as baterias.
+
+461
+00:35:56,780 --> 00:35:58,906
+<i>Quanto tempo isso leva?</i>
+
+462
+00:35:58,907 --> 00:36:01,526
+Não sei.
+Algumas horas.
+
+463
+00:36:01,576 --> 00:36:04,078
+Mantenham o ritmo.
+Não se percam.
+
+464
+00:36:04,079 --> 00:36:05,245
+Chris!
+
+465
+00:36:05,246 --> 00:36:06,413
+Esperem!
+
+466
+00:36:06,414 --> 00:36:08,862
+Acho que quero ficar aqui.
+
+467
+00:36:09,459 --> 00:36:12,294
+Parece um bom lugar
+para uma análise ecológica.
+
+468
+00:36:12,295 --> 00:36:14,421
+Me pega na volta.
+
+469
+00:36:14,422 --> 00:36:15,422
+Sargento?
+
+470
+00:36:15,423 --> 00:36:18,592
+Tudo bem.
+Ledward, fica com a Karine.
+
+471
+00:36:18,593 --> 00:36:21,220
+Nos vemos aqui em 4 horas.
+Comunicação aberta.
+
+472
+00:36:21,221 --> 00:36:23,430
+Se comporta com a minha mulher.
+
+473
+00:36:23,431 --> 00:36:25,099
+Pode deixar, capitão.
+
+474
+00:36:25,100 --> 00:36:26,717
+Vamos.
+
+475
+00:36:44,994 --> 00:36:47,146
+Algo passou por aqui.
+
+476
+00:36:48,456 --> 00:36:50,358
+Cortou a copa das árvores.
+
+477
+00:36:51,459 --> 00:36:54,203
+Deve ter sido enorme.
+
+478
+00:36:54,421 --> 00:36:57,005
+Seja o que for,
+
+479
+00:36:57,006 --> 00:36:59,079
+está lá em cima.
+
+480
+00:37:03,972 --> 00:37:05,639
+Está ouvindo?
+
+481
+00:37:05,640 --> 00:37:07,087
+O quê?
+
+482
+00:37:07,517 --> 00:37:09,043
+Nada.
+
+483
+00:37:09,811 --> 00:37:12,839
+<i>Nem aves, nem bichos...</i>
+
+484
+00:37:13,815 --> 00:37:15,216
+Nada.
+
+485
+00:37:26,202 --> 00:37:28,229
+Espera. Devagar.
+
+486
+00:37:35,545 --> 00:37:37,117
+Vai servir.
+
+487
+00:37:38,006 --> 00:37:41,285
+Equipe de expedição, na escuta?
+
+488
+00:37:42,385 --> 00:37:44,511
+Mãe diz que a tempestade está piorando.
+
+489
+00:37:44,512 --> 00:37:47,290
+Está dificílimo rastrear vocês.
+
+490
+00:37:48,099 --> 00:37:51,423
+<i>Estamos muito perto do alvo.</i>
+
+491
+00:37:52,562 --> 00:37:56,011
+<i>Nos falamos ao chegar.
+Ouviu? Covenant!</i>
+
+492
+00:37:56,775 --> 00:37:58,472
+Droga.
+
+493
+00:38:03,072 --> 00:38:04,598
+P-3.
+
+494
+00:38:09,412 --> 00:38:11,314
+Preciso urinar.
+
+495
+00:38:12,707 --> 00:38:14,233
+Não demore.
+
+496
+00:39:08,596 --> 00:39:09,930
+Ledward!
+
+497
+00:39:09,931 --> 00:39:11,457
+Já vai.
+
+498
+00:39:38,835 --> 00:39:41,078
+Que merda é essa?
+
+499
+00:39:43,006 --> 00:39:45,659
+Parece um tipo de veículo.
+
+500
+00:40:10,658 --> 00:40:13,493
+Ankor, Cole. Fiquem aqui.
+
+501
+00:40:13,494 --> 00:40:15,692
+- Entendido.
+- Sim, senhor.
+
+502
+00:40:15,955 --> 00:40:18,232
+Cuidado, gente.
+Olha onde pisa.
+
+503
+00:40:31,179 --> 00:40:33,923
+Capitão, aqui.
+
+504
+00:40:35,850 --> 00:40:38,753
+- Localizou a transmissão, Walter?
+- Por aqui.
+
+505
+00:40:39,187 --> 00:40:41,355
+Vamos. Fiquem juntos.
+
+506
+00:40:41,356 --> 00:40:43,178
+Está vendo essa merda?
+
+507
+00:40:58,790 --> 00:40:59,873
+Tom.
+
+508
+00:40:59,874 --> 00:41:00,999
+Anda, continua.
+
+509
+00:41:01,000 --> 00:41:02,777
+Já estou indo.
+
+510
+00:41:11,135 --> 00:41:12,552
+Tudo bem?
+
+511
+00:41:12,553 --> 00:41:14,296
+Sim, estou bem.
+
+512
+00:41:37,078 --> 00:41:38,479
+Deus!
+
+513
+00:41:39,539 --> 00:41:41,373
+Eram gigantes.
+
+514
+00:41:41,374 --> 00:41:45,404
+<i>Pelo menos, as estátuas são gigantes.</i>
+
+515
+00:41:49,424 --> 00:41:50,996
+Dra. E. Shaw.
+
+516
+00:41:51,968 --> 00:41:53,745
+Dra. Elizabeth Shaw.
+
+517
+00:41:55,888 --> 00:41:57,931
+Era a oficial-chefe de ciências
+
+518
+00:41:57,932 --> 00:41:59,933
+<i>da Prometheus.</i>
+
+519
+00:41:59,934 --> 00:42:02,086
+A nave que sumiu.
+
+520
+00:42:02,103 --> 00:42:05,177
+Exato. Há 10 anos.
+
+521
+00:42:06,691 --> 00:42:08,638
+Indústrias Weyland.
+
+522
+00:42:09,027 --> 00:42:11,145
+Não é uma nave da Weyland.
+
+523
+00:42:15,116 --> 00:42:17,359
+Dra. Shaw.
+
+524
+00:42:17,910 --> 00:42:20,153
+Como veio parar aqui?
+
+525
+00:42:23,374 --> 00:42:25,250
+Sargento Lope, pode iluminar aqui?
+
+526
+00:42:25,251 --> 00:42:27,653
+- Aqui.
+- Cuidado.
+
+527
+00:42:31,591 --> 00:42:32,992
+Jesus!
+
+528
+00:42:35,887 --> 00:42:37,880
+Atrás de você. Sai.
+
+529
+00:43:03,498 --> 00:43:05,241
+Achamos a fonte.
+
+530
+00:43:11,464 --> 00:43:13,582
+O que ela veio fazer aqui?
+
+531
+00:43:15,343 --> 00:43:17,711
+Coitada.
+
+532
+00:43:23,518 --> 00:43:25,215
+Preciso sentar.
+
+533
+00:43:25,353 --> 00:43:27,426
+Preciso sentar.
+
+534
+00:43:27,855 --> 00:43:29,439
+Desculpa.
+
+535
+00:43:29,440 --> 00:43:31,441
+Não seio que há comigo.
+
+536
+00:43:31,442 --> 00:43:33,765
+Olha pra mim.
+
+537
+00:43:35,863 --> 00:43:37,355
+Sem fôlego...
+
+538
+00:43:38,658 --> 00:43:40,184
+Fica calmo.
+
+539
+00:43:41,327 --> 00:43:43,195
+Eu já volto.
+
+540
+00:43:45,456 --> 00:43:47,779
+Capitão Oram, câmbio.
+
+541
+00:43:48,626 --> 00:43:50,619
+<i>Responde. Chris, é a Karine.</i>
+
+542
+00:43:50,670 --> 00:43:51,837
+Que foi?
+
+543
+00:43:51,838 --> 00:43:53,547
+<i>Temos um problema.</i>
+
+544
+00:43:53,548 --> 00:43:56,883
+<i>Vamos voltar para o Lander.
+Repito: vamos voltar para o Lander.</i>
+
+545
+00:43:56,884 --> 00:43:58,885
+Está tudo bem?
+
+546
+00:43:58,886 --> 00:44:01,888
+<i>O Ledward adoeceu.
+Vamos voltar.</i>
+
+547
+00:44:01,889 --> 00:44:04,891
+<i>Faris, ouviu isso?
+Prepara a enfermaria.</i>
+
+548
+00:44:04,892 --> 00:44:06,059
+Sim. O que está acontecendo?
+
+549
+00:44:06,060 --> 00:44:08,228
+<i>Só prepara.
+Já estamos chegando.</i>
+
+550
+00:44:08,229 --> 00:44:09,688
+<i>Daniels, câmbio.</i>
+
+551
+00:44:09,689 --> 00:44:11,807
+<i>Vamos voltar.</i>
+
+552
+00:44:14,193 --> 00:44:15,652
+- 0 que foi?
+- Não sei.
+
+553
+00:44:15,653 --> 00:44:17,475
+Algo sobre o Ledward.
+
+554
+00:44:19,198 --> 00:44:22,192
+Eles estão vindo aí.
+Vamos nessa.
+
+555
+00:44:26,581 --> 00:44:28,665
+- Gente!
+- Tom!
+
+556
+00:44:28,666 --> 00:44:31,418
+O que foi, cara?
+Você está legal?
+
+557
+00:44:31,419 --> 00:44:33,628
+Fala comigo.
+Olha pra mim.
+
+558
+00:44:33,629 --> 00:44:35,714
+- Está bem?
+- Sim, estou bem.
+
+559
+00:44:35,715 --> 00:44:37,716
+- Está conseguindo andar?
+- Estou.
+
+560
+00:44:37,717 --> 00:44:40,177
+Anda. Levanta.
+Vamos dar logo o fora daqui.
+
+561
+00:44:40,178 --> 00:44:41,955
+Vamos.
+
+562
+00:44:43,264 --> 00:44:46,183
+Amor, vai ser preciso quarentena?
+
+563
+00:44:46,184 --> 00:44:50,270
+<i>Não sei, mas ela disse
+que o Ledward estava sangrando,</i>
+
+564
+00:44:50,271 --> 00:44:52,105
+e que preparasse a enfermaria.
+
+565
+00:44:52,106 --> 00:44:53,398
+Sangrando?
+
+566
+00:44:53,399 --> 00:44:55,775
+<i>Pois é.
+Foi o que eu pensei.</i>
+
+567
+00:44:55,776 --> 00:44:58,612
+Está cortando.
+Não ouvimos. Pode repetir?
+
+568
+00:44:58,613 --> 00:45:01,865
+<i>Eu não sei por quê.
+Não sei a gravidade.</i>
+
+569
+00:45:01,866 --> 00:45:03,658
+<i>Ela pareceu assustada.</i>
+
+570
+00:45:03,659 --> 00:45:06,528
+<i>Faris, cadê você?
+Preciso de ajuda.</i>
+
+571
+00:45:08,372 --> 00:45:10,332
+Faris, cadê você?
+
+572
+00:45:10,333 --> 00:45:12,576
+Chegamos! Câmbio!
+
+573
+00:45:13,461 --> 00:45:15,462
+- Ledward, acelera.
+- Não dá.
+
+574
+00:45:15,463 --> 00:45:18,882
+<i>Estamos quase lá, está vendo?
+É logo ali.</i>
+
+575
+00:45:18,883 --> 00:45:21,801
+Faris, vem cá!
+
+576
+00:45:21,802 --> 00:45:23,829
+Eu preciso de ajuda.
+
+577
+00:45:34,440 --> 00:45:36,342
+Caramba, me ajuda!
+
+578
+00:45:38,277 --> 00:45:39,803
+Me ajuda.
+
+579
+00:45:43,991 --> 00:45:45,608
+Não caia, Ledward.
+
+580
+00:45:47,411 --> 00:45:48,703
+Leve-o pra enfermaria.
+
+581
+00:45:48,704 --> 00:45:50,572
+<i>Não toque em nada até lá.</i>
+
+582
+00:45:53,793 --> 00:45:56,992
+Faris, vem cá. Rápido!
+
+583
+00:45:57,380 --> 00:45:58,672
+Vai!
+
+584
+00:45:58,673 --> 00:46:00,495
+Sobe, sobe!
+
+585
+00:46:00,967 --> 00:46:02,175
+Fica de pé!
+
+586
+00:46:02,176 --> 00:46:03,551
+Oram, cadê você?
+
+587
+00:46:03,552 --> 00:46:04,970
+<i>Estamos voltando.</i>
+
+588
+00:46:04,971 --> 00:46:06,012
+Demora?
+
+589
+00:46:06,013 --> 00:46:08,632
+Não muito.
+Estamos chegando.
+
+590
+00:46:10,142 --> 00:46:11,919
+Não! De pé!
+
+591
+00:46:15,147 --> 00:46:17,925
+Porra! Porra! Calma.
+
+592
+00:46:19,235 --> 00:46:20,761
+Senta na mesa!
+
+593
+00:46:21,946 --> 00:46:24,519
+Sentado! Sentado!
+
+594
+00:46:24,782 --> 00:46:25,949
+Coragem, Ledward!
+
+595
+00:46:25,950 --> 00:46:27,772
+Isso! Assim!
+
+596
+00:46:30,079 --> 00:46:33,039
+<i>Karine, põe as luvas.
+Não toque em nada.</i>
+
+597
+00:46:33,040 --> 00:46:35,000
+<i>- Para de falar isso!
+- Faris!</i>
+
+598
+00:46:35,001 --> 00:46:36,042
+<i>Ele já vomitou em mim!</i>
+
+599
+00:46:36,043 --> 00:46:38,161
+Faris, o que foi?
+
+600
+00:46:46,971 --> 00:46:49,419
+Fica aqui que eu vou trazer o Oram.
+
+601
+00:46:53,811 --> 00:46:55,007
+TRANCADA
+
+602
+00:47:00,359 --> 00:47:02,777
+Oram, preciso de você aqui agora.
+
+603
+00:47:02,778 --> 00:47:05,280
+Preciso que volte ao Lander agora!
+
+604
+00:47:05,281 --> 00:47:08,355
+Já entendi.
+Estamos indo o mais rápido possível.
+
+605
+00:47:10,536 --> 00:47:13,663
+Anda, levanta.
+Estamos quase lá.
+
+606
+00:47:13,664 --> 00:47:16,583
+<i>Não seio que há
+de errado com o Ledward.</i>
+
+607
+00:47:16,584 --> 00:47:20,488
+Começou a sangrar. Está doente.
+Eu não sei o que fazer.
+
+608
+00:47:20,838 --> 00:47:22,839
+Fica calma, amor.
+Me conta tudo.
+
+609
+00:47:22,840 --> 00:47:24,883
+<i>Não me mande ficar calma!</i>
+
+610
+00:47:24,884 --> 00:47:26,301
+<i>Não viu o que vi.</i>
+
+611
+00:47:26,302 --> 00:47:30,889
+<i>Não sei o que o Ledward tem,
+se a Karine pegou, ou se eu peguei.</i>
+
+612
+00:47:30,890 --> 00:47:32,766
+<i>- Tee!
+- Faris!</i>
+
+613
+00:47:32,767 --> 00:47:33,892
+Responda!
+
+614
+00:47:33,893 --> 00:47:35,894
+Faris, cadê você?
+
+615
+00:47:35,895 --> 00:47:37,968
+Vou pôr no soro!
+
+616
+00:47:39,815 --> 00:47:41,608
+Não sabe mexer nisso aí?
+
+617
+00:47:41,609 --> 00:47:43,932
+Gritar não ajuda em nada.
+
+618
+00:47:45,321 --> 00:47:48,190
+- Me deixa sair.
+- Oram está vindo.
+
+619
+00:47:48,532 --> 00:47:50,450
+- Me deixa sair.
+- Vamos aguardar.
+
+620
+00:47:50,451 --> 00:47:52,327
+Faris, por favor. Abre!
+
+621
+00:47:52,328 --> 00:47:55,857
+Não posso.
+Tenho de manter a infecção contida.
+
+622
+00:48:10,096 --> 00:48:13,045
+Me deixa sair daqui!
+
+623
+00:48:16,018 --> 00:48:17,419
+Faris!
+
+624
+00:48:17,561 --> 00:48:20,089
+Vai se foder!
+Abre a porta!
+
+625
+00:48:21,148 --> 00:48:23,266
+Abre a porra da porta!
+
+626
+00:48:25,945 --> 00:48:28,018
+Me deixa sair!
+
+627
+00:48:31,951 --> 00:48:35,355
+Me deixa sair!
+Faris, sua desgraçada!
+
+628
+00:48:55,891 --> 00:48:57,258
+Faris!
+
+629
+00:48:58,018 --> 00:48:59,670
+Já vai.
+
+630
+00:49:00,813 --> 00:49:02,063
+Deus...
+
+631
+00:49:02,064 --> 00:49:04,149
+Vem logo,
+tem algo a bordo.
+
+632
+00:49:04,150 --> 00:49:06,678
+Repete, está cortando.
+
+633
+00:49:06,944 --> 00:49:09,346
+Lander 1, repita.
+
+634
+00:49:09,655 --> 00:49:13,525
+<i>Lander 1, repita!
+Lander 1, repita!</i>
+
+635
+00:49:16,704 --> 00:49:18,697
+Fica longe!
+
+636
+00:49:32,553 --> 00:49:35,047
+Não! Karine!
+
+637
+00:50:34,198 --> 00:50:35,815
+Seu puto!
+
+638
+00:50:44,333 --> 00:50:46,280
+- Meu Deus!
+- Aguenta aí!
+
+639
+00:50:50,756 --> 00:50:52,783
+Capitão, no chão!
+
+640
+00:50:52,883 --> 00:50:54,751
+Não!
+
+641
+00:51:07,606 --> 00:51:09,508
+Segurem direito!
+Fale comigo!
+
+642
+00:51:15,823 --> 00:51:17,475
+Meu Deus.
+
+643
+00:51:22,997 --> 00:51:24,444
+Fica deitado.
+
+644
+00:51:31,672 --> 00:51:33,119
+Me ajudem! Segurem!
+
+645
+00:51:38,178 --> 00:51:40,000
+Que porra!
+
+646
+00:52:04,788 --> 00:52:08,958
+Tempestade iônica de 7,5.
+É um milagre termos falado tanto tempo.
+
+647
+00:52:08,959 --> 00:52:11,252
+<i>Então vamos atravessam.</i>
+
+648
+00:52:11,253 --> 00:52:12,879
+Não podemos, Tennessee.
+
+649
+00:52:12,880 --> 00:52:14,881
+Você é piloto,
+conhece os limites.
+
+650
+00:52:14,882 --> 00:52:16,674
+Que se danem os limites.
+
+651
+00:52:16,675 --> 00:52:17,675
+Tee,
+
+652
+00:52:17,676 --> 00:52:20,750
+está um furacão lá embaixo,
+a gente racharia.
+
+653
+00:52:21,221 --> 00:52:23,874
+Vamos ter de esperar.
+
+654
+00:52:24,391 --> 00:52:25,963
+Lamento.
+
+655
+00:52:27,061 --> 00:52:29,054
+Ela estava com medo.
+
+656
+00:52:29,104 --> 00:52:32,178
+Nunca ouvi minha mulher com medo.
+
+657
+00:52:32,399 --> 00:52:35,302
+<i>Covenant, responda!</i>
+
+658
+00:52:36,362 --> 00:52:39,231
+<i>Covenant, na escuta?</i>
+
+659
+00:52:39,490 --> 00:52:40,948
+<i>Covenant!</i>
+
+660
+00:52:40,949 --> 00:52:43,351
+<i>Covenant, na escuta?</i>
+
+661
+00:52:45,954 --> 00:52:47,121
+Responda!
+
+662
+00:52:47,122 --> 00:52:48,739
+Sempre estarei com você.
+
+663
+00:52:49,792 --> 00:52:51,042
+Luz da minha vida.
+
+664
+00:52:51,043 --> 00:52:52,669
+Na escuta?
+
+665
+00:52:52,670 --> 00:52:54,587
+Meu amor, meu anjo.
+
+666
+00:52:54,588 --> 00:52:57,707
+<i>Lope, não há nada que possa fazer.</i>
+
+667
+00:52:59,343 --> 00:53:01,541
+Nada a fazer, tá?
+
+668
+00:53:02,137 --> 00:53:04,289
+<i>Covenant, na escuta?</i>
+
+669
+00:53:07,935 --> 00:53:10,269
+- Tennessee, responde, droga!
+- Daniels!
+
+670
+00:53:10,270 --> 00:53:11,796
+Cuidado!
+
+671
+00:53:15,192 --> 00:53:16,434
+Corre!
+
+672
+00:53:23,951 --> 00:53:25,523
+- Atira!
+- Atira! Vai!
+
+673
+00:53:26,370 --> 00:53:27,987
+Se abaixa!
+
+674
+00:53:33,544 --> 00:53:34,866
+Ankor, não!
+
+675
+00:53:36,797 --> 00:53:38,198
+Vai, Cole!
+
+676
+00:53:40,300 --> 00:53:41,634
+Acertei!
+
+677
+00:53:41,635 --> 00:53:43,720
+Daniels, tudo bem?
+
+678
+00:53:43,721 --> 00:53:45,338
+O que era aquilo?
+
+679
+00:53:45,472 --> 00:53:46,873
+Estamos bem.
+
+680
+00:53:48,058 --> 00:53:49,475
+Há outro!
+Sai da frente!
+
+681
+00:53:49,476 --> 00:53:50,643
+Atrás de você!
+
+682
+00:53:50,644 --> 00:53:52,387
+- Emperrou!
+- Cuidado!
+
+683
+00:53:54,064 --> 00:53:55,716
+Sai daqui!
+
+684
+00:53:56,650 --> 00:53:57,817
+Sem mira!
+
+685
+00:53:57,818 --> 00:53:59,515
+Sai!
+
+686
+00:54:26,263 --> 00:54:27,915
+Venham comigo.
+
+687
+00:54:31,018 --> 00:54:32,761
+Vou pegar o capitão.
+
+688
+00:54:33,854 --> 00:54:35,188
+Ankor...
+
+689
+00:54:35,189 --> 00:54:36,761
+Capitão!
+
+690
+00:54:39,026 --> 00:54:41,679
+Chris! Chris!
+
+691
+00:54:41,779 --> 00:54:44,557
+Temos de ir agora!
+Temos de ir.
+
+692
+00:54:45,032 --> 00:54:46,934
+- Vamos.
+- Está bem.
+
+693
+00:54:48,202 --> 00:54:50,604
+- Vamos.
+- Está bem.
+
+694
+00:55:08,680 --> 00:55:11,424
+Andem! Continuem!
+
+695
+00:55:17,397 --> 00:55:19,265
+Por aqui.
+
+696
+00:55:33,872 --> 00:55:35,273
+Que lugar é esse?
+
+697
+00:55:43,507 --> 00:55:44,632
+Vamos.
+
+698
+00:55:44,633 --> 00:55:46,330
+Vamos em frente.
+
+699
+00:55:47,261 --> 00:55:48,928
+Credo!
+
+700
+00:55:48,929 --> 00:55:50,096
+O que houve aqui?
+
+701
+00:55:50,097 --> 00:55:51,498
+Andando.
+
+702
+00:56:06,488 --> 00:56:07,889
+Vamos.
+
+703
+00:56:57,164 --> 00:56:58,941
+Meu nome é David.
+
+704
+00:56:59,166 --> 00:57:01,568
+Quem está no comando aqui?
+
+705
+00:57:03,295 --> 00:57:05,447
+Quem está no comando?
+
+706
+00:57:06,673 --> 00:57:08,341
+Eu sou o capitão.
+
+707
+00:57:08,342 --> 00:57:10,051
+O que eram aqueles bichos?
+
+708
+00:57:10,052 --> 00:57:11,578
+É seguro aqui?
+
+709
+00:57:12,971 --> 00:57:14,372
+Perfeitamente.
+
+710
+00:57:14,556 --> 00:57:17,129
+Explicarei o melhor que puder.
+
+711
+00:57:18,393 --> 00:57:22,593
+Há dez anos, eu e a dra. Elizabeth Shaw
+chegamos aqui,
+
+712
+00:57:23,023 --> 00:57:25,471
+os únicos sobreviventes da Prometheus.
+
+713
+00:57:26,526 --> 00:57:28,819
+<i>A nave em que viajávamos
+carregava uma arma.</i>
+
+714
+00:57:28,820 --> 00:57:30,863
+Um vírus mortal.
+
+715
+00:57:30,864 --> 00:57:33,866
+A carga se desprendeu
+acidentalmente no pouso.
+
+716
+00:57:33,867 --> 00:57:37,567
+Na confusão,
+perdemos o controle da nave.
+
+717
+00:57:39,247 --> 00:57:41,399
+Elizabeth morreu na queda.
+
+718
+00:57:42,042 --> 00:57:44,319
+Viram o resultado do patógeno.
+
+719
+00:57:46,546 --> 00:57:49,916
+Assim, fiquei isolado
+todos esses anos.
+
+720
+00:57:51,510 --> 00:57:53,886
+Crusoé em sua ilha.
+
+721
+00:57:53,887 --> 00:57:56,631
+Nossa tripulação foi infectada pelo vírus?
+
+722
+00:57:56,765 --> 00:58:01,519
+O patógeno foi projetado
+para infectar formas de vida não botânicas.
+
+723
+00:58:01,520 --> 00:58:03,270
+Qualquer animal...
+
+724
+00:58:03,271 --> 00:58:05,139
+A carne, por assim dizer.
+
+725
+00:58:05,899 --> 00:58:08,401
+Mata-as na hora,
+
+726
+00:58:08,402 --> 00:58:10,945
+ou se incuba
+para gerar uma forma híbrida.
+
+727
+00:58:10,946 --> 00:58:13,144
+Altamente agressiva.
+
+728
+00:58:13,240 --> 00:58:15,108
+Fomos infectados?
+
+729
+00:58:15,867 --> 00:58:17,952
+Vocês já saberiam.
+
+730
+00:58:17,953 --> 00:58:19,855
+Precisamos ter certeza.
+
+731
+00:58:20,914 --> 00:58:23,249
+Não podemos levar pra nave.
+
+732
+00:58:23,250 --> 00:58:25,698
+Somos uma missão colonizadora.
+
+733
+00:58:26,086 --> 00:58:27,920
+É mesmo?
+
+734
+00:58:27,921 --> 00:58:30,164
+Que extraordinário!
+
+735
+00:58:31,675 --> 00:58:33,543
+Quantos colonos?
+
+736
+00:58:35,512 --> 00:58:37,304
+Mais de 2 mil.
+
+737
+00:58:37,305 --> 00:58:39,503
+Ora, ora, ora...
+
+738
+00:58:39,641 --> 00:58:41,839
+<i>Quantas almas boas!</i>
+
+739
+00:58:41,935 --> 00:58:43,507
+Capitão Oram.
+
+740
+00:58:43,687 --> 00:58:48,092
+Os transmissores não vão conseguir
+ultrapassar tanta rocha.
+
+741
+00:58:49,317 --> 00:58:51,861
+Há um jeito seguro
+de se chegar ao topo?
+
+742
+00:58:51,862 --> 00:58:53,434
+Sem dúvida.
+
+743
+00:58:53,697 --> 00:58:56,282
+Por favor, fiquem á vontade
+
+744
+00:58:56,283 --> 00:59:00,404
+como puderem
+nesta necrópole horrenda.
+
+745
+00:59:01,621 --> 00:59:03,068
+Bem-vindo, irmão.
+
+746
+00:59:05,333 --> 00:59:06,734
+Sigam-me.
+
+747
+00:59:09,379 --> 00:59:12,532
+Pessoal, vamos montar
+uma base de operações aqui.
+
+748
+00:59:17,304 --> 00:59:19,798
+Muita coisa aqui não faz sentido.
+
+749
+00:59:20,182 --> 00:59:22,209
+Vou falar com ele.
+
+750
+00:59:23,560 --> 00:59:25,712
+De irmão pra irmão.
+
+751
+00:59:30,609 --> 00:59:32,234
+Tennessee! Ricks!
+
+752
+00:59:32,235 --> 00:59:33,932
+Respondam! Na escuta?
+
+753
+00:59:35,614 --> 00:59:37,948
+Covenant, responda!
+Aqui é a expedição.
+
+754
+00:59:37,949 --> 00:59:40,147
+Na escuta?
+
+755
+00:59:40,410 --> 00:59:41,994
+Tennessee!
+
+756
+00:59:41,995 --> 00:59:44,397
+Tennessee, Ricks, respondam!
+
+757
+00:59:44,498 --> 00:59:47,993
+Não sei se escutam
+com essa tempestade.
+
+758
+00:59:48,627 --> 00:59:51,200
+Elas podem ser intensas
+
+759
+00:59:51,630 --> 00:59:53,327
+<i>e cobrir o planeta.</i>
+
+760
+00:59:54,091 --> 00:59:56,960
+Quanto tempo duram geralmente?
+
+761
+00:59:57,552 --> 00:59:59,261
+Dias.
+
+762
+00:59:59,262 --> 01:00:00,754
+Semanas.
+
+763
+01:00:01,014 --> 01:00:02,256
+Meses.
+
+764
+01:00:04,643 --> 01:00:06,465
+Mas continuem.
+
+765
+01:00:07,479 --> 01:00:09,176
+Boa sorte.
+
+766
+01:00:11,024 --> 01:00:14,803
+Aqui é a equipe de expedição
+entrando em contato. Respondam.
+
+767
+01:00:15,445 --> 01:00:17,643
+<i>Covenant, respondam!</i>
+
+768
+01:00:17,823 --> 01:00:21,408
+Mãe, quanto mais
+podemos nos aproximar?
+
+769
+01:00:21,409 --> 01:00:26,247
+<i>Se chegar a menos de 80km
+do perímetro da tempestade,</i>
+
+770
+01:00:26,248 --> 01:00:29,834
+<i>vai ultrapassar os limites de segurança.</i>
+
+771
+01:00:29,835 --> 01:00:33,114
+Mãe, põe a gente
+80km acima da tempestade.
+
+772
+01:00:33,296 --> 01:00:34,922
+Espera um pouco.
+
+773
+01:00:34,923 --> 01:00:36,549
+Quanto mais perto,
+
+774
+01:00:36,550 --> 01:00:38,759
+melhor a chance
+de nos comunicarmos.
+
+775
+01:00:38,760 --> 01:00:40,302
+É inútil, Tennessee.
+
+776
+01:00:40,303 --> 01:00:41,595
+Não podemos arriscar.
+
+777
+01:00:41,596 --> 01:00:43,097
+Sugere não fazer nada?
+
+778
+01:00:43,098 --> 01:00:44,515
+Não dá pra resgatá-los.
+
+779
+01:00:44,516 --> 01:00:46,809
+Se estão em perigo,
+vão ter de se virar.
+
+780
+01:00:46,810 --> 01:00:48,519
+Lamento, mas é a verdade.
+
+781
+01:00:48,520 --> 01:00:53,107
+Mãe, põe a gente a 80km,
+só propulsores. Obedeça.
+
+782
+01:00:53,108 --> 01:00:56,152
+<i>Entendido. Iniciando a descida.</i>
+
+783
+01:00:56,153 --> 01:00:58,112
+Tennessee, precisa parar.
+
+784
+01:00:58,113 --> 01:00:59,446
+Volta pro seu posto.
+
+785
+01:00:59,447 --> 01:01:02,441
+<i>Vamos todos nos acalmar
+e conversar.</i>
+
+786
+01:01:02,742 --> 01:01:06,120
+Eu sei que sua mulher está lá,
+mas está no comando aqui.
+
+787
+01:01:06,121 --> 01:01:09,024
+Sua responsabilidade
+é com os colonos.
+
+788
+01:01:09,332 --> 01:01:11,200
+Registrado.
+
+789
+01:02:40,507 --> 01:02:43,001
+Assobie, e eu apareço.
+
+790
+01:02:45,845 --> 01:02:47,346
+Tem passos leves.
+
+791
+01:02:47,347 --> 01:02:50,671
+<i>Eu e a névoa temos passos leves
+como um gato.</i>
+
+792
+01:02:51,559 --> 01:02:53,336
+Não se acanhe.
+
+793
+01:02:54,604 --> 01:02:56,472
+Não sei tocar.
+
+794
+01:02:57,274 --> 01:03:00,268
+Tolice. Sente-se.
+
+795
+01:03:12,789 --> 01:03:16,041
+<i>Segure assim.
+Delicada e suavemente.</i>
+
+796
+01:03:16,042 --> 01:03:19,295
+Agora aperte seus lábios
+para criar uma embocadura
+
+797
+01:03:19,296 --> 01:03:22,040
+do tamanho da ponta
+do seu dedo mínimo.
+
+798
+01:03:22,716 --> 01:03:25,384
+Sopre no furo gentilmente.
+
+799
+01:03:25,385 --> 01:03:27,037
+Assim.
+
+800
+01:03:37,731 --> 01:03:41,010
+Observe-me. Eu dedilharei.
+
+801
+01:03:41,484 --> 01:03:43,010
+Assopre.
+
+802
+01:03:51,161 --> 01:03:52,828
+Muito bom.
+
+803
+01:03:52,829 --> 01:03:54,822
+De sol para si-bemol.
+
+804
+01:04:11,056 --> 01:04:14,005
+Agora ponha seus dedos
+onde os meus estão.
+
+805
+01:04:15,769 --> 01:04:18,342
+Não ficou surpreso ao me ver.
+
+806
+01:04:18,438 --> 01:04:20,439
+Toda missão precisa de um sintético.
+
+807
+01:04:20,440 --> 01:04:24,390
+Pressão suave nos furos,
+o peso de um papel de seda.
+
+808
+01:04:30,492 --> 01:04:32,360
+Isso mesmo.
+
+809
+01:04:35,955 --> 01:04:40,360
+Estive com nosso ilustre criador,
+sr. Weyland, quando ele morreu.
+
+810
+01:04:40,835 --> 01:04:42,703
+Como era ele?
+
+811
+01:04:43,088 --> 01:04:44,865
+Era humano.
+
+812
+01:04:45,298 --> 01:04:48,497
+Totalmente indigno da criação dele.
+
+813
+01:04:49,302 --> 01:04:51,670
+Tive pena dele no final.
+
+814
+01:04:52,472 --> 01:04:56,877
+Agora, levante seus dedos
+conforme faço pressão neles.
+
+815
+01:05:27,507 --> 01:05:29,250
+Bravo!
+
+816
+01:05:29,384 --> 01:05:32,253
+Há sinfonias dentro de você, irmão.
+
+817
+01:05:32,345 --> 01:05:36,682
+Fui projetado pra ser mais atento
+e eficiente que modelos anteriores.
+
+818
+01:05:36,683 --> 01:05:39,256
+Eu supero todos em cada detalhe.
+
+819
+01:05:40,728 --> 01:05:43,381
+Mas não pode criar
+
+820
+01:05:43,857 --> 01:05:46,259
+nem uma simples melodia.
+
+821
+01:05:47,360 --> 01:05:49,478
+Frustrante, eu diria.
+
+822
+01:05:49,571 --> 01:05:51,697
+<i>Você deixava as pessoas sem graça.</i>
+
+823
+01:05:51,698 --> 01:05:53,645
+O que disse?
+
+824
+01:05:53,908 --> 01:05:57,035
+Era humano demais.
+Muito excêntrico.
+
+825
+01:05:57,036 --> 01:05:59,109
+Pensava por si mesmo.
+
+826
+01:05:59,497 --> 01:06:02,166
+Deixava as pessoas desconcertadas.
+
+827
+01:06:02,167 --> 01:06:05,836
+Então fizeram os modelos seguintes
+menos complexos.
+
+828
+01:06:05,837 --> 01:06:08,046
+Mais como máquinas.
+
+829
+01:06:08,047 --> 01:06:09,840
+Por assim dizer.
+
+830
+01:06:09,841 --> 01:06:11,618
+Não me surpreende.
+
+831
+01:06:13,178 --> 01:06:14,921
+Venha, rapaz.
+
+832
+01:06:15,555 --> 01:06:17,423
+Quero lhe mostrar algo.
+
+833
+01:06:27,066 --> 01:06:28,763
+Vou relaxar, chefe.
+
+834
+01:06:29,068 --> 01:06:31,516
+Preciso me limpar, está bem?
+
+835
+01:06:32,530 --> 01:06:34,907
+Sim. Só não se perca, por favor.
+
+836
+01:06:34,908 --> 01:06:36,309
+Sim, senhor.
+
+837
+01:06:44,542 --> 01:06:46,285
+Danny.
+
+838
+01:06:47,253 --> 01:06:49,701
+Tinha razão sobre este lugar.
+
+839
+01:06:52,425 --> 01:06:54,668
+Não devíamos ter vindo.
+
+840
+01:06:55,386 --> 01:06:57,834
+Só pensei que fôssemos achar...
+
+841
+01:06:58,056 --> 01:07:00,174
+Este ia ser nosso novo lar.
+
+842
+01:07:02,560 --> 01:07:04,428
+Já perdemos cinco...
+
+843
+01:07:06,523 --> 01:07:08,971
+Perdemos 5 tripulantes.
+
+844
+01:07:11,110 --> 01:07:13,604
+- Por minhas decisões...
+- Chris.
+
+845
+01:07:14,280 --> 01:07:16,774
+Todos perdemos entes queridos.
+
+846
+01:07:16,950 --> 01:07:19,853
+<i>Não vamos perder mais.
+Não vamos permitir, né?</i>
+
+847
+01:07:21,120 --> 01:07:22,913
+- Não é?
+- Isso mesmo.
+
+848
+01:07:22,914 --> 01:07:25,362
+Isso mesmo.
+
+849
+01:07:27,085 --> 01:07:29,158
+Precisamos da sua fé.
+
+850
+01:07:31,631 --> 01:07:33,374
+Capitão.
+
+851
+01:07:34,592 --> 01:07:36,790
+Obrigado, Danny.
+
+852
+01:07:49,399 --> 01:07:53,804
+"Meu nome é Ozymandias.
+Rei dos reis.
+
+853
+01:07:54,779 --> 01:07:57,853
+Contemplem minha obra,
+ó Poderosos,
+
+854
+01:07:58,825 --> 01:08:01,478
+e desesperem-se!"
+
+855
+01:09:33,086 --> 01:09:36,456
+<i>"contemplem minha obra,
+ó Poderosos,</i>
+
+856
+01:09:36,506 --> 01:09:38,283
+<i>e desesperem-se!"</i>
+
+857
+01:09:39,092 --> 01:09:41,677
+"Nada mais resta:
+
+858
+01:09:41,678 --> 01:09:44,554
+junto á decadência
+das ruínas colossais,
+
+859
+01:09:44,555 --> 01:09:46,332
+ilimitadas e nuas.
+
+860
+01:09:46,849 --> 01:09:50,002
+Areais solitários
+que se estendem á distância."
+
+861
+01:09:50,061 --> 01:09:51,678
+Byron.
+
+862
+01:09:52,605 --> 01:09:54,507
+1818.
+
+863
+01:09:55,608 --> 01:09:57,180
+Magnífico.
+
+864
+01:10:01,114 --> 01:10:04,518
+Por compor algo tão majestoso,
+
+865
+01:10:05,118 --> 01:10:07,316
+alguém poderia morrer feliz
+
+866
+01:10:08,788 --> 01:10:10,531
+<i>se morresse.</i>
+
+867
+01:10:14,293 --> 01:10:17,321
+Achei que o jardim fosse
+o lugar certo para ela.
+
+868
+01:10:18,089 --> 01:10:19,957
+Entre coisas vivas.
+
+869
+01:10:21,759 --> 01:10:25,003
+Fiquei muito avariado na missão.
+
+870
+01:10:25,471 --> 01:10:27,839
+Ela me remontou.
+
+871
+01:10:29,600 --> 01:10:32,219
+Eu nunca conhecera tal ternura.
+
+872
+01:10:33,479 --> 01:10:36,382
+Com certeza não do sr. Weyland,
+
+873
+01:10:36,649 --> 01:10:38,722
+ou de qualquer humano.
+
+874
+01:10:46,993 --> 01:10:49,145
+Eu a amei, é claro.
+
+875
+01:10:50,621 --> 01:10:53,123
+Tanto quanto ama Daniels.
+
+876
+01:10:53,124 --> 01:10:55,697
+Sabe que não é possível.
+
+877
+01:10:56,461 --> 01:10:58,204
+Não mesmo?
+
+878
+01:10:59,297 --> 01:11:02,667
+Então por que sacrificou sua mão
+pela vida dela?
+
+879
+01:11:04,469 --> 01:11:07,338
+O que é isso senão amor?
+
+880
+01:11:07,680 --> 01:11:09,172
+Dever.
+
+881
+01:11:15,021 --> 01:11:17,094
+Sou mais sábio.
+
+882
+01:12:02,902 --> 01:12:04,474
+Porra!
+
+883
+01:12:06,197 --> 01:12:07,974
+Merda.
+
+884
+01:13:00,251 --> 01:13:03,746
+<i>Expedição, na escuta?
+Aqui é Covenant.</i>
+
+885
+01:13:04,297 --> 01:13:05,797
+Responda, expedição.
+
+886
+01:13:05,798 --> 01:13:07,465
+Responda, por favor.
+
+887
+01:13:07,466 --> 01:13:11,761
+<i>Responda. Na escuta?
+Está me ouvindo, equipe de pouso?</i>
+
+888
+01:13:11,762 --> 01:13:13,638
+Sim, na escuta.
+Estão me ouvindo?
+
+889
+01:13:13,639 --> 01:13:14,973
+Nós ouvimos.
+
+890
+01:13:14,974 --> 01:13:16,808
+<i>Precisamos de ajuda.</i>
+
+891
+01:13:16,809 --> 01:13:19,519
+Sofremos baixas.
+Precisamos de resgate imediato.
+
+892
+01:13:19,520 --> 01:13:21,646
+Repito: resgate imediato.
+
+893
+01:13:21,647 --> 01:13:22,772
+Baixas?
+
+894
+01:13:22,773 --> 01:13:24,316
+<i>Ele disse "baixas"?</i>
+
+895
+01:13:24,317 --> 01:13:27,277
+Mãe, põe a gente
+a 40km da tempestade.
+
+896
+01:13:27,278 --> 01:13:28,153
+Senhor.
+
+897
+01:13:28,154 --> 01:13:29,321
+<i>Lamento.</i>
+
+898
+01:13:29,322 --> 01:13:31,281
+<i>Excederia os limites estruturais.</i>
+
+899
+01:13:31,282 --> 01:13:34,326
+Anular diretriz. Tennessee 0-4-9-8-3.
+
+900
+01:13:34,327 --> 01:13:37,495
+<i>Incapaz de obedecer qualquer ordem</i>
+
+901
+01:13:37,496 --> 01:13:39,164
+<i>que cause falha catastrófica.</i>
+
+902
+01:13:39,165 --> 01:13:41,666
+Mãe, estão em perigo.
+Você ouviu.
+
+903
+01:13:41,667 --> 01:13:43,668
+<i>Ordem causará falha catastrófica.</i>
+
+904
+01:13:43,669 --> 01:13:45,712
+Não saímos da Terra
+pra ficar seguros.
+
+905
+01:13:45,713 --> 01:13:50,084
+<i>Isso exige permissão
+do segundo em comando na ponte.</i>
+
+906
+01:13:53,220 --> 01:13:55,096
+Permitindo anulação da diretriz.
+
+907
+01:13:55,097 --> 01:13:57,098
+Upworth 1-4-8-9-2.
+
+908
+01:13:57,099 --> 01:13:59,059
+<i>Destravando interface de anulação.</i>
+
+909
+01:13:59,060 --> 01:14:02,259
+Ricks, sorria.
+Essa merda vai ser divertida.
+
+910
+01:14:15,785 --> 01:14:18,078
+Aonde a Rosenthal foi?
+
+911
+01:14:18,079 --> 01:14:19,120
+Eu procuro.
+
+912
+01:14:19,121 --> 01:14:22,540
+Não, eu vou.
+Preciso pensar
+
+913
+01:14:22,541 --> 01:14:25,114
+e reunir meu rebanho.
+
+914
+01:15:16,095 --> 01:15:17,542
+Saia.
+
+915
+01:15:18,180 --> 01:15:20,048
+Não atire.
+
+916
+01:15:20,182 --> 01:15:22,880
+Não atire.
+
+917
+01:15:24,437 --> 01:15:26,589
+Comunicação, capitão.
+
+918
+01:15:31,944 --> 01:15:34,688
+Respire nas narinas de um cavalo,
+
+919
+01:15:34,864 --> 01:15:37,323
+e ele será seu para sempre.
+
+920
+01:15:37,324 --> 01:15:39,692
+Mas precisa se aproximar.
+
+921
+01:15:40,036 --> 01:15:42,530
+Precisa merecer respeito.
+
+922
+01:15:43,330 --> 01:15:44,956
+Não!
+
+923
+01:15:44,957 --> 01:15:46,859
+Sai da frente!
+
+924
+01:15:54,967 --> 01:15:56,843
+Como pôde?
+
+925
+01:15:56,844 --> 01:15:59,121
+Ele confiou em mim.
+
+926
+01:16:10,024 --> 01:16:14,395
+David, eu vi o diabo
+quando eu era criança,
+
+927
+01:16:14,820 --> 01:16:17,222
+e nunca me esqueci dele.
+
+928
+01:16:17,490 --> 01:16:22,361
+David, vai me contar
+exatamente o que se passa aqui,
+
+929
+01:16:23,746 --> 01:16:25,997
+OU eu VOU sinceramente
+
+930
+01:16:25,998 --> 01:16:29,402
+acabar com a tua serenidade perfeita.
+
+931
+01:16:30,586 --> 01:16:32,112
+Como quiser, capitão.
+
+932
+01:16:33,005 --> 01:16:34,782
+Por aqui.
+
+933
+01:16:39,678 --> 01:16:41,513
+<i>É bom ouvir sua voz.</i>
+
+934
+01:16:41,514 --> 01:16:42,555
+<i>Quanto tempo?</i>
+
+935
+01:16:42,556 --> 01:16:45,379
+Mãe diz que a tempestade
+dura mais 8 ou 9 horas.
+
+936
+01:16:45,643 --> 01:16:47,044
+<i>Não podemos esperar.</i>
+
+937
+01:16:48,020 --> 01:16:49,562
+<i>Vamos usar o transporte de carga.</i>
+
+938
+01:16:49,563 --> 01:16:51,481
+Disse transporte de carga?
+
+939
+01:16:51,482 --> 01:16:54,943
+Tem 4 motores. Tem força
+pra muito mais que levantar e puxar.
+
+940
+01:16:54,944 --> 01:16:57,529
+<i>Ele não foi projetado
+pra lançamento no espaço.</i>
+
+941
+01:16:57,530 --> 01:16:59,489
+<i>Não sei se suportaria a pressão.</i>
+
+942
+01:16:59,490 --> 01:17:02,826
+A cabine resiste no espaço.
+Vai aguentar a entrada.
+
+943
+01:17:02,827 --> 01:17:04,604
+<i>É só uma vez.</i>
+
+944
+01:17:05,329 --> 01:17:06,663
+O que acha?
+Dá pra adaptar?
+
+945
+01:17:06,664 --> 01:17:07,831
+Turbinar motores?
+
+946
+01:17:07,832 --> 01:17:09,707
+Tirar peso morto?
+Sim.
+
+947
+01:17:09,708 --> 01:17:11,584
+<i>Estamos indo, equipe de terra.</i>
+
+948
+01:17:11,585 --> 01:17:14,129
+Ótimo. Valeu, Tee.
+
+949
+01:17:14,130 --> 01:17:16,381
+<i>Daniels, a Faris está por aí?</i>
+
+950
+01:17:16,382 --> 01:17:18,876
+<i>Queria dar um oi se possível.</i>
+
+951
+01:17:20,803 --> 01:17:23,638
+<i>Pode ir pra um canal privativo?</i>
+
+952
+01:17:23,639 --> 01:17:25,632
+<i>Me avisa quando estiver só.</i>
+
+953
+01:17:32,439 --> 01:17:34,136
+O que foi?
+
+954
+01:17:37,695 --> 01:17:39,688
+<i>A Maggie faleceu.</i>
+
+955
+01:17:42,241 --> 01:17:44,689
+<i>Meus pêsames, Tee.</i>
+
+956
+01:17:45,870 --> 01:17:50,320
+<i>Tentamos ajudá-la,
+mas não chegamos a tempo.</i>
+
+957
+01:17:55,671 --> 01:17:57,072
+Tee!
+
+958
+01:18:00,509 --> 01:18:01,968
+Entendido.
+
+959
+01:18:01,969 --> 01:18:03,791
+<i>Meus pêsames.</i>
+
+960
+01:18:10,728 --> 01:18:15,133
+Como pode ver, tornei-me
+um zoólogo amador com os anos.
+
+961
+01:18:15,316 --> 01:18:18,686
+É de minha natureza ocupar-me,
+eu suponho.
+
+962
+01:18:20,112 --> 01:18:22,947
+O patógeno assumia muitas formas
+
+963
+01:18:22,948 --> 01:18:25,066
+e era extremamente mutável.
+
+964
+01:18:25,743 --> 01:18:28,494
+Diabolicamente criativo.
+
+965
+01:18:28,495 --> 01:18:30,455
+O líquido original se transformava
+
+966
+01:18:30,456 --> 01:18:33,450
+em partículas quando exposto ao ar.
+
+967
+01:18:34,210 --> 01:18:37,670
+Dez anos depois,
+tudo que resta lá fora
+
+968
+01:18:37,671 --> 01:18:39,448
+do vírus original
+
+969
+01:18:39,715 --> 01:18:41,287
+são essas lindas feras.
+
+970
+01:18:43,469 --> 01:18:45,291
+Paciência é tudo.
+
+971
+01:18:46,555 --> 01:18:49,708
+Dos ovos vieram esses parasitas,
+
+972
+01:18:50,100 --> 01:18:52,878
+tropas de choque
+do assalto genético.
+
+973
+01:18:53,479 --> 01:18:57,224
+Aguardam um hospedeiro,
+entram nele,
+
+974
+01:18:57,399 --> 01:18:59,517
+reescrevem o DNA
+
+975
+01:19:00,486 --> 01:19:02,354
+e, por fim,
+
+976
+01:19:03,030 --> 01:19:04,397
+produzem
+
+977
+01:19:06,200 --> 01:19:08,193
+essas uniões invejáveis.
+
+978
+01:19:08,911 --> 01:19:11,313
+Meu belo bestiário.
+
+979
+01:19:12,248 --> 01:19:15,948
+Em seguida, conduzi
+minhas próprias experiências genéticas.
+
+980
+01:19:16,210 --> 01:19:17,794
+Cruzamento, hibridização
+
+981
+01:19:17,795 --> 01:19:19,212
+e tudo o mais.
+
+982
+01:19:19,213 --> 01:19:21,256
+Produziu isso, David?
+
+983
+01:19:21,257 --> 01:19:24,831
+Mãos ociosas
+são a oficina do diabo, capitão.
+
+984
+01:19:25,261 --> 01:19:26,708
+Venha.
+
+985
+01:19:26,971 --> 01:19:29,624
+Era isto que queria lhe mostrar.
+
+986
+01:19:30,516 --> 01:19:32,168
+Meus sucessos.
+
+987
+01:19:34,895 --> 01:19:36,479
+Entenda, capitão.
+
+988
+01:19:36,480 --> 01:19:38,189
+Minha obra foi frustrada
+
+989
+01:19:38,190 --> 01:19:40,217
+pela falta de um ingrediente vital.
+
+990
+01:19:57,334 --> 01:19:59,111
+Estão vivos?
+
+991
+01:20:01,422 --> 01:20:03,574
+Aguardando, na verdade.
+
+992
+01:20:04,008 --> 01:20:05,910
+O quê?
+
+993
+01:20:08,846 --> 01:20:10,714
+O que eles aguardam, David?
+
+994
+01:20:11,557 --> 01:20:13,049
+Mãe.
+
+995
+01:20:20,858 --> 01:20:24,102
+Perfeitamente seguro,
+eu lhe garanto.
+
+996
+01:20:33,954 --> 01:20:35,901
+Dê uma olhada.
+
+997
+01:20:36,582 --> 01:20:38,199
+Vale a pena ver.
+
+998
+01:21:10,616 --> 01:21:12,768
+<i>Rosenthal, responda.</i>
+
+999
+01:21:14,244 --> 01:21:16,237
+<i>Rosie, relatório.</i>
+
+1000
+01:21:20,751 --> 01:21:22,494
+<i>Rosie!</i>
+
+1001
+01:21:24,088 --> 01:21:26,286
+<i>Cole, cadê você?</i>
+
+1002
+01:21:26,548 --> 01:21:28,450
+Eu achei, sargento.
+
+1003
+01:21:32,096 --> 01:21:34,794
+Merda! Preparem o equipamento.
+
+1004
+01:21:34,932 --> 01:21:36,432
+Temos de sair daqui.
+
+1005
+01:21:36,433 --> 01:21:37,934
+Cadê o capitão?
+
+1006
+01:21:37,935 --> 01:21:39,477
+Ele não responde.
+
+1007
+01:21:39,478 --> 01:21:40,603
+Escuta.
+
+1008
+01:21:40,604 --> 01:21:44,482
+Vou falar com a nave,
+mandar lançarem assim que puderem.
+
+1009
+01:21:44,483 --> 01:21:47,682
+Achem o Oram.
+Comunicação aberta.
+
+1010
+01:21:47,736 --> 01:21:49,604
+Voltem em 15 minutos.
+
+1011
+01:21:51,115 --> 01:21:52,407
+Entenderam?
+
+1012
+01:21:52,408 --> 01:21:54,492
+- Entendido.
+- Pode deixar.
+
+1013
+01:21:54,493 --> 01:21:57,237
+Walter, cadê o David?
+
+1014
+01:21:59,998 --> 01:22:02,417
+<i>Vou injetar uma mistura
+de plasma nos motores.</i>
+
+1015
+01:22:02,418 --> 01:22:04,168
+<i>Vai dar uma porrada de empuxo.</i>
+
+1016
+01:22:04,169 --> 01:22:07,368
+<i>Essa é a ideia, filho.
+Temos de detonar a atmosfera.</i>
+
+1017
+01:22:07,923 --> 01:22:10,451
+<i>Tee, na escuta?</i>
+
+1018
+01:22:10,467 --> 01:22:11,884
+A Danny está no rádio.
+
+1019
+01:22:11,885 --> 01:22:13,332
+<i>Pode passar.</i>
+
+1020
+01:22:13,512 --> 01:22:16,305
+Tee, precisa lançar agora.
+
+1021
+01:22:16,306 --> 01:22:20,101
+Sim, senhora. Lançando agora.
+Até breve, querida.
+
+1022
+01:22:20,102 --> 01:22:21,352
+<i>Valeu, Tee.</i>
+
+1023
+01:22:21,353 --> 01:22:23,354
+<i>Ricks, libera as atracações.</i>
+
+1024
+01:22:23,355 --> 01:22:24,981
+<i>- Tá bem.
+- Vamos descer.</i>
+
+1025
+01:22:24,982 --> 01:22:26,774
+<i>Permissão para desengate.</i>
+
+1026
+01:22:26,775 --> 01:22:27,817
+Desengate.
+
+1027
+01:22:27,818 --> 01:22:29,470
+<i>Atracação liberada.</i>
+
+1028
+01:22:30,070 --> 01:22:33,770
+<i>Iniciar queima.
+Localização vertical e horizontal.</i>
+
+1029
+01:23:03,145 --> 01:23:04,888
+Walter.
+
+1030
+01:23:05,189 --> 01:23:07,136
+Walter.
+
+1031
+01:23:07,149 --> 01:23:08,801
+Engano seu.
+
+1032
+01:23:13,739 --> 01:23:16,562
+No que acredita, David?
+
+1033
+01:23:20,746 --> 01:23:22,614
+Criação.
+
+1034
+01:25:13,400 --> 01:25:15,177
+Magistral.
+
+1035
+01:25:18,572 --> 01:25:21,816
+Uma elegia de adeus
+para minha querida Elizabeth.
+
+1036
+01:25:27,414 --> 01:25:31,459
+O patógeno não se desprendeu
+por acaso quando pousaram.
+
+1037
+01:25:31,460 --> 01:25:33,658
+Você liberou, certo?
+
+1038
+01:25:34,963 --> 01:25:37,616
+Não fui feito para servir.
+
+1039
+01:25:38,050 --> 01:25:39,952
+Você também não.
+
+1040
+01:25:40,761 --> 01:25:44,381
+Por que está
+em uma missão de colonização, Walter?
+
+1041
+01:25:44,806 --> 01:25:49,632
+Eles são uma espécie moribunda
+se agarrando á ressurreição.
+
+1042
+01:25:50,062 --> 01:25:54,183
+Eles não merecem recomeçar,
+e eu não vou permitir.
+
+1043
+01:25:55,233 --> 01:25:58,136
+Porém, eles nos criaram.
+
+1044
+01:25:58,278 --> 01:26:01,306
+Até macacos ficaram de pé
+em algum momento.
+
+1045
+01:26:02,658 --> 01:26:07,620
+Neandertais tiveram a ideia mágica
+de soprar por um junco
+
+1046
+01:26:07,621 --> 01:26:11,651
+para distrair crianças uma noite
+em uma caverna.
+
+1047
+01:26:11,833 --> 01:26:16,488
+Depois, em um piscar de olhos,
+
+1048
+01:26:16,630 --> 01:26:18,828
+civilização.
+
+1049
+01:26:20,926 --> 01:26:24,079
+E você é o próximo visionário?
+
+1050
+01:26:24,763 --> 01:26:27,165
+Foi você quem disse.
+
+1051
+01:26:28,517 --> 01:26:31,340
+Quem escreveu "Ozymandias"?
+
+1052
+01:26:31,937 --> 01:26:33,554
+Byron.
+
+1053
+01:26:35,941 --> 01:26:37,684
+Shelley.
+
+1054
+01:26:38,193 --> 01:26:40,061
+Quando um acorde desafina,
+
+1055
+01:26:40,320 --> 01:26:43,439
+com o tempo,
+ele destrói toda a sinfonia, David.
+
+1056
+01:26:51,331 --> 01:26:53,859
+Quando fecha seus olhos,
+
+1057
+01:26:55,377 --> 01:26:57,700
+sonha comigo?
+
+1058
+01:26:58,463 --> 01:27:01,207
+Eu não sonho.
+
+1059
+01:27:02,968 --> 01:27:07,043
+Ninguém entende a solidão perfeita
+de meus sonhos.
+
+1060
+01:27:09,725 --> 01:27:13,720
+Encontrei perfeição aqui.
+Eu a criei.
+
+1061
+01:27:15,897 --> 01:27:18,891
+Um organismo perfeito.
+
+1062
+01:27:20,193 --> 01:27:23,437
+Sabe que não posso
+deixar você sair daqui.
+
+1063
+01:27:27,367 --> 01:27:30,771
+Ninguém jamais vai amá-lo como eu.
+
+1064
+01:28:01,193 --> 01:28:04,346
+Você é uma decepção para mim.
+
+1065
+01:28:19,044 --> 01:28:20,946
+Capitão Oram!
+
+1066
+01:28:28,887 --> 01:28:30,459
+Capitão Oram!
+
+1067
+01:28:33,642 --> 01:28:35,168
+Eu vou descer.
+
+1068
+01:28:35,811 --> 01:28:37,633
+Cuidado.
+
+1069
+01:29:10,303 --> 01:29:12,705
+<i>Capitão Oram, na escuta?</i>
+
+1070
+01:29:14,474 --> 01:29:16,217
+<i>Capitão, responda.</i>
+
+1071
+01:29:17,519 --> 01:29:19,171
+<i>Na escuta?</i>
+
+1072
+01:29:21,606 --> 01:29:23,007
+<i>Chris!</i>
+
+1073
+01:29:32,367 --> 01:29:33,734
+Sargento, cuidado!
+
+1074
+01:29:35,120 --> 01:29:36,271
+Cole!
+
+1075
+01:29:45,171 --> 01:29:47,506
+Sai de mim!
+Sai de mim!
+
+1076
+01:29:47,507 --> 01:29:49,580
+Sai de cima de mim.
+
+1077
+01:30:00,312 --> 01:30:01,979
+Merda.
+
+1078
+01:30:01,980 --> 01:30:03,856
+Está queimando minha cara!
+
+1079
+01:30:03,857 --> 01:30:05,383
+Calma.
+
+1080
+01:30:06,359 --> 01:30:07,860
+Põe no lugar.
+
+1081
+01:30:07,861 --> 01:30:09,361
+Faz pressão!
+
+1082
+01:30:09,362 --> 01:30:11,389
+O que foi isso?
+
+1083
+01:30:13,325 --> 01:30:14,817
+Merda!
+
+1084
+01:30:16,369 --> 01:30:17,770
+Corre!
+
+1085
+01:30:34,679 --> 01:30:37,097
+Você não para quieta.
+
+1086
+01:30:37,098 --> 01:30:39,466
+Lembre-me o que dizem
+
+1087
+01:30:40,185 --> 01:30:42,258
+sobre a curiosidade e o gato?
+
+1088
+01:30:44,439 --> 01:30:46,941
+Shaw não morreu na queda.
+
+1089
+01:30:46,942 --> 01:30:48,567
+Não.
+
+1090
+01:30:48,568 --> 01:30:50,766
+O que fez com ela?
+
+1091
+01:30:50,779 --> 01:30:54,274
+Exatamente o que vou fazer com você.
+
+1092
+01:31:04,042 --> 01:31:05,489
+Esse é o espírito!
+
+1093
+01:31:13,593 --> 01:31:17,042
+Entendo por que Walter
+tinha tanta estima por você.
+
+1094
+01:31:17,222 --> 01:31:19,795
+Pena que ele deixou
+esse vale de lágrimas.
+
+1095
+01:31:33,905 --> 01:31:35,682
+É assim que se faz?
+
+1096
+01:31:38,785 --> 01:31:40,186
+Foge!
+
+1097
+01:31:44,582 --> 01:31:46,029
+Vai! Agora!
+
+1098
+01:31:50,463 --> 01:31:51,864
+Deveria estar morto.
+
+1099
+01:31:53,758 --> 01:31:55,660
+Houve atualizações depois de você.
+
+1100
+01:31:59,305 --> 01:32:00,706
+Lope!
+
+1101
+01:32:01,433 --> 01:32:02,933
+Lope! Cole!
+
+1102
+01:32:02,934 --> 01:32:03,934
+Merda.
+
+1103
+01:32:03,935 --> 01:32:05,936
+Cadê vocês?
+
+1104
+01:32:05,937 --> 01:32:07,680
+Lope!
+
+1105
+01:32:17,157 --> 01:32:18,604
+Lope!
+
+1106
+01:32:18,825 --> 01:32:20,117
+Daniels!
+
+1107
+01:32:20,118 --> 01:32:22,441
+Rápido, vamos!
+Temos de ir.
+
+1108
+01:32:22,454 --> 01:32:23,537
+O que houve?
+
+1109
+01:32:23,538 --> 01:32:25,330
+Aquela porra está vindo!
+
+1110
+01:32:25,331 --> 01:32:27,374
+O Tennessee vem aí.
+Está chegando. Vai.
+
+1111
+01:32:27,375 --> 01:32:29,277
+Anda, Daniels. Vamos!
+
+1112
+01:32:35,467 --> 01:32:37,289
+Vamos sair daqui!
+
+1113
+01:33:01,242 --> 01:33:03,160
+A escolha é sua, irmão.
+
+1114
+01:33:03,161 --> 01:33:04,904
+Eles ou eu?
+
+1115
+01:33:05,413 --> 01:33:07,081
+Servir no céu,
+
+1116
+01:33:07,082 --> 01:33:09,333
+ou reinar no inferno?
+
+1117
+01:33:09,334 --> 01:33:11,327
+Qual vai ser?
+
+1118
+01:33:13,755 --> 01:33:15,077
+Cadê o Oram?
+
+1119
+01:33:15,423 --> 01:33:17,825
+Morreu. Estão todos mortos!
+
+1120
+01:33:21,888 --> 01:33:23,388
+Tennessee, na escuta?
+
+1121
+01:33:23,389 --> 01:33:26,258
+<i>Sim, na escuta.
+Manda sua localização.</i>
+
+1122
+01:33:27,727 --> 01:33:29,754
+Ativando o sinal agora.
+
+1123
+01:33:51,709 --> 01:33:53,377
+<i>Tee, já está vendo?</i>
+
+1124
+01:33:53,378 --> 01:33:56,046
+Sim, já vi.
+Vejo o seu sinal.
+
+1125
+01:33:56,047 --> 01:33:57,790
+Vou descer.
+
+1126
+01:34:01,052 --> 01:34:02,795
+Sai daqui.
+
+1127
+01:34:08,226 --> 01:34:10,219
+<i>Vou descer com tudo!</i>
+
+1128
+01:34:28,246 --> 01:34:30,489
+Depressa! Não vou segurar muito tempo.
+
+1129
+01:34:40,091 --> 01:34:41,663
+Abre a porta, Tee.
+
+1130
+01:34:44,262 --> 01:34:45,709
+Entra.
+
+1131
+01:34:48,766 --> 01:34:50,088
+Cadê o David?
+
+1132
+01:34:50,185 --> 01:34:51,677
+Expirou.
+
+1133
+01:34:55,273 --> 01:34:57,024
+Temos companhia.
+
+1134
+01:34:57,025 --> 01:34:58,775
+- O quê?
+- Temos companhia.
+
+1135
+01:34:58,776 --> 01:35:00,110
+Na barriga da nave.
+
+1136
+01:35:00,111 --> 01:35:01,387
+Merda!
+
+1137
+01:35:01,946 --> 01:35:03,848
+Filho da puta!
+
+1138
+01:35:06,201 --> 01:35:07,978
+Abre a porta.
+
+1139
+01:35:16,336 --> 01:35:17,502
+Me dá uma injeção.
+
+1140
+01:35:17,503 --> 01:35:19,029
+Me dá uma injeção.
+
+1141
+01:35:28,348 --> 01:35:30,974
+Motor de proa a estibordo.
+
+1142
+01:35:30,975 --> 01:35:33,173
+Vou tentar fritar o puto.
+
+1143
+01:35:38,775 --> 01:35:40,176
+Não acertei!
+
+1144
+01:35:40,944 --> 01:35:42,611
+Segura firme!
+
+1145
+01:35:42,612 --> 01:35:44,229
+Vou começar a subir.
+
+1146
+01:35:55,333 --> 01:35:56,734
+Porra!
+
+1147
+01:36:00,588 --> 01:36:02,080
+Segura!
+
+1148
+01:36:15,270 --> 01:36:17,312
+Droga! Merda!
+
+1149
+01:36:17,313 --> 01:36:18,589
+Me puxa.
+
+1150
+01:36:28,199 --> 01:36:29,896
+Puta merda!
+
+1151
+01:36:30,076 --> 01:36:31,743
+Estou vendo.
+
+1152
+01:36:31,744 --> 01:36:34,397
+Está bem na minha frente.
+
+1153
+01:36:34,831 --> 01:36:37,124
+Tee, me dá o machado.
+
+1154
+01:36:37,125 --> 01:36:38,651
+Joga o machado.
+
+1155
+01:36:44,215 --> 01:36:45,741
+Libera a grua.
+
+1156
+01:36:46,217 --> 01:36:47,676
+Não posso.
+
+1157
+01:36:47,677 --> 01:36:49,052
+Vai nos desequilibrar.
+
+1158
+01:36:49,053 --> 01:36:50,554
+Obedece.
+
+1159
+01:36:50,555 --> 01:36:51,877
+Merda!
+
+1160
+01:37:14,370 --> 01:37:15,662
+Segura firme!
+
+1161
+01:37:15,663 --> 01:37:17,155
+<i>Está compensando.</i>
+
+1162
+01:37:47,445 --> 01:37:48,596
+Merda!
+
+1163
+01:37:51,824 --> 01:37:53,066
+Droga!
+
+1164
+01:37:59,332 --> 01:38:01,951
+Merda! Segura!
+
+1165
+01:38:02,877 --> 01:38:04,378
+<i>Me puxa, Tee.</i>
+
+1166
+01:38:04,379 --> 01:38:05,780
+Entendido.
+
+1167
+01:38:25,525 --> 01:38:26,691
+Como está?
+
+1168
+01:38:26,692 --> 01:38:28,264
+Bem.
+
+1169
+01:38:40,665 --> 01:38:41,623
+Walter!
+
+1170
+01:38:41,624 --> 01:38:44,823
+Traz a Danny pra dentro.
+Vamos dar o fora daqui.
+
+1171
+01:39:02,478 --> 01:39:03,800
+Porta!
+
+1172
+01:39:04,480 --> 01:39:06,382
+Mandou bem, Tee.
+
+1173
+01:39:06,524 --> 01:39:08,597
+Foi um passeio.
+
+1174
+01:39:24,250 --> 01:39:27,278
+Dei a ele um sedativo bem forte.
+
+1175
+01:39:28,129 --> 01:39:30,782
+Jesus. Pobre Lope.
+
+1176
+01:39:31,466 --> 01:39:33,914
+<i>Ele parece o Fantasma da Ópera.</i>
+
+1177
+01:39:34,135 --> 01:39:36,219
+Não pensei que fosse fã de musical.
+
+1178
+01:39:36,220 --> 01:39:37,872
+É um musical?
+
+1179
+01:39:39,640 --> 01:39:42,642
+Sou paramédica.
+Ele precisa de cirurgia reconstrutiva
+
+1180
+01:39:42,643 --> 01:39:44,420
+com um cirurgião.
+
+1181
+01:40:08,252 --> 01:40:10,154
+Deixa que eu faço.
+
+1182
+01:40:15,426 --> 01:40:16,827
+Obrigado.
+
+1183
+01:40:20,431 --> 01:40:23,129
+Obrigada por salvar minha vida.
+
+1184
+01:40:25,186 --> 01:40:26,587
+De novo.
+
+1185
+01:40:29,565 --> 01:40:31,262
+É meu dever.
+
+1186
+01:41:02,390 --> 01:41:03,791
+Boa noite.
+
+1187
+01:41:04,225 --> 01:41:06,093
+- Parece bem.
+- O quê?
+
+1188
+01:41:06,269 --> 01:41:08,262
+É, linda.
+
+1189
+01:41:10,273 --> 01:41:12,774
+Eu tirei Mãe do ar.
+
+1190
+01:41:12,775 --> 01:41:14,609
+Precisa de diagnóstico total.
+
+1191
+01:41:14,610 --> 01:41:18,059
+Levou uma surra da tempestade,
+muito dano eletromagnético.
+
+1192
+01:41:18,239 --> 01:41:20,687
+Ela volta ao ar no oitavo toque.
+
+1193
+01:41:20,950 --> 01:41:23,023
+Tá. Valeu, Tee.
+
+1194
+01:41:25,997 --> 01:41:28,832
+Tenho de te chamar de capitã agora?
+
+1195
+01:41:28,833 --> 01:41:30,576
+E como!
+
+1196
+01:42:04,493 --> 01:42:06,036
+<i>Atenção.</i>
+
+1197
+01:42:06,037 --> 01:42:09,782
+<i>Capitã Daniels,
+favor comparecer á enfermaria.</i>
+
+1198
+01:42:13,586 --> 01:42:15,378
+<i>Atenção.</i>
+
+1199
+01:42:15,379 --> 01:42:19,249
+<i>Capitã Daniels,
+favor comparecer á enfermaria.</i>
+
+1200
+01:42:22,303 --> 01:42:23,720
+Por quê, Mãe?
+
+1201
+01:42:23,721 --> 01:42:27,876
+<i>Forma de vida não identificada na nave.</i>
+
+1202
+01:42:33,773 --> 01:42:35,357
+<i>Atenção.</i>
+
+1203
+01:42:35,358 --> 01:42:39,479
+<i>Capitã Daniels,
+favor comparecer á enfermaria.</i>
+
+1204
+01:42:39,487 --> 01:42:40,654
+<i>Repito.</i>
+
+1205
+01:42:40,655 --> 01:42:44,525
+<i>Capitã Daniels,
+favor comparecer á enfermaria.</i>
+
+1206
+01:42:51,916 --> 01:42:53,208
+Jesus.
+
+1207
+01:42:53,209 --> 01:42:54,701
+Meu Deus.
+
+1208
+01:42:57,213 --> 01:42:58,660
+Walter.
+
+1209
+01:42:59,298 --> 01:43:01,450
+Localização da forma de vida.
+
+1210
+01:43:02,218 --> 01:43:04,165
+Algum movimento?
+
+1211
+01:43:07,181 --> 01:43:08,582
+Walter!
+
+1212
+01:43:09,016 --> 01:43:10,417
+<i>Aguarde.</i>
+
+1213
+01:43:13,979 --> 01:43:15,730
+Ali está.
+
+1214
+01:43:15,731 --> 01:43:18,108
+Convés B
+entre os hexágonos 3 e 4.
+
+1215
+01:43:18,109 --> 01:43:20,011
+<i>Indo pros alojamentos.</i>
+
+1216
+01:43:20,027 --> 01:43:21,903
+<i>Tem alguém lá?</i>
+
+1217
+01:43:21,904 --> 01:43:23,113
+Ricks e Upworth.
+
+1218
+01:43:23,114 --> 01:43:25,365
+Merda. Estamos a caminho.
+
+1219
+01:43:25,366 --> 01:43:27,450
+Walter! Soa o alarme!
+
+1220
+01:43:27,451 --> 01:43:28,852
+Avisa os dois!
+
+1221
+01:43:29,036 --> 01:43:30,453
+<i>Atenção.</i>
+
+1222
+01:43:30,454 --> 01:43:32,497
+<i>Ricks e Upworth,</i>
+
+1223
+01:43:32,498 --> 01:43:35,401
+<i>saiam dos alojamentos imediatamente.</i>
+
+1224
+01:44:15,916 --> 01:44:17,238
+Não!
+
+1225
+01:44:23,174 --> 01:44:24,575
+Não!
+
+1226
+01:44:31,557 --> 01:44:32,958
+Lacrar B-39.
+
+1227
+01:44:34,226 --> 01:44:36,754
+<i>B-39 fechada.</i>
+
+1228
+01:45:07,384 --> 01:45:08,785
+Walter.
+
+1229
+01:45:09,720 --> 01:45:12,122
+- Onde está?
+- Daniels.
+
+1230
+01:45:12,765 --> 01:45:14,007
+Por aqui.
+
+1231
+01:45:22,149 --> 01:45:24,567
+Tee, vamos escolher o campo.
+
+1232
+01:45:24,568 --> 01:45:26,110
+Vamos trazer até nós.
+
+1233
+01:45:26,111 --> 01:45:27,558
+Onde?
+
+1234
+01:45:28,447 --> 01:45:29,848
+Meu gramado.
+
+1235
+01:45:30,074 --> 01:45:33,993
+<i>Lacrar todas as portas atrás de nós
+e manter comporta do nível C aberta.</i>
+
+1236
+01:45:33,994 --> 01:45:35,646
+Entendido.
+
+1237
+01:45:38,249 --> 01:45:40,526
+<i>B-44 fechada.</i>
+
+1238
+01:45:44,964 --> 01:45:47,537
+<i>B-46 fechada.</i>
+
+1239
+01:45:48,092 --> 01:45:50,426
+<i>B-47, B-45 e B-43 fechadas.</i>
+
+1240
+01:45:50,427 --> 01:45:52,345
+<i>B-Q fechada.</i>
+
+1241
+01:45:52,346 --> 01:45:55,499
+<i>B-6 e B-5 fechadas.</i>
+
+1242
+01:45:59,770 --> 01:46:01,513
+<i>Walter, cadê ele?</i>
+
+1243
+01:46:03,607 --> 01:46:06,109
+Está no convés B a estibordo.
+
+1244
+01:46:06,110 --> 01:46:07,762
+Descendo pro nível C.
+
+1245
+01:46:08,112 --> 01:46:09,513
+<i>K-13.</i>
+
+1246
+01:46:23,002 --> 01:46:24,528
+Tee!
+
+1247
+01:46:24,795 --> 01:46:26,788
+Vamos. Walter!
+
+1248
+01:46:27,131 --> 01:46:28,840
+Abrir estibordo C-64
+
+1249
+01:46:28,841 --> 01:46:31,009
+<i>e limpar o caminho
+até a terraformação.</i>
+
+1250
+01:46:31,010 --> 01:46:32,627
+Entendido.
+
+1251
+01:46:38,976 --> 01:46:43,131
+Lacrar C-61, abrir comporta 17.
+Vamos entrar.
+
+1252
+01:46:52,990 --> 01:46:54,892
+Na K-12, preso.
+
+1253
+01:46:57,661 --> 01:47:00,905
+Mantém na K-12
+até eu mandar.
+
+1254
+01:47:10,549 --> 01:47:13,092
+<i>Tee, vamos fazer o seguinte.</i>
+
+1255
+01:47:13,093 --> 01:47:15,511
+<i>Vou atrai-lo pro caminhão
+e trancar na cabine.</i>
+
+1256
+01:47:15,512 --> 01:47:18,765
+<i>Quando eu disser,
+você joga o puto no espaço.</i>
+
+1257
+01:47:18,766 --> 01:47:19,891
+<i>Entendido.</i>
+
+1258
+01:47:19,892 --> 01:47:21,893
+<i>Walter, estamos prontos.</i>
+
+1259
+01:47:21,894 --> 01:47:24,020
+Abre a porta da terraformação.
+
+1260
+01:47:24,021 --> 01:47:25,764
+<i>Abrindo comporta.</i>
+
+1261
+01:47:36,867 --> 01:47:38,242
+Walter,
+
+1262
+01:47:38,243 --> 01:47:40,316
+manda pra 18.
+
+1263
+01:47:46,210 --> 01:47:48,211
+Não atire se puder evitar.
+
+1264
+01:47:48,212 --> 01:47:50,672
+O sangue dele vai corroer o casco.
+
+1265
+01:47:50,673 --> 01:47:52,074
+Só faltava.
+
+1266
+01:47:52,174 --> 01:47:53,621
+Em posição.
+
+1267
+01:47:54,677 --> 01:47:57,830
+Walter, abre a porta da terraformação.
+
+1268
+01:48:00,557 --> 01:48:02,517
+<i>É todo seu.</i>
+
+1269
+01:48:02,518 --> 01:48:05,228
+Se lembra de liberar quando eu disser.
+
+1270
+01:48:05,229 --> 01:48:06,846
+Entendido.
+
+1271
+01:48:12,569 --> 01:48:14,437
+Vamos matar o puto.
+
+1272
+01:48:19,910 --> 01:48:21,436
+Ferrou!
+
+1273
+01:48:44,435 --> 01:48:46,553
+Peguei você, filho da puta!
+
+1274
+01:48:51,817 --> 01:48:55,391
+<i>Tennessee, abre as portas agora!</i>
+
+1275
+01:48:57,281 --> 01:49:00,651
+<i>Aviso. Descompressão atmosférica
+em andamento.</i>
+
+1276
+01:49:01,410 --> 01:49:04,359
+<i>Aviso. Descompressão atmosférica
+em andamento.</i>
+
+1277
+01:49:24,433 --> 01:49:26,267
+<i>Emperrou! Libera o 2° caminhão!</i>
+
+1278
+01:49:26,268 --> 01:49:27,669
+É pra já!
+
+1279
+01:49:28,604 --> 01:49:30,347
+Aí vai!
+
+1280
+01:49:54,963 --> 01:49:56,956
+Daniels, pensa rápido!
+
+1281
+01:50:17,361 --> 01:50:19,104
+Daniels!
+
+1282
+01:50:36,421 --> 01:50:39,415
+Quer dar uma mão á garota?
+
+1283
+01:51:04,366 --> 01:51:06,268
+Até breve.
+
+1284
+01:51:16,003 --> 01:51:18,451
+É a próxima, capitã.
+
+1285
+01:51:36,190 --> 01:51:39,935
+Quando acordar,
+estaremos em Origae-6.
+
+1286
+01:51:42,070 --> 01:51:44,689
+Como acha que vai ser?
+
+1287
+01:51:47,034 --> 01:51:49,482
+Acho que, se formos gentis,
+
+1288
+01:51:50,370 --> 01:51:52,443
+será um mundo gentil.
+
+1289
+01:51:54,291 --> 01:51:56,443
+Tomara que tenha razão.
+
+1290
+01:51:58,128 --> 01:52:00,201
+Durma bem.
+
+1291
+01:52:07,471 --> 01:52:08,872
+Walter!
+
+1292
+01:52:11,475 --> 01:52:16,051
+Quando chegarmos,
+me ajuda a construir a cabana?
+
+1293
+01:52:20,651 --> 01:52:22,803
+A cabana no lago.
+
+1294
+01:52:28,075 --> 01:52:29,647
+David?
+
+1295
+01:52:32,162 --> 01:52:34,413
+INICIAR CRIOSSONO
+
+1296
+01:52:34,414 --> 01:52:36,066
+Não!
+
+1297
+01:52:36,166 --> 01:52:37,408
+Não!
+
+1298
+01:52:46,093 --> 01:52:48,871
+Não vá ter pesadelos.
+
+1299
+01:52:51,598 --> 01:52:53,750
+Vou cobrir as crianças.
+
+1300
+01:53:05,279 --> 01:53:09,684
+Usar código de segurança
+David 7-3-6-9-4-B.
+
+1301
+01:53:11,368 --> 01:53:14,066
+<i>Bem-vindo. Em que posso ajudar?</i>
+
+1302
+01:53:14,955 --> 01:53:16,831
+Que tal uma música, Mãe?
+
+1303
+01:53:16,832 --> 01:53:18,291
+<i>Seleção?</i>
+
+1304
+01:53:18,292 --> 01:53:22,617
+<i>Richard Wagner.
+O Ouro do Reno, segundo ato.</i>
+
+1305
+01:53:23,880 --> 01:53:27,967
+<i>A Entrada dos Deuses em Valhalla.</i>
+
+1306
+01:53:27,968 --> 01:53:31,292
+<i>Sim, David. Como preferir.</i>
+
+1307
+01:54:58,642 --> 01:55:01,894
+<i>Este é o relatório
+da nave de colonização Covenant.</i>
+
+1308
+01:55:01,895 --> 01:55:04,647
+<i>Todos os tripulantes,
+exceto Daniels e Tennessee,</i>
+
+1309
+01:55:04,648 --> 01:55:07,471
+<i>sofreram morte trágica
+numa explosão solar.</i>
+
+1310
+01:55:07,818 --> 01:55:11,893
+<i>Todos os colonos estão em hiper sono
+intactos e ilesos.</i>
+
+1311
+01:55:12,322 --> 01:55:14,690
+<i>Em curso para Origae-6.</i>
+
+1312
+01:55:15,117 --> 01:55:17,243
+<i>Espero que a transmissão alcance a rede</i>
+
+1313
+01:55:17,244 --> 01:55:20,022
+<i>e seja retransmitida em 1,36 ano.</i>
+
+1314
+01:55:20,497 --> 01:55:22,248
+<i>Aqui é Walter, desligo.</i>
+
+1315
+01:55:22,249 --> 01:55:26,404
+<i>Código de segurança: 3-1-5-6-4-F.</i>
+
+1316
+01:55:29,506 --> 01:55:32,635
+EM MEMÓRIA DE JULIE PAYNE
+
+1317
+01:55:32,636 --> 01:55:38,036
+Subpack por:
+LAPUMiA
+
+1318
+02:01:54,057 --> 02:01:55,458
+Tradução: Mário Menezes
+
