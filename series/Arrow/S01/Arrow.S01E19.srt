@@ -1,0 +1,2460 @@
+﻿1
+00:00:02,545 --> 00:00:04,240
+Meu nome é Oliver Queen.
+
+2
+00:00:04,447 --> 00:00:07,848
+Por cinco anos, eu fiquei preso
+numa ilha com um único objetivo:
+
+3
+00:00:09,652 --> 00:00:11,085
+Sobreviver.
+
+4
+00:00:11,321 --> 00:00:12,515
+Oliver Queen está vivo.
+
+5
+00:00:12,689 --> 00:00:17,353
+Agora vou realizar o desejo do meu pai ao morrer
+de usar a lista de nomes que ele me deixou...
+
+6
+00:00:17,527 --> 00:00:20,189
+e derrubar aqueles que estão
+envenenando minha cidade.
+
+7
+00:00:21,498 --> 00:00:23,762
+Pra fazer isso,
+eu preciso me tornar outra pessoa.
+
+8
+00:00:25,268 --> 00:00:28,203
+Eu preciso me tornar outra coisa.
+
+9
+00:00:28,371 --> 00:00:29,668
+Anteriormente em Arqueiro:
+
+10
+00:00:29,839 --> 00:00:32,603
+- Quem te fornece Vertigo?
+- Chamam ele de "o Conde".
+
+11
+00:00:32,775 --> 00:00:36,006
+Cinquenta e seis pessoas morreram
+pra aperfeiçoar essa onda.
+
+12
+00:00:41,117 --> 00:00:45,110
+A polícia nunca pegou o assassino do seu
+irmão. As balas eram banhadas em curare.
+
+13
+00:00:45,288 --> 00:00:47,620
+- Esse é o método do Floyd Lawton.
+- Lawton está vivo.
+
+14
+00:00:47,790 --> 00:00:50,782
+- Eu sinto muito, John.
+- Esse Lawton chutou o cachorro dele, foi?
+
+15
+00:00:50,994 --> 00:00:52,552
+Matou o irmão dele.
+
+16
+00:01:42,278 --> 00:01:46,180
+- Como estamos indo?
+- Faturando. E cheio das verdinhas.
+
+17
+00:01:46,349 --> 00:01:48,977
+Gostei de como a gente parou de torrar
+dinheiro em boates e começou a ganhar.
+
+18
+00:01:49,152 --> 00:01:50,676
+Ah, olha isso.
+
+19
+00:01:50,853 --> 00:01:53,014
+Que tipo de negócio tem
+um "achados e perdidos"...
+
+20
+00:01:53,189 --> 00:01:56,124
+- que é cheio de calcinhas e sutiãs?
+- O melhor negócio de todos?
+
+21
+00:01:56,292 --> 00:01:58,522
+Se divertir tanto assim devia ser contra a lei.
+
+22
+00:01:58,695 --> 00:02:00,424
+Ah, se isso dependesse de mim.
+
+23
+00:02:01,364 --> 00:02:03,628
+- Desculpa, estou interrompendo alguma coisa?
+- A Laurel está bem?
+
+24
+00:02:03,800 --> 00:02:06,564
+Ela está bem.
+Essa visita é por outro motivo.
+
+25
+00:02:06,936 --> 00:02:09,666
+Uma garota acabou de ser atropelada
+a alguns quarteirões daqui.
+
+26
+00:02:09,839 --> 00:02:11,170
+Na Ponte Starling.
+
+27
+00:02:12,809 --> 00:02:14,436
+Ela parece familiar pra vocês dois?
+
+28
+00:02:14,978 --> 00:02:16,275
+- Não.
+- Deveria?
+
+29
+00:02:18,815 --> 00:02:21,079
+- Ela estava nessa boate hoje.
+- Muita gente estava.
+
+30
+00:02:21,251 --> 00:02:25,449
+- Acha que alguém matou ela?
+- Não alguém. Alguma coisa.
+
+31
+00:02:26,823 --> 00:02:29,018
+- Vertigo.
+- É.
+
+32
+00:02:29,192 --> 00:02:32,787
+- Vocês têm problema com isso na boate?
+- Não que eu esteja sabendo.
+
+33
+00:02:32,962 --> 00:02:34,862
+Nós não permitimos drogas
+aqui dentro, detetive.
+
+34
+00:02:38,701 --> 00:02:40,191
+Controle sua clientela.
+
+35
+00:02:40,370 --> 00:02:43,533
+Antes que mais alguém vire asfalto.
+
+36
+00:02:45,908 --> 00:02:48,468
+Tem alguma possibilidade
+dela ter conseguido a droga aqui?
+
+37
+00:02:48,645 --> 00:02:51,239
+Duvido.
+Eu tentei não contratar muitos traficantes.
+
+38
+00:02:51,414 --> 00:02:52,779
+Me dá uma lista de todos
+os empregados.
+
+39
+00:02:52,949 --> 00:02:55,281
+Eu vou pedir pra Felicity dar uma olhada
+nas prisões por droga.
+
+40
+00:02:55,451 --> 00:02:57,612
+Você sabe que isso inclui nós dois.
+
+41
+00:02:58,488 --> 00:03:00,922
+Eu achei que o Vigilante
+tinha acabado com o Conde.
+
+42
+00:03:03,526 --> 00:03:04,891
+Eu acabei.
+
+43
+00:03:05,828 --> 00:03:07,853
+Só preciso perguntar
+umas coisas a ele, doutor.
+
+44
+00:03:08,031 --> 00:03:11,057
+Você pode tentar à vontade, detetive, mas
+eu não sei se vai conseguir alguma coisa.
+
+45
+00:03:11,234 --> 00:03:14,499
+Como assim? Tem a ver com segredos
+entre médico e paciente?
+
+46
+00:03:14,671 --> 00:03:17,003
+Não. Longe disso.
+A overdose de Vertigo não refinada...
+
+47
+00:03:17,173 --> 00:03:20,336
+causou danos à porção caudal
+do cingulado anterior dele.
+
+48
+00:03:20,510 --> 00:03:23,035
+Você vai ficar surpreso em saber
+que eu não fiz faculdade de medicina.
+
+49
+00:03:23,212 --> 00:03:25,043
+Eu tenho trabalhado com ele há meses.
+
+50
+00:03:25,214 --> 00:03:28,843
+Tudo que consegui arrancar dele foi a palavra
+salada e um cuspe na cara de vez em quando.
+
+51
+00:03:29,419 --> 00:03:31,410
+- Boa sorte pra você.
+- Certo. Obrigado.
+
+52
+00:03:35,425 --> 00:03:39,794
+Aqui eu nasci e lá eu morri.
+
+53
+00:03:39,962 --> 00:03:45,958
+Foi só um momento pra você.
+Você nem percebeu.
+
+54
+00:03:50,406 --> 00:03:52,101
+Uma mulher morreu hoje à noite.
+
+55
+00:03:52,275 --> 00:03:55,142
+- Do seu veneno.
+- Muitas mulheres morrem...
+
+56
+00:03:55,311 --> 00:03:58,474
+em muitas noites, por muitos motivos.
+
+57
+00:03:58,681 --> 00:04:01,548
+Alguém está vendendo Vertigo de novo.
+De onde a droga está vindo?
+
+58
+00:04:02,418 --> 00:04:07,117
+Eu me lembro de você.
+O homem no capuz.
+
+59
+00:04:08,291 --> 00:04:13,092
+Você nunca está longe
+dos meus pensamentos.
+
+60
+00:04:17,400 --> 00:04:22,929
+Você falhou com essa cidade.
+Você falhou com essa cidade.
+
+61
+00:04:23,106 --> 00:04:25,233
+Você falhou com essa cidade.
+
+62
+00:04:28,277 --> 00:04:30,677
+Você podia ter falado que ele estava louco.
+
+63
+00:04:30,847 --> 00:04:32,508
+Você falhou com essa cidade.
+
+64
+00:04:57,540 --> 00:05:01,670
+- Você vai me ensinar esse aí.
+- Só se você me mostrar onde a faca estava.
+
+65
+00:05:06,516 --> 00:05:10,953
+- Quem te ensinou a lutar?
+- Meu pai queria um filho.
+
+66
+00:05:11,120 --> 00:05:12,951
+- Ele conseguiu.
+- Cuidado.
+
+67
+00:05:13,122 --> 00:05:15,386
+A tensão nesse arco é de 70 quilos.
+
+68
+00:05:15,558 --> 00:05:18,550
+Arrebenta a corda e você vai acabar
+com estilhaços de fibra no olho.
+
+69
+00:05:18,761 --> 00:05:21,025
+Ela está certa.
+Você não é forte o suficiente, garoto.
+
+70
+00:05:21,197 --> 00:05:22,562
+Vamos de novo?
+
+71
+00:05:22,765 --> 00:05:26,064
+Olha, é muito legal vocês
+dois serem tão porradeiros...
+
+72
+00:05:26,269 --> 00:05:29,295
+mas vocês não acham que a gente devia
+estar bolando um plano pra deter o Fyers?
+
+73
+00:05:29,472 --> 00:05:33,533
+- E, sei lá, salvar seu pai?
+- Ele sempre reclama tanto?
+
+74
+00:05:33,709 --> 00:05:37,509
+- Ele está num dia bom hoje.
+- Ele sabe lutar?
+
+75
+00:05:39,015 --> 00:05:41,415
+Eu já tentei. Bem limitado.
+
+76
+00:05:41,584 --> 00:05:42,915
+Eu estou sentado bem aqui.
+
+77
+00:05:43,085 --> 00:05:45,417
+Eu ainda não tentei.
+
+78
+00:05:51,561 --> 00:05:53,188
+SENADOR PATTERSON
+MORTO POR ATIRADOR
+
+79
+00:05:55,198 --> 00:05:57,496
+- Tio John?
+- Oi, amigão.
+
+80
+00:05:57,667 --> 00:05:59,760
+Pode Ier Logan Bogan pra mim?
+
+81
+00:05:59,936 --> 00:06:02,564
+Querido, vai pra cama e a mamãe
+vai Ier pra você em um minuto.
+
+82
+00:06:02,738 --> 00:06:05,172
+Mas eu quero que o Tio John leia pra mim.
+
+83
+00:06:05,341 --> 00:06:06,865
+O Tio John teve um dia cansativo.
+
+84
+00:06:07,043 --> 00:06:09,204
+Ele lê pra você da próxima vez.
+
+85
+00:06:15,017 --> 00:06:18,953
+Desculpa, minha cabeça
+está em outro lugar hoje.
+
+86
+00:06:19,121 --> 00:06:23,114
+- O que está acontecendo com você?
+- Eu só tentando entender umas coisas.
+
+87
+00:06:23,826 --> 00:06:27,421
+Se precisar conversar sobre qualquer coisa,
+sabe que eu estou aqui pra você.
+
+88
+00:06:37,540 --> 00:06:40,566
+É o Oliver Queen. Com uma emergência.
+
+89
+00:06:41,911 --> 00:06:43,572
+Eu tenho que ir.
+
+90
+00:06:44,714 --> 00:06:47,410
+Vim pra cá o mais rápido que pude.
+É sobre aquele glifo no caderno do seu pai?
+
+91
+00:06:47,583 --> 00:06:50,416
+Felicity ainda está trabalhando nisso.
+A gente tem outro problema.
+
+92
+00:06:51,153 --> 00:06:53,621
+Starling City está novamente
+em guerra contra a droga...
+
+93
+00:06:53,789 --> 00:06:57,520
+conhecida nas ruas como Vertigo.
+Era o entorpecente mais letal da cidade...
+
+94
+00:06:57,693 --> 00:07:01,561
+mas a pílula roxa e verde ficou
+desaparecida pelos últimos três meses.
+
+95
+00:07:01,731 --> 00:07:03,323
+Durante os úItimos dias...
+
+96
+00:07:03,499 --> 00:07:07,458
+a cidade foi invadida por uma nova versão
+da Vertigo. Mais viciante, mas instável.
+
+97
+00:07:07,637 --> 00:07:11,630
+Matou uma garota na boate.
+Igual a como quase matou a Thea.
+
+98
+00:07:11,807 --> 00:07:13,900
+Tudo bem.
+Então a gente faz uma visitinha ao Conde?
+
+99
+00:07:14,076 --> 00:07:18,672
+Ele foi minha primeira parada. Perda de tempo.
+Ele está sumasshedshiy.
+
+100
+00:07:21,951 --> 00:07:25,478
+Já que ele era o único
+que sabia a fórmula da Vertigo...
+
+101
+00:07:26,122 --> 00:07:28,955
+- eu nem sei por onde começar.
+- Que bom. Vocês estão aqui.
+
+102
+00:07:29,125 --> 00:07:32,652
+Claro que estão aqui. Onde mais estariam?
+Vocês adoram esse lugar.
+
+103
+00:07:32,828 --> 00:07:34,762
+Vocês têm que ver isso.
+
+104
+00:07:37,266 --> 00:07:42,829
+Eu estou aqui no local onde a polícia diz que um
+paciente perturbado escapou há poucas horas.
+
+105
+00:07:43,005 --> 00:07:45,200
+As autoridades emitiram
+um bloqueio imediato...
+
+106
+00:07:45,408 --> 00:07:49,640
+do Instituto Público de Saúde
+Mental de Starling após a fuga.
+
+107
+00:07:49,812 --> 00:07:53,873
+A polícia adverte as pessoas a evitarem contato
+com o traficante conhecido como o Conde.
+
+108
+00:07:54,050 --> 00:07:55,449
+Não tão louco assim, não é?
+
+109
+00:08:00,056 --> 00:08:02,354
+ARQUEIRO
+
+110
+00:08:06,996 --> 00:08:09,362
+Eu fui dar os remédios.
+
+111
+00:08:09,565 --> 00:08:12,864
+Ele balbuciava as coisas
+de sempre, e aí ele parou.
+
+112
+00:08:13,035 --> 00:08:16,562
+Ele me dominou. Me forçou a levá-Io
+pra fora pela saída dos funcionários.
+
+113
+00:08:16,739 --> 00:08:18,764
+Achei que ele fosse inofensivo.
+Praticamente um vegetal, você disse.
+
+114
+00:08:18,941 --> 00:08:23,776
+Eu sei. O que significa... Eu o entrevistei
+dezenas de vezes nos úItimos meses.
+
+115
+00:08:23,946 --> 00:08:26,176
+Ser enganado por um paciente nesse nível...
+
+116
+00:08:26,349 --> 00:08:28,374
+Não se preocupa. A gente vai achar ele.
+
+117
+00:08:28,551 --> 00:08:31,611
+Ele vai descobrir que fugir da prisão
+é um pouco mais difícil.
+
+118
+00:08:31,821 --> 00:08:36,451
+Detetive, ele é perigoso. Não o subestime.
+
+119
+00:08:38,928 --> 00:08:42,125
+- Conseguiu algo das câmeras de segurança?
+- Não de acordo com o assistente.
+
+120
+00:08:42,331 --> 00:08:45,129
+Por causa de cortes na verba,
+as câmeras foram retiradas.
+
+121
+00:08:45,334 --> 00:08:47,564
+É inacreditável.
+
+122
+00:08:47,737 --> 00:08:51,036
+Tem mais uma coisa. Veronica Sparks,
+a garota morta da Verdant?
+
+123
+00:08:51,207 --> 00:08:53,641
+- Sei.
+- Eu chequei o telefone dela.
+
+124
+00:08:53,843 --> 00:08:57,279
+A úItima mensagem que ela mandou
+antes de morrer foi para o Tommy Merlyn.
+
+125
+00:08:57,446 --> 00:08:58,777
+Ele disse que não a conhecia.
+
+126
+00:08:58,948 --> 00:09:01,143
+Merlyn tem duas prisões por posse,
+uma com intenção.
+
+127
+00:09:01,350 --> 00:09:02,374
+É, isso foi há mais de cinco anos.
+
+128
+00:09:02,551 --> 00:09:03,575
+INSTITUTO
+DE STARLING
+
+129
+00:09:03,753 --> 00:09:05,584
+Talvez ele tenha melhorado
+em escapar de ser preso.
+
+130
+00:09:05,755 --> 00:09:08,588
+Laurel disse que ele mudou depois
+que o pai cortou a grana dele.
+
+131
+00:09:08,758 --> 00:09:09,952
+É, como um tigre e as listras, não é?
+
+132
+00:09:10,126 --> 00:09:13,493
+Talvez vender Vertigo na boate nova seja
+um jeito de manter o antigo estilo de vida.
+
+133
+00:09:13,663 --> 00:09:16,632
+É, talvez ir atrás do Merlyn seja
+um ótimo jeito de fazer a minha filha...
+
+134
+00:09:16,799 --> 00:09:20,326
+- parar de falar comigo de novo, Hil.
+- Quentin, você sabe que eu entendo isso.
+
+135
+00:09:20,503 --> 00:09:23,995
+Mas escuta só. Por intuição,
+eu olhei as contas bancárias do clube.
+
+136
+00:09:24,173 --> 00:09:26,403
+Tem dez mil dólares faltando
+nas despesas operacionais deles.
+
+137
+00:09:26,575 --> 00:09:28,406
+Você acha que o Merlyn gastou
+esse dinheiro em Vertigo?
+
+138
+00:09:28,577 --> 00:09:31,375
+Eu acho que eu não sei explicar
+como tanto dinheiro desapareceu.
+
+139
+00:09:31,914 --> 00:09:34,508
+Olha, eu vou falar com ele, você fica fora dessa.
+
+140
+00:09:34,684 --> 00:09:37,118
+Não. Deixa que eu falo.
+
+141
+00:09:47,596 --> 00:09:49,496
+Do que precisa?
+
+142
+00:10:06,982 --> 00:10:10,315
+Beleza, a pessoa de cor
+conseguiu comprar suas drogas.
+
+143
+00:10:10,486 --> 00:10:12,386
+Só pra constar, eu me ofereci.
+
+144
+00:10:12,555 --> 00:10:14,455
+Como a gente sabe quando
+o rastreador vai estar ativo?
+
+145
+00:10:14,623 --> 00:10:15,988
+Já está.
+
+146
+00:10:16,158 --> 00:10:19,150
+Eu estou recebendo um sinal bom dos
+filamentos que a gente colocou nas notas.
+
+147
+00:10:19,328 --> 00:10:21,819
+Dinheiro de droga é que nem um pombo.
+Sempre acha o caminho de casa.
+
+148
+00:10:21,997 --> 00:10:23,965
+- A gente pode seguir o dinheiro até o Conde.
+- Tudo bem.
+
+149
+00:10:24,667 --> 00:10:25,691
+Continua rastreando.
+
+150
+00:10:25,868 --> 00:10:28,496
+O que você vai fazer com toda
+essa Vertigo que você comprou?
+
+151
+00:10:28,671 --> 00:10:29,797
+Está planejando uma festa, Felicity?
+
+152
+00:10:30,506 --> 00:10:32,838
+Minha única experiência
+com drogas foi um encontro...
+
+153
+00:10:33,008 --> 00:10:35,806
+com um brownie de maconha
+na faculdade. Por engano.
+
+154
+00:10:35,978 --> 00:10:39,209
+Podia até ter sido divertido,
+só que eu sou alérgica a nozes.
+
+155
+00:10:39,381 --> 00:10:43,147
+Tudo bem. O Pistoleiro matou de novo.
+Dessa vez foi um senador.
+
+156
+00:10:43,319 --> 00:10:45,150
+- Onde você tem rastreado ele?
+- Não muito longe.
+
+157
+00:10:45,321 --> 00:10:48,722
+Procurei Floyd Lawton em todos os bancos
+de dados imagináveis do sistemajudiciário.
+
+158
+00:10:48,891 --> 00:10:51,587
+Ele fez algumas ligações
+pra um tal de Alberto Garcia.
+
+159
+00:10:52,461 --> 00:10:55,919
+De acordo com a NSA, Garcia é um
+olheiro famoso do mundo dos crimes.
+
+160
+00:10:56,098 --> 00:10:57,759
+Ele negocia os alvos do Pistoleiro.
+
+161
+00:11:00,002 --> 00:11:03,494
+- Não é muito pra começar...
+- É, mas é alguma coisa, Felicity. Obrigado.
+
+162
+00:11:03,672 --> 00:11:07,005
+- Você não acha que o Oliver devia saber?
+- Não. Isso é pessoal.
+
+163
+00:11:08,577 --> 00:11:10,568
+Lawton é um problema meu.
+
+164
+00:11:13,783 --> 00:11:16,377
+- O que traz você aqui?
+- Oi.
+
+165
+00:11:16,552 --> 00:11:19,419
+Querjantar com a gente?
+Sua filha pediu comida tailandesa demais.
+
+166
+00:11:19,588 --> 00:11:20,919
+Não, obrigado.
+
+167
+00:11:21,791 --> 00:11:25,056
+Essa é uma visita de trabalho, na verdade.
+
+168
+00:11:25,761 --> 00:11:28,889
+Eu tenho mais algumas perguntas
+sobre a morte da menina Sparks.
+
+169
+00:11:29,064 --> 00:11:31,965
+Claro. A garota estava
+na boate antes de ser atropelada.
+
+170
+00:11:32,134 --> 00:11:36,798
+Você disse que não a conhecia, mas a úItima
+mensagem do telefone dela foi pra você.
+
+171
+00:11:37,640 --> 00:11:39,904
+Sério? Porque...
+
+172
+00:11:41,243 --> 00:11:43,302
+Nossa, que bizarro.
+
+173
+00:11:43,512 --> 00:11:45,070
+V. Sparks
+Você pode me arranjar?
+
+174
+00:11:45,948 --> 00:11:49,975
+Não respondi. Recebo centenas de mensagens
+dessas. Pessoas querendo entrar na boate.
+
+175
+00:11:50,152 --> 00:11:52,882
+Então foi isso que ela quis dizer
+com "Você pode me arranjar?"
+
+176
+00:11:53,055 --> 00:11:54,522
+O que mais poderia ser?
+
+177
+00:11:56,659 --> 00:11:59,719
+Dez mil dólares estão faltando
+da conta bancária do seu clube.
+
+178
+00:11:59,895 --> 00:12:01,726
+No que você gastou isso?
+
+179
+00:12:01,897 --> 00:12:04,491
+Não tenho ideia.
+Deve ser algum erro de contabilidade.
+
+180
+00:12:04,667 --> 00:12:06,828
+Certo, deixa eu falar diferente:
+Se gastou esse dinheiro em Vertigo...
+
+181
+00:12:07,036 --> 00:12:09,334
+- pra que pudesse "arranjar" pra sua clientela...
+- Pai.
+
+182
+00:12:09,538 --> 00:12:12,666
+Então a melhor coisa, agora, é falar
+a verdade, acabar de uma vez com isso.
+
+183
+00:12:12,842 --> 00:12:15,003
+- Não fala nada.
+- Eu estou tentando...
+
+184
+00:12:15,177 --> 00:12:17,577
+Fazer o seu trabalho? É, eu sei.
+E eu estou fazendo o meu.
+
+185
+00:12:18,147 --> 00:12:22,049
+Laurel, eu sei que pareço aquele
+pai desaprovador. De novo.
+
+186
+00:12:23,052 --> 00:12:26,112
+Mas eu vim até aqui pra
+que outro policial não viesse.
+
+187
+00:12:26,288 --> 00:12:27,653
+Você entende?
+
+188
+00:12:30,326 --> 00:12:33,124
+- Tommy, eu...
+- Eu não estou mais com fome.
+
+189
+00:12:52,882 --> 00:12:54,975
+Levanta a sua mão.
+
+190
+00:12:57,086 --> 00:12:58,383
+Palma virada pra mim.
+
+191
+00:13:00,656 --> 00:13:02,954
+- Bate na água.
+- O quê?
+
+192
+00:13:03,359 --> 00:13:05,122
+Bate.
+
+193
+00:13:07,529 --> 00:13:09,292
+De novo.
+
+194
+00:13:11,200 --> 00:13:12,497
+De novo. Mais forte.
+
+195
+00:13:12,668 --> 00:13:16,968
+Se o objetivo disso é fazer eu me
+sentir um idiota, está funcionando.
+
+196
+00:13:18,240 --> 00:13:21,801
+"Umajornada de mil milhas
+começa com um único passo."
+
+197
+00:13:22,244 --> 00:13:26,340
+Confúcio. Ótimo. Estou começando
+a ver a semelhança familiar.
+
+198
+00:13:26,515 --> 00:13:28,540
+Lao Tzu, na verdade. De novo.
+
+199
+00:13:31,253 --> 00:13:34,984
+- E agora?
+- Enche a bacia. Começa de novo.
+
+200
+00:13:37,893 --> 00:13:40,987
+- O que descobriu?
+- O fim do rastro do dinheiro.
+
+201
+00:13:41,163 --> 00:13:43,393
+Estou enviando a localização
+do traficante pra você agora.
+
+202
+00:13:45,034 --> 00:13:46,058
+Felicity Smoak
+Aqui estão as Coordenadas:
+
+203
+00:13:51,073 --> 00:13:53,371
+Ah, cara, está muito frio.
+
+204
+00:13:58,580 --> 00:14:01,310
+- Ei!
+- Olha só.
+
+205
+00:14:01,483 --> 00:14:03,508
+Quem é? O que ele está fazendo aqui?
+
+206
+00:14:04,520 --> 00:14:08,650
+Pra trás, pessoal. Pra trás.
+
+207
+00:14:14,730 --> 00:14:18,564
+E aí? Quem está querendo onda?
+
+208
+00:14:18,734 --> 00:14:21,032
+- Vertigo.
+- Eu quero. Manda aí.
+
+209
+00:14:21,603 --> 00:14:25,039
+Isso não é o suficiente.
+Se não pagar, não brinca.
+
+210
+00:14:25,774 --> 00:14:28,072
+Tudo bem. É bom para os negócios.
+
+211
+00:14:28,243 --> 00:14:30,074
+Meu chefe parece gostar de você.
+
+212
+00:14:32,614 --> 00:14:34,980
+Aqui. Pra mim. Eu também quero.
+
+213
+00:14:35,317 --> 00:14:37,285
+Quanto por isso?
+
+214
+00:14:37,453 --> 00:14:40,945
+Agora sim. Isso vale um tijolo pra você, cara.
+
+215
+00:14:53,235 --> 00:14:54,702
+Vai, vai, vai.
+
+216
+00:15:18,560 --> 00:15:19,925
+AQUÁRIO DE STARLING CITY
+
+217
+00:15:21,830 --> 00:15:25,766
+Não esqueçam de respirar.
+Se vocês não respiram, eu não respiro.
+
+218
+00:15:32,341 --> 00:15:36,072
+Parabéns. Você é oficialmente a pessoa
+mais bizarra que eu já conheci.
+
+219
+00:15:36,245 --> 00:15:39,408
+- Eu não... Eu não me sinto bem.
+- Fica longe de mim, nojento.
+
+220
+00:15:41,250 --> 00:15:43,718
+Tem algum problema aqui?
+Você está bem?
+
+221
+00:15:49,391 --> 00:15:50,756
+Todas as unidades. Código 99.
+
+222
+00:15:50,926 --> 00:15:53,258
+4-1-7 em progresso.
+Aquário de Starling.
+
+223
+00:15:53,429 --> 00:15:56,489
+- Todas as unidades disponíveis...
+- Isso acabou de passar na frequência da polícia.
+
+224
+00:15:56,665 --> 00:15:59,429
+Invadi o sistema de segurança
+do aquário pra ver melhor.
+
+225
+00:15:59,601 --> 00:16:02,798
+Você quer discutir comigo, hein?
+
+226
+00:16:02,971 --> 00:16:05,633
+Testemunhas viram ele tomar
+umas pílulas verdes e roxas.
+
+227
+00:16:12,381 --> 00:16:15,839
+Um lunático chapado de Vertigo
+fez reféns...
+
+228
+00:16:16,018 --> 00:16:20,284
+e você está fazendo chá?
+
+229
+00:16:22,791 --> 00:16:24,315
+São ervas medicinais da ilha.
+
+230
+00:16:24,493 --> 00:16:27,291
+Elas anulam os efeitos
+de algumas drogas e venenos.
+
+231
+00:16:27,463 --> 00:16:29,829
+Devem eliminar os efeitos da Vertigo.
+
+232
+00:16:31,400 --> 00:16:33,027
+- Então você não vai...
+- O quê?
+
+233
+00:16:33,202 --> 00:16:34,499
+Você sabe...
+
+234
+00:16:36,038 --> 00:16:39,337
+Minha irmã ficou chapada com
+esse lixo e poderia ter matado alguém.
+
+235
+00:16:39,508 --> 00:16:42,966
+Ela não merecia uma flecha no coração.
+Esse cara não falhou com a cidade.
+
+236
+00:16:44,546 --> 00:16:47,014
+A cidade falhou com ele.
+
+237
+00:16:47,182 --> 00:16:49,480
+E eu também.
+
+238
+00:16:49,651 --> 00:16:53,018
+O que está acontecendo agora não é culpa sua.
+Você não fez ele usar a droga.
+
+239
+00:16:53,188 --> 00:16:56,316
+Não, mas eu falhei em colocar o Conde numa
+cova pra ele não machucar ninguém nunca mais.
+
+240
+00:16:56,492 --> 00:16:59,222
+- Você pegou ele. Prenderam ele...
+- E agora a cidade está em perigo.
+
+241
+00:16:59,428 --> 00:17:01,988
+Então claramente essa não era a solução.
+
+242
+00:17:10,873 --> 00:17:12,966
+Entra em contato com o Diggle.
+
+243
+00:17:13,342 --> 00:17:17,540
+Sem as câmeras de segurança, vou precisar
+de um segundo par de olhos no aquário.
+
+244
+00:17:22,084 --> 00:17:23,813
+FELICITY
+Chamando
+
+245
+00:17:29,391 --> 00:17:31,723
+- Que bom que te encontrei no país.
+- Por pouco.
+
+246
+00:17:31,894 --> 00:17:35,227
+- Daqui a dois dias eu vou pra Pyongyang.
+- Isso não é secreto?
+
+247
+00:17:35,397 --> 00:17:39,231
+Acho que um velho amigo do Exército
+consegue guardar um segredo.
+
+248
+00:17:39,568 --> 00:17:44,835
+- Fiquei feliz de receber sua ligação.
+- É, mas não foi por isso que eu liguei.
+
+249
+00:17:46,175 --> 00:17:48,507
+Tem alguma coisa que você
+quer que eu faça por você.
+
+250
+00:17:48,677 --> 00:17:51,544
+Na verdade, eu acho que tem
+uma coisa que eu posso fazer por você.
+
+251
+00:17:51,713 --> 00:17:54,273
+Eu vou dar um chute
+e assumir que o Pistoleiro...
+
+252
+00:17:54,483 --> 00:17:57,543
+- está na lista dos mais procurados da ARGUS.
+- O que você sabe sobre ele?
+
+253
+00:17:57,719 --> 00:18:00,119
+O nome dele, pra começar.
+Floyd Lawton.
+
+254
+00:18:00,756 --> 00:18:03,247
+Nem nós sabíamos. Onde conseguiu?
+
+255
+00:18:03,425 --> 00:18:05,757
+No mesmo lugar que eu consegui isso.
+
+256
+00:18:06,361 --> 00:18:11,389
+É tudo o que você precisa pra localizar quem
+está fornecendo ao Pistoleiro os alvos dele.
+
+257
+00:18:12,100 --> 00:18:13,692
+Qual é o seu interesse nisso?
+
+258
+00:18:13,869 --> 00:18:16,702
+Lawton apareceu conectado
+a uma investigação minha.
+
+259
+00:18:16,872 --> 00:18:18,271
+Você é a pessoa certa pra receber isso.
+
+260
+00:18:18,440 --> 00:18:21,898
+Eu lembro que você mentia melhor, Johnnie.
+
+261
+00:18:22,277 --> 00:18:24,643
+Escuta, Lyla, Lawton
+é um homem muito perigoso.
+
+262
+00:18:24,813 --> 00:18:27,475
+E seu pessoal é mais qualificado
+pra pegar ele de vez. É simples.
+
+263
+00:18:27,649 --> 00:18:29,742
+Nada no nosso meio é simples.
+
+264
+00:18:44,099 --> 00:18:46,431
+Veio pedir minha ajuda de novo,
+Sr. Lance?
+
+265
+00:18:46,602 --> 00:18:48,797
+Eric Messner?
+
+266
+00:18:50,639 --> 00:18:52,004
+Quem?
+
+267
+00:18:52,174 --> 00:18:54,335
+Ele é um fiscal de zoneamento
+de Starling City.
+
+268
+00:18:54,543 --> 00:18:56,841
+Um corrupto bem famoso nisso.
+
+269
+00:18:57,045 --> 00:18:58,979
+Os dez mil faltando?
+
+270
+00:18:59,147 --> 00:19:01,980
+Você pagou ele pra não fazer
+a inspeção na sua boate.
+
+271
+00:19:02,150 --> 00:19:04,948
+Por que fez isso, Merlyn?
+O que não queria que ele achasse?
+
+272
+00:19:05,120 --> 00:19:09,489
+- Não temos nada a esconder aqui.
+- Ótimo. Então vamos dar uma olhada por aí.
+
+273
+00:19:09,658 --> 00:19:11,023
+- Sem problemas.
+- É.
+
+274
+00:19:11,193 --> 00:19:13,821
+Quando você voltar com
+um mandado de busca.
+
+275
+00:19:19,167 --> 00:19:21,158
+Você vai querer mesmo que seja assim?
+
+276
+00:19:22,504 --> 00:19:23,937
+Aparentemente.
+
+277
+00:19:25,607 --> 00:19:28,872
+A minha filha escolhe bem pra caramba.
+
+278
+00:19:34,449 --> 00:19:36,144
+Parem de rir de mim.
+
+279
+00:19:39,388 --> 00:19:41,856
+Calem a boca. Calem a boca.
+
+280
+00:20:01,610 --> 00:20:03,703
+Para. Eu não quero te machucar.
+
+281
+00:20:10,385 --> 00:20:12,546
+Ei, calma. Eu estou aqui pra te ajudar.
+
+282
+00:20:28,904 --> 00:20:30,394
+Minha mãe faz ioga.
+
+283
+00:20:32,240 --> 00:20:34,435
+Aí, se lembra quando o Slade
+e eu te resgatamos?
+
+284
+00:20:34,643 --> 00:20:35,905
+Vocês me resgataram?
+
+285
+00:20:36,678 --> 00:20:39,909
+Está bem.
+Quando nós resgatamos uns aos outros.
+
+286
+00:20:40,082 --> 00:20:44,280
+Você disse que sabia por que
+o Fyers queria o Yao Fei...
+
+287
+00:20:44,453 --> 00:20:46,387
+e como estava forçando ele a ajudá-Io.
+
+288
+00:20:47,089 --> 00:20:48,386
+Quer contar?
+
+289
+00:20:49,157 --> 00:20:52,092
+A água pra bater está quase acabando.
+
+290
+00:20:57,799 --> 00:21:00,700
+Meu pai era um Shang Jiang
+no Exército da Libertação Popular.
+
+291
+00:21:00,869 --> 00:21:01,927
+Um general.
+
+292
+00:21:02,104 --> 00:21:07,041
+Não ouvi todos os detalhes do plano do Fyers,
+mas ele quer que o meu pai seja o rosto dele.
+
+293
+00:21:07,209 --> 00:21:08,642
+Um bode expiatório.
+
+294
+00:21:08,810 --> 00:21:11,472
+Pra levar a culpa e esconder
+o seu próprio envolvimento.
+
+295
+00:21:11,947 --> 00:21:14,279
+Por que o Yao Fei estava
+na ilha pra começo de conversa?
+
+296
+00:21:15,450 --> 00:21:18,317
+Fyers disse que ele matou pessoas.
+
+297
+00:21:19,421 --> 00:21:20,979
+Não. Não matou.
+
+298
+00:21:21,189 --> 00:21:24,283
+O exército chinês cometeu um massacre.
+
+299
+00:21:24,459 --> 00:21:27,053
+Alguém tinha que levar a culpa.
+
+300
+00:21:27,229 --> 00:21:31,825
+Escolheram ele.
+Mandaram ele pra ilha, pra vida toda.
+
+301
+00:21:32,000 --> 00:21:33,968
+Eu passei anos procurando ele.
+
+302
+00:21:34,603 --> 00:21:36,833
+Alguns meses depois,
+um homem foi ao meu apartamento...
+
+303
+00:21:37,005 --> 00:21:39,974
+disse que tinha informação
+sobre o paradeiro do meu pai.
+
+304
+00:21:40,142 --> 00:21:42,508
+Eu tinha perdido as esperanças.
+
+305
+00:21:42,944 --> 00:21:46,937
+Baixei a minha guarda.
+Não vi o taser até que...
+
+306
+00:21:47,849 --> 00:21:50,784
+Quando eu acordei, eu estava aqui.
+
+307
+00:21:57,025 --> 00:21:59,687
+Eu estou preocupada. Essa ilha...
+
+308
+00:21:59,861 --> 00:22:03,627
+O que ele deve ter feito pra sobreviver.
+
+309
+00:22:04,266 --> 00:22:05,324
+Isso mudou ele.
+
+310
+00:22:06,101 --> 00:22:07,864
+Ele salvou a minha vida.
+
+311
+00:22:09,304 --> 00:22:10,965
+Ele ainda é um homem bom, Shado.
+
+312
+00:22:17,879 --> 00:22:19,744
+De novo.
+
+313
+00:22:21,516 --> 00:22:24,212
+Lá estava eu no nosso
+restaurante japonês favorito...
+
+314
+00:22:24,386 --> 00:22:29,551
+uma garrafa de saquê e a única
+coisa faltando era o meu namorado.
+
+315
+00:22:29,758 --> 00:22:35,458
+Ah, meu Deus. Desculpa, amor.
+É só que tem muita coisa acontecendo aqui.
+
+316
+00:22:35,630 --> 00:22:39,191
+Tommy, o que quer que esteja acontecendo,
+só quero que saiba que acredito em você.
+
+317
+00:22:39,367 --> 00:22:41,335
+Eu estou aqui pra você.
+
+318
+00:22:44,473 --> 00:22:47,306
+- Desculpa.
+- OIlie?
+
+319
+00:22:47,476 --> 00:22:49,501
+- O que foi?
+- Noite ruim.
+
+320
+00:22:49,678 --> 00:22:50,975
+Está pra ficar pior.
+
+321
+00:22:51,146 --> 00:22:55,048
+Sr. Merlyn, como pedido,
+um mandado pra fazer uma busca no local.
+
+322
+00:22:56,384 --> 00:22:58,375
+- Eu não acredito que está fazendo isso...
+- Pode acreditar.
+
+323
+00:22:58,553 --> 00:23:00,418
+Detetive, eu não sou advogado...
+
+324
+00:23:00,589 --> 00:23:02,921
+mas baseado em que vai fazer
+uma busca na minha boate?
+
+325
+00:23:03,091 --> 00:23:05,184
+O seu gerente geral subornou
+um oficial do governo...
+
+326
+00:23:05,360 --> 00:23:07,658
+pra impedir que ele inspecionasse
+todos os cantos do seu prédio.
+
+327
+00:23:07,829 --> 00:23:10,855
+- O quê?
+- Porque ele está vendendo Vertigo nesse lugar.
+
+328
+00:23:11,032 --> 00:23:13,899
+- OIlie, é válido.
+- Obrigado.
+
+329
+00:23:14,336 --> 00:23:17,271
+O subsolo não está listado
+nas plantas dos pisos da inspeção.
+
+330
+00:23:17,439 --> 00:23:19,907
+No entanto, eu puxei o registro da cidade.
+
+331
+00:23:20,075 --> 00:23:21,736
+Tem alguma coisa lá embaixo.
+
+332
+00:23:21,910 --> 00:23:24,538
+Eu mesmo quero ver o que é.
+
+333
+00:23:24,713 --> 00:23:26,874
+Ah, olha só.
+
+334
+00:23:28,183 --> 00:23:30,378
+Abre essa porta.
+
+335
+00:23:36,725 --> 00:23:41,924
+- Está cometendo um erro.
+- Não, você vai estar se não abrir essa porta.
+
+336
+00:23:55,577 --> 00:23:57,238
+Eu disse pra abrir a porta.
+
+337
+00:24:07,255 --> 00:24:08,347
+Obrigado.
+
+338
+00:24:24,973 --> 00:24:30,741
+Esse lugar está uma bagunça. Eu estava usando
+pra armazenar a maior parte do nosso inventário.
+
+339
+00:24:31,580 --> 00:24:35,311
+- O que tem nas caixas?
+- Por que não dá uma olhada.
+
+340
+00:24:38,119 --> 00:24:42,453
+Se bebidas ainda fossem proibidas, você talvez
+tivesse uma base pra uma investigação criminal.
+
+341
+00:24:42,624 --> 00:24:44,421
+Quer abrir o resto das caixas?
+
+342
+00:24:55,837 --> 00:24:58,635
+Então, se você não tem nada a esconder...
+
+343
+00:24:59,341 --> 00:25:02,139
+por que não queria o inspetor aqui embaixo?
+
+344
+00:25:04,479 --> 00:25:09,439
+O sistema de ventilação desse lugar
+não foi reformado desde os anos 60.
+
+345
+00:25:09,618 --> 00:25:11,449
+Talvez a gente nem devesse estar aberto.
+
+346
+00:25:14,756 --> 00:25:16,485
+É.
+
+347
+00:25:21,596 --> 00:25:24,258
+Sinto muito. Achei que ele
+concordasse com nós dois juntos.
+
+348
+00:25:24,432 --> 00:25:25,990
+Ele não estava errado.
+Eu subornei um cara.
+
+349
+00:25:26,167 --> 00:25:28,328
+Não foi por isso que ele trouxe a patrulha.
+
+350
+00:25:28,503 --> 00:25:31,666
+Vai ficar tudo bem. Eu te vejo em casa.
+
+351
+00:25:32,374 --> 00:25:34,239
+- Boa noite.
+- Boa noite.
+
+352
+00:25:34,776 --> 00:25:37,210
+- Tem alguma coisa pra dizer pra mim?
+- Obrigado.
+
+353
+00:25:37,379 --> 00:25:39,279
+Não, eu estava falando
+daquilo que você pensou...
+
+354
+00:25:39,447 --> 00:25:42,109
+quando o Lance me acusou
+de traficar na boate.
+
+355
+00:25:42,283 --> 00:25:45,150
+Eu não entendo por que você
+não me contou do suborno.
+
+356
+00:25:45,320 --> 00:25:48,687
+Eu administro a boate, Oliver.
+Eu não te conto muitas coisas.
+
+357
+00:25:48,857 --> 00:25:51,189
+Então deixa eu te perguntar
+uma coisa, amigo...
+
+358
+00:25:51,359 --> 00:25:54,351
+o que eu fiz nos úItimos seis meses
+desde que você voltou pra casa...
+
+359
+00:25:54,529 --> 00:25:57,020
+que te faria acreditar
+que eu venderia drogas?
+
+360
+00:25:57,198 --> 00:26:00,065
+Nos úItimos seis meses, nada.
+
+361
+00:26:00,268 --> 00:26:02,293
+- É.
+- Antes de eu ir, você jogava pesado.
+
+362
+00:26:02,470 --> 00:26:04,404
+Se metia com gente ruim
+que gostava de coisas ruins...
+
+363
+00:26:04,572 --> 00:26:07,063
+E você também, Oliver.
+
+364
+00:26:07,509 --> 00:26:09,500
+Mas eu mudei.
+Que nem você mudou.
+
+365
+00:26:10,845 --> 00:26:14,246
+Agora você bota flechas
+em pessoas que fazem coisas ilegais.
+
+366
+00:26:14,416 --> 00:26:17,579
+Da úItima vez que eu chequei, subornar
+um inspetor municipal não era legal.
+
+367
+00:26:17,786 --> 00:26:21,847
+Você acha mesmo que
+eu poderia te machucar?
+
+368
+00:26:22,023 --> 00:26:25,049
+Pra falar a verdade, eu não tenho
+a menor ideia do que você faria.
+
+369
+00:26:25,226 --> 00:26:26,853
+Você é um mistério completo pra mim.
+
+370
+00:26:27,028 --> 00:26:30,896
+Eu não tenho ideia de como
+você acha tão fácil matar pessoas.
+
+371
+00:26:32,701 --> 00:26:37,331
+Da próxima vez que você decidir pensar o pior
+de mim, lembra do que eu penso de você agora.
+
+372
+00:26:44,746 --> 00:26:47,874
+- Qual o problema dele?
+- Qual o seu?
+
+373
+00:26:49,517 --> 00:26:52,611
+- Como é que é?
+- Pedi pra Felicity entrar em contato com você.
+
+374
+00:26:52,821 --> 00:26:55,756
+Teve uma situação com reféns no aquário.
+
+375
+00:26:55,924 --> 00:26:58,757
+- Desculpa, não recebi sua mensagem a tempo.
+- Por quê?
+
+376
+00:27:00,028 --> 00:27:01,689
+Porque eu estava ocupado com outra coisa.
+
+377
+00:27:03,932 --> 00:27:05,695
+Lawton.
+
+378
+00:27:06,234 --> 00:27:09,101
+- Oliver, você não chegou a precisar de mim.
+- Você não tinha como saber disso.
+
+379
+00:27:09,270 --> 00:27:12,398
+Em outras palavras, "ache o assassino
+do seu irmão no seu tempo livre", não é?
+
+380
+00:27:12,574 --> 00:27:16,874
+Vertigo está acabando com essa cidade, Diggle.
+Então é. Talvez não seja uma boa hora...
+
+381
+00:27:17,045 --> 00:27:18,637
+pra se satisfazer com vinganças pessoais.
+
+382
+00:27:18,847 --> 00:27:20,212
+Você vai dizer na minha cara...
+
+383
+00:27:20,381 --> 00:27:23,077
+que ir atrás do Conde não é pessoal?
+
+384
+00:27:23,251 --> 00:27:27,950
+Oliver, eu não consigo Ier um livro para o meu
+sobrinho sem saber que Lawton tirou o pai dele.
+
+385
+00:27:28,156 --> 00:27:30,989
+Eu não posso seguir em frente com a Carly,
+não posso seguir em frente com a minha vida...
+
+386
+00:27:31,159 --> 00:27:33,457
+sabendo que ele ainda está solto.
+
+387
+00:27:36,231 --> 00:27:38,426
+Eu pensei que se alguém
+fosse entender, seria você.
+
+388
+00:27:45,406 --> 00:27:49,342
+- O que aconteceu aqui?
+- O cabo da Internet ainda funciona.
+
+389
+00:27:49,511 --> 00:27:52,139
+- Pode conectar no seu tablet, por favor?
+- Resolveu redecorar?
+
+390
+00:27:52,313 --> 00:27:54,144
+- Longa história.
+- Cadê o Dig?
+
+391
+00:27:54,315 --> 00:27:56,476
+- Longa história.
+- Tudo bem.
+
+392
+00:27:56,651 --> 00:27:59,484
+O drogado que pegou reféns.
+Ele é a única pista sobre o Conde que restou.
+
+393
+00:27:59,654 --> 00:28:01,815
+Que tipo de informação você quer saber?
+
+394
+00:28:01,990 --> 00:28:04,823
+Qualquer coisa que nos dê
+uma pista da localização do Conde.
+
+395
+00:28:04,993 --> 00:28:06,984
+O legistajá fez o relatório da autópsia?
+
+396
+00:28:07,162 --> 00:28:08,925
+Já. Estou baixando agora.
+
+397
+00:28:09,097 --> 00:28:12,430
+Vê na toxicologia se tem alguma
+coisa na Vertigo que ele tomou.
+
+398
+00:28:12,600 --> 00:28:16,195
+- Ele não morreu de overdose de Vertigo.
+- Eu vi, Felicity.
+
+399
+00:28:17,038 --> 00:28:20,201
+De acordo com o legista,
+a causa da morte foi anafilaxia severa.
+
+400
+00:28:20,408 --> 00:28:23,138
+Ele morreu de uma reação
+alérgica a clorpromazina.
+
+401
+00:28:23,311 --> 00:28:24,676
+É um antipsicótico.
+
+402
+00:28:25,680 --> 00:28:27,614
+Abre a autópsia da Veronica Sparks.
+
+403
+00:28:27,782 --> 00:28:30,649
+Ela tinha clorpromazina no organismo?
+
+404
+00:28:31,786 --> 00:28:35,552
+Tinha. Como você sabia?
+
+405
+00:28:35,723 --> 00:28:39,022
+O Conde deve ter adicionado isso como
+ingrediente na úItima versão de Vertigo.
+
+406
+00:28:41,462 --> 00:28:42,986
+Mas a quantidade pra fabricar...
+
+407
+00:28:43,164 --> 00:28:45,496
+o suficiente pra circulação não seria enorme?
+
+408
+00:28:45,667 --> 00:28:49,125
+- Onde ele ia conseguir tanto?
+- Numa instituição mental.
+
+409
+00:28:51,139 --> 00:28:53,369
+- E se a gente estiver vendo isso errado?
+- Como assim?
+
+410
+00:28:53,541 --> 00:28:55,839
+Todo mundo está procurando
+ele fora do manicômio.
+
+411
+00:28:56,010 --> 00:28:57,500
+Mas e se ele nunca saiu?
+
+412
+00:28:58,313 --> 00:29:05,082
+E se ele só fingiu fugir da mesma
+forma que ele fingiu estar louco?
+
+413
+00:29:43,558 --> 00:29:45,492
+Nunca esquece.
+
+414
+00:29:46,794 --> 00:29:49,422
+Sempre volta pra mais.
+
+415
+00:29:53,034 --> 00:29:55,594
+Eu devia ter te matado quando tive a chance.
+
+416
+00:29:56,504 --> 00:29:57,766
+Se vira.
+
+417
+00:29:58,873 --> 00:30:02,809
+Eu disse pra se virar.
+
+418
+00:30:39,314 --> 00:30:40,781
+Oliver Queen.
+
+419
+00:30:41,182 --> 00:30:43,946
+Todos esses anos naquela ilha.
+
+420
+00:30:44,118 --> 00:30:46,143
+Acho que você ficou louco mesmo.
+
+421
+00:31:07,675 --> 00:31:10,303
+Então o Conde não fingiu
+estar maluco, não é?
+
+422
+00:31:12,146 --> 00:31:13,670
+Era você o tempo todo.
+
+423
+00:31:13,848 --> 00:31:17,807
+Como você fez pra ele te dar
+a fórmula de Vertigo? Hein?
+
+424
+00:31:18,119 --> 00:31:20,849
+Ele não parece saber
+muito de química agora.
+
+425
+00:31:21,022 --> 00:31:23,490
+Ele não poderia me falar nem se quisesse.
+
+426
+00:31:23,658 --> 00:31:25,888
+Eu pedi uma biópsia dos rins dele.
+
+427
+00:31:26,060 --> 00:31:29,154
+O tecido estava impregnado com
+o narcótico depois da overdose.
+
+428
+00:31:29,330 --> 00:31:30,922
+Quando eu recebi os resultados...
+
+429
+00:31:31,132 --> 00:31:34,533
+percebi que eu podia retroanalisar
+o composto químico da droga.
+
+430
+00:31:34,702 --> 00:31:38,433
+Eu mesmo produzi uma versão sintetizada
+usando a infraestrutura daqui.
+
+431
+00:31:38,639 --> 00:31:41,403
+E fez alguns melhoramentos
+como adicionar clorpromazina.
+
+432
+00:31:42,176 --> 00:31:43,438
+Foi assim que você nos achou.
+
+433
+00:31:43,644 --> 00:31:46,169
+Policiais vieram aqui fazendo perguntas...
+
+434
+00:31:46,347 --> 00:31:50,374
+você fingiu o desaparecimento
+do Conde pra tirar o foco de você.
+
+435
+00:31:50,551 --> 00:31:52,416
+Foi esperto.
+
+436
+00:31:53,855 --> 00:31:56,585
+Eu não estava tentando
+ser um gênio do crime.
+
+437
+00:31:57,792 --> 00:31:59,589
+Eu só precisava do dinheiro.
+
+438
+00:31:59,761 --> 00:32:03,458
+Uma coisa que eu tenho certeza
+que um bilionário não entenderia.
+
+439
+00:32:03,664 --> 00:32:05,393
+Pode acreditar.
+
+440
+00:32:06,234 --> 00:32:08,202
+Eu te entendo perfeitamente.
+
+441
+00:32:09,370 --> 00:32:10,462
+Abre a boca dele.
+
+442
+00:32:27,955 --> 00:32:30,617
+Pelo que eu li nos tabloides...
+
+443
+00:32:30,792 --> 00:32:34,387
+ninguém vai ficar surpreso ao saber que Oliver
+Queen morreu de uma overdose de drogas.
+
+444
+00:33:03,825 --> 00:33:05,417
+Dig.
+
+445
+00:33:51,472 --> 00:33:53,167
+Afastem-se.
+
+446
+00:33:56,677 --> 00:33:58,508
+Parado.
+
+447
+00:34:02,683 --> 00:34:04,412
+Você não parece muito bem.
+
+448
+00:34:05,486 --> 00:34:07,477
+Eu duvido que consiga
+atirar uma única flecha.
+
+449
+00:34:41,956 --> 00:34:45,722
+Parece que eu sou o úItimo que sobrou.
+
+450
+00:34:47,595 --> 00:34:49,586
+Sentado.
+
+451
+00:34:51,098 --> 00:34:52,963
+Rodando.
+
+452
+00:34:53,134 --> 00:34:55,728
+Alguma coisa pra fazer.
+
+453
+00:34:57,071 --> 00:35:02,031
+O que eu ia fazer?
+A memória não é mais o que já foi.
+
+454
+00:35:03,477 --> 00:35:06,275
+Nada é mais o que já foi.
+
+455
+00:35:13,120 --> 00:35:16,886
+Tem um nome na lápide?
+
+456
+00:35:19,060 --> 00:35:20,789
+Não.
+
+457
+00:35:21,395 --> 00:35:23,625
+Está nova...
+
+458
+00:35:23,965 --> 00:35:25,990
+e limpa...
+
+459
+00:35:26,367 --> 00:35:28,494
+e esperando.
+
+460
+00:35:41,449 --> 00:35:42,507
+A gente acabou aqui.
+
+461
+00:35:50,992 --> 00:35:54,826
+- Oi. Como está indo?
+- No lucro.
+
+462
+00:35:55,429 --> 00:35:56,828
+O Capuz pegou o cara?
+
+463
+00:35:57,565 --> 00:36:02,696
+Bom, nós não vamos mais
+ter problemas com Vertigo.
+
+464
+00:36:03,571 --> 00:36:06,699
+- Olha, Tommy, desculpa...
+- Já atualizei a contabilidade...
+
+465
+00:36:06,874 --> 00:36:09,365
+e todas as minhas anotações
+sobre o inventário estão aí...
+
+466
+00:36:09,543 --> 00:36:13,639
+- junto com uma lista dos nossos fornecedores.
+- Tudo bem.
+
+467
+00:36:15,049 --> 00:36:18,576
+- Não sei por que você está me falando isso.
+- A boate é importante pra mim.
+
+468
+00:36:18,753 --> 00:36:20,778
+Mas pra você é só uma fachada.
+
+469
+00:36:20,955 --> 00:36:24,413
+Você quer que eu guarde o seu segredo,
+te ajude a ser essa coisa que você se tornou...
+
+470
+00:36:24,592 --> 00:36:27,026
+mas você se recusa a me ver
+pelo que eu me tornei.
+
+471
+00:36:28,296 --> 00:36:31,356
+Eu tenho amor próprio demais pra isso.
+
+472
+00:36:33,601 --> 00:36:35,068
+Eu me demito.
+
+473
+00:36:43,978 --> 00:36:45,809
+Jantar.
+
+474
+00:36:45,980 --> 00:36:47,470
+Ainda está fazendo isso?
+
+475
+00:36:47,682 --> 00:36:51,209
+É melhor o Fyers ter cuidado
+com as bacias d'água dele.
+
+476
+00:36:51,585 --> 00:36:54,145
+Quando a gente vai começar
+a treinar de verdade?
+
+477
+00:36:54,322 --> 00:36:57,155
+Uma vez havia um menino cujo pai o deixou...
+
+478
+00:36:57,325 --> 00:37:01,728
+- num monastério Shaolin pra estudar kung fu.
+- Ótimo. Uma história.
+
+479
+00:37:01,896 --> 00:37:04,888
+Depois de um ano,
+o menino foi visitar a família.
+
+480
+00:37:05,066 --> 00:37:09,435
+Quando perguntado sobre o que ele aprendeu,
+o menino abaixou a cabeça envergonhado.
+
+481
+00:37:09,603 --> 00:37:13,061
+Tudo que os monges mandaram ele fazer
+foi bater em água num barril por um ano.
+
+482
+00:37:13,441 --> 00:37:17,468
+Nós não temos um ano, então eu espero que
+o seu regime de treinamento seja mais rápido.
+
+483
+00:37:20,414 --> 00:37:23,008
+A família não acreditou,
+então ele mostrou pra eles.
+
+484
+00:37:23,217 --> 00:37:27,119
+Ele levantou a mão e bateu na mesa
+em que estavam comendo.
+
+485
+00:37:28,289 --> 00:37:31,156
+- Ela partiu no meio.
+- Eu vou ser capaz de partir uma mesa?
+
+486
+00:37:31,325 --> 00:37:32,815
+Melhor.
+
+487
+00:37:41,602 --> 00:37:43,160
+Tudo bem.
+
+488
+00:37:54,648 --> 00:37:55,945
+Puxa a corda.
+
+489
+00:38:03,891 --> 00:38:04,983
+Caramba.
+
+490
+00:38:11,165 --> 00:38:12,530
+E agora?
+
+491
+00:38:12,700 --> 00:38:14,827
+Te ensinamos a atirar.
+
+492
+00:38:33,721 --> 00:38:36,815
+- Bebendo sozinho?
+- Agora não estou mais.
+
+493
+00:38:41,996 --> 00:38:43,827
+Só refrigerante?
+
+494
+00:38:44,698 --> 00:38:46,723
+O bartender esqueceu o uísque?
+
+495
+00:38:46,901 --> 00:38:49,495
+Achei que eu não precisava disso.
+
+496
+00:38:51,205 --> 00:38:53,036
+Então...
+
+497
+00:38:53,207 --> 00:38:55,402
+A menina que morreu.
+
+498
+00:38:55,576 --> 00:38:58,670
+Acabou que ela conseguiu Vertigo
+com um colega de trabalho.
+
+499
+00:38:58,846 --> 00:39:02,282
+- Acho que devo desculpas ao seu namorado.
+- Ele tem um nome, sabia?
+
+500
+00:39:02,450 --> 00:39:05,419
+É, eu só não consigo me forçar
+a dizer. Vamos devagar.
+
+501
+00:39:08,923 --> 00:39:11,721
+Eu estraguei as coisas entre a gente de novo?
+
+502
+00:39:14,028 --> 00:39:15,518
+Não.
+
+503
+00:39:19,467 --> 00:39:21,594
+Olha, eu não estava a fim
+de ficar em cima do Merlyn, certo?
+
+504
+00:39:21,769 --> 00:39:24,567
+Eu sabia que ir atrás dele poderia
+abrir um abismo entre nós...
+
+505
+00:39:24,738 --> 00:39:27,798
+- Então por que você fez isso?
+- Havia provas, Laurel.
+
+506
+00:39:27,975 --> 00:39:29,738
+E eu precisava segui-las. Precisava.
+
+507
+00:39:31,212 --> 00:39:32,873
+Olha, sua mãe estava certa.
+Você estava certa.
+
+508
+00:39:33,047 --> 00:39:36,539
+Que nem você disse sobre mim e o Vigilante.
+Eu não consigo deixar pra lá.
+
+509
+00:39:37,117 --> 00:39:43,056
+Eu vou até o fim. É o que eu faço.
+E que se danem os outros.
+
+510
+00:39:43,224 --> 00:39:47,558
+Talvez o fato de não ter uísque aí signifique
+que você está pronto pra trabalhar nisso.
+
+511
+00:39:49,463 --> 00:39:51,294
+As pessoas podem mudar.
+
+512
+00:39:59,607 --> 00:40:01,575
+- Oi.
+- Oi.
+
+513
+00:40:04,078 --> 00:40:06,103
+Você me ajudou.
+
+514
+00:40:06,947 --> 00:40:08,778
+Você precisava de mim.
+
+515
+00:40:09,517 --> 00:40:13,476
+- Felicity me disse pra onde você estava indo.
+- Você está bem?
+
+516
+00:40:14,121 --> 00:40:16,487
+Eu sou o assassino, se lembra?
+
+517
+00:40:16,657 --> 00:40:19,820
+Eu já matei antes, Oliver.
+Só que faz um tempo.
+
+518
+00:40:23,597 --> 00:40:26,930
+Mas se você é o assassino,
+por que o Conde não está morto também?
+
+519
+00:40:27,101 --> 00:40:29,763
+Deve ter sido tentador.
+Tirar ele de jogo pra sempre.
+
+520
+00:40:29,937 --> 00:40:32,770
+- As pessoas mudam.
+- Pessoas como o Conde?
+
+521
+00:40:33,707 --> 00:40:36,437
+Não, estava falando de mim.
+
+522
+00:40:37,945 --> 00:40:41,506
+Não muito tempo atrás, eu teria acabado
+com aquele cara pra sempre...
+
+523
+00:40:41,682 --> 00:40:46,415
+mas olhando pra ele hoje, todo vazio...
+
+524
+00:40:47,655 --> 00:40:49,316
+não me pareceu ser necessário.
+
+525
+00:40:50,624 --> 00:40:55,152
+Mas nem todo mundo merece misericórdia.
+
+526
+00:40:55,329 --> 00:40:56,353
+Por exemplo.
+
+527
+00:40:56,530 --> 00:40:57,690
+CODINOME: PISTOLEIRO
+NOME REAL: FLOYD LAWTON
+
+528
+00:41:02,303 --> 00:41:05,636
+- Achei que ele não fosse prioridade pra você.
+- Ele é prioridade pra você.
+
+529
+00:41:08,075 --> 00:41:12,136
+E você dois têm assuntos a resolver.
+
+530
+00:41:12,713 --> 00:41:13,839
+Por onde a gente começa?
+
+531
+00:41:16,050 --> 00:41:20,885
+Eu prefiro pular o "eu te falei",
+mas a boate...
+
+532
+00:41:21,055 --> 00:41:23,649
+não estava dando muito certo.
+
+533
+00:41:24,224 --> 00:41:26,692
+Acho que eu preciso
+de alguma coisa mais chata.
+
+534
+00:41:26,860 --> 00:41:28,487
+Estável.
+
+535
+00:41:28,662 --> 00:41:32,962
+Das 9h às 17h, ir pra casa,
+beijar a Laurel, esse tipo de coisa.
+
+536
+00:41:34,868 --> 00:41:37,462
+Acho que o que eu quero dizer é...
+
+537
+00:41:39,607 --> 00:41:41,199
+que eu quero um emprego.
+
+538
+00:41:53,120 --> 00:41:54,587
+ARQUEIRO
+
+539
+00:42:19,680 --> 00:42:21,671
+[Portuguese - Brazilian]
+
