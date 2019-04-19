@@ -1,0 +1,1432 @@
+﻿1
+00:00:17,540 --> 00:00:19,015
+<i>Oi.</i>
+
+2
+00:00:19,058 --> 00:00:22,747
+<i>Sei que já faz um tempo,
+mas vou ser sincera.</i>
+
+3
+00:00:22,976 --> 00:00:24,621
+<i>Eu me esqueci de você.</i>
+
+4
+00:00:26,122 --> 00:00:28,459
+<i>Depois da fazenda,
+nós andamos muito.</i>
+
+5
+00:00:29,740 --> 00:00:31,517
+<i>Mas uma coisa aconteceu.</i>
+
+6
+00:00:31,675 --> 00:00:33,302
+<i>Uma coisa boa.</i>
+
+7
+00:00:33,883 --> 00:00:35,283
+<i>Finalmente.</i>
+
+8
+00:00:36,484 --> 00:00:38,020
+<i>Nós encontramos uma prisão.</i>
+
+9
+00:00:40,600 --> 00:00:43,032
+<i>Papai acha que podemos
+transformá-la num lar.</i>
+
+10
+00:00:47,869 --> 00:00:50,423
+<i>Ele diz que podemos
+cultivar o campo.</i>
+
+11
+00:00:50,543 --> 00:00:52,600
+<i>Encontrar porcos
+e galinhas.</i>
+
+12
+00:00:52,882 --> 00:00:55,154
+<i>Parar de fugir
+e de se alimentar mal.</i>
+
+13
+00:01:00,023 --> 00:01:01,985
+<i>O bebê da Lori
+está por nascer.</i>
+
+14
+00:01:02,634 --> 00:01:04,960
+<i>Ela vai precisar
+de um lugar seguro.</i>
+
+15
+00:01:20,096 --> 00:01:21,561
+<i>O resto de nós...</i>
+
+16
+00:01:22,400 --> 00:01:24,915
+<i>só precisamos
+de um lugar seguro para ficar.</i>
+
+17
+00:01:30,160 --> 00:01:32,743
+<i>Eu acordei
+na minha cama ontem.</i>
+
+18
+00:01:33,485 --> 00:01:36,539
+<i>Na minha cama
+no meu quarto.</i>
+
+19
+00:01:37,353 --> 00:01:39,106
+<i>Mas deixo
+minha mala arrumada.</i>
+
+20
+00:01:40,490 --> 00:01:42,162
+<i>Deixo minha arma
+por perto.</i>
+
+21
+00:01:43,497 --> 00:01:45,461
+<i>Tenho medo
+de ficar esperançosa.</i>
+
+22
+00:01:46,033 --> 00:01:48,153
+<i>Pensando que podemos
+mesmo ficar aqui.</i>
+
+23
+00:01:49,904 --> 00:01:53,687
+<i>O problema é que comecei
+a temer que seja mais fácil</i>
+
+24
+00:01:53,801 --> 00:01:56,149
+<i>simplesmente ter medo.</i>
+
+25
+00:01:59,481 --> 00:02:02,030
+<i>Mas essa manhã
+papai disse uma coisa.</i>
+
+26
+00:02:02,950 --> 00:02:06,105
+<i>Se você não tiver esperança,
+qual é o sentido de se viver?</i>
+
+27
+00:02:08,561 --> 00:02:11,617
+<i>Então eu desfiz minha mala
+e te encontrei.</i>
+
+28
+00:02:12,263 --> 00:02:14,394
+<i>Vou começar a escrever
+em você de novo.</i>
+
+29
+00:02:15,330 --> 00:02:19,054
+<i>E vou escrever isso agora
+porque devemos escrever desejos</i>
+
+30
+00:02:19,060 --> 00:02:20,461
+<i>para que eles se realizem.</i>
+
+31
+00:02:21,972 --> 00:02:23,437
+<i>Nós podemos viver aqui.</i>
+
+32
+00:02:26,142 --> 00:02:28,950
+<i>Podemos viver aqui
+pelo resto de nossas vidas.</i>
+
+33
+00:02:30,950 --> 00:02:34,200
+<b>UNITED
+apresenta</b>
+
+34
+00:02:35,450 --> 00:02:39,950
+<b>Legenda:
+rickSG | TimePink</b>
+
+35
+00:02:41,250 --> 00:02:45,500
+<b>Legenda:
+Darkside | Ray</b>
+
+36
+00:02:45,700 --> 00:02:49,300
+<b>Legenda:
+Gaboro</b>
+
+37
+00:02:51,800 --> 00:02:56,500
+<b>Legende Conosco! | @UnitedTeam
+united4ever.tv</b>
+
+38
+00:03:01,700 --> 00:03:05,950
+<b>S04E10
+Inmates</b>
+
+39
+00:03:14,877 --> 00:03:16,360
+Deveríamos fazer algo.
+
+40
+00:03:21,415 --> 00:03:23,074
+Deveríamos fazer algo.
+
+41
+00:03:27,390 --> 00:03:29,280
+Não somos
+os únicos sobreviventes.
+
+42
+00:03:30,714 --> 00:03:32,129
+Não podemos ser.
+
+43
+00:03:33,895 --> 00:03:35,986
+Rick e Michonne
+podem estar por perto.
+
+44
+00:03:36,650 --> 00:03:38,866
+Maggie e Glenn podem ter
+escapado da bloco A.
+
+45
+00:03:40,298 --> 00:03:41,873
+Eles podem.
+
+46
+00:03:50,965 --> 00:03:54,175
+Você é um rastreador.
+Pode rastrear.
+
+47
+00:03:55,403 --> 00:03:56,815
+Vamos.
+
+48
+00:03:57,323 --> 00:03:59,822
+Logo o sol nascerá,
+se formos agora, podemos...
+
+49
+00:04:04,464 --> 00:04:07,048
+Tudo bem.
+Se não vai rastrear, eu vou.
+
+50
+00:04:58,308 --> 00:05:01,594
+Podem ser do Luke.
+Ou da Molly.
+
+51
+00:05:01,922 --> 00:05:04,356
+Onde quer que estejam,
+significa que estão vivos.
+
+52
+00:05:04,425 --> 00:05:07,871
+Não, significa que estavam vivos
+há quatro ou cinco horas.
+
+53
+00:05:09,024 --> 00:05:10,608
+Eles estão vivos.
+
+54
+00:05:43,132 --> 00:05:45,139
+Eles aumentaram
+a velocidade aqui.
+
+55
+00:05:45,752 --> 00:05:47,391
+Saíram com pressa.
+
+56
+00:05:48,456 --> 00:05:50,099
+A coisa ficou feia.
+
+57
+00:05:50,828 --> 00:05:52,912
+Não mataria
+ter um pouco de fé.
+
+58
+00:05:53,496 --> 00:05:54,945
+Sei, fé.
+
+59
+00:05:54,946 --> 00:05:56,581
+A fé não nos
+ajudou em nada.
+
+60
+00:05:56,633 --> 00:05:58,912
+Não serviu de nada
+para o seu pai.
+
+61
+00:06:20,962 --> 00:06:22,951
+Estarão famintos
+quando os acharmos.
+
+62
+00:07:12,483 --> 00:07:13,923
+O que foi?
+
+63
+00:07:14,489 --> 00:07:16,417
+Não é sangue de errante.
+
+64
+00:07:17,237 --> 00:07:18,790
+A trilha segue em frente.
+
+65
+00:07:19,433 --> 00:07:20,833
+Eles deram cabo deles.
+
+66
+00:07:22,132 --> 00:07:25,608
+Não. Há rastros de errantes
+por todos os lados.
+
+67
+00:07:25,770 --> 00:07:27,270
+No mínimo doze deles.
+
+68
+00:08:07,369 --> 00:08:08,769
+Vamos.
+
+69
+00:09:47,980 --> 00:09:49,566
+<i>Nós não vamos morrer.</i>
+
+70
+00:09:51,688 --> 00:09:53,099
+<i>Nenhum de nós.</i>
+
+71
+00:09:55,346 --> 00:09:57,058
+<i>Agora eu acredito.</i>
+
+72
+00:09:57,882 --> 00:09:59,856
+<i>Acredito pelo papai.</i>
+
+73
+00:10:01,045 --> 00:10:05,538
+<i>Se isso não funcionar,
+não sei como continuarei.</i>
+
+74
+00:10:19,551 --> 00:10:21,119
+Não chore.
+
+75
+00:10:22,949 --> 00:10:24,662
+Quero a Carol.
+
+76
+00:10:25,145 --> 00:10:27,002
+Mas ela não está aqui.
+
+77
+00:10:29,079 --> 00:10:31,550
+Tome.
+Coloque no seu cinto.
+
+78
+00:10:34,360 --> 00:10:37,576
+Vai escurecer logo.
+Aonde estamos indo?
+
+79
+00:10:41,724 --> 00:10:44,064
+Mais longe.
+Vamos.
+
+80
+00:10:46,273 --> 00:10:48,182
+Todo mundo morreu?
+
+81
+00:11:15,991 --> 00:11:17,599
+Vão ouvi-la!
+
+82
+00:11:21,731 --> 00:11:23,182
+Não devíamos estar aqui.
+
+83
+00:11:23,183 --> 00:11:25,209
+Logo encontraremos
+um local seguro.
+
+84
+00:11:25,832 --> 00:11:27,236
+Encontraremos.
+
+85
+00:11:33,191 --> 00:11:34,596
+Aqui.
+
+86
+00:11:42,754 --> 00:11:44,164
+Errantes!
+
+87
+00:11:49,080 --> 00:11:50,950
+Tome. Vamos.
+
+88
+00:11:51,613 --> 00:11:53,747
+Vamos.
+Está tudo bem.
+
+89
+00:11:53,748 --> 00:11:55,525
+Acharei algo para você comer.
+
+90
+00:11:56,932 --> 00:11:58,426
+Certo, vamos.
+
+91
+00:12:08,398 --> 00:12:10,632
+Olhem, uvas.
+
+92
+00:12:12,900 --> 00:12:15,831
+- Podemos comê-las?
+- Podem. Estão boas.
+
+93
+00:12:21,494 --> 00:12:23,120
+Pegue, Lizzie.
+Coma algumas.
+
+94
+00:12:29,093 --> 00:12:30,586
+Vamos, bebezinha.
+
+95
+00:12:34,778 --> 00:12:36,968
+Lizzie, passe uma fralda.
+
+96
+00:12:37,665 --> 00:12:39,644
+Está tudo bem.
+
+97
+00:12:39,810 --> 00:12:41,216
+Tenha paciência, Judith.
+
+98
+00:12:41,614 --> 00:12:43,063
+Certo. É isso.
+
+99
+00:12:47,730 --> 00:12:49,201
+Eles vão ouvi-la.
+
+100
+00:12:51,681 --> 00:12:53,528
+Você está bem.
+Vamos.
+
+101
+00:12:53,749 --> 00:12:56,939
+Está tudo bem.
+Eu sei. Eu sei.
+
+102
+00:12:57,293 --> 00:13:00,832
+Certo. O que você quer?
+O que você quer?
+
+103
+00:13:04,200 --> 00:13:05,781
+Certo, vamos.
+
+104
+00:13:08,259 --> 00:13:10,364
+- Eles estão vindo!
+- Já ouvi, Mica!
+
+105
+00:13:10,365 --> 00:13:12,986
+Não grite com ela.
+Ela não entende os errantes.
+
+106
+00:13:12,987 --> 00:13:15,407
+Você é quem
+não entende eles.
+
+107
+00:13:17,066 --> 00:13:19,245
+Vamos.
+Cuidem da bebê.
+
+108
+00:13:36,448 --> 00:13:37,869
+Mica!
+
+109
+00:13:39,047 --> 00:13:40,452
+<i>Mica!</i>
+
+110
+00:13:43,036 --> 00:13:44,440
+<i>Mica!</i>
+
+111
+00:13:48,533 --> 00:13:50,324
+- Mica.
+- Ela sumiu.
+
+112
+00:13:50,325 --> 00:13:52,364
+Gritou com ela
+e agora ela sumiu.
+
+113
+00:13:53,117 --> 00:13:54,532
+Mica!
+
+114
+00:13:55,815 --> 00:13:57,231
+<i>Mica!</i>
+
+115
+00:14:01,682 --> 00:14:03,109
+Você está bem?
+
+116
+00:14:04,724 --> 00:14:06,150
+Eu me assustei.
+
+117
+00:14:06,151 --> 00:14:08,716
+Não tem problema.
+Todos nos assustamos.
+
+118
+00:14:08,717 --> 00:14:10,419
+Fez o certo ao correr.
+
+119
+00:14:10,884 --> 00:14:12,869
+- O quê?
+- Fez sim.
+
+120
+00:14:12,870 --> 00:14:14,893
+Se ouvir ou ver um errante,
+corra.
+
+121
+00:14:14,894 --> 00:14:19,283
+Mas quando em grupo,
+tente ficar perto, certo?
+
+122
+00:14:23,652 --> 00:14:26,661
+Está sangrando.
+Eu te machuquei muito?
+
+123
+00:14:26,662 --> 00:14:29,193
+Estava bem pior na prisão.
+Não se preocupe.
+
+124
+00:14:30,742 --> 00:14:32,157
+Desculpe.
+
+125
+00:14:33,486 --> 00:14:35,300
+Sei que não sou
+como a Lizzie.
+
+126
+00:14:35,532 --> 00:14:38,817
+Não se desculpe.
+Cada uma faz de um jeito.
+
+127
+00:14:38,818 --> 00:14:41,538
+- Mas as duas fazem dar certo.
+- Como você e a Sasha?
+
+128
+00:14:41,539 --> 00:14:42,965
+Você não é como a Sasha.
+
+129
+00:14:43,164 --> 00:14:44,596
+Por quê?
+
+130
+00:14:44,916 --> 00:14:47,571
+Porque você ainda está aqui.
+A Sasha não.
+
+131
+00:14:54,545 --> 00:14:56,613
+- Tome.
+- O que está fazendo?
+
+132
+00:14:59,411 --> 00:15:02,198
+Quero me certificar
+de que veem as duas direções.
+
+133
+00:15:02,199 --> 00:15:04,541
+Fiquem assim
+e façam guarda.
+
+134
+00:15:04,542 --> 00:15:05,956
+Está nos deixando?
+
+135
+00:15:06,885 --> 00:15:09,518
+Podem ser da prisão.
+Preciso ajudá-los.
+
+136
+00:15:09,519 --> 00:15:10,944
+Precisamos de você.
+
+137
+00:15:11,387 --> 00:15:13,995
+Mica, enfie sua camisa
+atrás da faca.
+
+138
+00:15:13,996 --> 00:15:15,576
+Fica mais fácil de pegar.
+
+139
+00:15:16,141 --> 00:15:17,556
+Ficaremos bem.
+
+140
+00:15:21,217 --> 00:15:22,898
+O que fazem
+ao ver um errante?
+
+141
+00:15:22,899 --> 00:15:24,361
+- Corremos.
+- Corremos.
+
+142
+00:15:24,362 --> 00:15:27,391
+Juntas, na minha direção.
+Só atirem se precisarem.
+
+143
+00:15:27,392 --> 00:15:29,681
+Fiquem bem aqui
+até eu voltar, certo?
+
+144
+00:15:29,682 --> 00:15:31,484
+Por favor, por favor,
+não vá!
+
+145
+00:15:33,479 --> 00:15:35,647
+Mica, olhe para mim.
+
+146
+00:15:36,178 --> 00:15:37,892
+Você consegue.
+
+147
+00:15:38,136 --> 00:15:39,540
+É durona.
+
+148
+00:16:00,873 --> 00:16:03,416
+- Chris, vá para a floresta!
+- Não consigo!
+
+149
+00:16:18,937 --> 00:16:21,500
+Vamos, Judith.
+Fique quieta.
+
+150
+00:16:22,098 --> 00:16:23,889
+Ela não para.
+
+151
+00:16:23,890 --> 00:16:26,157
+Por favor, faça algo.
+
+152
+00:16:26,857 --> 00:16:28,583
+Vão nos ouvir!
+
+153
+00:16:48,293 --> 00:16:49,697
+Lizzie.
+
+154
+00:16:51,721 --> 00:16:53,590
+- Pai!
+- Christopher!
+
+155
+00:16:54,763 --> 00:16:56,809
+- Pai!
+- Christopher!
+
+156
+00:17:05,840 --> 00:17:07,974
+Temos que correr.
+
+157
+00:17:10,330 --> 00:17:11,739
+Lizzie?
+
+158
+00:17:12,995 --> 00:17:14,411
+Lizzie?
+
+159
+00:17:34,102 --> 00:17:35,506
+Cuidado!
+
+160
+00:17:47,824 --> 00:17:49,228
+Tyreese.
+
+161
+00:18:09,322 --> 00:18:12,131
+Como nos achou?
+Onde esteve?
+
+162
+00:18:12,264 --> 00:18:13,680
+Como...
+
+163
+00:18:15,814 --> 00:18:17,540
+Fiquem aqui, meninas.
+
+164
+00:18:28,571 --> 00:18:30,463
+Fique nas trilhas.
+
+165
+00:18:33,006 --> 00:18:34,676
+Foi o meu erro.
+
+166
+00:18:35,141 --> 00:18:37,607
+- Mas a floresta encobre mais.
+- Não.
+
+167
+00:18:38,116 --> 00:18:39,897
+Vocês não entendem.
+
+168
+00:18:40,764 --> 00:18:43,972
+Tem um lugar mais para frente.
+É seguro.
+
+169
+00:18:43,973 --> 00:18:46,991
+Podem levar as crianças lá.
+
+170
+00:18:50,612 --> 00:18:52,016
+Confiem em mim.
+
+171
+00:18:52,890 --> 00:18:54,295
+Por favor.
+
+172
+00:18:54,770 --> 00:18:56,418
+Sigam as trilhas.
+
+173
+00:19:18,160 --> 00:19:19,564
+Tyreese.
+
+174
+00:19:20,328 --> 00:19:21,876
+Não corri.
+
+175
+00:19:22,555 --> 00:19:24,114
+Não deixei a Lizzie.
+
+176
+00:19:24,313 --> 00:19:27,012
+Viu só?
+Mocinha durona.
+
+177
+00:19:30,440 --> 00:19:33,475
+Tem um pouco de água aqui.
+
+178
+00:19:33,898 --> 00:19:35,955
+- E um pouco de comida.
+- Certo.
+
+179
+00:19:38,602 --> 00:19:40,006
+Certo.
+
+180
+00:19:43,579 --> 00:19:44,983
+Aqui está.
+
+181
+00:19:47,820 --> 00:19:49,468
+Não te vi sair.
+
+182
+00:19:50,197 --> 00:19:53,047
+- Pensei que você...
+- Eu não estava lá.
+
+183
+00:19:54,400 --> 00:19:56,111
+Eu não tinha voltado ainda.
+
+184
+00:19:56,888 --> 00:19:58,585
+Rick e eu achamos um carro.
+
+185
+00:19:58,586 --> 00:20:00,582
+Ele levou o que tínhamos
+para a prisão.
+
+186
+00:20:01,193 --> 00:20:02,593
+Enquanto eu...
+
+187
+00:20:04,069 --> 00:20:05,469
+Continuei procurando.
+
+188
+00:20:07,037 --> 00:20:08,608
+Encontrou algo?
+
+189
+00:20:09,434 --> 00:20:10,872
+Encontrei o fim.
+
+190
+00:20:11,230 --> 00:20:12,630
+E depois...
+
+191
+00:20:13,676 --> 00:20:15,878
+Eu te vi correndo
+para dentro da floresta.
+
+192
+00:20:15,879 --> 00:20:17,898
+Você estava longe,
+eu perdi você, mas...
+
+193
+00:20:17,899 --> 00:20:19,299
+Você nos encontrou.
+
+194
+00:20:22,169 --> 00:20:23,629
+Eu sabia que encontraria.
+
+195
+00:20:30,972 --> 00:20:33,648
+Talvez devêssemos procurar
+com o seu carro.
+
+196
+00:20:34,704 --> 00:20:36,742
+Os errantes e o fogo...
+
+197
+00:20:38,130 --> 00:20:40,160
+Não pode voltar
+para um cemitério.
+
+198
+00:20:50,019 --> 00:20:51,419
+Vejam.
+
+199
+00:20:59,090 --> 00:21:02,354
+"Santuário para todos.
+Comunidade para todos.
+
+200
+00:21:02,791 --> 00:21:05,303
+Aqueles que chegarem,
+sobreviverão."
+
+201
+00:21:16,043 --> 00:21:19,037
+"ESTAÇÃO FINAL"
+
+202
+00:21:46,151 --> 00:21:47,551
+Sinto muito.
+
+203
+00:21:50,010 --> 00:21:51,416
+Você pode sorrir.
+
+204
+00:21:52,534 --> 00:21:54,435
+Você está vivo,
+eu entendo.
+
+205
+00:21:57,179 --> 00:21:58,579
+Não é isso.
+
+206
+00:22:00,956 --> 00:22:02,356
+Tudo bem.
+
+207
+00:22:05,389 --> 00:22:07,522
+Tyreese pode ter sobrevivido,
+Sasha.
+
+208
+00:22:09,558 --> 00:22:11,511
+Não sabemos
+se alguém escapou.
+
+209
+00:22:16,019 --> 00:22:17,419
+Não.
+
+210
+00:22:18,917 --> 00:22:20,317
+Nós escapamos.
+
+211
+00:22:31,352 --> 00:22:32,777
+Como ele está?
+
+212
+00:22:32,778 --> 00:22:35,407
+O sangramento parou.
+Ele ficará bem.
+
+213
+00:22:38,328 --> 00:22:41,761
+Temos água.
+Uma boa visão da margem.
+
+214
+00:22:41,762 --> 00:22:43,604
+Estou pensando
+em acamparmos aqui.
+
+215
+00:22:43,930 --> 00:22:45,330
+Isso é bom.
+
+216
+00:22:48,379 --> 00:22:50,158
+Vocês estarão a salvo aqui.
+
+217
+00:22:51,305 --> 00:22:53,166
+O ônibus escapou.
+Glenn escapou.
+
+218
+00:22:53,167 --> 00:22:55,352
+- Irei encontrá-lo.
+- Maggie.
+
+219
+00:22:56,890 --> 00:22:59,562
+Com sorte,
+o ônibus foi embora.
+
+220
+00:22:59,563 --> 00:23:01,960
+Foi para o leste,
+se eu seguir nessa direção,
+
+221
+00:23:01,961 --> 00:23:04,917
+- posso rastreá-lo.
+- Sozinha? Só com isso?
+
+222
+00:23:04,918 --> 00:23:06,544
+Estou sem munição,
+então sim.
+
+223
+00:23:07,389 --> 00:23:08,920
+Não pude encontrar a Beth.
+
+224
+00:23:09,330 --> 00:23:11,640
+Eu sei que Glenn escapou
+e sei aonde ele foi.
+
+225
+00:23:11,830 --> 00:23:14,273
+Irei pegá-lo e voltarei
+por vocês.
+
+226
+00:23:14,274 --> 00:23:15,930
+<i>- Nós dois voltaremos.
+- Maggie.</i>
+
+227
+00:23:15,931 --> 00:23:18,909
+- Eu irei.
+- Não podemos nos separar agora.
+
+228
+00:23:20,430 --> 00:23:21,830
+Estou indo.
+
+229
+00:23:25,192 --> 00:23:26,592
+Você falou...
+
+230
+00:23:28,611 --> 00:23:30,100
+"Não podemos nos separar."
+
+231
+00:23:35,536 --> 00:23:38,279
+MOCHILEIROS PODEM SER
+DETENTOS FUGITIVOS
+
+232
+00:23:38,280 --> 00:23:40,144
+<i>Poderia ter me ajudado
+a impedi-la.</i>
+
+233
+00:23:42,914 --> 00:23:44,842
+Se está tentando me fazer
+sentir pena,
+
+234
+00:23:44,843 --> 00:23:46,243
+não está funcionando.
+
+235
+00:23:47,152 --> 00:23:50,547
+Droga, quer dizer
+que eu levei um tiro por nada.
+
+236
+00:23:50,930 --> 00:23:52,960
+Temos poucas chances
+de o encontramos.
+
+237
+00:23:53,430 --> 00:23:56,063
+Deveríamos estar procurando
+por comida, abrigo.
+
+238
+00:23:56,064 --> 00:23:59,510
+- Sim, por que isso?
+- Para sobrevivermos.
+
+239
+00:23:59,830 --> 00:24:02,613
+- Depois o quê?
+- O quê?
+
+240
+00:24:03,309 --> 00:24:05,967
+Talvez não sobrevivemos
+para continuar sobrevivendo.
+
+241
+00:24:05,968 --> 00:24:07,368
+Merdas acontecem.
+
+242
+00:24:07,738 --> 00:24:09,606
+Nem tudo
+tem que significar algo.
+
+243
+00:24:09,607 --> 00:24:11,912
+Não, não precisa,
+mas pode.
+
+244
+00:24:11,913 --> 00:24:15,089
+Se fizer desse jeito
+que estamos fazendo agora.
+
+245
+00:24:15,523 --> 00:24:16,923
+Estou triste com isso.
+
+246
+00:24:38,930 --> 00:24:41,382
+Maggie.
+Maggie!
+
+247
+00:25:12,508 --> 00:25:13,908
+Deveriam ir embora.
+
+248
+00:25:15,887 --> 00:25:18,253
+- Maggie, pare.
+- Maggie.
+
+249
+00:25:18,254 --> 00:25:20,109
+Preciso saber
+se ele estar aí.
+
+250
+00:25:21,388 --> 00:25:24,320
+Beleza,
+mas faremos isso juntos.
+
+251
+00:25:25,309 --> 00:25:26,709
+Sabiamente.
+
+252
+00:25:27,431 --> 00:25:29,207
+Deixaremos sair
+um de cada vez.
+
+253
+00:25:33,748 --> 00:25:35,539
+Dois de nós deve
+ficar na porta.
+
+254
+00:25:37,711 --> 00:25:39,638
+Em caso de necessidade.
+
+255
+00:25:40,330 --> 00:25:41,730
+Eu tenho que ficar aqui.
+
+256
+00:25:41,731 --> 00:25:43,766
+Preciso ver seus rostos.
+
+257
+00:26:27,800 --> 00:26:29,300
+Não consigo segurar.
+
+258
+00:27:13,346 --> 00:27:14,746
+Sinto muito.
+
+259
+00:27:25,472 --> 00:27:26,914
+Mas eles escaparam.
+
+260
+00:27:28,216 --> 00:27:29,616
+Eram boas pessoas.
+
+261
+00:27:30,446 --> 00:27:31,846
+<i>Todos eles.</i>
+
+262
+00:27:51,432 --> 00:27:52,832
+Permita-me.
+
+263
+00:30:23,513 --> 00:30:24,913
+Maggie?
+
+264
+00:30:30,213 --> 00:30:32,113
+Maggie!
+
+265
+00:36:55,193 --> 00:36:56,593
+Está carregada.
+
+266
+00:36:57,393 --> 00:36:58,893
+<i>Fez algum disparo?</i>
+
+267
+00:37:01,993 --> 00:37:03,893
+Certo, vamos.
+
+268
+00:37:05,693 --> 00:37:07,093
+Vamos!
+
+269
+00:37:10,093 --> 00:37:12,243
+Pretende ficar aqui
+para sempre?
+
+270
+00:37:12,244 --> 00:37:15,093
+- Simplesmente quer morrer?
+- Fui parte disto.
+
+271
+00:37:16,293 --> 00:37:17,793
+Eu sei.
+
+272
+00:37:18,793 --> 00:37:20,793
+Então, o que está fazendo?
+
+273
+00:37:22,593 --> 00:37:24,243
+Preciso de sua ajuda.
+
+274
+00:37:32,569 --> 00:37:34,593
+Ficaremos sem munição.
+
+275
+00:37:34,594 --> 00:37:36,893
+Pegue esta.
+
+276
+00:37:42,443 --> 00:37:43,843
+Afaste-se.
+
+277
+00:38:01,993 --> 00:38:05,143
+Preciso que fique
+do meu lado, está bem?
+
+278
+00:38:05,144 --> 00:38:07,893
+Te darei cobertura,
+mas sozinho não consigo.
+
+279
+00:38:17,093 --> 00:38:18,493
+Está pronta?
+
+280
+00:38:19,443 --> 00:38:20,843
+Vamos.
+
+281
+00:38:21,193 --> 00:38:23,793
+Vai, vai, vai.
+
+282
+00:38:26,493 --> 00:38:27,893
+Atire!
+
+283
+00:38:59,443 --> 00:39:02,193
+Conseguiu ver se algum
+dos meus conseguiu escapar?
+
+284
+00:39:02,194 --> 00:39:04,643
+Tudo o que vi naquele lugar
+foi a minha irmã.
+
+285
+00:39:05,793 --> 00:39:07,693
+Ela não deveria estar lá.
+
+286
+00:39:09,293 --> 00:39:12,182
+Ela tinha uma arma, mas,
+simplesmente, foram até ela.
+
+287
+00:39:14,893 --> 00:39:16,393
+Ela não deveria estar lá.
+
+288
+00:39:16,394 --> 00:39:19,193
+Fiz por ele.
+Eu confiava nele.
+
+289
+00:39:19,893 --> 00:39:21,943
+E depois,
+ele matou aquele idoso.
+
+290
+00:39:23,093 --> 00:39:24,493
+Hershel?
+
+291
+00:39:29,393 --> 00:39:31,093
+Ele se chamava Hershel?
+
+292
+00:39:40,193 --> 00:39:43,793
+Eu lamento.
+Sinto muito.
+
+293
+00:39:46,893 --> 00:39:50,193
+Aquele homem, Brian, nos disse
+que vocês eram más pessoas.
+
+294
+00:39:50,194 --> 00:39:51,743
+Sei que é mentira.
+
+295
+00:39:52,193 --> 00:39:55,726
+Sei que é, então,
+o que fizemos, o que eu fiz...
+
+296
+00:39:58,693 --> 00:40:00,593
+Eu não presto.
+
+297
+00:40:01,543 --> 00:40:03,343
+Por que iria querer
+a minha ajuda?
+
+298
+00:40:05,993 --> 00:40:08,443
+Não quero sua ajuda,
+eu preciso de sua ajuda.
+
+299
+00:40:13,093 --> 00:40:14,593
+Preciso encontrar a Maggie.
+
+300
+00:40:18,093 --> 00:40:19,493
+Quem é Maggie?
+
+301
+00:40:21,193 --> 00:40:22,593
+Minha esposa.
+
+302
+00:40:24,543 --> 00:40:26,093
+Foram separados?
+
+303
+00:40:26,743 --> 00:40:29,493
+Eu estava no ônibus,
+fui ajudar e ela não me viu.
+
+304
+00:40:29,494 --> 00:40:31,043
+Como sabe
+que ela sobreviveu?
+
+305
+00:40:32,793 --> 00:40:34,193
+Eu não sei.
+
+306
+00:40:35,693 --> 00:40:37,093
+Mas Hershel,
+
+307
+00:40:37,793 --> 00:40:39,943
+o pai dela,
+foi um grande homem.
+
+308
+00:40:41,443 --> 00:40:43,443
+E ele me disse
+que eu deveria acreditar,
+
+309
+00:40:43,444 --> 00:40:44,853
+e é isso o que farei.
+
+310
+00:40:45,243 --> 00:40:47,193
+Deveríamos estar mortos.
+
+311
+00:40:49,543 --> 00:40:52,693
+Ela se salvou, e você
+me ajudará a encontrá-la.
+
+312
+00:40:54,743 --> 00:40:56,143
+Ainda não acabou.
+
+313
+00:40:59,193 --> 00:41:00,743
+Quero acreditar nisto.
+
+314
+00:41:04,393 --> 00:41:05,793
+De verdade.
+
+315
+00:41:19,793 --> 00:41:21,193
+Precisa acreditar.
+
+316
+00:41:53,172 --> 00:41:56,143
+Olha para mim, Glenn.
+
+317
+00:42:18,443 --> 00:42:20,993
+Espero que tenham gostado disso,
+seus manés.
+
+318
+00:42:28,443 --> 00:42:31,043
+Você grita bastante, sabia?
+
+319
+00:42:33,743 --> 00:42:35,209
+O que você tem mais?
+
+320
+00:42:35,210 --> 00:42:40,209
+<b>UNITED
+Quality is Everything!</b>
+
