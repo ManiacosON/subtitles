@@ -1,0 +1,2684 @@
+﻿1
+00:00:02,676 --> 00:00:04,776
+<i>Os bandidos desta cidade
+estão mudando.</i>
+
+2
+00:00:13,552 --> 00:00:14,552
+Oi.
+
+3
+00:00:23,134 --> 00:00:24,435
+Sejam todos bem-vindos.
+
+4
+00:00:24,436 --> 00:00:26,570
+O mundo vê
+criminosos lunáticos.
+
+5
+00:00:26,571 --> 00:00:28,039
+Eu vejo esplendor.
+
+6
+00:00:28,040 --> 00:00:30,922
+<i>Theo Galavan,
+o novo prefeito de Gotham!</i>
+
+7
+00:00:31,129 --> 00:00:33,050
+Não! Mãe!
+
+8
+00:00:33,051 --> 00:00:36,467
+- Últimas palavras?
+- Vou matar você.
+
+9
+00:00:37,716 --> 00:00:39,417
+Eles vão pagar
+pelo que fizeram.
+
+10
+00:00:39,918 --> 00:00:41,732
+Olá, Jim.
+Por favor, dê licença.
+
+11
+00:00:43,121 --> 00:00:46,590
+Esse é o nome do homem
+que matou os seus pais.
+
+12
+00:00:46,591 --> 00:00:49,560
+- Você está preso.
+- Não! Diga quem os matou!
+
+13
+00:00:49,561 --> 00:00:50,861
+Olá, dorminhoco.
+
+14
+00:00:50,862 --> 00:00:52,563
+Minha mãe era uma santa!
+
+15
+00:00:52,564 --> 00:00:54,665
+Um homem sem nada para amar
+é livre.
+
+16
+00:00:54,666 --> 00:00:56,934
+Silver é má, Bruce.
+
+17
+00:00:56,935 --> 00:00:58,326
+O que está fazendo?
+
+18
+00:00:58,327 --> 00:00:59,937
+Pare! Malone!
+
+19
+00:00:59,938 --> 00:01:01,839
+É Malone! É esse o nome.
+
+20
+00:01:01,840 --> 00:01:04,308
+- Adeus, Silver.
+- Bruce, não pode fazer isso.
+
+21
+00:01:04,309 --> 00:01:06,244
+- Esse não é você.
+- Você que acha.
+
+22
+00:01:06,245 --> 00:01:08,879
+- Mas está errada.
+- Está certo sobre meu tio.
+
+23
+00:01:08,880 --> 00:01:10,847
+<i>Ele é tudo
+o que todo mundo diz.</i>
+
+24
+00:01:12,517 --> 00:01:13,867
+<i>Não sei quão ruim ficará.</i>
+
+25
+00:01:13,868 --> 00:01:16,048
+Não existe limites.
+Existe só a lei.
+
+26
+00:01:16,049 --> 00:01:18,271
+<i>Você vê um abismo
+e corre em direção a ele.</i>
+
+27
+00:01:18,272 --> 00:01:19,589
+Estou grávida.
+
+28
+00:01:20,225 --> 00:01:22,693
+<i>Precisamos de todos métodos
+à nossa disposição.</i>
+
+29
+00:01:22,694 --> 00:01:25,596
+<i>Se há algum momento para
+trabalharmos juntos, é agora.</i>
+
+30
+00:01:25,597 --> 00:01:28,632
+<i>Gotham precisa dele morto!
+Pense no bem maior.</i>
+
+31
+00:01:28,633 --> 00:01:31,455
+<i>- Pense em Gotham.
+- Adeus, Jim Gordon.</i>
+
+32
+00:01:35,373 --> 00:01:38,085
+Depois de procurar
+nas dependências,
+
+33
+00:01:38,516 --> 00:01:42,355
+eu, junto com Alfred Pennyworth
+e Selina Kyle,
+
+34
+00:01:42,356 --> 00:01:45,849
+conseguimos localizar
+o sequestrado, Bruce Wayne.
+
+35
+00:01:45,850 --> 00:01:48,721
+- Onde ele estava?
+- Na residência de Theo Galavan.
+
+36
+00:01:48,722 --> 00:01:50,747
+- Foi quando abriu fogo?
+- Sim.
+
+37
+00:01:50,748 --> 00:01:52,526
+Nós eliminamos a ameaça...
+
+38
+00:01:52,527 --> 00:01:55,025
+representada pelo Padre Creel
+e seus homens,
+
+39
+00:01:55,026 --> 00:01:56,926
+e conseguimos recuperar
+Bruce Wayne.
+
+40
+00:01:58,129 --> 00:01:59,880
+Sacrilégio!
+
+41
+00:02:01,833 --> 00:02:04,068
+Então partiu sozinho
+para procurar Galavan?
+
+42
+00:02:04,889 --> 00:02:06,237
+Correto.
+
+43
+00:02:06,638 --> 00:02:07,938
+Você o encontrou?
+
+44
+00:02:07,939 --> 00:02:09,507
+Sim.
+
+45
+00:02:09,908 --> 00:02:11,541
+<i>Theo Galavan.</i>
+
+46
+00:02:12,577 --> 00:02:14,245
+<i>Você está preso.</i>
+
+47
+00:02:14,246 --> 00:02:16,013
+- Você deteve Galavan?
+- Não.
+
+48
+00:02:16,014 --> 00:02:17,488
+Por que não?
+
+49
+00:02:19,857 --> 00:02:22,267
+O Capitão Barnes
+e o Oficial Vargas chegaram...
+
+50
+00:02:22,268 --> 00:02:24,413
+e me prenderam.
+
+51
+00:02:24,723 --> 00:02:26,479
+<i>Jim!</i>
+
+52
+00:02:26,691 --> 00:02:29,460
+Coloque sua arma no chão
+e as mãos na cabeça.
+
+53
+00:02:29,461 --> 00:02:30,962
+Porque na época
+do incidente...
+
+54
+00:02:30,963 --> 00:02:33,382
+há quatro semanas,
+você era um fugitivo da lei.
+
+55
+00:02:33,383 --> 00:02:35,531
+Isso foi um mal entendido.
+
+56
+00:02:38,570 --> 00:02:40,003
+O que aconteceu depois?
+
+57
+00:02:40,004 --> 00:02:44,441
+Oswald Cobblepot e dois
+dos seus companheiros chegaram.
+
+58
+00:02:44,442 --> 00:02:47,410
+Deixaram o Capitão Barnes
+e o Oficial Vargas inconsciente.
+
+59
+00:02:50,882 --> 00:02:54,752
+Cobblepot e seus companheiros
+escaparam com Galavan.
+
+60
+00:02:54,753 --> 00:02:59,055
+<i>Tem certeza que ele não vai
+sair dessa livre de novo?</i>
+
+61
+00:03:00,292 --> 00:03:03,200
+<i>Então você perseguiu Cobblepot
+e seus homens, certo?</i>
+
+62
+00:03:05,530 --> 00:03:08,116
+Sim, mas não fui capaz
+de localizá-los.
+
+63
+00:03:08,117 --> 00:03:10,051
+<i>Você é um homem
+de consciência, Jim.</i>
+
+64
+00:03:10,052 --> 00:03:12,770
+<i>- Vai arrepender disso.
+- Tenho muitos arrependimentos.</i>
+
+65
+00:03:12,771 --> 00:03:15,239
+<i>Esse não vai estar
+no topo da lista.</i>
+
+66
+00:03:15,640 --> 00:03:18,041
+Em que momento,
+você decidiu fugir da cidade...
+
+67
+00:03:18,042 --> 00:03:19,867
+antes que a lei
+pudesse questioná-lo?
+
+68
+00:03:19,868 --> 00:03:23,700
+Para isso não tenho desculpa,
+além de dizer...
+
+69
+00:03:24,315 --> 00:03:27,208
+que eu estava preocupado
+com a segurança da minha noiva.
+
+70
+00:03:27,609 --> 00:03:29,587
+<i>Ela tinha me informado...</i>
+
+71
+00:03:29,949 --> 00:03:32,545
+mais cedo naquele dia,
+que estava grávida.
+
+72
+00:03:32,858 --> 00:03:34,358
+Parabéns.
+
+73
+00:03:34,359 --> 00:03:35,716
+Obrigado.
+
+74
+00:03:37,929 --> 00:03:39,502
+Detetive Gordon...
+
+75
+00:03:40,698 --> 00:03:42,699
+poucas horas
+depois de seu encontro,
+
+76
+00:03:42,700 --> 00:03:44,735
+Theo Galavan
+foi encontrado espancado...
+
+77
+00:03:44,736 --> 00:03:46,437
+e morto a tiros.
+
+78
+00:03:46,438 --> 00:03:49,072
+Você estava presente
+no momento do assassinato?
+
+79
+00:03:50,491 --> 00:03:52,887
+<i>Aqui estamos nós.</i>
+
+80
+00:03:53,745 --> 00:03:55,583
+Não, eu não estava.
+
+81
+00:03:56,084 --> 00:03:58,035
+Tem alguma informação
+do caso...
+
+82
+00:03:58,036 --> 00:03:59,798
+que não tenha partilhado
+conosco?
+
+83
+00:03:59,799 --> 00:04:01,576
+<i>Isso é pela minha mãe.</i>
+
+84
+00:04:04,437 --> 00:04:06,100
+Não, não tenho.
+
+85
+00:04:06,101 --> 00:04:08,592
+Detetive,
+você teve algo a ver...
+
+86
+00:04:08,593 --> 00:04:11,090
+com o assassinato
+de Theo Galavan?
+
+87
+00:04:15,867 --> 00:04:17,567
+<i>Detetive, responda a pergunta.</i>
+
+88
+00:04:20,205 --> 00:04:22,805
+Você esteve envolvido
+no assassinato de Theo Galavan?
+
+89
+00:04:24,544 --> 00:04:26,075
+Não, não estive.
+
+90
+00:04:41,498 --> 00:04:43,064
+Acusações retiradas.
+
+91
+00:04:43,625 --> 00:04:46,340
+Estou livre de toda infração
+e reintegrado.
+
+92
+00:04:47,392 --> 00:04:49,645
+Sabia que eles cairiam
+na real.
+
+93
+00:04:50,807 --> 00:04:52,142
+Eu não.
+
+94
+00:04:52,544 --> 00:04:54,869
+Você contou a verdade.
+Que escolha eles tinham?
+
+95
+00:05:01,458 --> 00:05:03,319
+Tem certeza que é
+o que quer?
+
+96
+00:05:03,320 --> 00:05:05,453
+Depois de tudo
+que esse trabalho nos fez?
+
+97
+00:05:06,656 --> 00:05:08,214
+Positivo.
+
+98
+00:05:09,759 --> 00:05:11,227
+O que há de errado?
+
+99
+00:05:11,228 --> 00:05:13,460
+Nada.
+Dia longo.
+
+100
+00:05:13,763 --> 00:05:15,197
+Promete?
+
+101
+00:05:15,198 --> 00:05:16,698
+Prometo.
+
+102
+00:05:20,020 --> 00:05:21,370
+Barnes.
+
+103
+00:05:21,671 --> 00:05:23,104
+Dent.
+
+104
+00:05:24,708 --> 00:05:26,609
+História cativante.
+
+105
+00:05:26,610 --> 00:05:28,643
+Sim, foi.
+
+106
+00:05:29,601 --> 00:05:31,013
+Você acredita nele?
+
+107
+00:05:32,548 --> 00:05:36,659
+Acredito que sua investigação
+não encontrou evidências...
+
+108
+00:05:36,660 --> 00:05:39,255
+- de delito criminal.
+- Cuidado.
+
+109
+00:05:39,256 --> 00:05:41,169
+Está começando a soar
+como um advogado.
+
+110
+00:05:42,426 --> 00:05:43,959
+Alguma pista de Cobblepot?
+
+111
+00:05:44,394 --> 00:05:46,262
+Os homens dele o abandonaram.
+
+112
+00:05:46,263 --> 00:05:48,364
+Ele está sozinho.
+
+113
+00:05:48,365 --> 00:05:50,838
+É questão de tempo
+até o acharem.
+
+114
+00:06:00,177 --> 00:06:02,645
+<i>Já é o dia 27 da busca...</i>
+
+115
+00:06:02,646 --> 00:06:04,947
+<i>pelo Senhor do Crime,
+Oswald Cobblepot.</i>
+
+116
+00:06:04,948 --> 00:06:07,717
+<i>A DPGC continua a passar
+um pente fino na cidade...</i>
+
+117
+00:06:07,718 --> 00:06:09,919
+<i>em busca do homem
+que dizem ter matado...</i>
+
+118
+00:06:09,920 --> 00:06:12,855
+<i>o controverso prefeito
+Theo Galavan à sangue frio.</i>
+
+119
+00:06:12,856 --> 00:06:15,891
+<i>Com o inimigo público número 1
+em fuga, a questão permanece:</i>
+
+120
+00:06:15,892 --> 00:06:18,894
+<i>Quem comanda o submundo
+de Gotham?</i>
+
+121
+00:06:26,375 --> 00:06:27,836
+Levem-no.
+
+122
+00:06:41,551 --> 00:06:43,051
+Olá, Butch.
+
+123
+00:06:47,023 --> 00:06:48,457
+Ei.
+
+124
+00:06:48,458 --> 00:06:50,259
+Como está?
+
+125
+00:06:50,260 --> 00:06:52,060
+Sua segurança é ridícula.
+
+126
+00:06:53,061 --> 00:06:55,511
+As pessoas costumam querer
+sair daqui, não entrar.
+
+127
+00:06:57,512 --> 00:06:59,023
+Por que tão triste?
+
+128
+00:07:00,070 --> 00:07:03,372
+- É o rei de Gotham agora.
+- Não estou triste.
+
+129
+00:07:03,373 --> 00:07:05,441
+Só estou... pensando.
+
+130
+00:07:05,442 --> 00:07:07,443
+Tenho muitas responsabilidades.
+
+131
+00:07:07,444 --> 00:07:09,577
+Não é tão divertido
+quanto você imaginou?
+
+132
+00:07:12,578 --> 00:07:14,379
+O que você quer, afinal?
+
+133
+00:07:14,380 --> 00:07:17,151
+É muita coragem aparecer aqui
+depois do que fez comigo.
+
+134
+00:07:18,655 --> 00:07:20,455
+Essa é sua cara de bravo?
+
+135
+00:07:21,098 --> 00:07:23,893
+O que vai fazer?
+Vai me matar?
+
+136
+00:07:23,894 --> 00:07:25,526
+Talvez eu mate.
+
+137
+00:07:27,872 --> 00:07:30,799
+O que fiz com você, Butch,
+foi torná-lo um homem livre.
+
+138
+00:07:30,800 --> 00:07:33,768
+Se não fosse por mim,
+não seria o rei.
+
+139
+00:07:34,103 --> 00:07:36,238
+Aposto que foi seu plano
+o tempo todo, não?
+
+140
+00:07:36,239 --> 00:07:38,038
+Você gosta muito de mim.
+
+141
+00:07:40,505 --> 00:07:42,744
+Por mais estranho que seja,
+eu gosto de você.
+
+142
+00:07:43,380 --> 00:07:45,980
+Normalmente, gosto dos bonitos,
+inteligentes...
+
+143
+00:07:45,981 --> 00:07:47,389
+não brutos, mas...
+
+144
+00:07:47,390 --> 00:07:49,286
+<i>Você tem uma incrível...</i>
+
+145
+00:07:50,287 --> 00:07:52,655
+Vitalidade animal.
+
+146
+00:07:53,056 --> 00:07:55,691
+- Sou mais esperto que pareço.
+- Deve ser.
+
+147
+00:07:55,692 --> 00:07:57,826
+<i>Mulher engraçada.</i>
+
+148
+00:07:57,827 --> 00:07:59,461
+O que você quer
+de verdade?
+
+149
+00:08:03,566 --> 00:08:05,633
+Quero ser
+a sua parceira no crime.
+
+150
+00:08:07,637 --> 00:08:09,103
+Solitária, não?
+
+151
+00:08:11,164 --> 00:08:13,101
+Você e eu faremos
+um bom time.
+
+152
+00:08:14,524 --> 00:08:16,935
+Não estou procurando
+um relacionamento agora.
+
+153
+00:08:17,365 --> 00:08:19,391
+Querido, olhe pra mim.
+
+154
+00:08:24,120 --> 00:08:25,919
+Nós temos uma história.
+
+155
+00:08:26,627 --> 00:08:30,359
+Nós dois sabemos que,
+no fundo do seu coração,
+
+156
+00:08:30,360 --> 00:08:32,026
+o que eu quiser...
+
+157
+00:08:33,029 --> 00:08:34,429
+Você quer.
+
+158
+00:08:47,310 --> 00:08:49,690
+<i>Todas as unidades.
+Sequestro armado reportado...</i>
+
+159
+00:08:49,691 --> 00:08:51,499
+<i>próximo ao bloco
+na Avenida Kearny.</i>
+
+160
+00:08:51,500 --> 00:08:53,215
+<i>Todo policial na área...</i>
+
+161
+00:08:53,216 --> 00:08:55,049
+<i>por favor, responda.</i>
+
+162
+00:09:01,216 --> 00:09:02,824
+DPGC.
+
+163
+00:09:03,660 --> 00:09:07,262
+- Algum problema, policial?
+- Houve um sequestro na área.
+
+164
+00:09:07,263 --> 00:09:10,299
+- Que horrível.
+- Viu alguma coisa hoje?
+
+165
+00:09:10,300 --> 00:09:11,867
+Algo fora do comum?
+
+166
+00:09:11,868 --> 00:09:14,435
+Não.
+Não posso dizer que vi.
+
+167
+00:09:14,436 --> 00:09:17,673
+- Você vive na área, senhor?
+- Não muito longe.
+
+168
+00:09:17,674 --> 00:09:19,207
+Qual o seu endereço?
+
+169
+00:09:22,545 --> 00:09:24,546
+Bem, o que quis dizer...
+
+170
+00:09:24,547 --> 00:09:26,315
+é que já morei
+nessa área.
+
+171
+00:09:26,316 --> 00:09:28,117
+Mas me mudei.
+
+172
+00:09:28,118 --> 00:09:30,485
+Pode abrir o porta-malas
+da van, senhor?
+
+173
+00:09:31,495 --> 00:09:33,655
+Mas é claro.
+
+174
+00:09:33,656 --> 00:09:35,123
+Com prazer.
+
+175
+00:09:38,361 --> 00:09:39,794
+Mas o que...
+
+176
+00:10:07,996 --> 00:10:09,996
+<b>Legendas:
+samuholmes | tatigzvitauski</b>
+
+177
+00:10:09,997 --> 00:10:11,997
+<b>Legendas:
+Eddy | L3M0S</b>
+
+178
+00:10:11,998 --> 00:10:13,998
+<b>Legendas:
+jotakretli | Junio_Tk2</b>
+
+179
+00:10:13,999 --> 00:10:15,999
+<b>Legendas:
+©yßë® V¡¢¡öµ§ | @Vahainen</b>
+
+180
+00:10:16,000 --> 00:10:18,000
+<b>Revisão:
+samuholmes | Tozz</b>
+
+181
+00:10:19,262 --> 00:10:21,662
+<b>The_Tozz e Equipe InSanos
+apresentam...</b>
+
+182
+00:10:21,663 --> 00:10:24,063
+<b>Gotham - S02E12
+"Mr. Freeze"</b>
+
+183
+00:10:30,680 --> 00:10:33,281
+<i>Cara, separe esses dois.</i>
+
+184
+00:10:40,028 --> 00:10:41,857
+É bom você estar aqui.
+
+185
+00:10:41,858 --> 00:10:43,725
+Pegamos um esquisito ontem.
+
+186
+00:10:43,726 --> 00:10:47,036
+É isso? Nada de abraço, beijo?
+Nem "bem-vindo de volta"?
+
+187
+00:10:47,037 --> 00:10:48,964
+Você não merece estes lábios.
+
+188
+00:10:48,965 --> 00:10:53,702
+Da forma que vejo, conseguiu
+um mês de férias remuneradas.
+
+189
+00:10:53,703 --> 00:10:56,438
+Além disso, o capitão está
+me pressionando nesse caso.
+
+190
+00:10:56,439 --> 00:10:58,473
+- É mesmo? O que é?
+- Não ficou sabendo?
+
+191
+00:10:59,309 --> 00:11:01,643
+Ontem, um psicopata
+congelou uma policial.
+
+192
+00:11:01,644 --> 00:11:04,272
+- Até matá-la.
+- Congelou?
+
+193
+00:11:04,273 --> 00:11:07,777
+Falei que era estranho. Vamos.
+Nygma está nos esperando.
+
+194
+00:11:10,353 --> 00:11:11,653
+Congelamento.
+
+195
+00:11:23,333 --> 00:11:25,734
+Interessante.
+Demora quase 5 segundos...
+
+196
+00:11:25,735 --> 00:11:27,869
+para congelar a rosa
+em nitrogênio líquido.
+
+197
+00:11:27,870 --> 00:11:29,371
+- E?
+- Um corpo humano...
+
+198
+00:11:29,372 --> 00:11:32,571
+demoraria muito mais,
+dependendo da massa e gordura.
+
+199
+00:11:32,572 --> 00:11:35,926
+Por que uma policial esperaria
+horas para ser congelada?
+
+200
+00:11:35,927 --> 00:11:37,412
+Ela não esperaria.
+
+201
+00:11:37,413 --> 00:11:40,015
+Significa que seu suspeito
+não usava nitrogênio líquido.
+
+202
+00:11:40,016 --> 00:11:43,118
+Ele estava usando
+hélio líquido super-resfriado.
+
+203
+00:11:43,119 --> 00:11:45,521
+Uma das substâncias
+mais eficazes no mundo...
+
+204
+00:11:45,522 --> 00:11:47,256
+para redução rápida
+da temperatura.
+
+205
+00:11:47,657 --> 00:11:50,559
+Esse hélio líquido,
+onde você consegue?
+
+206
+00:11:50,560 --> 00:11:53,328
+- Por que você precisa?
+- Ele não precisa, estúpido.
+
+207
+00:11:53,329 --> 00:11:55,197
+Ele só quer saber
+de onde vem...
+
+208
+00:11:55,198 --> 00:11:57,399
+para localizarmos o homem...
+
+209
+00:11:57,400 --> 00:11:59,510
+que explodiu nossa colega
+com isso.
+
+210
+00:12:02,072 --> 00:12:06,008
+Não gosto que me chamem
+dessas coisas, detetive.
+
+211
+00:12:06,009 --> 00:12:09,611
+Calma, Ed. Tenho certeza
+que Harvey só estava brincando.
+
+212
+00:12:12,015 --> 00:12:14,382
+Estava só brincando, Ed.
+Sinto muito.
+
+213
+00:12:17,087 --> 00:12:19,154
+Ele é extremamente raro e caro.
+
+214
+00:12:19,155 --> 00:12:21,657
+Imagino não haver mais
+que dois fabricantes em Gotham.
+
+215
+00:12:22,058 --> 00:12:24,626
+Posso pesquisar os fabricantes,
+se quiserem.
+
+216
+00:12:24,627 --> 00:12:27,195
+Isso seria muito bom.
+Obrigado, Ed.
+
+217
+00:12:32,914 --> 00:12:35,212
+- Você vem?
+- Dê-me um minuto.
+
+218
+00:12:43,112 --> 00:12:46,570
+Ed, há algo
+que queria falar com você.
+
+219
+00:12:46,571 --> 00:12:47,950
+- Pinguim.
+- Sim.
+
+220
+00:12:47,951 --> 00:12:50,033
+Quer saber sobre
+a minha relação com ele.
+
+221
+00:12:50,534 --> 00:12:51,854
+- Sim.
+- Está preocupado...
+
+222
+00:12:51,855 --> 00:12:53,856
+se ajudei e incitei
+um criminoso conhecido.
+
+223
+00:12:54,057 --> 00:12:55,399
+Foi o que você fez?
+
+224
+00:12:56,192 --> 00:12:58,403
+Encontrei
+o Sr. Cobblepot ferido...
+
+225
+00:12:58,628 --> 00:13:00,854
+e morrendo na floresta.
+
+226
+00:13:01,164 --> 00:13:02,978
+Eu o ajudei
+a recuperar a saúde.
+
+227
+00:13:03,666 --> 00:13:05,801
+Ele me devia a vida,
+por isso confiei nele
+
+228
+00:13:05,802 --> 00:13:08,135
+quando ele disse
+que tinha mudado.
+
+229
+00:13:08,805 --> 00:13:10,806
+Foi um erro inocente.
+
+230
+00:13:10,807 --> 00:13:12,654
+<i>Nós o pegamos!</i>
+
+231
+00:13:12,655 --> 00:13:14,025
+Pergunto-me o que é.
+
+232
+00:13:22,985 --> 00:13:24,610
+Silêncio!
+
+233
+00:13:26,156 --> 00:13:28,323
+Vocês são um grupo
+de líderes de torcida?
+
+234
+00:13:28,324 --> 00:13:30,573
+Isso não é um jogo!
+
+235
+00:13:30,574 --> 00:13:32,109
+É o nosso trabalho!
+
+236
+00:13:32,796 --> 00:13:35,671
+E esta espécime...
+
+237
+00:13:36,032 --> 00:13:40,035
+é só um mendigo
+triste e patético.
+
+238
+00:13:40,036 --> 00:13:44,005
+Tem muitos vermes lá fora.
+Muitos.
+
+239
+00:13:44,808 --> 00:13:49,210
+Então parem de mexer
+seus pom-poms e vão pegá-los.
+
+240
+00:13:50,213 --> 00:13:51,747
+Encarem o quanto quiser.
+
+241
+00:13:51,748 --> 00:13:53,448
+<i>Grande coisa...</i>
+
+242
+00:13:53,946 --> 00:13:55,550
+<i>Você me pegaram.</i>
+
+243
+00:13:55,551 --> 00:13:57,085
+<i>Tá tranquilo.</i>
+
+244
+00:13:58,431 --> 00:13:59,896
+<i>Tá favorável.</i>
+
+245
+00:14:03,093 --> 00:14:05,754
+Eu disse que o pegaria.
+E o peguei.
+
+246
+00:14:05,755 --> 00:14:07,829
+- Sim, senhor.
+- Agora saberemos a verdade...
+
+247
+00:14:07,830 --> 00:14:09,864
+do que realmente houve
+com Galavan.
+
+248
+00:14:32,875 --> 00:14:34,828
+Certo, Cobblepot.
+
+249
+00:14:43,052 --> 00:14:45,420
+Diga o que houve na casa
+do Galavan naquela noite.
+
+250
+00:14:45,921 --> 00:14:48,577
+Várias coisas.
+
+251
+00:14:48,578 --> 00:14:50,302
+Por que não começa
+pelo momento...
+
+252
+00:14:50,303 --> 00:14:53,024
+após me nocautear
+com aquele vaso.
+
+253
+00:14:53,441 --> 00:14:54,841
+Sinto muito por aquilo.
+
+254
+00:14:55,042 --> 00:14:56,884
+Um vaso tão requintado.
+
+255
+00:14:58,246 --> 00:15:00,446
+Esta é minha cara de divertido.
+
+256
+00:15:01,350 --> 00:15:02,749
+<i>Continue falando.</i>
+
+257
+00:15:02,750 --> 00:15:05,117
+Levei o Galavan
+ao rio e o matei.
+
+258
+00:15:06,200 --> 00:15:07,576
+Lentamente.
+
+259
+00:15:07,577 --> 00:15:10,011
+- Você confessa o assassinato?
+- Sim, confesso.
+
+260
+00:15:10,580 --> 00:15:13,248
+Com orgulho.
+Não sou um criminoso.
+
+261
+00:15:13,929 --> 00:15:15,463
+Só sou...
+
+262
+00:15:15,997 --> 00:15:17,596
+inSano.
+
+263
+00:15:19,700 --> 00:15:21,092
+O que James Gordon fez?
+
+264
+00:15:21,093 --> 00:15:23,310
+- O que ele fez quando?
+- O que ele fez...
+
+265
+00:15:23,311 --> 00:15:24,870
+após você me nocautear.
+
+266
+00:15:24,871 --> 00:15:26,769
+O que ele disse
+que havia feito?
+
+267
+00:15:26,770 --> 00:15:28,607
+Estou perguntando a você.
+
+268
+00:15:44,450 --> 00:15:46,118
+Tem algo
+que queira me contar?
+
+269
+00:15:47,995 --> 00:15:49,295
+Não, senhor.
+
+270
+00:15:55,457 --> 00:15:57,524
+O Cobblepot
+confirmou sua história.
+
+271
+00:15:58,574 --> 00:16:00,473
+Quer dizer
+que ele contou a verdade?
+
+272
+00:16:00,474 --> 00:16:02,008
+Sim.
+
+273
+00:16:02,543 --> 00:16:04,311
+É nisso
+que quero acreditar.
+
+274
+00:16:05,071 --> 00:16:06,946
+É a coisa certa a se fazer.
+
+275
+00:16:09,589 --> 00:16:12,157
+- É bom tê-lo de volta.
+- É bom estar de volta, senhor.
+
+276
+00:16:12,158 --> 00:16:14,170
+Jim,
+estou confiando em você.
+
+277
+00:16:14,171 --> 00:16:16,221
+Não me faça de bobo.
+
+278
+00:16:18,480 --> 00:16:19,913
+Sim, senhor.
+
+279
+00:17:16,573 --> 00:17:18,917
+Estava sonhando
+com você.
+
+280
+00:17:23,916 --> 00:17:26,859
+Estávamos em uma casinha
+de praia vermelha.
+
+281
+00:17:27,501 --> 00:17:29,934
+- Lembra-se?
+- Eu me lembro.
+
+282
+00:17:30,350 --> 00:17:32,083
+Seis verões atrás.
+
+283
+00:17:33,600 --> 00:17:35,435
+Você se parecia
+com uma atriz.
+
+284
+00:17:37,522 --> 00:17:40,305
+- Você parece cansado.
+- É o trabalho.
+
+285
+00:17:41,735 --> 00:17:43,102
+Como está indo?
+
+286
+00:17:43,867 --> 00:17:45,467
+Bem, bem.
+
+287
+00:17:46,300 --> 00:17:48,201
+Mais lento do que gostaria,
+mas bem.
+
+288
+00:17:49,000 --> 00:17:50,333
+Conte-me.
+
+289
+00:17:51,455 --> 00:17:54,153
+Estou tendo problemas
+com a reanimação.
+
+290
+00:17:55,215 --> 00:17:57,515
+Tenho que encontrar
+a proporção correta...
+
+291
+00:17:57,516 --> 00:17:58,950
+de hélio líquido...
+
+292
+00:17:58,951 --> 00:18:00,850
+para o crioprotetor
+não cristalizar.
+
+293
+00:18:00,851 --> 00:18:03,385
+Agora me conte
+na minha língua, querido.
+
+294
+00:18:05,400 --> 00:18:07,367
+Isso significa...
+
+295
+00:18:07,950 --> 00:18:10,399
+Posso congelá-la,
+como planejamos.
+
+296
+00:18:10,400 --> 00:18:13,439
+<i>Posso reduzir sua temperatura
+a menos que 93 ºC abaixo de 0,</i>
+
+297
+00:18:13,440 --> 00:18:16,442
+e posso impedir essa
+doença de matá-la.
+
+298
+00:18:16,443 --> 00:18:17,775
+Mas?
+
+299
+00:18:19,500 --> 00:18:20,933
+Não posso trazê-la
+de volta.
+
+300
+00:18:23,890 --> 00:18:25,190
+Ainda não.
+
+301
+00:18:25,548 --> 00:18:27,348
+Mas trarei.
+
+302
+00:18:29,990 --> 00:18:32,658
+<i>- Sinto muito.
+- Não é isso.</i>
+
+303
+00:18:33,213 --> 00:18:35,913
+Pensei nos pobres ratos
+que você usa de cobaia.
+
+304
+00:18:38,890 --> 00:18:40,290
+Eles não sentiram nada.
+
+305
+00:18:42,212 --> 00:18:43,669
+Só preciso de mais tempo.
+
+306
+00:18:44,650 --> 00:18:46,418
+<i>Só mais um pouquinho.</i>
+
+307
+00:18:47,720 --> 00:18:50,386
+Vou encontrar um jeito.
+Prometo.
+
+308
+00:19:01,188 --> 00:19:03,723
+- Tenho boas e más notícias.
+- As boas.
+
+309
+00:19:03,724 --> 00:19:05,391
+Nygma encontrou
+uma empresa...
+
+310
+00:19:05,392 --> 00:19:07,393
+em Gotham
+que produz hélio líquido.
+
+311
+00:19:07,394 --> 00:19:09,262
+- Wayne Enterprises.
+- Essa é a boa?
+
+312
+00:19:09,263 --> 00:19:12,029
+Não é. Mas pensei:
+"más e péssimas notícias".
+
+313
+00:19:12,030 --> 00:19:14,231
+- Mas não tem o mesmo efeito.
+- O que é isso?
+
+314
+00:19:14,232 --> 00:19:17,224
+Três sequestros nos últimos meses,
+todos ligados a uma van azul.
+
+315
+00:19:17,225 --> 00:19:18,899
+A mesma
+do nosso suspeito.
+
+316
+00:19:19,300 --> 00:19:21,979
+Três sequestros?
+Encontraram algum deles?
+
+317
+00:19:21,980 --> 00:19:24,277
+<i>Nenhum,
+o que você faz pensar...</i>
+
+318
+00:19:24,278 --> 00:19:27,112
+o que ele está fazendo
+com toda essa gente?
+
+319
+00:19:31,285 --> 00:19:34,247
+<i>Nora, vou trabalhar
+por algumas horas.</i>
+
+320
+00:19:34,248 --> 00:19:36,337
+- Bata se precisar de algo.
+- Tudo bem.
+
+321
+00:20:32,609 --> 00:20:34,009
+Ed?
+
+322
+00:20:34,010 --> 00:20:36,410
+Não olhe para mim.
+Não deveria falar com você.
+
+323
+00:20:38,860 --> 00:20:41,360
+Você está bem?
+Parece meio assustado.
+
+324
+00:20:42,410 --> 00:20:44,610
+Confesso que já estive melhor.
+
+325
+00:20:46,160 --> 00:20:48,100
+Posso fazer algo por você?
+
+326
+00:20:48,739 --> 00:20:50,350
+Estou além da ajuda.
+
+327
+00:20:51,400 --> 00:20:53,100
+Esqueça de mim, amigo.
+
+328
+00:20:54,500 --> 00:20:55,800
+Mas...
+
+329
+00:20:55,801 --> 00:20:58,951
+Se puder cuidar da sepultura
+da minha mãe,
+
+330
+00:20:58,952 --> 00:21:00,800
+eu ficaria muito agradecido.
+
+331
+00:21:03,400 --> 00:21:05,400
+Se visitá-la ocasionalmente...
+
+332
+00:21:05,750 --> 00:21:07,300
+dizer a ela que penso nela.
+
+333
+00:21:07,301 --> 00:21:08,601
+Eu vou.
+
+334
+00:21:10,100 --> 00:21:11,900
+Ela gosta de lírios.
+
+335
+00:21:13,697 --> 00:21:16,447
+Visitas ocasionais,
+lírios, certo.
+
+336
+00:21:18,700 --> 00:21:20,000
+Obrigado.
+
+337
+00:21:21,550 --> 00:21:23,158
+De pé, Cobblepot.
+
+338
+00:21:24,208 --> 00:21:26,708
+O que está acontecendo?
+Para onde vão me levar?
+
+339
+00:21:26,709 --> 00:21:29,711
+Arkham.
+Você é louco, certo?
+
+340
+00:21:35,611 --> 00:21:38,500
+Hoje é quinta-feira,
+21 de fevereiro.
+
+341
+00:21:38,501 --> 00:21:39,901
+14h44.
+
+342
+00:21:40,801 --> 00:21:43,699
+Teste da cobaia 014,
+cerca de 40 anos,
+
+343
+00:21:43,700 --> 00:21:45,250
+aparentemente boa saúde,
+
+344
+00:21:45,251 --> 00:21:48,151
+não mostra sinal de danos
+no processo de vitrificação.
+
+345
+00:21:49,501 --> 00:21:52,201
+Estou pronto para iniciar
+o procedimento de reanimação.
+
+346
+00:22:05,008 --> 00:22:06,408
+Você está correto.
+
+347
+00:22:06,409 --> 00:22:09,150
+As Indústrias Wayne
+fabricam hélio líquido.
+
+348
+00:22:09,151 --> 00:22:12,001
+Por anos, usado como parte
+de nosso programa de criogenia.
+
+349
+00:22:12,002 --> 00:22:13,302
+Crio... o quê?
+
+350
+00:22:13,303 --> 00:22:15,403
+É um ramo da física
+que lida com a produção
+
+351
+00:22:15,404 --> 00:22:18,004
+e efeitos de temperaturas
+extremamente baixas.
+
+352
+00:22:18,005 --> 00:22:21,405
+Acho que existiam
+experimentos promissores
+
+353
+00:22:21,406 --> 00:22:23,056
+sendo feitos pelo programa,
+
+354
+00:22:23,057 --> 00:22:25,350
+mas infelizmente,
+ele foi interrompido.
+
+355
+00:22:25,750 --> 00:22:27,150
+Quando isso aconteceu?
+
+356
+00:22:27,850 --> 00:22:29,550
+Dois ou três anos atrás.
+
+357
+00:22:29,551 --> 00:22:31,251
+Thomas Wayne fechou,
+
+358
+00:22:31,252 --> 00:22:34,250
+assim como outros
+programas estranhos.
+
+359
+00:22:34,251 --> 00:22:37,050
+- Alguma ideia do motivo?
+- Nenhuma.
+
+360
+00:22:37,550 --> 00:22:39,600
+Tudo foi mantido em silêncio.
+
+361
+00:22:41,350 --> 00:22:43,650
+- Obrigado, Lucius.
+- Detetives.
+
+362
+00:23:15,450 --> 00:23:18,050
+Olhem! Torta de pinguim!
+
+363
+00:23:30,350 --> 00:23:32,500
+Parece haver alguma confusão.
+
+364
+00:23:32,900 --> 00:23:36,250
+Meu nome,
+é Oswald Cobblepot.
+
+365
+00:23:36,950 --> 00:23:40,450
+Muitos de vocês, sem dúvida,
+ouviram falar de mim.
+
+366
+00:23:43,500 --> 00:23:45,500
+Alguns de vocês,
+certamente não.
+
+367
+00:23:46,700 --> 00:23:48,150
+Para essas infelizes,
+
+368
+00:23:48,151 --> 00:23:51,300
+almas ignorantes,
+ofereço iluminação.
+
+369
+00:23:51,301 --> 00:23:53,500
+Não sou um homem
+para brincadeiras.
+
+370
+00:23:53,501 --> 00:23:55,524
+Ah, não.
+
+371
+00:23:57,024 --> 00:23:58,650
+Sou poderoso.
+
+372
+00:23:59,000 --> 00:24:00,600
+Sou perverso!
+
+373
+00:24:01,200 --> 00:24:02,950
+Sou o rei de Gotham.
+
+374
+00:24:04,050 --> 00:24:06,334
+<i>Ele acha que é o rei de Gotham.</i>
+
+375
+00:24:08,084 --> 00:24:09,850
+Eu sou o rei de Gotham!
+
+376
+00:24:09,851 --> 00:24:12,900
+<i>Não, eu sou o rei de Gotham!</i>
+
+377
+00:24:14,000 --> 00:24:15,644
+<i>Eu sou o rei.
+Eu sou! Eu sou!</i>
+
+378
+00:24:15,645 --> 00:24:17,095
+<i>Cortem a cabeça dele!</i>
+
+379
+00:24:22,845 --> 00:24:24,745
+<i>Olhem para mim!</i>
+
+380
+00:24:24,746 --> 00:24:26,750
+<i>Eu sou o rei de Gotham!</i>
+
+381
+00:24:26,751 --> 00:24:28,950
+Eu sou o rei! Eu sou o rei!
+
+382
+00:24:28,951 --> 00:24:31,351
+Ouçam! Ouçam!
+
+383
+00:24:58,601 --> 00:25:01,350
+A temperatura corporal
+da cobaia está em 39º.
+
+384
+00:25:01,351 --> 00:25:03,550
+Nos aproximamos
+do limiar crítico.
+
+385
+00:25:12,970 --> 00:25:14,370
+41º.
+
+386
+00:25:15,270 --> 00:25:16,920
+Chegamos a 41º.
+
+387
+00:25:16,921 --> 00:25:20,000
+Solução A14.
+Sabia que funcionaria! Sabia!
+
+388
+00:25:23,000 --> 00:25:25,100
+Isso, isso!
+Sim...
+
+389
+00:25:30,400 --> 00:25:31,700
+Não.
+
+390
+00:25:32,350 --> 00:25:34,100
+Não, não...
+
+391
+00:25:34,101 --> 00:25:35,901
+De novo não. Por favor.
+Não.
+
+392
+00:25:35,902 --> 00:25:37,002
+Não.
+
+393
+00:26:07,196 --> 00:26:08,653
+<i>Nora?</i>
+
+394
+00:26:08,854 --> 00:26:10,721
+Respire, Nora.
+
+395
+00:26:10,722 --> 00:26:12,222
+Estou bem aqui.
+Olhe para mim.
+
+396
+00:26:13,925 --> 00:26:15,592
+Onde está o formitorol?
+
+397
+00:26:33,745 --> 00:26:35,524
+Essa foi a pior.
+
+398
+00:26:39,618 --> 00:26:42,953
+Foi a última pílula.
+Por que não me contou?
+
+399
+00:26:44,201 --> 00:26:45,787
+Sinto muito.
+
+400
+00:26:45,788 --> 00:26:48,359
+Eu me esqueci.
+Há tantas.
+
+401
+00:26:48,360 --> 00:26:49,994
+Há tantas.
+
+402
+00:26:50,695 --> 00:26:54,031
+Se tiver outro ataque
+sem a medicação, pode morrer.
+
+403
+00:26:54,232 --> 00:26:55,966
+Não pode deixar
+isso acontecer, Nora.
+
+404
+00:26:55,967 --> 00:26:57,668
+Por quê?
+
+405
+00:26:57,669 --> 00:26:59,455
+E importa?
+
+406
+00:27:01,340 --> 00:27:03,506
+Importa.
+
+407
+00:27:11,016 --> 00:27:12,415
+Volto já.
+
+408
+00:27:26,131 --> 00:27:27,697
+Preciso reabastecer isto.
+
+409
+00:27:36,492 --> 00:27:38,953
+- Próximo.
+- Preciso reabastecer isto.
+
+410
+00:27:39,845 --> 00:27:42,481
+- Tem a prescrição?
+- Tenho o recipiente.
+
+411
+00:27:43,382 --> 00:27:46,511
+Não é a mesma coisa, é?
+
+412
+00:27:46,951 --> 00:27:48,652
+Por favor,
+só preciso reabastecer.
+
+413
+00:27:49,294 --> 00:27:52,323
+A receita original
+não tem instrução para refil.
+
+414
+00:27:52,324 --> 00:27:56,026
+Se não tem para refil,
+eu não posso reabastecer.
+
+415
+00:27:56,027 --> 00:27:57,862
+Essa medicação
+é para minha esposa.
+
+416
+00:27:57,863 --> 00:28:00,482
+Ela está doente.
+Está com dor.
+
+417
+00:28:01,700 --> 00:28:04,736
+Todos que vêm aqui
+estão doentes e com dor.
+
+418
+00:28:05,237 --> 00:28:07,638
+Peça para seu médico
+dar outra receita.
+
+419
+00:28:07,639 --> 00:28:09,406
+Então eu poderei dar o refil.
+
+420
+00:28:12,110 --> 00:28:13,610
+Só me dê a medicação.
+
+421
+00:28:17,516 --> 00:28:18,916
+Não.
+
+422
+00:28:18,917 --> 00:28:20,317
+- Seu filho da puta!
+- Saia.
+
+423
+00:28:20,318 --> 00:28:21,718
+Tirem-no daqui.
+
+424
+00:28:21,719 --> 00:28:24,188
+Saia daqui ou chamo a polícia,
+seu doido!
+
+425
+00:28:26,491 --> 00:28:29,173
+Não deveria ter feito isso.
+Eu vou voltar.
+
+426
+00:28:39,771 --> 00:28:41,972
+Adeus, Nigel.
+
+427
+00:28:42,373 --> 00:28:44,708
+E lembre-se
+do que eu lhe disse.
+
+428
+00:28:44,709 --> 00:28:47,711
+Não veja o mal,
+não faça o mal.
+
+429
+00:28:47,712 --> 00:28:50,513
+Sim, senhor.
+Vou me lembrar.
+
+430
+00:28:54,786 --> 00:28:56,254
+Sr. Cobblepot.
+
+431
+00:28:56,755 --> 00:28:59,456
+Meu nome é Hugo Strange.
+
+432
+00:29:01,393 --> 00:29:03,728
+Chefe da Psiquiatria
+do Asilo Arkham.
+
+433
+00:29:04,029 --> 00:29:05,429
+Por favor, entre.
+
+434
+00:29:15,526 --> 00:29:16,926
+Não está ouvindo.
+
+435
+00:29:16,927 --> 00:29:19,943
+Pegue um novo aparelho auditivo
+já que está aqui.
+
+436
+00:29:27,520 --> 00:29:31,020
+- Formitorol. Agora.
+- Certo. Certo.
+
+437
+00:29:32,758 --> 00:29:34,346
+Leve tudo.
+
+438
+00:29:35,026 --> 00:29:37,328
+Por favor, não me mate.
+Por favor.
+
+439
+00:29:37,329 --> 00:29:38,796
+Farei tudo que quiser.
+
+440
+00:29:39,297 --> 00:29:41,999
+Você e seu amigo aqui...
+
+441
+00:29:43,949 --> 00:29:46,036
+Vão ajudar
+a salvar minha esposa.
+
+442
+00:29:46,037 --> 00:29:47,437
+Não! Não!
+
+443
+00:29:58,059 --> 00:29:59,359
+Com licença.
+
+444
+00:30:00,257 --> 00:30:01,683
+Vou precisar de alguma ajuda.
+
+445
+00:30:04,256 --> 00:30:05,256
+Sim.
+
+446
+00:30:07,303 --> 00:30:09,300
+Nosso cara atacou
+uma farmácia na 9ª.
+
+447
+00:30:10,784 --> 00:30:12,552
+É isso aí.
+Role-o para lá.
+
+448
+00:30:15,133 --> 00:30:16,566
+Ei. Cuidado.
+
+449
+00:30:19,838 --> 00:30:21,204
+Van azul.
+
+450
+00:30:24,543 --> 00:30:27,644
+Vai.
+Caiam fora daqui.
+
+451
+00:30:30,482 --> 00:30:32,414
+- Vai, vai, vai, vai, vai.
+- Deixa comigo!
+
+452
+00:30:34,386 --> 00:30:35,752
+Devagar!
+
+453
+00:31:01,861 --> 00:31:03,395
+<i>O que é isso, afinal?</i>
+
+454
+00:31:03,396 --> 00:31:05,629
+- Estou sendo punido?
+- Não.
+
+455
+00:31:06,423 --> 00:31:08,657
+Faço questão de conhecer
+os novos detentos.
+
+456
+00:31:08,658 --> 00:31:10,359
+É parte do protocolo
+de admissão.
+
+457
+00:31:10,360 --> 00:31:12,661
+Embora tenha que pedir
+que se abstenha...
+
+458
+00:31:12,662 --> 00:31:14,196
+de fazer discursos
+
+459
+00:31:14,197 --> 00:31:17,381
+em cima das mesas
+do refeitório no futuro.
+
+460
+00:31:17,767 --> 00:31:19,469
+Darei meu melhor.
+
+461
+00:31:19,970 --> 00:31:22,839
+Como tem sido
+a sua adaptação até agora?
+
+462
+00:31:23,240 --> 00:31:26,709
+Boa, eu suponho.
+
+463
+00:31:26,710 --> 00:31:28,377
+Ó, seja sincero, Oswald.
+
+464
+00:31:28,378 --> 00:31:31,414
+Grandes períodos de transição
+podem trazer um grande...
+
+465
+00:31:31,415 --> 00:31:32,715
+estresse.
+
+466
+00:31:32,716 --> 00:31:34,450
+Certamente,
+esta deve ser...
+
+467
+00:31:34,451 --> 00:31:37,152
+uma experiência traumática
+para você.
+
+468
+00:31:38,287 --> 00:31:39,587
+Por favor.
+
+469
+00:31:44,328 --> 00:31:46,895
+É uma guerra de travesseiro
+comparado pelo que passei.
+
+470
+00:31:46,896 --> 00:31:49,563
+Sim. Eu li sobre...
+
+471
+00:31:49,564 --> 00:31:52,401
+as suas tribulações passadas.
+
+472
+00:31:52,402 --> 00:31:54,436
+Atentados contra a sua vida.
+
+473
+00:31:54,871 --> 00:31:57,975
+Tendo sobrevivido
+como um fugitivo.
+
+474
+00:32:05,348 --> 00:32:06,881
+A morte da sua mãe.
+
+475
+00:32:12,722 --> 00:32:14,200
+Tempos difíceis.
+
+476
+00:32:14,791 --> 00:32:16,800
+É o seu diagnóstico?
+
+477
+00:32:17,294 --> 00:32:19,995
+Sei que se estivesse
+na sua posição,
+
+478
+00:32:19,996 --> 00:32:23,065
+estaria sentindo
+fortes emoções.
+
+479
+00:32:23,800 --> 00:32:25,433
+Raiva, tristeza.
+
+480
+00:32:25,869 --> 00:32:27,803
+Até arrependimento.
+
+481
+00:32:28,738 --> 00:32:30,038
+Pelo quê?
+
+482
+00:32:31,632 --> 00:32:34,009
+O assassinato de Theo Galavan.
+
+483
+00:32:34,744 --> 00:32:37,450
+Minha mãe morreu em meus braços
+por causa de Galavan.
+
+484
+00:32:38,248 --> 00:32:41,550
+Só me arrependo de tê-lo
+matado uma só vez!
+
+485
+00:32:41,551 --> 00:32:42,851
+Compreendo.
+
+486
+00:32:45,822 --> 00:32:49,123
+Talvez possamos continuar daí
+na próxima vez.
+
+487
+00:32:50,359 --> 00:32:52,328
+Estou ansioso
+para trabalharmos juntos.
+
+488
+00:32:52,329 --> 00:32:53,929
+E não se preocupe...
+
+489
+00:32:54,297 --> 00:32:56,999
+aqui em Arkham
+temos intenso número de...
+
+490
+00:32:57,000 --> 00:32:58,499
+programas de tratamento.
+
+491
+00:32:58,969 --> 00:33:01,704
+Estou confiante
+de que seremos capazes...
+
+492
+00:33:01,705 --> 00:33:04,973
+de facilitar a sua...
+reabilitação.
+
+493
+00:33:07,043 --> 00:33:08,343
+Minha o quê?
+
+494
+00:33:09,179 --> 00:33:10,579
+Reabilitação.
+
+495
+00:33:11,414 --> 00:33:13,700
+É para isso que está aqui,
+afinal de contas.
+
+496
+00:33:14,617 --> 00:33:16,584
+Para ser curado da sua doença.
+
+497
+00:33:17,854 --> 00:33:19,856
+Você está doente.
+
+498
+00:33:21,057 --> 00:33:23,057
+Não está?
+
+499
+00:34:05,335 --> 00:34:06,635
+Victor?
+
+500
+00:34:11,908 --> 00:34:13,208
+Victor?
+
+501
+00:34:15,545 --> 00:34:16,845
+Victor?
+
+502
+00:34:23,987 --> 00:34:25,287
+Querido?
+
+503
+00:34:26,590 --> 00:34:28,089
+Está aí embaixo?
+
+504
+00:34:31,194 --> 00:34:32,494
+Victor?
+
+505
+00:34:48,945 --> 00:34:50,245
+Meu Deus.
+
+506
+00:34:50,246 --> 00:34:52,400
+Meu Deus. Meu Deus.
+
+507
+00:34:56,953 --> 00:34:59,320
+<i>A vigilância nem estava ligada.
+O que é isso?</i>
+
+508
+00:34:59,321 --> 00:35:02,356
+Testemunharam nosso cara
+jogar isto no farmacêutico.
+
+509
+00:35:02,357 --> 00:35:04,059
+Pode ser o frasco prescritivo.
+
+510
+00:35:04,060 --> 00:35:06,397
+"Frees". Nora "Frees".
+A esposa dele, talvez?
+
+511
+00:35:06,398 --> 00:35:08,602
+Sim, pode ser, mas é "Fries".
+
+512
+00:35:08,603 --> 00:35:10,265
+- Como?
+- O correto é "Fries".
+
+513
+00:35:10,266 --> 00:35:12,256
+- Como sabe?
+- Eu sou bom com nomes.
+
+514
+00:35:12,257 --> 00:35:14,308
+Tem um endereço aqui,
+vamos.
+
+515
+00:35:24,714 --> 00:35:27,231
+<i>DPGC,
+temos um mandado de busca.</i>
+
+516
+00:35:36,876 --> 00:35:38,760
+<i>Senhora, não se mexa.</i>
+
+517
+00:35:39,529 --> 00:35:41,206
+Que droga.
+
+518
+00:35:48,438 --> 00:35:50,213
+Ele me disse que eram ratos.
+
+519
+00:35:55,578 --> 00:35:57,147
+Saia daqui.
+
+520
+00:35:58,581 --> 00:35:59,917
+Sra. Fries.
+
+521
+00:36:26,022 --> 00:36:27,357
+Nora.
+
+522
+00:36:57,240 --> 00:36:58,875
+Você está bem?
+
+523
+00:37:00,176 --> 00:37:01,494
+Nigel?
+
+524
+00:37:05,348 --> 00:37:07,860
+Não veja o mal,
+não faça o mal.
+
+525
+00:37:10,220 --> 00:37:12,724
+Não veja o mal,
+não faça o mal.
+
+526
+00:37:13,556 --> 00:37:15,424
+Não, não!
+
+527
+00:37:15,425 --> 00:37:18,325
+Não veja o mal,
+não faça o mal.
+
+528
+00:37:27,021 --> 00:37:28,988
+Precisamos achar seu marido,
+Nora.
+
+529
+00:37:29,505 --> 00:37:31,456
+Antes que ele machuque
+mais alguém.
+
+530
+00:37:31,688 --> 00:37:33,133
+Eu estava dormindo.
+
+531
+00:37:34,266 --> 00:37:36,641
+Acordei ao ouvi-lo saindo.
+
+532
+00:37:36,642 --> 00:37:38,510
+É tudo que posso dizer.
+
+533
+00:37:38,511 --> 00:37:40,357
+Se não cooperar,
+seremos forçados...
+
+534
+00:37:40,358 --> 00:37:42,992
+a acusar você
+de obstrução da justiça.
+
+535
+00:37:43,639 --> 00:37:46,956
+Você vai pra prisão, Nora.
+Entende isso, não é?
+
+536
+00:37:49,100 --> 00:37:51,553
+Meu marido fez
+coisas horríveis.
+
+537
+00:37:53,538 --> 00:37:55,611
+Mas ele fez essas coisas
+por mim.
+
+538
+00:37:57,875 --> 00:38:01,109
+Estou morrendo.
+Ele quer me salvar.
+
+539
+00:38:03,047 --> 00:38:05,381
+Não posso lhe dizer o quanto
+eu sinto por isso.
+
+540
+00:38:06,552 --> 00:38:08,739
+Mas não posso traí-lo.
+
+541
+00:38:18,095 --> 00:38:20,545
+Mais uma coisa...
+
+542
+00:38:21,165 --> 00:38:24,004
+Qual é a pronúncia correta
+do seu sobrenome?
+
+543
+00:38:24,435 --> 00:38:27,437
+- É Fries.
+- Fries.
+
+544
+00:38:27,438 --> 00:38:28,877
+Obrigado.
+
+545
+00:38:29,206 --> 00:38:30,894
+Eu disse.
+
+546
+00:39:19,090 --> 00:39:21,923
+- Com licença.
+- Em que posso lhe ajudar?
+
+547
+00:39:22,526 --> 00:39:25,855
+Gostaria de falar
+com Detetive Gordon, por favor.
+
+548
+00:39:25,856 --> 00:39:27,256
+Para quê?
+
+549
+00:39:27,257 --> 00:39:29,335
+Gostaria de fazer
+uma confissão.
+
+550
+00:39:33,304 --> 00:39:35,822
+Sou o cara que vem
+congelando as pessoas.
+
+551
+00:39:38,509 --> 00:39:40,236
+Você também?
+
+552
+00:39:40,511 --> 00:39:44,157
+Já são cinco na mesma noite.
+Deve ser a lua cheia.
+
+553
+00:39:44,439 --> 00:39:45,859
+Vou lhe dizer...
+
+554
+00:39:46,262 --> 00:39:48,084
+por que não se
+senta com os outros ali.
+
+555
+00:39:48,085 --> 00:39:49,906
+O Det. Gordon virá
+em um minuto.
+
+556
+00:39:49,907 --> 00:39:53,150
+- Não, você não entende, Eu...
+- Eu entendo. Sente-se.
+
+557
+00:40:31,062 --> 00:40:32,491
+<i>Estou morto?</i>
+
+558
+00:40:34,465 --> 00:40:36,071
+Olá?
+
+559
+00:40:39,971 --> 00:40:41,303
+Olá?
+
+560
+00:40:43,574 --> 00:40:44,993
+Estou morto?
+
+561
+00:40:47,009 --> 00:40:48,800
+Não toque em mim!
+Não toque em mim!
+
+562
+00:40:48,801 --> 00:40:50,280
+- Peguei ele, peguei ele.
+- A16.
+
+563
+00:40:50,281 --> 00:40:51,648
+Deu certo.
+
+564
+00:40:51,649 --> 00:40:53,283
+Traga um cobertor.
+
+565
+00:40:53,284 --> 00:40:55,318
+Não acredito que deu certo.
+
+566
+00:40:55,319 --> 00:40:57,319
+Não!
+
+567
+00:40:58,222 --> 00:40:59,522
+Você!
+
+568
+00:40:59,523 --> 00:41:02,524
+Você! Você!
+
+569
+00:41:04,195 --> 00:41:06,195
+Certo, tudo bem.
+
+570
+00:41:07,565 --> 00:41:10,656
+Estou vindo até você, Nora.
+Estou vindo salvá-la.
+
+571
+00:41:41,265 --> 00:41:44,234
+O novo paciente,
+Oswald Cobblepot...
+
+572
+00:41:44,235 --> 00:41:47,703
+exibe sinais
+de narcisismo extremo...
+
+573
+00:41:47,704 --> 00:41:49,072
+e megalomania.
+
+574
+00:41:49,073 --> 00:41:52,344
+Parece ter tido uma relação
+não-saudável...
+
+575
+00:41:52,345 --> 00:41:54,244
+com sua falecida mãe.
+
+576
+00:41:54,245 --> 00:41:57,113
+Tratamentos incluirão
+terapia aversiva intensa...
+
+577
+00:41:57,114 --> 00:41:59,548
+e psicotrópicos.
+
+578
+00:42:14,031 --> 00:42:17,732
+- Como vai, Srta. Peabody?
+- Ocupada.
+
+579
+00:42:17,733 --> 00:42:20,269
+A bomba de formaldeído
+precisa de substituição.
+
+580
+00:42:20,270 --> 00:42:24,402
+Nossa jovem incendiária recusa
+a cooperar com os experimentos.
+
+581
+00:42:24,403 --> 00:42:27,842
+E tive que remarcar
+com o Conselheiro Carter.
+
+582
+00:42:27,843 --> 00:42:29,844
+- De novo?
+- É a terceira vez.
+
+583
+00:42:30,306 --> 00:42:32,447
+- Que deselegante.
+- De fato.
+
+584
+00:42:32,683 --> 00:42:34,636
+E tem isso.
+
+585
+00:42:35,019 --> 00:42:38,588
+Acho que resolveram o problema
+da reanimação pós-criogênica.
+
+586
+00:42:38,589 --> 00:42:41,301
+Bobagem. Ainda estou há anos
+de solucionar isso.
+
+587
+00:42:45,553 --> 00:42:46,963
+Fascinante.
+
+588
+00:42:46,964 --> 00:42:50,307
+Entende o que pode significar
+para o nosso programa?
+
+589
+00:42:50,808 --> 00:42:53,836
+- Quem é este homem?
+- O nome dele é Victor Fries.
+
+590
+00:42:53,837 --> 00:42:57,061
+Mas os jornais já deram a ele
+um apelido.
+
+591
+00:42:59,377 --> 00:43:01,793
+Olá, "Sr. Frio".
+
+592
+00:43:03,794 --> 00:43:07,794
+<b>The_Tozz e Equipe InSanos!
+O Frio Abraço da Morte!</b>
+
