@@ -1,0 +1,3177 @@
+﻿1
+00:00:01,045 --> 00:00:02,977
+<i>Meu nome é Oliver Queen.</i>
+
+2
+00:00:02,978 --> 00:00:04,416
+<i>Depois de 5 anos no inferno,</i>
+
+3
+00:00:04,417 --> 00:00:06,472
+<i>voltei para casa
+com um único objetivo.</i>
+
+4
+00:00:06,473 --> 00:00:08,089
+<i>Salvar minha cidade.</i>
+
+5
+00:00:08,090 --> 00:00:10,414
+<i>Hoje luto essa guerra
+em duas frentes:</i>
+
+6
+00:00:10,415 --> 00:00:12,854
+<i>De dia, eu sou o prefeito,</i>
+
+7
+00:00:12,855 --> 00:00:14,915
+<i>mas à noite,
+eu sou outra pessoa.</i>
+
+8
+00:00:14,916 --> 00:00:17,210
+<i>Eu sou outra coisa.</i>
+
+9
+00:00:17,211 --> 00:00:19,371
+<i>Eu sou o Arqueiro Verde.</i>
+
+10
+00:00:20,637 --> 00:00:22,164
+<i>Anteriormente...</i>
+
+11
+00:00:22,165 --> 00:00:24,274
+Susan Williams,
+prazer em conhecê-la.
+
+12
+00:00:24,275 --> 00:00:25,761
+<i>Infelizmente,
+o prefeito Queen</i>
+
+13
+00:00:25,762 --> 00:00:29,437
+<i>não sabe o que acontece
+em sua administração.</i>
+
+14
+00:00:29,438 --> 00:00:33,408
+Sem ataques por um mês. Deixe-me
+mostrar do que sou capaz.
+
+15
+00:00:33,409 --> 00:00:34,849
+- Um mês.
+- O que é isso?
+
+16
+00:00:34,850 --> 00:00:36,617
+- Meu telefone.
+- Para quê?
+
+17
+00:00:36,618 --> 00:00:38,118
+Acho que pode descobrir.
+
+18
+00:00:38,762 --> 00:00:40,201
+O que está fazendo
+na Rússia?
+
+19
+00:00:40,202 --> 00:00:42,142
+Estou aqui para matar
+Konstantin Kovar.
+
+20
+00:00:42,143 --> 00:00:44,053
+Você pode me aproximar dele?
+
+21
+00:00:44,054 --> 00:00:46,296
+Mas o único jeito
+irá te matar.
+
+22
+00:00:46,297 --> 00:00:49,096
+Eu não tenho família.
+Não tenho casa.
+
+23
+00:00:49,097 --> 00:00:50,742
+Não tenho nome.
+
+24
+00:00:50,743 --> 00:00:52,162
+Sou Bratva.
+
+25
+00:00:52,163 --> 00:00:53,583
+Algo bem pior está chegando.
+
+26
+00:00:53,584 --> 00:00:55,844
+Ele se chama Prometheus
+
+27
+00:00:55,845 --> 00:00:58,018
+e irá te matar.
+
+28
+00:00:58,624 --> 00:01:00,312
+Você quer o Arqueiro Verde.
+
+29
+00:01:00,313 --> 00:01:02,210
+Posso falar quem é.
+
+30
+00:01:02,211 --> 00:01:03,832
+É Oliver Queen.
+
+31
+00:01:31,494 --> 00:01:33,307
+Qual é o status
+do celular do Church?
+
+32
+00:01:33,308 --> 00:01:35,207
+<i>Está em Aparo e Puckett.</i>
+
+33
+00:01:35,208 --> 00:01:37,536
+Ele viajou bastante,
+já que Church morreu
+
+34
+00:01:37,537 --> 00:01:39,450
+há uma semana,
+do outro lado da cidade.
+
+35
+00:01:39,451 --> 00:01:41,380
+Prometheus
+está tentando me atrair.
+
+36
+00:01:41,381 --> 00:01:45,713
+<i>É o que estava tentando dizer
+e que é uma armadilha.</i>
+
+37
+00:01:45,714 --> 00:01:47,404
+Deixe-me chamar
+o resto da equipe.
+
+38
+00:01:47,405 --> 00:01:49,176
+- Não.
+<i>- Por quê?</i>
+
+39
+00:01:49,177 --> 00:01:51,488
+Por que é uma armadilha.
+
+40
+00:01:58,791 --> 00:02:00,511
+Essa é nossa, Observadora.
+
+41
+00:02:35,749 --> 00:02:37,564
+Quem é?
+
+42
+00:02:39,707 --> 00:02:42,414
+É muito trabalho
+para uma pegadinha.
+
+43
+00:02:49,198 --> 00:02:52,424
+ASSIM COMEÇA
+
+44
+00:02:53,963 --> 00:02:55,501
+5ª Temporada | Episódio 06
+-= And So it Begins =-
+
+45
+00:02:55,502 --> 00:02:57,117
+Legenda:  Laisleite, LukeG
+Gabim, bonnieita
+
+46
+00:02:57,118 --> 00:02:58,867
+Revisão:
+Laisleite e Billy
+
+47
+00:02:58,868 --> 00:03:00,552
+[InSUBs]
+Qualidade é InSUBstituível!
+
+48
+00:03:01,123 --> 00:03:03,252
+"Assim começa"?
+
+49
+00:03:03,253 --> 00:03:06,226
+Quem diria que Prometheus
+é fã de Babylon 5?
+
+50
+00:03:06,227 --> 00:03:09,083
+- Não julgue antes de ver.
+- O que começa é a questão.
+
+51
+00:03:09,084 --> 00:03:11,266
+Uma boa pergunta.
+Parece que ele já começou,
+
+52
+00:03:11,267 --> 00:03:13,457
+considerando que já matou
+duas pessoas.
+
+53
+00:03:13,458 --> 00:03:16,306
+Matar Conahan, entendo.
+Ele liderou o time da UAC
+
+54
+00:03:16,307 --> 00:03:19,539
+que ajudou o Arqueiro Verde
+resgatar os vereadores,
+
+55
+00:03:19,540 --> 00:03:20,948
+mas por que Church?
+
+56
+00:03:20,949 --> 00:03:22,422
+De acordo
+com detetive Malone,
+
+57
+00:03:22,423 --> 00:03:25,271
+Church se meteu entre
+Prometheus e seu real alvo.
+
+58
+00:03:25,272 --> 00:03:26,696
+- O Arqueiro Verde.
+- Sim.
+
+59
+00:03:26,697 --> 00:03:30,761
+Church vai atrás de você,
+Prometheus vai atrás dele...
+
+60
+00:03:32,091 --> 00:03:34,959
+É meu efeito sonoro.
+Como é o de vocês?
+
+61
+00:03:34,960 --> 00:03:36,604
+Só não entendo.
+
+62
+00:03:36,605 --> 00:03:38,709
+Uma pessoa que mata
+vários policiais
+
+63
+00:03:38,710 --> 00:03:41,474
+só para matar um cara,
+porque ele que quer matar você.
+
+64
+00:03:41,475 --> 00:03:45,169
+Vou dizer de novo.
+Temos que avisar os recrutas.
+
+65
+00:03:45,170 --> 00:03:47,234
+Curtis e três pessoas
+que não conhecemos?
+
+66
+00:03:47,235 --> 00:03:49,263
+Um deles revelou
+quem você é para Church,
+
+67
+00:03:49,264 --> 00:03:51,629
+que pode ter contado
+para Prometheus?
+
+68
+00:03:51,630 --> 00:03:55,839
+Rene não revelou quem Oliver é.
+Ele foi torturado.
+
+69
+00:03:55,840 --> 00:03:58,074
+Por isso que temos
+que deixá-los fora disso.
+
+70
+00:03:58,075 --> 00:04:01,844
+Não quero colocá-los em perigo
+até sabermos com o que lidamos.
+
+71
+00:04:07,574 --> 00:04:10,338
+Quando tiver colocado os fios...
+Ótimo.
+
+72
+00:04:10,339 --> 00:04:12,667
+Pegue o outro e coloque
+na bateria
+
+73
+00:04:12,668 --> 00:04:15,058
+e o outro no detonador.
+
+74
+00:04:15,059 --> 00:04:18,816
+Repeti Química duas vezes
+no ensino médio.
+
+75
+00:04:18,817 --> 00:04:22,599
+Então aprenda como eu,
+na escola da vida.
+
+76
+00:04:22,600 --> 00:04:24,040
+Não vejo por que fazer isso.
+
+77
+00:04:24,041 --> 00:04:27,794
+Estou aqui para matar
+Konstantin Kovar,
+
+78
+00:04:27,795 --> 00:04:29,695
+não para aprender
+a fazer uma bomba.
+
+79
+00:04:29,696 --> 00:04:32,459
+Você tem que ser
+como uma esponja, Oliver.
+
+80
+00:04:32,460 --> 00:04:33,876
+Fazer bomba,
+
+81
+00:04:33,877 --> 00:04:36,380
+trabalhar com eletrônica,
+soldar metal.
+
+82
+00:04:36,381 --> 00:04:38,674
+Bratva passa horas
+aprendendo muitas coisas.
+
+83
+00:04:38,675 --> 00:04:40,089
+Tudo bem.
+
+84
+00:04:40,090 --> 00:04:42,764
+Prenda um no detonador
+e outro no terminal da bateria.
+
+85
+00:04:42,765 --> 00:04:45,377
+Cuidado.
+Não toque na placa de circuito.
+
+86
+00:05:00,447 --> 00:05:01,881
+Está tudo bem, Oliver.
+
+87
+00:05:01,882 --> 00:05:04,063
+Na minha primeira vez,
+quase perdi um dedo.
+
+88
+00:05:22,662 --> 00:05:24,305
+O que foi isso?
+
+89
+00:05:24,306 --> 00:05:26,915
+Declaração de guerra
+contra a Bratva.
+
+90
+00:05:26,916 --> 00:05:30,520
+- Por quem?
+- Seu amigo. Kovar.
+
+91
+00:05:32,631 --> 00:05:34,734
+Estou orgulhoso
+do rezoneamento
+
+92
+00:05:34,735 --> 00:05:37,134
+e do trabalho que tem sido feito
+pela UAC.
+
+93
+00:05:37,135 --> 00:05:39,224
+Nossos cidadãos
+precisam sentir segurança,
+
+94
+00:05:39,225 --> 00:05:41,911
+mas precisam de casas
+e de empregos.
+
+95
+00:05:42,915 --> 00:05:44,899
+Obrigado por se juntar a nós.
+
+96
+00:05:44,900 --> 00:05:46,858
+Dormi de mais.
+
+97
+00:05:46,859 --> 00:05:48,350
+Vai descontar
+do meu salário?
+
+98
+00:05:48,351 --> 00:05:51,639
+Não, mas não é a primeira vez
+que acontece nesta semana.
+
+99
+00:05:52,134 --> 00:05:54,744
+Há algo que queira dizer?
+
+100
+00:05:54,745 --> 00:05:57,035
+Está perguntando
+se ainda estou bebendo?
+
+101
+00:05:57,036 --> 00:05:58,544
+Porque minha resposta
+não mudou
+
+102
+00:05:58,545 --> 00:06:00,152
+desde a última vez
+que perguntou.
+
+103
+00:06:00,153 --> 00:06:02,190
+Por que ele está falando
+com ela?
+
+104
+00:06:02,641 --> 00:06:04,061
+Foi ideia dele.
+
+105
+00:06:04,062 --> 00:06:06,402
+Ela o crucificou
+quando fui nomeado a vice,
+
+106
+00:06:06,403 --> 00:06:07,875
+e ele dá-lhe
+uma entrevista.
+
+107
+00:06:07,876 --> 00:06:10,857
+Apesar de tudo,
+ela está pegando leve com ele.
+
+108
+00:06:10,858 --> 00:06:12,258
+Ótimo.
+
+109
+00:06:12,997 --> 00:06:14,478
+Obrigada pelo seu tempo.
+
+110
+00:06:14,479 --> 00:06:17,257
+Obrigada por deixar-me explicar
+meu lado da história.
+
+111
+00:06:17,258 --> 00:06:20,257
+Eu disse que passaria um mês
+sem falar mal de você.
+
+112
+00:06:20,258 --> 00:06:23,663
+O tempo está passando para isso
+e para a outra coisa também.
+
+113
+00:06:24,715 --> 00:06:26,782
+Está passando, sr. prefeito.
+
+114
+00:06:26,783 --> 00:06:28,183
+<i>Pronto?</i>
+
+115
+00:06:32,176 --> 00:06:34,487
+Diga-me que não estava
+flertando com ela.
+
+116
+00:06:34,488 --> 00:06:36,868
+Ela pode, literalmente,
+arruinar sua carreira.
+
+117
+00:06:36,869 --> 00:06:38,513
+Ainda não fiz nada.
+
+118
+00:06:39,626 --> 00:06:42,378
+Odeio o fato
+de ter dito "ainda."
+
+119
+00:06:42,379 --> 00:06:44,681
+Venha aqui.
+Há algo que quero te mostrar.
+
+120
+00:06:47,730 --> 00:06:50,754
+- O que é isso?
+- Um festival de arte e música.
+
+121
+00:06:50,755 --> 00:06:52,516
+Ocorre em Seattle
+há décadas.
+
+122
+00:06:52,517 --> 00:06:56,535
+São ótimos para publicidade,
+turismo, receitas fiscais.
+
+123
+00:06:56,536 --> 00:07:01,092
+Só que precisamos de dinheiro,
+e não temos de onde tirar.
+
+124
+00:07:01,093 --> 00:07:05,244
+Temos. A chefe de gabinete
+do prefeito tinha uma boate,
+
+125
+00:07:05,245 --> 00:07:08,252
+e algumas pessoas
+me devem favores.
+
+126
+00:07:08,253 --> 00:07:10,389
+Talvez não consiga
+todas essas bandas,
+
+127
+00:07:10,390 --> 00:07:14,144
+- mas deve atrair uma multidão.
+- Bom trabalho, Speedy.
+
+128
+00:07:14,145 --> 00:07:17,823
+- Ainda preciso de um local.
+- Vamos fazer uma lista.
+
+129
+00:07:17,824 --> 00:07:20,577
+- Farei as ligações necessárias.
+- Certo.
+
+130
+00:07:20,578 --> 00:07:23,653
+Talvez eu consiga
+a arena dos Rocket.
+
+131
+00:07:23,654 --> 00:07:25,157
+Vice-prefeito Lance.
+
+132
+00:07:25,158 --> 00:07:28,034
+Não é grande coisa,
+só conheço um cara.
+
+133
+00:07:28,793 --> 00:07:31,255
+Só estou fazendo o possível
+para ajudar.
+
+134
+00:07:31,256 --> 00:07:32,656
+Obrigada.
+
+135
+00:07:56,039 --> 00:07:59,055
+Por favor!
+Pegue o que quiser.
+
+136
+00:07:59,056 --> 00:08:01,892
+Só não...
+Tenho duas crianças.
+
+137
+00:08:36,594 --> 00:08:38,398
+Vocês podem nos dar licença?
+
+138
+00:08:42,225 --> 00:08:46,116
+Belo truque. Deve ser útil
+quando você fica trancado.
+
+139
+00:08:46,117 --> 00:08:48,552
+Sou Adrian Chase,
+o novo promotor.
+
+140
+00:08:48,553 --> 00:08:51,533
+Pensei que cenas de crime
+não fossem para promotores.
+
+141
+00:08:52,257 --> 00:08:54,088
+Não sou esse tipo
+de promotor.
+
+142
+00:08:54,089 --> 00:08:55,988
+Qual é a sua desculpa
+para estar aqui?
+
+143
+00:08:55,989 --> 00:08:58,228
+Escutei no rádio
+sobre a arma do crime.
+
+144
+00:08:58,749 --> 00:09:01,094
+A mesma usada em Church
+e no tenente Conahan.
+
+145
+00:09:01,095 --> 00:09:02,883
+O que sabe sobre a vítima?
+
+146
+00:09:02,884 --> 00:09:05,498
+Gay Ekes, divorciada,
+tem dois filhos,
+
+147
+00:09:05,499 --> 00:09:08,046
+o ex dela tem álibi
+
+148
+00:09:08,047 --> 00:09:11,656
+e os crimes dela se resumem
+a 3 multas de estacionamento.
+
+149
+00:09:12,159 --> 00:09:13,934
+O que você sabe
+que eu não sei?
+
+150
+00:09:17,094 --> 00:09:19,907
+O assassino
+se chama Prometheus.
+
+151
+00:09:19,908 --> 00:09:23,405
+E por que esse Prometheus
+matou uma dona de casa?
+
+152
+00:09:27,854 --> 00:09:29,993
+Encontraram outro corpo.
+
+153
+00:09:29,994 --> 00:09:32,347
+A arma do crime
+foi uma estrela.
+
+154
+00:09:34,188 --> 00:09:36,430
+<i>Peter Meld, 38 anos,
+motorista de táxi.</i>
+
+155
+00:09:36,431 --> 00:09:38,346
+Morreu
+enquanto abastecia o táxi.
+
+156
+00:09:38,347 --> 00:09:40,079
+Oliver está indo
+para a cena agora.
+
+157
+00:09:40,080 --> 00:09:42,877
+Alguma conexão
+entre Meld e Gay Eked?
+
+158
+00:09:42,878 --> 00:09:45,639
+Apenas a mesma arma do crime,
+uma estrela.
+
+159
+00:09:48,920 --> 00:09:51,992
+Felicity, seria interessante
+conseguirmos uma.
+
+160
+00:09:51,993 --> 00:09:53,393
+Seria.
+
+161
+00:09:54,422 --> 00:09:56,848
+O que foi?
+Por que está me olhando assim?
+
+162
+00:09:56,849 --> 00:09:58,627
+Porque você namora
+um detetive.
+
+163
+00:09:58,628 --> 00:10:01,413
+Não, Billy não sabe que trabalho
+com o Arqueiro Verde,
+
+164
+00:10:01,414 --> 00:10:04,152
+e não vou misturar meu trabalho
+com minha vida pessoal.
+
+165
+00:10:04,153 --> 00:10:06,457
+E mesmo assim,
+o que deveria fazer, roubar?
+
+166
+00:10:06,458 --> 00:10:09,701
+Felicity, você é muito esperta.
+Tenho certeza que conseguirá.
+
+167
+00:10:09,702 --> 00:10:11,167
+Quatro corpos até agora.
+
+168
+00:10:11,168 --> 00:10:13,651
+Precisamos fazer de tudo
+para não aparecer outro.
+
+169
+00:10:13,652 --> 00:10:16,729
+Isso parece ser um motivo
+para chamar os recrutas.
+
+170
+00:10:16,730 --> 00:10:19,572
+Quando houver um motivo,
+iremos.
+
+171
+00:10:19,573 --> 00:10:22,201
+Esse é o motivo.
+Devíamos chamar agora.
+
+172
+00:10:24,268 --> 00:10:27,090
+<i>- O que achou?</i>
+- Apenas o sangue da vítima.
+
+173
+00:10:27,091 --> 00:10:29,119
+Nada de fibras,
+estilhaços ou digitais.
+
+174
+00:10:29,120 --> 00:10:30,926
+E como vamos encontrar
+esse cara?
+
+175
+00:10:30,927 --> 00:10:32,327
+Aparentemente, não vamos.
+
+176
+00:10:34,075 --> 00:10:35,859
+Você não parece feliz.
+
+177
+00:10:35,860 --> 00:10:38,190
+É por que
+não estou trazendo café?
+
+178
+00:10:38,191 --> 00:10:41,119
+- Não é isso. É o caso.
+- O assassino que joga estrelas?
+
+179
+00:10:41,120 --> 00:10:43,359
+Difícil de esquecer.
+Menos para o morto.
+
+180
+00:10:43,813 --> 00:10:45,312
+Isso foi mórbido.
+
+181
+00:10:45,313 --> 00:10:48,224
+Café? Na verdade,
+isso me trouxe aqui.
+
+182
+00:10:48,225 --> 00:10:50,115
+Não o café.
+A morbidez.
+
+183
+00:10:50,116 --> 00:10:52,796
+Eu era amiga
+de uma das vítimas.
+
+184
+00:10:52,797 --> 00:10:54,820
+Conhecida, na verdade.
+
+185
+00:10:54,821 --> 00:10:57,055
+Amiga de uma amiga
+de uma amiga.
+
+186
+00:10:57,056 --> 00:11:00,757
+É amiga que a governanta
+roubou uma toalha?
+
+187
+00:11:00,758 --> 00:11:03,187
+Não era uma toalha,
+era um trapo. Mas não é.
+
+188
+00:11:03,188 --> 00:11:04,839
+Uma amiga
+totalmente diferente.
+
+189
+00:11:05,255 --> 00:11:09,110
+Outra amiga envolvida
+em um crime.
+
+190
+00:11:10,015 --> 00:11:11,982
+Você anda
+com um pessoal da pesada.
+
+191
+00:11:11,983 --> 00:11:14,313
+Você não tem ideia.
+
+192
+00:11:14,314 --> 00:11:16,759
+Eu teria
+se parasse de enrolar
+
+193
+00:11:16,760 --> 00:11:18,607
+e me contasse
+o que está escondendo.
+
+194
+00:11:18,608 --> 00:11:20,109
+Não estou escondendo nada.
+
+195
+00:11:20,110 --> 00:11:22,772
+Eu era quase amiga
+de uma das vítimas, Gay Eked.
+
+196
+00:11:22,773 --> 00:11:25,598
+- "Quase"?
+- Pike está nos chamando.
+
+197
+00:11:26,399 --> 00:11:27,799
+Conversamos mais tarde.
+
+198
+00:11:40,548 --> 00:11:43,561
+Temos um problema
+com sua namorada.
+
+199
+00:11:43,562 --> 00:11:46,079
+- Quem?
+- Susan Williams.
+
+200
+00:11:48,316 --> 00:11:49,801
+<i>Detetive William Malone,</i>
+
+201
+00:11:49,802 --> 00:11:52,187
+<i>que parece ser
+o responsável pela investigação,</i>
+
+202
+00:11:52,188 --> 00:11:54,765
+<i>- não fez comentários.</i>
+- Isso é um desastre.
+
+203
+00:11:54,766 --> 00:11:57,307
+A polícia não declarou nada
+sobre o assunto,
+
+204
+00:11:57,308 --> 00:11:59,632
+mas acredita-se
+que esse assassino da estrela
+
+205
+00:11:59,633 --> 00:12:02,527
+<i>é responsável por 4 mortes
+até agora.</i>
+
+206
+00:12:02,528 --> 00:12:05,149
+<i>Incluindo a do famoso criminoso,
+Tobias Church.</i>
+
+207
+00:12:05,150 --> 00:12:06,683
+Assassino da estrela?
+
+208
+00:12:06,684 --> 00:12:08,435
+Deve admitir que tem charme.
+
+209
+00:12:08,436 --> 00:12:11,559
+Não preciso falar
+que ter a cidade em pânico,
+
+210
+00:12:11,560 --> 00:12:13,908
+antes do festival,
+é péssimo.
+
+211
+00:12:13,909 --> 00:12:16,608
+Não precisa falar, Thea.
+
+212
+00:12:20,637 --> 00:12:23,538
+Anatoly,
+por que não me disse
+
+213
+00:12:23,539 --> 00:12:26,177
+que Kovar planejava algo
+contra a Bratva.
+
+214
+00:12:26,178 --> 00:12:29,263
+Sabe que estou aqui
+só por causa dele.
+
+215
+00:12:29,264 --> 00:12:32,167
+Kovar tinha um exército.
+E quem são os inimigos dele?
+
+216
+00:12:32,168 --> 00:12:35,527
+Disse que, para matar Kovar,
+eu teria que entrar na Bratva.
+
+217
+00:12:35,528 --> 00:12:39,585
+Você terá a sua chance.
+Pakhan chegará aqui em breve.
+
+218
+00:12:39,586 --> 00:12:43,786
+Ele explicará tudo.
+Arrume-se. Mostre respeito.
+
+219
+00:12:47,687 --> 00:12:50,987
+Anatoly!
+É bom ver um velho amigo.
+
+220
+00:12:50,988 --> 00:12:54,088
+Eu queria que fosse
+em outras circunstâncias.
+
+221
+00:12:54,089 --> 00:12:55,889
+A honra é minha,
+Pakhan Gregor.
+
+222
+00:12:56,690 --> 00:12:58,390
+Por favor, vamos beber.
+
+223
+00:13:05,691 --> 00:13:08,991
+Esse é o filhote americano.
+Você adotou?
+
+224
+00:13:08,992 --> 00:13:11,492
+Esse não é o meu nome.
+
+225
+00:13:11,493 --> 00:13:15,352
+O filhote fala.
+
+226
+00:13:15,353 --> 00:13:17,516
+O infame Oliver Queen.
+
+227
+00:13:17,517 --> 00:13:21,242
+O que foi? Acha que não sabemos
+do seu passado?
+
+228
+00:13:21,243 --> 00:13:23,142
+Que permitiríamos
+um americano rico
+
+229
+00:13:23,143 --> 00:13:25,992
+nessa organização
+sem razões específicas?
+
+230
+00:13:25,993 --> 00:13:28,448
+- Eu mereci meu lugar aqui.
+- Foi o que eu ouvi.
+
+231
+00:13:28,449 --> 00:13:31,246
+E por que não diz
+que porra está acontecendo?
+
+232
+00:13:31,247 --> 00:13:34,129
+- Oliver, respeito.
+- Tudo bem, Anatoly.
+
+233
+00:13:36,190 --> 00:13:38,422
+Aprecio a avidez dele.
+
+234
+00:13:40,510 --> 00:13:43,953
+Kovar decidiu expandir
+
+235
+00:13:43,954 --> 00:13:46,194
+o território dele,
+um cassino.
+
+236
+00:13:46,195 --> 00:13:48,359
+O que aconteceu aqui hoje,
+foi só um aviso
+
+237
+00:13:48,360 --> 00:13:51,983
+para nos afastarmos,
+mas não vamos fazer isso.
+
+238
+00:13:51,984 --> 00:13:53,557
+E o que vamos fazer?
+
+239
+00:13:53,558 --> 00:13:57,098
+Kovar precisa de dinheiro
+para expandir, investidores,
+
+240
+00:13:57,099 --> 00:14:00,485
+um americano rico,
+por exemplo.
+
+241
+00:14:02,319 --> 00:14:04,261
+Você se encontrará
+com o pessoal dele.
+
+242
+00:14:04,262 --> 00:14:08,272
+Depois que estiver dentro,
+explodirá o novo cassino dele.
+
+243
+00:14:08,273 --> 00:14:11,123
+E você achando que fazer bombas
+era desperdício de tempo.
+
+244
+00:14:11,124 --> 00:14:12,949
+O que diz, Oliver?
+
+245
+00:14:12,950 --> 00:14:15,928
+Pronto para ser
+um playboy americano de novo?
+
+246
+00:14:18,429 --> 00:14:21,718
+Sua nova namorada sabe bem
+como alarmar a cidade.
+
+247
+00:14:21,719 --> 00:14:24,054
+- Como é?
+- Thea talvez tenha mencionado
+
+248
+00:14:24,055 --> 00:14:27,709
+- que você está com a Susan.
+- Eu não estou com a Susan.
+
+249
+00:14:27,710 --> 00:14:31,227
+- O seu namorado te deu isso?
+- Não.
+
+250
+00:14:33,050 --> 00:14:35,478
+Talvez eu tenha roubado.
+Está brincando?
+
+251
+00:14:35,479 --> 00:14:38,702
+Não brinco com coisas que podem
+me dar 10 anos de prisão.
+
+252
+00:14:38,703 --> 00:14:42,857
+- Espero que valha a pena.
+- Não muito, até agora.
+
+253
+00:14:42,858 --> 00:14:46,194
+Estava feliz pelo Curtis
+ter consertado o cromatógrafo.
+
+254
+00:14:46,195 --> 00:14:47,944
+Espero ter mais sorte
+com isso.
+
+255
+00:14:47,945 --> 00:14:49,951
+Coloquei as 4 vítimas
+em um algoritmo
+
+256
+00:14:49,952 --> 00:14:51,913
+usado
+para rastrear serial killers.
+
+257
+00:14:51,914 --> 00:14:55,739
+Ele faz conexões que o FBI
+não faz entre as vítimas.
+
+258
+00:14:55,740 --> 00:14:57,505
+- Esperto.
+- Cruzei com referências
+
+259
+00:14:57,506 --> 00:15:00,950
+do nosso banco de dados
+esperando melhores resultados.
+
+260
+00:15:01,600 --> 00:15:03,969
+- O que é isso?
+- Alerta de notícias.
+
+261
+00:15:04,394 --> 00:15:08,449
+<i>Há informações
+que o assassino da estrela</i>
+
+262
+00:15:08,450 --> 00:15:11,501
+<i>está em um shopping
+a céu aberto, causando pânico,</i>
+
+263
+00:15:11,502 --> 00:15:14,204
+<i>no qual ameaça
+as áreas próximas.</i>
+
+264
+00:15:14,205 --> 00:15:16,410
+Espero que sua namorada
+esteja satisfeita.
+
+265
+00:15:16,411 --> 00:15:18,134
+Chame o time,
+nos encontraremos lá.
+
+266
+00:15:18,135 --> 00:15:19,779
+- Todos eles?
+- Todos eles.
+
+267
+00:15:19,780 --> 00:15:22,897
+Eles merecem saber
+o quanto se agravou.
+
+268
+00:15:22,898 --> 00:15:25,215
+E pare de chamá-la
+de minha namorada.
+
+269
+00:15:25,216 --> 00:15:26,640
+Sim, senhor.
+
+270
+00:15:48,058 --> 00:15:49,938
+Quem são esses caras?
+
+271
+00:15:49,939 --> 00:15:52,912
+- Estão atirando às cegas.
+<i>- Por que estão assustados.</i>
+
+272
+00:15:52,913 --> 00:15:55,014
+<i>Prometheus
+nem deve estar aqui.</i>
+
+273
+00:15:55,015 --> 00:15:56,931
+Nosso trabalho aqui
+é manter a paz.
+
+274
+00:15:56,932 --> 00:15:59,087
+Espartano e Retalho
+cuidarão dos atiradores.
+
+275
+00:15:59,088 --> 00:16:00,667
+O resto cuide das pessoas.
+
+276
+00:16:00,668 --> 00:16:02,875
+Por que o Retalho
+fica com a diversão?
+
+277
+00:16:03,312 --> 00:16:04,907
+Porque eu disse.
+
+278
+00:16:12,960 --> 00:16:14,823
+Nunca me canso dessa parte.
+
+279
+00:16:25,562 --> 00:16:29,751
+- Não! Faça parar! Mãe!
+- Por favor.
+
+280
+00:16:29,752 --> 00:16:31,487
+Não!
+
+281
+00:16:31,488 --> 00:16:33,301
+Você está seguro conosco,
+certo?
+
+282
+00:16:33,302 --> 00:16:36,135
+- Venham comigo.
+- Você nos salvou. Obrigada.
+
+283
+00:16:36,136 --> 00:16:37,610
+Venha.
+
+284
+00:16:47,179 --> 00:16:49,525
+Calma!
+Você está bem, cara?
+
+285
+00:16:49,526 --> 00:16:52,086
+Estou com você.
+Está seguro. Vamos!
+
+286
+00:16:58,813 --> 00:17:01,136
+Não há ameaça aqui.
+Vá para casa.
+
+287
+00:17:02,429 --> 00:17:04,817
+Ele está ali!
+Fiquem atrás de mim!
+
+288
+00:17:09,536 --> 00:17:14,095
+O assassino não está aqui.
+Estão seguros. Vão, agora. Vão!
+
+289
+00:17:15,695 --> 00:17:17,427
+Abaixe sua arma!
+
+290
+00:17:17,428 --> 00:17:19,615
+Tenho o direito
+de me defender.
+
+291
+00:17:25,588 --> 00:17:27,888
+- Isso é meu.
+- Não é mais.
+
+292
+00:17:27,889 --> 00:17:31,612
+O assassino não está aqui.
+Vocês só estão causando pânico.
+
+293
+00:17:32,028 --> 00:17:33,448
+Vá para casa.
+
+294
+00:17:33,873 --> 00:17:35,273
+Agora.
+
+295
+00:17:48,758 --> 00:17:53,714
+Se Prometheus queria chamar
+a atenção, ele conseguiu.
+
+296
+00:17:53,715 --> 00:17:56,985
+Acho que não vamos gostar
+quando isso acontecer de novo.
+
+297
+00:17:57,390 --> 00:17:58,982
+Vou parar de ajudar.
+
+298
+00:17:58,983 --> 00:18:01,183
+Precisamos procurá-lo.
+Felicity coordenará.
+
+299
+00:18:01,184 --> 00:18:03,461
+Precisamos ajudar a polícia
+a manter a ordem.
+
+300
+00:18:03,462 --> 00:18:06,848
+- Um segundo.
+- Volte.
+
+301
+00:18:06,849 --> 00:18:09,999
+É a primeira vez que ouvimos
+sobre um serial killer.
+
+302
+00:18:11,775 --> 00:18:15,122
+Ele se chama Prometheus.
+Foi ele que matou Tobias Church.
+
+303
+00:18:15,123 --> 00:18:17,641
+Você sabia disso?
+Ele sabia.
+
+304
+00:18:17,642 --> 00:18:20,869
+- Por que nós não sabíamos?
+- Agora vocês sabem.
+
+305
+00:18:20,870 --> 00:18:22,479
+Vamos trabalhar.
+
+306
+00:18:24,388 --> 00:18:29,156
+Essas mortes são uma mensagem
+do Prometheus para o Oliver.
+
+307
+00:18:29,157 --> 00:18:32,025
+- Ele está o atraindo.
+- Pelo que parece,
+
+308
+00:18:32,026 --> 00:18:34,006
+você e a loirinha
+já sabiam disso.
+
+309
+00:18:34,007 --> 00:18:35,407
+Isso não insultou...
+
+310
+00:18:35,408 --> 00:18:38,124
+Evelyn, não se trata
+de sentimentos ou de ego.
+
+311
+00:18:38,125 --> 00:18:40,060
+Precisávamos
+avaliar a situação.
+
+312
+00:18:40,061 --> 00:18:42,282
+Ele quer dizer que o time A
+precisa garantir
+
+313
+00:18:42,283 --> 00:18:44,991
+que o time B
+merece estar envolvido.
+
+314
+00:18:44,992 --> 00:18:48,466
+O único time é o time Arqueiro,
+e concordo com vocês,
+
+315
+00:18:48,467 --> 00:18:50,951
+- mas a cidade está uma loucura.
+- Ela tem razão.
+
+316
+00:18:50,952 --> 00:18:52,604
+Teremos tempo para isso
+depois.
+
+317
+00:18:52,605 --> 00:18:55,455
+Exceto o Curtis. Preciso dele
+no algoritmo de vitimologia.
+
+318
+00:18:58,788 --> 00:19:01,090
+- Senhor.
+- Algoritmo de vitimologia.
+
+319
+00:19:01,091 --> 00:19:04,103
+Como no filme "Zodíaco".
+E sou o Jake Gyllenhaal.
+
+320
+00:19:04,104 --> 00:19:06,578
+- Você não seria...
+- Não tire isso de mim.
+
+321
+00:19:10,289 --> 00:19:12,213
+Ollie, cadê você?
+
+322
+00:19:12,214 --> 00:19:14,531
+Este lugar está um inferno.
+
+323
+00:19:29,255 --> 00:19:30,855
+ONDE VOCÊ ESTÁ?
+
+324
+00:20:03,448 --> 00:20:04,848
+O que temos?
+
+325
+00:20:05,396 --> 00:20:08,144
+Vocês gostariam
+de nos dar um minuto?
+
+326
+00:20:08,145 --> 00:20:10,113
+- Sério, cara?
+- A Felicity e o Curtis
+
+327
+00:20:10,114 --> 00:20:12,071
+encontraram algo.
+Queremos ver o que é.
+
+328
+00:20:12,072 --> 00:20:14,402
+Somos um time,
+ou pelo menos éramos.
+
+329
+00:20:14,403 --> 00:20:16,158
+Tudo bem.
+O que temos?
+
+330
+00:20:16,159 --> 00:20:17,907
+A princípio,
+não muita coisa.
+
+331
+00:20:17,908 --> 00:20:19,787
+Nenhuma relação
+entre endereços,
+
+332
+00:20:19,788 --> 00:20:22,059
+históricos pessoais,
+cores favoritas, nada.
+
+333
+00:20:22,060 --> 00:20:23,821
+Então o algoritmo
+de vitimologia
+
+334
+00:20:23,822 --> 00:20:26,877
+mudou para algumas coisas
+dignas do filme "Zodíaco".
+
+335
+00:20:26,878 --> 00:20:28,984
+Como procurar por anagramas,
+
+336
+00:20:28,985 --> 00:20:31,285
+caso Prometheus estivesse
+enviando uma mensagem
+
+337
+00:20:31,286 --> 00:20:33,816
+em nome das vítimas
+que ele escolheu.
+
+338
+00:20:34,443 --> 00:20:36,262
+- E ele está?
+- Mais ou menos.
+
+339
+00:20:36,864 --> 00:20:38,460
+Primeiras quatro vítimas:
+
+340
+00:20:38,461 --> 00:20:42,735
+Tobias Church, Sam Conahan,
+Peter Meld e Gay Eked.
+
+341
+00:20:42,736 --> 00:20:44,713
+As vítimas 3 e 4
+não foram aleatórias.
+
+342
+00:20:44,714 --> 00:20:47,382
+Achamos que o Prometheus
+usou os nomes como anagramas
+
+343
+00:20:47,383 --> 00:20:48,783
+para formar outros nomes.
+
+344
+00:20:48,784 --> 00:20:51,910
+Adam Hunt, Ted Gaynor,
+Palmer Cokes, Sachi Beech.
+
+345
+00:20:51,911 --> 00:20:53,811
+Isso deveria
+ser importante para nós?
+
+346
+00:20:53,812 --> 00:20:55,212
+É para ele.
+
+347
+00:20:57,251 --> 00:20:58,751
+Se importa em explicar?
+
+348
+00:20:58,752 --> 00:21:00,657
+Esses nomes
+estavam na lista.
+
+349
+00:21:02,310 --> 00:21:04,130
+Que diabos é a lista?
+
+350
+00:21:12,316 --> 00:21:14,052
+Deixe-me ver se entendi.
+
+351
+00:21:14,053 --> 00:21:16,603
+Você tem uma lista
+pessoas para matar,
+
+352
+00:21:16,604 --> 00:21:18,711
+e eu que sou
+o descontrolado?
+
+353
+00:21:18,712 --> 00:21:21,613
+Eu não uso essa lista.
+Não olho para ela há 4 anos.
+
+354
+00:21:21,614 --> 00:21:24,451
+Quatro anos?
+Achei que fosse outro cara.
+
+355
+00:21:24,452 --> 00:21:27,255
+Era o Oliver.
+O Capuz, o Arqueiro,
+
+356
+00:21:27,256 --> 00:21:29,104
+o Arqueiro Verde.
+Todos eram ele.
+
+357
+00:21:29,105 --> 00:21:30,975
+Esse caderno
+pertencia ao meu pai.
+
+358
+00:21:30,976 --> 00:21:32,521
+Quando eu comecei,
+
+359
+00:21:32,522 --> 00:21:34,986
+achava que esse era meu jeito
+de salvar a cidade.
+
+360
+00:21:34,987 --> 00:21:36,661
+Acho que já sabemos
+qual mensagem
+
+361
+00:21:36,662 --> 00:21:38,170
+o Prometheus quer enviar.
+
+362
+00:21:38,171 --> 00:21:40,680
+Sabem? Eu não sei.
+Vocês sabem?
+
+363
+00:21:40,681 --> 00:21:42,731
+Ele quer dizer que você é
+o serial killer.
+
+364
+00:21:43,150 --> 00:21:46,035
+Duro, mas correto.
+
+365
+00:21:46,036 --> 00:21:49,004
+Eu estava ajudando esta cidade.
+Prometheus não está.
+
+366
+00:21:50,291 --> 00:21:52,338
+Você me convenceu
+
+367
+00:21:52,339 --> 00:21:54,980
+a não me vingar de Ruvé Darhk
+pelos meus pais,
+
+368
+00:21:54,981 --> 00:21:58,510
+porque matar mancharia o legado
+da Canário Negro.
+
+369
+00:22:00,234 --> 00:22:02,536
+Como você pode ser algo
+além de um hipócrita?
+
+370
+00:22:02,537 --> 00:22:04,187
+Primeiro,
+mancharia o legado dela.
+
+371
+00:22:04,188 --> 00:22:07,063
+Segundo, você sabia
+que eu matava quando entrou.
+
+372
+00:22:07,064 --> 00:22:08,584
+Não que era
+um serial killer.
+
+373
+00:22:08,585 --> 00:22:10,355
+Eu conheci
+alguns desses nomes.
+
+374
+00:22:10,356 --> 00:22:13,614
+Tem banqueiros,
+advogados, vereadores.
+
+375
+00:22:14,177 --> 00:22:17,527
+Vocês precisam descobrir
+os anagramas usando a lista,
+
+376
+00:22:17,528 --> 00:22:20,528
+porque isso deve nos mostrar
+os próximos alvos do Prometheus.
+
+377
+00:22:24,626 --> 00:22:26,621
+Sei que não há muito
+o que ver agora,
+
+378
+00:22:26,622 --> 00:22:28,450
+mas com seu investimento,
+
+379
+00:22:28,451 --> 00:22:30,909
+podemos fazer daqui
+um destino de luxo.
+
+380
+00:22:30,910 --> 00:22:33,110
+Desde que tenha
+jogos de dados.
+
+381
+00:22:33,111 --> 00:22:36,093
+Sou ótimo neles.
+
+382
+00:22:36,094 --> 00:22:40,008
+Precisa colocar garotas aqui.
+Muitas garotas.
+
+383
+00:22:40,009 --> 00:22:42,078
+Tenho certeza
+que ficará satisfeito.
+
+384
+00:22:42,079 --> 00:22:44,792
+Todas as suas exigências
+serão atendidas.
+
+385
+00:22:44,793 --> 00:22:48,871
+Estou convencido,
+mas meu sócio quer ver a planta
+
+386
+00:22:48,872 --> 00:22:50,812
+para garantir
+que estamos prontos.
+
+387
+00:22:51,252 --> 00:22:53,173
+Aqui está.
+
+388
+00:22:55,257 --> 00:22:57,662
+Posso enviar cópias
+para o seu hotel,
+
+389
+00:22:57,663 --> 00:22:59,063
+mas antes...
+
+390
+00:23:01,396 --> 00:23:02,796
+Sim?
+
+391
+00:23:04,744 --> 00:23:06,233
+Você quer ver o dinheiro.
+
+392
+00:23:06,234 --> 00:23:07,937
+Não sendo rude,
+mas sim.
+
+393
+00:23:07,938 --> 00:23:10,274
+Tudo bem.
+Mostre o dinheiro a ele.
+
+394
+00:23:17,646 --> 00:23:21,672
+Isso vai ser ótimo,
+sr. Queen.
+
+395
+00:23:21,673 --> 00:23:23,942
+Se não se importa
+com a pergunta,
+
+396
+00:23:23,943 --> 00:23:25,469
+por que não voltou
+para casa?
+
+397
+00:23:25,470 --> 00:23:27,154
+Aparentemente,
+você é importante.
+
+398
+00:23:33,797 --> 00:23:37,200
+Precisamos colocar o explosivos
+ali e ali
+
+399
+00:23:37,201 --> 00:23:38,632
+para causar dano máximo.
+
+400
+00:23:39,166 --> 00:23:40,566
+O quê?
+
+401
+00:23:40,567 --> 00:23:42,531
+Você finge ser...
+Como é o termo?
+
+402
+00:23:42,532 --> 00:23:44,156
+Idiota muito bem.
+
+403
+00:23:44,157 --> 00:23:45,614
+Vamos acabar com isso.
+
+404
+00:23:52,147 --> 00:23:53,547
+O quê?
+
+405
+00:24:02,913 --> 00:24:04,497
+Quentin?
+
+406
+00:24:08,432 --> 00:24:10,325
+Está em casa?
+
+407
+00:24:14,869 --> 00:24:17,814
+- Quentin?
+- Meu Deus!
+
+408
+00:24:17,815 --> 00:24:19,605
+- O que está fazendo?
+- Meu Deus.
+
+409
+00:24:19,606 --> 00:24:21,693
+Quer me matar?
+
+410
+00:24:21,694 --> 00:24:25,472
+Onde você esteve?
+A cidade está em crise.
+
+411
+00:24:25,473 --> 00:24:28,178
+Estou mal do estômago
+desde o almoço.
+
+412
+00:24:28,179 --> 00:24:32,198
+Deve ter sido o peixe.
+Foi o peixe, foi o peixe.
+
+413
+00:24:32,199 --> 00:24:35,561
+Provavelmente não caiu bem
+com o uísque.
+
+414
+00:24:36,530 --> 00:24:38,625
+Quando teve a recaída?
+
+415
+00:24:41,843 --> 00:24:44,592
+Não teve recaída.
+
+416
+00:24:44,593 --> 00:24:47,000
+Você nunca parou de beber.
+
+417
+00:24:47,644 --> 00:24:49,094
+Você mentiu para mim.
+
+418
+00:24:49,095 --> 00:24:51,259
+Sou um alcoólatra, Thea.
+É o que fazemos.
+
+419
+00:24:51,260 --> 00:24:53,302
+Tudo bem, vou levá-lo
+a uma reunião.
+
+420
+00:24:54,664 --> 00:24:58,031
+Não pode ajudar um homem
+que não quer ajuda.
+
+421
+00:25:00,257 --> 00:25:02,365
+Observe.
+
+422
+00:25:04,079 --> 00:25:06,650
+Não vou desistir de você.
+
+423
+00:25:07,151 --> 00:25:10,149
+E não vou deixar
+você desistir de si mesmo.
+
+424
+00:25:10,150 --> 00:25:14,460
+Não acho que o vice-prefeito
+ser visto em uma reunião do AA
+
+425
+00:25:14,461 --> 00:25:17,096
+é o que seu irmão
+precisa agora.
+
+426
+00:25:17,097 --> 00:25:20,089
+O segundo A
+é de anônimos, certo?
+
+427
+00:25:24,768 --> 00:25:26,576
+O que é isso?
+
+428
+00:25:29,023 --> 00:25:31,938
+Obrigado.
+O que é isso?
+
+429
+00:25:31,939 --> 00:25:33,934
+A receita de Schnapps
+da família Regan.
+
+430
+00:25:33,935 --> 00:25:36,773
+É forte e um pouco doce,
+igual você.
+
+431
+00:25:36,774 --> 00:25:39,845
+Achei que precisaríamos,
+dadas as circunstâncias.
+
+432
+00:25:39,846 --> 00:25:42,927
+- Gostaria de um pouco?
+- Rory, ela tem 17 anos.
+
+433
+00:25:42,928 --> 00:25:45,549
+E daí? Meu pai me dava isso
+quando eu tinha 11 anos.
+
+434
+00:25:45,550 --> 00:25:48,483
+E olhe o maluco
+que você se tornou.
+
+435
+00:25:50,366 --> 00:25:53,074
+Se essa reunião é porque
+Oliver é um assassino,
+
+436
+00:25:53,075 --> 00:25:55,280
+tenho novidades:
+não é novidade.
+
+437
+00:25:55,281 --> 00:25:58,371
+Matar Damien Darhk
+e os homens de Church
+
+438
+00:25:58,372 --> 00:26:00,613
+é uma coisa,
+mas ter uma lista secreta...
+
+439
+00:26:00,614 --> 00:26:03,919
+Que ele nunca falou sobre,
+é algo completamente diferente.
+
+440
+00:26:03,920 --> 00:26:06,587
+O que não é diferente,
+é ele não contar as coisas.
+
+441
+00:26:06,588 --> 00:26:08,508
+Quanto à partilha
+de informações
+
+442
+00:26:08,509 --> 00:26:10,072
+parecem duas equipes
+diferentes?
+
+443
+00:26:10,073 --> 00:26:12,036
+E só piorou
+desde que Diggle voltou.
+
+444
+00:26:12,037 --> 00:26:14,048
+Se decidam.
+Estão irritados porque Oliver
+
+445
+00:26:14,049 --> 00:26:16,773
+matou pessoas ou porque
+ele não nos conta tudo?
+
+446
+00:26:16,774 --> 00:26:18,474
+Que tal os dois?
+
+447
+00:26:18,475 --> 00:26:21,675
+Estou irritada porque o homem,
+que só partilha a informação
+
+448
+00:26:21,676 --> 00:26:23,864
+com seus amigos,
+era um serial killer.
+
+449
+00:26:23,865 --> 00:26:26,339
+O que, de novo,
+ele não nos falou nada sobre.
+
+450
+00:26:28,314 --> 00:26:30,826
+Todos queremos acreditar
+na empreitada de Oliver,
+
+451
+00:26:30,827 --> 00:26:33,092
+mas como devemos
+segui-lo na batalha
+
+452
+00:26:33,093 --> 00:26:36,378
+quando ele esconde
+a verdade de nós?
+
+453
+00:26:36,379 --> 00:26:39,088
+Primeiro é:
+"Eu era um serial killer."
+
+454
+00:26:39,089 --> 00:26:41,177
+Qual será
+a revelação de amanhã?
+
+455
+00:26:43,145 --> 00:26:45,621
+Não sei como operar
+com isso em mente.
+
+456
+00:26:56,168 --> 00:26:58,593
+Não o via fazer isso
+há muito tempo.
+
+457
+00:26:58,594 --> 00:27:01,440
+Queria espairecer.
+
+458
+00:27:02,228 --> 00:27:04,754
+Acho que eles não fazem
+bolas de tênis para isso.
+
+459
+00:27:08,475 --> 00:27:10,789
+Como está a Felicity
+com a lista dos alvos?
+
+460
+00:27:10,790 --> 00:27:13,352
+Ela está trabalhando nisso.
+É uma cidade grande.
+
+461
+00:27:16,059 --> 00:27:20,049
+Algo me diz que não é
+a única coisa pesando em você.
+
+462
+00:27:20,050 --> 00:27:22,663
+- Como estão os recrutas?
+- Estão em um intervalo.
+
+463
+00:27:22,664 --> 00:27:25,554
+Eu esperava que ficassem
+desapontados comigo, tudo bem,
+
+464
+00:27:25,555 --> 00:27:28,265
+mas, John,
+eles pareciam horrorizados.
+
+465
+00:27:28,266 --> 00:27:30,526
+Eu não chamaria assim.
+Só um pouco surpresos.
+
+466
+00:27:30,527 --> 00:27:32,995
+Olhe pelo lado bom.
+Mostra o quanto você evoluiu.
+
+467
+00:27:32,996 --> 00:27:35,198
+Não vejo aquele homem
+há um bom tempo.
+
+468
+00:27:36,090 --> 00:27:38,088
+E pelo jeito
+que as crianças reagiram,
+
+469
+00:27:38,089 --> 00:27:40,232
+acho que prova
+o quanto você mudou.
+
+470
+00:27:40,233 --> 00:27:41,675
+Só que eu não mudei.
+
+471
+00:27:41,676 --> 00:27:45,696
+Eu matei Damien Darhk
+e não parei desde então.
+
+472
+00:27:50,026 --> 00:27:52,802
+Não esqueça
+com quem está falando.
+
+473
+00:27:52,803 --> 00:27:55,517
+Eu sei o que é
+ser um assassino.
+
+474
+00:27:56,655 --> 00:27:59,749
+Eu sei a diferença
+entre uma morte limpa
+
+475
+00:27:59,750 --> 00:28:03,036
+e uma feita de pura raiva.
+
+476
+00:28:05,167 --> 00:28:07,846
+Matou Damien Darhk, Oliver,
+porque teve que matar.
+
+477
+00:28:07,847 --> 00:28:10,806
+Matou os homens do Church
+porque teve que matar.
+
+478
+00:28:10,807 --> 00:28:12,425
+A lista foi algo diferente.
+
+479
+00:28:12,426 --> 00:28:15,472
+Você estava alvejando
+advogados, corretores.
+
+480
+00:28:15,473 --> 00:28:17,769
+Matava como primeiro recurso,
+não como último.
+
+481
+00:28:17,770 --> 00:28:22,633
+Prometheus está apenas
+trazendo isso à tona.
+
+482
+00:28:24,594 --> 00:28:29,111
+Eu quero avançar.
+Estou tentando, mas eu...
+
+483
+00:28:31,733 --> 00:28:33,288
+Sinto-me preso.
+
+484
+00:28:33,289 --> 00:28:35,892
+Acho que está sendo
+duro consigo, o que é irritante
+
+485
+00:28:35,893 --> 00:28:38,519
+porque geralmente
+é meu trabalho e da Felicity.
+
+486
+00:28:38,520 --> 00:28:41,625
+Mas, Oliver,
+nessa capacidade...
+
+487
+00:28:44,275 --> 00:28:47,802
+Eu acho que está avançando.
+Acho que está evoluindo.
+
+488
+00:28:47,803 --> 00:28:50,976
+- Acho que está crescendo.
+- Por que tem certeza?
+
+489
+00:28:50,977 --> 00:28:54,630
+Porque o homem com a lista
+não se perguntaria isso.
+
+490
+00:28:54,631 --> 00:28:57,137
+<i>Preciso da limpeza
+no corredor 12</i>
+
+491
+00:28:57,138 --> 00:29:00,331
+<i>e tenho uma lista
+de possíveis vítimas.</i>
+
+492
+00:29:04,884 --> 00:29:06,506
+Sei que estão
+chateados comigo,
+
+493
+00:29:06,507 --> 00:29:08,745
+então obrigado
+por aparecerem mesmo assim.
+
+494
+00:29:08,746 --> 00:29:11,489
+Estávamos com medo que nos
+matasse se não viéssemos.
+
+495
+00:29:11,490 --> 00:29:12,953
+Muito cedo?
+Provavelmente.
+
+496
+00:29:12,954 --> 00:29:15,283
+Cruzei a lista
+com o censo da cidade,
+
+497
+00:29:15,284 --> 00:29:18,542
+diminuindo para seis alvos.
+
+498
+00:29:18,543 --> 00:29:20,028
+Quem é o alvo dele?
+
+499
+00:29:20,029 --> 00:29:21,613
+Não sabemos.
+Para cobrir tudo,
+
+500
+00:29:21,614 --> 00:29:23,775
+vamos nos separar
+e cada um vai em um alvo.
+
+501
+00:29:23,776 --> 00:29:26,610
+Vigiaremos. Quem avistar
+Prometheus primeiro,
+
+502
+00:29:26,611 --> 00:29:28,299
+reporta e nos reunimos.
+
+503
+00:29:28,300 --> 00:29:29,898
+Legal.
+
+504
+00:29:34,227 --> 00:29:36,809
+- Está tudo bem?
+- Não, não está.
+
+505
+00:29:36,810 --> 00:29:39,947
+Por um bom tempo, te culpei
+pela morte dos meus pais.
+
+506
+00:29:39,948 --> 00:29:43,315
+Que você era o culpado
+por deixá-los sufocando
+
+507
+00:29:43,316 --> 00:29:45,452
+em uma das câmaras
+do Damien Darhk.
+
+508
+00:29:45,453 --> 00:29:47,484
+- Eu sei.
+- Dei muito de mim
+
+509
+00:29:47,485 --> 00:29:50,569
+para vir trabalhar com você.
+Saber disso tudo...
+
+510
+00:29:51,972 --> 00:29:54,086
+não deixa mais fácil.
+
+511
+00:29:54,087 --> 00:29:57,063
+Evelyn, tem certeza
+que deveria ir ao campo hoje?
+
+512
+00:29:57,064 --> 00:29:58,506
+Tenho.
+
+513
+00:29:58,507 --> 00:30:01,129
+Porque estou fazendo isso,
+protegendo pessoas,
+
+514
+00:30:01,130 --> 00:30:04,314
+por mim, não por você.
+
+515
+00:30:28,913 --> 00:30:31,048
+Tenho contato visual
+do alvo 4.
+
+516
+00:30:31,049 --> 00:30:34,084
+Entendido! Parece que temos
+um minuto sozinhas.
+
+517
+00:30:34,085 --> 00:30:37,207
+- Quer falar sobre algo?
+<i>- Não.</i>
+
+518
+00:30:37,208 --> 00:30:39,018
+Tem certeza?
+Sou especialista
+
+519
+00:30:39,019 --> 00:30:41,772
+em descobrir coisas ruins
+do passado do Oliver.
+
+520
+00:30:41,773 --> 00:30:44,241
+Acho que sou
+a especialista principal.
+
+521
+00:30:44,242 --> 00:30:45,660
+<i>- Observadora?</i>
+- Sim.
+
+522
+00:30:45,661 --> 00:30:47,679
+Realmente
+não quero falar sobre isso.
+
+523
+00:30:54,939 --> 00:30:56,339
+Nossa!
+
+524
+00:31:02,530 --> 00:31:04,030
+Afaste-se!
+
+525
+00:31:05,462 --> 00:31:06,873
+O que porra é isso?
+
+526
+00:31:06,874 --> 00:31:09,039
+Saia daqui!
+Ligue para a emergência!
+
+527
+00:31:09,476 --> 00:31:11,212
+Fique longe dele!
+
+528
+00:31:19,937 --> 00:31:21,402
+Fale.
+
+529
+00:31:21,403 --> 00:31:23,945
+Temos um problema.
+Perdi o contato com a Artemis.
+
+530
+00:31:23,946 --> 00:31:25,499
+<i>- Ela está em perigo?</i>
+- Não sei.
+
+531
+00:31:25,500 --> 00:31:27,411
+Se estivesse,
+não sei se ela contaria.
+
+532
+00:31:27,412 --> 00:31:29,854
+- Tem a localização dela?
+<i>- Depois do sequestro,</i>
+
+533
+00:31:29,855 --> 00:31:32,718
+<i>coloquei rastreadores neles.</i>
+Estou mandando a localização.
+
+534
+00:31:33,755 --> 00:31:36,744
+- Ela está se movendo.
+- Ela está em um metrô.
+
+535
+00:31:36,745 --> 00:31:38,978
+O metrô fica próximo daqui.
+Vou checá-la.
+
+536
+00:31:38,979 --> 00:31:41,276
+Diga para os outros
+aguardarem em posição.
+
+537
+00:31:58,946 --> 00:32:00,959
+Calma, cara.
+
+538
+00:32:00,960 --> 00:32:02,677
+Por favor!
+
+539
+00:32:14,079 --> 00:32:16,311
+- Você está bem?
+- Estou. O que foi isso?
+
+540
+00:32:16,312 --> 00:32:17,712
+Pare o trem.
+
+541
+00:32:21,234 --> 00:32:23,839
+- Você está bem?
+- Por pouco.
+
+542
+00:32:24,553 --> 00:32:26,052
+Prometheus.
+
+543
+00:32:26,053 --> 00:32:29,334
+Sumiu. Confrontar-me hoje,
+não estava em seus planos.
+
+544
+00:32:29,335 --> 00:32:31,129
+Nós temos um problema.
+
+545
+00:32:31,130 --> 00:32:33,322
+- Temos um grande problema.
+- O quê?
+
+546
+00:32:39,543 --> 00:32:41,687
+Não temos tempo
+para desarmar isso.
+
+547
+00:32:42,249 --> 00:32:44,156
+Vamos sair desse trem.
+Vamos!
+
+548
+00:32:44,157 --> 00:32:47,367
+Está brincando, certo?
+Não é hora para brincadeira.
+
+549
+00:32:47,368 --> 00:32:48,768
+Confie em mim.
+
+550
+00:33:18,823 --> 00:33:20,223
+Novinha em folha.
+
+551
+00:33:21,391 --> 00:33:23,808
+O que acontecerá
+com o cara do metrô?
+
+552
+00:33:23,809 --> 00:33:26,323
+Nesta manhã,
+o prefeito Queen o colocará
+
+553
+00:33:26,324 --> 00:33:28,150
+e outros 5 alvos
+do Prometheus,
+
+554
+00:33:28,151 --> 00:33:29,838
+na proteção a testemunhas.
+
+555
+00:33:29,839 --> 00:33:32,578
+Prometheus não achará
+outra forma de ir atrás de você?
+
+556
+00:33:32,579 --> 00:33:35,851
+Provavelmente. Quando acontecer,
+lidaremos com isso.
+
+557
+00:33:35,852 --> 00:33:39,039
+E prometo, você descobrirá
+quando eu descobrir.
+
+558
+00:33:43,060 --> 00:33:44,798
+Eu fui uma idiota.
+
+559
+00:33:47,705 --> 00:33:51,996
+- E sinto muito.
+- Evelyn.
+
+560
+00:33:54,661 --> 00:33:56,061
+Eu sinto muito.
+
+561
+00:33:57,221 --> 00:33:59,199
+Sinto muito por seus pais.
+
+562
+00:34:00,354 --> 00:34:03,059
+Sinto muito por não ser o homem
+que você achava,
+
+563
+00:34:04,490 --> 00:34:07,385
+mas John me lembrou,
+o que ele sempre faz,
+
+564
+00:34:08,566 --> 00:34:12,089
+que estou tentando ser
+aquele homem...
+
+565
+00:34:13,669 --> 00:34:18,076
+E devagarzinho,
+posso chegar lá.
+
+566
+00:34:20,090 --> 00:34:24,337
+Enquanto isso,
+apreciaria muito sua paciência.
+
+567
+00:34:24,338 --> 00:34:26,220
+Parece razoável para mim.
+
+568
+00:34:34,187 --> 00:34:35,833
+Quando eu era um garoto,
+
+569
+00:34:36,342 --> 00:34:39,191
+minha mãe me contou uma história
+sobre o avô dela.
+
+570
+00:34:40,205 --> 00:34:42,446
+Ela disse que ele plantou
+um nabo tão grande,
+
+571
+00:34:42,447 --> 00:34:44,747
+que ele não conseguia
+tirar sozinho.
+
+572
+00:34:46,030 --> 00:34:49,697
+Então ele pediu ajuda à esposa.
+Mesmo assim, não conseguiram.
+
+573
+00:34:50,253 --> 00:34:55,109
+Pediu ao meu tio, minha tia,
+todo mundo para ajudar.
+
+574
+00:34:55,110 --> 00:34:58,529
+E, novamente,
+não conseguiram tirá-lo do chão.
+
+575
+00:34:59,986 --> 00:35:01,476
+E eu disse:
+
+576
+00:35:03,009 --> 00:35:04,767
+"Mamãe, mamãe,
+
+577
+00:35:05,789 --> 00:35:08,391
+ele conseguiu tirar o nabo?"
+
+578
+00:35:09,476 --> 00:35:11,107
+E ela disse que sim,
+
+579
+00:35:11,901 --> 00:35:16,896
+mas só após chamar
+todos na vila,
+
+580
+00:35:16,897 --> 00:35:19,841
+cada homem, mulher, criança,
+
+581
+00:35:19,842 --> 00:35:23,571
+cada fazendeiro, vagabundo,
+
+582
+00:35:24,128 --> 00:35:28,041
+até cada animal,
+cachorros, gatos,
+
+583
+00:35:29,327 --> 00:35:32,754
+e, finalmente, juntos,
+
+584
+00:35:35,073 --> 00:35:38,077
+eles conseguiram.
+
+585
+00:35:39,118 --> 00:35:41,479
+Sua história tem uma moral?
+
+586
+00:35:42,783 --> 00:35:44,183
+Tem.
+
+587
+00:35:44,930 --> 00:35:49,901
+Sem unidade,
+não conseguimos nada na vida.
+
+588
+00:35:50,331 --> 00:35:53,611
+E, ao envelhecer,
+percebi algo a mais,
+
+589
+00:35:54,422 --> 00:35:58,914
+A escória não consegue
+sem ajuda.
+
+590
+00:36:00,235 --> 00:36:01,766
+De que a Bratva
+
+591
+00:36:01,767 --> 00:36:04,708
+pode puxar o nabo
+o quanto quiser,
+
+592
+00:36:04,709 --> 00:36:07,639
+mas que jamais,
+
+593
+00:36:08,763 --> 00:36:12,696
+jamais conseguirá soltá-lo.
+
+594
+00:36:15,776 --> 00:36:18,224
+E outra coisa.
+
+595
+00:36:21,356 --> 00:36:23,390
+Não se torne um fazendeiro.
+
+596
+00:36:33,780 --> 00:36:38,133
+Olá, Oliver Queen.
+
+597
+00:36:40,359 --> 00:36:42,873
+Meu nome é Konstantin Kovar.
+
+598
+00:36:47,207 --> 00:36:49,392
+Estava ansioso
+para conhecê-lo.
+
+599
+00:37:00,253 --> 00:37:01,723
+Olá.
+
+600
+00:37:01,724 --> 00:37:04,836
+A qual crime ou criminoso
+devo o prazer de sua visita?
+
+601
+00:37:04,837 --> 00:37:06,721
+Eu mereço isso.
+
+602
+00:37:06,722 --> 00:37:09,930
+Podemos conversar
+em um lugar mais reservado?
+
+603
+00:37:09,931 --> 00:37:12,030
+Vamos ao meu escritório.
+
+604
+00:37:15,418 --> 00:37:18,269
+A sala de interrogatório.
+Bem apropriado.
+
+605
+00:37:18,270 --> 00:37:20,818
+Felicity, eu só estava
+enchendo seu saco.
+
+606
+00:37:20,819 --> 00:37:23,018
+Quando estiver pronta
+para contar
+
+607
+00:37:23,019 --> 00:37:26,584
+o que está acontecendo,
+você me contará.
+
+608
+00:37:26,585 --> 00:37:28,327
+Vou contar agora.
+
+609
+00:37:29,381 --> 00:37:31,421
+Eu tenho esse amigo.
+
+610
+00:37:32,314 --> 00:37:36,786
+Mais uma vez,
+vi ele esconder
+
+611
+00:37:36,787 --> 00:37:39,617
+das pessoas mais próximas a ele
+o que está acontecendo.
+
+612
+00:37:40,843 --> 00:37:42,650
+Eu não quero ser assim.
+
+613
+00:37:42,651 --> 00:37:44,669
+Não quero que você
+seja assim.
+
+614
+00:37:46,145 --> 00:37:48,591
+Então o que é?
+Você é uma serial killer?
+
+615
+00:37:48,592 --> 00:37:51,170
+A assassina da estrela ninja?
+Fã de crimes?
+
+616
+00:37:51,171 --> 00:37:53,714
+Estou imaginando
+um milhão de coisas...
+
+617
+00:37:53,715 --> 00:37:55,655
+Eu trabalho
+para o Arqueiro Verde.
+
+618
+00:38:00,673 --> 00:38:02,314
+Não imaginei isso.
+
+619
+00:38:02,315 --> 00:38:04,050
+Por isso trabalho até tarde,
+
+620
+00:38:04,051 --> 00:38:07,389
+desapareço do nada
+e vivo te pedindo favores.
+
+621
+00:38:07,390 --> 00:38:10,866
+Se não percebeu, por isso roubei
+evidência da sua mesa.
+
+622
+00:38:10,867 --> 00:38:12,400
+Procurei por toda parte.
+
+623
+00:38:12,401 --> 00:38:14,341
+Eu sei que agir
+como uma criminosa
+
+624
+00:38:14,342 --> 00:38:16,330
+não é bom
+para nosso relacionamento.
+
+625
+00:38:16,331 --> 00:38:18,284
+Você não age
+como uma criminosa,
+
+626
+00:38:18,285 --> 00:38:19,775
+você é uma.
+
+627
+00:38:26,783 --> 00:38:29,465
+Mas por uma boa causa.
+
+628
+00:38:29,466 --> 00:38:31,163
+Sério?
+
+629
+00:38:31,164 --> 00:38:33,485
+Você não se sente
+bravo, magoado,
+
+630
+00:38:33,486 --> 00:38:35,258
+ou sentindo falta
+de confiança?
+
+631
+00:38:35,259 --> 00:38:36,888
+Isso faria de mim um idiota.
+
+632
+00:38:36,889 --> 00:38:41,678
+E, Felicity, você está ajudando
+a salvar a cidade.
+
+633
+00:38:42,482 --> 00:38:44,348
+Isso foi melhor
+do que eu esperava.
+
+634
+00:38:44,349 --> 00:38:46,084
+Mas tenho tantas perguntas.
+
+635
+00:38:46,085 --> 00:38:47,750
+Você sabe onde ele mora?
+
+636
+00:38:47,751 --> 00:38:49,942
+O rosto dele
+é cheio de cicatrizes?
+
+637
+00:38:49,943 --> 00:38:52,066
+- Por isso usa o capuz?
+- Billy,
+
+638
+00:38:52,698 --> 00:38:54,183
+fique quieto.
+
+639
+00:38:55,026 --> 00:38:56,525
+Sim, senhora.
+
+640
+00:39:02,839 --> 00:39:04,476
+Obrigado por organizar isso.
+
+641
+00:39:04,477 --> 00:39:06,059
+Não posso tomar
+todo o crédito.
+
+642
+00:39:06,060 --> 00:39:07,607
+O Lance
+conseguiu esse lugar.
+
+643
+00:39:07,608 --> 00:39:09,566
+Ele não deveria estar aqui?
+
+644
+00:39:09,567 --> 00:39:13,090
+Sim, mas ele está gripado,
+
+645
+00:39:13,091 --> 00:39:15,204
+então decidiu não vir.
+
+646
+00:39:16,427 --> 00:39:19,030
+Olha, a minha chefe de gabinete
+favorita.
+
+647
+00:39:19,031 --> 00:39:22,072
+- Como vai?
+- Ainda não estou interessada.
+
+648
+00:39:24,509 --> 00:39:26,146
+Tudo bem, cara.
+
+649
+00:39:26,147 --> 00:39:29,577
+Ninguém te viu
+levar um fora.
+
+650
+00:39:30,890 --> 00:39:32,781
+Sabe, porque nós te vimos
+levar um...
+
+651
+00:39:32,782 --> 00:39:35,449
+- Está tudo ótimo, prefeito.
+- Obrigado, Curtis.
+
+652
+00:39:35,450 --> 00:39:39,012
+Não lembro da última vez
+que assisti um show ou dancei.
+
+653
+00:39:39,013 --> 00:39:40,631
+Ou sorriu, aparentemente.
+
+654
+00:39:40,632 --> 00:39:42,200
+- Tudo bem.
+- Vamos, Rory.
+
+655
+00:39:42,201 --> 00:39:43,770
+É só nos acompanhar.
+
+656
+00:39:47,693 --> 00:39:49,491
+Podemos conversar
+em particular?
+
+657
+00:39:49,492 --> 00:39:52,420
+Claro. Precisamos
+de um segundo, pessoal.
+
+658
+00:39:53,558 --> 00:39:55,681
+- O que foi?
+- Lembra da estrela
+
+659
+00:39:55,682 --> 00:39:58,231
+que roubei do meu namorado,
+Malone?
+
+660
+00:39:58,232 --> 00:40:00,546
+- Lembra?
+- Disse que não deu em nada.
+
+661
+00:40:00,547 --> 00:40:01,974
+Eu disse "ainda".
+
+662
+00:40:01,975 --> 00:40:03,878
+Tudo bem.
+E agora?
+
+663
+00:40:03,879 --> 00:40:05,688
+A liga é bem específica,
+
+664
+00:40:05,689 --> 00:40:08,267
+com grandes quantidades
+de marcadores genéticos.
+
+665
+00:40:08,268 --> 00:40:12,000
+Rastreei a evidência
+até os últimos quatro anos.
+
+666
+00:40:12,001 --> 00:40:14,113
+- O que está dizendo?
+- Vai parecer maluco,
+
+667
+00:40:14,114 --> 00:40:15,519
+assim como Prometheus.
+
+668
+00:40:15,520 --> 00:40:19,295
+Ele conseguiu as flechas que
+você usou nos últimos 4 anos,
+
+669
+00:40:19,296 --> 00:40:21,493
+as derreteu
+e fez armas com elas.
+
+670
+00:40:28,135 --> 00:40:30,123
+Mas, se isso for verdade,
+significa...
+
+671
+00:40:30,124 --> 00:40:34,044
+Que o Prometheus tem acesso
+à sala de evidências da polícia.
+
+672
+00:40:37,695 --> 00:40:40,702
+Oliver, temos uma pista
+de quem Prometheus é.
+
+673
+00:40:45,108 --> 00:40:47,376
+Ele é membro da polícia.
+
+674
+00:40:52,250 --> 00:40:54,881
+insubs.com
+
