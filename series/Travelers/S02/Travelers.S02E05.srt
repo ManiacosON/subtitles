@@ -1,0 +1,2888 @@
+1
+00:00:06,256 --> 00:00:08,717
+UMA SÉRIE ORIGINAL NETFLIX
+
+2
+00:00:12,304 --> 00:00:13,680
+Viajante 3326.
+
+3
+00:00:14,806 --> 00:00:18,810
+Abra a cadeia de memória 71985VX.
+
+4
+00:00:20,604 --> 00:00:21,897
+Escreva.
+
+5
+00:00:47,589 --> 00:00:49,716
+VETOR I, VETOR II
+
+6
+00:00:54,429 --> 00:00:55,639
+Isso é tudo?
+
+7
+00:00:58,058 --> 00:00:59,768
+Philip, isso é tudo?
+
+8
+00:01:00,352 --> 00:01:01,728
+Sem erros?
+
+9
+00:01:03,230 --> 00:01:04,231
+Sim.
+
+10
+00:01:04,856 --> 00:01:05,857
+Está bom?
+
+11
+00:01:07,025 --> 00:01:08,402
+Está ótimo, licença.
+
+12
+00:01:17,578 --> 00:01:18,620
+Como você entrou?
+
+13
+00:01:19,037 --> 00:01:21,081
+-A menina, Chloe.
+-Eu ia te enviar.
+
+14
+00:01:21,540 --> 00:01:24,293
+Eu tinha que ver algo assim pessoalmente.
+
+15
+00:01:24,751 --> 00:01:27,629
+Vai ser difícil reproduzir
+os estereoisômeros.
+
+16
+00:01:27,713 --> 00:01:29,589
+Teremos que fazer em lotes.
+
+17
+00:01:29,673 --> 00:01:30,507
+Vamos embora.
+
+18
+00:01:31,300 --> 00:01:32,134
+Certo.
+
+19
+00:01:32,217 --> 00:01:33,593
+Bom trabalho, Philip.
+
+20
+00:01:50,319 --> 00:01:51,862
+Nossa.
+
+21
+00:01:54,573 --> 00:01:56,199
+O que fizemos ontem à noite?
+
+22
+00:01:56,783 --> 00:01:58,285
+Nós íamos para sua casa.
+
+23
+00:01:59,161 --> 00:02:00,120
+Nós fomos.
+
+24
+00:02:01,371 --> 00:02:02,873
+Fomos?
+
+25
+00:02:06,918 --> 00:02:08,295
+Isso é estranho.
+
+26
+00:02:09,046 --> 00:02:10,589
+Você exagerou no colírio.
+
+27
+00:02:12,883 --> 00:02:14,926
+A sensação está diferente.
+
+28
+00:02:16,053 --> 00:02:17,137
+Vai passar.
+
+29
+00:02:18,430 --> 00:02:19,681
+Precisamos conversar.
+
+30
+00:02:21,058 --> 00:02:22,184
+Isso tem que acabar.
+
+31
+00:02:22,267 --> 00:02:23,310
+O quê?
+
+32
+00:02:24,144 --> 00:02:25,979
+Isso. Nós.
+
+33
+00:02:29,274 --> 00:02:30,108
+O quê?
+
+34
+00:02:30,609 --> 00:02:32,277
+Recebi uma missão.
+
+35
+00:02:33,111 --> 00:02:34,404
+Que missão?
+
+36
+00:02:34,488 --> 00:02:37,032
+Sinto muito, Philip. Acontece.
+
+37
+00:02:38,992 --> 00:02:40,077
+Então, adeus?
+
+38
+00:02:41,161 --> 00:02:42,829
+Nunca mais nos vemos?
+
+39
+00:02:45,666 --> 00:02:47,042
+Tínhamos uma conexão.
+
+40
+00:02:47,668 --> 00:02:49,753
+Claro. Sou sua conexão.
+
+41
+00:02:51,004 --> 00:02:52,422
+Não foi o que eu disse.
+
+42
+00:02:55,342 --> 00:02:58,553
+Deve durar alguns meses,
+se usar do jeito certo.
+
+43
+00:03:03,683 --> 00:03:04,810
+Jenny!
+
+44
+00:03:05,435 --> 00:03:06,603
+Jenny!
+
+45
+00:03:27,958 --> 00:03:29,668
+Está quase acabando.
+
+46
+00:03:30,377 --> 00:03:32,003
+Está com 38,1 ºC.
+
+47
+00:03:33,130 --> 00:03:34,881
+É alta, mas dá para tratar.
+
+48
+00:03:35,340 --> 00:03:37,551
+Eu sei.
+
+49
+00:03:38,176 --> 00:03:41,221
+Então alterne entre estes dois,
+
+50
+00:03:41,304 --> 00:03:43,223
+paracetamol e ibuprofeno.
+
+51
+00:03:43,306 --> 00:03:47,018
+Deve baixar a febre
+e controlar quaisquer dores.
+
+52
+00:03:47,102 --> 00:03:48,270
+Só isso?
+
+53
+00:03:48,353 --> 00:03:50,439
+Só. Deve melhorar em alguns dias.
+
+54
+00:03:52,482 --> 00:03:53,942
+Você ouviu, bebê?
+
+55
+00:03:54,025 --> 00:03:56,236
+Tia Marcy disse que você vai ficar bem.
+
+56
+00:03:57,946 --> 00:03:58,989
+Aceita um café?
+
+57
+00:03:59,072 --> 00:04:00,198
+Claro.
+
+58
+00:04:00,782 --> 00:04:03,034
+Certo, só vou colocá-lo na cama.
+
+59
+00:04:32,397 --> 00:04:33,482
+Philip.
+
+60
+00:04:36,777 --> 00:04:38,069
+Você anda calado.
+
+61
+00:04:39,112 --> 00:04:40,739
+Não tenho muito a dizer.
+
+62
+00:04:41,782 --> 00:04:45,285
+Para algumas pessoas,
+falar pode ser terapêutico.
+
+63
+00:04:45,994 --> 00:04:47,204
+Faz duas semanas.
+
+64
+00:04:48,413 --> 00:04:50,957
+Você sabe que, para mim,
+não faz diferença.
+
+65
+00:04:51,541 --> 00:04:53,710
+Eu me lembro de tudo o tempo todo.
+
+66
+00:04:53,794 --> 00:04:55,462
+Beleza, bom papo.
+
+67
+00:04:58,840 --> 00:05:01,259
+-Quem é?
+-Viajante 0115.
+
+68
+00:05:01,760 --> 00:05:02,928
+Viajante 3326.
+
+69
+00:05:04,846 --> 00:05:06,431
+Temos ordens para vir aqui.
+
+70
+00:05:06,515 --> 00:05:07,557
+Deve ser Graham.
+
+71
+00:05:08,308 --> 00:05:09,476
+Sim, entrem.
+
+72
+00:05:13,021 --> 00:05:15,232
+Estão com fome? Fiz sopa.
+
+73
+00:05:15,315 --> 00:05:16,316
+Não, obrigado.
+
+74
+00:05:16,399 --> 00:05:17,567
+O cheiro está bom.
+
+75
+00:05:18,276 --> 00:05:19,736
+Casa bacana.
+
+76
+00:05:19,820 --> 00:05:22,989
+É temporária.
+Fazemos entregas por todo o estado.
+
+77
+00:05:23,073 --> 00:05:24,199
+Missão longa.
+
+78
+00:05:24,282 --> 00:05:27,369
+Está sendo mais longa que o esperado.
+
+79
+00:05:27,452 --> 00:05:29,120
+Mas não estou reclamando.
+
+80
+00:05:29,204 --> 00:05:30,789
+Pude ver três águias.
+
+81
+00:05:31,289 --> 00:05:32,874
+Espero que acabem em breve.
+
+82
+00:05:32,958 --> 00:05:35,043
+Sua equipe é uma das últimas.
+
+83
+00:05:38,380 --> 00:05:39,422
+Perdão.
+
+84
+00:05:40,257 --> 00:05:41,174
+Aqui está.
+
+85
+00:05:50,392 --> 00:05:51,643
+Que casal simpático.
+
+86
+00:05:56,147 --> 00:05:58,692
+Obrigada por vir ver como ele está.
+
+87
+00:05:58,775 --> 00:06:00,402
+Eu devia parecer uma maluca.
+
+88
+00:06:00,485 --> 00:06:02,112
+Você não parecia maluca.
+
+89
+00:06:02,195 --> 00:06:05,073
+Foi um instinto materno natural.
+
+90
+00:06:07,200 --> 00:06:08,702
+Não sei se é natural.
+
+91
+00:06:08,785 --> 00:06:10,620
+Eu não sou a mãe dele.
+
+92
+00:06:10,704 --> 00:06:11,830
+Sim, você é.
+
+93
+00:06:12,497 --> 00:06:14,291
+Nos sentidos que importam.
+
+94
+00:06:15,417 --> 00:06:17,043
+Vocês criaram um laço.
+
+95
+00:06:18,044 --> 00:06:20,714
+Quem diria que ia acontecer justo comigo?
+
+96
+00:06:20,797 --> 00:06:22,048
+Com uma soldado?
+
+97
+00:06:23,383 --> 00:06:24,718
+Você pode ter mudado.
+
+98
+00:06:25,427 --> 00:06:26,761
+Talvez todos nós.
+
+99
+00:06:27,762 --> 00:06:31,850
+Eu preciso acreditar que somos mais
+do que apenas a consciência.
+
+100
+00:06:32,392 --> 00:06:34,311
+Pelo menos a com que viemos.
+
+101
+00:06:34,936 --> 00:06:36,396
+Talvez isso seja...
+
+102
+00:06:37,022 --> 00:06:38,648
+a melhor parte de nós.
+
+103
+00:06:38,732 --> 00:06:40,400
+É engraçado você dizer isso.
+
+104
+00:06:40,859 --> 00:06:42,277
+Na noite em que você
+
+105
+00:06:45,864 --> 00:06:46,781
+O quê?
+
+106
+00:06:49,284 --> 00:06:50,702
+Em que fui resetada?
+
+107
+00:06:51,786 --> 00:06:52,912
+O que eu disse?
+
+108
+00:06:55,624 --> 00:06:56,750
+Mac não te contou.
+
+109
+00:06:56,833 --> 00:06:59,044
+Disse que era o único jeito de me salvar.
+
+110
+00:06:59,878 --> 00:07:00,962
+E era.
+
+111
+00:07:01,880 --> 00:07:04,549
+Então eu não tinha escolha.
+
+112
+00:07:07,385 --> 00:07:08,345
+Para você, tinha.
+
+113
+00:07:09,179 --> 00:07:11,348
+E o que isso significa?
+
+114
+00:07:15,477 --> 00:07:17,896
+-Eu não devia ter dito nada.
+-Não, Carly
+
+115
+00:07:20,023 --> 00:07:22,275
+Não sabíamos que seria tão rápido.
+
+116
+00:07:24,110 --> 00:07:26,529
+Quer dizer que foi contra minha vontade?
+
+117
+00:07:27,155 --> 00:07:28,239
+Eu não sei.
+
+118
+00:07:29,741 --> 00:07:31,201
+Achamos que teria tempo.
+
+119
+00:07:31,952 --> 00:07:32,786
+Você também.
+
+120
+00:07:33,411 --> 00:07:37,457
+Você disse que queria ir para casa
+pensar um pouco.
+
+121
+00:07:38,833 --> 00:07:41,586
+No que eu poderia querer pensar?
+
+122
+00:07:41,670 --> 00:07:42,796
+Eu ia morrer.
+
+123
+00:07:43,338 --> 00:07:44,422
+Eu sei.
+
+124
+00:07:45,006 --> 00:07:46,549
+Foi o que eu disse.
+
+125
+00:07:47,884 --> 00:07:49,594
+Mas agora comecei a entender.
+
+126
+00:08:00,689 --> 00:08:02,649
+É exatamente como da última vez.
+
+127
+00:08:02,732 --> 00:08:03,775
+Kat.
+
+128
+00:08:05,068 --> 00:08:08,154
+Você toma os remédios
+e segue as recomendações.
+
+129
+00:08:08,238 --> 00:08:10,615
+-Vai ficar tudo bem.
+-Não diga isso.
+
+130
+00:08:14,536 --> 00:08:17,831
+Perdão, tivemos um problema
+com a impressora.
+
+131
+00:08:18,999 --> 00:08:20,166
+Como estamos?
+
+132
+00:08:23,336 --> 00:08:29,009
+Kathryn, o último ultrassom
+ele está muito bom.
+
+133
+00:08:29,092 --> 00:08:32,887
+A mancha escura sumiu,
+o que significa que não era nada
+
+134
+00:08:32,971 --> 00:08:35,140
+ou só um problema na imagem.
+
+135
+00:08:36,224 --> 00:08:37,517
+Vocês estão bem.
+
+136
+00:08:41,688 --> 00:08:42,731
+Desculpe-me.
+
+137
+00:08:46,443 --> 00:08:48,403
+-Obrigada.
+-De nada.
+
+138
+00:08:48,486 --> 00:08:51,031
+Continue com alimentos ricos em cálcio
+
+139
+00:08:51,114 --> 00:08:53,033
+-e o ácido fólico, e
+-Certo.
+
+140
+00:08:53,116 --> 00:08:54,451
+...nos vemos em breve.
+
+141
+00:08:54,951 --> 00:08:56,327
+-Tudo bem.
+-Obrigado.
+
+142
+00:08:57,120 --> 00:08:57,954
+Certo.
+
+143
+00:08:59,956 --> 00:09:00,957
+Obrigada.
+
+144
+00:09:18,892 --> 00:09:21,227
+-O que tinha no pacote?
+-Um antiviral.
+
+145
+00:09:22,062 --> 00:09:24,773
+Haverá uma pequena epidemia
+mundial de gripe
+
+146
+00:09:24,856 --> 00:09:26,733
+que matará 70 mil pessoas.
+
+147
+00:09:26,816 --> 00:09:28,318
+Não me parece pequena.
+
+148
+00:09:28,401 --> 00:09:31,613
+Percentualmente, é.
+Considerando bilhões de pessoas.
+
+149
+00:09:31,696 --> 00:09:34,741
+Em meses, uma mudança antigênica
+causará uma mutação
+
+150
+00:09:34,824 --> 00:09:36,493
+e mais gente será infectada.
+
+151
+00:09:36,576 --> 00:09:39,412
+Por fim, o CDC e a OMS vão intervir.
+
+152
+00:09:39,871 --> 00:09:43,083
+Por isso forneceram um antiviral
+de amplo espectro.
+
+153
+00:09:43,166 --> 00:09:45,877
+Ele vai inibir todas as mutações.
+
+154
+00:09:45,960 --> 00:09:49,589
+A missão é salvar três das pessoas
+que não sobreviveriam.
+
+155
+00:09:49,672 --> 00:09:51,299
+Tem mais?
+
+156
+00:09:51,382 --> 00:09:53,426
+Jeffrey já passou pelo pior.
+
+157
+00:09:53,510 --> 00:09:55,136
+Você precisa se proteger.
+
+158
+00:09:56,137 --> 00:09:58,389
+Não tinha uma versão em comprimido?
+
+159
+00:09:58,473 --> 00:09:59,974
+Esses são os candidatos?
+
+160
+00:10:00,058 --> 00:10:03,061
+Jordan Lam, Annie Kapoor
+e Brittney Palmer.
+
+161
+00:10:04,354 --> 00:10:07,440
+Personal trainer,
+comissária de bordo e blogueira.
+
+162
+00:10:07,524 --> 00:10:09,317
+Então eles espalharam o vírus.
+
+163
+00:10:09,818 --> 00:10:11,778
+Vamos impedir que isso aconteça.
+
+164
+00:10:17,700 --> 00:10:21,329
+XANGAI, CHINA
+
+165
+00:10:43,476 --> 00:10:45,228
+Vai fazer a aula toda?
+
+166
+00:10:46,187 --> 00:10:48,565
+Estou à espera do momento certo.
+
+167
+00:10:51,568 --> 00:10:52,652
+-Olá, Brittney.
+-Oi.
+
+168
+00:10:52,735 --> 00:10:54,863
+-Vou aplicar as vacinas.
+-Certo.
+
+169
+00:10:54,946 --> 00:10:56,114
+Pode se sentar.
+
+170
+00:10:59,742 --> 00:11:03,872
+BERLIM, ALEMANHA
+
+171
+00:11:17,677 --> 00:11:19,804
+Concentre-se nos oblíquos.
+
+172
+00:11:23,850 --> 00:11:25,226
+Força.
+
+173
+00:11:54,255 --> 00:11:55,381
+Pronto.
+
+174
+00:11:55,465 --> 00:11:56,424
+Curta a Europa.
+
+175
+00:11:57,008 --> 00:11:58,092
+Obrigada.
+
+176
+00:12:05,058 --> 00:12:06,893
+A minha asma.
+
+177
+00:12:13,107 --> 00:12:15,068
+MISSÃO CONCLUÍDA.
+
+178
+00:12:35,004 --> 00:12:37,048
+Ai! Uma abelha me picou.
+
+179
+00:12:37,131 --> 00:12:38,675
+Eu também, acho.
+
+180
+00:12:39,300 --> 00:12:41,719
+-Você é alérgica?
+-Não.
+
+181
+00:12:41,803 --> 00:12:42,762
+Que bom.
+
+182
+00:12:43,680 --> 00:12:48,601
+STATUS DO VIAJANTE 3468:
+MISSÃO CONCLUÍDA.
+
+183
+00:12:48,685 --> 00:12:52,480
+<i>As autoridades aconselham a população
+a evitar aglomerações,</i>
+
+184
+00:12:52,563 --> 00:12:55,400
+<i>com o aumento de casos
+de uma gripe desconhecida</i>
+
+185
+00:12:55,483 --> 00:12:58,695
+<i>que parece se espalhar rapidamente
+pelo país.</i>
+
+186
+00:12:58,778 --> 00:13:03,449
+<i>A Organização Mundial da Saúde
+descreve a condição como influenza atípica</i>
+
+187
+00:13:03,533 --> 00:13:06,369
+<i> e confirma cinco casos...</i>
+
+188
+00:13:06,452 --> 00:13:07,286
+Começou.
+
+189
+00:13:08,746 --> 00:13:10,415
+Bom trabalho, pessoal.
+
+190
+00:13:11,082 --> 00:13:13,001
+Protocolo 5, por ora.
+
+191
+00:13:13,084 --> 00:13:16,838
+<i>Lavar as mãos é a forma mais eficaz
+de prevenir o contágio.</i>
+
+192
+00:13:20,967 --> 00:13:22,135
+Devemos conversar.
+
+193
+00:13:23,302 --> 00:13:24,137
+Olá, Srta. Day.
+
+194
+00:13:24,220 --> 00:13:26,222
+Quando teve notícias do Diretor?
+
+195
+00:13:26,305 --> 00:13:28,516
+-O diretor da escola?
+-Como assim?
+
+196
+00:13:28,599 --> 00:13:30,143
+Está preocupado com eles?
+
+197
+00:13:30,226 --> 00:13:32,645
+Não tem nada nas cabecinhas deles.
+
+198
+00:13:32,729 --> 00:13:34,647
+Eles estão mais preocupados com
+
+199
+00:13:34,731 --> 00:13:36,649
+amizades fúteis e gente pelada.
+
+200
+00:13:38,192 --> 00:13:41,779
+-O que você quer?
+-Teve notícias do Diretor?
+
+201
+00:13:41,863 --> 00:13:43,448
+Sim, tivemos missões.
+
+202
+00:13:45,283 --> 00:13:47,076
+E por que não tive notícias?
+
+203
+00:13:47,160 --> 00:13:49,871
+Pode ser porque você veio para cá
+sem permissão
+
+204
+00:13:49,954 --> 00:13:51,873
+ou porque não tem uma equipe.
+
+205
+00:13:52,373 --> 00:13:55,126
+Posso ser sua especialista
+em computadores.
+
+206
+00:13:55,209 --> 00:13:56,502
+Nós já temos um.
+
+207
+00:13:56,586 --> 00:13:58,463
+Posso ser muito mais competente.
+
+208
+00:13:58,546 --> 00:14:01,758
+-Não funciona assim.
+-Mas deveria. Estou entediada.
+
+209
+00:14:03,176 --> 00:14:04,510
+Vai comer isso?
+
+210
+00:14:05,511 --> 00:14:06,679
+Uau.
+
+211
+00:14:10,516 --> 00:14:11,809
+Frango falso.
+
+212
+00:14:19,859 --> 00:14:22,445
+Viu meu casaco do uniforme?
+
+213
+00:14:22,528 --> 00:14:24,364
+Você ia levar o Jeffrey, hoje.
+
+214
+00:14:25,073 --> 00:14:27,575
+Mas eu acabei de ser chamado.
+Uma gripe se espalhou.
+
+215
+00:14:28,034 --> 00:14:29,077
+E daí?
+
+216
+00:14:30,244 --> 00:14:31,788
+E daí que vou trabalhar.
+
+217
+00:14:34,957 --> 00:14:36,042
+O que eu disse?
+
+218
+00:14:36,834 --> 00:14:38,419
+É o que você não disse.
+
+219
+00:14:40,838 --> 00:14:43,716
+Carly, sei que era
+para eu levar o Jeffrey,
+
+220
+00:14:43,800 --> 00:14:45,885
+mas não vai dar. Pode ajudar?
+
+221
+00:14:46,260 --> 00:14:48,137
+Por que preciso dizer isso?
+
+222
+00:14:48,221 --> 00:14:49,764
+Você é a mãe dele.
+
+223
+00:14:49,847 --> 00:14:51,182
+E você é o pai dele.
+
+224
+00:14:51,974 --> 00:14:55,061
+Nós íamos fazer isso juntos.
+Em parceria. Lembra?
+
+225
+00:14:59,899 --> 00:15:04,987
+Carly Shannon, por favor,
+pode me ajudar levando nosso filho
+
+226
+00:15:05,071 --> 00:15:08,658
+à casa da babá, para que eu vá trabalhar
+como um policial mal pago
+
+227
+00:15:08,741 --> 00:15:11,702
+e sem o devido reconhecimento
+por mais um dia?
+
+228
+00:15:15,748 --> 00:15:16,707
+Tudo bem.
+
+229
+00:15:17,250 --> 00:15:19,168
+Mas você busca o resto da semana.
+
+230
+00:15:19,252 --> 00:15:20,503
+Sem problemas.
+
+231
+00:15:21,295 --> 00:15:23,548
+E seu casaco está no gancho da porta.
+
+232
+00:15:24,590 --> 00:15:25,758
+Obrigado.
+
+233
+00:15:26,968 --> 00:15:28,219
+Até mais, moleque.
+
+234
+00:15:28,803 --> 00:15:30,596
+Até a noite.
+
+235
+00:15:35,017 --> 00:15:36,561
+Quer o seu patinho?
+
+236
+00:15:38,479 --> 00:15:40,106
+Quer sim.
+
+237
+00:15:42,650 --> 00:15:44,152
+Aonde vai levar?
+
+238
+00:16:09,177 --> 00:16:10,636
+<i>-Alô?
+-Viajante 3185. </i>
+
+239
+00:16:10,720 --> 00:16:12,305
+<i>Sua equipe tomou o antiviral?</i>
+
+240
+00:16:12,388 --> 00:16:13,514
+<i>-Sim.
+-Então abra.</i>
+
+241
+00:16:29,447 --> 00:16:30,615
+Cadê a Marcy?
+
+242
+00:17:11,155 --> 00:17:12,615
+<i>Aqui é o David Mailer.</i>
+
+243
+00:17:12,698 --> 00:17:13,908
+<i>Deixe uma mensagem.</i>
+
+244
+00:17:14,825 --> 00:17:16,452
+Oi, David.
+
+245
+00:17:16,536 --> 00:17:17,912
+Aqui é a Marcy.
+
+246
+00:17:18,621 --> 00:17:21,916
+Queria saber se está a fim de sair
+para conversar.
+
+247
+00:17:21,999 --> 00:17:23,668
+<i>Marcy, você está aí?</i>
+
+248
+00:17:23,751 --> 00:17:27,755
+Então, se estiver a fim, é só me ligar.
+
+249
+00:17:28,214 --> 00:17:29,173
+Tchau.
+
+250
+00:17:30,091 --> 00:17:31,050
+<i>Marcy.</i>
+
+251
+00:17:33,928 --> 00:17:35,596
+Oi, Philip. Pode falar.
+
+252
+00:17:35,680 --> 00:17:38,474
+<i>Venha para a base.
+Boyd trouxe alguém da equipe.</i>
+
+253
+00:17:38,849 --> 00:17:39,976
+O que houve?
+
+254
+00:17:40,685 --> 00:17:43,437
+<i>Ela disse que é um tipo de infecção viral.</i>
+
+255
+00:17:43,813 --> 00:17:46,691
+<i>As atenções estão voltadas
+para uma nova gripe</i>
+
+256
+00:17:46,774 --> 00:17:50,027
+<i>que infectou diversas pessoas
+nos últimos dias.</i>
+
+257
+00:17:50,111 --> 00:17:52,196
+<i>Não se sabe muito sobre o vírus...</i>
+
+258
+00:17:52,280 --> 00:17:53,406
+Sargento.
+
+259
+00:17:54,574 --> 00:17:56,033
+Não recebi tarefa.
+
+260
+00:17:56,117 --> 00:17:58,703
+-O que faz aqui?
+-Estou substituindo.
+
+261
+00:17:58,786 --> 00:17:59,662
+Verdade.
+
+262
+00:17:59,745 --> 00:18:02,248
+A gripe está nos matando. Já foi vacinado?
+
+263
+00:18:02,623 --> 00:18:04,458
+-Ainda não.
+-Então se cuide.
+
+264
+00:18:05,459 --> 00:18:07,878
+-Cobrirá McAllister ou Boyd?
+-McAllister.
+
+265
+00:18:08,671 --> 00:18:09,755
+Hospital.
+
+266
+00:18:14,427 --> 00:18:17,096
+<i>O total de vítimas
+é inferior ao de uma gripe,</i>
+
+267
+00:18:17,179 --> 00:18:21,267
+<i>mas as autoridades estão preocupadas
+com a intensidade dos sintomas </i>
+
+268
+00:18:21,350 --> 00:18:24,186
+<i>e a velocidade de contágio do vírus.</i>
+
+269
+00:18:24,270 --> 00:18:27,565
+São sintomas comuns:
+febre, dor de garganta e de cabeça.
+
+270
+00:18:27,648 --> 00:18:29,317
+Mas não é gripe.
+
+271
+00:18:29,400 --> 00:18:31,652
+Ele tomou o mesmo antiviral que nós.
+
+272
+00:18:31,736 --> 00:18:33,696
+É um vírus, mas não da gripe.
+
+273
+00:18:35,781 --> 00:18:37,450
+Meningite? Febre do Nilo?
+
+274
+00:18:37,950 --> 00:18:39,243
+Eu já testei.
+
+275
+00:18:39,327 --> 00:18:41,954
+Eu testei tudo. Nada bateu.
+
+276
+00:18:42,371 --> 00:18:43,581
+Bom...
+
+277
+00:18:45,249 --> 00:18:48,252
+Se for um vírus, podemos identificá-lo.
+
+278
+00:18:48,919 --> 00:18:51,005
+Vi as sequências genéticas de vírus
+
+279
+00:18:51,088 --> 00:18:53,007
+do 21 e dos séculos posteriores.
+
+280
+00:18:53,633 --> 00:18:55,760
+-Então é um patógeno novo?
+-Sim.
+
+281
+00:18:55,843 --> 00:18:58,346
+Desconhecido nesta época e na nossa.
+
+282
+00:18:58,429 --> 00:18:59,930
+Como isso é possível?
+
+283
+00:19:16,489 --> 00:19:18,574
+Meu amor, minha esposa!
+
+284
+00:19:20,451 --> 00:19:23,829
+A morte, que sugou-lhe o mel dos lábios,
+
+285
+00:19:24,872 --> 00:19:27,249
+ainda não conquistou sua beleza.
+
+286
+00:19:28,000 --> 00:19:29,585
+Sério, gente?
+
+287
+00:19:30,127 --> 00:19:31,128
+Parecem crianças.
+
+288
+00:19:32,338 --> 00:19:33,547
+Continue, Trevor.
+
+289
+00:19:34,590 --> 00:19:35,883
+...sua beleza.
+
+290
+00:19:36,967 --> 00:19:38,594
+Não triunfou.
+
+291
+00:19:39,595 --> 00:19:40,638
+A flâmula do belo
+
+292
+00:19:40,721 --> 00:19:43,099
+é rubra em seus lábios e seu rosto.
+
+293
+00:19:43,724 --> 00:19:45,226
+E a morte branca...
+
+294
+00:19:45,309 --> 00:19:47,061
+<i>Trevor, na escuta?</i>
+
+295
+00:19:47,895 --> 00:19:48,854
+Sim.
+
+296
+00:19:50,564 --> 00:19:51,649
+Ótimo!
+
+297
+00:19:51,732 --> 00:19:53,317
+<i>Vamos recomeçar do</i>
+
+298
+00:19:53,859 --> 00:19:54,694
+Está na aula?
+
+299
+00:19:55,277 --> 00:19:57,446
+Querida Julieta, por que tão bela?
+
+300
+00:19:57,530 --> 00:20:00,449
+<i>Saia daí. Você pode estar infectado
+com um patógeno.</i>
+
+301
+00:20:00,533 --> 00:20:02,952
+Saia e mantenha distância das pessoas.
+
+302
+00:20:03,411 --> 00:20:04,453
+O que houve?
+
+303
+00:20:04,537 --> 00:20:06,497
+<i>-Vá, agora.
+-Vamos para o final.</i>
+
+304
+00:20:06,580 --> 00:20:09,542
+Um último abraço, um último beijo,
+e toma o veneno.
+
+305
+00:20:09,625 --> 00:20:11,168
+<i>MacLaren está esperando.</i>
+
+306
+00:20:11,836 --> 00:20:12,753
+Preciso ir.
+
+307
+00:20:13,170 --> 00:20:15,256
+Não precisa beijar, só ler.
+
+308
+00:20:15,339 --> 00:20:17,216
+Não encoste em mim!
+
+309
+00:20:17,299 --> 00:20:19,260
+Desculpa, tenho que ir.
+
+310
+00:20:28,519 --> 00:20:29,979
+Nem parece um vírus.
+
+311
+00:20:30,062 --> 00:20:32,648
+Não, já se esperava algo pleomórfico.
+
+312
+00:20:33,149 --> 00:20:35,192
+Capsídeo esférico, simetria radial.
+
+313
+00:20:35,776 --> 00:20:36,986
+Isso nos infectou?
+
+314
+00:20:38,070 --> 00:20:40,030
+É o que queremos determinar.
+
+315
+00:20:41,449 --> 00:20:43,659
+Preciso do sangue de vocês.
+
+316
+00:20:43,743 --> 00:20:46,120
+-Como se chama?
+-Não chegamos tão longe.
+
+317
+00:20:46,203 --> 00:20:48,581
+A carga viral da Boyd está em milhares.
+
+318
+00:20:48,664 --> 00:20:50,249
+A dele passa de um milhão.
+
+319
+00:20:50,332 --> 00:20:51,250
+Aqui.
+
+320
+00:20:51,751 --> 00:20:54,128
+Parece ter relação
+com a missão do antiviral.
+
+321
+00:20:54,211 --> 00:20:56,213
+Tomamos há duas semanas.
+
+322
+00:20:56,297 --> 00:20:58,799
+O sistema imunológico dele estava fraco.
+
+323
+00:20:58,883 --> 00:21:02,178
+Ele perdeu um pulmão
+quando uma missão deu errado.
+
+324
+00:21:02,261 --> 00:21:04,138
+Não há reatividade cruzada.
+
+325
+00:21:04,221 --> 00:21:07,308
+-O corpo dele só amplifica.
+-Como se controla isso?
+
+326
+00:21:09,435 --> 00:21:10,478
+Heath?
+
+327
+00:21:10,561 --> 00:21:12,229
+Uma ajuda aqui, pessoal!
+
+328
+00:21:13,105 --> 00:21:15,524
+Vamos sedá-lo, segurem firme.
+
+329
+00:21:22,364 --> 00:21:24,533
+-Não tem pressão.
+-Sem pulso.
+
+330
+00:21:24,909 --> 00:21:26,911
+Um, dois, três, quatro,
+
+331
+00:21:26,994 --> 00:21:28,996
+cinco, seis, sete, oito,
+
+332
+00:21:29,079 --> 00:21:33,000
+nove, dez, onze, doze, treze,
+
+333
+00:21:33,083 --> 00:21:35,211
+catorze, quinze, dezesseis...
+
+334
+00:21:35,544 --> 00:21:36,629
+Pare a compressão.
+
+335
+00:21:38,589 --> 00:21:40,633
+-Um, dois, três, quatro
+-Morreu.
+
+336
+00:21:40,716 --> 00:21:44,011
+cinco, seis, sete, oito, nove, dez.
+
+337
+00:21:44,094 --> 00:21:47,014
+-Um, dois, três, quatro
+-Ele morreu, Marcy.
+
+338
+00:21:47,097 --> 00:21:48,557
+Marcy, ele morreu.
+
+339
+00:22:06,784 --> 00:22:07,868
+Eu lamento.
+
+340
+00:22:10,204 --> 00:22:11,413
+Venha.
+
+341
+00:22:13,082 --> 00:22:14,416
+Deite-se um pouco.
+
+342
+00:22:14,500 --> 00:22:16,001
+Você tem que descansar.
+
+343
+00:22:16,085 --> 00:22:17,920
+Acho que é tarde para isso.
+
+344
+00:22:27,096 --> 00:22:28,639
+E aí?
+
+345
+00:22:29,181 --> 00:22:30,266
+O que diz?
+
+346
+00:22:33,269 --> 00:22:35,062
+Fomos todos infectados?
+
+347
+00:22:38,440 --> 00:22:39,567
+Não todos.
+
+348
+00:22:42,152 --> 00:22:44,154
+Você, Philip e Carly pegaram.
+
+349
+00:22:45,322 --> 00:22:47,074
+Nós dois rejeitamos o vírus.
+
+350
+00:22:47,491 --> 00:22:48,325
+O quê?
+
+351
+00:22:48,409 --> 00:22:53,914
+As três amostras têm carga viral
+entre 500 e mil cópias/mL. A nossa é zero.
+
+352
+00:22:53,998 --> 00:22:55,499
+E os anticorpos?
+
+353
+00:22:55,583 --> 00:22:57,459
+Quase nada. Somos imunes.
+
+354
+00:22:57,543 --> 00:22:58,961
+Como isso é possível?
+
+355
+00:22:59,044 --> 00:23:00,963
+Difícil saber sem mais exames.
+
+356
+00:23:01,380 --> 00:23:03,549
+Se somos imunes, pode criar um soro?
+
+357
+00:23:03,632 --> 00:23:06,260
+Vamos tentar,
+mas o tempo pode estar acabando.
+
+358
+00:23:06,343 --> 00:23:08,887
+Isso começou na missão. Deve haver outros.
+
+359
+00:23:08,971 --> 00:23:12,182
+<i>Veja na Deep Web se há equipes
+com os mesmos sintomas.</i>
+
+360
+00:23:12,266 --> 00:23:14,685
+Se for transmissão aérea ou por fômites,
+
+361
+00:23:14,768 --> 00:23:18,439
+vocês podem ter infectado todos
+com quem tiveram contato.
+
+362
+00:23:18,981 --> 00:23:20,065
+Tem certeza?
+
+363
+00:23:20,149 --> 00:23:22,067
+Sem imunidade,
+
+364
+00:23:22,151 --> 00:23:24,737
+a taxa de infecção seria superior a 40%.
+
+365
+00:23:24,820 --> 00:23:25,904
+Quarenta?
+
+366
+00:23:25,988 --> 00:23:27,698
+Liguem para os infectados.
+
+367
+00:23:27,781 --> 00:23:29,742
+Eles não devem sair.
+
+368
+00:23:30,284 --> 00:23:31,785
+Chefe, dê uma olhada nisso.
+
+369
+00:23:32,453 --> 00:23:35,956
+Equipes de Viajantes no mundo todo
+com a mesma doença.
+
+370
+00:23:37,333 --> 00:23:39,793
+Eles vêm transmitindo esse tempo todo.
+
+371
+00:23:40,544 --> 00:23:42,963
+Se eu trouxer mais antiviral, pode ver
+
+372
+00:23:43,047 --> 00:23:44,256
+o que deu errado?
+
+373
+00:23:44,340 --> 00:23:47,009
+Talvez, mas o brometo de etídio
+está acabando.
+
+374
+00:23:47,092 --> 00:23:50,304
+É uma substância controlada
+não tão fácil de conseguir.
+
+375
+00:23:50,387 --> 00:23:52,931
+-E no hospital?
+-Deve ter no laboratório.
+
+376
+00:23:53,015 --> 00:23:54,183
+Eu envio um nome.
+
+377
+00:23:54,266 --> 00:23:58,187
+Certo. Vocês dois localizam a equipe
+que entregou os frascos.
+
+378
+00:23:58,604 --> 00:23:59,605
+Vou ao hospital.
+
+379
+00:23:59,688 --> 00:24:01,148
+Vou pegar o meu filho.
+
+380
+00:24:01,231 --> 00:24:03,025
+Carly, você está infectada.
+
+381
+00:24:03,108 --> 00:24:07,446
+O melhor que pode fazer por Jeffrey,
+agora, é manter distância.
+
+382
+00:24:16,664 --> 00:24:19,124
+<i>Oi, David. Aqui é a Marcy.</i>
+
+383
+00:24:19,208 --> 00:24:22,336
+<i>Queria saber se está a fim de sair
+para conversar.</i>
+
+384
+00:24:22,419 --> 00:24:25,881
+<i>Então, se estiver a fim, é só me ligar.</i>
+
+385
+00:24:25,964 --> 00:24:27,257
+<i>Tchau.</i>
+
+386
+00:24:34,807 --> 00:24:35,974
+David?
+
+387
+00:24:36,058 --> 00:24:38,102
+<i>Marcy! Ouvi sua mensagem.</i>
+
+388
+00:24:38,185 --> 00:24:41,146
+Eu estava pedalando, mas adoraria sair.
+
+389
+00:24:41,230 --> 00:24:42,564
+<i>Onde você está?</i>
+
+390
+00:24:42,648 --> 00:24:44,608
+<i>-Em casa.
+-Então não saia.</i>
+
+391
+00:24:44,983 --> 00:24:46,735
+-Você vem aqui?
+-Não, David.
+
+392
+00:24:49,113 --> 00:24:50,823
+Uma gripe perigosa surgiu.
+
+393
+00:24:51,949 --> 00:24:53,367
+Como pneumonia asiática?
+
+394
+00:24:53,450 --> 00:24:54,827
+<i>Pior que isso.</i>
+
+395
+00:24:57,121 --> 00:24:58,706
+O quê? Onde você está?
+
+396
+00:24:58,789 --> 00:25:00,082
+Estou a salvo. Mas...
+
+397
+00:25:00,165 --> 00:25:02,042
+Aí que eu fico mais preocupado.
+
+398
+00:25:02,126 --> 00:25:04,628
+David, não precisa se preocupar comigo.
+
+399
+00:25:04,712 --> 00:25:06,797
+Não dá, eu me preocupo com você.
+
+400
+00:25:08,424 --> 00:25:12,386
+E me preocupo com meus clientes,
+já que muitos não têm um teto.
+
+401
+00:25:12,469 --> 00:25:16,181
+David, fique em casa,
+eu vi a gravidade disso.
+
+402
+00:25:16,265 --> 00:25:18,892
+Marcy, desculpa.
+Valeu por avisar, preciso ir.
+
+403
+00:25:18,976 --> 00:25:20,102
+<i>David!</i>
+
+404
+00:25:28,277 --> 00:25:31,530
+<i>Há relatos de uma variedade de sintomas,</i>
+
+405
+00:25:31,613 --> 00:25:34,366
+<i>dos mais comuns,
+como dor de cabeça, fadiga</i>
+
+406
+00:25:34,450 --> 00:25:37,911
+<i>e febre, a sintomas mais extremos,
+em casos raros,</i>
+
+407
+00:25:37,995 --> 00:25:40,873
+<i>como vermelhidão e sangramento
+ao redor dos olhos.</i>
+
+408
+00:25:40,956 --> 00:25:45,627
+<i>No momento, as autoridades
+aconselham a população a ficar em casa...</i>
+
+409
+00:25:49,465 --> 00:25:51,383
+-Para onde vão?
+-Para casa.
+
+410
+00:25:51,467 --> 00:25:54,094
+Não saiam mais. Há uma gripe forte por aí.
+
+411
+00:25:54,636 --> 00:25:57,222
+-Contem para todo mundo.
+-Pode deixar.
+
+412
+00:26:05,230 --> 00:26:09,318
+<i>As autoridades determinaram que,
+embora seja chamada</i>
+
+413
+00:26:09,401 --> 00:26:12,863
+<i>de gripe, não se trata
+de um novo tipo de influenza,</i>
+
+414
+00:26:12,946 --> 00:26:15,616
+<i>e, sim, um vírus totalmente novo. </i>
+
+415
+00:26:15,699 --> 00:26:18,035
+<i>A origem do vírus ainda é desconhecida</i>
+
+416
+00:26:18,118 --> 00:26:21,914
+<i>e a preocupação da população
+com a doença continua a crescer.</i>
+
+417
+00:26:26,126 --> 00:26:28,003
+Mac, precisamos de todos aqui.
+
+418
+00:26:28,086 --> 00:26:31,006
+Eu sei. Você recebeu um antiviral
+há pouco tempo?
+
+419
+00:26:31,465 --> 00:26:32,800
+É, salvei uns hospedeiros.
+
+420
+00:26:33,133 --> 00:26:34,218
+A equipe adoeceu?
+
+421
+00:26:36,094 --> 00:26:37,346
+Três pessoas. Por quê?
+
+422
+00:26:37,429 --> 00:26:39,890
+<i>Há relatos de Viajantes, isso é mundial,</i>
+
+423
+00:26:39,973 --> 00:26:41,934
+e acho que somos os transmissores.
+
+424
+00:26:42,017 --> 00:26:43,143
+Merda.
+
+425
+00:26:43,227 --> 00:26:46,271
+Estamos atrás do antiviral
+para fazer testes.
+
+426
+00:26:46,355 --> 00:26:47,856
+Vá me informando.
+
+427
+00:26:47,940 --> 00:26:50,609
+O CDC está montando abrigos.
+
+428
+00:26:50,692 --> 00:26:53,153
+<i>Vamos nos reunir com a Guarda Nacional.</i>
+
+429
+00:26:53,237 --> 00:26:54,530
+<i>Eu envio o endereço.</i>
+
+430
+00:26:54,613 --> 00:26:55,781
+Vou ao hospital.
+
+431
+00:26:55,864 --> 00:26:57,825
+-Dê-me meia hora.
+-Tudo bem.
+
+432
+00:27:55,591 --> 00:27:56,633
+Graham.
+
+433
+00:28:01,930 --> 00:28:03,432
+Graham, é o Trevor.
+
+434
+00:28:17,487 --> 00:28:19,156
+-Vou ver os fundos.
+-Certo.
+
+435
+00:28:42,262 --> 00:28:44,765
+SALA DE ESPERA
+
+436
+00:28:52,397 --> 00:28:54,274
+Olá, quem seria o responsável?
+
+437
+00:28:54,358 --> 00:28:59,029
+-Do que precisa?
+-Ele está com febre alta, dor de cabeça.
+
+438
+00:28:59,112 --> 00:29:01,490
+-Precisa de um médico.
+-Não vai dar.
+
+439
+00:29:01,573 --> 00:29:03,700
+O PS está lotado há uma hora,
+
+440
+00:29:03,784 --> 00:29:05,953
+estão mandando gente para casa.
+
+441
+00:29:06,036 --> 00:29:07,162
+É o melhor a fazer.
+
+442
+00:29:07,246 --> 00:29:08,705
+Com licença.
+
+443
+00:29:08,789 --> 00:29:10,082
+Com licença.
+
+444
+00:29:11,375 --> 00:29:14,544
+-Ele não tem casa.
+-Qualquer lugar é melhor que aqui.
+
+445
+00:29:14,628 --> 00:29:16,380
+-É parente?
+-Assistente social.
+
+446
+00:29:16,922 --> 00:29:18,674
+É responsável por quantos?
+
+447
+00:29:20,634 --> 00:29:21,969
+Oficialmente ou não?
+
+448
+00:29:24,054 --> 00:29:24,888
+Espere aqui.
+
+449
+00:29:30,435 --> 00:29:31,728
+-Oi.
+-Aqui.
+
+450
+00:29:31,812 --> 00:29:34,314
+Não é muito, mas é melhor do que nada.
+
+451
+00:29:34,398 --> 00:29:36,858
+-Obrigado.
+-Pegue um para você também.
+
+452
+00:29:36,942 --> 00:29:39,027
+-Obrigado por isso.
+-Cuide-se.
+
+453
+00:29:45,033 --> 00:29:46,159
+Agente MacLaren.
+
+454
+00:29:46,660 --> 00:29:48,537
+-David.
+-Marcy está aqui?
+
+455
+00:29:48,954 --> 00:29:49,788
+Não.
+
+456
+00:29:49,871 --> 00:29:51,999
+Pode dar um recado?
+
+457
+00:29:52,082 --> 00:29:54,418
+Pedir para ela ir ao abrigo mais tarde?
+
+458
+00:29:54,501 --> 00:29:55,794
+O pessoal não está bem.
+
+459
+00:29:55,877 --> 00:29:58,213
+Eu direi, mas ela está bem ocupada.
+
+460
+00:29:58,297 --> 00:29:59,673
+Imagino.
+
+461
+00:29:59,756 --> 00:30:01,550
+Licença. Por que não a levam?
+
+462
+00:30:01,633 --> 00:30:02,551
+Chegamos antes.
+
+463
+00:30:02,634 --> 00:30:04,970
+Não vou levar ninguém, senhor. Relaxe.
+
+464
+00:30:05,053 --> 00:30:06,471
+Tem uma criança aqui!
+
+465
+00:30:07,389 --> 00:30:08,890
+Isso é grave mesmo?
+
+466
+00:30:11,560 --> 00:30:13,645
+Tudo bem, vou te deixar em paz.
+
+467
+00:30:14,646 --> 00:30:17,024
+-Não se esqueça de dar recado.
+-Eu darei.
+
+468
+00:30:17,107 --> 00:30:17,941
+Boa sorte.
+
+469
+00:30:19,943 --> 00:30:21,194
+Para você também.
+
+470
+00:30:32,914 --> 00:30:34,499
+As pupilas estão lentas.
+
+471
+00:30:34,583 --> 00:30:36,251
+-Pressão intracraniana?
+-É.
+
+472
+00:30:36,335 --> 00:30:39,087
+Explicaria as dores de cabeça
+e convulsões.
+
+473
+00:30:39,171 --> 00:30:42,591
+Podemos tentar manitol
+ou pular para um desvio.
+
+474
+00:30:42,674 --> 00:30:45,010
+Ótimo. Não é sua especialidade?
+
+475
+00:30:45,927 --> 00:30:46,928
+Engraçado.
+
+476
+00:30:47,804 --> 00:30:49,890
+<i>-Temos companhia.
+-Quero entrar!</i>
+
+477
+00:30:50,474 --> 00:30:53,727
+<i>-Não dá, estamos doentes.
+-Eu também, abra.</i>
+
+478
+00:30:58,523 --> 00:31:01,318
+Um daqueles adolescentes imundos
+me contaminou.
+
+479
+00:31:05,155 --> 00:31:06,573
+O que é isso?
+
+480
+00:31:07,240 --> 00:31:10,035
+Nossa missão era salvar pessoas da gripe.
+
+481
+00:31:10,118 --> 00:31:11,578
+O antiviral não funcionou.
+
+482
+00:31:11,661 --> 00:31:12,871
+Isso é impossível.
+
+483
+00:31:15,749 --> 00:31:18,168
+Também há surtos em Xangai e Berlim.
+
+484
+00:31:23,215 --> 00:31:24,758
+<i>Mac, na escuta?</i>
+
+485
+00:31:24,841 --> 00:31:25,675
+Pode falar.
+
+486
+00:31:25,759 --> 00:31:28,303
+Encontramos a equipe, mas não o antiviral.
+
+487
+00:31:28,387 --> 00:31:31,640
+Limparam o estoque e mataram a equipe.
+
+488
+00:31:32,224 --> 00:31:33,141
+O quê?
+
+489
+00:31:33,683 --> 00:31:35,894
+Não há sinal de luta ou arrombamento.
+
+490
+00:31:35,977 --> 00:31:37,687
+Foi trabalho interno?
+
+491
+00:31:37,771 --> 00:31:40,941
+Não seria a primeira vez
+que isso acontece.
+
+492
+00:31:42,651 --> 00:31:44,319
+Nada disso faz sentido.
+
+493
+00:31:45,278 --> 00:31:47,155
+A gente se vê na base.
+
+494
+00:31:56,456 --> 00:31:57,999
+Ela não parece bem.
+
+495
+00:31:59,042 --> 00:32:00,252
+Isso não ajuda.
+
+496
+00:32:01,670 --> 00:32:03,130
+Segure acima dela.
+
+497
+00:32:03,213 --> 00:32:05,674
+Nada disso importará em longo prazo.
+
+498
+00:32:05,757 --> 00:32:07,676
+O Diretor vai dar um jeito.
+
+499
+00:32:07,759 --> 00:32:09,302
+Não deu um jeito nele.
+
+500
+00:32:09,386 --> 00:32:10,887
+GASOLINA
+
+501
+00:32:14,349 --> 00:32:15,684
+Viajante entrando.
+
+502
+00:32:20,272 --> 00:32:21,356
+Eu disse.
+
+503
+00:32:21,440 --> 00:32:22,524
+A cavalaria.
+
+504
+00:32:23,066 --> 00:32:24,025
+É bom te ver.
+
+505
+00:32:24,109 --> 00:32:25,735
+-Ajude-nos.
+-Não é só com vocês.
+
+506
+00:32:25,819 --> 00:32:27,529
+Muito falatório. Cadê a cura?
+
+507
+00:32:27,612 --> 00:32:29,281
+-Não há cura.
+-O quê?
+
+508
+00:32:29,364 --> 00:32:31,491
+Claro que há, somos do futuro.
+
+509
+00:32:31,575 --> 00:32:34,494
+Estão trabalhando em um virucida,
+mas sem sucesso.
+
+510
+00:32:34,578 --> 00:32:35,912
+Vim falar com Philip.
+
+511
+00:32:36,496 --> 00:32:40,125
+Quero revisar os dados do antiviral,
+ver se tem algum erro.
+
+512
+00:32:40,917 --> 00:32:42,878
+Não sei do que está falando.
+
+513
+00:32:43,628 --> 00:32:45,172
+A fórmula que escreveu.
+
+514
+00:32:45,255 --> 00:32:47,674
+Ela permitiu a síntese do antiviral.
+
+515
+00:32:48,258 --> 00:32:49,634
+Está aqui, veja.
+
+516
+00:32:53,388 --> 00:32:56,391
+Eu me lembro disso.
+Mas não me lembro de escrever.
+
+517
+00:32:56,475 --> 00:32:59,060
+Como não se lembra? Isso é impossível.
+
+518
+00:32:59,769 --> 00:33:00,896
+Quando foi isso?
+
+519
+00:33:00,979 --> 00:33:01,980
+Há duas semanas.
+
+520
+00:33:02,063 --> 00:33:03,690
+Você estava com a 4514.
+
+521
+00:33:04,191 --> 00:33:05,609
+-Jenny.
+-O quê?
+
+522
+00:33:06,610 --> 00:33:09,279
+Tive dor de cabeça,
+ela disse que tinha sido o colírio.
+
+523
+00:33:09,362 --> 00:33:11,323
+Devia ser um inibidor de memória.
+
+524
+00:33:12,991 --> 00:33:15,202
+-Nossa.
+-O que está acontecendo?
+
+525
+00:33:15,285 --> 00:33:16,411
+Vá atrás dela.
+
+526
+00:33:21,249 --> 00:33:22,209
+Alô?
+
+527
+00:33:22,751 --> 00:33:24,753
+<i>Oi, sou eu.</i>
+
+528
+00:33:24,836 --> 00:33:26,630
+O que foi? Você está bem?
+
+529
+00:33:26,713 --> 00:33:28,256
+Grant, viu o noticiário?
+
+530
+00:33:28,340 --> 00:33:30,467
+<i>Não. Tem certeza de que está bem?</i>
+
+531
+00:33:30,550 --> 00:33:34,596
+Sim, eu só estou meio abalada, sei lá.
+
+532
+00:33:34,679 --> 00:33:37,224
+Deve ser o jornal me deixando maluca.
+
+533
+00:33:37,891 --> 00:33:38,892
+Pode vir aqui?
+
+534
+00:33:38,975 --> 00:33:43,271
+Ainda não. Deite-se um pouco, Kat,
+e não saia de casa.
+
+535
+00:33:43,355 --> 00:33:45,774
+<i>Está bem. E você? Vai ficar bem?</i>
+
+536
+00:33:45,857 --> 00:33:47,567
+<i>-Olha quem está aqui.
+-Grant?</i>
+
+537
+00:33:48,026 --> 00:33:50,862
+Eu preciso desligar. Eu já te ligo.
+
+538
+00:33:50,946 --> 00:33:53,990
+-Veio ver trabalho de verdade?
+-Carly está aflita.
+
+539
+00:33:54,074 --> 00:33:56,743
+-Leve seu filho para casa.
+-É o garoto de recados dela?
+
+540
+00:33:56,826 --> 00:33:59,913
+-Achei que isso tinha acabado.
+-Nunca foi isso.
+
+541
+00:33:59,996 --> 00:34:02,415
+E trata-se de algo mais importante.
+
+542
+00:34:03,166 --> 00:34:05,877
+Pegue seu filho, Jeff, e vá para casa.
+
+543
+00:34:12,968 --> 00:34:15,303
+<i>Oi, é a Marcy. Venha até a base. </i>
+
+544
+00:34:15,679 --> 00:34:17,472
+Sabemos a fonte do antiviral.
+
+545
+00:34:17,556 --> 00:34:18,932
+<i>Uma Viajante, Jenny.</i>
+
+546
+00:34:19,015 --> 00:34:20,433
+<i>Philip a conhece.</i>
+
+547
+00:34:20,517 --> 00:34:22,018
+Estou a caminho.
+
+548
+00:34:35,824 --> 00:34:37,993
+-Mac, está atrasado.
+-O que faz aqui?
+
+549
+00:34:38,076 --> 00:34:39,744
+Vamos ver a Guarda Nacional.
+
+550
+00:34:39,828 --> 00:34:41,454
+Terá que ir sem mim.
+
+551
+00:34:42,163 --> 00:34:43,081
+Você é necessário.
+
+552
+00:34:43,415 --> 00:34:44,100
+Minha equipe vem primeiro.
+
+553
+00:35:01,558 --> 00:35:02,434
+Jenny!
+
+554
+00:35:03,685 --> 00:35:04,811
+Chloe!
+
+555
+00:35:05,520 --> 00:35:06,605
+Jenny!
+
+556
+00:35:08,189 --> 00:35:09,149
+Jenny!
+
+557
+00:35:14,279 --> 00:35:16,448
+Não.
+
+558
+00:35:16,531 --> 00:35:19,242
+Jenny!
+
+559
+00:35:21,244 --> 00:35:23,913
+Não.
+
+560
+00:35:30,378 --> 00:35:31,880
+Tem certeza disso?
+
+561
+00:35:32,505 --> 00:35:34,174
+Existe outra escolha?
+
+562
+00:35:37,427 --> 00:35:38,595
+Está bem.
+
+563
+00:35:39,220 --> 00:35:40,388
+Bons sinais vitais.
+
+564
+00:36:12,087 --> 00:36:13,213
+Está estável.
+
+565
+00:36:15,298 --> 00:36:16,466
+Certo.
+
+566
+00:36:35,318 --> 00:36:36,361
+Carly!
+
+567
+00:36:42,617 --> 00:36:43,952
+Merda.
+
+568
+00:36:44,035 --> 00:36:45,370
+Tudo bem.
+
+569
+00:36:47,497 --> 00:36:49,749
+Tudo bem, eu estou aqui.
+
+570
+00:36:49,833 --> 00:36:52,502
+Estou aqui, tudo bem.
+
+571
+00:36:53,128 --> 00:36:54,129
+Está tudo bem.
+
+572
+00:36:58,341 --> 00:37:00,552
+Tudo bem.
+
+573
+00:37:01,219 --> 00:37:02,178
+Tudo bem.
+
+574
+00:37:17,402 --> 00:37:21,906
+Minha mãe fazia canja de galinha
+quando eu ficava doente.
+
+575
+00:37:22,824 --> 00:37:25,744
+Não sei bem por que
+era sempre canja de galinha.
+
+576
+00:37:26,286 --> 00:37:27,120
+Vera!
+
+577
+00:37:27,871 --> 00:37:29,289
+Estava te procurando.
+
+578
+00:37:29,372 --> 00:37:30,832
+-Falei sem médicos.
+-Não.
+
+579
+00:37:30,915 --> 00:37:31,958
+Não me toque!
+
+580
+00:37:32,041 --> 00:37:33,585
+Sou o David.
+
+581
+00:37:34,627 --> 00:37:37,130
+Oi. Tudo bem?
+
+582
+00:37:37,213 --> 00:37:39,299
+-Sim.
+-Legal, vai comer algo?
+
+583
+00:37:39,382 --> 00:37:41,426
+-Sim.
+-Estou aqui, se precisar.
+
+584
+00:37:41,509 --> 00:37:42,427
+Certo?
+
+585
+00:37:48,725 --> 00:37:50,101
+Está tudo bem, meninão.
+
+586
+00:37:50,602 --> 00:37:52,270
+A gente vai sair dessa.
+
+587
+00:37:53,062 --> 00:37:54,814
+Você vai ficar bem.
+
+588
+00:37:54,898 --> 00:37:57,692
+Você é guerreiro. Que nem a mamãe.
+
+589
+00:37:58,485 --> 00:38:00,111
+Que nem o papai.
+
+590
+00:38:02,238 --> 00:38:05,450
+Tudo bem.
+
+591
+00:38:15,668 --> 00:38:16,961
+Oi.
+
+592
+00:38:17,045 --> 00:38:19,964
+O médico que indicou
+deve gostar muito de você.
+
+593
+00:38:20,882 --> 00:38:23,468
+-Cadê a Jenny?
+-Já devem estar vindo.
+
+594
+00:38:23,551 --> 00:38:24,636
+Como Philip a conhece?
+
+595
+00:38:27,764 --> 00:38:28,848
+E o que é isso?
+
+596
+00:38:29,557 --> 00:38:32,101
+Vou estimar a taxa reprodutiva do patógeno
+
+597
+00:38:32,185 --> 00:38:35,313
+com base nos dados do hospital
+e das redes sociais.
+
+598
+00:38:35,897 --> 00:38:37,607
+Vou mostrar uma coisa.
+
+599
+00:38:43,446 --> 00:38:46,241
+O R0 indica o quanto um vírus
+é contagioso
+
+600
+00:38:46,324 --> 00:38:48,743
+pela taxa de infecção secundária.
+
+601
+00:38:48,827 --> 00:38:52,789
+Se ela for menor que um,
+o vírus vai morrer rapidamente.
+
+602
+00:38:53,957 --> 00:38:55,083
+Se for maior...
+
+603
+00:38:56,835 --> 00:38:57,752
+é uma epidemia.
+
+604
+00:38:57,836 --> 00:39:01,130
+-E qual é o caso aqui?
+-Vamos pôr em perspectiva.
+
+605
+00:39:01,631 --> 00:39:07,595
+A influenza tem um R0 de um,
+com um período de incubação de dois dias.
+
+606
+00:39:07,679 --> 00:39:10,139
+Você pode infectar uma pessoa em um dia,
+
+607
+00:39:10,223 --> 00:39:12,767
+e ela infecta outra, e assim por diante.
+
+608
+00:39:13,476 --> 00:39:16,896
+Esse vírus tem um R0 de pelo menos dois,
+
+609
+00:39:17,689 --> 00:39:21,693
+com um período de incubação de dez dias.
+
+610
+00:39:22,068 --> 00:39:27,323
+Há 14 dias, dez equipes de Viajantes
+do mundo todo transmitiram o vírus.
+
+611
+00:39:29,033 --> 00:39:30,201
+Então, isso dá...
+
+612
+00:39:35,081 --> 00:39:39,252
+possivelmente, 150 pessoas
+no primeiro dia.
+
+613
+00:39:39,878 --> 00:39:44,424
+E 330... no segundo dia.
+
+614
+00:39:44,507 --> 00:39:46,467
+Não estou gostando disso.
+
+615
+00:39:46,551 --> 00:39:50,513
+Então, com base nos dados que peguei
+de pessoas já com sintomas
+
+616
+00:39:50,597 --> 00:39:53,516
+e incluindo a taxa
+de crescimento exponencial...
+
+617
+00:39:57,687 --> 00:39:59,772
+mais de 4 milhões de pessoas
+
+618
+00:40:00,565 --> 00:40:01,983
+estão infectadas.
+
+619
+00:40:02,066 --> 00:40:03,651
+Amanhã, serão quase dez.
+
+620
+00:40:03,735 --> 00:40:06,112
+Seus sintomas ainda vão aparecer.
+
+621
+00:40:06,195 --> 00:40:08,323
+Quando a taxa de mortalidade sobe?
+
+622
+00:40:08,406 --> 00:40:09,657
+Em alguns dias.
+
+623
+00:40:10,158 --> 00:40:11,868
+<i>Preciso de ajuda aqui!</i>
+
+624
+00:40:14,913 --> 00:40:16,414
+Limpem aquela mesa.
+
+625
+00:40:20,501 --> 00:40:23,296
+Não senti respiração,
+ela tomou comprimidos.
+
+626
+00:40:24,839 --> 00:40:26,007
+Deite-a aqui.
+
+627
+00:40:28,927 --> 00:40:30,219
+O pulso está fraco.
+
+628
+00:40:30,762 --> 00:40:31,721
+O que ela tomou?
+
+629
+00:40:31,804 --> 00:40:33,181
+Oxicodona.
+
+630
+00:40:36,517 --> 00:40:39,103
+Jenny, estou aqui.
+
+631
+00:40:39,187 --> 00:40:41,856
+Você está na base. Aqui é seguro.
+
+632
+00:40:41,940 --> 00:40:44,442
+Foi uma overdose, eu te achei no quarto.
+
+633
+00:40:44,525 --> 00:40:46,194
+Escute-me.
+
+634
+00:40:47,528 --> 00:40:49,989
+-A missão deu errado.
+-Não, Philip.
+
+635
+00:40:51,366 --> 00:40:53,034
+Correu tudo como planejado.
+
+636
+00:40:54,953 --> 00:40:55,828
+O quê?
+
+637
+00:40:56,329 --> 00:40:57,580
+O que você sabe?
+
+638
+00:40:57,664 --> 00:40:59,499
+Isso não vai mudar nada.
+
+639
+00:40:59,582 --> 00:41:00,625
+O que fez comigo?
+
+640
+00:41:04,671 --> 00:41:09,258
+Minha equipe... tentou gravar Mensageiros.
+
+641
+00:41:10,677 --> 00:41:14,764
+Mas o sinal causava estática
+nos dispositivos.
+
+642
+00:41:15,807 --> 00:41:17,100
+Queríamos um historiador.
+
+643
+00:41:19,143 --> 00:41:22,188
+E alguém para sintetizar o catalisador.
+
+644
+00:41:22,981 --> 00:41:24,273
+Não.
+
+645
+00:41:24,357 --> 00:41:26,734
+Era para eu criar um antiviral.
+
+646
+00:41:26,818 --> 00:41:30,905
+Na verdade, era para você acelerar
+a recombinação genética
+
+647
+00:41:30,989 --> 00:41:32,865
+do patógeno histórico.
+
+648
+00:41:32,949 --> 00:41:34,534
+Você criou o vírus novo.
+
+649
+00:41:35,326 --> 00:41:36,953
+Não, ela está delirando.
+
+650
+00:41:37,036 --> 00:41:39,122
+O Diretor nunca daria essa missão.
+
+651
+00:41:39,205 --> 00:41:41,165
+Quem disse que veio do Diretor?
+
+652
+00:41:43,876 --> 00:41:48,715
+<i>O futuro que eu deixei
+está dividido entre os leais ao Diretor </i>
+
+653
+00:41:48,798 --> 00:41:50,174
+<i>e a Facção. </i>
+
+654
+00:41:51,134 --> 00:41:53,970
+<i>Dois lados lutando pelo controle,
+sem parar.</i>
+
+655
+00:41:57,724 --> 00:42:01,602
+Quando você resetou o Diretor,
+não conseguimos mais acessar o 21.
+
+656
+00:42:01,686 --> 00:42:04,105
+Perder o passado seria perder tudo.
+
+657
+00:42:04,188 --> 00:42:06,274
+Então nós desligamos o reator.
+
+658
+00:42:06,733 --> 00:42:09,235
+Mas tivemos missões,
+recebemos Mensageiros.
+
+659
+00:42:09,318 --> 00:42:12,196
+E isso era tudo: Mensageiros.
+
+660
+00:42:13,197 --> 00:42:17,910
+Sem o poder de processamento do Diretor,
+não dá para transferir consciências.
+
+661
+00:42:18,369 --> 00:42:22,623
+Então... antes que o Diretor
+perdesse a força,
+
+662
+00:42:23,332 --> 00:42:27,795
+no último momento de controle,
+enviamos todos que podíamos para o 21.
+
+663
+00:42:28,796 --> 00:42:30,214
+De uma vez.
+
+664
+00:42:30,298 --> 00:42:32,216
+No chassi quântico.
+
+665
+00:42:32,300 --> 00:42:33,217
+Quantos?
+
+666
+00:42:33,301 --> 00:42:36,345
+O chassi é capaz de receber
+e armazenar milhares.
+
+667
+00:42:36,429 --> 00:42:38,598
+Então Forbes, o pessoal no FBI
+
+668
+00:42:38,681 --> 00:42:39,807
+São da Facção.
+
+669
+00:42:39,891 --> 00:42:42,935
+-E todas as nossas missões
+-Foram para eles.
+
+670
+00:42:43,394 --> 00:42:45,313
+A Facção tem o próprio plano.
+
+671
+00:42:45,396 --> 00:42:49,817
+A superpopulação é a maior ameaça
+de todas ao século 21.
+
+672
+00:42:49,901 --> 00:42:53,404
+O Diretor não era capaz de ver
+a solução natural.
+
+673
+00:42:54,405 --> 00:42:56,449
+Quantas pessoas vão morrer?
+
+674
+00:42:56,532 --> 00:43:00,995
+O vírus foi geneticamente projetado
+para preservar 70% da população.
+
+675
+00:43:01,079 --> 00:43:02,663
+O futuro vai sobreviver.
+
+676
+00:43:03,539 --> 00:43:07,794
+E aqueles que morrerem, incluindo eu,
+terão feito um grande sacrifício.
+
+677
+00:43:08,419 --> 00:43:11,339
+Jenny, você vai matar
+mais de 2 bilhões de pessoas.
+
+678
+00:43:12,757 --> 00:43:14,175
+A missão é prioridade.
+
+679
+00:43:17,011 --> 00:43:19,847
+<i>Posicionem-se ao redor do aparelho
+e aguardem.</i>
+
+680
+00:43:23,267 --> 00:43:24,852
+O que é isso?
+
+681
+00:43:37,031 --> 00:43:39,117
+Legendas: Mayara Leal
+
