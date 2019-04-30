@@ -12,7 +12,7 @@ Vejam, do lado oeste da muralha!
 
 4
 00:02:23,248 --> 00:02:24,831
-Desçam até a cripta.
+DesÃ§am atÃ© a cripta.
 
 5
 00:02:27,831 --> 00:02:29,081
@@ -20,7 +20,7 @@ Aguardar.
 
 6
 00:02:30,248 --> 00:02:31,457
-Vamos levá-lo.
+Vamos levÃ¡-lo.
 
 7
 00:02:36,040 --> 00:02:38,373
@@ -29,13 +29,13 @@ Vamos levá-lo.
 
 8
 00:02:38,457 --> 00:02:41,582
-- Rápido!
-- Entrem em posição!
+- RÃ¡pido!
+- Entrem em posiÃ§Ã£o!
 
 9
 00:02:41,665 --> 00:02:43,830
 - Vamos.
-- Fechem o portão!
+- Fechem o portÃ£o!
 
 10
 00:02:44,749 --> 00:02:45,830
@@ -43,11 +43,11 @@ Pronto.
 
 11
 00:05:25,707 --> 00:05:29,040
-Tenha dó! Mas que demora!
+Tenha dÃ³! Mas que demora!
 
 12
 00:07:32,830 --> 00:07:34,332
-Você fala a língua deles?
+VocÃª fala a lÃ­ngua deles?
 
 13
 00:07:38,248 --> 00:07:40,290
@@ -59,7 +59,7 @@ Senhor da Luz,
 
 15
 00:08:19,830 --> 00:08:22,707
-lance sua luz sobre nós.
+lance sua luz sobre nÃ³s.
 
 16
 00:08:23,081 --> 00:08:24,830
@@ -71,7 +71,7 @@ defenda-nos,
 
 18
 00:08:27,415 --> 00:08:29,332
-pois a noite é escura
+pois a noite Ã© escura
 
 19
 00:08:29,540 --> 00:08:32,623
@@ -87,15 +87,15 @@ e cheia de horrores.
 
 22
 00:09:42,830 --> 00:09:43,873
-Abram o portão!
+Abram o portÃ£o!
 
 23
 00:09:43,998 --> 00:09:45,498
-Abram o portão!
+Abram o portÃ£o!
 
 24
 00:09:45,623 --> 00:09:46,998
-Abram o portão!
+Abram o portÃ£o!
 
 25
 00:10:02,914 --> 00:10:04,248
@@ -107,7 +107,7 @@ Calma.
 
 27
 00:10:33,332 --> 00:10:35,873
-Não precisa me executar,
+NÃ£o precisa me executar,
 Sor Davos.
 
 28
@@ -121,31 +121,31 @@ Cessar fogo.
 
 30
 00:14:21,830 --> 00:14:23,415
-O Rei da Noite está vindo.
+O Rei da Noite estÃ¡ vindo.
 
 31
 00:14:25,415 --> 00:14:27,123
-Os mortos já estão aqui.
+Os mortos jÃ¡ estÃ£o aqui.
 
 32
 00:15:51,956 --> 00:15:53,831
-Mantenham posição!
+Mantenham posiÃ§Ã£o!
 
 33
 00:17:43,123 --> 00:17:44,582
-Vá para a cripta.
+VÃ¡ para a cripta.
 
 34
 00:17:46,040 --> 00:17:48,040
-Não vou abandonar o meu povo.
+NÃ£o vou abandonar o meu povo.
 
 35
 00:17:48,165 --> 00:17:49,749
-Pegue isto e vá.
+Pegue isto e vÃ¡.
 
 36
 00:17:53,165 --> 00:17:54,830
-Eu não sei usar.
+Eu nÃ£o sei usar.
 
 37
 00:17:55,956 --> 00:17:57,830
@@ -181,11 +181,11 @@ Vamos!
 
 45
 00:21:52,830 --> 00:21:53,873
-Abram o portão!
+Abram o portÃ£o!
 
 46
 00:21:54,081 --> 00:21:55,540
-Abram o portão!
+Abram o portÃ£o!
 
 47
 00:21:55,830 --> 00:21:56,873
@@ -193,11 +193,11 @@ Deixe-nos entrar!
 
 48
 00:21:59,332 --> 00:22:00,830
-Abram o portão!
+Abram o portÃ£o!
 
 49
 00:22:00,831 --> 00:22:02,165
-Abram o portão!
+Abram o portÃ£o!
 
 50
 00:22:05,081 --> 00:22:06,123
@@ -209,7 +209,7 @@ Vamos!
 
 52
 00:22:14,790 --> 00:22:17,206
-- Continuem! Rápido!
+- Continuem! RÃ¡pido!
 - Aos seus postos!
 
 53
@@ -231,7 +231,7 @@ Protejam a retirada!
 
 57
 00:22:35,831 --> 00:22:38,373
-Mantenham posição!
+Mantenham posiÃ§Ã£o!
 
 58
 00:23:19,373 --> 00:23:20,830
@@ -255,7 +255,7 @@ Fechem as brechas!
 
 63
 00:23:56,665 --> 00:23:58,415
-Vão! Vão!
+VÃ£o! VÃ£o!
 
 64
 00:23:59,830 --> 00:24:01,665
@@ -287,15 +287,15 @@ Vamos!
 
 71
 00:25:19,831 --> 00:25:21,206
-Protejam o portão!
+Protejam o portÃ£o!
 
 72
 00:25:21,457 --> 00:25:23,373
-Protejam o portão!
+Protejam o portÃ£o!
 
 73
 00:25:23,457 --> 00:25:25,830
-Estão vindo! Vamos!
+EstÃ£o vindo! Vamos!
 
 74
 00:25:25,831 --> 00:25:27,290
@@ -316,7 +316,7 @@ Acendam a trincheira!
 
 78
 00:26:23,830 --> 00:26:24,998
-Ela não nos vê.
+Ela nÃ£o nos vÃª.
 
 79
 00:26:26,790 --> 00:26:28,206
@@ -329,7 +329,7 @@ Acendam as trincheiras!
 
 81
 00:26:44,665 --> 00:26:46,831
-- Aí mesmo.
+- AÃ­ mesmo.
 - Acenda!
 
 82
@@ -351,73 +351,73 @@ Clegane.
 86
 00:29:57,665 --> 00:29:59,831
 Pelo menos
-já estamos numa cripta.
+jÃ¡ estamos numa cripta.
 
 87
 00:30:04,582 --> 00:30:06,123
-Se estivéssemos lá em cima,
+Se estivÃ©ssemos lÃ¡ em cima,
 
 88
 00:30:06,790 --> 00:30:09,830
-poderíamos ver algo
-que ninguém mais está vendo.
+poderÃ­amos ver algo
+que ninguÃ©m mais estÃ¡ vendo.
 
 89
 00:30:11,830 --> 00:30:13,831
-Algo que fizesse diferença.
+Algo que fizesse diferenÃ§a.
 
 90
 00:30:15,123 --> 00:30:16,081
-O quê?
+O quÃª?
 
 91
 00:30:16,665 --> 00:30:19,165
-Na Água Negra, eu nos conduzi
-ao Portão de Lama.
+Na Ãgua Negra, eu nos conduzi
+ao PortÃ£o de Lama.
 
 92
 00:30:19,206 --> 00:30:22,415
 - Teve o rosto cortado ao meio.
-- E isso fez diferença.
+- E isso fez diferenÃ§a.
 
 93
 00:30:24,873 --> 00:30:27,498
-- Se eu estivesse lá fora...
-- Você morreria.
+- Se eu estivesse lÃ¡ fora...
+- VocÃª morreria.
 
 94
 00:30:30,206 --> 00:30:31,998
-Não há nada
-que você possa fazer.
+NÃ£o hÃ¡ nada
+que vocÃª possa fazer.
 
 95
 00:30:35,956 --> 00:30:38,206
-Você ficaria surpresa
+VocÃª ficaria surpresa
 com o que eu faria
 
 96
 00:30:38,248 --> 00:30:40,829
-para não me juntar
-ao Exército dos Mortos.
+para nÃ£o me juntar
+ao ExÃ©rcito dos Mortos.
 
 97
 00:30:40,830 --> 00:30:43,831
-Não tem organização menos
+NÃ£o tem organizaÃ§Ã£o menos
 adequada aos meus talentos.
 
 98
 00:30:43,873 --> 00:30:46,206
-Ser engraçadinho
-não vai fazer diferença.
+Ser engraÃ§adinho
+nÃ£o vai fazer diferenÃ§a.
 
 99
 00:30:48,831 --> 00:30:51,830
 Por isso estamos aqui.
-Nenhum de nós pode fazer nada.
+Nenhum de nÃ³s pode fazer nada.
 
 100
 00:30:53,790 --> 00:30:54,830
-É a verdade.
+Ã‰ a verdade.
 
 101
 00:30:56,040 --> 00:30:58,623
@@ -426,31 +426,31 @@ que podemos fazer agora
 
 102
 00:31:00,415 --> 00:31:02,498
-é encarar a verdade.
+Ã© encarar a verdade.
 
 103
 00:31:07,373 --> 00:31:09,332
-Deveríamos ter ficado casados.
+DeverÃ­amos ter ficado casados.
 
 104
 00:31:09,830 --> 00:31:11,582
-Você foi o melhor de todos.
+VocÃª foi o melhor de todos.
 
 105
 00:31:12,998 --> 00:31:14,873
-Que pensamento terrível...
+Que pensamento terrÃ­vel...
 
 106
 00:31:21,831 --> 00:31:23,373
-Não daria certo.
+NÃ£o daria certo.
 
 107
 00:31:24,749 --> 00:31:25,830
-Por que não?
+Por que nÃ£o?
 
 108
 00:31:26,540 --> 00:31:27,830
-A Rainha dos Dragões.
+A Rainha dos DragÃµes.
 
 109
 00:31:29,914 --> 00:31:32,914
@@ -463,12 +463,12 @@ Sim.
 
 111
 00:31:36,123 --> 00:31:38,831
-Sem a Rainha dos Dragões,
-não teria nenhum problema.
+Sem a Rainha dos DragÃµes,
+nÃ£o teria nenhum problema.
 
 112
 00:31:39,998 --> 00:31:41,749
-Já estaríamos todos mortos.
+JÃ¡ estarÃ­amos todos mortos.
 
 113
 00:32:03,830 --> 00:32:05,081
@@ -492,8 +492,8 @@ Tudo que eu fiz...
 
 118
 00:32:35,248 --> 00:32:37,830
-Tudo que fez trouxe você
-ao lugar onde está.
+Tudo que fez trouxe vocÃª
+ao lugar onde estÃ¡.
 
 119
 00:32:40,290 --> 00:32:41,830
@@ -533,7 +533,7 @@ Vamos!
 
 128
 00:35:09,956 --> 00:35:12,540
-Vão para lá! Andem!
+VÃ£o para lÃ¡! Andem!
 
 129
 00:35:12,831 --> 00:35:14,956
@@ -541,7 +541,7 @@ Vamos. Vamos!
 
 130
 00:35:18,457 --> 00:35:20,165
-Vão! Vão!
+VÃ£o! VÃ£o!
 
 131
 00:35:20,831 --> 00:35:21,914
@@ -562,7 +562,7 @@ Mais homens aqui em cima!
 
 135
 00:36:16,749 --> 00:36:17,829
-Eles estão subindo!
+Eles estÃ£o subindo!
 
 136
 00:36:17,830 --> 00:36:20,582
@@ -576,27 +576,27 @@ Arqueiros no alto!
 138
 00:36:23,998 --> 00:36:26,829
 - Para cima!
-- Vão! Vão!
+- VÃ£o! VÃ£o!
 
 139
 00:36:26,830 --> 00:36:28,457
 - Vai!
-- Para trás!
+- Para trÃ¡s!
 
 140
 00:36:28,582 --> 00:36:30,123
 - Afaste-se!
-- Vão!
+- VÃ£o!
 
 141
 00:36:30,206 --> 00:36:32,707
-- Fiquem atrás!
-- Arqueiros em posição!
+- Fiquem atrÃ¡s!
+- Arqueiros em posiÃ§Ã£o!
 
 142
 00:36:48,830 --> 00:36:51,498
 - As muralhas!
-- Estão subindo pelas muralhas!
+- EstÃ£o subindo pelas muralhas!
 
 143
 00:36:51,582 --> 00:36:54,829
@@ -613,7 +613,7 @@ Vamos!
 
 146
 00:38:12,831 --> 00:38:14,332
-Estão subindo!
+EstÃ£o subindo!
 
 147
 00:38:26,332 --> 00:38:27,582
@@ -633,25 +633,25 @@ Clegane!
 
 151
 00:41:22,830 --> 00:41:24,332
-Clegane, precisamos de você.
+Clegane, precisamos de vocÃª.
 
 152
 00:41:25,040 --> 00:41:26,498
-Você não pode desistir.
+VocÃª nÃ£o pode desistir.
 
 153
 00:41:26,540 --> 00:41:28,749
-Vai à merda!
-Não temos como vencer!
+Vai Ã  merda!
+NÃ£o temos como vencer!
 
 154
 00:41:28,830 --> 00:41:30,956
-Você não percebe, seu idiota?
+VocÃª nÃ£o percebe, seu idiota?
 
 155
 00:41:31,248 --> 00:41:34,332
-- Isso é a morte!
-- Não podemos vencer a morte.
+- Isso Ã© a morte!
+- NÃ£o podemos vencer a morte.
 
 156
 00:41:39,248 --> 00:41:40,623
@@ -684,7 +684,7 @@ Abram!
 
 163
 00:51:06,749 --> 00:51:09,248
-Vamos! Vá.
+Vamos! VÃ¡.
 
 164
 00:51:09,373 --> 00:51:11,830
@@ -698,25 +698,25 @@ Vamos embora!
 166
 00:52:40,956 --> 00:52:43,457
 O Senhor o trouxe de volta
-com um propósito.
+com um propÃ³sito.
 
 167
 00:52:48,206 --> 00:52:50,457
-Agora esse propósito
+Agora esse propÃ³sito
 foi cumprido.
 
 168
 00:52:55,830 --> 00:52:56,830
-Conheço você.
+ConheÃ§o vocÃª.
 
 169
 00:53:02,623 --> 00:53:03,830
-E eu conheço você.
+E eu conheÃ§o vocÃª.
 
 170
 00:53:11,540 --> 00:53:13,498
-Você disse
-que nos veríamos de novo.
+VocÃª disse
+que nos verÃ­amos de novo.
 
 171
 00:53:13,830 --> 00:53:15,123
@@ -728,12 +728,12 @@ No fim do mundo.
 
 173
 00:53:19,790 --> 00:53:21,830
-Você disse que eu fecharia
+VocÃª disse que eu fecharia
 muitos olhos.
 
 174
 00:53:23,206 --> 00:53:25,123
-Estava certa sobre isso também.
+Estava certa sobre isso tambÃ©m.
 
 175
 00:53:25,830 --> 00:53:26,914
@@ -753,11 +753,11 @@ O que dizemos ao Deus da Morte?
 
 179
 00:53:58,914 --> 00:54:00,081
-Hoje não.
+Hoje nÃ£o.
 
 180
 00:54:25,665 --> 00:54:26,707
-Aí vêm eles!
+AÃ­ vÃªm eles!
 
 181
 00:54:30,415 --> 00:54:31,540
@@ -769,7 +769,7 @@ Fiquem firmes.
 
 183
 00:54:36,830 --> 00:54:38,165
-Façam cada flecha valer.
+FaÃ§am cada flecha valer.
 
 184
 00:54:47,665 --> 00:54:48,707
@@ -793,12 +793,12 @@ Vamos! Vamos!
 
 189
 01:02:00,665 --> 01:02:02,831
-Não! Não, não!
+NÃ£o! NÃ£o, nÃ£o!
 
 190
 01:02:52,831 --> 01:02:55,081
 - Bran!
-- Vá!
+- VÃ¡!
 
 191
 01:08:13,165 --> 01:08:14,290
@@ -810,7 +810,7 @@ Theon.
 
 193
 01:11:12,830 --> 01:11:13,998
-Você é um bom homem.
+VocÃª Ã© um bom homem.
 
 194
 01:11:20,248 --> 01:11:21,290
