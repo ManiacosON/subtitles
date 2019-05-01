@@ -1,0 +1,2309 @@
+1
+00:00:01,288 --> 00:00:02,689
+Jake, rápido.
+Estou com fome.
+
+2
+00:00:02,690 --> 00:00:04,325
+Sinto muito, sinto muito.
+
+3
+00:00:04,326 --> 00:00:08,314
+Tive que pegar
+minha carteira...
+
+4
+00:00:08,315 --> 00:00:09,715
+Senhores.
+
+5
+00:00:23,628 --> 00:00:26,432
+Certo, eu estava tentando algo
+e não funcionou!
+
+6
+00:00:26,800 --> 00:00:29,500
+Legendas em Série
+Policiais Fora de Série!
+
+7
+00:00:29,501 --> 00:00:32,001
+Legenda:
+laisleite | KimChoding | SarahS
+
+8
+00:00:32,002 --> 00:00:34,502
+Legenda:
+paulo182 | taiscg
+
+9
+00:00:34,503 --> 00:00:37,004
+Revisão:
+parlobrito
+
+10
+00:00:43,696 --> 00:00:45,807
+[ S05E20 ]
+"Show Me Going"
+
+11
+00:00:46,438 --> 00:00:47,992
+Antes de começarmos,
+
+12
+00:00:47,993 --> 00:00:50,760
+o Sargento Jeffords sugeriu
+que seria motivador
+
+13
+00:00:50,761 --> 00:00:53,682
+começarmos falando abobrinhas
+não relacionadas ao trabalho.
+
+14
+00:00:53,683 --> 00:00:55,473
+Achei que seria legal
+se checássemos
+
+15
+00:00:55,474 --> 00:00:57,285
+a vida pessoal do batalhão
+às vezes.
+
+16
+00:00:57,286 --> 00:00:58,794
+Abobrinha.
+Scully, comece.
+
+17
+00:00:58,795 --> 00:01:00,465
+Foi uma manhã normal.
+
+18
+00:01:00,466 --> 00:01:03,073
+Acordei com o traseiro
+do meu cão na minha boca.
+
+19
+00:01:03,074 --> 00:01:05,958
+O experimento falhou.
+Vamos falar sobre trabalho.
+
+20
+00:01:05,959 --> 00:01:07,559
+Peralta,
+tenho um caso para você.
+
+21
+00:01:07,560 --> 00:01:09,301
+- Não posso, senhor.
+- Como?
+
+22
+00:01:09,302 --> 00:01:11,545
+Desculpe,
+não queria causar agitação.
+
+23
+00:01:11,546 --> 00:01:13,436
+Só estamos indisponíveis.
+
+24
+00:01:13,437 --> 00:01:16,545
+Há uma agência multinacional,
+uma força-tarefa multiestatal.
+
+25
+00:01:16,546 --> 00:01:18,453
+- É multi em dobro.
+- É um multi-multi.
+
+26
+00:01:18,454 --> 00:01:19,854
+É melhor do que eu em tudo.
+
+27
+00:01:19,855 --> 00:01:21,255
+- Não diga isso.
+- É verdade.
+
+28
+00:01:21,256 --> 00:01:24,298
+Estão atrás de uma gangue
+que usam carros modificados
+
+29
+00:01:24,299 --> 00:01:26,086
+para levar drogas
+entre os estados.
+
+30
+00:01:26,087 --> 00:01:28,092
+É o "Velozes e Furiosos"
+da vida real.
+
+31
+00:01:28,093 --> 00:01:30,203
+Esses filmes
+não glorificam a anarquia?
+
+32
+00:01:30,204 --> 00:01:32,162
+Não,
+glorificam família, lealdade
+
+33
+00:01:32,163 --> 00:01:34,020
+e peitos grandes
+em todos personagens.
+
+34
+00:01:34,021 --> 00:01:35,525
+E sabem
+quem liderará a missão?
+
+35
+00:01:35,526 --> 00:01:37,752
+- Sargento Boomer Maxwell!
+- Nossa!
+
+36
+00:01:37,753 --> 00:01:39,718
+Boomer Maxwell?
+Que nome é esse?
+
+37
+00:01:39,719 --> 00:01:42,181
+Ele é um jogador de futebol
+e/ou um Rugrat?
+
+38
+00:01:42,182 --> 00:01:44,055
+Ele é uma lenda da polícia.
+
+39
+00:01:44,056 --> 00:01:46,235
+Prendeu três serial killers
+em uma semana.
+
+40
+00:01:46,236 --> 00:01:49,498
+Quando as mãos estavam atadas,
+já desarmou bomba com os dentes.
+
+41
+00:01:49,499 --> 00:01:53,229
+- Soube que ele faz muito sexo.
+- Hitchcock, quieto.
+
+42
+00:01:53,230 --> 00:01:56,238
+Boa sorte. Essas missões
+são muito concorridas.
+
+43
+00:01:56,239 --> 00:01:58,356
+Especialmente essa,
+pois Boomer é incrível.
+
+44
+00:01:58,357 --> 00:02:00,494
+- Na cama.
+- Colabore, Hitchcock!
+
+45
+00:02:02,247 --> 00:02:04,784
+Oi!
+O que faz aqui embaixo?
+
+46
+00:02:04,785 --> 00:02:07,195
+O banheiro de lá não presta,
+acho que foi Scully.
+
+47
+00:02:07,196 --> 00:02:08,596
+Ele disse que não foi,
+
+48
+00:02:08,597 --> 00:02:10,499
+mas quem deixaria
+um frango lá dentro?
+
+49
+00:02:10,500 --> 00:02:12,351
+Pediu à Gina para chamar
+a manutenção?
+
+50
+00:02:12,352 --> 00:02:15,535
+Sim, mas ela ainda não fez,
+só trabalha quando quer.
+
+51
+00:02:15,536 --> 00:02:18,911
+Que bom que não funciona,
+é bom te ver.
+
+52
+00:02:18,912 --> 00:02:21,220
+- Agora entre lá e arrase!
+- O quê?
+
+53
+00:02:21,221 --> 00:02:23,898
+Desculpe, agora que estou
+no comando quero motivar.
+
+54
+00:02:23,899 --> 00:02:27,923
+Então detetives podem vir aqui
+sujar nossos banheiros?
+
+55
+00:02:27,924 --> 00:02:30,254
+Policial,
+cuidado com o tom.
+
+56
+00:02:30,255 --> 00:02:32,885
+Estamos fartos da superioridade
+desses detetives.
+
+57
+00:02:32,886 --> 00:02:35,410
+Aposto que nem sabe meu nome,
+Rosa Diaz.
+
+58
+00:02:35,411 --> 00:02:38,497
+Certo,
+sei que sempre houve uma tensão
+
+59
+00:02:38,498 --> 00:02:40,899
+entre policiais e detetives,
+
+60
+00:02:40,900 --> 00:02:43,923
+mas Rosa é uma boa pessoa,
+sei que ela sabe seu nome.
+
+61
+00:02:43,924 --> 00:02:45,764
+Você, claramente,
+mandou para ela.
+
+62
+00:02:45,765 --> 00:02:47,343
+Ela não mandou,
+Della Avocado.
+
+63
+00:02:47,344 --> 00:02:49,505
+- É "Alvarado".
+- Maldito corretor.
+
+64
+00:02:49,506 --> 00:02:52,153
+Sabia que ainda era um deles.
+Todos nós sabíamos.
+
+65
+00:02:53,607 --> 00:02:55,991
+Ótimo, agora temos
+uma guerra por território
+
+66
+00:02:55,992 --> 00:02:57,849
+entre meu novo batalhão
+e meu antigo.
+
+67
+00:02:57,850 --> 00:03:00,520
+Sei que isso é chato para você,
+mas estou apertada.
+
+68
+00:03:00,521 --> 00:03:02,418
+Certo, certo.
+Acredito em você.
+
+69
+00:03:02,419 --> 00:03:04,160
+Mostre à privada
+quem manda!
+
+70
+00:03:04,506 --> 00:03:07,336
+Meu Deus,
+esses caras são os melhores.
+
+71
+00:03:07,337 --> 00:03:09,438
+- Você está nervoso?
+- Muito e você?
+
+72
+00:03:09,439 --> 00:03:12,086
+Estava,
+mas vi a ficha de Boomer.
+
+73
+00:03:12,087 --> 00:03:13,631
+Começamos
+na mesma delegacia,
+
+74
+00:03:13,632 --> 00:03:15,881
+acabamos com gangue de drogas
+ainda novatos
+
+75
+00:03:15,882 --> 00:03:19,004
+e somos chamados
+de "El Ganador".
+
+76
+00:03:19,005 --> 00:03:20,972
+Nunca ouvi ninguém
+te chamando assim.
+
+77
+00:03:20,973 --> 00:03:24,221
+Chamarão. Sou basicamente
+um Boomer Maxwell jovem.
+
+78
+00:03:24,222 --> 00:03:26,790
+Vocês não souberam?
+Boomer não comandará mais.
+
+79
+00:03:26,791 --> 00:03:30,490
+Ele quebrou as pernas saltando
+durante uma perseguição.
+
+80
+00:03:30,491 --> 00:03:33,138
+- Isso é tão legal.
+- Ele nunca mais andará.
+
+81
+00:03:33,139 --> 00:03:34,792
+Isso é muito triste.
+
+82
+00:03:34,793 --> 00:03:37,444
+Mas ainda é legal.
+Ele será tipo Ironside.
+
+83
+00:03:37,445 --> 00:03:39,537
+Espere. Então quem comandará
+essa missão?
+
+84
+00:03:39,538 --> 00:03:41,443
+Detetive Brett Booth da 63ª.
+
+85
+00:03:41,444 --> 00:03:44,989
+- Legal, legal, legal.
+- Vi uma preocupação aí.
+
+86
+00:03:44,990 --> 00:03:47,041
+- Quem é Booth?
+- Fomos juntos à Academia.
+
+87
+00:03:47,042 --> 00:03:49,231
+Lá o atingi
+com uma bala de borracha,
+
+88
+00:03:49,232 --> 00:03:51,522
+atravessou os óculos dele
+e o atingiu no olho,
+
+89
+00:03:51,523 --> 00:03:53,185
+adeus percepção
+de profundidade.
+
+90
+00:03:53,186 --> 00:03:56,422
+Foi há muito tempo, ele já deve
+ter superado e esquecido.
+
+91
+00:03:56,423 --> 00:04:00,882
+Vejam só.
+Jake Peralta, meu velho...
+
+92
+00:04:02,031 --> 00:04:04,263
+Rogers!
+Aconteceu de novo!
+
+93
+00:04:04,264 --> 00:04:06,404
+Eu lhe disse
+para manter o passeio limpo!
+
+94
+00:04:06,405 --> 00:04:08,402
+Você vai se arrepender disso,
+Peralta!
+
+95
+00:04:11,884 --> 00:04:14,800
+O estúpido Brett Booth não
+nos deixou na força-tarefa dele.
+
+96
+00:04:14,801 --> 00:04:17,706
+Só porque cegou um olho dele.
+O outro funciona muito bem.
+
+97
+00:04:17,707 --> 00:04:19,764
+Não, a coisa com o bebedor
+foi ruim.
+
+98
+00:04:19,765 --> 00:04:21,765
+- Sim, ele não enxerga.
+- Esquece isso.
+
+99
+00:04:21,766 --> 00:04:23,809
+Não precisamos de força-tarefa
+para isso.
+
+100
+00:04:23,810 --> 00:04:26,911
+Resolvemos o caso antes do Booth
+interrogar todos em dois dias.
+
+101
+00:04:26,912 --> 00:04:29,054
+- Impossível!
+- Eu odeio essa palavra,
+
+102
+00:04:29,055 --> 00:04:31,762
+a menos que seja seguida
+por "Fantasma" e "Protocolo".
+
+103
+00:04:31,763 --> 00:04:33,767
+<i>Estejam alertas.
+Temos um tiroteio</i>
+
+104
+00:04:33,768 --> 00:04:36,149
+<i>- em Brooklyn Heights.</i>
+- O que está acontecendo?
+
+105
+00:04:36,150 --> 00:04:38,461
+Há um atirador
+em um hotel em Brooklyn Heights.
+
+106
+00:04:38,462 --> 00:04:40,824
+<i>Solicitando unidades adicionais,
+central.</i>
+
+107
+00:04:40,825 --> 00:04:44,048
+Múltiplas vítimas. A ESU está
+a caminho e policiais próximos
+
+108
+00:04:44,049 --> 00:04:46,112
+- estão indo até lá.
+<i>- Pessoas correndo.</i>
+
+109
+00:04:46,113 --> 00:04:48,188
+<i>Informando seis ou sete tiros
+disparados.</i>
+
+110
+00:04:48,189 --> 00:04:49,793
+<i>Numerosos civis
+vindo por aqui.</i>
+
+111
+00:04:49,794 --> 00:04:51,805
+<i>Warwick, 9238,
+mostre-me indo.</i>
+
+112
+00:04:51,806 --> 00:04:53,705
+<i>9238, pode seguir.</i>
+
+113
+00:04:53,706 --> 00:04:55,764
+<i>Hilbert, 9825,
+mostre-me indo.</i>
+
+114
+00:04:55,765 --> 00:04:57,879
+<i>- 9825, pode seguir.</i>
+- O que estão falando?
+
+115
+00:04:57,880 --> 00:04:59,812
+"Mostre-me indo"
+e o distintivo.
+
+116
+00:04:59,813 --> 00:05:02,719
+Eles estão dizendo que estão
+por perto e estão respondendo.
+
+117
+00:05:03,316 --> 00:05:05,112
+<i>Diaz, 3118, mostre-me indo.</i>
+
+118
+00:05:05,113 --> 00:05:08,044
+- Diaz? Rosa Diaz?
+- Esse é o distintivo dela.
+
+119
+00:05:08,771 --> 00:05:10,474
+Rosa está lá.
+
+120
+00:05:12,700 --> 00:05:15,690
+Então, há informações limitadas
+sobre Brooklyn Heights,
+
+121
+00:05:15,691 --> 00:05:17,963
+mas consegui falar
+com um capitão na 97ª,
+
+122
+00:05:17,964 --> 00:05:20,179
+- que deu atualizações.
+- Quantos atiradores?
+
+123
+00:05:20,180 --> 00:05:23,051
+Dois, talvez três. A situação
+ainda está em andamento,
+
+124
+00:05:23,052 --> 00:05:27,258
+mas até agora, são três mortos
+e vários feridos, todos civis.
+
+125
+00:05:27,259 --> 00:05:29,029
+Então vamos lá ajudar Rosa,
+certo?
+
+126
+00:05:29,030 --> 00:05:31,701
+A ESU está no local,
+e a 97ª está bloqueando a área.
+
+127
+00:05:31,702 --> 00:05:34,605
+Já é um zoológico.
+Querem que fiquemos em alerta,
+
+128
+00:05:34,606 --> 00:05:36,809
+- mas sem responder.
+- Mas é só uma sugestão,
+
+129
+00:05:36,810 --> 00:05:39,069
+feito dizem para beber
+8 copos d'água por mês.
+
+130
+00:05:39,070 --> 00:05:41,304
+- Por dia.
+- Não é hora para brincadeiras.
+
+131
+00:05:41,305 --> 00:05:42,898
+Isso não é uma sugestão.
+
+132
+00:05:42,899 --> 00:05:46,126
+Recebemos ordens para continuar
+nosso trabalho como de costume.
+
+133
+00:05:46,127 --> 00:05:49,305
+Sei que se preocupam com a Rosa,
+mas ela não está sozinha.
+
+134
+00:05:49,306 --> 00:05:52,363
+Ela é parte de uma resposta
+maciça da polícia.
+
+135
+00:05:52,364 --> 00:05:55,377
+E é a Rosa, certo?
+Ela é fodona.
+
+136
+00:05:55,378 --> 00:05:57,513
+Ela é a mais durona
+de todos nós.
+
+137
+00:05:57,514 --> 00:05:59,748
+- Sem ofensa, pessoal.
+- Você está certa.
+
+138
+00:05:59,749 --> 00:06:01,983
+Eu poderia pegá-la.
+Eu sou astuto.
+
+139
+00:06:01,984 --> 00:06:04,999
+Prometo a vocês, os atualizarei
+se souber de qualquer coisa.
+
+140
+00:06:05,000 --> 00:06:07,541
+Enquanto isso,
+voltem ao trabalho. Dispensados.
+
+141
+00:06:08,613 --> 00:06:11,196
+Ames.
+Ela vai ficar bem.
+
+142
+00:06:11,531 --> 00:06:13,001
+Eu sei.
+
+143
+00:06:13,477 --> 00:06:15,823
+- Eu te amo.
+- Eu também te amo.
+
+144
+00:06:17,191 --> 00:06:19,594
+Já acabou de tentar
+entrar nas calças da Amy?
+
+145
+00:06:19,595 --> 00:06:21,670
+- O quê?
+- Desculpe. Estou surtando.
+
+146
+00:06:21,671 --> 00:06:24,305
+Estou preocupado também,
+mas não adianta surtar.
+
+147
+00:06:24,306 --> 00:06:26,975
+Não podemos ir para lá,
+então não vamos pensar nisso.
+
+148
+00:06:26,976 --> 00:06:29,485
+- Como fazemos isso?
+- Chama-se compartimentalizar.
+
+149
+00:06:29,486 --> 00:06:32,154
+Vindo de uma família desunida,
+fiquei muito bom nisso.
+
+150
+00:06:32,155 --> 00:06:35,185
+É como: "De quem é o sutiã
+no banco do carro do papai?
+
+151
+00:06:35,186 --> 00:06:37,293
+Tenho certeza que surgiu lá
+por acidente.
+
+152
+00:06:37,294 --> 00:06:40,269
+- Vou indo para a aula."
+- Não consigo. Eu penso em tudo.
+
+153
+00:06:40,270 --> 00:06:43,721
+Sou um pensador. Sempre acordo
+preocupado com o vírus da Zika.
+
+154
+00:06:43,722 --> 00:06:46,733
+Por que não falam sobre o Zika?
+Não há como curar!
+
+155
+00:06:46,734 --> 00:06:49,523
+Vamos apenas ignorar
+o que está acontecendo.
+
+156
+00:06:49,524 --> 00:06:51,150
+Vamos nos concentrar
+no caso.
+
+157
+00:06:51,766 --> 00:06:54,491
+Vamos nos tornar
+corredores de rua.
+
+158
+00:06:54,854 --> 00:06:57,360
+Certo, Charles.
+Como estou?
+
+159
+00:06:57,361 --> 00:06:59,444
+Muito legal. Como eu estou?
+
+160
+00:06:59,855 --> 00:07:02,103
+Você definitivamente
+fez uma escolha.
+
+161
+00:07:02,104 --> 00:07:03,770
+- Você se parece...
+- Speed Racer?
+
+162
+00:07:03,771 --> 00:07:05,763
+Certo? Isso é exatamente
+o que ele usa!
+
+163
+00:07:05,764 --> 00:07:07,193
+E a melhor parte é...
+
+164
+00:07:08,267 --> 00:07:10,761
+Eu posso usar o lenço
+para começar a corrida!
+
+165
+00:07:10,762 --> 00:07:13,886
+Queria que essa operação
+fosse normal e ela é.
+
+166
+00:07:13,887 --> 00:07:16,891
+- Isso é puro Charles.
+- Vamos revisar a história.
+
+167
+00:07:16,892 --> 00:07:19,319
+- Eu posso começar.
+- É melhor eu ir primeiro
+
+168
+00:07:19,320 --> 00:07:21,450
+e você faz edições internas
+antes de falar.
+
+169
+00:07:21,451 --> 00:07:24,015
+- Perfeito. Você primeiro.
+- Me chamo Axel Richards.
+
+170
+00:07:24,016 --> 00:07:26,354
+Dirijo carros roubados
+desde os 6 anos.
+
+171
+00:07:26,355 --> 00:07:28,523
+- Muito jovem.
+- Eu usava um bastão
+
+172
+00:07:28,524 --> 00:07:31,033
+para alcançar o acelerador,
+e nunca usei os freios.
+
+173
+00:07:31,034 --> 00:07:32,863
+- Perigoso.
+- Sei o que eu faço.
+
+174
+00:07:32,864 --> 00:07:34,799
+- Boa resposta.
+- As coisas deram ruim
+
+175
+00:07:34,800 --> 00:07:37,151
+quando me viciei em drogas
+após perder meu amigo
+
+176
+00:07:37,152 --> 00:07:39,944
+em um tiroteio.
+Eu vi o que eu fiz.
+
+177
+00:07:40,875 --> 00:07:42,713
+O que está fazendo aqui?
+
+178
+00:07:42,714 --> 00:07:44,601
+O rádio do Holt
+me deixou ansiosa,
+
+179
+00:07:44,602 --> 00:07:47,348
+então eu vim aqui
+para ouvir alguma música calma.
+
+180
+00:07:47,349 --> 00:07:49,496
+Sou eu cantando a música
+que escrevi.
+
+181
+00:07:49,497 --> 00:07:51,619
+<i>Garota do metrô</i>
+
+182
+00:07:51,620 --> 00:07:54,454
+<i>Recebendo todos os olhares</i>
+
+183
+00:07:54,455 --> 00:07:56,951
+<i>Se segurando em sua...</i>
+
+184
+00:07:56,952 --> 00:07:59,519
+<i>Grande pilha de livros</i>
+
+185
+00:08:00,396 --> 00:08:02,996
+Eu estava pensando,
+a Rosa parecia bem irritada
+
+186
+00:08:02,997 --> 00:08:04,748
+com o banheiro quebrado
+aqui em cima
+
+187
+00:08:04,749 --> 00:08:06,600
+e como ela está tendo
+um dia difícil,
+
+188
+00:08:06,601 --> 00:08:09,716
+seria bom consertarmos para ela,
+antes que voltasse.
+
+189
+00:08:09,717 --> 00:08:12,447
+E veio até mim porque sou
+a única aqui que faz algo.
+
+190
+00:08:12,448 --> 00:08:14,687
+E porque era para você
+ter mandado consertar.
+
+191
+00:08:14,688 --> 00:08:16,247
+Então é como
+uma segunda chance.
+
+192
+00:08:16,248 --> 00:08:19,968
+São tempos de crise,
+deveríamos ajudar os outros.
+
+193
+00:08:19,969 --> 00:08:22,683
+Por que não liga
+para o encanador que te pedi
+
+194
+00:08:22,684 --> 00:08:24,364
+há algumas horas?
+
+195
+00:08:24,943 --> 00:08:26,845
+<i>Todas as unidades,
+mantenham a posição.</i>
+
+196
+00:08:26,846 --> 00:08:28,301
+Alguma novidade, Sargento?
+
+197
+00:08:28,302 --> 00:08:30,359
+A última que ouvi,
+localizaram o atirador,
+
+198
+00:08:30,360 --> 00:08:33,062
+- mas não chegaram nele.
+- Desculpe, não vi o telefone.
+
+199
+00:08:33,063 --> 00:08:34,476
+Estou esperando.
+Como vai?
+
+200
+00:08:34,477 --> 00:08:36,380
+Só queria checar
+se você estava bem.
+
+201
+00:08:36,381 --> 00:08:39,492
+Não pude deixar de notar
+que você amassou o seu mouse.
+
+202
+00:08:39,493 --> 00:08:41,644
+Desculpe.
+Amasso quando estou nervoso.
+
+203
+00:08:41,645 --> 00:08:44,201
+Se quiser conversar,
+minha porta está sempre aberta.
+
+204
+00:08:44,202 --> 00:08:47,492
+Metaforicamente. Na verdade,
+deixo minha porta fechada,
+
+205
+00:08:47,493 --> 00:08:50,236
+por privacidade,
+segurança, clima...
+
+206
+00:08:50,237 --> 00:08:52,437
+Quer saber, nem devia
+ter usado uma metáfora.
+
+207
+00:08:52,438 --> 00:08:54,708
+Sou melhor que isso.
+Se quiser conversar,
+
+208
+00:08:54,709 --> 00:08:57,564
+- por favor, pode falar.
+- Tem uma coisa.
+
+209
+00:08:59,376 --> 00:09:02,367
+Estou com tanto medo pela Rosa.
+E percebi que não verifiquei
+
+210
+00:09:02,368 --> 00:09:04,859
+o meu seguro de vida
+desde que a Ava nasceu.
+
+211
+00:09:04,860 --> 00:09:06,547
+Estou no telefone
+com eles agora.
+
+212
+00:09:06,548 --> 00:09:08,239
+Terry precisa
+de um plano maior!
+
+213
+00:09:08,240 --> 00:09:11,183
+Entendo que esteja preocupado
+com a própria mortalidade.
+
+214
+00:09:11,184 --> 00:09:13,632
+Talvez este fato o conforte.
+
+215
+00:09:13,633 --> 00:09:16,532
+Como um policial,
+é mais fácil você ser esmagado
+
+216
+00:09:16,533 --> 00:09:18,639
+por um andaime
+do que morrer no trabalho.
+
+217
+00:09:18,640 --> 00:09:21,532
+Meu Deus. Esta é uma cidade
+de andaimes!
+
+218
+00:09:21,533 --> 00:09:23,419
+Não, Sargento,
+estava querendo dizer
+
+219
+00:09:23,420 --> 00:09:25,692
+que há milhões de jeitos
+de morrer.
+
+220
+00:09:25,693 --> 00:09:27,256
+Sabe o quão comum é
+por asfixia?
+
+221
+00:09:27,257 --> 00:09:28,816
+O que está fazendo, cara?
+
+222
+00:09:28,817 --> 00:09:30,220
+Isso não vai ser
+um problema.
+
+223
+00:09:30,221 --> 00:09:31,826
+Posso marcar vocês
+para amanhã.
+
+224
+00:09:31,827 --> 00:09:35,739
+Precisamos que conserte hoje,
+antes que uma amiga volte.
+
+225
+00:09:35,740 --> 00:09:37,187
+Sinto muito,
+demora um pouco,
+
+226
+00:09:37,188 --> 00:09:39,283
+- e tenho outros lugares.
+- Pode cancelar?
+
+227
+00:09:39,284 --> 00:09:41,553
+Não queria apelar,
+mas nossa amiga é policial,
+
+228
+00:09:41,554 --> 00:09:43,755
+e está presa no tiroteio
+de Brooklyn Heights.
+
+229
+00:09:43,756 --> 00:09:46,614
+Acha que é a primeira pessoa
+que precisa de um conserto
+
+230
+00:09:46,615 --> 00:09:49,046
+porque a vida de alguém amado
+está em perigo.
+
+231
+00:09:49,047 --> 00:09:50,475
+- Sim?
+- Mas não é.
+
+232
+00:09:50,476 --> 00:09:51,886
+Bem-vindas a Nova York.
+
+233
+00:09:53,318 --> 00:09:56,242
+É um comentário sombrio
+sobre a cidade em que vivemos.
+
+234
+00:09:56,243 --> 00:09:59,247
+Atualiza. Nenhuma notícia.
+Atualiza. Nenhuma notícia!
+
+235
+00:09:59,248 --> 00:10:00,670
+Por que não tem notícia?
+
+236
+00:10:00,671 --> 00:10:02,426
+Charles.
+Compartimentalizar, lembra?
+
+237
+00:10:02,427 --> 00:10:04,706
+Pensar em coisas boas
+como o musical do Shrek.
+
+238
+00:10:04,707 --> 00:10:06,361
+Qual é, Jake,
+sabe que cancelaram.
+
+239
+00:10:06,362 --> 00:10:08,286
+Disseram que tinha
+muita lama no palco!
+
+240
+00:10:08,287 --> 00:10:09,687
+Deve ter sido melhor mesmo.
+
+241
+00:10:09,688 --> 00:10:12,191
+Não funcionou. Que tal isso?
+Vamos limpar as mesas.
+
+242
+00:10:12,192 --> 00:10:13,626
+Sempre é uma boa distração.
+
+243
+00:10:13,627 --> 00:10:16,638
+Droga, a Rosa me deu
+esse bloco de notas.
+
+244
+00:10:16,639 --> 00:10:19,042
+Lembro que fiquei
+"alguém tem um bloco de notas?"
+
+245
+00:10:19,043 --> 00:10:20,460
+E ela disse "sim, aqui."
+
+246
+00:10:20,461 --> 00:10:22,118
+- Isso é a cara da Rosa.
+- Eu sei.
+
+247
+00:10:22,119 --> 00:10:24,399
+Certo, antes de mudar
+a apólice,
+
+248
+00:10:24,400 --> 00:10:26,132
+farei algumas
+perguntas médicas,
+
+249
+00:10:26,133 --> 00:10:28,593
+- checarei os sinais vitais.
+- Certo, faça rápido.
+
+250
+00:10:28,594 --> 00:10:30,544
+Terry sabe que o amanhã
+não é garantido.
+
+251
+00:10:30,545 --> 00:10:32,482
+Então vamos começar
+com a pressão.
+
+252
+00:10:32,483 --> 00:10:35,858
+Podemos pular essa parte.
+Sempre está 130 por 80.
+
+253
+00:10:35,859 --> 00:10:38,307
+- Terry está em forma.
+- Tiroteio. Tiroteio!
+
+254
+00:10:38,308 --> 00:10:39,862
+- O quê?
+- Alguém se feriu?
+
+255
+00:10:39,863 --> 00:10:41,371
+- Não sei.
+- Cara...
+
+256
+00:10:41,372 --> 00:10:44,459
+E sua pressão está
+em 290, 350.
+
+257
+00:10:45,069 --> 00:10:47,397
+- Você quebrou a máquina.
+- Certo, que se dane.
+
+258
+00:10:47,398 --> 00:10:48,954
+Houve tiros.
+
+259
+00:10:48,955 --> 00:10:50,810
+Tive notícias.
+Dois policiais feridos.
+
+260
+00:10:50,811 --> 00:10:52,298
+Nenhum deles é a Diaz.
+
+261
+00:10:52,299 --> 00:10:53,802
+Temos que esperar
+até que seja?
+
+262
+00:10:53,803 --> 00:10:55,719
+Senhor, temos que ir lá.
+Ajudar a Rosa.
+
+263
+00:10:55,720 --> 00:10:57,551
+Lá tem homens suficientes,
+
+264
+00:10:57,552 --> 00:11:01,098
+e recebemos ordens do Comissário
+para ficar na delegacia.
+
+265
+00:11:01,099 --> 00:11:04,002
+E daí? Ele não é do batalhão,
+não se importa com ela.
+
+266
+00:11:04,003 --> 00:11:07,090
+Sei que está preocupado
+com a Diaz, assim como eu.
+
+267
+00:11:07,091 --> 00:11:10,963
+No entanto, tenho uma ordem
+para ficar na delegacia.
+
+268
+00:11:10,964 --> 00:11:12,442
+Ótimo.
+
+269
+00:11:13,082 --> 00:11:15,180
+Entendo que essa
+é a sua ordem.
+
+270
+00:11:18,481 --> 00:11:20,082
+- O que ele disse?
+- Não importa.
+
+271
+00:11:20,083 --> 00:11:21,607
+Eu vou ir ajudar a Rosa.
+
+272
+00:11:24,348 --> 00:11:26,644
+Certo, eu vou
+para o local do tiroteio,
+
+273
+00:11:26,645 --> 00:11:29,338
+preciso da ajuda de vocês.
+Não posso pegar armas
+
+274
+00:11:29,339 --> 00:11:31,391
+sem a aprovação do Holt.
+É a nossa missão.
+
+275
+00:11:31,392 --> 00:11:33,647
+Primeira coisa,
+vamos sincronizar os relógios.
+
+276
+00:11:33,648 --> 00:11:36,201
+- Eles não funcionam.
+- É só para melhorar o visual.
+
+277
+00:11:36,202 --> 00:11:38,803
+Então usaremos os telefones,
+que conectam à internet.
+
+278
+00:11:38,804 --> 00:11:41,299
+Não tenho internet
+com esse telefone.
+
+279
+00:11:41,300 --> 00:11:44,124
+Usamos os relógios normais.
+Às 15h34, vou ao arsenal
+
+280
+00:11:44,125 --> 00:11:46,139
+e entrego ao policial
+uma lista de itens.
+
+281
+00:11:46,140 --> 00:11:48,387
+Aí às 15h35,
+você dois causam uma distração
+
+282
+00:11:48,388 --> 00:11:50,389
+para atrair o Holt
+até a sala de reunião.
+
+283
+00:11:50,390 --> 00:11:52,046
+Sem o Holt ver,
+vou à sala dele,
+
+284
+00:11:52,047 --> 00:11:54,267
+atendo quando ligarem
+pedindo aprovação,
+
+285
+00:11:54,268 --> 00:11:56,899
+e os engano
+com a minha imitação do Holt.
+
+286
+00:11:57,200 --> 00:11:59,855
+- "Sou o Capitão Holt."
+- Não sei, algo está estranho.
+
+287
+00:11:59,856 --> 00:12:01,993
+Parece um branquelo.
+É assim que se faz.
+
+288
+00:12:01,994 --> 00:12:03,909
+Tudo bem, por sorte,
+tenho um plano B.
+
+289
+00:12:03,910 --> 00:12:06,351
+Tenho o aplicativo
+da voz do Holt da Gina.
+
+290
+00:12:06,750 --> 00:12:08,329
+<i>Sou. Raymond. Holt.</i>
+
+291
+00:12:08,814 --> 00:12:11,095
+<i>Consiga. Algo.
+Consiga. Algo.</i>
+
+292
+00:12:11,500 --> 00:12:13,567
+O Holt do aplicativo
+parece tão excitado.
+
+293
+00:12:13,568 --> 00:12:15,736
+Hitchcock e Scully,
+para distrair o Capitão,
+
+294
+00:12:15,737 --> 00:12:17,269
+precisarei que briguem.
+
+295
+00:12:17,270 --> 00:12:19,798
+- Nós? Os amigos?
+- Como isso funcionaria?
+
+296
+00:12:19,799 --> 00:12:21,208
+Vocês são adoráveis.
+
+297
+00:12:21,209 --> 00:12:23,076
+Mas não temos tempo,
+deem um jeito!
+
+298
+00:12:23,619 --> 00:12:25,764
+O encanador foi inútil.
+
+299
+00:12:25,765 --> 00:12:28,415
+Mas somos duas pessoas
+capazes e inteligentes
+
+300
+00:12:28,416 --> 00:12:30,634
+e podemos descobrir
+como arrumar uma privada.
+
+301
+00:12:30,635 --> 00:12:32,109
+Claro que sim.
+
+302
+00:12:32,110 --> 00:12:33,708
+A internet nos dirá
+o que fazer.
+
+303
+00:12:33,709 --> 00:12:35,327
+- Ela sempre diz.
+- Isso!
+
+304
+00:12:35,653 --> 00:12:37,553
+Vou pesquisar
+"vídeos de privadas".
+
+305
+00:12:38,026 --> 00:12:39,826
+Quanta pornografia!
+
+306
+00:12:39,827 --> 00:12:41,528
+Deveria ter sido
+mais específica.
+
+307
+00:12:41,529 --> 00:12:43,543
+"Pessoa arrumando
+privada quebrada."
+
+308
+00:12:43,932 --> 00:12:45,378
+Mais pornô!
+
+309
+00:12:45,379 --> 00:12:47,157
+Que tal isso?
+"Vídeo com instruções
+
+310
+00:12:47,158 --> 00:12:50,783
+de um encanador
+para arrumar uma privada."
+
+311
+00:12:51,422 --> 00:12:53,479
+Continua pornô.
+Como assim?
+
+312
+00:12:53,480 --> 00:12:55,452
+Quer saber,
+isso não é ciência pesada.
+
+313
+00:12:55,453 --> 00:12:58,436
+Certo? O primeiro passo
+é fechar o registro da água.
+
+314
+00:13:00,348 --> 00:13:03,190
+Eu fiz isso?
+
+315
+00:13:04,433 --> 00:13:08,403
+Essa é uma referência da série
+"Family Matters". Lembra?
+
+316
+00:13:10,454 --> 00:13:13,805
+- Quero pegar algumas armas.
+- Certo.
+
+317
+00:13:20,202 --> 00:13:21,735
+Certo, estão prontos.
+
+318
+00:13:21,736 --> 00:13:23,681
+- É hora do show!
+- O quê?
+
+319
+00:13:24,126 --> 00:13:27,046
+Eu apenas disse...
+Que tenho o Showtime.
+
+320
+00:13:27,047 --> 00:13:29,125
+- O canal da TV a cabo.
+- Deve ser legal.
+
+321
+00:13:29,667 --> 00:13:31,860
+Scully e Hitchcock estão
+apenas se olhando.
+
+322
+00:13:31,861 --> 00:13:33,380
+Estou preocupado
+que eles...
+
+323
+00:13:33,381 --> 00:13:36,049
+Seu filho da puta!
+
+324
+00:13:37,385 --> 00:13:38,793
+Certo, hora de agir!
+
+325
+00:13:44,207 --> 00:13:46,869
+Meu Deus!
+Eles estão em um 69 de socos!
+
+326
+00:13:52,813 --> 00:13:54,994
+O que está havendo?
+Por que estão brigando?
+
+327
+00:13:54,995 --> 00:13:57,638
+Ele me deu um soco
+nas bolas, então revidei,
+
+328
+00:13:57,639 --> 00:14:00,340
+e ele revidou,
+e eu revidei de novo.
+
+329
+00:14:00,341 --> 00:14:02,477
+Mas por quê?
+Ainda não me disseram.
+
+330
+00:14:08,055 --> 00:14:10,543
+Só preciso da aprovação
+do Holt.
+
+331
+00:14:10,544 --> 00:14:11,977
+Tranquilo.
+
+332
+00:14:13,728 --> 00:14:15,574
+<i>- Aqui é o Holt.
+- Olá.</i>
+
+333
+00:14:15,575 --> 00:14:17,855
+É o Wilg, do arsenal.
+Estou com o Peralta.
+
+334
+00:14:18,359 --> 00:14:20,160
+Está retirando um colete
+e uma arma.
+
+335
+00:14:20,161 --> 00:14:22,329
+- Está liberado?
+<i>- Sim. Aprovado.</i>
+
+336
+00:14:22,330 --> 00:14:24,598
+Obrigado. E, Raymond,
+mal posso esperar
+
+337
+00:14:24,599 --> 00:14:26,567
+para você e Kevin
+virem conhecer o bebê.
+
+338
+00:14:26,568 --> 00:14:28,378
+Continua marcado
+para quinta, certo?
+
+339
+00:14:29,745 --> 00:14:31,219
+<i>Dane-se.</i>
+
+340
+00:14:31,775 --> 00:14:34,410
+Perdão, achei que queria
+conhecer a pequena Carol.
+
+341
+00:14:34,411 --> 00:14:35,944
+A cirurgia dela foi
+um sucesso.
+
+342
+00:14:35,945 --> 00:14:37,831
+<i>Dane-se. Dane-se.</i>
+
+343
+00:14:37,832 --> 00:14:39,880
+<i>Consiga. Algo.
+Tchau.</i>
+
+344
+00:14:39,881 --> 00:14:42,998
+Que estranho.
+Obrigado pela arma.
+
+345
+00:14:44,470 --> 00:14:45,919
+Certo.
+
+346
+00:14:45,920 --> 00:14:47,353
+Isso deve dar.
+
+347
+00:14:47,691 --> 00:14:49,838
+A mangueira estava desconectada
+do cano,
+
+348
+00:14:49,839 --> 00:14:52,041
+então o tubo não estava
+enchendo.
+
+349
+00:14:52,042 --> 00:14:55,268
+Agora, é só ligar isso
+novamente.
+
+350
+00:14:55,721 --> 00:14:57,712
+E testar.
+
+351
+00:14:57,713 --> 00:14:59,466
+Espere, primeiro,
+vamos rezar.
+
+352
+00:14:59,467 --> 00:15:02,569
+Querida Beyoncé,
+Solange, Rihanna,
+
+353
+00:15:02,570 --> 00:15:04,060
+alguém legal
+que seja branca,
+
+354
+00:15:04,061 --> 00:15:06,472
+Cardi B, por favor,
+abençoe essa descarga.
+
+355
+00:15:06,473 --> 00:15:08,044
+Amulhém.
+
+356
+00:15:09,922 --> 00:15:11,322
+Certo.
+
+357
+00:15:12,361 --> 00:15:13,929
+Funcionou.
+
+358
+00:15:13,930 --> 00:15:15,844
+Conseguimos!
+
+359
+00:15:15,845 --> 00:15:18,862
+O que é esse barulho estranho?
+Não parece bom.
+
+360
+00:15:18,863 --> 00:15:21,695
+Não, não. Parece normal.
+Totalmente normal. Arrumamos.
+
+361
+00:15:26,778 --> 00:15:28,226
+Droga.
+
+362
+00:15:33,608 --> 00:15:35,068
+Indo para algum lugar?
+
+363
+00:15:35,069 --> 00:15:36,546
+Tudo bem, me pegou.
+
+364
+00:15:36,547 --> 00:15:38,160
+Como sabia
+que eu estava saindo?
+
+365
+00:15:38,161 --> 00:15:40,289
+Recebi mensagens raivosas
+do policial Wilg
+
+366
+00:15:40,290 --> 00:15:43,176
+me acusando de odiar
+minha própria afilhada.
+
+367
+00:15:43,177 --> 00:15:45,321
+Quão próximo é
+do Colin do arsenal?
+
+368
+00:15:45,322 --> 00:15:46,774
+Vamos focar na questão real.
+
+369
+00:15:47,119 --> 00:15:49,800
+Por que está desobedecendo
+uma ordem do Comissário?
+
+370
+00:15:49,801 --> 00:15:51,208
+Sou o mocinho aqui.
+
+371
+00:15:51,209 --> 00:15:53,570
+Se fosse um filme,
+ninguém estaria do seu lado.
+
+372
+00:15:53,571 --> 00:15:56,322
+Em "Caça-fantasmas", o senhor
+é quem solta os fantasmas.
+
+373
+00:15:56,323 --> 00:15:58,699
+- Fantasmas não existem.
+- Então, dê-me licença,
+
+374
+00:15:58,700 --> 00:16:01,740
+- porque vou ajudar Rosa.
+- Como? Isso não é um filme.
+
+375
+00:16:01,741 --> 00:16:05,594
+Não vai entrar na cena
+e derrubar sozinho os vilões.
+
+376
+00:16:05,595 --> 00:16:07,669
+Minha arma é enorme.
+Mal cabe no carro.
+
+377
+00:16:07,670 --> 00:16:10,426
+Quer ser um herói?
+Quer fazer algo de verdade?
+
+378
+00:16:10,427 --> 00:16:13,735
+Seu amigos estão preocupados,
+e precisam de você.
+
+379
+00:16:13,736 --> 00:16:16,715
+Fiz tudo que podia.
+Tentei distrair Charles e eu,
+
+380
+00:16:16,716 --> 00:16:18,818
+- mas não adiantou.
+- Não precisam disso.
+
+381
+00:16:18,819 --> 00:16:20,805
+Precisam que os ajude
+a lidar com o medo
+
+382
+00:16:20,806 --> 00:16:23,087
+e encarar a realidade.
+
+383
+00:16:23,088 --> 00:16:24,916
+E por que o senhor
+não ajuda nisso?
+
+384
+00:16:24,917 --> 00:16:26,630
+Tentei,
+mas não funcionou.
+
+385
+00:16:26,631 --> 00:16:30,157
+Não sou bom nisso.
+Esperava que você fosse.
+
+386
+00:16:30,158 --> 00:16:33,073
+E eu esperava
+que fosse ajudar Rosa.
+
+387
+00:16:33,667 --> 00:16:36,481
+Então vai me impedir
+ou não?
+
+388
+00:16:48,616 --> 00:16:51,811
+Acho que consegui.
+Só tenho que apertar isso,
+
+389
+00:16:51,812 --> 00:16:53,451
+e vamos lá.
+
+390
+00:16:53,452 --> 00:16:55,094
+Por favor, funcione.
+
+391
+00:16:56,575 --> 00:16:57,981
+Vamos.
+
+392
+00:16:59,080 --> 00:17:01,292
+Vamos!
+
+393
+00:17:02,126 --> 00:17:05,621
+Descarga,
+sua filha da mãe!
+
+394
+00:17:13,648 --> 00:17:15,446
+Vadias ficam loucas.
+
+395
+00:17:15,447 --> 00:17:17,597
+Desculpe.
+Devemos desistir.
+
+396
+00:17:17,598 --> 00:17:19,086
+Foi uma ideia estúpida.
+
+397
+00:17:19,087 --> 00:17:22,580
+Só importaria se acreditássemos
+que Rosa vai voltar hoje.
+
+398
+00:17:23,137 --> 00:17:25,326
+- Devemos continuar, não é?
+- Com certeza.
+
+399
+00:17:25,327 --> 00:17:29,046
+E é divertido ver
+você perder para uma privada.
+
+400
+00:17:30,614 --> 00:17:32,023
+Alô?
+
+401
+00:17:33,149 --> 00:17:34,990
+Estou tentando manter
+a linha aberta,
+
+402
+00:17:34,991 --> 00:17:37,174
+não tenho tempo
+para as suas besteiras.
+
+403
+00:17:37,175 --> 00:17:38,830
+Tchau, mãe.
+
+404
+00:17:40,306 --> 00:17:41,891
+Desculpe,
+como está seu pênis?
+
+405
+00:17:41,892 --> 00:17:43,381
+Doendo.
+E o seu?
+
+406
+00:17:43,382 --> 00:17:46,812
+- Doendo.
+- Estou orgulhoso de nós.
+
+407
+00:17:49,151 --> 00:17:51,760
+- Ainda alta.
+- E se eu me cortar?
+
+408
+00:17:51,761 --> 00:17:53,528
+- Para vazar sangue?
+- Sinto muito,
+
+409
+00:17:53,529 --> 00:17:55,822
+não posso ficar o dia todo.
+Tenho mais coisas.
+
+410
+00:17:55,823 --> 00:17:58,664
+É um enfermeiro que vai
+aos pacientes. Não fure comigo!
+
+411
+00:17:58,665 --> 00:18:01,126
+Desculpe.
+É um dia difícil.
+
+412
+00:18:01,127 --> 00:18:03,057
+Ei, eu trouxe pizza.
+
+413
+00:18:03,058 --> 00:18:05,242
+Peguem uma fatia.
+
+414
+00:18:05,243 --> 00:18:07,953
+Vai ser uma longa noite,
+e vocês não comeram nada.
+
+415
+00:18:07,954 --> 00:18:09,856
+Peralta,
+por que voltou tão cedo?
+
+416
+00:18:09,857 --> 00:18:11,580
+Porque queria fazer algo.
+
+417
+00:18:12,807 --> 00:18:14,821
+Como estão, galera?
+
+418
+00:18:14,822 --> 00:18:17,764
+Não estou bem,
+mas sei que não quer conversar.
+
+419
+00:18:17,765 --> 00:18:19,934
+Não.
+Temos que falar disso.
+
+420
+00:18:19,935 --> 00:18:21,974
+Estou com muito medo
+pela Rosa.
+
+421
+00:18:21,975 --> 00:18:25,024
+Eu também.
+E me faz pensar nas crianças.
+
+422
+00:18:25,025 --> 00:18:27,999
+Como lidar com o fato que sempre
+que vou trabalhar,
+
+423
+00:18:28,000 --> 00:18:30,100
+- posso não voltar?
+- Não sei, Terry.
+
+424
+00:18:30,101 --> 00:18:33,637
+Não tenho filhos,
+mas sei que você os ama.
+
+425
+00:18:33,638 --> 00:18:36,841
+E é tudo que pode fazer,
+certo?
+
+426
+00:18:36,842 --> 00:18:39,952
+Agora que estou casando
+penso que se algo me acontecer,
+
+427
+00:18:39,953 --> 00:18:41,761
+pode afetar outra pessoa.
+
+428
+00:18:41,762 --> 00:18:44,186
+Eu iria superar,
+depois de muita terapia.
+
+429
+00:18:44,187 --> 00:18:46,847
+Estava falando de Amy,
+mas você também.
+
+430
+00:18:51,602 --> 00:18:54,337
+Olha só, 130 por 80.
+
+431
+00:18:54,338 --> 00:18:56,476
+Está normal.
+Agora posso ir.
+
+432
+00:18:56,477 --> 00:18:58,028
+Legal.
+
+433
+00:18:58,029 --> 00:19:02,297
+Eu disse, Andrew.
+Terry está com tudo.
+
+434
+00:19:02,937 --> 00:19:04,984
+Obrigado, Jake.
+
+435
+00:19:05,958 --> 00:19:08,292
+Capitão.
+Sei que não come pizza,
+
+436
+00:19:08,293 --> 00:19:10,484
+mas imaginei
+que queria ser incluído.
+
+437
+00:19:10,485 --> 00:19:14,657
+Obrigado.
+Sabe o que daria um bom filme?
+
+438
+00:19:14,658 --> 00:19:17,900
+O herói fala com os amigos
+sobre suas emoções.
+
+439
+00:19:17,901 --> 00:19:20,860
+Sei que está sendo legal,
+mas seria um péssimo filme.
+
+440
+00:19:20,861 --> 00:19:23,290
+Afinal, qual seria o cartaz?
+Rostos de pessoas?
+
+441
+00:19:23,291 --> 00:19:26,149
+Galera, galera.
+Pegaram dois atiradores.
+
+442
+00:19:26,150 --> 00:19:28,657
+Policiais feridos.
+Não disseram quantos.
+
+443
+00:19:28,658 --> 00:19:30,294
+Ligue para Diaz.
+
+444
+00:19:31,500 --> 00:19:33,906
+Merda.
+Ainda caixa postal.
+
+445
+00:19:36,400 --> 00:19:37,999
+49 MINUTOS DEPOIS
+
+446
+00:19:38,000 --> 00:19:40,799
+Certo. Não tenho os nomes
+dos policiais feridos,
+
+447
+00:19:40,800 --> 00:19:43,670
+mas se ela estiver bem,
+logo entrará em contato.
+
+448
+00:19:43,671 --> 00:19:47,971
+E se o celular descarregou,
+logo entrará pelo elevador.
+
+449
+00:19:51,638 --> 00:19:53,970
+- Poxa, Scully!
+- Não se faz coisas assim!
+
+450
+00:19:53,971 --> 00:19:55,658
+Fui apenas tirando
+uma cópia.
+
+451
+00:19:55,659 --> 00:19:57,107
+Da próxima vez, pense!
+
+452
+00:19:57,108 --> 00:19:58,600
+- Em quê?
+- Não sei!
+
+453
+00:19:58,601 --> 00:20:00,395
+Calma, cara.
+Pegue leve com ele.
+
+454
+00:20:00,396 --> 00:20:01,796
+- Diaz!
+- Rosa!
+
+455
+00:20:01,797 --> 00:20:04,988
+- Você está bem! De onde veio?
+- Queria andar, vim de escada.
+
+456
+00:20:04,989 --> 00:20:07,722
+- E queria enganar vocês.
+- Sabe que odeio pegadinhas.
+
+457
+00:20:07,723 --> 00:20:10,065
+- Você ama.
+- Amo. Amo mesmo.
+
+458
+00:20:10,066 --> 00:20:11,765
+Você fez tão bem.
+
+459
+00:20:13,810 --> 00:20:15,957
+- Estavam preocupados?
+- Não.
+
+460
+00:20:15,958 --> 00:20:17,927
+O que aconteceu?
+Atiraram em você?
+
+461
+00:20:17,928 --> 00:20:20,108
+- Teve complicações?
+- Foi um dia difícil.
+
+462
+00:20:20,109 --> 00:20:22,154
+Só quero uma cerveja.
+Não estou no humor.
+
+463
+00:20:22,155 --> 00:20:25,590
+Certeza? Hoje aprendi
+a falar sobre sentimentos.
+
+464
+00:20:25,591 --> 00:20:28,211
+Foi uma ideia estúpida.
+E Holt me disse para fazer.
+
+465
+00:20:28,212 --> 00:20:30,234
+- Vamos beber em silêncio.
+- Ótimo.
+
+466
+00:20:30,235 --> 00:20:32,190
+- Preciso ir ao banheiro.
+- Na verdade,
+
+467
+00:20:32,191 --> 00:20:34,214
+talvez queira ver
+o banheiro daqui.
+
+468
+00:20:34,215 --> 00:20:37,344
+Olá, Rosa. Sou eu, Gina Linetti.
+Bem-vinda de volta.
+
+469
+00:20:37,345 --> 00:20:42,017
+Amy e eu temos uma surpresa
+e achamos que vai gostar.
+
+470
+00:20:42,018 --> 00:20:44,193
+Vamos, garota.
+
+471
+00:20:46,185 --> 00:20:48,103
+Achei que tinha
+ajeitado o banheiro.
+
+472
+00:20:48,104 --> 00:20:52,415
+Achei que Amy ia dar um jeito,
+nos minutos que fugi.
+
+473
+00:20:52,416 --> 00:20:55,293
+Gina,
+olha o que roubei da Barnes...
+
+474
+00:20:56,273 --> 00:20:59,167
+Meu Deus, Rosa!
+Estou tão feliz por te ver.
+
+475
+00:20:59,168 --> 00:21:00,756
+Está coberta
+de água de privada?
+
+476
+00:21:00,757 --> 00:21:03,298
+Sim, muito!
+Mas está acontecendo.
+
+477
+00:21:03,299 --> 00:21:06,167
+- Tudo bem.
+- Estou sendo excluída.
+
+478
+00:21:06,168 --> 00:21:08,112
+Gina, venha aqui.
+
+479
+00:21:09,800 --> 00:21:12,300
+@legseries
+facebook.com/legendasemserie
+
