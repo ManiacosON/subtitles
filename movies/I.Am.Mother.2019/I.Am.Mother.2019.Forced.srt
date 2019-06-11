@@ -1,0 +1,308 @@
+1
+00:01:02,755 --> 00:01:06,713
+UNIDADE DE REPOVOAMENTO
+
+2
+00:01:12,463 --> 00:01:18,130
+DIAS DESDE A EXTINÇÃO:
+
+3
+00:01:22,880 --> 00:01:27,422
+EMBRIÕES HUMANOS NO LOCAL:
+
+4
+00:01:31,838 --> 00:01:36,547
+NÚMERO ATUAL DE OCUPANTES HUMANOS:
+
+5
+00:02:38,505 --> 00:02:42,922
+FÊMEA
+
+6
+00:04:25,922 --> 00:04:32,588
+<i>Rio da Lua, grande como és</i>
+
+7
+00:04:33,255 --> 00:04:34,172
+<i>Eu...</i>
+
+8
+00:04:34,672 --> 00:04:39,588
+<i>Segure-me com força e com vontade</i>
+
+9
+00:04:39,672 --> 00:04:41,547
+<i>Este feitiço que me lanças...</i>
+
+10
+00:04:45,630 --> 00:04:52,588
+<i>Não chore, meu amor</i>
+
+11
+00:04:53,380 --> 00:05:00,338
+<i>Enxugue os olhos, meu amor</i>
+
+12
+00:05:00,422 --> 00:05:05,547
+<i>Descansa tua cabeça no meu coração</i>
+
+13
+00:05:05,630 --> 00:05:08,172
+<i>Nunca se vá</i>
+
+14
+00:05:08,255 --> 00:05:11,755
+<i>Meu amor</i>
+
+15
+00:05:12,963 --> 00:05:19,547
+<i>Quando você brincar, pequena</i>
+
+16
+00:05:19,630 --> 00:05:26,213
+<i>Não ligue para o que dirão</i>
+
+17
+00:05:26,713 --> 00:05:31,963
+<i>Que teus olhos brilhem em um resplendor,</i>
+
+18
+00:05:32,047 --> 00:05:37,880
+<i>E que nunca chores, meu amor</i>
+
+19
+00:05:47,130 --> 00:05:54,130
+<i>-Dos pés à cabeça
+-Meu amor</i>
+
+20
+00:05:55,047 --> 00:06:00,672
+<i>Só Deus sabe o quanto és amável,</i>
+
+21
+00:06:00,755 --> 00:06:03,130
+<i>Meu amor</i>
+
+22
+00:06:03,213 --> 00:06:08,338
+<i>És tão preciosa para mim</i>
+
+23
+00:06:08,422 --> 00:06:10,172
+<i>E és tão doce assim</i>
+
+24
+00:06:10,755 --> 00:06:12,588
+<i>Meu amor</i>
+
+25
+00:06:12,672 --> 00:06:19,463
+<i>Meu amor, meu amor.</i>
+
+26
+00:07:18,838 --> 00:07:22,047
+MACHO
+
+27
+00:08:13,588 --> 00:08:18,463
+DIAS DESDE A EXTINÇÃO:
+
+28
+00:08:22,630 --> 00:08:27,338
+OCUPANTES HUMANOS NO MOMENTO:
+
+29
+00:09:57,672 --> 00:10:04,588
+ÉTICA - PROBLEMA DOS TRANSPLANTES
+
+30
+00:10:38,047 --> 00:10:41,380
+ESTÁVEL
+
+31
+00:11:39,297 --> 00:11:40,755
+CRÍTICO
+
+32
+00:11:53,422 --> 00:11:54,797
+<i>-Estavam filmando?
+-Sim.</i>
+
+33
+00:11:54,880 --> 00:11:56,338
+<i>Carl Reiner como diretor.</i>
+
+34
+00:11:56,422 --> 00:11:57,713
+<i>-Legal.
+-Bem legal.</i>
+
+35
+00:11:57,797 --> 00:11:59,297
+<i>Podemos falar disso depois.</i>
+
+36
+00:11:59,380 --> 00:12:00,422
+<i>-Está bem.
+-Obrigado.</i>
+
+37
+00:12:00,505 --> 00:12:02,297
+<i>-Muito obrigado.
+-Steve Martin.</i>
+
+38
+00:16:16,630 --> 00:16:19,588
+<i>Eles viajam com parentes 
+ou outros famílias.</i>
+
+39
+00:16:19,672 --> 00:16:23,505
+<i>Metade lobo, metade cão, 
+não são animais de estimação.</i>
+
+40
+00:16:23,588 --> 00:16:26,588
+<i>Sem eles, os esquimós não conseguiriam...</i>
+
+41
+00:16:28,547 --> 00:16:31,380
+QUARENTENA
+
+42
+00:17:28,422 --> 00:17:30,672
+PIJAMA
+FEMININO
+
+43
+00:39:36,088 --> 00:39:39,713
+OS DEUSES DE MARTE
+
+44
+00:49:12,380 --> 00:49:13,963
+<i>E agora, Whoopi Goldberg!</i>
+
+45
+00:49:28,630 --> 00:49:30,463
+<i>Que bom ser você a boa notícia.</i>
+
+46
+00:49:31,755 --> 00:49:34,005
+<i>Foi para Blackwell ter o que comentar.</i>
+
+47
+00:49:34,088 --> 00:49:35,672
+<i>Dá para acreditar nisso?</i>
+
+48
+00:49:35,755 --> 00:49:37,588
+<i>Mr. Blackwell, o estilista,</i>
+
+49
+00:49:37,672 --> 00:49:40,797
+<i>que todo ano mostra
+os dez piores vestidos, algo assim.</i>
+
+50
+00:49:40,880 --> 00:49:42,130
+<i>Nunca vi nada dele...</i>
+
+51
+00:57:32,672 --> 00:57:37,297
+USUÁRIO APX03
+INICIAR PROVA
+
+52
+00:57:55,422 --> 00:57:56,963
+SOU INCOMPREENDIDA
+SIM, NÃO
+
+53
+00:58:01,047 --> 00:58:02,463
+MUITAS VEZES ME PREOCUPO
+
+54
+00:58:13,213 --> 00:58:16,172
+OS DEUSES DE MARTE
+
+55
+00:58:23,755 --> 00:58:26,713
+ÀS VEZES PENSO EM COISAS
+RUINS DEMAIS PARA SE CONVERSAR
+
+56
+00:58:38,005 --> 00:58:40,005
+RESPOSTA
+
+57
+01:00:32,630 --> 01:00:35,630
+MACHO
+
+58
+01:05:44,797 --> 01:05:46,338
+FÊMEA
+
+59
+01:06:11,463 --> 01:06:12,422
+ERRO
+
+60
+01:07:14,380 --> 01:07:17,047
+ABORTADO
+
+61
+01:13:50,380 --> 01:13:52,213
+GRAVAÇÃO INTERFÔNICA DA ENFERMARIA
+
+62
+01:14:04,838 --> 01:14:07,547
+NITROGÊNIO LÍQUIDO
+
+63
+01:45:03,922 --> 01:45:09,130
+<i>Não chore, meu amor</i>
+
+64
+01:45:12,297 --> 01:45:18,047
+<i>Enxugue os olhos, meu amor</i>
+
+65
+01:45:20,588 --> 01:45:25,463
+<i>Descansa tua cabeça no meu coração</i>
+
+66
+01:45:26,505 --> 01:45:28,422
+<i>Nunca se vá</i>
+
+67
+01:45:28,963 --> 01:45:32,797
+<i>Meu amor</i>
+
+68
+01:45:36,880 --> 01:45:43,088
+<i>Quando você brincar, pequena</i>
+
+69
+01:45:45,047 --> 01:45:51,213
+<i>Não ligue para o que dirão</i>
+
+70
+01:45:52,713 --> 01:45:57,505
+<i>És tão preciosa para mim</i>
+
+71
+01:45:58,338 --> 01:46:00,505
+<i>E és tão doce assim</i>
+
+72
+01:46:01,505 --> 01:46:05,755
+<i>Meu amor.</i>
+
+73
+01:47:56,463 --> 01:47:58,922
+NETFLIX APRESENTA
+
+74
+01:52:49,755 --> 01:52:54,755
+Legendas: Airton Almeida
+
