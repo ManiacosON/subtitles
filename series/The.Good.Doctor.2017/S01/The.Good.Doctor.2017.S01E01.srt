@@ -1,0 +1,2663 @@
+1
+00:01:49,164 --> 00:01:50,464
+Senhor?
+
+2
+00:02:19,043 --> 00:02:21,719
+AEROPORTO DE CHEYENNE
+
+3
+00:02:25,411 --> 00:02:28,937
+<i>Senhoras e senhores, bem-vindos
+ao aeroporto de San Jose.</i>
+
+4
+00:03:00,717 --> 00:03:02,974
+Ajuda!
+Meu Deus!
+
+5
+00:03:04,990 --> 00:03:06,627
+Alguém ligue para o 190!
+
+6
+00:03:08,414 --> 00:03:09,714
+Meu Deus.
+
+7
+00:03:10,703 --> 00:03:12,841
+Sou médico.
+Deixe-me ver.
+
+8
+00:03:14,621 --> 00:03:17,441
+A jugular dele foi rompida.
+Alguém tem um pano limpo?
+
+9
+00:03:17,442 --> 00:03:19,903
+- Por favor, alguém!
+- Tenho um pano na mala.
+
+10
+00:03:19,904 --> 00:03:21,204
+Ótimo.
+
+11
+00:03:30,615 --> 00:03:32,160
+Você está matando-o.
+
+12
+00:03:33,060 --> 00:03:35,147
+Estou salvando-o.
+Ele estava sangrando.
+
+13
+00:03:35,148 --> 00:03:36,989
+Está pressionando
+no lugar errado.
+
+14
+00:03:36,990 --> 00:03:40,321
+Acho que lembro de Anatomia 1,
+sei onde fica a veia jugular.
+
+15
+00:03:40,322 --> 00:03:42,529
+Estaria aí, se fosse
+a jugular de um adulto.
+
+16
+00:03:42,530 --> 00:03:44,395
+Ele não é um adulto,
+é um garoto,
+
+17
+00:03:44,396 --> 00:03:47,039
+você está pressionando
+a traqueia dele,
+
+18
+00:03:47,040 --> 00:03:48,924
+e ele não está respirando.
+
+19
+00:03:51,046 --> 00:03:53,238
+Tem que fazer pressão
+mais acima.
+
+20
+00:03:57,479 --> 00:03:58,779
+Bem aqui.
+
+21
+00:04:09,611 --> 00:04:12,121
+Só alguns vidros.
+Ele ficará bem.
+
+22
+00:04:12,624 --> 00:04:14,024
+Quem é você?
+
+23
+00:04:14,586 --> 00:04:16,937
+Oi.
+Sou o Dr. Shaun Murphy,
+
+24
+00:04:16,938 --> 00:04:20,506
+cirurgião residente do hospital
+San Jose St. Bonaventure.
+
+25
+00:04:20,507 --> 00:04:21,907
+<b>[S01E01]
+"Pilot - Burnt Food"</b>
+
+26
+00:04:21,908 --> 00:04:25,108
+<b>Antag0nicu | GabyReis | PedroSPJ
+LayHolmes | Mari.luz | Buckley97</b>
+
+27
+00:04:25,109 --> 00:04:28,228
+<b>LikaPoetisa | B.Borelli | MissG
+Pedro T. | laylamot | KaylaSRP</b>
+
+28
+00:04:28,229 --> 00:04:29,729
+<b>Revisão:
+Yuca</b>
+
+29
+00:04:30,330 --> 00:04:31,781
+<i>Autismo,</i>
+
+30
+00:04:31,782 --> 00:04:36,691
+um estado mental caracterizado
+pela dificuldade em se comunicar
+
+31
+00:04:36,692 --> 00:04:39,655
+e usar a linguagem
+e conceitos abstratos.
+
+32
+00:04:39,656 --> 00:04:41,056
+Essa é a definição.
+
+33
+00:04:41,057 --> 00:04:43,506
+Pareço descrever
+um cirurgião?
+
+34
+00:04:43,507 --> 00:04:45,568
+Ele não é o Rain Man.
+
+35
+00:04:45,569 --> 00:04:48,539
+Ele tem alto desempenho,
+é capaz de viver sozinho,
+
+36
+00:04:48,540 --> 00:04:50,924
+capaz de cuidar
+dos próprios assuntos.
+
+37
+00:04:50,925 --> 00:04:52,753
+Alto desempenho?
+
+38
+00:04:52,754 --> 00:04:54,715
+Esse é nosso novo padrão
+de contratação?
+
+39
+00:04:54,716 --> 00:04:56,314
+Se fosse,
+você não estaria aqui.
+
+40
+00:04:56,315 --> 00:04:59,377
+Desculpe,
+isso é realmente necessário?
+
+41
+00:04:59,378 --> 00:05:01,700
+Uma reunião especial
+do Conselho de Diretores,
+
+42
+00:05:01,701 --> 00:05:03,819
+por mais que eu ame todos,
+
+43
+00:05:03,820 --> 00:05:06,422
+questionar minhas decisões
+de contratação?
+
+44
+00:05:06,423 --> 00:05:08,412
+Olhou a definição
+de "presidente"
+
+45
+00:05:08,413 --> 00:05:10,003
+enquanto folheava
+o dicionário?
+
+46
+00:05:10,004 --> 00:05:12,819
+Está contratando ele pra ser
+um residente de cirurgia,
+
+47
+00:05:12,820 --> 00:05:15,884
+meu departamento,
+sob minhas objeções.
+
+48
+00:05:15,885 --> 00:05:17,938
+Marcus, pare de tornar
+tudo tão pessoal.
+
+49
+00:05:17,939 --> 00:05:19,280
+Eu tornei pessoal?
+
+50
+00:05:19,281 --> 00:05:22,191
+Você sempre quis esse trabalho,
+todos sabem disso.
+
+51
+00:05:22,192 --> 00:05:24,215
+E Aaron, sim,
+este é o seu hospital,
+
+52
+00:05:24,216 --> 00:05:27,169
+mas o dinheiro que o mantém
+vem da fundação que eu controlo.
+
+53
+00:05:27,170 --> 00:05:29,568
+Então vamos todos
+nos portar bem, sim?
+
+54
+00:05:29,921 --> 00:05:31,975
+Pare de parecer surpreso
+por estar aqui.
+
+55
+00:05:31,976 --> 00:05:33,875
+Você tentou nos enganar.
+
+56
+00:05:33,876 --> 00:05:36,531
+Eu o examinei
+como qualquer outro candidato.
+
+57
+00:05:36,532 --> 00:05:40,142
+E pensou mesmo que esse Conselho
+não teria qualquer dúvida
+
+58
+00:05:40,143 --> 00:05:43,255
+em contratar um cirurgião
+diagnosticado com autismo?
+
+59
+00:05:44,455 --> 00:05:46,354
+Então justifique
+sua decisão.
+
+60
+00:05:49,037 --> 00:05:52,175
+Conheci Shaun Murphy
+quando ele tinha 14 anos.
+
+61
+00:05:52,176 --> 00:05:54,696
+Eu morava em Wyoming
+na época.
+
+62
+00:05:54,697 --> 00:05:58,600
+Ele era e ainda é um jovem
+extraordinário.
+
+63
+00:05:58,601 --> 00:06:00,559
+Sim, ele tem autismo,
+
+64
+00:06:00,560 --> 00:06:02,705
+mas também tem
+síndrome de Savant,
+
+65
+00:06:02,706 --> 00:06:05,278
+habilidades de gênio
+em diversas áreas.
+
+66
+00:06:05,279 --> 00:06:08,992
+Ele tem uma memória perfeita,
+inteligência espacial,
+
+67
+00:06:08,993 --> 00:06:12,368
+vê e analisa coisas
+
+68
+00:06:12,369 --> 00:06:14,787
+de maneiras
+que são fantásticas,
+
+69
+00:06:14,788 --> 00:06:17,984
+de maneiras que sequer
+podemos começar a entender.
+
+70
+00:06:17,985 --> 00:06:20,628
+Essas são vantagens,
+vantagens inegáveis
+
+71
+00:06:20,629 --> 00:06:23,944
+para qualquer médico,
+especialmente um cirurgião.
+
+72
+00:06:25,993 --> 00:06:28,828
+Você o conhece
+desde que tinha 14 anos?
+
+73
+00:06:28,829 --> 00:06:31,333
+Você se importa com ele.
+É como um filho para você.
+
+74
+00:06:31,334 --> 00:06:34,384
+Dr. Andrews, sua esposa
+vai ficar chateada com você.
+
+75
+00:06:34,385 --> 00:06:36,254
+Se quer transformar isso
+em nepotismo,
+
+76
+00:06:36,255 --> 00:06:39,016
+vamos ter que demitir o sobrinho
+dela da Contabilidade.
+
+77
+00:06:46,754 --> 00:06:48,280
+Desculpe.
+Viu a Claire?
+
+78
+00:06:48,281 --> 00:06:50,649
+- Pode apagar a luz?
+- Claro, você viu a Claire?
+
+79
+00:06:50,650 --> 00:06:52,850
+Por quê?
+Pode apagar a luz?
+
+80
+00:06:52,851 --> 00:06:54,663
+Melendez quer operar
+o do 104,
+
+81
+00:06:54,664 --> 00:06:56,850
+mas Claire ainda não pegou
+o consentimento.
+
+82
+00:06:56,851 --> 00:06:59,104
+E ela está ignorando o pager.
+Você a viu?
+
+83
+00:06:59,105 --> 00:07:01,156
+Não, agora vá embora
+e apague a luz.
+
+84
+00:07:01,157 --> 00:07:02,457
+Claro.
+
+85
+00:07:10,402 --> 00:07:12,029
+Eles precisam que você...
+
+86
+00:07:12,391 --> 00:07:13,823
+Eu ouvi.
+
+87
+00:07:16,274 --> 00:07:18,341
+Ela é tão chata.
+
+88
+00:07:19,000 --> 00:07:20,300
+Não.
+
+89
+00:07:21,185 --> 00:07:23,216
+Ela só não gosta de você.
+
+90
+00:07:26,565 --> 00:07:28,375
+Isso é meio bobo, não é?
+
+91
+00:07:29,864 --> 00:07:31,364
+Talvez.
+
+92
+00:07:31,365 --> 00:07:34,895
+Para ter certeza, preciso saber
+do que está falando.
+
+93
+00:07:34,896 --> 00:07:36,196
+Nós.
+
+94
+00:07:37,802 --> 00:07:41,074
+Não é nem um pouco bobo.
+Bem divertido, na verdade.
+
+95
+00:07:41,075 --> 00:07:44,365
+Digo de escondermos
+nosso relacionamento.
+
+96
+00:07:45,700 --> 00:07:47,000
+Bem,
+
+97
+00:07:47,890 --> 00:07:52,009
+Jared,
+nós não temos um relacionamento.
+
+98
+00:07:52,010 --> 00:07:54,290
+Nós transamos.
+
+99
+00:07:54,291 --> 00:07:57,455
+Mas se quer contar
+para as pessoas
+
+100
+00:07:57,456 --> 00:08:00,026
+que está transando comigo,
+fique à vontade.
+
+101
+00:08:10,762 --> 00:08:13,326
+VEIAS BASÍLICA INTERMEDIÁRIA,
+CEFÁLICA E PERFURANTE.
+
+102
+00:08:15,935 --> 00:08:18,313
+VEIA CUBITAL MEDIANA,
+VEIA ANTEBRAQUIAL MEDIANA.
+
+103
+00:08:23,028 --> 00:08:27,198
+<i>Distensão venosa se dá ao elevar
+a pressão intratorácica.</i>
+
+104
+00:08:27,199 --> 00:08:29,370
+As veias do braço esquerdo
+estão pulsantes.
+
+105
+00:08:29,371 --> 00:08:31,737
+- Isso é ruim?
+- Não vejo motivo.
+
+106
+00:08:31,738 --> 00:08:33,212
+Pressão intratorácica.
+
+107
+00:08:33,213 --> 00:08:35,336
+Não, o peito está subindo.
+Está respirando.
+
+108
+00:08:35,337 --> 00:08:38,852
+Não, o peito está movimentando
+paradoxalmente.
+
+109
+00:08:38,853 --> 00:08:40,485
+O pulmão esquerdo
+está em perigo.
+
+110
+00:08:40,486 --> 00:08:41,845
+Sinal raro de risco de vida
+
+111
+00:08:41,846 --> 00:08:43,789
+conhecido como
+pneumotórax traumático.
+
+112
+00:08:43,790 --> 00:08:46,940
+Tratamento é focado
+em corrigir a causa.
+
+113
+00:08:47,709 --> 00:08:49,064
+Sim.
+
+114
+00:08:51,221 --> 00:08:56,173
+Alguém tem uma lâmina afiada
+de doze centímetros ou mais?
+
+115
+00:08:57,480 --> 00:08:58,802
+Ninguém?
+
+116
+00:08:58,803 --> 00:09:00,765
+Deveria começar
+a respiração artificial.
+
+117
+00:09:00,766 --> 00:09:02,743
+Ele vai parar de respirar.
+
+118
+00:09:07,712 --> 00:09:09,012
+<i>Sinto-me bem.</i>
+
+119
+00:09:09,013 --> 00:09:11,847
+Dr. Melendez
+quer fazer a cirurgia hoje.
+
+120
+00:09:11,848 --> 00:09:14,676
+Precisa urgentemente
+da Ponte de Safena.
+
+121
+00:09:15,127 --> 00:09:17,128
+Pode assinar a autorização?
+
+122
+00:09:18,001 --> 00:09:20,502
+- Não.
+- Está com medo.
+
+123
+00:09:20,503 --> 00:09:22,863
+- Não estou com medo.
+- Deveria estar.
+
+124
+00:09:22,864 --> 00:09:24,541
+Vamos cortar seu peito,
+
+125
+00:09:24,542 --> 00:09:27,815
+parar seu coração,
+repará-lo e reiniciá-lo.
+
+126
+00:09:27,816 --> 00:09:29,941
+Está me dizendo
+que isso não te dá medo?
+
+127
+00:09:29,942 --> 00:09:32,067
+Apenas quero
+uma segunda opinião.
+
+128
+00:09:32,068 --> 00:09:35,886
+Callum, ontem,
+sua vida era perfeita.
+
+129
+00:09:35,887 --> 00:09:39,029
+Estava jogando tênis,
+teve uma festa de aniversário.
+
+130
+00:09:39,030 --> 00:09:41,331
+Hoje, você está
+em uma cama de hospital,
+
+131
+00:09:41,332 --> 00:09:43,511
+tentando achar
+a maneira de dizer "adeus",
+
+132
+00:09:43,512 --> 00:09:45,722
+talvez para sempre,
+para seus filhos jovens.
+
+133
+00:09:46,496 --> 00:09:48,223
+Por que está fazendo isso?
+
+134
+00:09:48,793 --> 00:09:51,297
+Porque não posso lidar
+com mentiras.
+
+135
+00:09:51,298 --> 00:09:54,292
+Se mentir para mim,
+minhas respostas não ajudarão.
+
+136
+00:09:54,636 --> 00:09:59,175
+Mas, se estiver com medo,
+eu posso ajudar.
+
+137
+00:10:02,219 --> 00:10:03,618
+Estou com medo.
+
+138
+00:10:04,121 --> 00:10:05,431
+Tudo bem.
+
+139
+00:10:09,005 --> 00:10:11,450
+- Não pode ficar aqui.
+- Eu preciso de uma faca.
+
+140
+00:10:11,451 --> 00:10:14,099
+Cadê as facas com as quais
+as pessoas tentam viajar?
+
+141
+00:10:14,100 --> 00:10:16,560
+Uma faca? Claro.
+Mais alguma coisa?
+
+142
+00:10:16,561 --> 00:10:20,319
+Também preciso de um tubo fino
+de um metro e oitenta,
+
+143
+00:10:20,320 --> 00:10:23,327
+álcool de alta porcentagem,
+luvas, e fita isolante,
+
+144
+00:10:23,328 --> 00:10:25,795
+mas vou pegar o álcool
+da loja Duty-free
+
+145
+00:10:25,796 --> 00:10:27,826
+e o tubo da máquina
+de refrigerante.
+
+146
+00:10:27,827 --> 00:10:30,028
+Desejo sorte.
+Mas não vou dar uma faca.
+
+147
+00:10:30,029 --> 00:10:32,482
+Não, preciso da faca.
+É muito...
+
+148
+00:10:32,483 --> 00:10:35,986
+Tem uma emergência médica.
+
+149
+00:10:35,987 --> 00:10:39,181
+Aquela. Aquela perto do topo,
+parece bem afiada.
+
+150
+00:10:39,182 --> 00:10:41,875
+- Pode pegar para mim?
+- Não vou te dar uma faca.
+
+151
+00:10:41,876 --> 00:10:44,152
+- Vou perguntar...
+- Não há tempo.
+
+152
+00:10:45,301 --> 00:10:46,817
+Arma!
+
+153
+00:10:49,098 --> 00:10:50,910
+Saiam!
+Saiam do caminho!
+
+154
+00:10:53,995 --> 00:10:55,295
+Largue!
+
+155
+00:10:56,065 --> 00:10:58,565
+Seu idiota! Tem sorte
+de não termos atirado.
+
+156
+00:10:58,566 --> 00:11:01,278
+Não! Ele está tentando salvar
+a vida do meu filho.
+
+157
+00:11:09,527 --> 00:11:11,445
+Pegou a autorização do 104?
+
+158
+00:11:11,446 --> 00:11:12,890
+Fiz um acordo com ele.
+
+159
+00:11:13,291 --> 00:11:16,277
+Ele tem consulta com o Dr. Max
+da Psiquiatria às 18h,
+
+160
+00:11:16,278 --> 00:11:19,306
+conseguimos a autorização
+às 20h, operamos logo cedo.
+
+161
+00:11:19,307 --> 00:11:21,320
+Passou em Anatomia,
+Dra. Browne?
+
+162
+00:11:21,321 --> 00:11:22,921
+O problema é no coração.
+
+163
+00:11:22,922 --> 00:11:24,857
+Não está preparado
+para uma cirurgia.
+
+164
+00:11:24,858 --> 00:11:27,290
+- Logo ele estará.
+- Ele está fisicamente pronto.
+
+165
+00:11:27,291 --> 00:11:29,595
+Consiga o consentimento.
+A SO 6 ficará pronta.
+
+166
+00:11:29,596 --> 00:11:32,429
+Preciso citar os 17 estudos
+que mostram a relação
+
+167
+00:11:32,430 --> 00:11:35,349
+entre atitude e resultado
+em pacientes cirúrgicos?
+
+168
+00:11:35,350 --> 00:11:38,032
+Preciso lembrar
+que sou seu superior?
+
+169
+00:11:38,364 --> 00:11:40,761
+Sabe qual é
+o oposto de superior, certo?
+
+170
+00:11:42,494 --> 00:11:46,210
+- Subordinado. Não...
+- Sim, subordinado. Ou inferior.
+
+171
+00:11:46,211 --> 00:11:48,803
+- Tanto faz.
+- Nem por isso estou errada.
+
+172
+00:11:49,213 --> 00:11:50,548
+Acho que não.
+
+173
+00:11:50,549 --> 00:11:53,026
+Mas significa que tem
+que agir como se estivesse.
+
+174
+00:11:56,015 --> 00:11:59,490
+Ele está em pânico.
+Ontem era jovem e saudável.
+
+175
+00:11:59,491 --> 00:12:03,743
+Hoje, é mortal. Só dê uma chance
+de ele absorver isso.
+
+176
+00:12:08,525 --> 00:12:09,825
+Dr. Kalu?
+
+177
+00:12:11,212 --> 00:12:14,271
+Acha que consegue
+a autorização assinada do 104?
+
+178
+00:12:16,131 --> 00:12:17,852
+- É claro.
+- Obrigado.
+
+179
+00:12:21,459 --> 00:12:23,109
+Acha que ele está certo?
+
+180
+00:12:23,609 --> 00:12:25,877
+Acho que ele é meu chefe.
+
+181
+00:12:27,675 --> 00:12:30,312
+E se eu precisar escolher
+entre meu chefe
+
+182
+00:12:31,114 --> 00:12:32,705
+e a mulher
+que estou pegando,
+
+183
+00:12:34,194 --> 00:12:36,215
+não tenho o que escolher,
+estou certo?
+
+184
+00:12:40,860 --> 00:12:43,794
+Com licença.
+Com licença, por favor?
+
+185
+00:13:26,118 --> 00:13:28,702
+Pneumotórax ocorre devido
+a uma laceração no pulmão
+
+186
+00:13:28,703 --> 00:13:30,503
+em que o ar escapa
+do espaço pleural
+
+187
+00:13:30,504 --> 00:13:32,362
+ao redor do pulmão,
+mas sem retornar.
+
+188
+00:13:32,363 --> 00:13:34,826
+A incisão deve ser feita
+duas costelas abaixo.
+
+189
+00:14:02,440 --> 00:14:04,073
+Certo, então,
+para que a garrafa?
+
+190
+00:14:04,074 --> 00:14:06,272
+O ar vai continuar
+a vazar e acumular
+
+191
+00:14:06,273 --> 00:14:08,144
+até que o dano
+seja reparado.
+
+192
+00:14:08,145 --> 00:14:09,626
+O tubo permite que o ar saia.
+
+193
+00:14:09,627 --> 00:14:12,414
+A água na garrafa
+impede que o ar volte.
+
+194
+00:14:12,415 --> 00:14:14,291
+Uma válvula caseira
+de sentido único.
+
+195
+00:14:16,286 --> 00:14:17,586
+Ele está respirando.
+
+196
+00:14:19,718 --> 00:14:21,145
+Você salvou a vida dele.
+
+197
+00:14:22,472 --> 00:14:23,772
+Ele salvou a vida dele!
+
+198
+00:14:39,100 --> 00:14:41,789
+Shaun, onde está?
+Eu...
+
+199
+00:14:42,795 --> 00:14:44,694
+Ligue-me o quanto antes,
+por favor.
+
+200
+00:14:44,695 --> 00:14:46,254
+- Isso foi um erro.
+- Concordo.
+
+201
+00:14:46,255 --> 00:14:48,032
+Não é sobre o novo médico,
+é você.
+
+202
+00:14:48,033 --> 00:14:50,091
+Estão te provocando
+e você está deixando.
+
+203
+00:14:50,092 --> 00:14:52,767
+- Talvez.
+- O quê? De que erro fala?
+
+204
+00:14:52,768 --> 00:14:55,505
+- A do sobrinho do Andrew.
+- Foi engraçado.
+
+205
+00:14:56,172 --> 00:14:58,512
+Muito engraçado,
+mas também desrespeitoso.
+
+206
+00:14:58,513 --> 00:15:01,231
+Não mostra respeito por ele,
+acho que não o respeita.
+
+207
+00:15:01,232 --> 00:15:04,474
+Deve-se mostrar respeito
+se respeita alguém ou se teme.
+
+208
+00:15:04,475 --> 00:15:07,251
+- Não me encaixo em nenhum.
+- Eu também não.
+
+209
+00:15:07,252 --> 00:15:08,552
+Mas deveria.
+
+210
+00:15:09,369 --> 00:15:12,103
+Só está naquela sala
+porque seu avô
+
+211
+00:15:12,104 --> 00:15:13,683
+fundou este hospital.
+
+212
+00:15:15,658 --> 00:15:18,612
+Vou fingir que essa conversa
+não foi para esse assunto,
+
+213
+00:15:18,613 --> 00:15:21,796
+em vez de algo relevante,
+a discussão que está perdendo.
+
+214
+00:15:22,485 --> 00:15:23,980
+É assim que ganhará.
+
+215
+00:15:23,981 --> 00:15:26,567
+Não torne pessoal.
+Não faça ser sobre você.
+
+216
+00:15:26,568 --> 00:15:30,427
+É o que eles querem,
+e se fizer isso, irá perder.
+
+217
+00:15:34,545 --> 00:15:37,591
+Preciso chegar ao hospital
+San Jose St. Bonaventure.
+
+218
+00:15:37,592 --> 00:15:38,915
+É para lá que vamos.
+
+219
+00:15:38,916 --> 00:15:40,216
+Ótimo.
+
+220
+00:15:47,123 --> 00:15:50,534
+<i>Não pode ser tão difícil
+agir como uma pessoa normal.</i>
+
+221
+00:15:50,535 --> 00:15:52,903
+<i>- Ele não sabe como.
+- Besteira!</i>
+
+222
+00:15:52,904 --> 00:15:54,428
+O que vamos fazer agora?
+
+223
+00:15:54,862 --> 00:15:56,953
+É a terceira escola
+da qual é expulso.
+
+224
+00:15:56,954 --> 00:16:00,250
+- Acharemos outra.
+- Nada vai mudar!
+
+225
+00:16:00,251 --> 00:16:01,985
+Não conseguem lidar
+e eu não culpo,
+
+226
+00:16:01,986 --> 00:16:03,968
+porque, obviamente,
+nós também não.
+
+227
+00:16:03,969 --> 00:16:05,400
+O que aconteceu dessa vez?
+
+228
+00:16:05,401 --> 00:16:06,808
+O que aconteceu?
+
+229
+00:16:06,809 --> 00:16:08,109
+Você está machucando-o.
+
+230
+00:16:10,773 --> 00:16:12,157
+O que você fez?!
+
+231
+00:16:12,158 --> 00:16:14,309
+- Shaun!
+- Não!
+
+232
+00:16:14,310 --> 00:16:16,509
+Pare de acariciar
+esse coelho idiota!
+
+233
+00:16:28,872 --> 00:16:30,172
+Mudou.
+
+234
+00:16:31,531 --> 00:16:33,331
+O eletrocardiograma mudou.
+
+235
+00:16:34,897 --> 00:16:37,218
+Está igual,
+86 batimentos por minuto.
+
+236
+00:16:37,219 --> 00:16:39,386
+Não, era mais alto.
+
+237
+00:16:39,387 --> 00:16:41,898
+Não, era 86.
+Continua 86.
+
+238
+00:16:41,899 --> 00:16:43,608
+Vinha até aqui antes.
+
+239
+00:16:45,012 --> 00:16:49,241
+Menor amplitude significa
+menor voltagem.
+
+240
+00:16:49,242 --> 00:16:50,688
+O que é?
+O que significa?
+
+241
+00:16:50,689 --> 00:16:52,813
+Que quer ler
+um equipamento de 20 anos
+
+242
+00:16:52,814 --> 00:16:55,325
+dentro de um veículo
+a 60km por hora.
+
+243
+00:16:56,731 --> 00:16:58,120
+Como o fez assinar?
+
+244
+00:16:58,121 --> 00:17:00,901
+Disse que ou ele consentia
+ou iria para casa,
+
+245
+00:17:00,902 --> 00:17:03,180
+dei dois formulários
+e pedi para escolher.
+
+246
+00:17:05,313 --> 00:17:08,126
+Sublinhou a parte
+de ser contra ordens médicas
+
+247
+00:17:08,127 --> 00:17:10,974
+e da possibilidade de morte
+ou invalidez permanente?
+
+248
+00:17:11,718 --> 00:17:13,352
+Muito bem.
+
+249
+00:17:13,353 --> 00:17:14,803
+Passe-me uma Metz
+e uma pinça.
+
+250
+00:17:14,804 --> 00:17:16,480
+Vou isolar
+a aorta descendente.
+
+251
+00:17:16,481 --> 00:17:17,942
+Pinça Satinsky.
+
+252
+00:17:19,233 --> 00:17:20,781
+O que é aquilo?
+
+253
+00:17:20,782 --> 00:17:24,273
+Sob o átrio esquerdo,
+algo branco.
+
+254
+00:17:24,994 --> 00:17:26,678
+Isso é parte do pulmão?
+
+255
+00:17:27,523 --> 00:17:29,020
+É pus.
+
+256
+00:17:30,215 --> 00:17:32,821
+- Ele tinha tuberculose?
+- Não, ele não tem...
+
+257
+00:17:32,822 --> 00:17:34,892
+- Não, ele tem histórico?
+- Foi exposto...
+
+258
+00:17:34,893 --> 00:17:36,400
+Isto é um abscesso.
+Isso vai...
+
+259
+00:17:38,093 --> 00:17:40,350
+Drenagem e uma esponja.
+A pressão está caindo.
+
+260
+00:17:40,351 --> 00:17:41,758
+Dois litros de soro.
+
+261
+00:17:41,759 --> 00:17:44,409
+Configure o nível um.
+Duas bolsas de sangue agora.
+
+262
+00:17:44,828 --> 00:17:47,076
+Aplique Norepinefrina
+e mantenha a PAM em 60.
+
+263
+00:17:47,462 --> 00:17:49,386
+Drene aqui.
+Não consigo ver nada.
+
+264
+00:17:49,387 --> 00:17:50,840
+Drenando.
+
+265
+00:17:51,640 --> 00:17:54,229
+Espero que ele não se chateie
+ao saber que morreria
+
+266
+00:17:54,230 --> 00:17:55,755
+se esperássemos até amanhã.
+
+267
+00:17:56,405 --> 00:17:59,043
+Dr. Melendez, temos garoto
+de 8 anos chegando,
+
+268
+00:17:59,044 --> 00:18:00,344
+pneumotórax estabilizado,
+
+269
+00:18:00,345 --> 00:18:03,181
+e ferimentos internos
+indeterminados. Quem vai mandar?
+
+270
+00:18:03,182 --> 00:18:05,157
+Claire,
+acho que não precisamos de você.
+
+271
+00:18:05,158 --> 00:18:08,367
+Este paciente vai ficar bem.
+Vá agora.
+
+272
+00:18:10,903 --> 00:18:12,278
+Menino saudável de 8 anos,
+
+273
+00:18:12,279 --> 00:18:14,314
+atingido por uma placa
+de vidro quebrado.
+
+274
+00:18:14,315 --> 00:18:16,077
+- Inúmeros cortes.
+- Eco...
+
+275
+00:18:16,382 --> 00:18:18,417
+Leve-o ao Trauma 3
+com um ECG,
+
+276
+00:18:18,418 --> 00:18:20,170
+hemograma completo
+e uma tomografia.
+
+277
+00:18:20,171 --> 00:18:22,046
+Precisamos
+de um ecocardiograma.
+
+278
+00:18:22,047 --> 00:18:24,450
+- Quem é ele?
+- Ajudou nos primeiros socorros.
+
+279
+00:18:24,451 --> 00:18:26,718
+Sou médico. Ele precisa
+de um ecocardiograma.
+
+280
+00:18:26,719 --> 00:18:28,406
+- Ele vai para onde?
+- À cirurgia.
+
+281
+00:18:28,407 --> 00:18:30,447
+Os sinais vitais cardíacos
+estão normais.
+
+282
+00:18:30,448 --> 00:18:33,517
+- Tem algum documento?
+- Não. É o coração dele.
+
+283
+00:18:33,518 --> 00:18:35,475
+O coração dele está bem.
+Fique aqui.
+
+284
+00:18:35,476 --> 00:18:37,348
+Adam precisa
+de um ecocardiograma.
+
+285
+00:18:37,349 --> 00:18:40,016
+Não. Comporte-se,
+ou será expulso daqui.
+
+286
+00:18:52,361 --> 00:18:54,650
+Eco.
+
+287
+00:19:01,264 --> 00:19:04,325
+- O que é isso?
+- Uma válvula unidirecional.
+
+288
+00:19:04,326 --> 00:19:07,433
+E ela informa que o garoto
+sofreu um pneumotórax.
+
+289
+00:19:08,332 --> 00:19:10,351
+Isso é legal.
+
+290
+00:19:17,095 --> 00:19:19,518
+Acha que devemos
+fazer um ecocardiograma?
+
+291
+00:19:19,519 --> 00:19:21,314
+Com base nos sintomas
+apresentados,
+
+292
+00:19:21,315 --> 00:19:24,278
+não há nenhuma indicação
+para um ecocardiograma,
+
+293
+00:19:24,279 --> 00:19:26,300
+então minha resposta
+é "não".
+
+294
+00:19:26,919 --> 00:19:29,893
+- Estou deixando passar algo?
+- Não, senhor.
+
+295
+00:19:30,461 --> 00:19:31,892
+Bisturi.
+
+296
+00:19:35,314 --> 00:19:38,005
+SAÍDA
+
+297
+00:19:42,614 --> 00:19:44,634
+SEGURANÇA
+
+298
+00:20:20,894 --> 00:20:23,970
+<i>Normalmente não tratamos
+coelhos, especialmente...</i>
+
+299
+00:20:23,971 --> 00:20:26,502
+Era o hospital mais perto
+e era uma emergência.
+
+300
+00:20:26,503 --> 00:20:28,822
+<i>Eu entendo, mas mesmo
+se eu fosse veterinário,</i>
+
+301
+00:20:28,823 --> 00:20:31,556
+<i>o coelho está morto.</i>
+
+302
+00:20:35,348 --> 00:20:36,943
+Sinto muito, meninos.
+
+303
+00:20:38,135 --> 00:20:40,747
+Tudo cheira diferente
+quando chove.
+
+304
+00:20:42,627 --> 00:20:44,135
+O que fazemos agora?
+
+305
+00:20:45,622 --> 00:20:49,540
+Bom, acredito
+que deveriam enterrá-lo.
+
+306
+00:20:49,541 --> 00:20:52,776
+Não sei,
+fazer um funeral bonito.
+
+307
+00:20:52,777 --> 00:20:54,431
+Ele foi para o Céu?
+
+308
+00:20:59,000 --> 00:21:01,405
+Sim, tenho certeza que sim.
+
+309
+00:21:01,406 --> 00:21:04,593
+Não o quero no Céu!
+Eu o quero aqui!
+
+310
+00:21:08,357 --> 00:21:09,711
+Não vai acontecer de novo.
+
+311
+00:21:09,712 --> 00:21:12,342
+Não pode acontecer.
+Ele está morto.
+
+312
+00:21:12,343 --> 00:21:17,148
+Eu sei, digo que nunca mais
+vai acontecer isso com a gente.
+
+313
+00:21:17,149 --> 00:21:21,751
+Porque não vamos para casa.
+Nunca mais vamos para casa.
+
+314
+00:21:22,537 --> 00:21:24,920
+Temos um ao outro
+e é só o que precisamos.
+
+315
+00:21:34,297 --> 00:21:36,922
+Um cirurgião
+precisa se comunicar
+
+316
+00:21:36,923 --> 00:21:38,718
+não só com informações,
+
+317
+00:21:39,219 --> 00:21:42,120
+mas com simpatia, empatia.
+
+318
+00:21:42,121 --> 00:21:43,921
+O Dr. Murphy é capaz
+de fazer isso?
+
+319
+00:21:44,259 --> 00:21:47,435
+Ele não consegue
+nem comparecer a uma entrevista.
+
+320
+00:21:48,553 --> 00:21:50,555
+Vai sentar aqui
+e dizer que não existem
+
+321
+00:21:50,556 --> 00:21:54,298
+outros jovens cirurgiões
+igualmente qualificados...
+
+322
+00:21:55,663 --> 00:21:59,137
+cirurgiões sem os problemas
+que esse tem?
+
+323
+00:21:59,611 --> 00:22:01,032
+Não.
+
+324
+00:22:01,033 --> 00:22:04,729
+Que é exatamente a razão
+para contratarmos Shaun.
+
+325
+00:22:04,730 --> 00:22:07,624
+Devemos contratá-lo
+por ser qualificado
+
+326
+00:22:07,625 --> 00:22:09,738
+e porque ele é diferente.
+
+327
+00:22:09,739 --> 00:22:13,224
+Há quanto tempo
+não contratávamos negros?
+
+328
+00:22:13,225 --> 00:22:18,151
+Há quanto tempo
+não contratávamos mulheres?
+
+329
+00:22:18,152 --> 00:22:21,115
+Então está comparando
+ser afro-americano
+
+330
+00:22:21,116 --> 00:22:23,568
+ou ser mulher
+com ser autista?
+
+331
+00:22:23,569 --> 00:22:25,680
+Por favor, continue.
+
+332
+00:22:26,037 --> 00:22:27,378
+Está bem.
+
+333
+00:22:29,758 --> 00:22:32,401
+A racionalização
+é exatamente a mesma.
+
+334
+00:22:32,789 --> 00:22:34,547
+Palavras como "temperamento"
+
+335
+00:22:34,548 --> 00:22:38,414
+e, meu Deus,
+como os pacientes vão reagir?
+
+336
+00:22:38,415 --> 00:22:40,804
+Não somos julgados
+por como tratamos as pessoas?
+
+337
+00:22:40,805 --> 00:22:43,760
+Não digo como médicos,
+digo como pessoas.
+
+338
+00:22:44,098 --> 00:22:48,041
+Principalmente os que não têm
+as mesmas vantagens que temos.
+
+339
+00:22:48,042 --> 00:22:50,949
+Contratando Shaun,
+damos esperanças às pessoas
+
+340
+00:22:50,950 --> 00:22:55,066
+com limitações e as limitações
+não é o que eles são,
+
+341
+00:22:55,067 --> 00:22:57,800
+e que eles têm, sim,
+uma oportunidade!
+
+342
+00:23:02,446 --> 00:23:07,446
+Contratando Shaun, este hospital
+será um lugar melhor.
+
+343
+00:23:07,463 --> 00:23:11,629
+Contratando Shaun,
+seremos pessoas melhores.
+
+344
+00:23:11,630 --> 00:23:14,255
+Nós seremos
+pessoas melhores...
+
+345
+00:23:15,394 --> 00:23:18,789
+gastando muito mais
+em seguro para negligência.
+
+346
+00:23:20,243 --> 00:23:22,611
+- Quantos anos ele tem?
+- Oito.
+
+347
+00:23:23,144 --> 00:23:24,528
+Esponja.
+
+348
+00:23:31,143 --> 00:23:33,553
+Qual era a frequência cardíaca
+há cinco minutos?
+
+349
+00:23:33,554 --> 00:23:35,588
+- 86.
+- Tem certeza?
+
+350
+00:23:35,589 --> 00:23:38,235
+Absoluta, ele é forte.
+Quase não mudou.
+
+351
+00:23:38,627 --> 00:23:41,347
+Não, alguma coisa mudou.
+Alguma coisa está diferente.
+
+352
+00:23:45,909 --> 00:23:47,410
+Mais cedo
+você falou de um eco.
+
+353
+00:23:47,411 --> 00:23:49,878
+Você não tinha motivo,
+mas perguntou. Por quê?
+
+354
+00:23:50,537 --> 00:23:53,667
+Foi aquele cara estranho
+que fez a válvula unidirecional,
+
+355
+00:23:53,668 --> 00:23:56,731
+ele insistiu que o menino
+precisa de um ecocardiograma.
+
+356
+00:23:56,732 --> 00:23:59,718
+- Ele não disse o porquê?
+- Ele era muito estranho.
+
+357
+00:24:01,464 --> 00:24:03,703
+A pressão dele está caindo.
+Não faz sentido.
+
+358
+00:24:03,704 --> 00:24:05,910
+Não há sangramento.
+Tudo está sob controle.
+
+359
+00:24:07,131 --> 00:24:08,482
+Faça um ecocardiograma.
+
+360
+00:24:08,483 --> 00:24:10,766
+Senhor, o garoto está aberto.
+Vai demorar.
+
+361
+00:24:10,767 --> 00:24:13,700
+Bom. Assim posso entender
+por que estamos fazendo um eco.
+
+362
+00:24:13,701 --> 00:24:16,202
+Dra. Browne, comigo.
+Vamos achar o cara estranho.
+
+363
+00:24:16,203 --> 00:24:17,532
+Mantenha-o estável.
+
+364
+00:24:20,862 --> 00:24:22,290
+Por que um eco?
+
+365
+00:24:23,385 --> 00:24:27,540
+Certo. Ele...
+Ele... Certo.
+
+366
+00:24:27,541 --> 00:24:30,707
+Ele... Eu...
+Ele...
+
+367
+00:24:30,708 --> 00:24:34,932
+Sabemos que acha que ele
+precisa de um ecocardiograma.
+
+368
+00:24:34,933 --> 00:24:36,351
+Só não sabemos o porquê.
+
+369
+00:24:37,206 --> 00:24:40,068
+Eu notei uma pequena redução
+
+370
+00:24:40,069 --> 00:24:42,341
+na intensidade
+do eletrocardiograma.
+
+371
+00:24:42,342 --> 00:24:44,594
+O fluxo elétrico...
+Também notei isso.
+
+372
+00:24:44,595 --> 00:24:47,253
+O batimento cardíaco se manteve,
+mas a amplitude caiu.
+
+373
+00:24:47,254 --> 00:24:49,704
+- Derrame pericárdico.
+- Função cardíaca reduzida.
+
+374
+00:24:49,705 --> 00:24:52,768
+- Estressaria outros órgãos.
+- Causando a falha deles.
+
+375
+00:24:52,769 --> 00:24:54,069
+Isso.
+
+376
+00:24:56,080 --> 00:24:57,382
+Espere.
+
+377
+00:24:57,822 --> 00:24:59,897
+Já estamos voltando...
+
+378
+00:24:59,898 --> 00:25:01,904
+Obrigado.
+
+379
+00:25:01,905 --> 00:25:05,676
+Fizeram o eco. Está normal.
+Sem derrame pericárdico.
+
+380
+00:25:05,677 --> 00:25:08,453
+Não. Tem que ser isso.
+Não há outra explicação.
+
+381
+00:25:08,454 --> 00:25:11,872
+O eco está normal,
+quer dizer que perdemos tempo.
+
+382
+00:25:12,233 --> 00:25:14,107
+Não.
+
+383
+00:25:24,131 --> 00:25:27,106
+Certo.
+Venha comigo.
+
+384
+00:25:27,501 --> 00:25:28,802
+Venha.
+
+385
+00:25:42,540 --> 00:25:43,874
+Mostre a eles.
+
+386
+00:25:53,048 --> 00:25:54,518
+De novo.
+
+387
+00:25:59,233 --> 00:26:00,571
+De novo.
+
+388
+00:26:01,500 --> 00:26:02,923
+De novo.
+
+389
+00:26:04,073 --> 00:26:05,455
+Ali.
+
+390
+00:26:05,966 --> 00:26:07,416
+Perece normal para mim.
+
+391
+00:26:07,417 --> 00:26:08,843
+Não está normal.
+
+392
+00:26:08,844 --> 00:26:11,553
+Há uma deformidade côncava
+no átrio direito.
+
+393
+00:26:11,554 --> 00:26:13,430
+Não, não há.
+
+394
+00:26:13,431 --> 00:26:15,666
+Sim, há.
+É bem sutil.
+
+395
+00:26:15,667 --> 00:26:19,054
+Mesmo que esteja certo,
+não é como o derrame se mostra.
+
+396
+00:26:21,994 --> 00:26:24,020
+Não normalmente.
+
+397
+00:26:24,825 --> 00:26:27,015
+Mas poderia.
+
+398
+00:26:28,320 --> 00:26:31,794
+O garoto foi atingido por vidro,
+a jugular foi cortada.
+
+399
+00:26:32,517 --> 00:26:35,117
+E se um pedaço de vidro
+entrou na corrente sanguínea?
+
+400
+00:26:35,418 --> 00:26:38,224
+Poderia ter entrado
+pela veia jugular,
+
+401
+00:26:38,225 --> 00:26:41,353
+ido até a veia braquiocefálica
+e parado na veia cava superior.
+
+402
+00:26:41,354 --> 00:26:42,975
+Se perfurou
+a veia cava superior,
+
+403
+00:26:42,976 --> 00:26:44,892
+o sangue pode vazar
+atrás do coração,
+
+404
+00:26:44,893 --> 00:26:46,243
+restringindo a habilidade
+
+405
+00:26:46,244 --> 00:26:47,995
+de expandir
+e preencher na diástole,
+
+406
+00:26:47,996 --> 00:26:49,646
+reduzindo a eficiência
+do coração.
+
+407
+00:26:50,509 --> 00:26:52,009
+Muitos "se" aqui.
+
+408
+00:26:57,004 --> 00:26:58,304
+Dr. Chen,
+
+409
+00:26:59,450 --> 00:27:01,316
+um par de calibre 14
+em uma seringa.
+
+410
+00:27:05,566 --> 00:27:08,728
+Todos a favor de ratificar
+a decisão do Dr. Glassman
+
+411
+00:27:08,729 --> 00:27:10,535
+em contratar
+o Dr. Shaun Murphy?
+
+412
+00:27:15,158 --> 00:27:16,458
+Todos contra.
+
+413
+00:27:20,748 --> 00:27:23,021
+- Com licença.
+- É uma emergência médica?
+
+414
+00:27:23,022 --> 00:27:25,205
+- Não, não é.
+- Então você não deveria...
+
+415
+00:27:25,206 --> 00:27:27,574
+Sim, eu sei, mas você
+precisa ficar on-line.
+
+416
+00:27:27,575 --> 00:27:29,712
+- O quê? Qual site?
+- Qualquer um desses...
+
+417
+00:27:29,713 --> 00:27:32,964
+Twitter, Youtube,
+qualquer site de notícias local.
+
+418
+00:27:37,630 --> 00:27:38,930
+<i>Ele salvou a vida dele!</i>
+
+419
+00:27:43,212 --> 00:27:46,320
+O vídeo do YouTube tem mais
+de 200 mil visualizações.
+
+420
+00:27:46,321 --> 00:27:48,204
+Aparentemente,
+é um de nossos médicos.
+
+421
+00:27:49,475 --> 00:27:51,889
+Dr. Shaun Murphy
+salvou esse garoto?
+
+422
+00:27:53,307 --> 00:27:55,606
+O menino está na SO 2.
+
+423
+00:27:55,607 --> 00:27:58,161
+Dr. Melendez não tem certeza
+se ele sobreviverá.
+
+424
+00:28:08,514 --> 00:28:11,068
+Seu noivo com certeza
+sabe usar um bisturi.
+
+425
+00:28:13,305 --> 00:28:15,876
+Por que me alertou
+sobre respeitar o Dr. Andrews?
+
+426
+00:28:20,112 --> 00:28:21,479
+O que está acontecendo?
+
+427
+00:28:21,480 --> 00:28:23,511
+Não estarei sempre aqui
+para te proteger.
+
+428
+00:28:24,081 --> 00:28:25,714
+Você acha que irá perder?
+
+429
+00:28:27,402 --> 00:28:29,027
+Todo mundo perde...
+
+430
+00:28:29,637 --> 00:28:30,937
+mais cedo ou mais tarde.
+
+431
+00:28:34,109 --> 00:28:35,409
+É o seu cara?
+
+432
+00:28:52,522 --> 00:28:53,920
+Podemos ter uma TV?
+
+433
+00:28:54,699 --> 00:28:56,132
+Não.
+
+434
+00:28:56,133 --> 00:28:57,433
+Por que não?
+
+435
+00:28:58,431 --> 00:29:00,336
+Porque somos pobres, cara.
+
+436
+00:29:00,337 --> 00:29:01,637
+Vivemos em um ônibus.
+
+437
+00:29:03,494 --> 00:29:05,502
+Acha que mamãe
+está procurando por nós?
+
+438
+00:29:06,362 --> 00:29:07,662
+Não.
+
+439
+00:29:11,721 --> 00:29:13,114
+Ela nos ama,
+
+440
+00:29:13,416 --> 00:29:15,986
+mas sabe que é melhor assim.
+
+441
+00:29:27,164 --> 00:29:28,571
+Tenho um presente para você.
+
+442
+00:29:29,289 --> 00:29:30,594
+Não é meu aniversário.
+
+443
+00:29:30,923 --> 00:29:32,718
+Tenho um presente
+de qualquer jeito.
+
+444
+00:29:50,424 --> 00:29:51,724
+Aqui.
+
+445
+00:30:34,903 --> 00:30:36,203
+Kelly.
+
+446
+00:30:52,702 --> 00:30:54,002
+Dr. Browne...
+
+447
+00:30:58,423 --> 00:30:59,723
+Você estava certa.
+
+448
+00:31:18,909 --> 00:31:20,808
+- Não gosto de picles.
+- Eu sei.
+
+449
+00:31:20,809 --> 00:31:23,206
+- Eu não quero picles.
+- E eu conferi.
+
+450
+00:31:25,894 --> 00:31:28,301
+Você salvou a vida
+daquele garoto.
+
+451
+00:31:28,898 --> 00:31:30,198
+Ótimo.
+
+452
+00:31:30,620 --> 00:31:31,963
+O nome dele é Adam.
+
+453
+00:31:31,964 --> 00:31:33,893
+Pneumotórax traumático.
+
+454
+00:31:34,734 --> 00:31:36,034
+Estou com fome.
+
+455
+00:31:40,119 --> 00:31:42,440
+O conselho reúne-se
+em 45 minutos.
+
+456
+00:31:46,838 --> 00:31:48,776
+Pode ficar aqui
+até eu voltar?
+
+457
+00:31:50,664 --> 00:31:51,964
+Tudo bem.
+
+458
+00:31:54,499 --> 00:31:55,799
+Certo.
+
+459
+00:32:03,495 --> 00:32:05,025
+Ele tem um déficit sério.
+
+460
+00:32:05,026 --> 00:32:07,349
+Uma criança está viva
+por causa do déficit.
+
+461
+00:32:07,350 --> 00:32:09,385
+Amanhã alguém pode morrer
+por causa dele.
+
+462
+00:32:09,386 --> 00:32:11,566
+Eu me lembro
+que quando te contratei,
+
+463
+00:32:11,567 --> 00:32:15,388
+você não tomava
+as decisões mais adultas.
+
+464
+00:32:15,389 --> 00:32:17,963
+Ainda não matou ninguém,
+matou?
+
+465
+00:32:17,964 --> 00:32:21,241
+Por sorte, há cura
+para juventude e estupidez...
+
+466
+00:32:21,242 --> 00:32:22,843
+Tempo e experiência.
+
+467
+00:32:22,844 --> 00:32:25,544
+Há cura para estupidez?
+Está certo.
+
+468
+00:32:25,545 --> 00:32:27,580
+Isso seria maravilhoso.
+
+469
+00:32:27,881 --> 00:32:30,752
+Shaun tem apenas
+um diagnóstico.
+
+470
+00:32:32,473 --> 00:32:34,145
+Eu gostaria da sua ajuda.
+
+471
+00:32:34,446 --> 00:32:36,613
+Mas acho
+que não a conseguirei.
+
+472
+00:32:37,693 --> 00:32:39,013
+Está bem.
+
+473
+00:32:40,684 --> 00:32:42,022
+Espere.
+
+474
+00:32:42,641 --> 00:32:44,407
+Qual é a história
+desse garoto?
+
+475
+00:32:44,408 --> 00:32:46,446
+Por que isso
+é tão importante para você?
+
+476
+00:32:48,703 --> 00:32:50,035
+Por que não?
+
+477
+00:32:50,036 --> 00:32:52,238
+Porque levar as coisas
+para o lado pessoal
+
+478
+00:32:52,239 --> 00:32:55,125
+é uma fórmula rápida
+para estragar tudo.
+
+479
+00:32:55,910 --> 00:32:57,243
+Não sei.
+
+480
+00:32:57,244 --> 00:33:00,141
+Levar as coisas
+para o lado pessoal a forma...
+
+481
+00:33:01,442 --> 00:33:03,548
+como damos
+importância a elas.
+
+482
+00:33:11,591 --> 00:33:14,828
+Você está orgulhosa
+ou decepcionada?
+
+483
+00:33:15,490 --> 00:33:17,858
+Tenho que escolher
+apenas um?
+
+484
+00:33:28,606 --> 00:33:30,740
+Você é novo na cidade,
+não é?
+
+485
+00:33:31,041 --> 00:33:32,397
+Sou.
+
+486
+00:33:32,398 --> 00:33:34,511
+Com certeza
+tem muitas perguntas.
+
+487
+00:33:34,512 --> 00:33:35,812
+Não.
+
+488
+00:33:38,984 --> 00:33:42,218
+Você deve estar curioso
+sobre o lugar e as pessoas.
+
+489
+00:33:42,219 --> 00:33:44,787
+Dr. Glassman me deu
+um mapa do hospital,
+
+490
+00:33:44,788 --> 00:33:47,495
+e eu peguei um mapa de San Jose
+na internet.
+
+491
+00:33:50,394 --> 00:33:51,741
+Está bem.
+
+492
+00:33:52,594 --> 00:33:53,894
+Ótimo.
+
+493
+00:33:58,928 --> 00:34:00,794
+Mas eu tenho uma pergunta.
+
+494
+00:34:00,795 --> 00:34:02,207
+Sim?
+
+495
+00:34:04,041 --> 00:34:06,481
+Por que foi rude comigo
+quando nos conhecemos,
+
+496
+00:34:06,482 --> 00:34:08,243
+e depois foi mais gentil,
+
+497
+00:34:08,244 --> 00:34:10,681
+e agora está tentando
+ser minha amiga?
+
+498
+00:34:11,081 --> 00:34:14,019
+Em que momento
+você estava fingindo?
+
+499
+00:34:17,259 --> 00:34:20,331
+Shaun, estamos prontos.
+
+500
+00:34:27,529 --> 00:34:30,397
+A votação foi clara.
+Por que estamos reabrindo isso?
+
+501
+00:34:30,398 --> 00:34:32,398
+Só por um pouco
+de publicidade?
+
+502
+00:34:32,399 --> 00:34:34,567
+É porque o homem
+acabou de salvar uma vida.
+
+503
+00:34:34,568 --> 00:34:37,703
+E graças a Deus por isso,
+mas não muda o que discutimos.
+
+504
+00:34:37,704 --> 00:34:39,072
+Deem seis meses a ele.
+
+505
+00:34:39,073 --> 00:34:42,475
+Se ele não provar
+que é excelente...
+
+506
+00:34:42,476 --> 00:34:45,053
+Alguém menos que excelente
+significa mortes.
+
+507
+00:34:45,054 --> 00:34:47,907
+Eu adoraria fazê-lo feliz,
+doutor.
+
+508
+00:34:47,908 --> 00:34:51,083
+Adoraria contratar alguém
+que nunca erra.
+
+509
+00:34:51,084 --> 00:34:53,935
+Mas infelizmente,
+Deus já tem um trabalho.
+
+510
+00:34:53,936 --> 00:34:58,324
+Admito que ele tem percepções
+que ninguém mais teria.
+
+511
+00:34:58,325 --> 00:35:01,093
+Pode admitir que ele errará
+como nenhum de nós erraria?
+
+512
+00:35:01,094 --> 00:35:03,267
+Não será você
+a pagar o preço.
+
+513
+00:35:08,634 --> 00:35:13,305
+Se Shaun não cumprir tudo
+que eu sei que ele pode fazer,
+
+514
+00:35:13,306 --> 00:35:15,528
+ele será liberado
+imediatamente.
+
+515
+00:35:16,141 --> 00:35:20,333
+E eu renunciarei a minha posição
+de presidente deste hospital.
+
+516
+00:35:22,869 --> 00:35:25,560
+Ainda não ouvimos
+o Dr. Murphy.
+
+517
+00:35:25,891 --> 00:35:29,364
+Talvez devêssemos ouvi-lo,
+antes de decidirmos seu destino.
+
+518
+00:35:30,906 --> 00:35:32,206
+Shaun.
+
+519
+00:35:48,573 --> 00:35:49,873
+Dr. Murphy.
+
+520
+00:35:51,322 --> 00:35:55,103
+Gostaria que nos contasse
+por que quer ser um cirurgião.
+
+521
+00:36:13,421 --> 00:36:15,646
+<i>Por que quero
+que eles sejam meus amigos?</i>
+
+522
+00:36:15,647 --> 00:36:17,601
+<i>Todos precisam de amigos,
+Shaun.</i>
+
+523
+00:36:17,602 --> 00:36:21,174
+Vai ser legal, está bem?
+Brincar de esconde-esconde?
+
+524
+00:36:21,175 --> 00:36:23,307
+- Tudo bem.
+- Pega-pega no depósito?
+
+525
+00:36:29,067 --> 00:36:30,424
+Ei, parem de me seguir!
+
+526
+00:37:03,813 --> 00:37:05,689
+Eu disse que era divertido.
+
+527
+00:37:12,987 --> 00:37:14,287
+Sabe de uma coisa?
+
+528
+00:37:51,815 --> 00:37:54,382
+No dia em que a chuva
+cheirava a sorvete,
+
+529
+00:37:56,380 --> 00:38:00,989
+meu coelhinho foi para o Céu,
+diante dos meus olhos.
+
+530
+00:38:04,811 --> 00:38:07,605
+No dia em que os canos de cobre
+do prédio antigo
+
+531
+00:38:07,606 --> 00:38:09,175
+cheiravam a comida queimada,
+
+532
+00:38:11,654 --> 00:38:12,990
+meu irmão...
+
+533
+00:38:15,451 --> 00:38:18,426
+foi para o Céu,
+diante dos meus olhos.
+
+534
+00:38:22,046 --> 00:38:23,598
+Não pude salvá-los.
+
+535
+00:38:24,993 --> 00:38:26,293
+Isso é triste.
+
+536
+00:38:29,159 --> 00:38:32,014
+Nenhum dos dois teve a chance
+de se tornar um adulto.
+
+537
+00:38:34,090 --> 00:38:37,426
+Eles deveriam
+ter se tornado adultos.
+
+538
+00:38:39,996 --> 00:38:43,356
+Eles deveriam ter tido
+seus próprios filhos
+
+539
+00:38:43,357 --> 00:38:46,591
+e amado esses filhos.
+
+540
+00:38:51,271 --> 00:38:53,797
+E eu quero tornar
+isso possível,
+
+541
+00:38:53,798 --> 00:38:55,150
+para outras pessoas.
+
+542
+00:39:06,432 --> 00:39:09,901
+E quero ganhar muito dinheiro,
+para comprar uma televisão.
+
+543
+00:39:21,746 --> 00:39:23,046
+Dr. Murphy.
+
+544
+00:39:26,974 --> 00:39:30,216
+Quero ser a primeira
+a lhe dar boas-vindas
+
+545
+00:39:30,217 --> 00:39:32,939
+ao Hospital San Jose
+St. Bonaventure.
+
+546
+00:39:36,222 --> 00:39:37,725
+Estamos orgulhosos em tê-lo.
+
+547
+00:39:48,365 --> 00:39:52,608
+Shaun, a equipe do Dr. Melendez
+está entrando em cirurgia.
+
+548
+00:39:53,851 --> 00:39:56,404
+Digo, se estiver interessado.
+
+549
+00:40:58,343 --> 00:41:00,049
+Tem uma área complicada aqui.
+
+550
+00:41:01,372 --> 00:41:02,672
+Murphy.
+
+551
+00:41:11,052 --> 00:41:12,352
+Sucção.
+
+552
+00:41:19,367 --> 00:41:21,900
+Nunca se esqueça,
+você é o inteligente.
+
+553
+00:41:22,276 --> 00:41:23,697
+Pode fazer qualquer coisa.
+
+554
+00:41:24,567 --> 00:41:26,130
+E sinto orgulho de você,
+Shaun.
+
+555
+00:41:33,533 --> 00:41:35,165
+Aposto que já viu
+muitos desses.
+
+556
+00:41:38,183 --> 00:41:39,718
+Lembro do meu primeiro.
+
+557
+00:41:40,939 --> 00:41:43,104
+Pensava:
+"Não fica melhor que isso".
+
+558
+00:41:45,160 --> 00:41:47,879
+E receio que, para você,
+essa é a realidade.
+
+559
+00:41:50,923 --> 00:41:53,908
+Você é um garoto legal,
+e é mesmo muito inteligente,
+
+560
+00:41:54,702 --> 00:41:56,122
+mas aqui não é seu lugar.
+
+561
+00:41:57,817 --> 00:41:59,496
+Enquanto estiver
+na minha equipe,
+
+562
+00:41:59,497 --> 00:42:01,200
+essa será sua função,
+
+563
+00:42:01,704 --> 00:42:03,004
+sucção.
+
+564
+00:42:07,847 --> 00:42:10,327
+Vi muitos cirurgiões
+na faculdade de Medicina.
+
+565
+00:42:12,307 --> 00:42:14,283
+Você é muito melhor
+do que eles.
+
+566
+00:42:14,284 --> 00:42:16,080
+Tenho muito
+o que aprender com você.
+
+567
+00:42:23,245 --> 00:42:24,834
+Você é muito arrogante.
+
+568
+00:42:26,314 --> 00:42:28,688
+Acha que isso te ajuda
+a ser um bom cirurgião?
+
+569
+00:42:30,485 --> 00:42:32,126
+Isso te machuca como pessoa?
+
+570
+00:42:34,506 --> 00:42:35,806
+Vale a pena?
+
+571
+00:42:41,338 --> 00:42:44,338
+<b>Vem legendar!
+contatoenjoyteam@gmail.com</b>
+
