@@ -1,0 +1,3882 @@
+1
+00:00:00,001 --> 00:00:01,399
+<i>Anteriormente, em SWAT...</i>
+
+2
+00:00:01,400 --> 00:00:03,100
+<i>Annie, deixa
+que trabalhe na folga</i>
+
+3
+00:00:03,101 --> 00:00:05,600
+-tão perto do parto?
+-Precisamos do dinheiro.
+
+4
+00:00:05,601 --> 00:00:09,200
+Sabe o seu amigo que procurava
+alguém para ser segurança?
+
+5
+00:00:09,201 --> 00:00:11,600
+-Conhece alguém?
+-Sim, eu.
+
+6
+00:00:11,601 --> 00:00:13,800
+-Não paga muito.
+-É melhor que nada.
+
+7
+00:00:13,801 --> 00:00:16,998
+Eu acabei de sair
+<i>de um casamento complicado.</i>
+
+8
+00:00:16,999 --> 00:00:20,200
+<i>-Isso devia ser fácil.</i>
+-Não sou o que você queria.
+
+9
+00:00:20,201 --> 00:00:21,501
+Não.
+
+10
+00:00:22,800 --> 00:00:24,800
+-Talvez deveríamos...
+-Dar um tempo.
+
+11
+00:00:35,300 --> 00:00:38,600
+LABORATÓRIO FORENSE DPLA
+<i>Descarte biológico.</i>
+
+12
+00:00:39,800 --> 00:00:41,868
+-Você está 2h atrasado.
+<i>-Desculpe.</i>
+
+13
+00:00:41,869 --> 00:00:44,200
+<i>-Essa noite está corrida.</i>
+-Identidade.
+
+14
+00:00:45,500 --> 00:00:47,100
+Certo. Entre.
+
+15
+00:00:59,700 --> 00:01:01,900
+DESCARTE BIOLÓGICO
+LA MEDICAL
+
+16
+00:01:16,100 --> 00:01:17,600
+Vamos nessa.
+
+17
+00:01:21,300 --> 00:01:25,200
+Natal em Vegas?
+Isso parece depressivo.
+
+18
+00:01:25,201 --> 00:01:28,200
+Champanhe no Hakkasan,
+rodízio de sushi no Nobu
+
+19
+00:01:28,201 --> 00:01:31,300
+e blackjack 2x1.
+Acho que ficarei bem.
+
+20
+00:01:31,301 --> 00:01:33,800
+-E você?
+-Ficarei em casa esse ano.
+
+21
+00:01:33,801 --> 00:01:36,300
+Beberei um vinho
+perto da lareira,
+
+22
+00:01:36,301 --> 00:01:38,575
+terminarei o manual
+de variantes moleculares.
+
+23
+00:01:38,576 --> 00:01:40,700
+Certo.
+Isso sim soa depressivo.
+
+24
+00:01:41,500 --> 00:01:43,500
+Vou guardar isso
+e tomaremos um café.
+
+25
+00:01:46,400 --> 00:01:48,500
+DEPÓSITO DE EVIDÊNCIAS
+DE CRIMES HEDIONDOS
+
+26
+00:01:54,600 --> 00:01:56,100
+O que estão fazendo?
+
+27
+00:01:56,800 --> 00:01:58,500
+Meu Deus. Meu Deus.
+
+28
+00:01:58,501 --> 00:01:59,901
+Meu Deus.
+
+29
+00:02:00,501 --> 00:02:03,600
+Não. Não. Não, não.
+
+30
+00:02:12,100 --> 00:02:13,500
+Vamos.
+
+31
+00:02:38,200 --> 00:02:40,300
+-Acharam alguém lá dentro?
+-O incendiário
+
+32
+00:02:40,301 --> 00:02:42,802
+usou acelerante químico
+e o fogo foi mais intenso.
+
+33
+00:02:42,803 --> 00:02:44,900
+Tentamos conter as chamas
+e resgatar...
+
+34
+00:02:44,901 --> 00:02:47,189
+-Becca!
+-Comte., você a conhece?
+
+35
+00:02:47,190 --> 00:02:49,495
+Rebecca Cates.
+Tec. de laboratório sênior
+
+36
+00:02:49,496 --> 00:02:51,703
+e amiga da família.
+Diga que ela sobreviverá.
+
+37
+00:02:51,704 --> 00:02:53,510
+Foi baleada
+e queimaduras de 2º grau.
+
+38
+00:02:53,511 --> 00:02:56,100
+Quanto mais demorar
+até o hospital, pior será.
+
+39
+00:02:56,101 --> 00:02:58,700
+Aqui é o comandante
+Robert Hicks, SWAT do DPLA.
+
+40
+00:02:58,701 --> 00:03:00,800
+Um dos nossos
+a caminho do Pleasant Green.
+
+41
+00:03:00,801 --> 00:03:02,700
+Quero escolta completa
+pela Wilshire.
+
+42
+00:03:02,701 --> 00:03:04,800
+Repito, escolta completa.
+
+43
+00:03:04,801 --> 00:03:06,800
+<i>Entendido,
+escolta a caminho.</i>
+
+44
+00:03:13,300 --> 00:03:16,200
+Nia Wells. A Procuradora
+está em uma conferência,
+
+45
+00:03:16,201 --> 00:03:18,900
+ela me mandou no lugar dela.
+O que houve?
+
+46
+00:03:18,901 --> 00:03:21,750
+Eu não te tiraria da cama
+no meio da noite
+
+47
+00:03:21,751 --> 00:03:24,600
+se não fosse uma emergência.
+O comandante da SWAT, Hicks,
+
+48
+00:03:24,601 --> 00:03:26,200
+e o sgt. Harrelson
+a informarão.
+
+49
+00:03:26,201 --> 00:03:29,200
+Por volta da 00h35,
+uma quadrilha de 3 criminosos,
+
+50
+00:03:29,201 --> 00:03:31,200
+disfarçados
+como coletores de lixo,
+
+51
+00:03:31,201 --> 00:03:33,500
+acessaram o laboratório criminal
+do DPLA.
+
+52
+00:03:33,501 --> 00:03:36,400
+Mataram um sgt. e um técnico
+e feriram outro gravemente.
+
+53
+00:03:36,401 --> 00:03:38,500
+Eles roubaram
+63 kits de evidências em DNA
+
+54
+00:03:38,501 --> 00:03:41,100
+de casos em julgamento
+ou esperando indiciamento.
+
+55
+00:03:41,101 --> 00:03:43,700
+Já emitimos um alerta,
+mas eles ainda estão em fuga.
+
+56
+00:03:43,701 --> 00:03:45,798
+Pense nas horas perdidas
+de investigação
+
+57
+00:03:45,799 --> 00:03:48,500
+e coleta de evidências,
+se não as reavermos.
+
+58
+00:03:48,501 --> 00:03:52,300
+Sem este kits de DNA, poderemos
+perder 90% dos nossos casos
+
+59
+00:03:52,301 --> 00:03:54,600
+e muitos criminosos perigosos
+ficarão livres.
+
+60
+00:03:54,601 --> 00:03:56,900
+Como qualquer testemunha
+ou vítima irá confiar
+
+61
+00:03:56,901 --> 00:03:59,700
+na promotoria se dissermos
+que perdemos as evidências?
+
+62
+00:03:59,701 --> 00:04:01,449
+Eu ordenei sigilo
+por enquanto.
+
+63
+00:04:01,450 --> 00:04:04,401
+Haverá a notícia do incêndio,
+mas nenhuma menção ao roubo.
+
+64
+00:04:04,402 --> 00:04:07,100
+Convocarei todos os detetives
+e os colocarei na rua.
+
+65
+00:04:07,101 --> 00:04:08,800
+Sem desrespeitar
+seus detetives,
+
+66
+00:04:08,801 --> 00:04:12,499
+mas interrogar e checar álibis
+de 63 criminosos com motivos,
+
+67
+00:04:12,500 --> 00:04:14,000
+demoraria semanas,
+até meses.
+
+68
+00:04:14,001 --> 00:04:16,600
+Senhor, minha sugestão,
+solte a SWAT da coleira.
+
+69
+00:04:16,601 --> 00:04:20,200
+Dê ao sgt. Harrelson e equipe
+carta branca para achá-los.
+
+70
+00:04:22,400 --> 00:04:24,700
+Qualquer recurso que precisar,
+sgt., é seu.
+
+71
+00:04:24,701 --> 00:04:26,700
+-Obrigado.
+-A SWAT precisa que você...
+
+72
+00:04:26,701 --> 00:04:29,000
+Priorize os criminosos
+com motivo para isso.
+
+73
+00:04:32,900 --> 00:04:34,999
+Eu não acabei de terminar
+com você?
+
+74
+00:04:35,000 --> 00:04:37,183
+Pensei que terminamos
+um com o outro.
+
+75
+00:04:37,184 --> 00:04:40,300
+Enfim, não há motivo
+para isso ser estranho.
+
+76
+00:04:40,700 --> 00:04:42,200
+Entendido.
+
+77
+00:04:42,600 --> 00:04:44,300
+Vamos pegar
+uns caras maus.
+
+78
+00:04:45,600 --> 00:04:48,600
+<b>SWAT
+2x10 1000 Joules</b>
+
+79
+00:04:49,300 --> 00:04:52,300
+<b>Queens Of The Lab
+- Diabolicamente Majestosas -</b>
+
+80
+00:04:52,301 --> 00:04:53,601
+<b>@Queens_OfTheLab</b>
+
+81
+00:04:54,301 --> 00:04:55,801
+<b>King:
+Tuta</b>
+
+82
+00:04:55,802 --> 00:04:57,302
+<b>King:
+TatuW</b>
+
+83
+00:04:57,303 --> 00:04:58,803
+<b>Queen:
+LaryCarvalho</b>
+
+84
+00:04:58,804 --> 00:05:00,304
+<b>Queen:
+Julie</b>
+
+85
+00:05:00,305 --> 00:05:01,805
+<b>Queen:
+Nay</b>
+
+86
+00:05:01,806 --> 00:05:03,306
+<b>Queen:
+AmandaMasc</b>
+
+87
+00:05:03,307 --> 00:05:04,807
+<b>Queen:
+Lura</b>
+
+88
+00:05:04,808 --> 00:05:06,308
+<b>Queen:
+Lu Colorada</b>
+
+89
+00:05:07,808 --> 00:05:10,308
+<b>Bom em inglês?
+Quer legendar conosco?</b>
+
+90
+00:05:11,008 --> 00:05:13,508
+<b>Inscreva-se no site
+www.queensofthelab.ga</b>
+
+91
+00:05:22,921 --> 00:05:24,435
+Café da manhã na cama.
+
+92
+00:05:24,436 --> 00:05:25,912
+Sou uma mulher de sorte.
+
+93
+00:05:25,913 --> 00:05:29,407
+Claras de ovos, presunto,
+azeitona e bala de abacaxi.
+
+94
+00:05:29,408 --> 00:05:31,524
+Obrigada por aturar
+meus desejos loucos.
+
+95
+00:05:31,525 --> 00:05:33,945
+Qual foi o último?
+Chocolate com queijo suíço?
+
+96
+00:05:33,946 --> 00:05:35,425
+Matthew, Lila, vamos.
+
+97
+00:05:35,426 --> 00:05:38,535
+Sabe quando chegará o cheque
+para o conserto dos canos?
+
+98
+00:05:38,536 --> 00:05:40,697
+Na seguradora disseram
+que trarão hoje.
+
+99
+00:05:40,698 --> 00:05:43,788
+Bom, porque está bem agitado
+com todos dividindo um banheiro.
+
+100
+00:05:43,789 --> 00:05:46,438
+Quando o cheque chegar,
+você liga para o encanador?
+
+101
+00:05:46,439 --> 00:05:48,281
+Tem o número
+na discagem rápida?
+
+102
+00:05:48,282 --> 00:05:50,184
+Lila, está com dois sapatos
+diferentes.
+
+103
+00:05:50,185 --> 00:05:53,208
+Matthew, essa é a mochila velha,
+onde está a nova? Vamos.
+
+104
+00:05:53,209 --> 00:05:54,585
+Vamos arrumar isso. Vamos.
+
+105
+00:05:54,586 --> 00:05:57,238
+Desculpe,
+eu não quis reclamar.
+
+106
+00:05:57,239 --> 00:05:58,743
+Sei que está
+trabalhando duro.
+
+107
+00:05:58,744 --> 00:06:00,870
+Ela vai chegar
+em algumas semanas, certo?
+
+108
+00:06:01,635 --> 00:06:03,299
+Mal posso esperar
+para conhecê-la.
+
+109
+00:06:04,014 --> 00:06:07,322
+Mas tenho que ir. Hondo disse
+que é uma situação tática séria.
+
+110
+00:06:07,323 --> 00:06:08,983
+Ruth está vindo
+pegar as crianças.
+
+111
+00:06:08,984 --> 00:06:11,747
+Cuide-se, mas preciso
+que pegue os brinquedos antes.
+
+112
+00:06:11,748 --> 00:06:14,811
+Esqueceu que está encarregado
+da arrecadação de brinquedos?
+
+113
+00:06:16,771 --> 00:06:18,412
+Temos que doar
+tantos assim?
+
+114
+00:06:18,413 --> 00:06:20,370
+Não importa
+o nosso talão de cheques,
+
+115
+00:06:20,371 --> 00:06:23,375
+somos afortunados
+comparados com outras famílias.
+
+116
+00:06:23,852 --> 00:06:25,429
+É por isso que eu te amo.
+
+117
+00:06:25,430 --> 00:06:27,520
+Tudo bem, preciso ir.
+Tchau.
+
+118
+00:06:27,521 --> 00:06:29,499
+-Tchau.
+-Tchau.
+
+119
+00:06:31,997 --> 00:06:34,680
+É "Cara a Cara" dos criminosos
+mais cruéis de LA.
+
+120
+00:06:34,681 --> 00:06:37,801
+63 dos casos mais hediondos
+da cidade...
+
+121
+00:06:37,802 --> 00:06:40,506
+assassinatos,
+estupros, assaltos...
+
+122
+00:06:40,507 --> 00:06:44,130
+Tudo será dispensado do tribunal
+se não recuperarmos os kits.
+
+123
+00:06:44,131 --> 00:06:46,343
+Não deixaram nenhum rastro
+no laboratório?
+
+124
+00:06:46,344 --> 00:06:47,644
+Nada.
+
+125
+00:06:47,645 --> 00:06:49,879
+A munição que usaram
+não pode ser rastreada.
+
+126
+00:06:49,880 --> 00:06:51,893
+E borrifaram
+um acelerante no local,
+
+127
+00:06:51,894 --> 00:06:54,624
+o que não deixou um fio
+de cabelo ou digital para trás.
+
+128
+00:06:54,625 --> 00:06:56,880
+Falando em começar mal...
+
+129
+00:06:57,358 --> 00:06:58,801
+Certo. Deac, reúna todos.
+
+130
+00:06:58,802 --> 00:07:01,212
+Peça para falarem
+com amigos de outras agências,
+
+131
+00:07:01,213 --> 00:07:02,578
+FBI, DEA, ATF.
+
+132
+00:07:02,579 --> 00:07:04,360
+Qualquer um
+que conheçam nas ruas.
+
+133
+00:07:04,361 --> 00:07:07,833
+Informantes, membros de gangues
+que nos queiram devendo favor.
+
+134
+00:07:07,834 --> 00:07:09,134
+Certo. Estou indo.
+
+135
+00:07:13,191 --> 00:07:15,155
+O tiro não acertou
+órgãos vitais,
+
+136
+00:07:15,156 --> 00:07:17,903
+mas as queimaduras
+ameaçam a vida dela.
+
+137
+00:07:18,636 --> 00:07:22,048
+Bom, apenas seja direta:
+quais são as chances dela?
+
+138
+00:07:22,049 --> 00:07:23,804
+60%.
+
+139
+00:07:24,725 --> 00:07:26,217
+Você é o marido?
+
+140
+00:07:26,794 --> 00:07:28,998
+Não, não, não, eu...
+
+141
+00:07:28,999 --> 00:07:30,907
+O marido faleceu
+há alguns anos.
+
+142
+00:07:30,908 --> 00:07:32,444
+Eu sou apenas
+um amigo próximo.
+
+143
+00:07:32,445 --> 00:07:33,762
+Você estar aqui é bom.
+
+144
+00:07:33,763 --> 00:07:37,013
+Estamos fazendo o possível,
+mas pensamento positivo ajuda.
+
+145
+00:07:48,259 --> 00:07:50,463
+Cho, obrigado
+por entrar em contato.
+
+146
+00:07:50,464 --> 00:07:53,168
+Se meus chefes souberem
+que passei essas informações,
+
+147
+00:07:53,169 --> 00:07:54,469
+não ficarão felizes,
+
+148
+00:07:54,470 --> 00:07:56,310
+mas sei como é importante
+para vocês.
+
+149
+00:07:56,311 --> 00:07:57,789
+Corey Barker.
+
+150
+00:07:57,790 --> 00:07:59,936
+Autêntico maníaco
+e viciado de Palmdale.
+
+151
+00:07:59,937 --> 00:08:02,144
+O Corey Barker
+que se envolveu em um tiroteio
+
+152
+00:08:02,145 --> 00:08:03,811
+com 16 anos
+e levou 10 tiros?
+
+153
+00:08:03,812 --> 00:08:05,112
+Sim, o próprio.
+
+154
+00:08:05,113 --> 00:08:07,260
+Ele é irmão
+de um dos nossos suspeitos,
+
+155
+00:08:07,261 --> 00:08:08,871
+Tony Barker.
+
+156
+00:08:08,872 --> 00:08:10,919
+Puxe a ficha
+de Tony Barker.
+
+157
+00:08:14,020 --> 00:08:16,898
+Estamos acusando-o por múltiplos
+homicídios qualificados.
+
+158
+00:08:16,899 --> 00:08:18,552
+Ele está sob vigilância
+há meses,
+
+159
+00:08:18,553 --> 00:08:21,251
+queremos pegá-lo por trazer
+cocaína de Vegas para LA.
+
+160
+00:08:21,252 --> 00:08:22,626
+Ontem, o ouvimos dizendo
+
+161
+00:08:22,627 --> 00:08:24,890
+que "estava indo se encontrar
+com uma equipe".
+
+162
+00:08:24,891 --> 00:08:26,196
+Aí ele desapareceu.
+
+163
+00:08:26,197 --> 00:08:28,591
+Íamos apresentar evidência
+mostrando DNA do Tony
+
+164
+00:08:28,592 --> 00:08:31,052
+no silenciador
+que o liga a 4 homicídios.
+
+165
+00:08:31,053 --> 00:08:33,036
+O irmão faz o kit
+contra ele sumir,
+
+166
+00:08:33,037 --> 00:08:35,338
+o julgamento é anulado,
+ele volta para as ruas.
+
+167
+00:08:35,339 --> 00:08:36,865
+Pode ser uma teoria.
+
+168
+00:08:36,866 --> 00:08:38,308
+Obrigado
+por não nos mostrar.
+
+169
+00:08:38,309 --> 00:08:40,519
+Eu nem estive aqui.
+
+170
+00:08:46,040 --> 00:08:49,314
+Corey estava disposto a roubar
+a perícia do DPLA por você?
+
+171
+00:08:49,315 --> 00:08:51,914
+Quero dizer,
+que bela família unida você tem.
+
+172
+00:08:51,915 --> 00:08:54,852
+Você sabia da evidência
+ligando você àquele silenciador,
+
+173
+00:08:54,853 --> 00:08:57,803
+o que seria o movimento certeiro
+para o veredito de culpado.
+
+174
+00:08:57,804 --> 00:09:00,814
+Pediu ao Corey para roubá-la
+antes de ser mostrada ao júri.
+
+175
+00:09:00,815 --> 00:09:03,199
+E o irmãozinho
+não iria desapontá-lo.
+
+176
+00:09:06,285 --> 00:09:08,000
+Liguei para o Corey ontem,
+
+177
+00:09:08,001 --> 00:09:10,773
+pedindo para depositar
+US$ 100 na minha conta
+
+178
+00:09:10,774 --> 00:09:13,682
+para eu poder estocar
+bolinhos.
+
+179
+00:09:13,683 --> 00:09:16,580
+Se Corey fez alguma coisa,
+eu não sei de nada.
+
+180
+00:09:16,581 --> 00:09:18,548
+Dois membros do DPLA
+foram assassinados.
+
+181
+00:09:18,549 --> 00:09:21,184
+E o outro,
+está com a vida por um fio.
+
+182
+00:09:21,185 --> 00:09:23,925
+Se ia pegar décadas antes disso,
+será enterrado agora.
+
+183
+00:09:23,926 --> 00:09:26,786
+Além do seu kit, havia outros 62
+que foram roubados
+
+184
+00:09:26,787 --> 00:09:29,179
+e os queremos de volta
+intactos.
+
+185
+00:09:29,180 --> 00:09:31,974
+Isso não vale para o Corey,
+mas se disser onde ele está,
+
+186
+00:09:31,975 --> 00:09:34,095
+meu escritório pode te oferecer
+um acordo.
+
+187
+00:09:36,554 --> 00:09:40,568
+Meu advogado tentou um acordo
+com vocês antes do julgamento
+
+188
+00:09:40,569 --> 00:09:42,291
+e vocês o ignoraram.
+
+189
+00:09:42,292 --> 00:09:44,065
+Você não tinha nada
+para vender.
+
+190
+00:09:44,066 --> 00:09:46,063
+Sugiro que convença
+seu irmãozinho
+
+191
+00:09:46,064 --> 00:09:48,044
+a se entregar,
+junto com os kits de DNA,
+
+192
+00:09:48,045 --> 00:09:51,557
+porque ele não vai querer
+entrar em confronto com a SWAT.
+
+193
+00:09:53,093 --> 00:09:55,895
+Nosso pai
+era um filho da mãe.
+
+194
+00:09:56,301 --> 00:09:58,288
+Ele desafiou Corey
+a atirar nele.
+
+195
+00:09:58,289 --> 00:09:59,923
+Ele mesmo entregou a arma.
+
+196
+00:10:00,470 --> 00:10:02,620
+Então Corey atirou.
+
+197
+00:10:02,621 --> 00:10:06,626
+.357,
+bem no meio dos olhos.
+
+198
+00:10:08,091 --> 00:10:11,584
+Não sei de nada sobre roubo
+a nenhum laboratório.
+
+199
+00:10:11,585 --> 00:10:13,094
+E não derramo
+nenhuma lágrima
+
+200
+00:10:13,095 --> 00:10:15,495
+pelos policiais
+que morreram nele.
+
+201
+00:10:18,545 --> 00:10:20,642
+Especialmente se significar
+que meu caso
+
+202
+00:10:20,643 --> 00:10:22,693
+está prestes
+a ser dispensado.
+
+203
+00:10:28,138 --> 00:10:30,350
+TAN: PISTA SOBRE AS ARMAS
+DO ASSASSINATO
+
+204
+00:10:36,438 --> 00:10:38,914
+Melhor fazer durar
+os seus bolinhos.
+
+205
+00:10:38,915 --> 00:10:42,078
+Porque vou garantir
+que não saia tão cedo.
+
+206
+00:10:47,643 --> 00:10:49,549
+-Temos informação sobre a arma?
+-Sim.
+
+207
+00:10:49,550 --> 00:10:51,176
+Sim, Fostech Origin 12.
+
+208
+00:10:51,177 --> 00:10:54,030
+Edição limitada para venda
+em uma exposição de armas.
+
+209
+00:10:54,031 --> 00:10:57,155
+A ATF reportou o desaparecimento
+de um lote semana passada.
+
+210
+00:10:57,156 --> 00:10:58,688
+Uma amiga
+que trabalha na Vice,
+
+211
+00:10:58,689 --> 00:11:00,966
+disse que foram parar
+com Gilly Gembetta.
+
+212
+00:11:00,967 --> 00:11:03,211
+Gembetta?
+O traficante fodão de Echo Park?
+
+213
+00:11:03,212 --> 00:11:05,999
+Foi atacado no ano passado
+e se mudou para Silver Lake.
+
+214
+00:11:06,000 --> 00:11:07,855
+Tem
+um estande de tiro no porão
+
+215
+00:11:07,856 --> 00:11:09,506
+onde bandidos testam
+a mercadoria.
+
+216
+00:11:09,507 --> 00:11:11,356
+-Certo, preparem-se.
+-Vamos.
+
+217
+00:11:18,156 --> 00:11:19,997
+Vou dar uma de Papai Noel
+neste ano,
+
+218
+00:11:19,998 --> 00:11:22,417
+se tiverem brinquedos para doar,
+estou coletando.
+
+219
+00:11:22,418 --> 00:11:23,718
+Já nos adiantamos, Deac.
+
+220
+00:11:23,719 --> 00:11:26,639
+Devido à Annie e às crianças,
+arrecadamos os brinquedos.
+
+221
+00:11:26,640 --> 00:11:29,229
+Estão no escritório da Jessica.
+Todos doaram.
+
+222
+00:11:29,230 --> 00:11:30,899
+-Até o Street.
+-Se alguém sabe
+
+223
+00:11:30,900 --> 00:11:34,188
+o que uma criança pobre
+quer no Natal, sou eu, certo?
+
+224
+00:11:34,189 --> 00:11:36,621
+E o que é, Street,
+amor, paz?
+
+225
+00:11:36,622 --> 00:11:38,886
+Não, uma pistola de água.
+
+226
+00:11:41,686 --> 00:11:42,986
+Pessoal.
+
+227
+00:11:42,987 --> 00:11:44,949
+Obrigado,
+sinto que falhei nisso,
+
+228
+00:11:44,950 --> 00:11:46,250
+então, obrigado.
+
+229
+00:11:46,251 --> 00:11:47,551
+Claro, cara.
+
+230
+00:11:47,552 --> 00:11:50,291
+Você está bem?
+Parece um pouco estressado.
+
+231
+00:11:50,292 --> 00:11:53,505
+Entre incontáveis gastos
+com as crianças,
+
+232
+00:11:53,506 --> 00:11:56,729
+preparar o quarto do novo bebê
+e canos quebrados,
+
+233
+00:11:56,730 --> 00:11:58,664
+parece que o dinheiro
+está se esvaindo.
+
+234
+00:11:58,665 --> 00:12:00,669
+E o bico de segurança
+que Hondo descolou?
+
+235
+00:12:00,670 --> 00:12:03,260
+É uma grana, mas não é o mesmo
+que hora extra.
+
+236
+00:12:03,261 --> 00:12:04,760
+Antes dos cortes
+de orçamento.
+
+237
+00:12:05,160 --> 00:12:08,342
+Desculpe, não sei por que falei,
+não é meu consultor financeiro.
+
+238
+00:12:08,343 --> 00:12:10,443
+Cara, odeio saber
+que você está apertado,
+
+239
+00:12:10,444 --> 00:12:12,044
+especialmente
+nessa época do ano.
+
+240
+00:12:12,045 --> 00:12:14,462
+Vou resolver tudo.
+
+241
+00:12:22,011 --> 00:12:23,472
+<i>Se houver</i> novidades,
+
+242
+00:12:23,473 --> 00:12:25,514
+eu devo ser informado,
+tudo bem?
+
+243
+00:12:25,515 --> 00:12:27,069
+-Certo.
+-Pai.
+
+244
+00:12:27,470 --> 00:12:28,870
+Oi, querida.
+
+245
+00:12:30,600 --> 00:12:32,738
+Os caras da Metro te buscaram
+no LAX?
+
+246
+00:12:32,739 --> 00:12:35,167
+Encontraram-me assim que saí
+e me trouxeram aqui.
+
+247
+00:12:35,168 --> 00:12:36,470
+-Bom.
+-E a Rebecca?
+
+248
+00:12:36,471 --> 00:12:38,524
+Inconsciente
+e em estado crítico.
+
+249
+00:12:38,525 --> 00:12:40,255
+Tem sorte de estar viva.
+
+250
+00:12:40,256 --> 00:12:42,149
+Isso não pode
+estar acontecendo,
+
+251
+00:12:42,150 --> 00:12:45,598
+troquei receitas outro dia
+com ela no Facebook.
+
+252
+00:12:45,599 --> 00:12:47,699
+Sua empresa em Pittsburgh
+ficou bem
+
+253
+00:12:47,700 --> 00:12:49,324
+-com sua viagem repentina?
+-Sim.
+
+254
+00:12:49,325 --> 00:12:52,049
+Eu fiz como você faria
+e não dei escolha a eles,
+
+255
+00:12:52,050 --> 00:12:53,921
+apenas reservei
+o primeiro voo.
+
+256
+00:12:54,821 --> 00:12:57,121
+Como você está aguentando,
+pai?
+
+257
+00:12:57,921 --> 00:12:59,671
+Sabe...
+
+258
+00:13:00,541 --> 00:13:02,518
+Se não fosse por Rebecca,
+
+259
+00:13:02,519 --> 00:13:04,498
+eu nunca teria me recuperado
+da sua mãe,
+
+260
+00:13:04,499 --> 00:13:06,730
+quero dizer,
+ela tinha seu próprio luto,
+
+261
+00:13:06,731 --> 00:13:08,974
+mas ainda arrumou tempo
+para nos ajudar.
+
+262
+00:13:08,975 --> 00:13:11,760
+E garantiu que nada desmoronasse
+após o funeral.
+
+263
+00:13:11,761 --> 00:13:14,361
+Sim, ela sempre esteve presente
+para a gente.
+
+264
+00:13:14,362 --> 00:13:16,622
+-Agora é nossa vez.
+-Sim.
+
+265
+00:13:17,992 --> 00:13:19,692
+Que bom que está em casa.
+
+266
+00:13:19,693 --> 00:13:21,566
+-Sinto sua falta.
+-Eu também.
+
+267
+00:13:21,567 --> 00:13:23,297
+-É o quarto dela?
+-Sim.
+
+268
+00:13:29,827 --> 00:13:31,369
+Draco NAK9.
+
+269
+00:13:31,370 --> 00:13:33,157
+Pequena a ponto
+de caber no casaco,
+
+270
+00:13:33,158 --> 00:13:34,689
+mas possui um pente de 20.
+
+271
+00:13:34,690 --> 00:13:37,390
+Você fica na esquina
+e consegue limpar as ruas.
+
+272
+00:13:37,391 --> 00:13:39,397
+É uma pequena exterminadora
+bem aqui.
+
+273
+00:13:39,398 --> 00:13:41,533
+-Preço da unidade?
+-No varejo, US$ 7 mil.
+
+274
+00:13:41,534 --> 00:13:43,593
+Se comprar o lote,
+faço por US$ 6 mil.
+
+275
+00:13:43,594 --> 00:13:46,494
+-Como é o coice?
+-Como o de um recém-nascido.
+
+276
+00:13:48,494 --> 00:13:49,794
+Experimente.
+
+277
+00:13:56,234 --> 00:13:58,734
+Sim, vamos levar.
+
+278
+00:13:59,414 --> 00:14:02,141
+-Metro SWAT do DPLA!
+-DPLA! Abaixem as armas.
+
+279
+00:14:02,142 --> 00:14:04,003
+-Esquerda limpa.
+-Direita limpa.
+
+280
+00:14:04,004 --> 00:14:05,338
+Quarto limpo. Saindo.
+
+281
+00:14:05,339 --> 00:14:07,591
+Tire-os daqui,
+peguei o Gembetta.
+
+282
+00:14:07,592 --> 00:14:09,542
+Mãos, mãos agora!
+
+283
+00:14:09,942 --> 00:14:11,242
+Vamos!
+
+284
+00:14:14,292 --> 00:14:15,992
+Nós vamos conversar.
+
+285
+00:14:17,892 --> 00:14:21,092
+Corey Barker trouxe para você
+as automáticas, certo?
+
+286
+00:14:22,492 --> 00:14:25,511
+Cara, tem mais arma aqui
+que no nosso arsenal.
+
+287
+00:14:25,999 --> 00:14:28,802
+Você deve pegar perpétua,
+sem liberdade condicional,
+
+288
+00:14:28,803 --> 00:14:30,803
+a menos que queira
+nos ajudar.
+
+289
+00:14:34,573 --> 00:14:35,873
+Barker.
+
+290
+00:14:36,863 --> 00:14:39,760
+Queria semiautomáticas,
+poderosas,
+
+291
+00:14:39,761 --> 00:14:41,768
+mas com munição
+não rastreáveis,
+
+292
+00:14:41,769 --> 00:14:44,701
+Trouxe 3 para ele e seus garotos
+fazerem um trabalho
+
+293
+00:14:44,702 --> 00:14:46,142
+e salvar o irmão, Tony.
+
+294
+00:14:46,143 --> 00:14:48,277
+Corey falou
+que atacariam o laboratório?
+
+295
+00:14:48,278 --> 00:14:51,120
+Não, disseram que tinham
+que se livrar de uma mulher
+
+296
+00:14:51,121 --> 00:14:53,637
+que sobreviveu
+e poderia ter visto algo.
+
+297
+00:14:53,638 --> 00:14:56,296
+Espere, Barker disse
+que iria atrás da testemunha?
+
+298
+00:14:56,297 --> 00:14:59,539
+Ele só disse
+que se a mulher morresse,
+
+299
+00:14:59,540 --> 00:15:01,000
+o irmão estaria livre.
+
+300
+00:15:01,001 --> 00:15:02,401
+Rebecca Cates?
+
+301
+00:15:04,500 --> 00:15:06,700
+Aqui é 20-David
+para o comandante Hicks.
+
+302
+00:15:06,701 --> 00:15:09,400
+Há 3 atiradores
+indo matar <i>Rebecca Cates.</i>
+
+303
+00:15:09,401 --> 00:15:10,800
+Afirmativo, Hondo, ciente.
+
+304
+00:15:10,801 --> 00:15:12,300
+Vamos levá-la
+a outro quarto.
+
+305
+00:15:12,301 --> 00:15:13,601
+-Não podemos...
+-Escute-me.
+
+306
+00:15:13,602 --> 00:15:15,400
+Se não a movermos,
+ela morrerá.
+
+307
+00:15:15,401 --> 00:15:16,701
+Espere.
+
+308
+00:15:20,400 --> 00:15:22,100
+Certo, destrave e vamos.
+
+309
+00:15:30,300 --> 00:15:32,000
+Certo, vire, vire.
+
+310
+00:15:35,000 --> 00:15:37,800
+Certo, vamos deixá-la aqui
+e vasculharei a área
+
+311
+00:15:39,800 --> 00:15:42,200
+Certo, quando eu sair,
+
+312
+00:15:42,201 --> 00:15:46,300
+tranque a porta e não saia
+até eu falar que está tudo bem.
+
+313
+00:15:46,301 --> 00:15:48,500
+-Pai, o que está acontecendo?
+-Escute-me.
+
+314
+00:15:48,501 --> 00:15:51,100
+Chame a polícia e diga
+que há um oficial em perigo.
+
+315
+00:16:02,900 --> 00:16:04,700
+Quarto 949.
+
+316
+00:16:06,400 --> 00:16:08,100
+Vigiarei os policiais?
+
+317
+00:16:22,346 --> 00:16:23,646
+QUARTO 949
+
+318
+00:16:43,200 --> 00:16:44,700
+Abaixem as armas!
+
+319
+00:17:06,100 --> 00:17:07,400
+Largue ou morrerá!
+
+320
+00:17:07,401 --> 00:17:09,200
+-De joelhos, agora!
+-Agachado!
+
+321
+00:17:12,700 --> 00:17:14,300
+Molly, sou eu.
+
+322
+00:17:16,200 --> 00:17:19,100
+Está tudo bem.
+Está tudo bem, querida.
+
+323
+00:17:19,101 --> 00:17:21,700
+Está tudo certo,
+querida. Certo?
+
+324
+00:17:23,047 --> 00:17:24,400
+Phil Bennet.
+
+325
+00:17:24,800 --> 00:17:26,400
+Tem antecedentes
+por agressão,
+
+326
+00:17:26,401 --> 00:17:28,900
+posse ilegal de armas,
+mas nunca matou ninguém.
+
+327
+00:17:28,901 --> 00:17:31,200
+Por que resolveu
+virar assassino com Barker?
+
+328
+00:17:31,201 --> 00:17:32,800
+Corey está pagando
+US$ 20 mil.
+
+329
+00:17:32,801 --> 00:17:35,000
+E tenho problemas
+com a pensão alimentícia.
+
+330
+00:17:35,001 --> 00:17:36,500
+Pai do ano.
+
+331
+00:17:36,501 --> 00:17:38,451
+E agora irá encarar 40 anos,
+no mínimo.
+
+332
+00:17:38,452 --> 00:17:40,400
+Pelo o quê?
+Atirar em um elevador?
+
+333
+00:17:40,401 --> 00:17:44,100
+Não. Por dois homicídios, roubo
+e adulteração de evidência.
+
+334
+00:17:44,101 --> 00:17:47,300
+-E incêndio em posse estatal.
+-Não roubamos o laboratório.
+
+335
+00:17:47,301 --> 00:17:49,800
+Por que foi executar
+Rebecca Cates, então?
+
+336
+00:17:49,801 --> 00:17:52,700
+-Ela iria identificá-lo.
+-Não, ela foi outro contrato,
+
+337
+00:17:52,701 --> 00:17:54,700
+Corey disse
+que precisávamos executá-la
+
+338
+00:17:54,701 --> 00:17:56,300
+para acabar com o caso
+do irmão.
+
+339
+00:17:56,301 --> 00:17:58,701
+Você foi contratado
+para eliminar uma testemunha?
+
+340
+00:17:58,702 --> 00:18:02,002
+Sei que alguém ligou para Corey,
+pediu para executá-la
+
+341
+00:18:02,003 --> 00:18:04,903
+e em troca, daria ao Corey
+as evidências do caso de Tony.
+
+342
+00:18:04,904 --> 00:18:07,104
+Desde que usássemos
+as mesmas armas que eles.
+
+343
+00:18:07,105 --> 00:18:09,455
+Corey Barker disse o nome
+do homem misterioso?
+
+344
+00:18:09,456 --> 00:18:10,800
+Sim.
+
+345
+00:18:11,200 --> 00:18:12,900
+Disse que ele se chamava
+Kraft.
+
+346
+00:18:13,300 --> 00:18:15,400
+Igual à marca
+de macarrão com queijo.
+
+347
+00:18:16,400 --> 00:18:17,700
+Olhe a hora na tela.
+
+348
+00:18:17,701 --> 00:18:20,200
+12h20, Corey Barker
+pediu um <i>wrap</i> de alface.
+
+349
+00:18:20,201 --> 00:18:22,000
+Não achei
+que era do tipo saudável.
+
+350
+00:18:22,001 --> 00:18:24,351
+Isso livra Corey Barker
+do roubo do laboratório.
+
+351
+00:18:24,352 --> 00:18:27,100
+De acordo com Bennett,
+Corey Barker recrutou a ele
+
+352
+00:18:27,101 --> 00:18:29,600
+e outro atirador
+em nome de alguém chamado Kraft.
+
+353
+00:18:29,601 --> 00:18:31,600
+Kraft, supostamente
+ofereceu ao Corey
+
+354
+00:18:31,601 --> 00:18:34,400
+o kit de DNA do irmão
+em troca da morte de Rebecca.
+
+355
+00:18:34,401 --> 00:18:36,300
+Então, Kraft rouba
+o laboratório
+
+356
+00:18:36,301 --> 00:18:39,400
+e usa os kits de DNA como moeda
+de troca por serviços?
+
+357
+00:18:39,401 --> 00:18:42,100
+Chris, procure nomes e apelidos
+associados ao Kraft.
+
+358
+00:18:42,101 --> 00:18:45,600
+Entendi, mas será um milagre
+se a busca mostrar alguém real.
+
+359
+00:18:45,601 --> 00:18:47,601
+Não sei se Little Red conta
+como milagre,
+
+360
+00:18:47,602 --> 00:18:49,252
+mas ele disse
+ter uma informação.
+
+361
+00:18:49,253 --> 00:18:51,600
+-Little Red?
+-Não pergunte.
+
+362
+00:18:55,200 --> 00:18:56,600
+O cheque do seguro chegou?
+
+363
+00:18:56,601 --> 00:18:59,300
+Sim. Com o valor
+de US$ 13 mil.
+
+364
+00:18:59,301 --> 00:19:01,700
+Espere, US$ 13 mil?
+Deveria ser de US$30 mil.
+
+365
+00:19:01,701 --> 00:19:05,800
+O avaliador disse que o seguro
+é parcial em estrago por água,
+
+366
+00:19:05,801 --> 00:19:09,500
+<i>David, se esperarmos mais,</i>
+os canos vão apodrecer o teto.
+
+367
+00:19:09,501 --> 00:19:12,300
+<i>Certo, ligue</i> para o encanador
+e o faça arrumar os canos.
+
+368
+00:19:12,301 --> 00:19:14,500
+Conseguirei o resto
+para os reparos.
+
+369
+00:19:14,501 --> 00:19:16,300
+-Tem certeza?
+-Sim.
+
+370
+00:19:16,301 --> 00:19:20,400
+Não quero que nossa filha chegue
+e encontre tudo mofado, só...
+
+371
+00:19:20,401 --> 00:19:22,600
+mande arrumar.
+Ligue para o cara.
+
+372
+00:19:23,300 --> 00:19:24,900
+O cheque
+da seguradora chegou?
+
+373
+00:19:24,901 --> 00:19:27,500
+Sim, mas só é suficiente
+para o encanamento.
+
+374
+00:19:27,501 --> 00:19:30,000
+Não é o suficiente
+para os reparos do vazamento.
+
+375
+00:19:30,001 --> 00:19:32,500
+Seguradoras, sempre acham
+uma desculpa.
+
+376
+00:19:32,501 --> 00:19:34,300
+Sim, está tudo bem.
+
+377
+00:19:34,301 --> 00:19:36,001
+Falei com o representante
+sindical,
+
+378
+00:19:36,002 --> 00:19:39,600
+ele tentará me conceder
+um empréstimo pelo sindicato...
+
+379
+00:19:39,601 --> 00:19:41,100
+Claro.
+
+380
+00:19:43,900 --> 00:19:45,500
+<i>Edwina James, cara?</i>
+
+381
+00:19:45,501 --> 00:19:48,100
+Ela é uma designer,
+que está em todos os lugares.
+
+382
+00:19:48,101 --> 00:19:50,351
+As mulheres estão loucas
+pelos trabalhos dela.
+
+383
+00:19:50,352 --> 00:19:52,400
+Veremos algumas peças
+que eu quero
+
+384
+00:19:52,401 --> 00:19:54,201
+-e então conversamos.
+-Espere, Red.
+
+385
+00:19:54,202 --> 00:19:57,400
+É ousado em pensar que comprarei
+presentes para suas namoradas.
+
+386
+00:19:57,401 --> 00:19:59,200
+Antes de nos mostrar
+o que quer,
+
+387
+00:19:59,201 --> 00:20:01,001
+melhor nos dar
+informações valiosas.
+
+388
+00:20:01,002 --> 00:20:03,199
+Está bem. Falaram
+para eu ficar de olho
+
+389
+00:20:03,200 --> 00:20:05,500
+em qualquer atividade estranha
+na rua, certo?
+
+390
+00:20:05,501 --> 00:20:07,450
+-Isso mesmo.
+-Conhecem Lolo, o Baleia?
+
+391
+00:20:07,451 --> 00:20:09,900
+Lolo Matani? Chefe
+da Tribo Carson em South LA.
+
+392
+00:20:09,901 --> 00:20:12,236
+Dizem que o Baleia
+acabou de vender
+
+393
+00:20:12,237 --> 00:20:14,499
+3 dos seus clubes de strip
+a um preço reduzido
+
+394
+00:20:14,500 --> 00:20:16,599
+para o Los Profetas
+por US$ 300 mil
+
+395
+00:20:16,600 --> 00:20:18,699
+e sumiu das ruas.
+
+396
+00:20:18,700 --> 00:20:21,400
+Agora diga se isso
+não parece estranho.
+
+397
+00:20:23,500 --> 00:20:25,999
+Tudo bem, Red.
+Acho que o DPLA vai bancar
+
+398
+00:20:26,000 --> 00:20:27,700
+os seus presentes
+de Natal.
+
+399
+00:20:28,900 --> 00:20:31,799
+Cara, vi um colar lindo
+para a Perigosa.
+
+400
+00:20:31,800 --> 00:20:34,499
+E uma pulseira perfeita
+para a Vigarista.
+
+401
+00:20:34,500 --> 00:20:36,600
+E um par de brincos perfeitos
+para Bethany.
+
+402
+00:20:36,601 --> 00:20:38,000
+Bethany?
+
+403
+00:20:38,001 --> 00:20:39,301
+Isso, ela é de Pasadena.
+
+404
+00:20:39,302 --> 00:20:41,899
+E por que não comprar
+a mesma coisa para todas?
+
+405
+00:20:41,900 --> 00:20:43,599
+Tenho que ficar esperto.
+
+406
+00:20:43,600 --> 00:20:45,749
+O mesmo presente
+é erro de principiante,
+
+407
+00:20:45,750 --> 00:20:47,199
+ainda mais
+quando são amigas.
+
+408
+00:20:47,200 --> 00:20:48,799
+Melhor ter cuidado,
+Little Red.
+
+409
+00:20:48,800 --> 00:20:52,100
+Quando lida com Little Red,
+é Natal o ano inteiro.
+
+410
+00:20:57,300 --> 00:20:58,899
+Acha que esse é
+o nosso cara?
+
+411
+00:20:58,900 --> 00:21:01,799
+É o nosso melhor palpite.
+Lolo, o Baleia, Matani.
+
+412
+00:21:01,800 --> 00:21:04,099
+Rei da Tribo Carson.
+Dono de meia dúzia
+
+413
+00:21:04,100 --> 00:21:05,749
+de clubes de strip
+em South Bay.
+
+414
+00:21:05,750 --> 00:21:08,400
+Todos lavam dinheiro
+da venda de anfetamina da Tribo.
+
+415
+00:21:08,401 --> 00:21:11,199
+Um dos kits de DNA roubados
+prova que Matani abusou
+
+416
+00:21:11,200 --> 00:21:13,699
+de vários garotos
+que frequentavam suas creches.
+
+417
+00:21:13,700 --> 00:21:15,749
+Íamos indiciá-lo
+por crimes sexuais.
+
+418
+00:21:15,750 --> 00:21:18,199
+-Acha que Matani sabia?
+-O advogado tem conexões.
+
+419
+00:21:18,200 --> 00:21:20,449
+Pode ter descoberto
+que íamos prestar queixa.
+
+420
+00:21:20,450 --> 00:21:22,699
+Isso. Então o Baleia
+vende 3 dos seus clubes,
+
+421
+00:21:22,700 --> 00:21:24,900
+contrata uma equipe
+para atacar o laboratório
+
+422
+00:21:24,901 --> 00:21:26,799
+e destrói as evidências
+contra ele.
+
+423
+00:21:26,800 --> 00:21:28,799
+E não se importa
+de ferir inocentes.
+
+424
+00:21:28,800 --> 00:21:31,400
+Ele não duraria um dia
+na prisão se isso vazasse.
+
+425
+00:21:32,000 --> 00:21:33,399
+Vamos caçar uma baleia.
+
+426
+00:21:33,400 --> 00:21:34,700
+Tudo bem.
+
+427
+00:21:38,300 --> 00:21:39,600
+Comandante.
+
+428
+00:21:40,900 --> 00:21:42,499
+Está tudo bem?
+
+429
+00:21:42,500 --> 00:21:45,199
+Se as evidências de DNA
+não retornarem
+
+430
+00:21:45,200 --> 00:21:47,999
+seladas e intactas, não poderão
+ser usadas no tribunal,
+
+431
+00:21:48,000 --> 00:21:51,849
+o que significa nada de justiça
+para muitas vítimas e famílias.
+
+432
+00:21:51,850 --> 00:21:54,849
+Garantirei que minha equipe
+tenha cuidado extra com os kits.
+
+433
+00:21:54,850 --> 00:21:56,699
+-Certo.
+-Como está Rebecca?
+
+434
+00:21:56,700 --> 00:21:58,099
+Sei que é próximo a ela.
+
+435
+00:21:58,100 --> 00:21:59,900
+Bem, é...
+
+436
+00:22:00,700 --> 00:22:02,799
+Não sei o que devo fazer.
+
+437
+00:22:02,800 --> 00:22:05,649
+Devo segurar a mão dela
+e estar presente para ela
+
+438
+00:22:05,650 --> 00:22:08,750
+caso ela acorde ou ficar aqui
+ajudando a achar os desgraçados
+
+439
+00:22:08,751 --> 00:22:11,499
+-que fizeram isso com ela.
+-Não, sr., vá ficar com ela.
+
+440
+00:22:11,500 --> 00:22:13,549
+Encontraremos o cara
+que fez isso com ela
+
+441
+00:22:13,550 --> 00:22:15,900
+e traremos os kits de volta,
+intactos.
+
+442
+00:22:15,901 --> 00:22:17,201
+Eu te prometo isso.
+
+443
+00:22:19,100 --> 00:22:20,949
+Primeira regra
+no cumprimento da lei:
+
+444
+00:22:20,950 --> 00:22:24,749
+nunca prometa resultados
+quando não pode garantir 100%,
+
+445
+00:22:24,750 --> 00:22:28,099
+só para alguém se sentir melhor.
+Achei que tinha te ensinado.
+
+446
+00:22:28,100 --> 00:22:29,799
+Ensinou. Mas sabemos
+
+447
+00:22:29,800 --> 00:22:32,499
+o quanto isso é importante
+para você e vamos fazê-lo.
+
+448
+00:22:32,500 --> 00:22:34,466
+Vá ficar com Rebecca,
+senhor.
+
+449
+00:22:37,200 --> 00:22:38,699
+Tudo bem.
+
+450
+00:22:38,700 --> 00:22:40,200
+Obrigado, Hondo.
+
+451
+00:22:49,600 --> 00:22:51,820
+Cara, elas parecem
+<i>linebackers</i>.
+
+452
+00:22:51,821 --> 00:22:53,389
+Os Matani
+são uma família unida.
+
+453
+00:22:53,390 --> 00:22:55,949
+-As irmãs são as seguranças.
+-Pena serem criminosas.
+
+454
+00:22:55,950 --> 00:22:57,700
+Poderiam jogar futebol
+pelo DPLA.
+
+455
+00:22:57,701 --> 00:22:59,001
+Qual é o plano, Deac?
+
+456
+00:22:59,002 --> 00:23:01,600
+Pegamos as 4 irmãs
+com força não letal, forte.
+
+457
+00:23:01,601 --> 00:23:02,901
+E rezamos para que Matani
+
+458
+00:23:02,902 --> 00:23:04,800
+não tenha destruído
+o resto dos kits.
+
+459
+00:23:06,000 --> 00:23:08,599
+Street, venha comigo no lado 1
+para melhor vantagem.
+
+460
+00:23:08,600 --> 00:23:10,100
+Vocês 3 ficam
+no canto 1-4.
+
+461
+00:23:10,101 --> 00:23:12,100
+-Entendido.
+-Vamos.
+
+462
+00:23:15,400 --> 00:23:17,200
+-Movam-se.
+-Vão. Vão.
+
+463
+00:23:24,200 --> 00:23:26,300
+Ninguém se mexa.
+Mãos para baixo.
+
+464
+00:23:36,000 --> 00:23:37,300
+Matani, está preso!
+
+465
+00:23:37,301 --> 00:23:38,900
+-DPLA!
+-Para o chão!
+
+466
+00:23:38,901 --> 00:23:40,400
+Corra, querido!
+
+467
+00:23:46,100 --> 00:23:47,800
+Deac, o fogo!
+
+468
+00:23:55,300 --> 00:23:56,999
+Chequem cada centímetro
+da casa.
+
+469
+00:23:57,000 --> 00:23:58,500
+Encontrem todos os kits
+de DNA.
+
+470
+00:23:58,501 --> 00:23:59,900
+Pode deixar, cara. Vamos.
+
+471
+00:24:01,200 --> 00:24:03,600
+<i>Dr. Kipper, compareça
+na Sala de Parto.</i>
+
+472
+00:24:03,601 --> 00:24:05,599
+<i>Dr. Kipper
+para a Sala de Parto.</i>
+
+473
+00:24:05,600 --> 00:24:07,200
+Tudo bem, comandante?
+
+474
+00:24:16,300 --> 00:24:17,600
+Aqui está.
+
+475
+00:24:20,700 --> 00:24:23,500
+O que houve com a Janice,
+a mulher com que estava saindo?
+
+476
+00:24:25,300 --> 00:24:27,599
+-Ela parecia legal.
+-Janice era legal.
+
+477
+00:24:27,600 --> 00:24:29,000
+Ela era...
+
+478
+00:24:29,500 --> 00:24:32,200
+-Bem, ela não era...
+-A mamãe?
+
+479
+00:24:35,400 --> 00:24:37,100
+Exato.
+
+480
+00:24:38,500 --> 00:24:41,100
+Nenhuma delas nunca será.
+
+481
+00:24:42,600 --> 00:24:46,300
+Mas não significa que não pode
+viver feliz com alguém.
+
+482
+00:24:46,900 --> 00:24:49,049
+Por que está tão preocupada
+com minha vida?
+
+483
+00:24:49,050 --> 00:24:50,450
+Não deveria ser
+o contrário?
+
+484
+00:24:50,451 --> 00:24:52,300
+Porque ainda tem
+muitos anos à frente
+
+485
+00:24:52,700 --> 00:24:55,800
+e me deixa triste pensar
+que os está passando sozinho.
+
+486
+00:25:00,300 --> 00:25:03,399
+Sabe como fiquei culpada
+por ir trabalhar em Pittsburgh?
+
+487
+00:25:03,400 --> 00:25:05,699
+Sabia que quando fosse,
+você ficaria em casa,
+
+488
+00:25:05,700 --> 00:25:08,399
+bebendo café, ouvindo os discos
+que colecionavam.
+
+489
+00:25:08,400 --> 00:25:11,400
+Nunca se sinta culpada
+por viver sua vida.
+
+490
+00:25:13,400 --> 00:25:16,799
+Olhe, não sou solitário.
+Certo?
+
+491
+00:25:16,800 --> 00:25:19,400
+Com a SWAT, tenho toda emoção
+que posso aguentar.
+
+492
+00:25:20,100 --> 00:25:23,099
+Sabe que mamãe ia querer
+que achasse alguém.
+
+493
+00:25:23,100 --> 00:25:24,999
+Sempre que eu tinha
+um turno difícil,
+
+494
+00:25:25,000 --> 00:25:27,199
+chegava em casa,
+ia direto para o meu canto.
+
+495
+00:25:27,200 --> 00:25:29,199
+Ficava lá por horas,
+
+496
+00:25:29,200 --> 00:25:31,599
+bebendo uns drinques,
+relaxando.
+
+497
+00:25:31,600 --> 00:25:34,100
+Sua mãe entendia
+quando me deixar sozinho.
+
+498
+00:25:34,500 --> 00:25:36,100
+Nós nos entendíamos.
+
+499
+00:25:36,500 --> 00:25:38,500
+Nunca acharei isso
+de novo.
+
+500
+00:25:42,200 --> 00:25:45,399
+Rebecca me pediu
+para nunca te contar nada,
+
+501
+00:25:45,400 --> 00:25:46,800
+mas você precisa saber.
+
+502
+00:25:47,900 --> 00:25:51,499
+Quando se acostumou com a morte
+da mamãe, Rebecca achou
+
+503
+00:25:51,500 --> 00:25:54,399
+que vocês poderiam ser
+mais que só amigos.
+
+504
+00:25:54,400 --> 00:25:55,799
+Rebecca?
+
+505
+00:25:55,800 --> 00:25:57,899
+Ela nunca me disse
+nada parecido.
+
+506
+00:25:57,900 --> 00:26:01,100
+É, você nunca entendeu
+as mulheres de verdade, não é?
+
+507
+00:26:01,600 --> 00:26:03,699
+Ela não arriscaria
+transformar em algo
+
+508
+00:26:03,700 --> 00:26:05,300
+que ela nunca
+estaria à altura.
+
+509
+00:26:07,400 --> 00:26:11,699
+Já pensou em Rebecca como alguém
+a quem poderia amar?
+
+510
+00:26:11,700 --> 00:26:14,002
+Não achei que esqueceria Rick.
+Nos dávamos bem
+
+511
+00:26:14,003 --> 00:26:16,300
+porque perdemos
+nossas almas gêmeas, sabe?
+
+512
+00:26:16,301 --> 00:26:19,700
+Vocês sobreviveram
+se apoiando um no outro.
+
+513
+00:26:22,300 --> 00:26:24,300
+Quando ela sair dessa,
+
+514
+00:26:25,100 --> 00:26:26,700
+vocês deveriam conversar.
+
+515
+00:26:38,100 --> 00:26:39,400
+Vamos.
+
+516
+00:26:42,900 --> 00:26:44,300
+Não achamos nada.
+
+517
+00:26:45,500 --> 00:26:47,600
+Viramos esse lugar
+do avesso.
+
+518
+00:26:49,100 --> 00:26:52,300
+-Onde jogaram o resto dos kits?
+-Não tem mais nenhum. Só o meu.
+
+519
+00:26:52,301 --> 00:26:54,599
+Vamos, Lolo. Sabemos
+que vendeu seus clubes
+
+520
+00:26:54,600 --> 00:26:56,499
+para pagar a invasão
+ao laboratório.
+
+521
+00:26:56,500 --> 00:26:57,800
+O quê? Não.
+
+522
+00:26:57,801 --> 00:27:00,199
+Vendi os clubes
+porque um cara ligou
+
+523
+00:27:00,200 --> 00:27:01,849
+e disse que estava
+com o meu kit.
+
+524
+00:27:01,850 --> 00:27:03,900
+Disse que queria
+US$ 300 mil, rápido,
+
+525
+00:27:03,901 --> 00:27:06,100
+ou o deixaria nas escadas
+do Tribunal de LA.
+
+526
+00:27:06,101 --> 00:27:08,467
+Diz que pagou pelo seu kit,
+mas não o roubou?
+
+527
+00:27:08,468 --> 00:27:11,132
+US$ 300 mil.
+Não tive escolha.
+
+528
+00:27:11,133 --> 00:27:13,800
+-Qual era o nome do cara?
+-Ele se chamava Kraft.
+
+529
+00:27:15,600 --> 00:27:17,100
+Encontrou Kraft
+pessoalmente?
+
+530
+00:27:17,101 --> 00:27:19,099
+Não sei se era ele
+ou um dos caras dele,
+
+531
+00:27:19,100 --> 00:27:22,099
+mas encontrei um cara careca
+no estacionamento do LAX.
+
+532
+00:27:22,100 --> 00:27:25,100
+Dei o dinheiro a ele,
+ele me deu o kit.
+
+533
+00:27:26,200 --> 00:27:28,100
+Não queria morrer
+na cadeia.
+
+534
+00:27:30,300 --> 00:27:32,500
+<i>Nosso verdadeiro suspeito</i>
+se chama Kraft.
+
+535
+00:27:32,501 --> 00:27:34,699
+Roubou os kits
+sabendo o quanto eles valem
+
+536
+00:27:34,700 --> 00:27:36,917
+-para os criminosos.
+-Ele contata criminosos
+
+537
+00:27:36,918 --> 00:27:39,500
+de crimes hediondos
+e oferece vender as provas?
+
+538
+00:27:39,501 --> 00:27:41,399
+Ou Kraft as mandaria
+para o DPLA.
+
+539
+00:27:41,400 --> 00:27:42,999
+Sr., isso não é
+só um suspeito
+
+540
+00:27:43,000 --> 00:27:44,600
+roubando provas
+para destruí-las.
+
+541
+00:27:44,601 --> 00:27:46,700
+Isso é o mais novo golpe
+de chantagem.
+
+542
+00:27:46,701 --> 00:27:48,799
+Falando em outro nível...
+
+543
+00:27:48,800 --> 00:27:51,099
+-Como ela está?
+-Ela está acordada.
+
+544
+00:27:51,100 --> 00:27:52,799
+Quando ela puder
+falar conosco...
+
+545
+00:27:52,800 --> 00:27:54,600
+Ela vai querer ajudar,
+imediatamente.
+
+546
+00:27:59,200 --> 00:28:02,299
+Eles eram rápidos
+e conheciam o <i>layout</i>.
+
+547
+00:28:02,300 --> 00:28:04,999
+-Como usar nossos cartões.
+-Definitivamente planejaram
+
+548
+00:28:05,000 --> 00:28:06,499
+e sabiam destruir
+os rastros.
+
+549
+00:28:06,500 --> 00:28:08,199
+Quando caí no chão,
+
+550
+00:28:08,200 --> 00:28:12,200
+uma das cápsulas vazias rolou
+até mim.
+
+551
+00:28:13,500 --> 00:28:16,699
+Eu a escondi no painel
+de controle de temperatura,
+
+552
+00:28:16,700 --> 00:28:18,899
+para o caso de haver
+evidências nela.
+
+553
+00:28:18,900 --> 00:28:21,199
+Estava sangrando
+enquanto o lugar pegava fogo
+
+554
+00:28:21,200 --> 00:28:22,699
+e pensou em salvar
+evidências?
+
+555
+00:28:22,700 --> 00:28:26,400
+A cápsula ainda deve
+estar lá.
+
+556
+00:28:27,600 --> 00:28:29,600
+Você é uma mulher corajosa,
+Rebecca.
+
+557
+00:28:43,300 --> 00:28:44,899
+<i>Estou trabalhando
+em 3 lugares,</i>
+
+558
+00:28:44,900 --> 00:28:47,300
+meu teto pode desabar,
+tenho uma bebê a caminho.
+
+559
+00:28:47,301 --> 00:28:49,800
+Como faço as contribuições
+sindicais me ajudarem?
+
+560
+00:28:49,801 --> 00:28:51,199
+Como fazê-los me ajudarem?
+
+561
+00:28:51,200 --> 00:28:52,599
+Sargento,
+estou do seu lado.
+
+562
+00:28:52,600 --> 00:28:54,699
+E essa não é a minha área
+de conhecimento,
+
+563
+00:28:54,700 --> 00:28:56,300
+mas quando pedi
+a seu favor,
+
+564
+00:28:56,301 --> 00:28:58,900
+disseram que já carrega
+uma dívida grande
+
+565
+00:28:58,901 --> 00:29:03,099
+do empréstimo anterior.
+Não aprovarão um novo agora.
+
+566
+00:29:03,100 --> 00:29:04,999
+Já apelamos
+
+567
+00:29:05,000 --> 00:29:06,899
+e não há nada
+que possamos fazer.
+
+568
+00:29:06,900 --> 00:29:08,600
+Não através
+do departamento.
+
+569
+00:29:10,000 --> 00:29:12,500
+As festas só ficam
+mais felizes.
+
+570
+00:29:14,800 --> 00:29:17,600
+-Obrigado por tentar.
+-Sinto muito mesmo, sargento.
+
+571
+00:29:25,000 --> 00:29:27,399
+É duro acreditar
+que algo sobreviveria aqui.
+
+572
+00:29:27,400 --> 00:29:30,099
+Não julguemos nenhuma evidência
+até a acharmos, certo?
+
+573
+00:29:30,100 --> 00:29:31,599
+Certo. É justo.
+
+574
+00:29:31,600 --> 00:29:35,300
+Ela disse que estava dentro
+de um painel de controle.
+
+575
+00:29:36,200 --> 00:29:37,500
+Isso.
+
+576
+00:29:41,500 --> 00:29:44,300
+-Não vejo nada.
+-Qual a profundidade disso?
+
+577
+00:29:55,300 --> 00:29:57,100
+Exatamente
+como Rebecca disse.
+
+578
+00:29:57,500 --> 00:29:58,949
+Graças à Rebecca,
+recuperamos
+
+579
+00:29:58,950 --> 00:30:01,068
+a única evidência física
+do roubo.
+
+580
+00:30:01,069 --> 00:30:02,643
+Encontraram
+uma digital parcial,
+
+581
+00:30:02,644 --> 00:30:05,064
+restaurada digitalmente
+e temos uma combinação.
+
+582
+00:30:05,065 --> 00:30:07,117
+John Seeley, 41 anos,
+
+583
+00:30:07,118 --> 00:30:09,584
+entrou e saiu da prisão
+desde os 18 anos,
+
+584
+00:30:09,585 --> 00:30:12,028
+-por vários assaltos.
+-Seeley saiu de Folsom
+
+585
+00:30:12,029 --> 00:30:13,781
+há um mês
+depois de cumprir 6 anos,
+
+586
+00:30:13,782 --> 00:30:15,533
+não avisou
+o agente da condicional.
+
+587
+00:30:15,534 --> 00:30:17,015
+Falei
+com um colega de cela,
+
+588
+00:30:17,016 --> 00:30:19,762
+disse que Seeley só falava
+do laboratório do DPLA.
+
+589
+00:30:19,763 --> 00:30:21,991
+Ele leu um artigo
+no <i>Los Angeles Chronicle</i>
+
+590
+00:30:21,992 --> 00:30:24,201
+-e ficou obcecado.
+-Mas que droga.
+
+591
+00:30:24,202 --> 00:30:26,275
+Verifiquei a atividade
+nos computadores.
+
+592
+00:30:26,276 --> 00:30:28,183
+Ele passou horas
+no site do jornal
+
+593
+00:30:28,184 --> 00:30:30,183
+fazendo tour virtual
+pelo laboratório.
+
+594
+00:30:30,184 --> 00:30:32,448
+Seeley tinha a informação
+que precisava
+
+595
+00:30:32,449 --> 00:30:34,026
+para fazer
+o roubo de uma vida.
+
+596
+00:30:34,027 --> 00:30:36,413
+-Onde conseguiu o nome Kraft?
+-Olhe os créditos.
+
+597
+00:30:36,414 --> 00:30:37,906
+Justin D. Kraft.
+
+598
+00:30:37,907 --> 00:30:39,241
+Usou o nome do repórter.
+
+599
+00:30:39,242 --> 00:30:40,885
+Quero detetives seguindo
+
+600
+00:30:40,886 --> 00:30:42,847
+os suspeitos
+na lista de evidências.
+
+601
+00:30:42,848 --> 00:30:45,181
+Se não acharmos o Seeley,
+achamos um comprador.
+
+602
+00:30:45,182 --> 00:30:46,544
+Certo.
+
+603
+00:30:54,586 --> 00:30:56,177
+E aí, cara,
+tem um segundo?
+
+604
+00:30:56,178 --> 00:30:57,826
+Sim, claro. O que foi?
+
+605
+00:30:57,827 --> 00:31:00,603
+Sei que está passando
+por um momento difícil
+
+606
+00:31:00,604 --> 00:31:03,080
+e eu gostaria de ajudar
+com algum dinheiro.
+
+607
+00:31:05,432 --> 00:31:07,926
+Não falei da minha situação
+esperando por ajuda.
+
+608
+00:31:07,927 --> 00:31:09,843
+Mas ainda assim,
+queria ajudar.
+
+609
+00:31:09,844 --> 00:31:13,046
+Você precisa de US$ 16 mil
+para arrumar os canos, certo?
+
+610
+00:31:13,047 --> 00:31:15,429
+Eu empresto para você,
+sem juros.
+
+611
+00:31:15,430 --> 00:31:17,664
+-Você paga quando puder.
+-Como?
+
+612
+00:31:17,665 --> 00:31:19,890
+Como quiser, cara.
+Sei que você vai pagar.
+
+613
+00:31:19,891 --> 00:31:22,432
+Vai no seu tempo, cara.
+Não tenho pressa.
+
+614
+00:31:26,319 --> 00:31:27,619
+Escute...
+
+615
+00:31:27,620 --> 00:31:30,355
+significa muito, mas amizade
+e dinheiro não combinam.
+
+616
+00:31:30,356 --> 00:31:32,222
+-Mas sou eu, Deac.
+-É por isso mesmo
+
+617
+00:31:32,223 --> 00:31:34,109
+que não quero estragar
+nossa amizade.
+
+618
+00:31:37,804 --> 00:31:39,330
+Mas acredite,
+
+619
+00:31:39,331 --> 00:31:41,550
+significa muito
+que você tenha oferecido.
+
+620
+00:31:45,279 --> 00:31:46,579
+<i>O que temos?</i>
+
+621
+00:31:46,580 --> 00:31:48,580
+Um dos suspeitos vigiados,
+
+622
+00:31:48,581 --> 00:31:51,124
+Nick Kerostena,
+os detetives disseram
+
+623
+00:31:51,125 --> 00:31:52,652
+que está agindo
+estranhamente.
+
+624
+00:31:52,653 --> 00:31:54,226
+Kerostena tem uma equipe.
+
+625
+00:31:54,227 --> 00:31:57,418
+Cumpriu pena por falsificação,
+tráfico, agressão.
+
+626
+00:31:57,419 --> 00:31:59,041
+Há dois meses,
+encontramos DNA
+
+627
+00:31:59,042 --> 00:32:01,819
+ligando ele à morte
+do namorado da amante.
+
+628
+00:32:01,820 --> 00:32:03,573
+O indiciamento seria
+semana que vem.
+
+629
+00:32:03,574 --> 00:32:06,123
+Os detetives disseram
+que Kerostena foi a um bar.
+
+630
+00:32:06,124 --> 00:32:07,892
+Saiu em seguida
+com dois seguranças
+
+631
+00:32:07,893 --> 00:32:09,974
+e uma bolsa
+que suspeitam ter dinheiro.
+
+632
+00:32:09,975 --> 00:32:11,536
+Jogou o celular e saiu.
+
+633
+00:32:11,537 --> 00:32:13,104
+-Está indo até Seeley.
+-Street.
+
+634
+00:32:13,105 --> 00:32:15,059
+Diga aos detetives
+para esperarem.
+
+635
+00:32:15,060 --> 00:32:16,753
+Avise ao Hondo
+que estamos indo.
+
+636
+00:32:19,804 --> 00:32:21,820
+Desculpe por ser
+em cima da hora,
+
+637
+00:32:21,821 --> 00:32:24,784
+mas esses acordos
+acontecem rápido.
+
+638
+00:32:24,785 --> 00:32:26,843
+Tem a sua parte?
+
+639
+00:32:26,844 --> 00:32:29,679
+Não foi fácil sacar
+US$ 250 mil em um dia.
+
+640
+00:32:33,732 --> 00:32:35,214
+<i>Todos ganham, amigo.</i>
+
+641
+00:32:35,215 --> 00:32:38,165
+Sem visual, mas estamos ouvindo.
+O negócio está acontecendo.
+
+642
+00:32:38,166 --> 00:32:39,523
+<i>Detetives, esperem.</i>
+
+643
+00:32:39,524 --> 00:32:41,841
+<i>Não entrem,
+a SWAT está a caminho.</i>
+
+644
+00:32:41,842 --> 00:32:43,312
+Entendido.
+
+645
+00:32:43,313 --> 00:32:44,965
+Melhor eles correrem.
+
+646
+00:32:45,581 --> 00:32:48,194
+Ótimo preço.
+Ótimo produto, amigo.
+
+647
+00:32:48,195 --> 00:32:49,845
+Onde está?
+
+648
+00:33:02,889 --> 00:33:04,625
+Parece familiar?
+
+649
+00:33:07,948 --> 00:33:10,786
+<i>Tenha uma boa vida, amigo.
+Tenho outros negócios.</i>
+
+650
+00:33:10,787 --> 00:33:12,513
+Fecharam o acordo,
+precisamos ir.
+
+651
+00:33:12,514 --> 00:33:14,396
+SWAT, estamos entrando.
+
+652
+00:33:24,577 --> 00:33:26,295
+DPLA!
+Mãos onde possamos ver!
+
+653
+00:33:26,296 --> 00:33:28,272
+-Mãos para cima!
+-Mãos para cima!
+
+654
+00:33:28,273 --> 00:33:30,520
+Detetives, formem um perímetro!
+Recuem.
+
+655
+00:33:30,521 --> 00:33:32,679
+Homem caído!
+
+656
+00:33:38,258 --> 00:33:40,082
+Aqui é 20-David
+para a Central.
+
+657
+00:33:40,083 --> 00:33:41,953
+Suspeitos abriram fogo!
+
+658
+00:33:41,954 --> 00:33:44,384
+Homem caído.
+Mandem uma ambulância.
+
+659
+00:33:50,735 --> 00:33:52,644
+-No chão!
+-Solte agora! Solte a arma!
+
+660
+00:33:52,645 --> 00:33:54,427
+-No chão!
+-No chão!
+
+661
+00:33:56,643 --> 00:33:58,469
+Estou vendo o Seeley!
+
+662
+00:34:19,756 --> 00:34:22,270
+Aqui é 20-David
+para 22-David.
+
+663
+00:34:22,271 --> 00:34:25,121
+Preciso interceptar a van
+indo oeste na Segunda.
+
+664
+00:34:37,607 --> 00:34:40,064
+22-David, me ouviu?
+
+665
+00:34:40,065 --> 00:34:42,451
+Estou apanhando dessa van.
+
+666
+00:34:42,452 --> 00:34:44,741
+<i>Entendido.
+Indo na sua direção.</i>
+
+667
+00:34:45,761 --> 00:34:47,861
+Mire na carroceria, Luca.
+
+668
+00:34:57,974 --> 00:34:59,569
+<i>Hondo, eu peguei.</i>
+
+669
+00:35:06,201 --> 00:35:08,983
+Mãos no painel!
+Mãos no painel!
+
+670
+00:35:08,984 --> 00:35:11,976
+Não se mexa, cuzão.
+
+671
+00:35:11,977 --> 00:35:14,535
+Nem olhe para mim.
+Não olhe para mim.
+
+672
+00:35:23,773 --> 00:35:25,073
+<i>Tudo bem.</i>
+
+673
+00:35:25,074 --> 00:35:26,595
+Certo.
+
+674
+00:35:27,223 --> 00:35:28,913
+Certo, ótimo.
+
+675
+00:35:34,677 --> 00:35:36,819
+Graças a você,
+Seeley está sob custódia.
+
+676
+00:35:36,820 --> 00:35:38,969
+E eles recuperaram
+quase todos os kits.
+
+677
+00:35:38,970 --> 00:35:40,594
+Estão a caminho
+do laboratório
+
+678
+00:35:40,595 --> 00:35:42,214
+para armazenagem adequada.
+
+679
+00:35:42,215 --> 00:35:44,719
+É por isso
+que me pagam bem.
+
+680
+00:35:45,443 --> 00:35:47,986
+É sim, claro.
+
+681
+00:35:52,596 --> 00:35:54,952
+Quando você estiver
+se sentindo melhor...
+
+682
+00:35:59,974 --> 00:36:03,210
+acho que nós devemos
+ter uma conversa.
+
+683
+00:36:05,941 --> 00:36:08,210
+<i>Começaram a testar</i>
+os kits de DNA recuperados.
+
+684
+00:36:08,211 --> 00:36:10,633
+O relatório diz que só 9
+foram comprometidos,
+
+685
+00:36:10,634 --> 00:36:13,734
+-não serão aceitos no tribunal.
+-O que acontecerá com os casos?
+
+686
+00:36:13,735 --> 00:36:16,635
+Começamos do zero, trabalhamos
+para achar novas evidências.
+
+687
+00:36:16,636 --> 00:36:18,886
+Sinto por não termos conseguido
+salvar todos.
+
+688
+00:36:18,887 --> 00:36:21,785
+Não sinta.
+Poderia ter sido muito pior.
+
+689
+00:36:23,486 --> 00:36:25,477
+Eu sempre te protegerei.
+
+690
+00:36:26,334 --> 00:36:28,629
+Você me protegeu
+quando tudo estava difícil.
+
+691
+00:36:28,630 --> 00:36:30,676
+Isso não vai mudar.
+
+692
+00:36:31,547 --> 00:36:33,132
+Não vai.
+
+693
+00:36:36,197 --> 00:36:37,849
+Feliz Natal.
+
+694
+00:36:43,059 --> 00:36:45,600
+<i>Obrigada por </i>se voluntariar
+de última hora.
+
+695
+00:36:45,601 --> 00:36:48,232
+Claro.
+Isso é tão divertido.
+
+696
+00:36:49,218 --> 00:36:52,220
+Então, estão todos prontos
+para ela?
+
+697
+00:36:53,756 --> 00:36:55,685
+Sim, ela é uma chutadora.
+
+698
+00:36:55,686 --> 00:36:57,818
+Estamos um pouco estressados
+com as contas,
+
+699
+00:36:57,819 --> 00:37:00,495
+mas nunca fiquei tão animada
+em ter um novo filho.
+
+700
+00:37:00,496 --> 00:37:02,698
+Você e Deacon
+são o melhor casal que conheço
+
+701
+00:37:02,699 --> 00:37:05,099
+e sempre acham uma forma
+de fazer tudo funcionar.
+
+702
+00:37:08,737 --> 00:37:13,505
+Ouvi que Chris foi à Nova Iorque
+com Ty e Kira ver uma banda.
+
+703
+00:37:13,506 --> 00:37:16,250
+-Isso soa incrível.
+-Ainda estou me acostumando
+
+704
+00:37:16,251 --> 00:37:18,051
+com ela namorando
+uma moça e um cara.
+
+705
+00:37:18,052 --> 00:37:19,752
+Eu sei.
+Acha que vamos conhecê-los?
+
+706
+00:37:19,753 --> 00:37:21,053
+Veremos.
+
+707
+00:37:21,054 --> 00:37:23,251
+Quais são seus planos loucos
+de Natal?
+
+708
+00:37:23,252 --> 00:37:25,221
+Vou com mamãe
+para o Havaí.
+
+709
+00:37:25,222 --> 00:37:27,025
+-Sério?
+-Faz tempo que não passeamos.
+
+710
+00:37:27,026 --> 00:37:28,530
+Legal!
+Ela deve estar animada.
+
+711
+00:37:28,531 --> 00:37:30,296
+Está fazendo a mala
+há duas semanas.
+
+712
+00:37:30,297 --> 00:37:32,178
+-E você?
+-Você sabe que amo
+
+713
+00:37:32,179 --> 00:37:33,961
+que todos saem de LA
+para as festas.
+
+714
+00:37:33,962 --> 00:37:35,962
+Nada melhor que ruas vazias
+para eu poder
+
+715
+00:37:35,963 --> 00:37:38,048
+colocar meu Chevrolet 68
+na Via 170.
+
+716
+00:37:38,049 --> 00:37:40,392
+-E passar tempo com meus pais.
+-Legal.
+
+717
+00:37:40,393 --> 00:37:42,470
+Doces de Natal, alguém?
+
+718
+00:37:42,471 --> 00:37:44,205
+Você quem fez, Street?
+
+719
+00:37:44,206 --> 00:37:46,165
+-Loja de US$ 0,99.
+-Legal.
+
+720
+00:37:47,043 --> 00:37:48,376
+Quem é aquela com a Annie?
+
+721
+00:37:48,377 --> 00:37:51,750
+É a Molly. É uma mulher
+da qual você quer ficar longe.
+
+722
+00:37:51,751 --> 00:37:54,248
+-Ela é filha do Hicks.
+-É mesmo?
+
+723
+00:37:54,249 --> 00:37:56,374
+Cara. Você finalmente voltou
+para a SWAT.
+
+724
+00:37:56,375 --> 00:37:58,861
+Não é uma boa ideia
+paquerar a filha do chefe.
+
+725
+00:37:58,862 --> 00:38:01,601
+-O quê? Eu nem disse nada.
+-Luca, dê crédito ao Street.
+
+726
+00:38:01,602 --> 00:38:03,760
+Ele não pensa sempre
+em novas e fascinantes
+
+727
+00:38:03,761 --> 00:38:05,481
+formas
+de perder o emprego.
+
+728
+00:38:05,984 --> 00:38:07,763
+-Cuidado, garotas.
+-Com licença.
+
+729
+00:38:07,764 --> 00:38:09,542
+-Seja bonzinho.
+-Está bem.
+
+730
+00:38:10,299 --> 00:38:12,567
+Um doce, moças?
+
+731
+00:38:12,568 --> 00:38:15,903
+Que tal sorvete com balas
+de ursinho e azeitonas?
+
+732
+00:38:15,904 --> 00:38:19,653
+Desculpe, é o item mais popular
+do menu e acabou.
+
+733
+00:38:20,053 --> 00:38:21,576
+E para a jovem?
+
+734
+00:38:21,577 --> 00:38:23,244
+Obrigada, estou bem.
+
+735
+00:38:23,245 --> 00:38:25,079
+Vamos lá.
+É época de Natal.
+
+736
+00:38:25,080 --> 00:38:28,925
+Você tem que tomar chocolate
+quente no Natal. É a lei.
+
+737
+00:38:28,926 --> 00:38:31,419
+Meu pai é policial
+e nunca ouvi isso.
+
+738
+00:38:31,420 --> 00:38:33,564
+Acabou de ser aprovada.
+
+739
+00:38:33,964 --> 00:38:35,729
+Não me faça tirar
+minhas algemas.
+
+740
+00:38:38,077 --> 00:38:39,638
+Está bom.
+
+741
+00:38:39,639 --> 00:38:42,011
+-Eu sou a Molly.
+-Jim Street.
+
+742
+00:38:44,066 --> 00:38:47,778
+Oi, comandante.
+Não te falei que a maneira
+
+743
+00:38:47,779 --> 00:38:50,645
+como lidou com os atiradores,
+foi impressionante, senhor.
+
+744
+00:38:51,045 --> 00:38:53,330
+Ficaria espantado
+com o que sou capaz de fazer
+
+745
+00:38:53,331 --> 00:38:55,362
+para proteger quem amo.
+
+746
+00:38:58,858 --> 00:39:00,214
+O quê?
+
+747
+00:39:00,215 --> 00:39:02,617
+Não me faça me envolver
+em sua vida amorosa.
+
+748
+00:39:02,618 --> 00:39:05,453
+Qual é. Como está Rebecca?
+
+749
+00:39:05,454 --> 00:39:07,822
+Exausta, mas de bom humor.
+
+750
+00:39:07,823 --> 00:39:12,575
+Para você saber, ficarei
+de folga pelo resto de dezembro.
+
+751
+00:39:12,576 --> 00:39:15,329
+Espero que não se importe
+que eu fique para as festas.
+
+752
+00:39:15,330 --> 00:39:18,812
+Tudo bem. Fique à vontade
+para ficar até quando quiser.
+
+753
+00:39:19,412 --> 00:39:21,072
+Uma participação incrível,
+não é?
+
+754
+00:39:21,073 --> 00:39:22,954
+Incrível. É quase o dobro
+
+755
+00:39:22,955 --> 00:39:25,006
+da captação de recursos
+do ano passado.
+
+756
+00:39:25,007 --> 00:39:28,558
+Bom trabalho, Deac.
+Aqui. Feliz Natal.
+
+757
+00:39:29,642 --> 00:39:30,997
+Oi, Bubba.
+
+758
+00:39:35,542 --> 00:39:37,077
+Luca, qual é,
+eu não posso...
+
+759
+00:39:37,078 --> 00:39:38,528
+Não posso aceitar.
+Não sou eu.
+
+760
+00:39:38,529 --> 00:39:40,904
+Então faça por mim, está bem?
+Quero ficar feliz
+
+761
+00:39:40,905 --> 00:39:44,358
+durante as festas e me faz feliz
+que meus amigos
+
+762
+00:39:44,359 --> 00:39:47,115
+não precisem se preocupar
+com dinheiro. Está bem?
+
+763
+00:39:48,764 --> 00:39:50,204
+Está bem.
+
+764
+00:39:50,732 --> 00:39:53,367
+Vou te pagar de volta,
+cada centavo.
+
+765
+00:39:53,368 --> 00:39:54,769
+Eu sei que você vai.
+
+766
+00:39:54,770 --> 00:39:56,103
+Te amo, irmão.
+
+767
+00:40:02,077 --> 00:40:04,536
+-Eu poderia...
+-Homenzinho!
+
+768
+00:40:04,537 --> 00:40:07,248
+Você não deveria estar aí
+sem supervisão de um adulto.
+
+769
+00:40:07,249 --> 00:40:08,893
+Desculpe, policial.
+
+770
+00:40:08,894 --> 00:40:10,952
+Tirei os olhos dele
+por um segundo.
+
+771
+00:40:10,953 --> 00:40:12,285
+Venha para cá.
+
+772
+00:40:13,989 --> 00:40:15,970
+Donnie, peça desculpas
+ao policial
+
+773
+00:40:15,971 --> 00:40:17,692
+por tocar
+em que não deveria.
+
+774
+00:40:17,693 --> 00:40:19,060
+Desculpe, policial.
+
+775
+00:40:19,061 --> 00:40:20,728
+Está tudo bem.
+
+776
+00:40:20,729 --> 00:40:22,964
+Só não quero
+que você se machuque, só isso.
+
+777
+00:40:22,965 --> 00:40:25,733
+Donnie quer ser policial
+quando crescer.
+
+778
+00:40:25,734 --> 00:40:28,284
+Acho que ele pensou em começar
+seu treinamento cedo.
+
+779
+00:40:28,285 --> 00:40:31,706
+É mesmo? Você quer
+ser policial um dia?
+
+780
+00:40:31,707 --> 00:40:35,076
+Isso aí. Ou, quero dizer,
+sim, policial.
+
+781
+00:40:35,077 --> 00:40:36,744
+De que parte da cidade
+você é?
+
+782
+00:40:36,745 --> 00:40:38,412
+Watts.
+Nós viemos de ônibus.
+
+783
+00:40:38,413 --> 00:40:41,738
+Sabe, você é sortudo
+por ter uma mamãe assim.
+
+784
+00:40:42,138 --> 00:40:43,691
+Tenho sorte
+de ter uma também.
+
+785
+00:40:44,091 --> 00:40:45,591
+Espero que você cuide
+bem dela.
+
+786
+00:40:45,592 --> 00:40:47,755
+Ele cuida.
+Quais são suas duas tarefas?
+
+787
+00:40:47,756 --> 00:40:49,090
+Ir bem na escola
+
+788
+00:40:49,091 --> 00:40:51,271
+e ajudar a mamãe
+com as tarefas de casa.
+
+789
+00:40:51,272 --> 00:40:53,362
+Você tem um ótimo filho.
+
+790
+00:40:53,962 --> 00:40:55,396
+Você sabe
+como se chama isso?
+
+791
+00:40:55,397 --> 00:40:57,498
+Não, como?
+
+792
+00:40:57,499 --> 00:40:59,767
+Chama-se helicóptero A-Star
+da polícia.
+
+793
+00:40:59,768 --> 00:41:01,770
+Nós o usamos
+para salvar vidas.
+
+794
+00:41:01,771 --> 00:41:03,424
+Legal.
+
+795
+00:41:03,425 --> 00:41:05,647
+Importa-se se eu pegá-lo
+por uns minutos?
+
+796
+00:41:05,648 --> 00:41:07,581
+-Vá em frente.
+-Vamos, Donnie.
+
+797
+00:41:08,911 --> 00:41:12,397
+Então, qual é a melhor parte
+de ser policial?
+
+798
+00:41:12,981 --> 00:41:15,164
+Bem, teria que dizer...
+
+799
+00:41:16,185 --> 00:41:18,853
+Ver pessoas
+que estão sofrendo
+
+800
+00:41:18,854 --> 00:41:21,155
+e fazer algo
+para que se sintam melhor.
+
+801
+00:41:24,560 --> 00:41:26,560
+Quando vejo pessoas
+fazendo coisas ruins,
+
+802
+00:41:26,561 --> 00:41:28,437
+gostaria
+de poder fazê-las parar.
+
+803
+00:41:28,837 --> 00:41:30,910
+Sabe o que você vai precisar
+para isso?
+
+804
+00:41:30,911 --> 00:41:32,609
+Muito treinamento.
+
+805
+00:41:32,610 --> 00:41:34,975
+Quer aprender como voar
+nesse cara?
+
+806
+00:41:34,976 --> 00:41:36,727
+-Sim.
+-Beleza.
+
+807
+00:41:36,728 --> 00:41:38,601
+Vamos ver como você vai.
+Suba lá.
+
+808
+00:41:39,001 --> 00:41:42,276
+Certo, entre lá.
+Você é o piloto hoje.
+
+809
+00:41:42,277 --> 00:41:45,723
+Vamos te dar um capacete
+para parecer oficial.
+
+810
+00:41:45,724 --> 00:41:47,196
+Aí está.
+
+811
+00:41:47,750 --> 00:41:50,300
+Vamos ver que tipo de policial
+de Los Angeles
+
+812
+00:41:50,301 --> 00:41:51,807
+o pequeno Donnie vai ser.
+
+813
+00:41:52,207 --> 00:41:53,661
+<i>Muito bem.</i>
+
+814
+00:41:54,156 --> 00:41:56,325
+<i>Decole, Donnie, decole.</i>
+
+815
+00:41:56,326 --> 00:41:59,326
+<i>Quem quer o Luca de amigo?
+Sem interesse, claro! LOL</i>
+
