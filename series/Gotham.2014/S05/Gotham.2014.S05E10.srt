@@ -1,0 +1,2609 @@
+1
+00:00:01,694 --> 00:00:03,751
+<i>Anteriormente...</i>
+
+2
+00:00:03,752 --> 00:00:05,523
+Walker destruiu o Refúgio?
+
+3
+00:00:05,945 --> 00:00:08,700
+<i>Essa parte da operação
+é confidencial.</i>
+
+4
+00:00:14,685 --> 00:00:16,542
+Eu trouxe presentes.
+
+5
+00:00:21,147 --> 00:00:25,300
+A reunificação com o continente
+está por um fio.
+
+6
+00:00:25,301 --> 00:00:27,950
+<i>Produtos tóxicos
+caem na cidade,</i>
+
+7
+00:00:27,951 --> 00:00:30,961
+e o governo
+nos abandona de vez.
+
+8
+00:00:31,375 --> 00:00:34,749
+O sistema de filtragem
+que o Lucius fez funciona.
+
+9
+00:00:34,750 --> 00:00:36,317
+Não é glamuroso,
+
+10
+00:00:36,318 --> 00:00:39,350
+mas estamos ajudando a salvar
+a vida de milhares de pessoas.
+
+11
+00:00:39,351 --> 00:00:40,803
+Você vai embora de Gotham.
+
+12
+00:00:40,804 --> 00:00:44,249
+<i>Acredito que chegou a hora
+para uma mudança de vida.</i>
+
+13
+00:00:44,250 --> 00:00:46,421
+Você achou
+um jeito de sair de Gotham?
+
+14
+00:00:46,422 --> 00:00:47,850
+É um submarino.
+
+15
+00:00:47,851 --> 00:00:52,848
+<i>Jim Gordon e Lee Thompkins
+são marido e mulher.</i>
+
+16
+00:00:52,849 --> 00:00:56,142
+<i>Ele nunca te verá
+como nada além</i>
+
+17
+00:00:56,143 --> 00:00:59,506
+de uma mulher perigosa
+que esconde a filha dele.
+
+18
+00:01:00,296 --> 00:01:03,462
+- Eduardo.
+- Walker.
+
+19
+00:01:03,463 --> 00:01:07,195
+Professor Strange
+consertará você rapidinho.
+
+20
+00:01:43,250 --> 00:01:46,440
+Fique calmo, Eduardo.
+
+21
+00:01:49,772 --> 00:01:52,273
+Eu te fiz uma promessa
+quando te achei
+
+22
+00:01:52,274 --> 00:01:53,792
+naquele buraco em Peña Dura.
+
+23
+00:01:54,477 --> 00:01:57,438
+E pretendo cumprir
+aquela promessa.
+
+24
+00:01:58,649 --> 00:02:01,800
+Dar a você
+um verdadeiro propósito
+
+25
+00:02:01,801 --> 00:02:05,111
+e a força para prevalecer.
+
+26
+00:02:05,112 --> 00:02:09,832
+Entretanto,
+temo que esse processo
+
+27
+00:02:09,833 --> 00:02:13,791
+será agonizante e,
+infelizmente,
+
+28
+00:02:14,300 --> 00:02:16,644
+bastante demorado.
+
+29
+00:02:17,754 --> 00:02:20,980
+Peço perdão adiantadamente.
+
+30
+00:02:59,854 --> 00:03:02,963
+Você renascerá.
+
+31
+00:03:03,713 --> 00:03:06,973
+E então você será
+o banimento da injustiça.
+
+32
+00:03:07,843 --> 00:03:10,042
+O banimento da corrupção.
+
+33
+00:03:10,485 --> 00:03:14,162
+O banimento de qualquer um
+que for contra nós.
+
+34
+00:03:20,797 --> 00:03:22,797
+<b>The_Tozz e Cabrones,
+apresentam...</b>
+
+35
+00:03:22,798 --> 00:03:24,798
+<b>5ª Temporada | Episódio 10
+"Eu Sou Bane"</b>
+
+36
+00:03:24,799 --> 00:03:28,799
+<b>Tradução: Rainbow | Chei | marck93
+IsaacA | Wendy | ©yßë® V¡¢¡öµ§</b>
+
+37
+00:03:28,800 --> 00:03:30,800
+<b>Revisão:
+John</b>
+
+38
+00:03:31,325 --> 00:03:32,912
+Confirmação por rádio.
+
+39
+00:03:32,913 --> 00:03:35,360
+A lancha de desembarque
+do General Wade atracou.
+
+40
+00:03:35,361 --> 00:03:37,319
+O comboio dele está
+vindo para cá agora.
+
+41
+00:03:37,320 --> 00:03:39,359
+O dia da Reunificação
+é hoje.
+
+42
+00:03:39,360 --> 00:03:42,837
+Harv, essa é uma ótima notícia,
+mas e depois?
+
+43
+00:03:42,838 --> 00:03:44,505
+Só porque reconstruímos
+as pontes
+
+44
+00:03:44,506 --> 00:03:47,316
+não quer dizer que as coisas
+vão melhorar do nada.
+
+45
+00:03:47,317 --> 00:03:50,611
+Então o futuro
+te deixou assustado?
+
+46
+00:03:50,612 --> 00:03:52,021
+Sim, acho que sim.
+
+47
+00:03:52,022 --> 00:03:54,136
+Quero acreditar
+que as coisas vão melhorar,
+
+48
+00:03:54,137 --> 00:03:56,400
+mas, às vezes, é difícil
+para eu ver isso.
+
+49
+00:03:56,401 --> 00:03:58,316
+Não posso dizer que entendo.
+
+50
+00:03:58,317 --> 00:04:00,810
+Não tenho filhos,
+ao menos, não que eu saiba.
+
+51
+00:04:00,811 --> 00:04:03,380
+Mas você tem um vindo aí,
+
+52
+00:04:03,381 --> 00:04:06,378
+então não temos
+outra escolha além de acreditar.
+
+53
+00:04:06,379 --> 00:04:09,192
+Deve ser melhor
+do que o que já passamos, certo?
+
+54
+00:04:09,193 --> 00:04:11,205
+É melhor que seja mesmo.
+
+55
+00:04:12,768 --> 00:04:16,845
+Sete dias seguidos de nível
+de toxicidade a .07
+
+56
+00:04:16,846 --> 00:04:18,489
+Os filtros do Lucius
+conseguiram.
+
+57
+00:04:18,490 --> 00:04:20,066
+Bom,
+que não tenha sido em vão.
+
+58
+00:04:20,067 --> 00:04:21,775
+Teremos algum problema?
+
+59
+00:04:21,776 --> 00:04:23,210
+Jim está com a cabeça cheia.
+
+60
+00:04:23,211 --> 00:04:24,881
+Com Gotham de volta ao mundo
+
+61
+00:04:24,882 --> 00:04:26,599
+e uma bebê chegando
+semana que vem.
+
+62
+00:04:26,600 --> 00:04:29,640
+- Pare de falar disso, Harvey.
+- Deixando as piadas de lado,
+
+63
+00:04:30,082 --> 00:04:33,900
+estamos aqui por sua causa.
+
+64
+00:04:33,901 --> 00:04:36,598
+E você será pai,
+esse é um bom futuro para mim.
+
+65
+00:04:43,274 --> 00:04:45,590
+Ao longo do último ano,
+
+66
+00:04:46,171 --> 00:04:48,215
+todos nós fizemos
+um bom trabalho.
+
+67
+00:04:48,216 --> 00:04:50,526
+Transformamos Gotham
+em um local seguro
+
+68
+00:04:50,527 --> 00:04:52,336
+para crianças e famílias.
+
+69
+00:04:52,779 --> 00:04:55,802
+Demos comida e remédios
+a população, quando precisaram.
+
+70
+00:04:56,906 --> 00:04:58,506
+Mas ainda não acabou.
+
+71
+00:04:59,643 --> 00:05:02,865
+Independentemente
+do que o Gen. Wade disser hoje,
+
+72
+00:05:04,283 --> 00:05:05,883
+o trabalho continua.
+
+73
+00:05:07,772 --> 00:05:10,223
+Mais uma rodada
+de aplausos...
+
+74
+00:05:12,933 --> 00:05:14,733
+e voltem ao trabalho.
+
+75
+00:05:23,426 --> 00:05:25,026
+Aí vêm eles.
+
+76
+00:05:48,213 --> 00:05:49,792
+Capitão Gordon,
+é um prazer
+
+77
+00:05:49,793 --> 00:05:51,564
+finalmente te conhecer
+pessoalmente.
+
+78
+00:05:51,565 --> 00:05:53,784
+General,
+bem-vindo a Gotham.
+
+79
+00:05:53,785 --> 00:05:57,922
+Ainda bem que reestabeleceu
+alguma ordem pública por aqui.
+
+80
+00:05:57,923 --> 00:05:59,467
+Parece que a zona verde,
+
+81
+00:05:59,468 --> 00:06:01,856
+se estende
+por todos os cantos da ilha.
+
+82
+00:06:01,857 --> 00:06:04,833
+General, os laboratórios Wayne
+mostram níveis tóxicos
+
+83
+00:06:04,834 --> 00:06:07,378
+bem abaixo do limiar
+que o governo impôs para nós.
+
+84
+00:06:07,379 --> 00:06:08,998
+Com todo respeito,
+senhor Wayne,
+
+85
+00:06:08,999 --> 00:06:11,899
+mas devo que seguir o que
+meu pessoal disser sobre isso.
+
+86
+00:06:37,209 --> 00:06:39,784
+Estamos no limite,
+não estamos?
+
+87
+00:06:39,785 --> 00:06:41,854
+Estamos abaixo
+de 27 quilos e 13 gramas?
+
+88
+00:06:41,855 --> 00:06:44,593
+Não é possível que faça
+uma diferença tão grande.
+
+89
+00:06:45,162 --> 00:06:47,310
+É só a diferença
+entre sair dessa ilha
+
+90
+00:06:47,311 --> 00:06:48,995
+ou naufragar
+para o fundo do rio.
+
+91
+00:06:48,996 --> 00:06:51,846
+Então o Pengy podia descarregar
+uma das bugigangas dele.
+
+92
+00:06:51,847 --> 00:06:53,684
+Nem pensar.
+
+93
+00:06:53,685 --> 00:06:56,708
+Porque você sabe
+o valor desse peso em ouro?
+
+94
+00:06:57,541 --> 00:06:58,941
+Ouro.
+
+95
+00:07:05,065 --> 00:07:06,981
+Parabéns!
+
+96
+00:07:08,291 --> 00:07:11,371
+Vá para a clínica,
+vá ter o seu bebê.
+
+97
+00:07:11,372 --> 00:07:13,292
+O quê?
+Para que vocês possam zarpar
+
+98
+00:07:13,293 --> 00:07:15,238
+dessa ilha sem mim?
+Eu acho que não.
+
+99
+00:07:15,239 --> 00:07:18,427
+Eu te garanto que não
+partiremos sem você.
+
+100
+00:07:18,428 --> 00:07:20,424
+Ed e eu terminaremos
+os preparativos
+
+101
+00:07:20,425 --> 00:07:23,122
+e estaremos prontos para partir
+assim que você voltar
+
+102
+00:07:23,123 --> 00:07:25,018
+com esse pequeno
+pacote de alegria.
+
+103
+00:07:26,520 --> 00:07:28,707
+A não ser que eu deva
+te levar até a clínica
+
+104
+00:07:28,708 --> 00:07:30,382
+devido
+a sua condição debilitante.
+
+105
+00:07:30,383 --> 00:07:33,393
+Eu posso fazer isso,
+não estou tão debilitada assim.
+
+106
+00:07:33,394 --> 00:07:37,945
+Lembre-se disso se você sequer
+pensar em me enganar.
+
+107
+00:07:43,790 --> 00:07:45,367
+Muito gentil
+oferecer carona.
+
+108
+00:07:45,368 --> 00:07:47,668
+Sabia que ela nunca
+aceitaria minha ajuda.
+
+109
+00:07:50,150 --> 00:07:52,292
+- Ligo os motores?
+- Uma passageira a menos
+
+110
+00:07:52,293 --> 00:07:54,674
+- para nos preocuparmos.
+- Na verdade, são duas.
+
+111
+00:07:54,675 --> 00:07:56,355
+Você tem toda a razão.
+
+112
+00:08:23,088 --> 00:08:26,126
+- Achei.
+- Muito bem, senhorita Kyle.
+
+113
+00:08:28,005 --> 00:08:29,405
+Vamos dar uma olhada.
+
+114
+00:08:31,346 --> 00:08:32,746
+Aqui está.
+
+115
+00:08:34,786 --> 00:08:38,251
+Este homem é o arquiteto
+que projetou a Mansão Wayne?
+
+116
+00:08:38,252 --> 00:08:39,975
+Sim, você está certa.
+
+117
+00:08:39,976 --> 00:08:43,156
+Com a reunificação, a nova
+Mansão Wayne deve ser feita.
+
+118
+00:08:44,172 --> 00:08:47,494
+E vai ser igual a antiga?
+
+119
+00:08:47,904 --> 00:08:50,278
+Nada é completamente igual
+ao que era.
+
+120
+00:08:51,512 --> 00:08:55,060
+Por que estamos vendo
+as antigas plantas?
+
+121
+00:08:55,553 --> 00:08:58,359
+Talvez eu não esteja pronto
+para abrir mão do passado.
+
+122
+00:09:02,348 --> 00:09:03,792
+Se te faz se sentir melhor,
+
+123
+00:09:03,793 --> 00:09:06,126
+eu queria poder
+explodir meu passado.
+
+124
+00:09:08,549 --> 00:09:10,149
+Talvez você exploda.
+
+125
+00:09:11,310 --> 00:09:13,299
+Um dia,
+quando você construir algo novo,
+
+126
+00:09:13,300 --> 00:09:15,735
+o passado vai ser
+sempre parte disso.
+
+127
+00:09:16,558 --> 00:09:17,995
+Quanto a mim,
+
+128
+00:09:17,996 --> 00:09:20,148
+agora que o Patrão Bruce
+cresceu,
+
+129
+00:09:20,149 --> 00:09:23,890
+construir uma mansão nova
+talvez seja meu último serviço.
+
+130
+00:09:25,930 --> 00:09:27,330
+Um lar.
+
+131
+00:09:28,708 --> 00:09:30,108
+E depois?
+
+132
+00:09:31,810 --> 00:09:33,210
+Você se aposenta?
+
+133
+00:09:34,899 --> 00:09:36,299
+Não.
+
+134
+00:09:39,512 --> 00:09:43,051
+Vou ficar de guarda
+como eu sempre fiz.
+
+135
+00:09:48,485 --> 00:09:51,148
+Pensei que estava certo,
+isso é conversa fiada.
+
+136
+00:09:51,149 --> 00:09:52,811
+Meus resultados
+são precisos, Jim.
+
+137
+00:09:52,812 --> 00:09:55,451
+Não sabemos, general.
+Talvez ele esteja com a Walker.
+
+138
+00:09:55,452 --> 00:09:58,360
+Não vamos nos precipitar.
+Bruce, vá checar a tecnologia.
+
+139
+00:10:03,007 --> 00:10:04,307
+É o Gordon.
+
+140
+00:10:04,674 --> 00:10:07,692
+<i>- É a Lee.
+- Está tudo bem?</i>
+
+141
+00:10:09,532 --> 00:10:12,668
+Barbara acabou de aparecer aqui,
+em trabalho de parto.
+
+142
+00:10:12,669 --> 00:10:13,969
+Você está brincando.
+
+143
+00:10:14,592 --> 00:10:15,892
+<i>É melhor você vir rápido.</i>
+
+144
+00:10:20,518 --> 00:10:21,818
+Você está bem?
+
+145
+00:10:23,528 --> 00:10:25,746
+Estou.
+Estou.
+
+146
+00:10:28,345 --> 00:10:30,245
+<i>Tentarei chegar
+o mais rápido possível.</i>
+
+147
+00:10:31,102 --> 00:10:32,410
+<i>Tentarei.</i>
+
+148
+00:10:34,277 --> 00:10:36,089
+Tente esperar por mim.
+
+149
+00:10:36,090 --> 00:10:38,301
+Não funciona assim.
+
+150
+00:10:38,719 --> 00:10:40,119
+Eu sei.
+
+151
+00:10:41,258 --> 00:10:42,658
+Tudo bem.
+
+152
+00:10:43,096 --> 00:10:44,396
+<i>Espere.</i>
+
+153
+00:10:46,241 --> 00:10:47,541
+Eu te amo.
+
+154
+00:10:51,508 --> 00:10:52,808
+Também te amo.
+
+155
+00:10:53,504 --> 00:10:54,804
+Jim!
+
+156
+00:10:55,610 --> 00:10:57,072
+O quê?
+Qual é o problema?
+
+157
+00:10:57,073 --> 00:11:00,341
+Conseguimos. Você conseguiu.
+Conseguimos passar, Jim.
+
+158
+00:11:00,342 --> 00:11:01,642
+Capitão.
+
+159
+00:11:02,168 --> 00:11:05,151
+Tudo limpo.
+Parabéns.
+
+160
+00:11:05,152 --> 00:11:07,088
+A reunificação pode começar.
+
+161
+00:11:09,334 --> 00:11:11,341
+Fico feliz
+por te fazer feliz.
+
+162
+00:11:12,454 --> 00:11:14,329
+Senhor,
+o mais engraçado é
+
+163
+00:11:14,330 --> 00:11:17,244
+que essa é a segunda melhor
+notícia que tive hoje.
+
+164
+00:11:19,390 --> 00:11:20,690
+O que é isso?
+
+165
+00:11:23,090 --> 00:11:25,019
+- Jim.
+- Ataque.
+
+166
+00:11:27,017 --> 00:11:28,811
+Recue, todo mundo!
+
+167
+00:11:28,812 --> 00:11:31,645
+Entrem!
+Entrem!
+
+168
+00:11:36,607 --> 00:11:37,907
+Vão, vão.
+
+169
+00:12:12,608 --> 00:12:13,908
+Eduardo?
+
+170
+00:12:16,012 --> 00:12:17,842
+<i>Não mais.</i>
+
+171
+00:12:49,728 --> 00:12:51,789
+Certo, pessoal, ouçam.
+
+172
+00:12:52,618 --> 00:12:55,733
+Quero esquadrões
+no Knights Stadium,
+
+173
+00:12:55,734 --> 00:12:58,035
+Yeavley Park
+e Granton Station.
+
+174
+00:12:58,036 --> 00:13:00,788
+Vamos indo.
+Temos que encontrá-lo, pessoal.
+
+175
+00:13:02,766 --> 00:13:05,156
+- O que aconteceu?
+- O amigo militar do Jim
+
+176
+00:13:05,157 --> 00:13:07,145
+não estava morto
+como pensávamos.
+
+177
+00:13:07,146 --> 00:13:09,186
+Tenho esquadrões
+cobrindo o lado norte.
+
+178
+00:13:09,187 --> 00:13:11,286
+Procuram de Coventry
+até Miller Harbour,
+
+179
+00:13:11,287 --> 00:13:14,288
+- é um tiro no escuro.
+- Vou procurar também.
+
+180
+00:13:15,421 --> 00:13:17,860
+Procure em Reatton
+até South City Park.
+
+181
+00:13:17,861 --> 00:13:20,727
+Parece que ainda não acabou
+de proteger Bruce, Alfred.
+
+182
+00:13:32,471 --> 00:13:33,904
+Eduardo.
+
+183
+00:13:35,244 --> 00:13:36,885
+O que Walker fez com você?
+
+184
+00:13:39,398 --> 00:13:42,574
+Quando eu estava
+na prisão de Peña Dura, Jim,
+
+185
+00:13:42,575 --> 00:13:44,660
+os guardas faziam um jogo.
+
+186
+00:13:45,601 --> 00:13:49,705
+Eles escolhiam um de nós
+e nos enterravam vivos.
+
+187
+00:13:49,706 --> 00:13:52,397
+Apostavam
+se a pessoa conseguia escapar.
+
+188
+00:13:52,398 --> 00:13:55,365
+Mas então
+eles enterravam mais fundo.
+
+189
+00:13:56,289 --> 00:13:57,983
+E jogávamos novamente.
+
+190
+00:13:59,598 --> 00:14:01,319
+Eu fui o campeão.
+
+191
+00:14:02,958 --> 00:14:07,292
+Para sobreviver à isso
+precisei parar de ser humano.
+
+192
+00:14:08,743 --> 00:14:12,612
+Eu tive que me tornar
+outra coisa.
+
+193
+00:14:14,456 --> 00:14:16,059
+Eu me tornei Bane.
+
+194
+00:14:17,406 --> 00:14:19,540
+Só que eu não sabia ainda.
+
+195
+00:14:19,541 --> 00:14:23,555
+Mas ela sabia
+e ela me mostrou o caminho.
+
+196
+00:14:24,155 --> 00:14:26,520
+Se o mundo
+está cheio de monstros,
+
+197
+00:14:26,521 --> 00:14:28,563
+a única maneira
+de derrotá-los...
+
+198
+00:14:28,564 --> 00:14:31,015
+é se tornar um também.
+
+199
+00:14:32,820 --> 00:14:34,436
+Sinto muito.
+
+200
+00:14:35,130 --> 00:14:36,701
+Você era um bom soldado.
+
+201
+00:14:39,003 --> 00:14:40,637
+Não tenha pena de mim, Jim.
+
+202
+00:14:41,520 --> 00:14:43,838
+Estamos construindo
+o futuro.
+
+203
+00:14:44,443 --> 00:14:46,566
+Ela me deu
+uma pureza de missão.
+
+204
+00:14:46,567 --> 00:14:47,980
+E diferente do exército,
+
+205
+00:14:47,981 --> 00:14:50,516
+ela está disposta
+a mudar as coisas.
+
+206
+00:14:52,028 --> 00:14:54,222
+Um novo mundo
+está chegando.
+
+207
+00:14:54,725 --> 00:14:56,191
+Forte...
+
+208
+00:14:57,459 --> 00:14:58,918
+impiedoso...
+
+209
+00:14:59,355 --> 00:15:00,792
+inflexível.
+
+210
+00:15:00,793 --> 00:15:02,793
+Eu já ouvi tudo isso antes.
+
+211
+00:15:03,669 --> 00:15:05,346
+Não vai acontecer.
+
+212
+00:15:07,154 --> 00:15:10,183
+E como vai me impedir, Jim?
+
+213
+00:15:10,184 --> 00:15:12,883
+Eu não. Você sequestrou
+Bruce Wayne
+
+214
+00:15:12,884 --> 00:15:14,554
+e um general
+do exército dos EUA.
+
+215
+00:15:14,555 --> 00:15:18,074
+Você fala sobre o seu futuro,
+Eduardo, mas você não tem um.
+
+216
+00:15:18,617 --> 00:15:20,690
+Mas Eduardo está morto, Jim.
+
+217
+00:15:22,243 --> 00:15:24,510
+Existe apenas o Bane agora.
+
+218
+00:15:28,078 --> 00:15:29,501
+Levante.
+
+219
+00:15:31,831 --> 00:15:34,097
+Mandei levantar.
+
+220
+00:15:34,649 --> 00:15:36,314
+Não tão formal.
+
+221
+00:15:36,315 --> 00:15:38,813
+Já nos conhecemos,
+o Capitão e eu.
+
+222
+00:15:40,636 --> 00:15:42,352
+Pegue o outro.
+
+223
+00:15:46,974 --> 00:15:50,245
+Reconheço sua voz
+mas não sei como te chamar.
+
+224
+00:15:51,140 --> 00:15:53,071
+Eu sei que não é Walker.
+
+225
+00:15:53,714 --> 00:15:55,483
+Então quem é você?
+
+226
+00:15:56,588 --> 00:15:59,337
+Essa é uma boa pergunta.
+
+227
+00:15:59,338 --> 00:16:01,817
+Talvez Bruce Wayne
+
+228
+00:16:01,818 --> 00:16:04,726
+ajude-nos a descobrir isso.
+
+229
+00:16:09,932 --> 00:16:11,351
+Você está bem?
+
+230
+00:16:11,861 --> 00:16:13,261
+Estou.
+
+231
+00:16:15,501 --> 00:16:17,101
+Você quer reféns?
+
+232
+00:16:17,102 --> 00:16:19,528
+Tem a mim e um general
+do exército dos EUA.
+
+233
+00:16:19,529 --> 00:16:22,802
+Deixe-o ir. Isso não tem
+nada a ver com ele.
+
+234
+00:16:23,226 --> 00:16:25,948
+"Isso não tem nada
+a ver com ele"?
+
+235
+00:16:26,354 --> 00:16:29,123
+Mas, Capitão,
+você nem sabe o que é "isso".
+
+236
+00:16:30,049 --> 00:16:33,384
+Isso, tudo o que fiz aqui
+
+237
+00:16:33,385 --> 00:16:35,625
+é para punir Gotham.
+
+238
+00:16:36,519 --> 00:16:39,570
+Pelos pecados
+de Bruce Wayne.
+
+239
+00:16:40,964 --> 00:16:42,987
+Você pode começar agora.
+
+240
+00:16:46,524 --> 00:16:48,398
+Não, não!
+
+241
+00:16:52,213 --> 00:16:54,113
+E de novo.
+
+242
+00:16:57,707 --> 00:16:59,107
+Então...
+
+243
+00:16:59,522 --> 00:17:01,834
+Bruce Wayne.
+
+244
+00:17:02,269 --> 00:17:04,590
+Estou pensando em um nome.
+
+245
+00:17:05,029 --> 00:17:07,497
+Pode adivinhar no de quem é?
+
+246
+00:17:07,498 --> 00:17:10,336
+- O quê?
+- Errado.
+
+247
+00:17:10,337 --> 00:17:11,837
+E de novo.
+
+248
+00:17:13,501 --> 00:17:15,522
+Quer tentar adivinhar
+de novo?
+
+249
+00:17:20,923 --> 00:17:24,138
+Adeus, minha amada Gotham.
+
+250
+00:17:24,572 --> 00:17:26,746
+Cidade que eu nasci.
+
+251
+00:17:27,710 --> 00:17:31,212
+Partir é uma doce tristeza.
+
+252
+00:17:33,430 --> 00:17:35,434
+Apesar de te deixar hoje,
+
+253
+00:17:36,227 --> 00:17:38,914
+meu coração
+sempre estará aqui.
+
+254
+00:17:39,342 --> 00:17:43,080
+- Eu odeio despedidas...
+- Está com sorte.
+
+255
+00:17:43,081 --> 00:17:44,681
+- Não vamos a lugar algum.
+- Quê?
+
+256
+00:17:44,682 --> 00:17:47,456
+O motor não liga, a válvula
+reguladora de pressão sumiu.
+
+257
+00:17:47,457 --> 00:17:48,857
+Ou melhor, foi roubada.
+
+258
+00:17:51,892 --> 00:17:54,730
+Barbara!
+
+259
+00:17:58,068 --> 00:17:59,718
+Pressão sanguínea
+está normal.
+
+260
+00:18:00,152 --> 00:18:02,840
+Fico feliz por algo nisso tudo
+ser normal.
+
+261
+00:18:03,435 --> 00:18:06,049
+Quanto tempo isso levará,
+doutora? Do início ao fim?
+
+262
+00:18:06,469 --> 00:18:08,104
+Está com pressa,
+ou algo assim?
+
+263
+00:18:08,806 --> 00:18:10,701
+Não, é só que...
+
+264
+00:18:11,528 --> 00:18:14,830
+Só acho que você tem sido
+tão bacana quanto a isso.
+
+265
+00:18:15,247 --> 00:18:17,377
+E tem sido muito estranho
+para você, e...
+
+266
+00:18:18,072 --> 00:18:20,335
+Eu nem te agradeci.
+
+267
+00:18:20,336 --> 00:18:22,579
+Não espero que me agradeça,
+Barbara.
+
+268
+00:18:22,580 --> 00:18:25,670
+Então o melhor agradecimento
+seria eu sair daqui logo.
+
+269
+00:18:29,269 --> 00:18:33,832
+O que quer que tenha em mente,
+a saúde da bebê vem primeiro.
+
+270
+00:18:34,415 --> 00:18:35,715
+Eu sei disso.
+
+271
+00:18:35,716 --> 00:18:38,574
+Então, quer a jornada seja longa
+ou curta, estaremos aqui,
+
+272
+00:18:38,575 --> 00:18:40,998
+até que tenha uma bebê saudável
+nos seus braços.
+
+273
+00:18:41,473 --> 00:18:43,130
+É só isso que eu quero.
+
+274
+00:18:44,517 --> 00:18:45,817
+Certo.
+
+275
+00:18:56,223 --> 00:18:57,623
+Pare!
+
+276
+00:18:58,449 --> 00:19:01,225
+Um nome!
+Uma pessoa!
+
+277
+00:19:01,226 --> 00:19:03,267
+A razão para tudo isso
+estar acontecendo.
+
+278
+00:19:04,351 --> 00:19:06,653
+Ainda não
+consegue adivinhar?
+
+279
+00:19:06,654 --> 00:19:09,096
+Eu não sei!
+
+280
+00:19:13,678 --> 00:19:16,459
+Se quer me punir,
+faça isso.
+
+281
+00:19:16,460 --> 00:19:18,010
+Machuque a mim,
+não ele.
+
+282
+00:19:18,500 --> 00:19:20,340
+Estou machucando você.
+
+283
+00:19:21,191 --> 00:19:25,579
+Não há nada mais doloroso
+do que ver seu amigo sofrer.
+
+284
+00:19:26,632 --> 00:19:30,135
+Mas ele é mais do que só
+um amigo, não é, Bruce?
+
+285
+00:19:30,136 --> 00:19:33,755
+Jim Gordon tem sido
+como um pai para você.
+
+286
+00:19:35,386 --> 00:19:39,783
+Deve ser muito ruim
+ver outro pai morrer.
+
+287
+00:19:43,032 --> 00:19:45,245
+Para quem
+estou fazendo isso?
+
+288
+00:19:45,246 --> 00:19:46,865
+Diga o nome.
+
+289
+00:19:54,484 --> 00:19:57,267
+Quando aqueles
+que você ama morrem,
+
+290
+00:19:57,268 --> 00:20:01,071
+é como se uma parte de você
+fosse cortada,
+
+291
+00:20:01,072 --> 00:20:02,472
+para sempre.
+
+292
+00:20:04,650 --> 00:20:06,581
+Você sabe disso.
+
+293
+00:20:08,818 --> 00:20:13,776
+Então por que eu te odeio tanto?
+Quem foi morto que eu amava?
+
+294
+00:20:14,212 --> 00:20:16,014
+Última chance.
+
+295
+00:20:33,192 --> 00:20:34,592
+Sim.
+
+296
+00:20:35,664 --> 00:20:37,580
+Agora você sabe.
+
+297
+00:20:39,597 --> 00:20:41,496
+Diga o nome dele.
+
+298
+00:20:42,062 --> 00:20:43,698
+Diga!
+
+299
+00:20:44,139 --> 00:20:46,454
+Ra's Al Ghul.
+
+300
+00:20:48,192 --> 00:20:50,829
+Isso é vingança
+pela morte dele.
+
+301
+00:20:53,476 --> 00:20:55,540
+E quem sou eu?
+
+302
+00:20:56,888 --> 00:20:58,946
+Você é a filha dele.
+
+303
+00:21:03,736 --> 00:21:06,461
+Meu nome é Nyssa Al Ghul.
+
+304
+00:21:06,871 --> 00:21:11,090
+E vingança é só o começo
+do que eu quero.
+
+305
+00:21:22,326 --> 00:21:25,131
+A Liga das Sombras
+está em todos os lugares.
+
+306
+00:21:25,132 --> 00:21:28,489
+Achou que a missão do meu pai
+morreria com ele?
+
+307
+00:21:28,490 --> 00:21:32,628
+A humanidade terá
+a fraqueza dele removida.
+
+308
+00:21:33,175 --> 00:21:36,780
+Só estou começando
+com você e seus amigos.
+
+309
+00:21:38,528 --> 00:21:39,928
+Está certa.
+
+310
+00:21:40,896 --> 00:21:43,134
+Eu matei o Ra's.
+
+311
+00:21:44,262 --> 00:21:48,129
+Então, o que precisar fazer,
+faça em mim.
+
+312
+00:21:51,730 --> 00:21:56,402
+Não, você não pode levar
+toda a culpa por matar meu pai.
+
+313
+00:21:56,403 --> 00:22:01,163
+Digo, você teve alguma ajuda,
+certo?
+
+314
+00:22:02,006 --> 00:22:06,832
+Alguém que, literalmente,
+te deu uma mão amiga.
+
+315
+00:22:08,489 --> 00:22:09,889
+O que está fazendo?
+
+316
+00:22:17,061 --> 00:22:19,375
+Bom trabalho, Barbara.
+
+317
+00:22:24,980 --> 00:22:27,080
+Vá buscar Barbara Kean.
+
+318
+00:22:29,122 --> 00:22:30,522
+Eduardo...
+
+319
+00:22:33,567 --> 00:22:35,087
+Ela está grávida.
+
+320
+00:22:36,426 --> 00:22:38,417
+Ela está com um bebê
+na barriga.
+
+321
+00:22:39,040 --> 00:22:40,746
+<i>Um bebê.</i>
+
+322
+00:22:43,128 --> 00:22:47,160
+<i>O futuro de uma alma
+contra o do mundo.</i>
+
+323
+00:22:48,441 --> 00:22:50,891
+<i>Sua preocupação
+parece insignificante, Jim.</i>
+
+324
+00:22:55,040 --> 00:22:57,764
+Se ele tocar em um fio
+de cabelo daquela criança,
+
+325
+00:22:57,765 --> 00:22:59,847
+eu destruirei
+tudo que você tem.
+
+326
+00:22:59,848 --> 00:23:04,480
+Não me sobrou mais nada,
+apenas a missão do meu pai.
+
+327
+00:23:09,262 --> 00:23:12,883
+Bane quer que você
+junte-se a nós nessa missão.
+
+328
+00:23:14,223 --> 00:23:16,832
+Para ver o mundo
+como ele vê.
+
+329
+00:23:17,234 --> 00:23:20,453
+- Nunca.
+- Nunca diga nunca,
+
+330
+00:23:20,454 --> 00:23:22,669
+- Capitão Gordon.
+- Não!
+
+331
+00:23:25,871 --> 00:23:28,567
+Como se sente, Bruce,
+
+332
+00:23:28,970 --> 00:23:32,239
+sabendo que tudo isso
+é sua culpa?
+
+333
+00:23:33,801 --> 00:23:36,933
+Conte-me,
+eu realmente quero saber.
+
+334
+00:23:44,219 --> 00:23:46,417
+Deve ter alguma coisa
+que você pode me dar.
+
+335
+00:23:46,418 --> 00:23:48,556
+Estamos sem os remédios
+que você precisa.
+
+336
+00:23:48,990 --> 00:23:51,140
+Está tudo bem,
+você está quase lá.
+
+337
+00:23:51,141 --> 00:23:53,386
+Vou trazer gelo
+para você não se desidratar.
+
+338
+00:23:53,387 --> 00:23:54,972
+Nossa, obrigada!
+
+339
+00:23:58,982 --> 00:24:00,382
+Lee.
+
+340
+00:24:00,827 --> 00:24:02,227
+Ed.
+
+341
+00:24:02,814 --> 00:24:05,427
+Não se preocupe,
+não vim aqui atrás de você.
+
+342
+00:24:06,616 --> 00:24:10,322
+Mas, só para que saiba,
+você me esfaqueou primeiro.
+
+343
+00:24:10,323 --> 00:24:14,839
+Se já terminaram,
+viemos atrás da Barbara.
+
+344
+00:24:14,840 --> 00:24:18,380
+Ou, mais precisamente,
+do que ela roubou de nós.
+
+345
+00:24:18,381 --> 00:24:20,801
+Não sei sobre o que é isso,
+e não estou nem aí.
+
+346
+00:24:20,802 --> 00:24:22,747
+Vocês precisam
+sair daqui agora.
+
+347
+00:24:22,748 --> 00:24:26,440
+Com certeza, assim que a Barbara
+nos entregar a...
+
+348
+00:24:26,992 --> 00:24:29,517
+- Como chama mesmo?
+- Válvula para regular pressão.
+
+349
+00:24:29,518 --> 00:24:30,923
+Isso aí.
+
+350
+00:24:32,847 --> 00:24:35,621
+Devia ter percebido
+que você tentaria nos foder.
+
+351
+00:24:35,622 --> 00:24:39,317
+Só percebeu porque tentou
+me foder primeiro.
+
+352
+00:24:39,318 --> 00:24:41,059
+Segundo, tecnicamente.
+
+353
+00:24:41,060 --> 00:24:43,431
+Certo, ela está
+no meio do trabalho de parto.
+
+354
+00:24:43,432 --> 00:24:45,969
+E nós estamos no meio
+de tentar sair de Gotham,
+
+355
+00:24:45,970 --> 00:24:50,104
+e não podemos fazer isso sem
+uma parte crucial do submarino
+
+356
+00:24:50,105 --> 00:24:52,279
+o que vai tirar
+todos nós daqui!
+
+357
+00:24:52,280 --> 00:24:54,623
+Por isso estava com tanta pressa
+de sair daqui.
+
+358
+00:24:54,624 --> 00:24:56,433
+Assim como nós.
+
+359
+00:24:58,593 --> 00:25:02,089
+Entregue a parte, agora!
+
+360
+00:25:02,090 --> 00:25:04,172
+Não aponte isso
+para o bebê.
+
+361
+00:25:04,173 --> 00:25:06,898
+O quê?
+Não, eu não apontei.
+
+362
+00:25:07,734 --> 00:25:09,910
+Eu mal estava
+tentando fazer
+
+363
+00:25:09,911 --> 00:25:11,849
+uma ameaça geral
+com arma de fogo.
+
+364
+00:25:11,850 --> 00:25:13,469
+Mesmo assim,
+você apontou a arma.
+
+365
+00:25:13,470 --> 00:25:17,614
+Tudo bem, sinto muito!
+Entregue-nos o que queremos!
+
+366
+00:25:17,615 --> 00:25:20,458
+Não! Acha que sou idiota
+de carregar a parte comigo?
+
+367
+00:25:20,459 --> 00:25:22,595
+Está escondida
+em um lugar seguro.
+
+368
+00:25:22,596 --> 00:25:25,930
+E se acha que pode me torturar
+para descobrir o local,
+
+369
+00:25:25,931 --> 00:25:28,401
+não tem nada
+mais doloroso
+
+370
+00:25:28,402 --> 00:25:31,466
+do que estou
+passando agora!
+
+371
+00:25:36,870 --> 00:25:39,798
+Você vai ficar aqui,
+isso é um hospital!
+
+372
+00:25:45,763 --> 00:25:47,636
+<i>Barbara Kean,</i>
+
+373
+00:25:48,083 --> 00:25:50,421
+<i>seu tempo acabou.</i>
+
+374
+00:25:50,954 --> 00:25:53,589
+<i>Não há lugar
+onde possa se esconder.</i>
+
+375
+00:25:53,590 --> 00:25:57,409
+<i>Ninguém vai te salvar.
+Nenhuma misericórdia te poupará.</i>
+
+376
+00:25:57,869 --> 00:26:01,312
+<i>Você não pode fugir
+dos seus pecados.</i>
+
+377
+00:26:01,734 --> 00:26:04,148
+<i>E não pode fugir de mim.</i>
+
+378
+00:26:15,685 --> 00:26:17,554
+O que você quer de mim?
+
+379
+00:26:22,032 --> 00:26:26,072
+Deixe-me te contar
+um segredo militar.
+
+380
+00:26:26,900 --> 00:26:31,212
+É chamado
+de "Ordem Especial 386".
+
+381
+00:26:31,636 --> 00:26:35,409
+No caso de Gotham
+estar irremediavelmente perdida,
+
+382
+00:26:35,410 --> 00:26:38,086
+um plano de contingência
+foi preparado
+
+383
+00:26:38,087 --> 00:26:41,321
+para destruir a cidade.
+
+384
+00:26:44,819 --> 00:26:47,239
+Não.
+Ainda há inocentes aqui.
+
+385
+00:26:47,240 --> 00:26:50,499
+Você me perguntou
+o que eu queria de você.
+
+386
+00:26:52,140 --> 00:26:56,078
+Quero que você sofra,
+Bruce Wayne.
+
+387
+00:26:56,616 --> 00:26:59,190
+E depois eu quero
+que você morra.
+
+388
+00:27:01,986 --> 00:27:05,132
+Pense um pouco nisso.
+
+389
+00:27:06,901 --> 00:27:09,061
+Começaremos em breve.
+
+390
+00:27:16,761 --> 00:27:18,886
+- Quem são eles?
+- Não sei.
+
+391
+00:27:18,887 --> 00:27:21,091
+Com quantas pessoas
+você se desentendeu?
+
+392
+00:27:21,092 --> 00:27:23,046
+Sem nos incluir.
+
+393
+00:27:23,466 --> 00:27:25,393
+Há 79 pessoas nesse prédio.
+
+394
+00:27:25,394 --> 00:27:27,875
+Felizmente,
+ele só quer matar uma pessoa.
+
+395
+00:27:27,876 --> 00:27:30,738
+Vamos lá!
+Vamos ficar perto do alvo.
+
+396
+00:27:31,274 --> 00:27:33,051
+Talvez possamos
+cortar caminho
+
+397
+00:27:33,052 --> 00:27:36,179
+e chegar na ambulância.
+Pode demorar, mas...
+
+398
+00:27:36,180 --> 00:27:38,877
+Se tivéssemos dois homens
+para nos conseguir tempo...
+
+399
+00:27:38,878 --> 00:27:41,571
+E por que devemos
+nos arriscar por você?
+
+400
+00:27:41,572 --> 00:27:43,527
+Cavalheirismo?
+
+401
+00:27:44,013 --> 00:27:45,477
+Se for muito, lembre-se,
+
+402
+00:27:45,478 --> 00:27:48,177
+se eu morrer,
+nunca terá a peça do submarino.
+
+403
+00:27:48,178 --> 00:27:51,525
+Certo.
+Nós o mantemos ocupado.
+
+404
+00:27:51,526 --> 00:27:54,219
+- Nos encontraremos nas docas.
+- Obrigada.
+
+405
+00:27:59,093 --> 00:28:00,877
+- O quê?
+- Mantê-lo ocupado?
+
+406
+00:28:00,878 --> 00:28:03,552
+Só trouxe munição
+para um tiroteio de leve,
+
+407
+00:28:03,553 --> 00:28:06,147
+não para nos proteger
+de um ataque paramilitar.
+
+408
+00:28:06,148 --> 00:28:08,492
+O que usaremos?
+Urinóis?
+
+409
+00:28:09,094 --> 00:28:11,271
+Eu estava pensando
+em algo mais...
+
+410
+00:28:11,819 --> 00:28:13,137
+inflamável.
+
+411
+00:28:48,547 --> 00:28:51,794
+Oi, Capitão Gordon,
+que bom que está acordado.
+
+412
+00:28:52,593 --> 00:28:55,159
+Você escolheu o lado perdedor,
+Strange.
+
+413
+00:28:56,073 --> 00:28:58,361
+O exército
+está vindo para Gotham.
+
+414
+00:28:58,362 --> 00:29:01,683
+Ajude-me, e pode fazer
+o que faz de melhor:
+
+415
+00:29:01,684 --> 00:29:03,384
+sobreviver.
+
+416
+00:29:04,134 --> 00:29:08,408
+Eu prefiro acreditar
+no sucesso da sra. Al Ghul
+
+417
+00:29:08,409 --> 00:29:10,168
+do que de um homem
+na sua,
+
+418
+00:29:10,169 --> 00:29:11,548
+bem...
+
+419
+00:29:11,960 --> 00:29:13,360
+posição.
+
+420
+00:29:14,170 --> 00:29:16,813
+Acha mesmo que ela consegue
+lidar com um exército?
+
+421
+00:29:16,814 --> 00:29:18,980
+De fato, eu acho.
+
+422
+00:29:19,419 --> 00:29:21,549
+Com a minha ajuda.
+
+423
+00:29:22,539 --> 00:29:25,690
+Só preciso fazer
+algumas modificações
+
+424
+00:29:25,691 --> 00:29:28,605
+para você ser um soldado
+no exército dela.
+
+425
+00:29:28,606 --> 00:29:31,802
+Não diferente do seu amigo,
+Eduardo...
+
+426
+00:29:32,342 --> 00:29:36,332
+Ajudarei você
+a alcançar todo seu potencial,
+
+427
+00:29:36,333 --> 00:29:39,432
+vou te dar
+a verdadeira força.
+
+428
+00:29:40,069 --> 00:29:42,117
+- Não quero.
+- Consentimento
+
+429
+00:29:42,118 --> 00:29:45,376
+não é um pré-requisito.
+
+430
+00:29:45,377 --> 00:29:48,594
+Começaremos...
+
+431
+00:29:49,040 --> 00:29:52,110
+com alguns
+melhoramentos físicos.
+
+432
+00:29:55,142 --> 00:29:56,704
+Desculpe.
+
+433
+00:29:56,705 --> 00:29:59,382
+E terminaremos...
+
+434
+00:30:00,013 --> 00:30:04,456
+com alguns ajustes mentais.
+
+435
+00:30:50,338 --> 00:30:52,108
+Suas contrações
+estão aumentando.
+
+436
+00:30:52,109 --> 00:30:53,509
+Temos que te tirar daqui.
+
+437
+00:30:58,360 --> 00:30:59,876
+Ótimo tiro!
+
+438
+00:31:05,087 --> 00:31:06,487
+Continue respirando.
+
+439
+00:32:06,803 --> 00:32:09,099
+Alguns tentam se esconder,
+outros trapacear.
+
+440
+00:32:09,100 --> 00:32:11,797
+Mas o tempo sempre
+nos reunirá, o que eu sou?
+
+441
+00:32:11,798 --> 00:32:15,216
+- Uma grávida armada?
+- Morte, mas chegou perto.
+
+442
+00:32:15,780 --> 00:32:18,405
+Para onde vamos agora?
+
+443
+00:32:18,406 --> 00:32:22,685
+Acredito que temos
+um submarino para pegar.
+
+444
+00:32:23,685 --> 00:32:25,466
+Há quanto tempo
+está com isso?
+
+445
+00:32:25,467 --> 00:32:27,947
+O suficiente para ela achar
+que ainda tinha isso.
+
+446
+00:32:32,582 --> 00:32:34,820
+E você ficou aqui
+tempo suficiente
+
+447
+00:32:34,821 --> 00:32:38,564
+para arriscar nossas vidas
+e salvar a de Barbara?
+
+448
+00:32:40,598 --> 00:32:42,345
+Ou foi para proteger Lee?
+
+449
+00:32:42,346 --> 00:32:44,910
+Você quer que eu responda
+ou quer sair daqui?
+
+450
+00:32:45,336 --> 00:32:47,336
+Boa viagem.
+
+451
+00:32:54,024 --> 00:32:56,866
+Aquele malditos roubaram
+a peça do submarino.
+
+452
+00:32:56,867 --> 00:32:59,778
+- Roubaram de volta.
+- De que lado você está?
+
+453
+00:32:59,779 --> 00:33:02,560
+Claramente do lado da bebê,
+Barbara.
+
+454
+00:33:02,561 --> 00:33:05,209
+Qual era o seu plano,
+afinal?
+
+455
+00:33:05,210 --> 00:33:08,041
+Iria virar fugitiva
+com Nygma e Pinguim?
+
+456
+00:33:08,042 --> 00:33:11,122
+Bom, não faço o tipo
+dona de casa.
+
+457
+00:33:11,123 --> 00:33:14,251
+Fugir em um submarino
+parecia uma ótima alternativa.
+
+458
+00:33:18,701 --> 00:33:23,451
+Barbara, você pode morar
+e ter o bebê aqui.
+
+459
+00:33:23,452 --> 00:33:26,072
+Jim não vai tirar
+a bebê de você.
+
+460
+00:33:27,524 --> 00:33:29,169
+Realmente acredita nisso?
+
+461
+00:33:30,036 --> 00:33:32,652
+Você acha mesmo
+que o Capitão Jim Gordon
+
+462
+00:33:32,653 --> 00:33:35,261
+vai deixar uma criminosa
+criar a filha dele?
+
+463
+00:33:40,043 --> 00:33:42,518
+As pessoas já estão
+atirando na minha bebê.
+
+464
+00:33:42,519 --> 00:33:44,418
+Preciso protegê-lo,
+
+465
+00:33:44,994 --> 00:33:48,269
+ou ela.
+Preciso ser forte.
+
+466
+00:33:49,253 --> 00:33:52,853
+Ser forte não significa
+que precise ser uma criminosa.
+
+467
+00:33:54,608 --> 00:33:56,209
+Jim vai te ajudar.
+
+468
+00:33:57,217 --> 00:33:59,614
+E eu também,
+se você permitir.
+
+469
+00:33:59,615 --> 00:34:02,819
+- Isso é estranho.
+- Eu sei.
+
+470
+00:34:03,512 --> 00:34:06,103
+Bebê,
+essa é sua Tia Lee.
+
+471
+00:34:06,104 --> 00:34:08,861
+Mamãe tentou matá-la
+uma ou duas vezes.
+
+472
+00:34:08,862 --> 00:34:10,299
+Está bem.
+Já chega
+
+473
+00:34:10,300 --> 00:34:12,312
+Vamos lá.
+Temos que continuar andando.
+
+474
+00:34:13,689 --> 00:34:15,512
+Acho que está
+acontecendo agora.
+
+475
+00:34:42,000 --> 00:34:43,485
+O que está acontecendo?
+
+476
+00:34:54,783 --> 00:34:56,978
+Aqui é Bruce Wayne.
+Alguém na escuta?
+
+477
+00:35:01,154 --> 00:35:04,308
+Aqui é Bruce Wayne.
+Alguém no DPGC me ouve?
+
+478
+00:35:05,424 --> 00:35:07,688
+<i>Aqui é Bruce Wayne.
+Alguém pode me ouvir?</i>
+
+479
+00:35:08,239 --> 00:35:11,587
+Bruce, é o Alfred.
+Onde o diabos está? Câmbio.
+
+480
+00:35:11,588 --> 00:35:14,235
+Uma mansão abandonada
+em North Side Park.
+
+481
+00:35:14,236 --> 00:35:16,737
+<i>- Estou a caminho.
+- Não.</i> Eu saio sozinho.
+
+482
+00:35:16,738 --> 00:35:18,884
+- Preciso que vá a clínica.
+- A clínica?
+
+483
+00:35:18,885 --> 00:35:21,181
+<i>É a filha de Ra's Al Ghul,
+Alfred.</i>
+
+484
+00:35:21,182 --> 00:35:23,868
+<i>Ela quer vingança.
+Ela mutou Eduardo Dorrance</i>
+
+485
+00:35:23,869 --> 00:35:25,465
+<i>e o enviou
+atrás da Bárbara.</i>
+
+486
+00:35:25,466 --> 00:35:26,766
+Deus.
+
+487
+00:35:27,213 --> 00:35:28,613
+Estou bem.
+
+488
+00:35:29,920 --> 00:35:32,560
+Preciso que vá atrás
+da Barbara e do bebê.
+
+489
+00:35:33,567 --> 00:35:37,295
+Agora, você vai sentir
+um leve desconforto.
+
+490
+00:35:37,296 --> 00:35:41,030
+É o estimulante que te dei
+para preparar seus músculos.
+
+491
+00:35:41,031 --> 00:35:44,020
+Vai precisar disso
+para o que vem a seguir, que,
+
+492
+00:35:44,749 --> 00:35:47,939
+receio que será excruciante.
+
+493
+00:35:58,814 --> 00:36:00,973
+Você sente isso?
+
+494
+00:36:02,002 --> 00:36:03,780
+Sinto.
+
+495
+00:36:21,463 --> 00:36:24,252
+Aí está o espírito lutador
+
+496
+00:36:24,253 --> 00:36:26,682
+que eu sempre eu admirei.
+
+497
+00:36:26,683 --> 00:36:29,996
+Agora, se me der licença
+há um alarme que devo tocar.
+
+498
+00:36:40,917 --> 00:36:43,778
+- Que merda está fazendo?
+- Checando para ver se Strange
+
+499
+00:36:43,779 --> 00:36:46,162
+não pôs um daqueles chips
+na sua cabeça.
+
+500
+00:36:46,163 --> 00:36:47,534
+Precisamos nos apressar.
+
+501
+00:36:47,535 --> 00:36:49,926
+Devemos sair daqui antes
+que ele ative o alarme.
+
+502
+00:36:51,652 --> 00:36:53,363
+Vamos.
+
+503
+00:36:57,976 --> 00:37:00,454
+Alfred e o DPGC
+estão a caminho da clínica.
+
+504
+00:37:00,455 --> 00:37:02,406
+- Onde está Nyssa?
+- Eu não sei.
+
+505
+00:37:02,407 --> 00:37:05,592
+Mas planeja usar os militares
+para destruir Gotham.
+
+506
+00:37:05,593 --> 00:37:07,629
+Eu posso ordenar
+que se retirem.
+
+507
+00:37:08,042 --> 00:37:10,145
+Então vamos te tirar daqui.
+
+508
+00:37:17,319 --> 00:37:21,024
+Ela é linda.
+Parabéns.
+
+509
+00:37:21,509 --> 00:37:23,250
+Olá.
+
+510
+00:37:23,251 --> 00:37:26,082
+Acho que tenho
+que descobrir como te chamar.
+
+511
+00:37:28,330 --> 00:37:30,223
+Obrigada.
+
+512
+00:37:55,455 --> 00:37:58,056
+- Vamos.
+- Entre no carro agora.
+
+513
+00:37:58,057 --> 00:37:59,408
+Eu irei segurá-lo.
+
+514
+00:37:59,409 --> 00:38:01,168
+<i>Alfred e eu resolvemos isso.</i>
+
+515
+00:38:01,976 --> 00:38:03,339
+<i>Selina, entre no carro.</i>
+
+516
+00:38:03,340 --> 00:38:05,427
+- Selina, volte para o carro!
+- Não.
+
+517
+00:38:05,428 --> 00:38:07,018
+<i>Vai.</i>
+
+518
+00:38:07,748 --> 00:38:11,443
+Meu, olhe para você.
+Você é grandão, não é?
+
+519
+00:38:11,444 --> 00:38:13,814
+Maldito valentão,
+vamos ver do que é capaz.
+
+520
+00:38:33,408 --> 00:38:35,427
+Desgraçado sujo.
+
+521
+00:38:53,032 --> 00:38:54,676
+Não!
+
+522
+00:38:55,289 --> 00:38:57,122
+Alfred.
+
+523
+00:38:58,483 --> 00:39:00,210
+Alfred.
+
+524
+00:39:02,021 --> 00:39:04,149
+Alfred.
+
+525
+00:39:05,993 --> 00:39:07,915
+Socorro!
+
+526
+00:39:09,518 --> 00:39:11,831
+Alguém...
+Não.
+
+527
+00:39:30,822 --> 00:39:32,801
+Atenção!
+
+528
+00:39:38,914 --> 00:39:40,430
+Bem-vindo de volta, General.
+
+529
+00:39:40,845 --> 00:39:43,975
+Consiga-me uma linha segura
+para o continente agora.
+
+530
+00:39:44,929 --> 00:39:46,927
+<i>Jim!</i>
+
+531
+00:39:46,928 --> 00:39:49,707
+Acabei de receber
+notícias da Lee.
+
+532
+00:39:49,708 --> 00:39:52,341
+Ela e Barbara conseguiram
+sair bem da clínica.
+
+533
+00:39:52,342 --> 00:39:55,018
+E sua filhinha também.
+
+534
+00:39:57,029 --> 00:40:01,102
+- Parabéns.
+- Estão indo para o Sirens.
+
+535
+00:40:01,103 --> 00:40:02,878
+Você acaba de ter uma
+menina, irmão.
+
+536
+00:40:02,879 --> 00:40:04,279
+Diga algo.
+
+537
+00:40:10,913 --> 00:40:12,789
+Só não consigo acreditar.
+
+538
+00:40:12,790 --> 00:40:15,095
+Vencemos, não foi?
+Acabou.
+
+539
+00:40:15,096 --> 00:40:18,104
+Vencemos, e ela vai ter um
+mundo melhor por causa disso.
+
+540
+00:40:18,105 --> 00:40:20,894
+Ela terá. Eu prometo.
+
+541
+00:40:20,895 --> 00:40:23,703
+- Alfred está com elas?
+- Não disse.
+
+542
+00:40:23,704 --> 00:40:26,099
+Aqui é o General Wade.
+
+543
+00:40:26,891 --> 00:40:30,943
+Estou autorizando
+a Ordem Especial 386.
+
+544
+00:40:30,944 --> 00:40:32,252
+Não!
+
+545
+00:40:32,253 --> 00:40:34,412
+Gotham City está perdida.
+
+546
+00:40:34,413 --> 00:40:36,396
+Inicie o bombardeio
+ao meu comando.
+
+547
+00:40:36,397 --> 00:40:38,693
+- Espere, espere, espere.
+- Prenda-os.
+
+548
+00:40:40,061 --> 00:40:41,584
+Você não pode fazer isso.
+
+549
+00:40:41,585 --> 00:40:42,885
+Leve-os daqui.
+
+550
+00:40:43,309 --> 00:40:44,929
+Você não pode fazer isso!
+
+551
+00:40:48,319 --> 00:40:50,344
+Certo, com calma e devagar.
+
+552
+00:41:05,948 --> 00:41:08,907
+- Barbara Kean.
+- Corra!
+
+553
+00:41:12,685 --> 00:41:15,637
+É bom finalmente
+conhecer você.
+
+554
+00:41:16,607 --> 00:41:19,410
+Meu nome é Nyssa Al Ghul.
+
+555
+00:41:21,502 --> 00:41:24,138
+Acredito que tenha
+conhecido meu pai.
+
+556
+00:41:29,834 --> 00:41:32,055
+Não sei como o general
+pode estar com o chip.
+
+557
+00:41:32,056 --> 00:41:34,426
+Não vi cicatriz na nuca dele.
+Você viu?
+
+558
+00:41:34,427 --> 00:41:35,986
+Não.
+Strange deve ter escondido.
+
+559
+00:41:35,987 --> 00:41:37,290
+Nyssa nos deixou escapar.
+
+560
+00:41:37,291 --> 00:41:39,142
+Ela sabia
+que traríamos o general aqui
+
+561
+00:41:39,143 --> 00:41:40,945
+e faria
+o trabalho sujo por ela.
+
+562
+00:41:45,080 --> 00:41:46,745
+E agora, Jim?
+
+563
+00:41:46,746 --> 00:41:50,288
+Filho, se vai enfiar
+uma arma na minha cara,
+
+564
+00:41:50,289 --> 00:41:53,394
+deveria pelo menos saber
+que está fazendo errado.
+
+565
+00:41:56,518 --> 00:41:58,245
+Venha, vamos.
+
+566
+00:42:29,665 --> 00:42:31,665
+The_Tozz e Cabrones,
+apresentaram...
+
