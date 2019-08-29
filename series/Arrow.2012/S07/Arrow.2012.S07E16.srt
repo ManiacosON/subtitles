@@ -1,0 +1,3056 @@
+1
+00:00:01,000 --> 00:00:02,720
+<i>Anteriormente...</i>
+
+2
+00:00:02,721 --> 00:00:05,271
+Um cubo dentro de outro.
+Há outro jeito de resolver.
+
+3
+00:00:06,777 --> 00:00:09,464
+<i>William e Mia, deem
+estas coordenadas para a equipe</i>
+
+4
+00:00:09,465 --> 00:00:11,117
+<i>e depois saiam de Star City.</i>
+
+5
+00:00:11,118 --> 00:00:13,866
+<i>E, haja o que houver,
+não venham me procurar.</i>
+
+6
+00:00:13,867 --> 00:00:16,142
+Sei de onde são as coordenadas.
+Fica ali.
+
+7
+00:00:18,129 --> 00:00:19,586
+Vamos passar pelo muro...
+
+8
+00:00:21,399 --> 00:00:22,799
+até o Glades.
+
+9
+00:01:05,753 --> 00:01:08,192
+- Eu te amo demais.
+- Eu te amo demais.
+
+10
+00:01:08,193 --> 00:01:10,743
+Vou te amar ainda mais
+quando esse bebê sair de mim.
+
+11
+00:02:20,676 --> 00:02:22,076
+Você está pronta.
+
+12
+00:02:35,978 --> 00:02:38,478
+<b>7ª Temporada | Episódio 16
+-= Star City 2040 =-</b>
+
+13
+00:02:38,479 --> 00:02:40,479
+<b>Legenda:
+Darrow | bebelzinha²</b>
+
+14
+00:02:40,480 --> 00:02:42,480
+<b>Legenda:
+IsaacA² | Hall | KahX</b>
+
+15
+00:02:42,481 --> 00:02:44,481
+<b>Revisão:
+IsaacA | Billy</b>
+
+16
+00:02:45,491 --> 00:02:47,008
+Mãe, cheguei!
+
+17
+00:02:48,426 --> 00:02:51,804
+Sra. Carver tinha aquele queijo
+que você adora na loja.
+
+18
+00:02:52,413 --> 00:02:55,033
+Aquele com o gosto melhor
+do que o cheiro.
+
+19
+00:02:57,184 --> 00:02:58,584
+Mãe?
+
+20
+00:03:04,077 --> 00:03:05,477
+Mãe.
+
+21
+00:03:35,832 --> 00:03:39,482
+- É sério, mãe?
+- Bons instintos. Oi.
+
+22
+00:03:39,483 --> 00:03:40,883
+Como a sra. Carver está?
+
+23
+00:03:42,600 --> 00:03:44,060
+Como sempre.
+
+24
+00:03:44,061 --> 00:03:47,379
+Ela teve que me contar
+sobre a vida de todo mundo,
+
+25
+00:03:47,380 --> 00:03:49,017
+e quer me arranjar
+com o filho.
+
+26
+00:03:49,018 --> 00:03:50,927
+- Henry?
+- Não, o mais velho.
+
+27
+00:03:50,928 --> 00:03:52,651
+Seth, o "Leão Covarde"?
+
+28
+00:03:52,652 --> 00:03:54,797
+Ele não é mais o Espantalho?
+Sem cérebro.
+
+29
+00:03:54,798 --> 00:03:57,176
+- Tanto faz, não é pra você.
+- Onde você estava?
+
+30
+00:03:57,177 --> 00:03:59,938
+Estava no telefone,
+reunião com a Smoak Tech.
+
+31
+00:03:59,939 --> 00:04:02,958
+Alguma vez já pensou
+em ir ao trabalho?
+
+32
+00:04:02,959 --> 00:04:06,225
+Poderíamos sair de Bloomfield,
+ir à cidade.
+
+33
+00:04:06,226 --> 00:04:08,826
+- Eu poderia ir com você.
+- Sabe que lá não é seguro.
+
+34
+00:04:08,827 --> 00:04:11,868
+Se alguém descobrir
+quem é seu pai ou quem você é...
+
+35
+00:04:11,869 --> 00:04:15,798
+Certo, mas eu sei
+o quanto ama aquela empresa.
+
+36
+00:04:16,264 --> 00:04:19,008
+E sei como me proteger.
+Você garantiu isso.
+
+37
+00:04:19,009 --> 00:04:21,862
+- Com certeza.
+- Se o papai é mesmo um herói,
+
+38
+00:04:21,863 --> 00:04:23,693
+por que não podemos
+contar a todos?
+
+39
+00:04:23,694 --> 00:04:25,303
+Não é tão simples, Mia.
+
+40
+00:04:25,304 --> 00:04:27,205
+Tem que confiar em mim,
+sinto muito.
+
+41
+00:04:29,026 --> 00:04:33,083
+Estava pensando
+em uma noite de filmes antigos.
+
+42
+00:04:33,084 --> 00:04:36,380
+- Uma maratona de Jordan Peele.
+- Sim, claro.
+
+43
+00:04:37,428 --> 00:04:38,828
+Dê-me esse queijo.
+
+44
+00:04:46,465 --> 00:04:47,865
+Merda.
+
+45
+00:04:50,494 --> 00:04:51,894
+Tudo bem.
+
+46
+00:05:16,003 --> 00:05:17,794
+Que diabos?
+
+47
+00:05:39,874 --> 00:05:42,417
+<i>Intruso, acesso negado.</i>
+
+48
+00:05:42,418 --> 00:05:45,271
+<i>Iniciando
+protocolo de autodestruição.</i>
+
+49
+00:05:46,494 --> 00:05:49,127
+<i>- Intruso...</i>
+- Mia, o que está fazendo?
+
+50
+00:05:49,575 --> 00:05:51,557
+Eu?
+O que você faz com tudo isso?
+
+51
+00:05:51,558 --> 00:05:53,857
+Posso explicar,
+só um instante.
+
+52
+00:05:53,858 --> 00:05:56,124
+<i>Seis, cinco...</i>
+
+53
+00:05:56,125 --> 00:05:57,709
+<i>Acesso concedido.</i>
+
+54
+00:05:59,167 --> 00:06:02,079
+Isso é sua uma coisinha
+que estive trabalhando à parte.
+
+55
+00:06:02,080 --> 00:06:04,898
+- Para a Smoak Tech?
+- Não, não exatamente.
+
+56
+00:06:06,848 --> 00:06:09,360
+Tem uma empresa corrupta
+no Glades
+
+57
+00:06:09,361 --> 00:06:11,810
+que estou
+muito perto de expor.
+
+58
+00:06:11,811 --> 00:06:14,832
+Está hackeando de novo.
+Como a Observadora.
+
+59
+00:06:14,833 --> 00:06:17,080
+Não, a Observadora
+era parte de uma equipe.
+
+60
+00:06:17,081 --> 00:06:21,262
+A Equipe Arqueiro. Isso é solo.
+Sem equipe, sem complicação.
+
+61
+00:06:21,263 --> 00:06:22,924
+Você é vigilante.
+
+62
+00:06:22,925 --> 00:06:26,685
+Não, não exatamente.
+Tecnicamente, sim.
+
+63
+00:06:26,686 --> 00:06:29,036
+- A definição...
+- Há quanto tempo esconde isso?
+
+64
+00:06:29,037 --> 00:06:30,587
+- Quanto?
+- Mia, posso explicar.
+
+65
+00:06:30,588 --> 00:06:33,883
+Você entende
+que nunca saí dessa cidade?
+
+66
+00:06:33,884 --> 00:06:36,050
+Não fui para a escola
+como alguém normal.
+
+67
+00:06:36,051 --> 00:06:37,733
+Nunca fui
+a uma cidade de verdade.
+
+68
+00:06:37,734 --> 00:06:40,864
+- Eu sei.
+- Você disse que nos escondíamos
+
+69
+00:06:40,865 --> 00:06:43,323
+- porque o papai era o Arqueiro.
+- Isso é verdade.
+
+70
+00:06:43,324 --> 00:06:46,391
+Agora descubro que está fazendo
+a mesma coisa esse tempo todo.
+
+71
+00:06:46,392 --> 00:06:49,739
+Eu e seu pai prometemos
+que continuaríamos
+
+72
+00:06:49,740 --> 00:06:52,865
+lutando pela cidade
+para torná-la melhor para você
+
+73
+00:06:52,866 --> 00:06:55,185
+e para nossa família.
+
+74
+00:06:55,657 --> 00:06:58,754
+Não posso ficar
+sem fazer nada, Mia.
+
+75
+00:06:58,755 --> 00:07:00,714
+Mas é o que está
+me mandando fazer.
+
+76
+00:07:00,715 --> 00:07:03,521
+- Não é. Mia, isso é diferente.
+- É mesmo?
+
+77
+00:07:03,522 --> 00:07:06,644
+Porque estou começando
+a acreditar no que dizem.
+
+78
+00:07:06,991 --> 00:07:08,966
+Que vigilantes
+são o oposto de heróis.
+
+79
+00:07:08,967 --> 00:07:11,714
+- Isso é propaganda.
+- É o que você diz.
+
+80
+00:07:12,289 --> 00:07:14,702
+Por que devo acreditar
+no que você diz?
+
+81
+00:07:14,703 --> 00:07:18,194
+- Mia.
+- Você mentiu minha vida toda.
+
+82
+00:07:18,195 --> 00:07:20,273
+Nem mesmo sei quem você é.
+
+83
+00:07:28,919 --> 00:07:30,616
+<i>Mãe, vou para Star City</i>
+
+84
+00:07:30,617 --> 00:07:33,086
+<i>e, desta vez,
+não pode me impedir.</i>
+
+85
+00:07:34,335 --> 00:07:36,769
+<i>Preciso descobrir a verdade
+sobre tudo.</i>
+
+86
+00:07:38,027 --> 00:07:40,332
+<i>Sobre quem nossa família
+realmente é,</i>
+
+87
+00:07:40,793 --> 00:07:43,431
+<i>o que devo fazer
+com a minha vida.</i>
+
+88
+00:07:46,584 --> 00:07:49,239
+<i>Você não pode mais
+me segurar.</i>
+
+89
+00:07:50,464 --> 00:07:53,016
+<i>Preciso trilhar
+meu próprio caminho.</i>
+
+90
+00:07:53,017 --> 00:07:54,832
+O que a estrela preta
+significa?
+
+91
+00:07:55,696 --> 00:07:58,247
+Minha mãe me disse
+que toda luz estelar que vemos
+
+92
+00:07:58,248 --> 00:08:00,046
+tem que viajar tanto
+
+93
+00:08:00,493 --> 00:08:03,019
+que pode ser que a estrela
+nem exista mais.
+
+94
+00:08:04,869 --> 00:08:09,320
+Eventualmente,
+elas escurecem, se apagam.
+
+95
+00:08:11,116 --> 00:08:12,897
+É onde quero estar.
+
+96
+00:08:15,984 --> 00:08:17,668
+O que é tudo isso?
+
+97
+00:08:18,960 --> 00:08:20,360
+Luta por um prêmio.
+
+98
+00:08:24,683 --> 00:08:26,183
+Quanto se ganha nisso?
+
+99
+00:08:26,849 --> 00:08:29,452
+Alguns milhares, se vencer.
+
+100
+00:08:29,978 --> 00:08:31,814
+Eu não perco.
+
+101
+00:08:37,312 --> 00:08:40,328
+Claro
+que consegue fazer isso.
+
+102
+00:08:42,207 --> 00:08:44,135
+- Pronto?
+- Para arriscar nossas vidas
+
+103
+00:08:44,136 --> 00:08:48,097
+ao nos infiltrar no Glades?
+Não, não mesmo. E você?
+
+104
+00:08:48,740 --> 00:08:50,649
+Não tenho
+nada melhor para fazer.
+
+105
+00:08:55,361 --> 00:08:58,281
+Por que não podemos ir
+pelos túneis?
+
+106
+00:08:59,885 --> 00:09:01,709
+As Canários
+estão sendo procuradas.
+
+107
+00:09:01,710 --> 00:09:05,352
+Os túneis podem explodir.
+Então faremos do jeito difícil.
+
+108
+00:09:05,353 --> 00:09:08,592
+- Você vem ou não?
+- Exibida.
+
+109
+00:09:12,908 --> 00:09:14,921
+Vai ser uma noite longa.
+
+110
+00:09:17,042 --> 00:09:19,852
+Ótimo.
+Só mais 2 milhões de metros.
+
+111
+00:09:19,853 --> 00:09:21,861
+Descanse.
+Quando entrarmos no Glades,
+
+112
+00:09:21,862 --> 00:09:24,144
+temos que ser rápidos,
+encontrar a Felicity
+
+113
+00:09:24,145 --> 00:09:26,219
+e sair antes que percebam
+nossa presença.
+
+114
+00:09:26,220 --> 00:09:28,384
+E eu achando que a odiasse.
+
+115
+00:09:29,467 --> 00:09:32,430
+Ninguém pode matar minha mãe,
+exceto eu.
+
+116
+00:09:32,431 --> 00:09:34,125
+Seria mais fácil
+com reforços.
+
+117
+00:09:34,126 --> 00:09:36,294
+Se calar a boca,
+o fôlego volta mais rápido.
+
+118
+00:09:36,295 --> 00:09:38,826
+Acho que foi um erro
+não trazer o resto da equipe.
+
+119
+00:09:38,827 --> 00:09:41,239
+Não são uma equipe.
+São vigilantes.
+
+120
+00:09:42,519 --> 00:09:44,636
+Eles estragaram Star City.
+
+121
+00:09:45,269 --> 00:09:47,921
+Eles não são os criminosos
+que pensa, Mia.
+
+122
+00:09:47,922 --> 00:09:51,311
+Eu me lembro de serem heróis.
+Eles só queriam salvar a cidade.
+
+123
+00:09:51,312 --> 00:09:53,573
+- Estão nos vendo.
+- O quê?
+
+124
+00:09:54,069 --> 00:09:56,366
+Guarde a flecha.
+Estamos bem.
+
+125
+00:09:56,367 --> 00:09:57,987
+Achei
+que não podia hackear.
+
+126
+00:09:57,988 --> 00:10:02,724
+Mas pode se tornar invisível
+temporariamente.
+
+127
+00:10:02,725 --> 00:10:04,259
+Exibido.
+
+128
+00:10:05,608 --> 00:10:07,008
+Cuidado.
+
+129
+00:10:12,602 --> 00:10:15,402
+- Encontrou o William?
+- O clube de luta estava vazio.
+
+130
+00:10:15,403 --> 00:10:18,379
+Onde quer que eles estejam,
+estão sozinhos agora.
+
+131
+00:10:18,947 --> 00:10:20,394
+E está bem com isso?
+
+132
+00:10:20,395 --> 00:10:22,034
+Ele não precisa mais
+de ajuda.
+
+133
+00:10:22,035 --> 00:10:25,666
+Além disso, Felicity quer
+que encontremos as bombas.
+
+134
+00:10:25,667 --> 00:10:27,107
+A cidade está em perigo.
+
+135
+00:10:27,108 --> 00:10:30,010
+E, talvez, tenha sentido falta
+da vida de vigilante.
+
+136
+00:10:30,011 --> 00:10:32,465
+Trabalhar com uma equipe,
+salvar a cidade.
+
+137
+00:10:32,466 --> 00:10:33,866
+Talvez.
+
+138
+00:10:33,867 --> 00:10:35,626
+Algo novo sobre o local
+das bombas?
+
+139
+00:10:35,627 --> 00:10:38,778
+Só trabalho policial mal feito
+na morte da Felicity.
+
+140
+00:10:38,779 --> 00:10:41,090
+Provas perdidas,
+relatórios incompletos.
+
+141
+00:10:41,091 --> 00:10:42,813
+Os documentos
+estão uma bagunça.
+
+142
+00:10:42,814 --> 00:10:44,656
+Tenho um contato
+no departamento.
+
+143
+00:10:44,657 --> 00:10:47,553
+Se alguém pagou por isso,
+ele sabe.
+
+144
+00:10:47,554 --> 00:10:50,045
+- Está falando do Anson?
+- Estou.
+
+145
+00:10:50,046 --> 00:10:52,395
+- Não tinham perdido o contato?
+- Perdemos.
+
+146
+00:10:52,396 --> 00:10:54,608
+Por isso tenho vocês
+como reforços.
+
+147
+00:11:04,724 --> 00:11:07,996
+- Tem coragem de vir aqui.
+- Você não atendeu a ligação.
+
+148
+00:11:07,997 --> 00:11:09,918
+Na próxima,
+entenda a indireta.
+
+149
+00:11:09,919 --> 00:11:12,560
+Não posso mais te ajudar,
+principalmente agora.
+
+150
+00:11:12,561 --> 00:11:15,056
+- Preciso de informação.
+- Sobre o quê?
+
+151
+00:11:15,057 --> 00:11:16,964
+O assassinato
+de Felicity Smoak.
+
+152
+00:11:17,348 --> 00:11:19,013
+Não posso te ajudar.
+
+153
+00:11:21,307 --> 00:11:23,179
+Resposta errada.
+
+154
+00:11:29,325 --> 00:11:31,951
+- Vai me bater?
+- Queria evitar isso.
+
+155
+00:11:31,952 --> 00:11:33,796
+Então por que não me diz
+o que sabe?
+
+156
+00:11:33,797 --> 00:11:35,197
+Eden Corps.
+
+157
+00:11:36,167 --> 00:11:38,884
+Pagaram a polícia
+para forjar a morte da Smoak,
+
+158
+00:11:38,885 --> 00:11:40,523
+amarrar as pontas soltas.
+
+159
+00:11:40,524 --> 00:11:43,296
+- Não estão ativos há meses.
+- Estão agora.
+
+160
+00:11:43,297 --> 00:11:45,547
+E não querem
+que ninguém saiba,
+
+161
+00:11:46,739 --> 00:11:49,971
+provavelmente para voltar
+a detonar cidades. Não sei.
+
+162
+00:11:49,972 --> 00:11:52,712
+- Diga-nos onde estão.
+- No Glades.
+
+163
+00:11:53,173 --> 00:11:55,126
+A empresa Galaxy One
+é a fachada deles.
+
+164
+00:12:09,615 --> 00:12:12,586
+Roy!
+Pare!
+
+165
+00:12:14,509 --> 00:12:15,909
+Pare!
+
+166
+00:12:17,090 --> 00:12:19,471
+Vamos.
+É hora de ir.
+
+167
+00:12:19,472 --> 00:12:21,118
+É hora de ir.
+
+168
+00:12:25,732 --> 00:12:27,854
+Então é assim
+que a outra metade vive.
+
+169
+00:12:27,855 --> 00:12:31,010
+Infelizmente,
+Star City era muito parecida.
+
+170
+00:12:31,534 --> 00:12:34,764
+São as coordenadas da Felicity,
+ela está aí em algum lugar.
+
+171
+00:12:34,765 --> 00:12:36,165
+Com sorte, viva.
+
+172
+00:12:36,733 --> 00:12:39,578
+Galaxy One é uma das empresas
+mais ricas do mundo
+
+173
+00:12:39,579 --> 00:12:41,284
+e extremamente protegida.
+
+174
+00:12:41,285 --> 00:12:43,261
+Não vão simplesmente
+nos deixar entrar.
+
+175
+00:12:43,262 --> 00:12:47,330
+Na verdade, é exatamente
+o que vão fazer.
+
+176
+00:12:51,963 --> 00:12:53,918
+- Isso é ridículo.
+- Estamos a caráter,
+
+177
+00:12:53,919 --> 00:12:57,417
+- sra. assistente executiva.
+- Sou superior a uma assistente.
+
+178
+00:12:57,418 --> 00:12:59,155
+E não estou falando disso.
+
+179
+00:12:59,156 --> 00:13:02,486
+Somo filhos de vigilantes.
+Quando nos escanearem, é o fim.
+
+180
+00:13:02,487 --> 00:13:04,200
+Meu sobrenome
+não é mais Clayton.
+
+181
+00:13:04,201 --> 00:13:06,911
+Além disso,
+o foco estará em mim, o CEO,
+
+182
+00:13:06,912 --> 00:13:08,461
+então só entre no jogo.
+
+183
+00:13:08,844 --> 00:13:11,684
+Não mandei me enviar as contas
+da fusão com Brennan?
+
+184
+00:13:11,685 --> 00:13:15,799
+- Está aí.
+- Remarque a reunião das 12h.
+
+185
+00:13:15,800 --> 00:13:17,843
+- Sr., precisa ser escaneado.
+- Sei, sei.
+
+186
+00:13:17,844 --> 00:13:20,580
+Mude a das 12h para 15h,
+abra espaço para Jackson Labs,
+
+187
+00:13:20,581 --> 00:13:22,902
+e libere a manhã para revisar
+a pesquisa deles.
+
+188
+00:13:22,903 --> 00:13:24,804
+<i>Preparar para identificação.</i>
+
+189
+00:13:24,805 --> 00:13:28,190
+<i>Correspondência de DNA completa.
+Prossiga.</i>
+
+190
+00:13:28,932 --> 00:13:31,701
+- Está me atrasando.
+- Ela tem que escanear.
+
+191
+00:13:31,702 --> 00:13:34,092
+- Não seja ridículo, é minha...
+- Senhor.
+
+192
+00:13:38,868 --> 00:13:41,422
+<i>Preparar para identificação.</i>
+
+193
+00:13:41,423 --> 00:13:43,322
+<i>Acesso negado.</i>
+
+194
+00:13:43,323 --> 00:13:45,641
+- Precisa vir conosco.
+- Que tal eu não ir?
+
+195
+00:13:45,642 --> 00:13:47,944
+- <i>Bloqueio.</i>
+- Levante as mãos agora.
+
+196
+00:13:47,945 --> 00:13:51,037
+- Está tudo bem, amigos.
+- <i>Bloqueio.</i>
+
+197
+00:13:51,910 --> 00:13:54,586
+- Ela está comigo.
+- <i>Bloqueio.</i>
+
+198
+00:13:54,587 --> 00:13:57,017
+Desculpe, agente.
+Não sabia que era uma das suas.
+
+199
+00:13:57,018 --> 00:14:00,386
+Eu sei.
+O objetivo é esse.
+
+200
+00:14:02,111 --> 00:14:04,723
+<i>Correspondência de DNA completa.
+Prossiga.</i>
+
+201
+00:14:04,724 --> 00:14:06,757
+Quem diabos é você?
+
+202
+00:14:12,066 --> 00:14:14,513
+Estou seguindo vocês
+desde o bazar.
+
+203
+00:14:14,514 --> 00:14:17,288
+Quando vi que vinham para cá,
+procurei por credenciais.
+
+204
+00:14:17,289 --> 00:14:19,896
+Como um agente da Knightwatch?
+O que é ela?
+
+205
+00:14:19,897 --> 00:14:23,020
+- A versão boa da ARGUS?
+- Algo assim.
+
+206
+00:14:23,021 --> 00:14:25,078
+Eu queria contar a verdade,
+mas não podia.
+
+207
+00:14:25,079 --> 00:14:26,572
+Não tive escolha.
+
+208
+00:14:28,801 --> 00:14:30,816
+- Teve sim.
+- Mia!
+
+209
+00:14:30,817 --> 00:14:33,910
+Confiei em você,
+mas só mentiu para mim.
+
+210
+00:14:33,911 --> 00:14:36,884
+- Como todo mundo.
+- Desculpe.
+
+211
+00:14:37,622 --> 00:14:39,344
+Alguma coisa foi real?
+
+212
+00:14:40,795 --> 00:14:42,195
+Tudo foi.
+
+213
+00:14:43,042 --> 00:14:45,824
+Por mais que eu ame drama
+quando não é meu,
+
+214
+00:14:45,825 --> 00:14:49,809
+podemos nos focar na tarefa
+e não estragar nosso disfarce?
+
+215
+00:14:50,684 --> 00:14:52,288
+Obrigado.
+
+216
+00:14:54,324 --> 00:14:56,570
+Certo, agente.
+O que sabe sobre esse lugar?
+
+217
+00:14:56,571 --> 00:14:59,281
+Tenho feito
+o reconhecimento do prédio.
+
+218
+00:14:59,282 --> 00:15:01,832
+Têm níveis subterrâneos aqui,
+escondidos do público.
+
+219
+00:15:01,833 --> 00:15:03,797
+É onde devem
+estar escondendo minha mãe.
+
+220
+00:15:03,798 --> 00:15:06,696
+- Como chegamos lá?
+- Meu distintivo não dá conta.
+
+221
+00:15:06,697 --> 00:15:09,407
+Só algumas pessoas têm acesso,
+tudo baseado em DNA.
+
+222
+00:15:09,408 --> 00:15:12,314
+Tenho uma reunião com o cara
+no comando, Keven Dale.
+
+223
+00:15:12,315 --> 00:15:14,292
+Se alguém tem acesso,
+é ele.
+
+224
+00:15:14,919 --> 00:15:18,933
+Só precisamos roubar
+e replicar o DNA dele. Fácil.
+
+225
+00:15:18,934 --> 00:15:21,246
+Na verdade, é.
+Tenho a tecnologia.
+
+226
+00:15:21,247 --> 00:15:23,282
+Só precisa pegar
+uma amostra.
+
+227
+00:15:23,283 --> 00:15:24,813
+Espere.
+Eu?
+
+228
+00:15:25,800 --> 00:15:29,025
+Não mesmo.
+Não roubo coisas secretamente.
+
+229
+00:15:29,026 --> 00:15:31,993
+Para sua sorte,
+sua irmã rouba.
+
+230
+00:15:31,994 --> 00:15:35,603
+Ótimo. Vou localizar os níveis
+enquanto estão com Dale.
+
+231
+00:15:35,604 --> 00:15:37,146
+Encontro vocês depois.
+
+232
+00:15:39,744 --> 00:15:43,238
+Vamos investigar a Galaxy.
+Veremos se...
+
+233
+00:15:47,255 --> 00:15:48,735
+Rene?
+
+234
+00:15:50,126 --> 00:15:52,478
+- Pai.
+- Droga, Zoe.
+
+235
+00:15:52,479 --> 00:15:56,157
+Sabia que estava envolvida
+com as Canários,
+
+236
+00:15:56,672 --> 00:15:58,693
+mas não achei
+que era uma delas.
+
+237
+00:15:58,694 --> 00:16:01,079
+Você não se afastou
+de minha filha
+
+238
+00:16:01,080 --> 00:16:03,029
+e envolveu o Roy nisso.
+
+239
+00:16:03,864 --> 00:16:06,886
+- Achei que não estava vivo.
+- É bom te ver também.
+
+240
+00:16:06,887 --> 00:16:09,585
+O que está fazendo
+em Star City, afinal?
+
+241
+00:16:09,586 --> 00:16:11,915
+Sei que ainda estão procurando
+pelas bombas.
+
+242
+00:16:12,703 --> 00:16:14,610
+- E precisam parar.
+- Você já sabe
+
+243
+00:16:14,611 --> 00:16:17,062
+que a Galaxy
+está por trás disso, não é?
+
+244
+00:16:17,540 --> 00:16:19,957
+Essa é a parte em que diz
+que estou errada,
+
+245
+00:16:19,958 --> 00:16:22,794
+que meu pai,
+um antigo vigilante,
+
+246
+00:16:22,795 --> 00:16:24,721
+não está trabalhando
+para os vilões.
+
+247
+00:16:24,722 --> 00:16:26,214
+Os planos que viram
+
+248
+00:16:26,215 --> 00:16:28,346
+são a primeira fase
+do que chamamos
+
+249
+00:16:28,347 --> 00:16:30,525
+o projeto de reforma
+de Star City.
+
+250
+00:16:30,526 --> 00:16:32,510
+- Meu Deus.
+- Você é parte disso.
+
+251
+00:16:32,511 --> 00:16:35,305
+- Não é o que pensam.
+- É mesmo?
+
+252
+00:16:35,306 --> 00:16:37,860
+Eliminar uma cidade toda
+parece muito com genocídio.
+
+253
+00:16:37,861 --> 00:16:41,370
+Não é sobre destruir
+Star City.
+
+254
+00:16:41,371 --> 00:16:44,818
+É sobre expandir
+o que fizemos no Glades.
+
+255
+00:16:45,212 --> 00:16:49,150
+E com a ajuda da Galaxy,
+farei isso bem mais rápido.
+
+256
+00:16:49,457 --> 00:16:52,922
+Todos serão evacuados
+antes que algo aconteça.
+
+257
+00:16:52,923 --> 00:16:56,541
+Como você tem toda essa idade
+e nenhuma sabedoria?
+
+258
+00:16:56,542 --> 00:16:58,733
+Estão te enganando, Rene.
+
+259
+00:16:58,734 --> 00:17:01,062
+Galaxy é só uma fachada
+para a Eden Corps.
+
+260
+00:17:01,063 --> 00:17:04,582
+Eden Corps não existe mais.
+E mesmo se existisse,
+
+261
+00:17:04,583 --> 00:17:08,001
+se Galaxy fosse comandada
+por terroristas, eu saberia.
+
+262
+00:17:08,002 --> 00:17:09,908
+Assim como sabia
+que pagaram a polícia
+
+263
+00:17:09,909 --> 00:17:11,971
+para forjar
+a morte da Felicity?
+
+264
+00:17:12,386 --> 00:17:15,293
+Sim, ela está viva, Rene.
+
+265
+00:17:16,283 --> 00:17:18,306
+A Galaxy não é o inimigo.
+
+266
+00:17:19,344 --> 00:17:21,740
+Eles não têm sido nada
+além de solidários,
+
+267
+00:17:21,741 --> 00:17:23,297
+altruístas.
+
+268
+00:17:23,298 --> 00:17:26,058
+Querida, você viu.
+
+269
+00:17:26,059 --> 00:17:29,983
+Vi, mas não me deixei cegar
+com isso.
+
+270
+00:17:29,984 --> 00:17:32,820
+Você sempre me disse
+para confiar nos meus instintos.
+
+271
+00:17:32,821 --> 00:17:36,118
+- O que aconteceu com os seus?
+- Precisa abrir os olhos, Rene.
+
+272
+00:17:36,119 --> 00:17:37,519
+Abri...
+
+273
+00:17:38,510 --> 00:17:40,175
+E acreditava
+que ser um vigilante
+
+274
+00:17:40,176 --> 00:17:42,114
+ajudava
+a resolver problemas.
+
+275
+00:17:42,591 --> 00:17:44,991
+Nós dois sabemos
+que não é simples assim.
+
+276
+00:17:46,403 --> 00:17:50,330
+Por favor,
+deixem isso para lá.
+
+277
+00:17:50,331 --> 00:17:53,188
+O pai que eu conhecia,
+o herói...
+
+278
+00:17:53,903 --> 00:17:55,971
+Não deixaria isso para lá.
+
+279
+00:17:58,344 --> 00:18:01,540
+Você pode ter se esquecido
+daquele herói,
+
+280
+00:18:02,876 --> 00:18:04,346
+mas eu não.
+
+281
+00:18:10,680 --> 00:18:13,088
+Obrigado por nos receber
+tão rápido, sr. Dale.
+
+282
+00:18:13,089 --> 00:18:15,867
+Quando o CEO
+da Consolidações Harris liga,
+
+283
+00:18:15,868 --> 00:18:18,671
+você responde.
+E, por favor, chame-me de Kevin.
+
+284
+00:18:21,661 --> 00:18:23,582
+Você ou a sua assistente
+desejam algo?
+
+285
+00:18:23,583 --> 00:18:25,615
+Na verdade, sou sócia dele.
+
+286
+00:18:26,463 --> 00:18:30,670
+Minha sócia, sra. Margo, e eu
+adoraríamos um pouco de café.
+
+287
+00:18:30,671 --> 00:18:32,405
+Três xícaras
+do favorito da casa.
+
+288
+00:18:35,850 --> 00:18:37,395
+Como posso ajudá-los?
+
+289
+00:18:37,396 --> 00:18:40,838
+Soube que você está trabalhando
+com Fármacos Halcyon.
+
+290
+00:18:40,839 --> 00:18:42,323
+Isso devia ser segredo.
+
+291
+00:18:42,324 --> 00:18:45,516
+Estou avaliando essa empresa
+para uma potencial aquisição
+
+292
+00:18:45,517 --> 00:18:47,524
+e gostaria
+de algumas informações.
+
+293
+00:18:47,525 --> 00:18:49,852
+Antes de compartilhar
+meus segredos,
+
+294
+00:18:49,853 --> 00:18:52,023
+que tal você me contar
+algum seu?
+
+295
+00:18:52,024 --> 00:18:55,428
+Como conseguiu sucesso
+com sua empresa tão rápido?
+
+296
+00:18:55,789 --> 00:18:58,684
+Queria dizer
+que foi algum plano genial,
+
+297
+00:18:58,685 --> 00:19:00,581
+mas, na verdade,
+foi sorte.
+
+298
+00:19:01,115 --> 00:19:03,024
+Um investidor-anjo
+me ajudou.
+
+299
+00:19:03,757 --> 00:19:05,494
+Tem que me contar quem foi.
+
+300
+00:19:05,495 --> 00:19:07,605
+Cidade das Esmeraldas
+Investimentos.
+
+301
+00:19:08,042 --> 00:19:10,758
+Quem quer que seja,
+preferiu ficar no anonimato.
+
+302
+00:19:12,368 --> 00:19:15,212
+Já que te contei
+meu segredo,
+
+303
+00:19:16,227 --> 00:19:17,809
+diga-me sobre
+a empresa Halcyon.
+
+304
+00:19:17,810 --> 00:19:19,830
+Nós terminamos nosso acordo.
+
+305
+00:19:19,831 --> 00:19:21,636
+Não se alinhavam
+com nossa filosofia.
+
+306
+00:19:21,637 --> 00:19:23,229
+E qual é?
+
+307
+00:19:23,230 --> 00:19:25,315
+Nós queremos mudar o mundo.
+
+308
+00:19:26,949 --> 00:19:30,119
+Não dá para fazer isso
+se tiver um pensamento pequeno.
+
+309
+00:19:31,538 --> 00:19:33,937
+Sabe o que dizem
+sobre ansiosos, não sabe?
+
+310
+00:19:34,278 --> 00:19:37,584
+Sonhadores
+com mãos ociosas.
+
+311
+00:19:37,585 --> 00:19:39,316
+Eu te asseguro, sr. Harris,
+
+312
+00:19:39,317 --> 00:19:42,326
+ninguém nunca me acusou
+de ser ocioso.
+
+313
+00:19:44,071 --> 00:19:48,411
+Sr. Harris,
+temos um problema no escritório.
+
+314
+00:19:48,886 --> 00:19:51,701
+Sinto muito, Keven.
+É a vida de um CEO.
+
+315
+00:19:51,702 --> 00:19:54,540
+Eu entendo.
+Mantenha contato.
+
+316
+00:19:55,254 --> 00:19:57,688
+Ele, com certeza,
+quer manter o contato.
+
+317
+00:20:05,338 --> 00:20:06,757
+Como foi a busca?
+
+318
+00:20:07,478 --> 00:20:09,681
+Sabendo que a Galaxy
+está por trás de tudo,
+
+319
+00:20:09,682 --> 00:20:11,715
+facilitou a busca.
+
+320
+00:20:12,796 --> 00:20:16,156
+Se as bombas estão no Glades,
+estão na Galaxy.
+
+321
+00:20:16,731 --> 00:20:20,625
+Ter seu pai envolvido
+nisso tudo,
+
+322
+00:20:21,733 --> 00:20:23,949
+- não deve ser fácil.
+- Estou bem.
+
+323
+00:20:25,749 --> 00:20:28,093
+Avise-me quando estiver pronta,
+certo?
+
+324
+00:20:36,667 --> 00:20:39,642
+Muito bem. Este é o ponto
+de acesso aos subníveis.
+
+325
+00:20:39,643 --> 00:20:41,875
+É o único elevador
+não listado no prédio.
+
+326
+00:20:41,876 --> 00:20:45,251
+O escâner de DNA de corpo todo
+não era a dica?
+
+327
+00:20:45,252 --> 00:20:47,518
+Como esse cotonete
+enganará o escâner?
+
+328
+00:20:47,519 --> 00:20:48,919
+Observe.
+
+329
+00:20:56,147 --> 00:20:59,403
+Isso está replicando
+a assinatura do DNA? Como?
+
+330
+00:20:59,404 --> 00:21:00,961
+Segredos da profissão.
+
+331
+00:21:12,160 --> 00:21:13,786
+Quer um biscoito
+ou algo assim?
+
+332
+00:21:13,787 --> 00:21:15,491
+Certo, fiquem prontos.
+
+333
+00:21:15,492 --> 00:21:17,700
+Não dá para saber
+o que vamos encarar.
+
+334
+00:21:17,701 --> 00:21:20,118
+Fique atrás e no elevador.
+Entendeu?
+
+335
+00:21:20,119 --> 00:21:23,247
+Estou adorando nossos momentos
+de irmão e irmã.
+
+336
+00:21:23,248 --> 00:21:25,683
+Você é mais útil para mim
+se estiver vivo.
+
+337
+00:21:25,684 --> 00:21:28,839
+Desculpe.
+Você se importa comigo?
+
+338
+00:21:28,840 --> 00:21:32,349
+Sim, talvez.
+E eu não sou a única.
+
+339
+00:21:33,012 --> 00:21:36,451
+Sabe o investidor-anjo?
+
+340
+00:21:36,452 --> 00:21:38,967
+Acho que nossa mãe
+está envolvida nisso.
+
+341
+00:21:39,370 --> 00:21:40,807
+Como assim?
+
+342
+00:21:41,232 --> 00:21:43,426
+Esmeralda
+da Cidade das Esmeraldas.
+
+343
+00:21:44,983 --> 00:21:47,365
+"O Mágico de Oz" era o favorito
+de nossa mãe.
+
+344
+00:21:47,366 --> 00:21:49,846
+Costumávamos ler o tempo todo,
+quando era criança.
+
+345
+00:21:50,842 --> 00:21:53,774
+No fim das contas, acho que ela
+estava de olho em você.
+
+346
+00:22:02,381 --> 00:22:03,797
+Oi.
+
+347
+00:22:41,460 --> 00:22:42,860
+Mia.
+
+348
+00:22:47,302 --> 00:22:48,702
+Mãe.
+
+349
+00:22:51,020 --> 00:22:52,420
+Você está viva.
+
+350
+00:22:53,223 --> 00:22:54,865
+Eu disse para não virem.
+
+351
+00:22:58,581 --> 00:23:00,180
+Minha mensagem
+não foi clara?
+
+352
+00:23:00,181 --> 00:23:03,177
+Queria vocês fora de Star City,
+não que viessem ao Glades.
+
+353
+00:23:03,178 --> 00:23:05,649
+Nossa, é sério?
+Nenhum agradecimento?
+
+354
+00:23:05,650 --> 00:23:07,579
+As coordenadas não eram
+para me achar.
+
+355
+00:23:07,580 --> 00:23:10,545
+Eram de uma pilha de bombas
+escondidas nesse prédio.
+
+356
+00:23:10,546 --> 00:23:12,604
+Por isso era para entregar
+ao Roy e Dinah.
+
+357
+00:23:12,605 --> 00:23:15,306
+Já que estamos aqui,
+podemos tirá-la desse lugar?
+
+358
+00:23:16,431 --> 00:23:19,514
+Parece que isso utiliza
+o mesmo protocolo de DNA.
+
+359
+00:23:19,515 --> 00:23:20,915
+Dê-me um segundo.
+
+360
+00:23:31,071 --> 00:23:32,871
+É bom ver você.
+
+361
+00:23:38,272 --> 00:23:39,788
+Não achei que te veria
+de novo.
+
+362
+00:23:39,789 --> 00:23:41,658
+Tinha medo
+que você não quisesse.
+
+363
+00:23:42,456 --> 00:23:45,801
+Depois de tudo.
+Eu sinto muito, William.
+
+364
+00:23:46,761 --> 00:23:49,085
+Não quero interromper,
+mas temos que sair daqui
+
+365
+00:23:49,086 --> 00:23:51,297
+antes que percebam
+o que fizemos aos guardas.
+
+366
+00:23:51,298 --> 00:23:53,388
+Não posso sair
+até desarmar as bombas.
+
+367
+00:23:53,389 --> 00:23:56,885
+Você acabou de sair do perigo
+e quer voltar para ele?
+
+368
+00:23:56,886 --> 00:23:58,286
+Típico.
+
+369
+00:23:58,906 --> 00:24:00,574
+Prefere ser a heroína
+
+370
+00:24:00,575 --> 00:24:02,348
+do que fazer
+o melhor para filha.
+
+371
+00:24:03,093 --> 00:24:04,707
+- Mia, por favor.
+- Não se meta.
+
+372
+00:24:04,708 --> 00:24:06,748
+Pelo menos uma vez na vida,
+mãe,
+
+373
+00:24:07,603 --> 00:24:09,573
+coloque sua família
+em primeiro lugar.
+
+374
+00:24:09,574 --> 00:24:11,557
+Ser um heroína, Mia,
+
+375
+00:24:12,096 --> 00:24:16,017
+significa escolher a segurança
+das outras pessoas acima da sua,
+
+376
+00:24:16,416 --> 00:24:17,896
+incluindo a família.
+
+377
+00:24:19,558 --> 00:24:21,509
+Por isso escondi meu trabalho
+de você,
+
+378
+00:24:21,510 --> 00:24:24,691
+para evitar que você fizesse
+escolhas difíceis como essa.
+
+379
+00:24:24,692 --> 00:24:27,083
+Devia ter sido honesta comigo
+desde o começo.
+
+380
+00:24:27,084 --> 00:24:29,679
+Você estava certa.
+Eu sinto muito.
+
+381
+00:24:30,540 --> 00:24:32,682
+Ser heroína
+é o meu propósito.
+
+382
+00:24:34,586 --> 00:24:37,046
+- Eu não posso sair.
+- Então quero ajudar.
+
+383
+00:24:39,265 --> 00:24:42,449
+- É sério?
+- Desculpe, mas ela está certa.
+
+384
+00:24:44,223 --> 00:24:47,106
+- Onde estão?
+- No próximo subnível.
+
+385
+00:24:47,107 --> 00:24:49,035
+Se você vai,
+precisará disso.
+
+386
+00:24:50,539 --> 00:24:51,939
+Obrigado.
+
+387
+00:25:00,807 --> 00:25:02,887
+- Escuta, Mia...
+- Não.
+
+388
+00:25:11,958 --> 00:25:13,656
+- Você está bem?
+- Sim,
+
+389
+00:25:13,657 --> 00:25:15,843
+já estou acostumada
+em ser uma decepção.
+
+390
+00:25:15,844 --> 00:25:18,750
+Os explosivos estão armazenados
+no extremo leste do prédio.
+
+391
+00:25:18,751 --> 00:25:21,056
+- Tem algum guarda até lá?
+- Parece tudo limpo,
+
+392
+00:25:21,057 --> 00:25:25,760
+exceto por 3 assinaturas
+de calor vindo até nós.
+
+393
+00:25:28,312 --> 00:25:30,252
+Devem estar em cima de nós.
+
+394
+00:25:40,478 --> 00:25:41,975
+Zoe?
+
+395
+00:25:42,977 --> 00:25:44,518
+Você a encontrou.
+
+396
+00:25:49,172 --> 00:25:52,027
+É tão bom ver
+que está viva.
+
+397
+00:26:00,003 --> 00:26:02,206
+Poderia ter dito
+que estávamos do mesmo lado.
+
+398
+00:26:02,207 --> 00:26:04,869
+Para infiltrar na Eden Corps,
+devia ser a Calculadora.
+
+399
+00:26:04,870 --> 00:26:07,429
+- Era o único jeito.
+- Parece que o plano funcionou.
+
+400
+00:26:07,430 --> 00:26:09,841
+Estou feliz que a antiga equipe
+veio me resgatar.
+
+401
+00:26:10,938 --> 00:26:13,662
+- Obrigada por ajudarem William.
+- Onde está a Mia?
+
+402
+00:26:13,663 --> 00:26:15,263
+Mia é...
+
+403
+00:26:16,317 --> 00:26:18,218
+igual ao pai dela.
+
+404
+00:26:18,912 --> 00:26:22,442
+Aliás, desculpe por não contar
+sobre ela.
+
+405
+00:26:22,443 --> 00:26:25,865
+Pessoal? O caminho entre nós
+e as bombas está livre.
+
+406
+00:26:26,721 --> 00:26:28,465
+Rápido, temos que ir.
+
+407
+00:26:30,083 --> 00:26:31,858
+Não quer ir com eles?
+
+408
+00:26:32,685 --> 00:26:34,790
+Só estou aqui
+para te ajudar.
+
+409
+00:26:34,791 --> 00:26:38,157
+Entendi.
+Porque você prometeu ao seu pai.
+
+410
+00:26:39,357 --> 00:26:42,253
+Sabe, não sei o que é pior.
+
+411
+00:26:43,069 --> 00:26:46,802
+A mentira ou o fato de achar
+que preciso de proteção.
+
+412
+00:26:46,803 --> 00:26:49,212
+Mia, sei que pode cuidar
+de si mesma.
+
+413
+00:26:49,213 --> 00:26:53,324
+- Então por que está aqui?
+- Porque eu me importo com você.
+
+414
+00:26:53,325 --> 00:26:55,683
+Eu queria muito
+te dizer a verdade,
+
+415
+00:26:56,123 --> 00:26:59,754
+mas eu sabia que ia me odiar
+assim que eu contasse.
+
+416
+00:27:00,717 --> 00:27:04,140
+E quanto mais o tempo passava,
+mais difícil ficava.
+
+417
+00:27:04,141 --> 00:27:08,337
+Então sua grande ideia
+era que eu nunca descobrisse?
+
+418
+00:27:08,653 --> 00:27:11,530
+Tem ideia
+do que é descobrir
+
+419
+00:27:11,531 --> 00:27:14,826
+que toda sua relação com alguém
+é baseada em uma mentira?
+
+420
+00:27:14,827 --> 00:27:16,494
+Não.
+
+421
+00:27:16,495 --> 00:27:19,403
+Mas eu sei como é ter pais
+que são heróis.
+
+422
+00:27:20,419 --> 00:27:22,012
+É uma merda.
+
+423
+00:27:22,013 --> 00:27:24,828
+Costumava perguntar
+ao meu pai o tempo todos
+
+424
+00:27:24,829 --> 00:27:27,696
+o porquê de ele
+ter me adotado
+
+425
+00:27:27,697 --> 00:27:30,279
+se ele e minha mãe
+nunca iam estar por perto.
+
+426
+00:27:30,280 --> 00:27:33,698
+Mas quer saber?
+Quando envelheci, eu percebi...
+
+427
+00:27:34,724 --> 00:27:36,304
+que eu tinha orgulho deles.
+
+428
+00:27:36,305 --> 00:27:38,186
+Ficou orgulhoso
+deles priorizarem
+
+429
+00:27:38,187 --> 00:27:40,002
+o resto do mundo
+ao invés de você?
+
+430
+00:27:40,003 --> 00:27:42,505
+Essa parte não.
+
+431
+00:27:43,661 --> 00:27:45,968
+Com grandes poderes
+
+432
+00:27:46,570 --> 00:27:49,763
+vêm grandes responsabilidades.
+Entendeu?
+
+433
+00:27:50,399 --> 00:27:51,985
+Pelo amor de Deus.
+Homem-Aranha?
+
+434
+00:27:51,986 --> 00:27:53,441
+Não gosto muito
+de quadrinhos.
+
+435
+00:27:53,442 --> 00:27:57,165
+O meu ponto é
+que o mesmo se aplica a nós,
+
+436
+00:27:57,166 --> 00:27:58,653
+filhos de super-heróis.
+
+437
+00:27:58,654 --> 00:28:01,766
+E temos que aprender
+a dividir nossos pais
+
+438
+00:28:02,203 --> 00:28:04,188
+e sermos
+um pouco menos egoístas.
+
+439
+00:28:04,189 --> 00:28:05,884
+É claro que ia dizer isso.
+
+440
+00:28:05,885 --> 00:28:08,256
+Você era um herói em treinamento
+desde criança.
+
+441
+00:28:08,257 --> 00:28:09,834
+Você também.
+
+442
+00:28:09,835 --> 00:28:12,248
+A única diferença
+é que eu tive que escolher
+
+443
+00:28:12,249 --> 00:28:14,596
+e você nunca teve
+essa escolha.
+
+444
+00:28:15,020 --> 00:28:16,520
+Até hoje.
+
+445
+00:28:21,931 --> 00:28:24,134
+Isso tem motivo.
+
+446
+00:28:24,547 --> 00:28:26,171
+Mia,
+se sair por essa porta,
+
+447
+00:28:26,172 --> 00:28:29,073
+você estará fazendo
+o que Felicity quer.
+
+448
+00:28:30,153 --> 00:28:31,558
+Você quer ir?
+Nós vamos.
+
+449
+00:28:31,559 --> 00:28:33,731
+Você quer ficar?
+Nós ficaremos.
+
+450
+00:28:33,732 --> 00:28:35,909
+Mas não deixe
+que os erros dela
+
+451
+00:28:36,315 --> 00:28:38,180
+façam essa escolha
+por você.
+
+452
+00:28:38,181 --> 00:28:39,836
+A decisão é sua.
+
+453
+00:28:44,058 --> 00:28:45,760
+Deve ser aqui.
+
+454
+00:28:52,037 --> 00:28:53,760
+Tem alguém vindo.
+
+455
+00:28:54,580 --> 00:28:56,288
+O que nós perdemos?
+
+456
+00:28:57,294 --> 00:29:00,344
+- Você voltou.
+- Não é grande coisa.
+
+457
+00:29:17,226 --> 00:29:20,437
+Como assim?
+Onde estão as bombas?
+
+458
+00:29:21,665 --> 00:29:23,353
+Elas já estão nos locais.
+
+459
+00:29:23,926 --> 00:29:25,326
+Pai.
+
+460
+00:29:26,612 --> 00:29:28,215
+O que faz aqui?
+
+461
+00:29:30,023 --> 00:29:32,943
+- Você está viva.
+- Não foi graças a você,
+
+462
+00:29:33,272 --> 00:29:35,109
+ou ao seu amigo,
+Keven Dale.
+
+463
+00:29:36,581 --> 00:29:38,070
+Você estava certa.
+
+464
+00:29:39,898 --> 00:29:41,602
+Todos estavam certos.
+
+465
+00:29:42,112 --> 00:29:44,881
+O ataque a Star City
+acontecerá esta noite
+
+466
+00:29:45,432 --> 00:29:47,641
+e não há nenhum plano
+de evacuação.
+
+467
+00:29:51,030 --> 00:29:52,974
+Dale planeja culpar
+os vigilantes.
+
+468
+00:29:52,975 --> 00:29:55,292
+Acho que é por isso
+que estavam com Felicity.
+
+469
+00:29:55,738 --> 00:29:57,743
+Não estou surpresa.
+
+470
+00:29:58,589 --> 00:30:00,440
+O que te fez abrir os olhos?
+
+471
+00:30:00,441 --> 00:30:02,273
+Alguém muito inteligente
+
+472
+00:30:02,848 --> 00:30:06,253
+com uma genética impecável
+me lembrou quem eu era.
+
+473
+00:30:06,791 --> 00:30:09,041
+E por que acreditaríamos
+em você?
+
+474
+00:30:09,042 --> 00:30:11,945
+Você não é o prefeito do mal
+que quer destruir Star City?
+
+475
+00:30:11,946 --> 00:30:14,201
+- E quem é você?
+- Essa é a Mia.
+
+476
+00:30:14,708 --> 00:30:17,470
+São os genes impecáveis
+do Oliver e meus.
+
+477
+00:30:17,471 --> 00:30:19,564
+- Vocês tiveram uma filha?
+- Surpresa.
+
+478
+00:30:19,565 --> 00:30:22,016
+Agora que estamos
+atualizados,
+
+479
+00:30:22,017 --> 00:30:24,587
+quando as bombas serão detonadas
+e como impedimos?
+
+480
+00:30:24,588 --> 00:30:26,225
+Serão detonadas
+com os fogos,
+
+481
+00:30:26,226 --> 00:30:29,661
+- em exatos 38 minutos.
+- Mesmo que saibamos onde estão,
+
+482
+00:30:29,662 --> 00:30:31,923
+não dá tempo de escalar o muro
+e parar isso.
+
+483
+00:30:31,924 --> 00:30:34,397
+As bombas
+estão conectadas por Li-Fi,
+
+484
+00:30:34,398 --> 00:30:36,168
+usam uma fonte
+de energia externa.
+
+485
+00:30:36,169 --> 00:30:37,919
+Um dispositivo unificado
+de conexão.
+
+486
+00:30:37,920 --> 00:30:39,481
+- Sim.
+- O cérebro das bombas.
+
+487
+00:30:39,482 --> 00:30:41,108
+Ótimo.
+Tem dois de vocês agora.
+
+488
+00:30:41,109 --> 00:30:45,812
+Então vamos invadir um servidor
+para vocês hackearem?
+
+489
+00:30:45,813 --> 00:30:48,109
+"Servidor".
+Isso é tão 2019.
+
+490
+00:30:48,110 --> 00:30:50,176
+O cérebro é um cubo portátil.
+Cabe na mão.
+
+491
+00:30:50,177 --> 00:30:53,502
+- Dale tem um desses.
+- Achei que era um Cubo Fidget.
+
+492
+00:30:53,503 --> 00:30:56,014
+A única forma de parar as bombas
+é destruir o cubo.
+
+493
+00:30:56,015 --> 00:30:59,039
+Dale estará na festa,
+mas não será fácil encontrá-lo.
+
+494
+00:30:59,517 --> 00:31:02,194
+Ele negociou um ponto-cego
+no Programa Arqueiro.
+
+495
+00:31:02,195 --> 00:31:03,856
+Tem sempre outra forma.
+
+496
+00:31:03,857 --> 00:31:06,193
+Ouvi dizer que as festas
+no Glades são chiques.
+
+497
+00:31:06,194 --> 00:31:08,137
+Como vamos nos encaixar?
+
+498
+00:31:09,505 --> 00:31:10,962
+Com exceção de você.
+
+499
+00:31:10,963 --> 00:31:12,644
+Deixe isso comigo.
+
+500
+00:31:18,330 --> 00:31:21,854
+É como procurar uma agulha
+no palheiro.
+
+501
+00:31:22,657 --> 00:31:24,443
+Vou assumir
+que está em posição.
+
+502
+00:31:24,444 --> 00:31:25,856
+Mais alguém?
+
+503
+00:31:26,964 --> 00:31:28,718
+- Quase.
+- Parece que Rene
+
+504
+00:31:28,719 --> 00:31:30,149
+é uma celebridade.
+
+505
+00:31:31,572 --> 00:31:34,480
+- Observadora, estamos prontos.
+- "Observadora"?
+
+506
+00:31:34,481 --> 00:31:36,672
+Não me chamam assim
+há muito tempo.
+
+507
+00:31:37,440 --> 00:31:40,631
+Podemos deixar as recordações
+para depois?
+
+508
+00:31:40,632 --> 00:31:42,194
+Certo.
+O que fazemos?
+
+509
+00:31:44,206 --> 00:31:46,376
+Todos estão usando
+tecidos funcionais,
+
+510
+00:31:46,377 --> 00:31:49,257
+então tem computadores pequenos
+nas roupas deles e suas.
+
+511
+00:31:49,258 --> 00:31:52,104
+Se esbarrarem em alguém,
+receberemos informações dela.
+
+512
+00:31:52,105 --> 00:31:55,276
+Isso costuma ser confidencial,
+mas conseguimos burlar isso.
+
+513
+00:31:55,277 --> 00:31:57,181
+Está hackeando roupas?
+
+514
+00:31:58,030 --> 00:32:00,913
+Basicamente. Vocês tem
+que identificar Keven Dale.
+
+515
+00:32:00,914 --> 00:32:02,994
+Posso ajudar
+com o sistema de segurança.
+
+516
+00:32:02,995 --> 00:32:04,695
+Vamos salvar a cidade.
+
+517
+00:32:12,094 --> 00:32:13,551
+Não é o Dale.
+
+518
+00:32:17,348 --> 00:32:20,184
+Mia, às 2h tem um cara
+de terno azul.
+
+519
+00:32:20,185 --> 00:32:21,623
+Ele pode ser o cara certo.
+
+520
+00:32:21,624 --> 00:32:24,021
+Não quis dizer isso.
+Me referi a alvo.
+
+521
+00:32:24,022 --> 00:32:26,308
+Eu nem sei qual seu tipo.
+
+522
+00:32:26,309 --> 00:32:30,088
+- Mãe, cala a boca.
+- Desculpa. Eu costumo divagar.
+
+523
+00:32:35,926 --> 00:32:39,665
+- Mia, você encostou no Dale.
+- Deixa comigo. Vou segui-lo.
+
+524
+00:32:39,666 --> 00:32:42,938
+Espere. Você precisará de apoio.
+Não terá comunicação lá.
+
+525
+00:32:42,939 --> 00:32:46,283
+Não é para isso que me treinou?
+Posso lidar com um CEO.
+
+526
+00:32:46,284 --> 00:32:47,872
+Eu consigo.
+
+527
+00:32:51,832 --> 00:32:55,381
+Ninguém quer te dizer,
+mas a festa está uma merda.
+
+528
+00:32:56,188 --> 00:33:00,140
+Interessante.
+Eu estava esperando uma canário.
+
+529
+00:33:00,825 --> 00:33:02,347
+Quem diabos é você?
+
+530
+00:33:02,733 --> 00:33:04,848
+Não uma fã de conversinha.
+
+531
+00:33:05,632 --> 00:33:09,840
+Agora, me entregue essa coisa,
+ou vou tomá-la.
+
+532
+00:33:11,936 --> 00:33:13,411
+Sério?
+
+533
+00:33:21,730 --> 00:33:25,214
+Quero ela viva.
+Vamos conversar depois da festa.
+
+534
+00:33:27,913 --> 00:33:29,731
+Isso será divertido.
+
+535
+00:34:31,352 --> 00:34:34,062
+Pessoal, eu perdi ele.
+Ele está na multidão de novo.
+
+536
+00:34:34,063 --> 00:34:35,728
+Não é para apavorar ninguém,
+
+537
+00:34:35,729 --> 00:34:38,368
+- mas só temos dois minutos.
+- O povo precisa fugir.
+
+538
+00:34:38,369 --> 00:34:39,770
+Eu sei como.
+
+539
+00:34:40,562 --> 00:34:42,475
+Mostrando-os
+como são os heróis.
+
+540
+00:34:45,163 --> 00:34:47,677
+Socorro! Vigilantes!
+
+541
+00:34:57,427 --> 00:34:59,646
+Você tem 30 segundos, Mia.
+
+542
+00:35:04,478 --> 00:35:05,953
+Mia!
+
+543
+00:35:27,767 --> 00:35:31,890
+Ela conseguiu.
+As bombas foram desativadas.
+
+544
+00:35:35,054 --> 00:35:36,781
+Vamos dar o fora daqui.
+
+545
+00:35:40,698 --> 00:35:42,772
+<i>Cidadãos do Glades,</i>
+
+546
+00:35:42,773 --> 00:35:45,613
+<i>ontem,
+nossa festa da independência</i>
+
+547
+00:35:45,614 --> 00:35:48,917
+<i>foi alvo de um aparente
+ato de terrorismo.</i>
+
+548
+00:35:48,918 --> 00:35:51,624
+<i>Graças aos esforços
+da Polícia do Glades,</i>
+
+549
+00:35:51,625 --> 00:35:54,877
+<i>sabemos as identidades
+dos responsáveis.</i>
+
+550
+00:35:55,217 --> 00:35:58,717
+<i>Os vigilantes conhecidos
+como Arsenal, Canário Negro</i>
+
+551
+00:35:58,718 --> 00:36:00,147
+<i>e Calculadora.</i>
+
+552
+00:36:00,546 --> 00:36:03,269
+<i>Uma recompensa
+de US$10 milhões será paga</i>
+
+553
+00:36:03,270 --> 00:36:05,756
+<i>a qualquer pista que leve
+a captura deles,</i>
+
+554
+00:36:06,074 --> 00:36:07,666
+<i>mortos ou vivos.</i>
+
+555
+00:36:08,597 --> 00:36:11,974
+<i>Esse foi o primeiro ataque
+dentro do muro em uma década.</i>
+
+556
+00:36:12,562 --> 00:36:15,048
+<i>Juro que será a último.</i>
+
+557
+00:36:16,589 --> 00:36:18,588
+Isso foi perturbador.
+
+558
+00:36:18,589 --> 00:36:20,585
+Sei por que meu pai
+teve que discursar,
+
+559
+00:36:20,586 --> 00:36:22,141
+mas escutar em voz alta?
+
+560
+00:36:22,142 --> 00:36:26,696
+Já tínhamos o alvo nas costas,
+mas não tão grande assim.
+
+561
+00:36:26,697 --> 00:36:30,692
+- Vai piorar para todos.
+- Incluindo meu pai.
+
+562
+00:36:30,693 --> 00:36:33,116
+Sei que está preocupada,
+mas ele está certo.
+
+563
+00:36:33,467 --> 00:36:36,428
+Infiltrar-se é o melhor jeito
+de derrotar Galaxy.
+
+564
+00:36:36,429 --> 00:36:38,034
+E agora?
+
+565
+00:36:38,035 --> 00:36:40,756
+Acredito que Galaxy não parará
+de bombardear a cidade.
+
+566
+00:36:40,757 --> 00:36:44,792
+Não. O propósito do bombardeio
+não era para reconstruir.
+
+567
+00:36:45,480 --> 00:36:48,988
+Era refazer Star City
+igual ao Glades.
+
+568
+00:36:48,989 --> 00:36:51,842
+Por que arruinar a cidade
+que gastou tanto para consertar?
+
+569
+00:36:51,843 --> 00:36:53,441
+Porque usará
+a nova Star City
+
+570
+00:36:53,442 --> 00:36:55,639
+para lançar
+o programa Arqueiro globalmente.
+
+571
+00:36:55,640 --> 00:36:57,816
+E isso é muito poder
+para uma entidade ter.
+
+572
+00:36:57,817 --> 00:36:59,622
+Bom que reunimos a gangue
+de novo.
+
+573
+00:36:59,623 --> 00:37:01,982
+Agradecemos William
+por isso.
+
+574
+00:37:03,593 --> 00:37:06,492
+Mandei aquele sinal
+com base na esperança e oração.
+
+575
+00:37:09,971 --> 00:37:11,371
+E você o guardou.
+
+576
+00:37:11,372 --> 00:37:14,324
+Depois de todos esses anos
+e com tudo o que aconteceu,
+
+577
+00:37:17,094 --> 00:37:18,530
+sei que não mereço.
+
+578
+00:37:18,531 --> 00:37:21,139
+Estou feliz
+por não te odiar completamente.
+
+579
+00:37:21,140 --> 00:37:23,453
+Agora tenho uma irmã
+para odiar.
+
+580
+00:37:23,454 --> 00:37:25,200
+Preciso de um pouco de ar.
+
+581
+00:37:26,240 --> 00:37:28,394
+Não temos
+esse tipo de relação ainda.
+
+582
+00:37:28,395 --> 00:37:29,870
+Não é você.
+
+583
+00:37:29,871 --> 00:37:32,351
+- Vou falar com ela.
+- E não é você.
+
+584
+00:37:32,352 --> 00:37:33,815
+Sou eu.
+
+585
+00:37:36,108 --> 00:37:37,659
+Quem precisa de uma bebida?
+
+586
+00:37:42,556 --> 00:37:46,582
+Senhor prefeito,
+fez um discurso fervoroso.
+
+587
+00:37:46,583 --> 00:37:49,670
+Fez-me mesmo acreditar
+que queria os vigilantes mortos.
+
+588
+00:37:50,346 --> 00:37:52,729
+Eles violaram a santidade
+dos nossos muros,
+
+589
+00:37:52,730 --> 00:37:55,864
+sem contar que destruíram
+nossos planos de expansão.
+
+590
+00:37:55,865 --> 00:37:58,347
+Sim, os quero mortos.
+
+591
+00:37:59,310 --> 00:38:01,312
+Eles já foram seus amigos.
+
+592
+00:38:01,313 --> 00:38:02,713
+E onde quer chegar?
+
+593
+00:38:03,708 --> 00:38:06,652
+Eles pareciam saber exatamente
+o que estávamos planejando
+
+594
+00:38:06,653 --> 00:38:08,352
+e como nos impedir.
+
+595
+00:38:09,099 --> 00:38:12,147
+Vendo como era seu desejo
+evacuar Star City,
+
+596
+00:38:12,148 --> 00:38:14,127
+não deixo de pensar...
+
+597
+00:38:14,128 --> 00:38:17,036
+Você só me disse
+que iria adiantar os planos
+
+598
+00:38:17,037 --> 00:38:18,972
+quando o pressionei.
+
+599
+00:38:18,973 --> 00:38:20,654
+Se eu soubesse,
+
+600
+00:38:20,655 --> 00:38:24,350
+você não teria mantido
+Felicity Smoak no mesmo prédio.
+
+601
+00:38:26,849 --> 00:38:30,625
+O ataque dos vigilantes
+propiciou uma oportunidade.
+
+602
+00:38:30,626 --> 00:38:33,767
+Porque uma cidade com medo
+deseja uma solução.
+
+603
+00:38:36,504 --> 00:38:37,944
+O que é isso?
+
+604
+00:38:37,945 --> 00:38:40,985
+A ferramenta que nos permitirá
+lançar globalmente o programa
+
+605
+00:38:40,986 --> 00:38:43,860
+e eliminar todos os vigilantes
+de uma vez por todas.
+
+606
+00:38:53,099 --> 00:38:56,083
+É aqui que anda passando
+todo o seu tempo.
+
+607
+00:38:58,302 --> 00:38:59,974
+Praticamente.
+
+608
+00:39:03,252 --> 00:39:05,656
+Notei que continua
+sem gostar de limpeza.
+
+609
+00:39:05,657 --> 00:39:07,566
+Quer começar reclamando?
+
+610
+00:39:07,567 --> 00:39:10,368
+Sou sua mãe.
+Reclamar é parte do negócio.
+
+611
+00:39:10,369 --> 00:39:14,022
+Provavelmente quer
+que eu vá ajudar a parar Galaxy?
+
+612
+00:39:14,902 --> 00:39:17,708
+Um momento de qualidade
+entra mãe e filha vigilantes.
+
+613
+00:39:17,709 --> 00:39:20,131
+Não. Gostaria de poder levá-la
+para longe disso.
+
+614
+00:39:20,716 --> 00:39:23,220
+Gostaria que não precisasse
+pensar em nada disso.
+
+615
+00:39:27,538 --> 00:39:30,192
+Mas sei
+que a decisão não é minha.
+
+616
+00:39:30,193 --> 00:39:32,320
+Quando saí de casa,
+
+617
+00:39:33,712 --> 00:39:35,744
+estava tão brava com você.
+
+618
+00:39:36,823 --> 00:39:40,484
+Aprendi tudo que pude
+sobre os vigilantes.
+
+619
+00:39:40,909 --> 00:39:42,724
+Escavei histórias antigas
+
+620
+00:39:42,725 --> 00:39:45,535
+de como Star City
+ficou destruída.
+
+621
+00:39:47,971 --> 00:39:49,783
+Estava convencida.
+
+622
+00:39:50,513 --> 00:39:52,756
+Estava convencida
+de que era verdade,
+
+623
+00:39:52,757 --> 00:39:56,277
+de que mentiu para mim
+minha infância toda
+
+624
+00:39:58,875 --> 00:40:02,797
+com suas histórias de heroísmo
+da Equipe Arqueiro.
+
+625
+00:40:03,698 --> 00:40:06,762
+Porque você não queria
+que eu pensasse mal de você.
+
+626
+00:40:07,839 --> 00:40:09,715
+Ou do meu pai.
+
+627
+00:40:11,127 --> 00:40:14,380
+Passei os últimos anos
+odiando os vigilantes.
+
+628
+00:40:18,547 --> 00:40:21,865
+- Porque eu te odiava.
+- Não te culpo.
+
+629
+00:40:22,588 --> 00:40:26,017
+Entendo por que queria mentir
+para mim.
+
+630
+00:40:26,670 --> 00:40:28,495
+Para me proteger.
+
+631
+00:40:31,716 --> 00:40:33,651
+Não posso nem imaginar
+como foi
+
+632
+00:40:33,652 --> 00:40:36,088
+ter a cidade inteira
+contra você
+
+633
+00:40:36,781 --> 00:40:38,218
+e contra o meu pai.
+
+634
+00:40:38,219 --> 00:40:43,219
+Mia, você parece tanto
+com seu pai.
+
+635
+00:40:45,247 --> 00:40:47,199
+Em campo.
+
+636
+00:40:48,760 --> 00:40:50,546
+Tão durona.
+
+637
+00:40:52,505 --> 00:40:54,395
+Tenho tanto orgulho de você.
+
+638
+00:40:59,746 --> 00:41:01,570
+Mãe, é...
+
+639
+00:41:03,257 --> 00:41:05,898
+Parecia ser algo
+muito pessoal
+
+640
+00:41:06,478 --> 00:41:08,568
+impedir a Galaxy.
+
+641
+00:41:12,628 --> 00:41:14,424
+Tem a ver com o meu pai?
+
+642
+00:41:15,783 --> 00:41:17,554
+Não, não tem.
+
+643
+00:41:19,602 --> 00:41:21,486
+Essa é comigo.
+
+644
+00:41:22,596 --> 00:41:25,703
+Caramba.
+Funcionou?
+
+645
+00:41:27,217 --> 00:41:28,812
+Aqui vou eu.
+
+646
+00:41:29,989 --> 00:41:33,187
+Arqueiro, você está online?
+
+647
+00:41:38,602 --> 00:41:42,760
+<i>Sim, sra. Smoak.
+Arqueiro está ativo.</i>
+
+648
+00:41:44,327 --> 00:41:45,728
+Caramba.
+
+649
+00:41:45,729 --> 00:41:47,837
+www.insubs.com
+
