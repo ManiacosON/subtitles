@@ -1,0 +1,2806 @@
+1
+00:00:00,900 --> 00:00:02,724
+<i>Meu nome é Oliver Queen.</i>
+
+2
+00:00:02,725 --> 00:00:04,984
+<i>Após ser um vigilante
+por 6 anos,</i>
+
+3
+00:00:04,985 --> 00:00:08,047
+<i>só consegui atingir meu objetivo
+de salvar minha cidade</i>
+
+4
+00:00:08,048 --> 00:00:10,485
+<i>ao confessar
+ser o Arqueiro Verde.</i>
+
+5
+00:00:10,486 --> 00:00:14,406
+<i>Minha família e amigos devem
+continuar minha missão sem mim.</i>
+
+6
+00:00:14,407 --> 00:00:16,045
+<i>Não sou mais um herói.</i>
+
+7
+00:00:16,444 --> 00:00:19,668
+<i>Sou o prisioneiro 4587.</i>
+
+8
+00:00:20,292 --> 00:00:21,692
+<i>Anteriormente...</i>
+
+9
+00:00:21,693 --> 00:00:25,398
+<i>Diaz lhe usou para contratar
+os prisioneiros que me atacaram.</i>
+
+10
+00:00:25,399 --> 00:00:27,812
+Então, por que não me diz
+como encontrá-lo?
+
+11
+00:00:27,813 --> 00:00:30,038
+Tem que se mostrar digno
+da minha amizade.
+
+12
+00:00:30,039 --> 00:00:32,330
+- O que quer?
+- Quero que ele desapareça.
+
+13
+00:00:35,323 --> 00:00:36,755
+Você me esfaqueou.
+
+14
+00:00:36,756 --> 00:00:39,144
+- O quê? Não esfaqueei.
+- Fique longe de mim.
+
+15
+00:00:39,145 --> 00:00:42,222
+- Aquele guarda me esfaqueou!
+- Eu não toquei nele.
+
+16
+00:00:42,836 --> 00:00:44,692
+<i>Você fez um acordo
+com meu marido,</i>
+
+17
+00:00:44,693 --> 00:00:46,330
+<i>e ele está preso
+por causa disso.</i>
+
+18
+00:00:46,331 --> 00:00:49,682
+Agora é a sua vez de cumprir
+sua parte do acordo.
+
+19
+00:00:49,683 --> 00:00:52,456
+Nós vamos prender
+Ricardo Diaz, juntas.
+
+20
+00:01:26,253 --> 00:01:27,997
+<b>Arrow S07E03
+"Crossing Lines"</b>
+
+21
+00:01:27,998 --> 00:01:30,334
+<b>Traduzido por Archers
+gabrielzevedo l AirtonSub</b>
+
+22
+00:01:30,335 --> 00:01:32,169
+<b>Traduzido por Archers
+arrowjj l Bai²</b>
+
+23
+00:01:32,170 --> 00:01:33,897
+12 HORAS ANTES
+
+24
+00:01:33,898 --> 00:01:36,817
+Prometeu que ficariam na cidade
+até Diaz ser pego.
+
+25
+00:01:36,818 --> 00:01:38,478
+Como pode ver,
+ainda estamos aqui.
+
+26
+00:01:38,479 --> 00:01:39,931
+Mas não o pegaram.
+
+27
+00:01:39,932 --> 00:01:42,023
+Capturar Diaz
+ainda é uma prioridade,
+
+28
+00:01:42,024 --> 00:01:43,971
+mas ele não é o único
+em nossa lista.
+
+29
+00:01:43,972 --> 00:01:45,623
+- Me deixe ajudá-los.
+- Perdão?
+
+30
+00:01:45,624 --> 00:01:47,024
+Viu o que eu posso fazer.
+
+31
+00:01:47,537 --> 00:01:49,404
+Temos nossos especialistas,
+sr. Smoak.
+
+32
+00:01:49,405 --> 00:01:52,611
+Não igual a mim.
+Sei tudo sobre Diaz,
+
+33
+00:01:52,612 --> 00:01:54,012
+e sobre os Caçadores.
+
+34
+00:01:54,337 --> 00:01:56,216
+Sim, eles estão por aí.
+
+35
+00:01:56,217 --> 00:01:58,320
+Diaz trouxe reforços,
+o que significa
+
+36
+00:01:58,321 --> 00:01:59,860
+que não há mais tempo
+a perder.
+
+37
+00:01:59,861 --> 00:02:02,168
+Então me dê um computador
+e me deixe trabalhar.
+
+38
+00:02:02,806 --> 00:02:05,762
+Meu acordo com seu marido
+lhe dá imunidade.
+
+39
+00:02:05,763 --> 00:02:07,328
+Não nos faz aliados.
+
+40
+00:02:07,329 --> 00:02:09,916
+Diaz me atacou
+enquanto eu estava sob proteção.
+
+41
+00:02:10,493 --> 00:02:13,726
+Meu marido está preso,
+mandei meu filho ir embora.
+
+42
+00:02:13,727 --> 00:02:17,908
+Seu acordo com o Oliver
+arruinou minha vida e a cidade.
+
+43
+00:02:17,909 --> 00:02:21,266
+Só estou pedindo
+que cumpra sua parte do acordo.
+
+44
+00:02:24,327 --> 00:02:25,947
+Sinto muito
+por ter sido atacada.
+
+45
+00:02:25,948 --> 00:02:28,174
+Não é minha culpa
+que ele esteja preso.
+
+46
+00:02:28,175 --> 00:02:29,935
+Foi escolha dele
+usar o capuz,
+
+47
+00:02:29,936 --> 00:02:32,026
+e foi escolha dele
+se entregar.
+
+48
+00:02:32,027 --> 00:02:34,852
+Vá para casa,
+aproveite sua liberdade.
+
+49
+00:02:35,286 --> 00:02:37,086
+Deixe que do crime cuido eu.
+
+50
+00:02:40,851 --> 00:02:44,440
+Meu marido
+passou os últimos 6 anos
+
+51
+00:02:44,441 --> 00:02:46,430
+lutando pelo povo
+desta cidade,
+
+52
+00:02:46,431 --> 00:02:47,831
+arriscando tudo,
+
+53
+00:02:47,832 --> 00:02:50,502
+e agora ele está na prisão,
+atrás das grades,
+
+54
+00:02:50,503 --> 00:02:53,371
+enquanto esse monstro
+anda livre por aí.
+
+55
+00:02:55,642 --> 00:02:57,242
+Isso não é justiça.
+
+56
+00:03:04,849 --> 00:03:07,543
+Ainda não consigo acreditar
+que você se esfaqueou.
+
+57
+00:03:07,544 --> 00:03:10,791
+Atingiu algum órgão,
+fígado ou algo do tipo?
+
+58
+00:03:11,485 --> 00:03:14,017
+Está bem, provavelmente
+nem tenha fígado,
+
+59
+00:03:14,018 --> 00:03:15,468
+apenas músculos.
+
+60
+00:03:15,775 --> 00:03:17,704
+Acha que eu tive
+outra escolha?
+
+61
+00:03:29,297 --> 00:03:31,043
+Fiz o que pediu.
+
+62
+00:03:31,044 --> 00:03:33,587
+Agora me diga o que sabe,
+sobre o Diaz.
+
+63
+00:03:33,588 --> 00:03:36,142
+Não foi o que quis dizer
+com se livrar do Yorke.
+
+64
+00:03:36,143 --> 00:03:37,981
+Encontrei um jeito melhor.
+
+65
+00:03:37,982 --> 00:03:39,780
+Ele ainda acha
+que é um herói.
+
+66
+00:03:39,781 --> 00:03:41,853
+Você é mais idiota
+do que pensava.
+
+67
+00:03:41,854 --> 00:03:43,821
+Certo, senhores.
+Um acordo é um acordo.
+
+68
+00:03:43,822 --> 00:03:46,425
+Tirar o Yorke de perto
+estava no acordo.
+
+69
+00:03:46,426 --> 00:03:50,581
+Graças ao Queen,
+teremos uma noite daquelas.
+
+70
+00:03:50,582 --> 00:03:51,987
+Onde está Diaz?
+
+71
+00:03:51,988 --> 00:03:55,022
+Não sei,
+mas conheço alguém.
+
+72
+00:03:55,737 --> 00:03:58,120
+Há um informante
+aqui em Slabside.
+
+73
+00:03:58,921 --> 00:04:02,377
+Tudo o que acontece aqui
+passa primeiro pelo Demônio.
+
+74
+00:04:04,143 --> 00:04:05,946
+- O Demônio?
+- Sim.
+
+75
+00:04:05,947 --> 00:04:08,141
+A pessoa que organizou
+o ataque a você,
+
+76
+00:04:08,142 --> 00:04:10,447
+tem conexão direta
+com Diaz.
+
+77
+00:04:10,448 --> 00:04:13,251
+Tudo o que fiz
+foi lidar com a transação,
+
+78
+00:04:13,252 --> 00:04:16,320
+mas como sou
+um homem de palavra,
+
+79
+00:04:16,321 --> 00:04:17,999
+organizarei um encontro
+com ele.
+
+80
+00:04:18,000 --> 00:04:19,557
+Acha que confio em você?
+
+81
+00:04:19,558 --> 00:04:21,995
+Você não tem muita
+escolha agora, tem?
+
+82
+00:04:22,859 --> 00:04:24,936
+- Quando?
+- Hoje à noite.
+
+83
+00:04:25,602 --> 00:04:27,942
+Cela 3B, depois que as luzes
+se apagarem.
+
+84
+00:04:31,818 --> 00:04:33,672
+Você saberá quando.
+
+85
+00:04:41,124 --> 00:04:42,703
+Enrole o quanto quiser.
+
+86
+00:04:42,704 --> 00:04:44,592
+A qualquer momento
+você vai ceder.
+
+87
+00:04:45,138 --> 00:04:47,428
+Quando isso acontecer,
+estarei bem aqui.
+
+88
+00:04:48,764 --> 00:04:52,395
+Última chance
+antes de eu chamá-la.
+
+89
+00:04:57,797 --> 00:05:00,788
+Você comeu ou não
+essa caixa de biscoitos?
+
+90
+00:05:03,772 --> 00:05:05,448
+Tudo bem, querido.
+
+91
+00:05:05,449 --> 00:05:07,856
+Ficou com fome, não foi?
+
+92
+00:05:07,857 --> 00:05:09,847
+Por isso está
+com dor de barriga.
+
+93
+00:05:10,231 --> 00:05:13,588
+Agora sabe o que acontece
+quando se come muito açúcar, né?
+
+94
+00:05:14,465 --> 00:05:16,881
+Vem, vamos ver a Ella.
+
+95
+00:05:16,882 --> 00:05:20,152
+Ela planejou muita diversão
+enquanto estivermos fora.
+
+96
+00:05:20,153 --> 00:05:22,813
+- Oi!
+- Estava tentando há 20 minutos.
+
+97
+00:05:22,814 --> 00:05:24,831
+e ele confessou a você
+em 20 s?
+
+98
+00:05:24,832 --> 00:05:27,450
+Sou a mãe dele
+e sua chefe.
+
+99
+00:05:27,451 --> 00:05:29,093
+Partiremos em 5 minutos.
+
+100
+00:05:29,705 --> 00:05:31,305
+Tudo embalado e pronto.
+
+101
+00:05:32,579 --> 00:05:34,574
+Não me parece estar
+muito feliz.
+
+102
+00:05:34,575 --> 00:05:37,351
+Queria que tivéssemos pegado
+Diaz, antes de viajarmos.
+
+103
+00:05:37,352 --> 00:05:38,852
+- Vamos pegá-lo.
+- Sim.
+
+104
+00:05:38,853 --> 00:05:40,997
+E Felicity ficará bem,
+prometo.
+
+105
+00:05:41,685 --> 00:05:45,693
+Podíamos aproveitar essa saída,
+como uma segunda lua de mel.
+
+106
+00:05:45,694 --> 00:05:47,404
+É, com o Curtis.
+
+107
+00:05:48,388 --> 00:05:50,854
+O Pistoleiro e a Cupido estavam
+na nossa primeira.
+
+108
+00:05:50,855 --> 00:05:52,656
+Não foi a nossa primeira
+lua de mel.
+
+109
+00:05:52,657 --> 00:05:55,457
+Nossa primeira
+foi no Havaí, lembra?
+
+110
+00:05:55,458 --> 00:05:57,710
+As redes na praia.
+
+111
+00:05:57,711 --> 00:06:00,112
+- No Havaí foi bom.
+- Foi muito bom.
+
+112
+00:06:00,468 --> 00:06:02,627
+Pensei que seria difícil
+trabalhar com você.
+
+113
+00:06:02,628 --> 00:06:04,124
+Estarmos juntos 24h?
+
+114
+00:06:04,125 --> 00:06:06,275
+As aventuras foram
+o que nos manteve fortes.
+
+115
+00:06:06,276 --> 00:06:09,149
+- Operações perigosas.
+- Romance sempre na frente.
+
+116
+00:06:09,150 --> 00:06:11,724
+- Formamos uma boa equipe.
+- Uma ótima equipe.
+
+117
+00:06:20,047 --> 00:06:22,445
+Ricardo Diaz
+assumiu uma cidade inteira.
+
+118
+00:06:22,446 --> 00:06:24,374
+Já destruímos
+a infraestrutura dele.
+
+119
+00:06:24,375 --> 00:06:27,276
+- Ele não é uma ameaça iminente.
+- Ele tem novos aliados.
+
+120
+00:06:27,277 --> 00:06:29,689
+Um deles invadiu a rede
+do departamento de saúde.
+
+121
+00:06:29,690 --> 00:06:31,803
+Especificamente os protocolos
+de segurança.
+
+122
+00:06:31,804 --> 00:06:34,748
+- Eles planejam algo.
+- Percebeu com uma foto
+
+123
+00:06:34,749 --> 00:06:38,001
+- feita por um hacker?
+- É a única pista que temos.
+
+124
+00:06:38,002 --> 00:06:39,962
+Sabe disso.
+Não podemos ignorar.
+
+125
+00:06:39,963 --> 00:06:42,504
+Traga-me algo concreto
+em que eu possa trabalhar.
+
+126
+00:06:42,505 --> 00:06:44,915
+A segurança do Departamento
+de Saúde está segura.
+
+127
+00:06:44,916 --> 00:06:48,007
+Ninguém entra sem autorização
+de segurança de nível 5.
+
+128
+00:06:48,008 --> 00:06:51,731
+Não posso desperdiçar recursos
+valiosos em algo circunstancial.
+
+129
+00:06:51,732 --> 00:06:54,970
+Fala de alguém que caiu
+para os 27 mais procurados?
+
+130
+00:06:54,971 --> 00:06:57,643
+Pois é. Diga ao Departamento
+que foram hackeados.
+
+131
+00:06:57,644 --> 00:07:00,137
+Eles podem lidar com isso
+como acharem melhor.
+
+132
+00:07:00,138 --> 00:07:03,080
+Preciso do seu foco
+em outro lugar, agente.
+
+133
+00:07:09,783 --> 00:07:11,996
+Acho que o coração dela
+não é todo de pedra.
+
+134
+00:07:11,997 --> 00:07:13,931
+Grampeando o FBI...
+
+135
+00:07:13,932 --> 00:07:16,263
+Talvez não seja bom
+para nossa imunidade.
+
+136
+00:07:16,264 --> 00:07:20,146
+É melhor pedir perdão
+do que permissão.
+
+137
+00:07:20,147 --> 00:07:22,721
+Quando disse que não ia tentar
+mais do jeito ARGUS
+
+138
+00:07:22,722 --> 00:07:24,691
+- falava sério.
+- John tem prioridades
+
+139
+00:07:24,692 --> 00:07:27,253
+além de pegar Diaz.
+Eu não.
+
+140
+00:07:27,254 --> 00:07:29,506
+Admiro sua vontade
+em querer ajudar,
+
+141
+00:07:29,507 --> 00:07:31,666
+e por me deixando dormir
+no seu sofá,
+
+142
+00:07:31,667 --> 00:07:33,531
+que é mais confortável
+do que parece.
+
+143
+00:07:33,532 --> 00:07:36,111
+Estava com muita vontade
+de reunir a galera
+
+144
+00:07:36,112 --> 00:07:38,564
+e pegar aquele desgraçado
+do Diaz.
+
+145
+00:07:38,565 --> 00:07:40,254
+Para que o Departamento
+de Saúde?
+
+146
+00:07:40,255 --> 00:07:43,071
+- Descobrir é a parte fácil.
+- E qual é a parte difícil?
+
+147
+00:07:43,635 --> 00:07:47,423
+Entrar no Departamento.
+Você ouviu o chefe.
+
+148
+00:07:47,424 --> 00:07:51,052
+A única maneira de entrarmos
+é com autorização federal.
+
+149
+00:08:37,167 --> 00:08:39,097
+Onde estão todos
+os guardas?
+
+150
+00:08:39,098 --> 00:08:40,955
+O que diabos está rolando?
+
+151
+00:08:40,956 --> 00:08:42,381
+Não faço ideia.
+
+152
+00:08:42,773 --> 00:08:45,852
+Brick está planejando algo.
+Fique aqui.
+
+153
+00:08:48,184 --> 00:08:49,588
+Aonde vai?
+
+154
+00:08:49,589 --> 00:08:51,179
+Preciso encontrar alguém.
+
+155
+00:08:51,565 --> 00:08:53,017
+Também vou.
+
+156
+00:08:53,018 --> 00:08:55,462
+Sua cela é o lugar mais
+seguro para você.
+
+157
+00:08:55,463 --> 00:08:58,866
+Com todos esses assassinos
+à solta vou ficar do seu lado.
+
+158
+00:09:00,742 --> 00:09:02,234
+Tudo bem.
+
+159
+00:09:14,504 --> 00:09:16,423
+Tem muito poder
+de fogo para um banco.
+
+160
+00:09:16,424 --> 00:09:18,801
+- Eles precisam.
+- Metade dos criminosos
+
+161
+00:09:18,802 --> 00:09:21,748
+- mandam seu dinheiro para cá.
+- Acho que atiram primeiro
+
+162
+00:09:21,749 --> 00:09:23,713
+e perguntam depois?
+
+163
+00:09:23,714 --> 00:09:26,474
+Por isso não podem descobrir
+que somos da ARGUS.
+
+164
+00:09:26,475 --> 00:09:29,146
+E não irão, por causa...
+
+165
+00:09:29,147 --> 00:09:30,684
+Disto.
+
+166
+00:09:30,685 --> 00:09:33,490
+Imprimi para ficar
+idêntico ao original,
+
+167
+00:09:33,491 --> 00:09:35,916
+exceto pela tinta
+nanotecnologia que nos permite
+
+168
+00:09:35,917 --> 00:09:38,292
+acessar as transações
+financeiras do banco.
+
+169
+00:09:38,293 --> 00:09:40,547
+Essa é uma coisinha especial
+do Curtis.
+
+170
+00:09:41,463 --> 00:09:43,004
+Qual é, é legal, certo?
+
+171
+00:09:43,005 --> 00:09:44,833
+Espero que possa
+enganá-los.
+
+172
+00:09:44,834 --> 00:09:47,114
+Só precisamos enganar ele.
+Peter Tietjen.
+
+173
+00:09:47,115 --> 00:09:49,044
+Ele é o gerente do banco.
+
+174
+00:09:49,045 --> 00:09:50,783
+Já marquei um encontro
+com ele.
+
+175
+00:09:50,784 --> 00:09:53,353
+Coloquem a pintura a 1,5 m
+do computador dele
+
+176
+00:09:53,354 --> 00:09:55,518
+é a festa do <i>download</i>
+na ARGUS.
+
+177
+00:09:55,519 --> 00:09:59,001
+Estou falando de buffet grátis
+de todo nome, conta,
+
+178
+00:09:59,002 --> 00:10:01,381
+transação de negócios
+que o banco já conduziu.
+
+179
+00:10:02,488 --> 00:10:04,828
+Enquanto estão lá,
+podem me dar uma torradeira?
+
+180
+00:10:09,954 --> 00:10:12,922
+Sr. e sra. Andrews,
+obrigado por virem.
+
+181
+00:10:12,923 --> 00:10:15,414
+Posso ver sua carta
+de referência, por favor?
+
+182
+00:10:25,118 --> 00:10:27,642
+Essa é nossa carta
+de referência.
+
+183
+00:10:27,643 --> 00:10:29,742
+Precisamos de um lugar seguro
+para armazenar.
+
+184
+00:10:29,743 --> 00:10:31,836
+Ouvimos dizer que pode
+cuidar disso.
+
+185
+00:10:32,138 --> 00:10:34,028
+Discretamente, claro.
+
+186
+00:10:34,903 --> 00:10:36,372
+Claro.
+
+187
+00:10:36,373 --> 00:10:39,085
+Achará nossos termos
+mais do que razoáveis.
+
+188
+00:10:39,086 --> 00:10:40,711
+Isso! Me mostre o dinheiro!
+
+189
+00:10:42,592 --> 00:10:44,171
+Temos conexão.
+
+190
+00:10:44,172 --> 00:10:46,816
+Depois de assinar
+os formulários necessários,
+
+191
+00:10:46,817 --> 00:10:50,248
+exigimos uma aprovação
+do nosso avaliador interno.
+
+192
+00:10:50,249 --> 00:10:51,783
+Se me derem licença.
+
+193
+00:11:00,103 --> 00:11:02,923
+O tempo está correndo, Curtis.
+Como está aí?
+
+194
+00:11:02,924 --> 00:11:04,946
+Zurich, temos um problema.
+
+195
+00:11:04,947 --> 00:11:07,996
+Estou recebendo interferência
+e deixou a transferência lenta.
+
+196
+00:11:11,790 --> 00:11:14,863
+Esta é Sofie,
+nossa avaliadora.
+
+197
+00:11:18,440 --> 00:11:20,605
+Isso é mesmo necessário?
+
+198
+00:11:20,606 --> 00:11:24,245
+Temos de autenticar o item
+para fins de seguro.
+
+199
+00:11:24,246 --> 00:11:25,693
+Entende?
+
+200
+00:11:27,904 --> 00:11:31,511
+Sr. Tietjen, é uma herança
+de família inestimável.
+
+201
+00:11:31,512 --> 00:11:33,799
+Preciso discutir
+a segurança do seu cofre.
+
+202
+00:11:33,800 --> 00:11:38,259
+Certamente. Temos experiência
+com esse tipo de situação.
+
+203
+00:11:38,260 --> 00:11:41,041
+Vou desligar os comunicadores
+para ajudar. Segurem aí.
+
+204
+00:11:43,054 --> 00:11:44,591
+Sr. Tietjen...
+
+205
+00:11:50,327 --> 00:11:51,730
+Vamos lá.
+
+206
+00:11:53,172 --> 00:11:55,032
+Pronto. Vazem daí!
+
+207
+00:11:55,033 --> 00:11:58,470
+Isto é ultrajante.
+Vamos levar a outro lugar.
+
+208
+00:12:03,735 --> 00:12:06,436
+Missão cumprida.
+
+209
+00:12:09,582 --> 00:12:12,035
+Se é algo ilegal,
+eu não quero saber.
+
+210
+00:12:12,036 --> 00:12:15,086
+D, por que você
+sempre espera o pior?
+
+211
+00:12:15,087 --> 00:12:16,692
+Assim fica fácil,
+sr. Ramirez.
+
+212
+00:12:16,693 --> 00:12:18,175
+Certo, certo.
+
+213
+00:12:18,176 --> 00:12:20,507
+O que está
+acontecendo aqui?
+
+214
+00:12:20,508 --> 00:12:23,447
+Sabemos como pegar o Diaz,
+e precisamos da sua ajuda.
+
+215
+00:12:23,448 --> 00:12:24,978
+Achei que tivesse sido clara.
+
+216
+00:12:24,979 --> 00:12:27,275
+Mas descobri como criar
+uma armadilha no CCD.
+
+217
+00:12:27,276 --> 00:12:29,054
+- Como...
+- Grampeei seu escritório.
+
+218
+00:12:29,055 --> 00:12:30,578
+- Olha...
+- Eu sei, mas espere.
+
+219
+00:12:30,579 --> 00:12:33,325
+Estamos em um momento crítico,
+rastreei a Silenciadora.
+
+220
+00:12:33,326 --> 00:12:34,816
+Chamamos ela
+de Silenciadora?
+
+221
+00:12:34,817 --> 00:12:36,992
+- Melhor que "moça do cinto".
+- Certo.
+
+222
+00:12:36,993 --> 00:12:40,179
+Ela está verificando o estoque
+de glutationa hidratada.
+
+223
+00:12:40,180 --> 00:12:43,128
+Um biocomposto que protege
+as hemácias, contra doenças
+
+224
+00:12:43,129 --> 00:12:45,047
+como Ebola e febre de Lassa.
+
+225
+00:12:45,048 --> 00:12:48,296
+Sabe-se lá qual maluquice
+Diaz planejou com isso,
+
+226
+00:12:48,696 --> 00:12:50,639
+e ele só pode conseguir
+isso no CCD.
+
+227
+00:12:50,640 --> 00:12:53,992
+Sabe que o CCD
+é uma agência governamental?
+
+228
+00:12:53,993 --> 00:12:57,641
+- Têm protocolos rigorosos...
+- O lugar perfeito,
+
+229
+00:12:57,642 --> 00:12:59,538
+para a armadilha.
+O composto está
+
+230
+00:12:59,539 --> 00:13:01,243
+em um laboratório
+de biocontenção.
+
+231
+00:13:01,244 --> 00:13:03,563
+Diz entra lá,
+eu tranco as portas.
+
+232
+00:13:04,302 --> 00:13:06,742
+- Ele fica preso.
+- Como naquele filme de zumbis.
+
+233
+00:13:06,743 --> 00:13:08,207
+Ou qualquer filme de zumbis.
+
+234
+00:13:08,208 --> 00:13:10,027
+- Quando acontecerá?
+- Essa noite.
+
+235
+00:13:10,028 --> 00:13:11,957
+Chegou um carregamento
+de Central City.
+
+236
+00:13:11,958 --> 00:13:14,072
+Prepararei um time,
+se Diaz chegar lá,
+
+237
+00:13:14,073 --> 00:13:17,176
+- a polícia estará esperando.
+- Se Diaz sentir cheiro de tira,
+
+238
+00:13:17,177 --> 00:13:20,029
+- ele foge.
+- Quer fazer do jeito vigilante.
+
+239
+00:13:20,030 --> 00:13:22,338
+Então não deveria
+ter chamado ela.
+
+240
+00:13:22,339 --> 00:13:25,401
+Sem Canário,
+sem Cão Raivoso, só nós.
+
+241
+00:13:25,402 --> 00:13:28,362
+Não seria contra a lei
+se a Watson viesse conosco.
+
+242
+00:13:28,363 --> 00:13:31,283
+E ir contra uma ordem
+de ficar longe do CCD?
+
+243
+00:13:31,284 --> 00:13:33,409
+Seu chefe está errado
+e sabe disso.
+
+244
+00:13:33,410 --> 00:13:36,287
+Algo me diz que se pegar o Diaz,
+tudo seria perdoado.
+
+245
+00:13:36,288 --> 00:13:38,879
+- Grande suposição.
+- Diaz é uma praga na cidade
+
+246
+00:13:38,880 --> 00:13:41,432
+e em nossas vidas,
+por muito tempo.
+
+247
+00:13:41,433 --> 00:13:43,867
+E agora temos uma chance
+de derrotá-lo.
+
+248
+00:13:43,868 --> 00:13:45,342
+Temos que capturá-lo.
+
+249
+00:13:45,343 --> 00:13:47,109
+Passaram-se 5 meses.
+
+250
+00:13:47,110 --> 00:13:50,849
+A polícia não o pegou,
+nem o FBI, nem a ARGUS.
+
+251
+00:13:50,850 --> 00:13:53,195
+Está na hora
+de tentar outro jeito.
+
+252
+00:13:57,084 --> 00:13:58,765
+Certo.
+
+253
+00:13:58,766 --> 00:14:01,426
+Mas só dessa vez,
+entendeu?
+
+254
+00:14:01,427 --> 00:14:05,360
+Se eu sentir algo errado,
+pulo fora.
+
+255
+00:14:06,865 --> 00:14:08,265
+O que me diz, D?
+
+256
+00:14:10,836 --> 00:14:12,236
+Tudo bem.
+
+257
+00:14:12,237 --> 00:14:14,121
+Vamos capturar o dragão.
+
+258
+00:14:18,235 --> 00:14:20,603
+É como um filme
+de terror.
+
+259
+00:14:20,604 --> 00:14:23,061
+Tão silencioso
+que ouço meus batimentos.
+
+260
+00:14:24,578 --> 00:14:27,936
+Serei o primeiro a ser expulso,
+diferente de você.
+
+261
+00:14:30,479 --> 00:14:33,959
+Se quer realmente me acompanhar,
+fique quieto.
+
+262
+00:14:33,960 --> 00:14:37,273
+Certo.
+Ali está a 3-B.
+
+263
+00:14:59,219 --> 00:15:00,802
+Não é aqui!
+
+264
+00:15:01,760 --> 00:15:03,927
+Então o que faremos,
+só esperamos?
+
+265
+00:15:03,928 --> 00:15:05,742
+Será uma longa espera.
+
+266
+00:15:08,118 --> 00:15:10,735
+- Onde está o Demônio?
+- Que eu saiba, no inferno.
+
+267
+00:15:12,058 --> 00:15:14,823
+Achou realmente que Brick
+ajudaria você?
+
+268
+00:15:14,824 --> 00:15:17,423
+Brick conseguiu o que queria,
+e agora...
+
+269
+00:15:18,848 --> 00:15:20,680
+Ele quer você morto.
+
+270
+00:15:51,798 --> 00:15:55,652
+Não vai a lugar algum
+antes de eu ter respostas.
+
+271
+00:16:01,742 --> 00:16:01,742
+**
+
+272
+00:16:05,976 --> 00:16:07,376
+Nós tínhamos um acordo!
+
+273
+00:16:07,377 --> 00:16:10,467
+Que deixou de existir,
+agora que Brick conseguiu.
+
+274
+00:16:10,468 --> 00:16:13,598
+Com Yorke longe, temos liberdade
+para nos divertirmos.
+
+275
+00:16:13,599 --> 00:16:16,465
+Inclusive está acontecendo algo
+agora mesmo no refeitório,
+
+276
+00:16:16,466 --> 00:16:18,600
+tudo graças a você.
+
+277
+00:16:18,601 --> 00:16:21,599
+Primeira regra da prisão:
+não confie em ninguém.
+
+278
+00:16:22,264 --> 00:16:23,911
+Ele está certo.
+
+279
+00:16:23,912 --> 00:16:26,802
+Como ele conseguiu descobrir
+isso antes de você?
+
+280
+00:16:27,111 --> 00:16:29,722
+Então Brick estava mentindo,
+o Demônio não existe.
+
+281
+00:16:29,723 --> 00:16:33,119
+Existe, mas não se convoca
+o Demônio,
+
+282
+00:16:33,120 --> 00:16:36,182
+- o Demônio convoca você.
+- Acho que vou arriscar.
+
+283
+00:16:36,183 --> 00:16:38,379
+Você não está entendendo.
+
+284
+00:16:39,058 --> 00:16:42,537
+A única forma de chegar
+ao Demônio é através do Brick.
+
+285
+00:16:42,538 --> 00:16:44,907
+Há um sistema.
+
+286
+00:16:45,254 --> 00:16:47,225
+É assim que aqui funciona.
+
+287
+00:16:47,226 --> 00:16:48,626
+Bem...
+
+288
+00:16:49,472 --> 00:16:52,432
+Parece que vou ter que forçar
+o Brick a cumprir o acordo.
+
+289
+00:16:53,112 --> 00:16:54,774
+Boa sorte.
+
+290
+00:16:54,775 --> 00:16:57,502
+A festa é apenas
+para convidados.
+
+291
+00:16:57,503 --> 00:16:59,521
+E você não está na lista.
+
+292
+00:17:04,111 --> 00:17:05,920
+Mas acho que você está.
+
+293
+00:17:09,647 --> 00:17:11,366
+CCD - CENTRO DE CONTROLE
+DE DOENÇAS
+
+294
+00:17:13,512 --> 00:17:16,234
+Boa Noite.
+Samandra Watson, FBI.
+
+295
+00:17:16,235 --> 00:17:18,349
+Vim buscar alguns relatórios
+de segurança.
+
+296
+00:17:18,350 --> 00:17:21,924
+- Está meio tarde.
+- Dia longo, sabe como é.
+
+297
+00:17:21,925 --> 00:17:23,616
+Porta da direita,
+podem entrar.
+
+298
+00:17:30,515 --> 00:17:33,514
+O laboratório de biocontenção
+deve ser... aqui.
+
+299
+00:17:34,479 --> 00:17:37,460
+Tudo o que temos que fazer
+é prendê-lo aí dentro?
+
+300
+00:17:37,461 --> 00:17:39,980
+- É a ideia.
+- Há uma sala no corredor.
+
+301
+00:17:39,981 --> 00:17:42,494
+- Nós vamos lá.
+- Câmera está em repetição.
+
+302
+00:17:42,495 --> 00:17:45,603
+- Diaz achará que está vazio.
+- Cobriremos as saídas.
+
+303
+00:17:50,431 --> 00:17:51,900
+Bela aparelhagem.
+
+304
+00:17:51,901 --> 00:17:54,605
+O CCD leva a sua segurança
+mais a sério do que o FBI.
+
+305
+00:17:54,606 --> 00:17:56,549
+- Sem ofensa.
+- Não me ofendi.
+
+306
+00:17:56,550 --> 00:17:59,448
+Nunca pensou em trabalhar
+com cibersegurança, legalmente?
+
+307
+00:17:59,449 --> 00:18:01,870
+Não tenho feito algo legalmente
+há muito tempo.
+
+308
+00:18:02,274 --> 00:18:04,967
+O que te assustou?
+Os processos legais?
+
+309
+00:18:04,968 --> 00:18:06,921
+Está falando dessa pilha
+de burocracia?
+
+310
+00:18:06,922 --> 00:18:09,447
+Prefiro usar meu tempo
+para pegar criminosos.
+
+311
+00:18:09,448 --> 00:18:12,227
+- A lei não é perfeita.
+- Se fosse, Diaz estaria preso,
+
+312
+00:18:12,228 --> 00:18:15,098
+William estaria em casa, eu não
+pularia ao ouvir barulhos
+
+313
+00:18:15,099 --> 00:18:17,354
+- mas cá estamos.
+- Só porque o sistema é ruim
+
+314
+00:18:17,355 --> 00:18:20,186
+não significa que não devia
+existir. Até alguém como Diaz
+
+315
+00:18:20,187 --> 00:18:22,105
+precisa de advogado,
+julgamento justo.
+
+316
+00:18:22,487 --> 00:18:24,346
+Protegemos direitos
+de quem não merece
+
+317
+00:18:24,347 --> 00:18:26,279
+porque é o único jeito
+de protegê-los.
+
+318
+00:18:26,280 --> 00:18:28,965
+Mesmo assim aqui está você
+indo contra as regras.
+
+319
+00:18:28,966 --> 00:18:31,208
+Bem, é como disse antes:
+
+320
+00:18:31,209 --> 00:18:34,184
+Contanto que algeme um criminoso
+tudo se perdoa, não é?
+
+321
+00:18:34,785 --> 00:18:37,244
+Então buscamos justiça
+do jeito antiquado.
+
+322
+00:18:37,753 --> 00:18:40,383
+- No tribunal.
+- Esperemos que sim.
+
+323
+00:18:43,387 --> 00:18:44,844
+Ei, Lyla está aqui?
+
+324
+00:18:44,845 --> 00:18:46,669
+Não. Ela saiu.
+O que foi?
+
+325
+00:18:46,670 --> 00:18:49,434
+Nada. Certo, uma coisa.
+
+326
+00:18:49,435 --> 00:18:51,592
+Bem, não algo
+necessariamente,
+
+327
+00:18:51,593 --> 00:18:53,069
+mas propriamente...
+
+328
+00:18:54,083 --> 00:18:55,718
+Chocolate suíço?
+
+329
+00:18:55,719 --> 00:18:57,572
+Chocolate com amêndoas.
+Nada melhor...
+
+330
+00:18:57,573 --> 00:18:59,772
+- Curtis.
+- Está bem.
+
+331
+00:18:59,773 --> 00:19:01,934
+Lembra da interferência
+durante o <i>download</i>?
+
+332
+00:19:01,935 --> 00:19:04,765
+Não diga que perdeu dados.
+Vice-diretor ficará puto.
+
+333
+00:19:04,766 --> 00:19:06,623
+Não. O oposto.
+
+334
+00:19:07,371 --> 00:19:10,613
+Acho que alguém duplicou
+o arquivo enquanto baixávamos.
+
+335
+00:19:10,614 --> 00:19:12,281
+Impossível.
+
+336
+00:19:12,282 --> 00:19:15,229
+Só eu, você e Lyla
+sabíamos da operação.
+
+337
+00:19:15,230 --> 00:19:17,320
+Sim, e pela sua cara
+não foi você.
+
+338
+00:19:17,321 --> 00:19:21,573
+Obviamente não fui eu.
+Então isso quer dizer...
+
+339
+00:19:23,349 --> 00:19:25,337
+Por que Lyla faria
+uma cópia dos dados?
+
+340
+00:19:25,338 --> 00:19:28,211
+Talvez não seja
+tão ruim quanto parece.
+
+341
+00:19:28,918 --> 00:19:30,632
+Por que ela esconderia
+isso de mim?
+
+342
+00:19:30,633 --> 00:19:33,907
+Ás vezes segredos são bons.
+Mantém a especiaria viva.
+
+343
+00:19:33,908 --> 00:19:36,459
+Na verdade, não me cite.
+Sou divorciado.
+
+344
+00:19:36,460 --> 00:19:37,863
+O que você vai fazer?
+
+345
+00:19:37,864 --> 00:19:40,516
+Descobrir porque minha mulher
+está mentindo para mim.
+
+346
+00:19:47,342 --> 00:19:49,237
+Onde acha que deixam
+os ratos mortos?
+
+347
+00:19:49,238 --> 00:19:50,973
+Tão desumano.
+
+348
+00:19:54,319 --> 00:19:57,258
+Estou vendo Diaz
+e mais dois com eles.
+
+349
+00:19:58,459 --> 00:20:00,617
+Alguma chance de terem deixado
+a terceira?
+
+350
+00:20:00,618 --> 00:20:03,925
+Duvidoso. A Silenciadora
+não perderia isso.
+
+351
+00:20:07,976 --> 00:20:09,500
+Chegaram no laboratório.
+
+352
+00:20:14,235 --> 00:20:15,840
+Espere. Eles entraram direto.
+
+353
+00:20:15,841 --> 00:20:17,383
+Sem cartão nem nada.
+
+354
+00:20:17,887 --> 00:20:20,413
+- Não faz sentindo.
+- E daí? Só tranque as portas.
+
+355
+00:20:22,005 --> 00:20:24,308
+Droga, droga.
+
+356
+00:20:24,309 --> 00:20:26,645
+- <i>Faça barulhos melhores.</i>
+- Quem abriu a porta
+
+357
+00:20:26,646 --> 00:20:29,351
+bloqueou meu acesso.
+Com uma perturbação sonora.
+
+358
+00:20:29,352 --> 00:20:31,775
+- <i>Comunicador funciona.</i>
+- Vou salvar os detalhes
+
+359
+00:20:31,776 --> 00:20:34,717
+de ciberataques acústicos
+para depois da missão.
+
+360
+00:20:35,380 --> 00:20:38,569
+A Silenciadora. Deve ter trago
+um brinquedo novo.
+
+361
+00:20:38,941 --> 00:20:40,402
+Consegue desligar?
+
+362
+00:20:40,403 --> 00:20:42,544
+Não consigo invadir,
+mas consigo rastrear.
+
+363
+00:20:43,122 --> 00:20:45,945
+Está no corredor nordeste,
+em direção a sala de mecânica.
+
+364
+00:20:46,536 --> 00:20:50,091
+Estou a caminho. Quando chegar,
+será puro silêncio,
+
+365
+00:20:50,092 --> 00:20:51,532
+literalmente.
+
+366
+00:20:56,697 --> 00:20:59,519
+O que meus dardos poderiam fazer
+com tudo isso.
+
+367
+00:20:59,520 --> 00:21:01,937
+É, se não te matar primeiro.
+
+368
+00:21:06,128 --> 00:21:08,063
+Achei.
+
+369
+00:21:14,446 --> 00:21:16,567
+Diaz pegou.
+Temos que nos apressar.
+
+370
+00:21:16,568 --> 00:21:18,634
+- Plano B.
+- Não.
+
+371
+00:21:18,635 --> 00:21:20,942
+Negativo. Controle manual
+está no porão.
+
+372
+00:21:20,943 --> 00:21:22,592
+Sem fechaduras,
+sem entrada.
+
+373
+00:21:22,593 --> 00:21:24,422
+- Diaz não vai escapar.
+- Está louca?
+
+374
+00:21:24,423 --> 00:21:27,022
+- Não pode derrotá-los.
+- Não preciso.
+
+375
+00:21:27,377 --> 00:21:30,243
+Só preciso mantê-los lá
+até trancar as portas.
+
+376
+00:21:33,323 --> 00:21:35,101
+Estou na sala de mecânica.
+
+377
+00:21:58,449 --> 00:22:01,264
+<i>Pessoal, lembrando:
+está cheio de coisas aí,</i>
+
+378
+00:22:01,265 --> 00:22:04,604
+<i>não reajam bem a tiros.</i>
+Uma bala direta e explode tudo.
+
+379
+00:22:09,298 --> 00:22:10,754
+FBI.
+
+380
+00:22:10,755 --> 00:22:12,331
+Pare aí mesmo.
+
+381
+00:22:12,332 --> 00:22:14,023
+Agente Watson,
+
+382
+00:22:14,514 --> 00:22:17,402
+vejo que se reuniu
+com velhos amigos.
+
+383
+00:22:17,403 --> 00:22:19,233
+FIque longe
+do refrigerador, Diaz,
+
+384
+00:22:19,234 --> 00:22:21,892
+e coloque as mãos ao alto,
+devagar.
+
+385
+00:22:21,893 --> 00:22:23,606
+Pode por favor cuidar disso?
+
+386
+00:23:23,349 --> 00:23:25,045
+Hora da diversão acabou.
+
+387
+00:23:36,102 --> 00:23:37,570
+Vamos!
+
+388
+00:23:40,767 --> 00:23:43,247
+A Silenciadora ainda está
+na sala de mecânica.
+
+389
+00:23:43,248 --> 00:23:45,548
+Eu pego Diaz.
+Você ajuda a Dinah.
+
+390
+00:24:02,036 --> 00:24:03,780
+Isso vai ser divertido.
+
+391
+00:24:11,452 --> 00:24:14,443
+- D!
+- Estou bem. Vá pegá-la!
+
+392
+00:24:18,005 --> 00:24:19,490
+Diaz escapou.
+
+393
+00:24:23,385 --> 00:24:26,197
+- Rene, consegue me ouvir?
+- <i>Sim, consigo.</i>
+
+394
+00:24:26,198 --> 00:24:29,165
+Ela é nossa única pista.
+Não podemos deixá-la escapar.
+
+395
+00:24:34,110 --> 00:24:35,990
+A Silenciadora escapou.
+
+396
+00:24:46,588 --> 00:24:48,545
+Numa escala de 1
+para desemprego,
+
+397
+00:24:48,546 --> 00:24:52,563
+- quanto ela se ferrou?
+- Ela nem deveria estar aqui,
+
+398
+00:24:52,564 --> 00:24:57,024
+Diaz escapou com o composto
+e não sabemos como ele vai usar.
+
+399
+00:24:57,873 --> 00:24:59,406
+Então muito?
+
+400
+00:25:03,850 --> 00:25:05,807
+Rene com certeza
+saiu daqui com pressa.
+
+401
+00:25:05,808 --> 00:25:07,874
+Culpa ele? Ele e o FBI
+
+402
+00:25:07,875 --> 00:25:11,169
+não tem uma amizade colorida.
+
+403
+00:25:12,808 --> 00:25:15,375
+- Quão ruim é?
+- Quanto você acha?
+
+404
+00:25:15,823 --> 00:25:17,952
+A Silenciadora estava bem ali.
+
+405
+00:25:17,953 --> 00:25:20,052
+Não sei como ele
+a deixou escapar.
+
+406
+00:25:20,053 --> 00:25:22,332
+Rene deve ter a perdido
+por segundos.
+
+407
+00:25:22,764 --> 00:25:26,789
+Tenho que ir. Meu chefe
+está me esperando no escritório.
+
+408
+00:25:28,259 --> 00:25:29,725
+Agente Watson...
+
+409
+00:25:31,911 --> 00:25:33,571
+Obrigada por tentar.
+
+410
+00:25:45,501 --> 00:25:48,487
+Brick ficará mais bravo ainda.
+Ele acha que você está morto.
+
+411
+00:25:48,488 --> 00:25:51,926
+Bem, ele terá uma surpresa.
+Vamos lá.
+
+412
+00:25:53,016 --> 00:25:54,757
+No que estamos
+nos metendo?
+
+413
+00:25:55,385 --> 00:25:57,686
+Brick provavelmente
+terá prisioneiros plantados
+
+414
+00:25:57,687 --> 00:25:59,143
+do lado de fora
+do refeitório.
+
+415
+00:25:59,144 --> 00:26:03,466
+Você fala com eles.
+Se disser uma palavra errada...
+
+416
+00:26:03,467 --> 00:26:05,981
+Minha artéria já era,
+eu entendi.
+
+417
+00:26:06,566 --> 00:26:08,722
+Sabe, é bom saber
+que esfaquearia a si mesmo
+
+418
+00:26:08,723 --> 00:26:11,026
+para salvar
+um guarda durão
+
+419
+00:26:11,707 --> 00:26:13,856
+e me esfaquearia
+sem pensar duas vezes.
+
+420
+00:26:13,857 --> 00:26:16,565
+Bem, você armou
+para mim.
+
+421
+00:26:17,434 --> 00:26:19,681
+Acha que eu tive escolha?
+
+422
+00:26:19,682 --> 00:26:22,948
+Brick manda.
+Se não tentasse te matar,
+
+423
+00:26:22,949 --> 00:26:24,621
+Brick me mataria.
+
+424
+00:26:25,219 --> 00:26:27,684
+Todo homem aqui
+precisa se defender sozinho.
+
+425
+00:26:27,685 --> 00:26:29,191
+Incluindo você.
+
+426
+00:26:29,192 --> 00:26:31,927
+Tudo que faço
+é pela minha família.
+
+427
+00:26:32,740 --> 00:26:34,958
+Você faz por si mesmo.
+
+428
+00:26:39,153 --> 00:26:42,113
+Acha que me conhece
+tão bem.
+
+429
+00:26:42,501 --> 00:26:44,418
+Não sabe nada sobre mim.
+
+430
+00:26:44,419 --> 00:26:47,815
+Sei que fez um acordo
+com China White para me matar.
+
+431
+00:26:48,282 --> 00:26:52,962
+E que ajudou a roubar uma arma
+que explodiu metade do Glades.
+
+432
+00:26:52,963 --> 00:26:56,145
+E Markovia em 2014?
+
+433
+00:26:56,146 --> 00:26:58,813
+Um terrorista conhecido
+chamado Gholem Qadir.
+
+434
+00:26:58,814 --> 00:27:01,738
+Ou esqueceu que fiz parte
+da missão que o derrotou?
+
+435
+00:27:01,739 --> 00:27:05,010
+ARGUS colocou
+um explosivo na sua nuca.
+
+436
+00:27:05,011 --> 00:27:07,559
+- Não teve escolha.
+- Mas tive escolha de salvar
+
+437
+00:27:07,560 --> 00:27:09,443
+a vida da seu amiga.
+
+438
+00:27:09,818 --> 00:27:12,223
+Sim. Eu e Lyla
+estávamos sozinhos
+
+439
+00:27:12,224 --> 00:27:14,418
+quando Qadir tentou cortar
+a garganta dela,
+
+440
+00:27:14,419 --> 00:27:17,418
+e enfiei minha lâmina
+direto nas costas dele.
+
+441
+00:27:17,889 --> 00:27:20,865
+John nunca me disse
+que foi você que a salvou.
+
+442
+00:27:20,866 --> 00:27:22,562
+Pois é, e porque ele diria?
+
+443
+00:27:22,563 --> 00:27:25,289
+Você e sua equipe
+só me viam como uma coisa...
+
+444
+00:27:25,290 --> 00:27:27,002
+o inimigo.
+
+445
+00:27:27,535 --> 00:27:30,996
+Mas agora olhe para nós,
+ambos na prisão.
+
+446
+00:27:32,012 --> 00:27:34,739
+Então acho que não somos
+tão diferentes.
+
+447
+00:27:57,467 --> 00:27:59,755
+- Me seguiu.
+- Não teria seguido
+
+448
+00:27:59,756 --> 00:28:02,220
+se tivesse me contado
+porque fomos à Zurich, Lyla.
+
+449
+00:28:03,499 --> 00:28:06,240
+- Não é o que parece.
+- Sério? Que bom.
+
+450
+00:28:06,241 --> 00:28:10,042
+Porque parece que deu
+informação para um criminoso.
+
+451
+00:28:10,043 --> 00:28:13,032
+- Podia ter mais fé em mim.
+- Eu tinha, até agora.
+
+452
+00:28:13,775 --> 00:28:15,208
+Lyla, só...
+
+453
+00:28:16,352 --> 00:28:17,956
+Me diga
+o que está acontecendo.
+
+454
+00:28:19,348 --> 00:28:20,842
+A verdade.
+
+455
+00:28:23,156 --> 00:28:24,934
+Ouvi falar sobre algo...
+
+456
+00:28:25,548 --> 00:28:27,751
+Dinheiro indo e voltando...
+
+457
+00:28:28,244 --> 00:28:30,542
+É maior que tudo
+que já enfrentamos.
+
+458
+00:28:30,543 --> 00:28:33,178
+Cheguei até a prisão
+mas fui presa pelos superiores.
+
+459
+00:28:33,179 --> 00:28:36,048
+- Sem evidências.
+- E foi sem dizer a ARGUS?
+
+460
+00:28:36,049 --> 00:28:39,661
+Não devia me julgar já
+que fez justiça pelas sombras.
+
+461
+00:28:39,662 --> 00:28:42,126
+Não é isso que estou dizendo.
+Me ouça.
+
+462
+00:28:42,969 --> 00:28:46,310
+Só não consigo acreditar
+que escondeu isso de mim.
+
+463
+00:28:46,311 --> 00:28:50,440
+Depois de tudo, concordamos
+que não haveria mais segredos.
+
+464
+00:28:52,065 --> 00:28:54,103
+Estava tentando
+te proteger.
+
+465
+00:28:54,104 --> 00:28:56,061
+Não estava
+guardando segredos.
+
+466
+00:28:56,394 --> 00:28:58,775
+Não queria pegar
+o manto do Oliver,
+
+467
+00:28:59,108 --> 00:29:00,820
+e eu respeito isso,
+
+468
+00:29:00,821 --> 00:29:04,055
+mas ser diretora da ARGUS
+me mostrou que há mais mal
+
+469
+00:29:04,056 --> 00:29:06,658
+no mundo do que pessoas
+tentando combatê-lo.
+
+470
+00:29:06,659 --> 00:29:09,404
+E não posso mais sentar
+e assistir.
+
+471
+00:29:09,405 --> 00:29:12,092
+Johnny, às vezes precisa
+passar dos limites
+
+472
+00:29:12,093 --> 00:29:13,552
+para o bem maior.
+
+473
+00:29:15,130 --> 00:29:17,409
+Espero que entenda isso.
+
+474
+00:29:27,796 --> 00:29:30,176
+Dois prisioneiros
+na porta do refeitório,
+
+475
+00:29:30,177 --> 00:29:31,739
+como Turner disse.
+
+476
+00:29:33,519 --> 00:29:34,995
+Sua vez.
+
+477
+00:29:34,996 --> 00:29:38,759
+Me ponha lá, ou...
+
+478
+00:29:50,265 --> 00:29:51,785
+Saiam daí, amigões...
+
+479
+00:29:51,786 --> 00:29:53,926
+O Arqueiro Verde
+se juntará ao nosso jogo.
+
+480
+00:29:53,927 --> 00:29:57,168
+Está brincando?
+Não pode deixar o Queen entrar.
+
+481
+00:29:57,169 --> 00:30:00,703
+É melhor deixar.
+Ele é VIP.
+
+482
+00:30:00,704 --> 00:30:03,570
+Os ricaços ficarão felizes
+em vê-lo.
+
+483
+00:30:07,314 --> 00:30:09,193
+Vai entrar ali comigo.
+
+484
+00:30:10,055 --> 00:30:13,403
+Ótimo. Odiaria perder
+a diversão
+
+485
+00:30:26,813 --> 00:30:28,282
+Isso!
+
+486
+00:30:34,078 --> 00:30:36,683
+Cavalheiros, cavalheiros,
+
+487
+00:30:36,684 --> 00:30:40,551
+Parece que teremos um tratamento
+inesperado para vocês hoje.
+
+488
+00:30:40,552 --> 00:30:43,197
+Uma luta épica
+que verão só uma vez na vida:
+
+489
+00:30:43,198 --> 00:30:47,972
+Nosso campeão, Sampson,
+contra o Arqueiro Verde!
+
+490
+00:30:57,363 --> 00:30:59,649
+Queria ter ficado lá fora.
+
+491
+00:31:02,312 --> 00:31:05,369
+Não. Não tenho tempo
+para isso.
+
+492
+00:31:08,076 --> 00:31:09,820
+Aonde vai, Arqueiro?
+
+493
+00:31:16,261 --> 00:31:18,340
+Você é bem mais durão
+do que ele.
+
+494
+00:31:18,341 --> 00:31:21,104
+O que me diz?
+Hora de uma revanche?
+
+495
+00:31:21,105 --> 00:31:23,033
+Da última vez
+não acabou bem para você.
+
+496
+00:31:23,034 --> 00:31:25,858
+Dessa vez, vou matá-lo.
+
+497
+00:31:25,859 --> 00:31:29,171
+Cavalheiros,
+façam suas apostas.
+
+498
+00:31:29,172 --> 00:31:31,004
+Vai ser um grande dia
+de pagamento.
+
+499
+00:31:31,005 --> 00:31:32,453
+- Isso!
+- É!
+
+500
+00:31:39,497 --> 00:31:41,462
+Isso aí, Sampson.
+Acabe com ele.
+
+501
+00:31:53,642 --> 00:31:55,258
+Você consegue, Oliver!
+
+502
+00:31:56,230 --> 00:31:57,662
+Isso!
+
+503
+00:32:23,118 --> 00:32:25,354
+- Renda-se!
+- Nunca!
+
+504
+00:32:29,879 --> 00:32:31,384
+Isso foi incrível!
+
+505
+00:32:31,385 --> 00:32:33,065
+Que espetáculo.
+
+506
+00:32:33,066 --> 00:32:35,330
+Segredinho, Queen...
+
+507
+00:32:35,972 --> 00:32:37,887
+Apostei em você.
+
+508
+00:32:38,687 --> 00:32:40,424
+É um homem difícil de matar.
+
+509
+00:32:47,897 --> 00:32:49,297
+Renda-se!
+
+510
+00:32:57,623 --> 00:32:59,289
+Chega de joguinhos.
+
+511
+00:32:59,911 --> 00:33:02,180
+Diga-me onde posso achar
+o Demônio.
+
+512
+00:33:03,676 --> 00:33:05,076
+Brick...
+
+513
+00:33:05,520 --> 00:33:07,642
+Não me faça perguntar
+de novo.
+
+514
+00:33:10,280 --> 00:33:12,657
+Fiz você deitar e rolar,
+buscar o osso para mim,
+
+515
+00:33:12,658 --> 00:33:14,916
+como o cachorro
+da minha avó.
+
+516
+00:33:15,226 --> 00:33:16,972
+E sabe a melhor parte?
+
+517
+00:33:17,959 --> 00:33:19,918
+Nunca chegará ao Demônio.
+
+518
+00:33:20,715 --> 00:33:22,889
+Porque está no nível errado.
+
+519
+00:33:23,322 --> 00:33:27,281
+O Demônio está no nível 2,
+no pior dos piores.
+
+520
+00:33:27,282 --> 00:33:29,845
+E lá não é o seu lugar agora.
+
+521
+00:33:30,951 --> 00:33:32,956
+Não é, Arqueiro?
+
+522
+00:34:29,705 --> 00:34:33,775
+Oliver, tem um plano, certo?
+
+523
+00:34:33,776 --> 00:34:35,833
+Pare de se preocupar comigo.
+
+524
+00:34:37,409 --> 00:34:39,270
+Apenas tente ficar
+de cabeça baixa.
+
+525
+00:34:40,062 --> 00:34:43,033
+Talvez o nível 2
+não seja tão ruim quanto dizem.
+
+526
+00:34:43,034 --> 00:34:45,605
+Portanto que me dê
+o que quero, não ligo.
+
+527
+00:34:48,449 --> 00:34:51,005
+Você nunca poderá continuar
+sendo um herói,
+
+528
+00:34:53,821 --> 00:34:55,625
+não nesse lugar.
+
+529
+00:35:04,980 --> 00:35:06,498
+Obrigada por vir.
+
+530
+00:35:06,891 --> 00:35:09,716
+Acho que não me chamou
+para dizer que foi promovida.
+
+531
+00:35:09,717 --> 00:35:11,411
+Fui transferida.
+
+532
+00:35:11,412 --> 00:35:13,539
+Trabalho de jóquei
+em D.C.
+
+533
+00:35:13,540 --> 00:35:15,581
+Então acho que serve
+para te deixar longe
+
+534
+00:35:15,582 --> 00:35:18,563
+- da investigação do Diaz.
+- Essa é a ideia.
+
+535
+00:35:20,051 --> 00:35:22,339
+- Não espere um "desculpa"...
+- Não espero.
+
+536
+00:35:22,794 --> 00:35:26,091
+Sabia que perderia meu trabalho
+ao trabalhar com sua equipe.
+
+537
+00:35:28,100 --> 00:35:30,852
+Acredito que boa aplicação
+da lei se faz para o mau,
+
+538
+00:35:30,853 --> 00:35:34,602
+e sempre acreditarei. Mas passar
+dos limites para pegar Diaz?
+
+539
+00:35:34,603 --> 00:35:36,327
+Essa era a coisa certa
+a se fazer.
+
+540
+00:35:42,649 --> 00:35:44,924
+Não merece viver
+sem sua família.
+
+541
+00:35:45,232 --> 00:35:47,428
+Você é uma boa pessoa,
+Felicity.
+
+542
+00:35:50,744 --> 00:35:53,561
+Nunca pensei
+que fosse dizer isso,
+
+543
+00:35:53,562 --> 00:35:56,396
+mas sinto muito
+por ter que ir, agente Watson.
+
+544
+00:35:57,032 --> 00:35:59,250
+Sinto muito que Diaz
+e sua equipe escaparam.
+
+545
+00:35:59,251 --> 00:36:00,902
+As coisas teriam
+sido diferente
+
+546
+00:36:00,903 --> 00:36:02,717
+se conseguíssemos algo
+daquele puto.
+
+547
+00:36:02,718 --> 00:36:04,416
+Eu sei, eu sei.
+Concordo.
+
+548
+00:36:05,959 --> 00:36:07,789
+Voltar à estaca zero
+é uma droga.
+
+549
+00:36:13,763 --> 00:36:15,247
+Está pronta?
+
+550
+00:36:15,248 --> 00:36:18,609
+Para voltar para o JJ
+e sair desse hotel? Sim.
+
+551
+00:36:18,610 --> 00:36:20,927
+- Podemos conversar?
+- Conversar ou ter sermão?
+
+552
+00:36:20,928 --> 00:36:22,553
+Lyla, sinto muito.
+
+553
+00:36:23,255 --> 00:36:24,876
+Eu estava errado.
+
+554
+00:36:28,962 --> 00:36:32,105
+Devia ter de dado uma chance
+de se explicar
+
+555
+00:36:32,106 --> 00:36:34,972
+antes de te acusar
+de ser algo que não é.
+
+556
+00:36:34,973 --> 00:36:37,265
+Sei que as coisas
+tem sido difíceis para você,
+
+557
+00:36:37,266 --> 00:36:40,631
+sem o Oliver,
+mas precisa confiar em mim.
+
+558
+00:36:40,632 --> 00:36:42,221
+Eu confio em você.
+
+559
+00:36:42,222 --> 00:36:44,161
+Mas Lyla, tudo isso,
+
+560
+00:36:45,281 --> 00:36:47,006
+é tão perigoso.
+
+561
+00:36:48,223 --> 00:36:50,415
+- Que penso no JJ.
+- Eu também.
+
+562
+00:36:50,874 --> 00:36:53,312
+Por isso não posso
+dar as costas a isso.
+
+563
+00:36:55,807 --> 00:36:57,406
+Está certa.
+
+564
+00:36:59,293 --> 00:37:01,660
+Ás vezes precisa passar
+dos limites.
+
+565
+00:37:02,389 --> 00:37:04,130
+Só prometa-me,
+
+566
+00:37:04,878 --> 00:37:07,306
+da próxima vez
+que algo assim acontecer,
+
+567
+00:37:10,103 --> 00:37:11,639
+deixe-me ajudar.
+
+568
+00:37:14,736 --> 00:37:16,269
+Eu prometo.
+
+569
+00:37:25,667 --> 00:37:28,240
+- Isso foi uma má ideia.
+- Não tínhamos escolha.
+
+570
+00:37:28,711 --> 00:37:31,364
+Ouça, não sou um fã
+da agente Watson,
+
+571
+00:37:31,365 --> 00:37:33,938
+- mas foi culpa nossa.
+- Ela fez o que quis.
+
+572
+00:37:33,939 --> 00:37:37,165
+Estamos sentados e esperando
+para a lei pegar Diaz há meses.
+
+573
+00:37:37,166 --> 00:37:39,919
+- Cansei de esperar.
+- Eu entendo, mas...
+
+574
+00:37:39,920 --> 00:37:41,682
+Não é isso que fazemos?
+
+575
+00:37:41,683 --> 00:37:43,368
+Intervir quando o sistema falha?
+
+576
+00:37:43,369 --> 00:37:45,463
+Isso não é coisa de vigilante?
+
+577
+00:37:45,464 --> 00:37:47,533
+Ás vezes precisa passar
+dos limites nisso.
+
+578
+00:37:47,534 --> 00:37:50,030
+Ouça, ninguém acredita nisso
+mais do que eu.
+
+579
+00:37:50,031 --> 00:37:52,496
+Só não sei se é isso.
+
+580
+00:38:12,170 --> 00:38:13,582
+Pegaram a Honor.
+
+581
+00:38:13,583 --> 00:38:16,506
+Ela é uma grande garota.
+Consegue cuidar de si mesma.
+
+582
+00:38:18,348 --> 00:38:20,931
+Desde que caí
+daquele telhado...
+
+583
+00:38:23,982 --> 00:38:26,007
+Tudo que senti foi dor...
+
+584
+00:38:29,569 --> 00:38:31,698
+A dor de traição,
+
+585
+00:38:31,699 --> 00:38:33,964
+a dor de ter...
+
+586
+00:38:34,616 --> 00:38:37,511
+cada osso no meu corpo
+despedaçado...
+
+587
+00:38:39,438 --> 00:38:41,189
+Quando caí na água.
+
+588
+00:38:43,611 --> 00:38:45,427
+Mas não entrei
+em pânico.
+
+589
+00:38:47,333 --> 00:38:49,387
+Fui paciente.
+
+590
+00:38:54,508 --> 00:38:56,340
+E essa paciência,
+
+591
+00:38:57,450 --> 00:39:01,833
+me ajudou a achar um jeito
+de transformar essa dor...
+
+592
+00:39:03,364 --> 00:39:05,411
+em outra coisa.
+
+593
+00:39:34,204 --> 00:39:36,229
+Força.
+
+594
+00:39:50,223 --> 00:39:52,424
+Vamos, 4587.
+
+595
+00:39:52,425 --> 00:39:54,315
+Você vai lá para baixo.
+
+596
+00:40:18,975 --> 00:40:20,851
+Divirta-se lá.
+
+597
+00:40:20,852 --> 00:40:23,888
+Ouvi que a única saída
+do nível 2 é o necrotério.
+
+598
+00:40:29,197 --> 00:40:33,596
+<b>ArchersBR.com</b>
+
