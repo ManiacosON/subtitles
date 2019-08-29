@@ -1,0 +1,3899 @@
+1
+00:00:00,998 --> 00:00:03,546
+<i>Falha de segurança,
+invasores na usina.</i>
+
+2
+00:00:03,548 --> 00:00:05,890
+<i>Alarmes ligados.
+Câmeras offline no portão,</i>
+
+3
+00:00:05,892 --> 00:00:08,397
+<i>-piscinas 2 e 3.
+-Incêndio na sala de força.</i>
+
+4
+00:00:08,399 --> 00:00:10,138
+<i>Sem energia,
+o reator derrete.</i>
+
+5
+00:00:10,140 --> 00:00:12,210
+<i>O gerador ativará
+antes de acontecer.</i>
+
+6
+00:00:12,451 --> 00:00:13,751
+Onde está o reforço?
+
+7
+00:00:13,752 --> 00:00:16,752
+FBI, ERR e a SWAT
+chegam em 10 minutos.
+
+8
+00:00:16,754 --> 00:00:19,153
+Não acho que temos
+10 minutos, Todd.
+
+9
+00:00:22,401 --> 00:00:24,001
+<i>Já estão na porta.</i>
+
+10
+00:00:25,196 --> 00:00:26,496
+Invasão na piscina 2.
+
+11
+00:00:26,497 --> 00:00:28,496
+<i>-Taxa de reatividade?
+-Já está crítica?</i>
+
+12
+00:00:28,497 --> 00:00:29,834
+Água vazando rápido.
+
+13
+00:00:29,835 --> 00:00:31,933
+Se perdermos a água,
+adeus Nova Iorque.
+
+14
+00:00:31,934 --> 00:00:34,127
+Desligue.
+Trave os controles.
+
+15
+00:00:35,696 --> 00:00:37,496
+Desligue.
+
+16
+00:00:38,096 --> 00:00:39,396
+Desligue!
+
+17
+00:00:49,086 --> 00:00:50,986
+<i>-Pronto, limpo!
+-Vai, vai, vai!</i>
+
+18
+00:00:50,988 --> 00:00:52,288
+<i>-Abaixe-se!
+-No chão!</i>
+
+19
+00:00:52,290 --> 00:00:55,088
+<i>-Abaixe-se agora!
+-Afaste-se do terminal!</i>
+
+20
+00:00:55,090 --> 00:00:57,389
+<i>Deixe-me ver as mãos!
+Para trás, para trás!</i>
+
+21
+00:00:58,596 --> 00:01:00,896
+Cenário de invasão interna
+padrão.
+
+22
+00:01:01,896 --> 00:01:03,596
+Aquilo é uma brecha.
+
+23
+00:01:04,996 --> 00:01:06,496
+A simulação acabou.
+
+24
+00:01:09,451 --> 00:01:10,910
+Objetivo da missão?
+
+25
+00:01:10,911 --> 00:01:14,160
+Destruir piscina de combustível.
+Achar vulnerabilidades na usina.
+
+26
+00:01:14,161 --> 00:01:15,611
+Bem, missão cumprida.
+
+27
+00:01:16,210 --> 00:01:18,410
+Ótimo trabalho, pessoal.
+Exceto por vocês.
+
+28
+00:01:18,411 --> 00:01:21,110
+É melhor reverem
+os cenários de ameaças internas
+
+29
+00:01:21,111 --> 00:01:24,110
+porque aquilo não pode acontecer
+na vida real.
+
+30
+00:01:24,111 --> 00:01:26,110
+Religue as câmeras.
+
+31
+00:01:29,810 --> 00:01:31,810
+Desligue os alarmes,
+a simulação acabou.
+
+32
+00:01:31,811 --> 00:01:34,310
+<i>Não é uma simulação.
+Repito, não é uma simulação.</i>
+
+33
+00:01:34,311 --> 00:01:36,210
+<i>Falha na vedação
+da piscina 2.</i>
+
+34
+00:01:36,211 --> 00:01:38,110
+<i>Perdemos 20 mil galões
+e contando.</i>
+
+35
+00:01:38,111 --> 00:01:41,110
+Sele o vazamento
+e encha a piscina. Estou indo.
+
+36
+00:01:51,410 --> 00:01:52,910
+Ouviu os alarmes?
+
+37
+00:01:52,911 --> 00:01:55,365
+Isso é sério, pessoal.
+O que está fazendo?
+
+38
+00:01:55,366 --> 00:01:57,228
+Achamos um corpo,
+tiro na cabeça.
+
+39
+00:01:57,229 --> 00:02:00,736
+O quê? Impossível.
+Usamos munição falsa.
+
+40
+00:02:01,410 --> 00:02:03,310
+Vai, eu cuido disso.
+
+41
+00:02:06,823 --> 00:02:10,323
+<b>FBI
+1x05 Doomsday</b>
+
+42
+00:02:15,298 --> 00:02:18,798
+<b>Queens Of The Lab
+- Diabolicamente Majestosas -</b>
+
+43
+00:02:20,410 --> 00:02:22,510
+Meu Deus, é a Cameron.
+
+44
+00:02:25,610 --> 00:02:27,010
+O corpo está contaminado.
+
+45
+00:02:28,010 --> 00:02:30,910
+Chame o FBI. Agora.
+
+46
+00:02:34,211 --> 00:02:35,711
+<b>King:
+Tuta</b>
+
+47
+00:02:35,712 --> 00:02:37,212
+<b>Queens:
+LaryCarvalho | marisa</b>
+
+48
+00:02:37,213 --> 00:02:38,713
+<b>Queens:
+Lura | Whisky</b>
+
+49
+00:02:38,714 --> 00:02:40,214
+<b>Queens:
+Dandy | GabyA | Lynne</b>
+
+50
+00:02:40,215 --> 00:02:41,715
+<b>Queen:
+Lu Colorada</b>
+
+51
+00:02:42,801 --> 00:02:45,701
+<i>Sabia que West Point é a 24km
+desse balde enferrujado?</i>
+
+52
+00:02:45,703 --> 00:02:47,702
+<i>Simulei evacuações
+quando era cadete.</i>
+
+53
+00:02:47,704 --> 00:02:49,510
+Usina nuclear
+é seu território?
+
+54
+00:02:49,511 --> 00:02:51,210
+Sim, devo ter
+os ossos manchados.
+
+55
+00:02:51,211 --> 00:02:53,410
+Não devíamos pisar aqui
+sem roupa adequada.
+
+56
+00:02:53,411 --> 00:02:55,210
+Agentes Bell e Zidan, FBI.
+
+57
+00:02:55,211 --> 00:02:57,010
+Todd Winters,
+gerente da usina.
+
+58
+00:02:57,011 --> 00:03:00,200
+ArrowPoint tem pontuação alta
+nos níveis de segurança nuclear.
+
+59
+00:03:00,201 --> 00:03:01,809
+Levamos a sério,
+pois trabalhamos
+
+60
+00:03:01,810 --> 00:03:03,499
+e moramos por aqui.
+
+61
+00:03:03,500 --> 00:03:06,810
+Bryce Miller, inspetor interno
+da Comissão Reguladora Nuclear.
+
+62
+00:03:06,811 --> 00:03:10,010
+Sou o supervisor federal.
+Todd é da companhia de energia.
+
+63
+00:03:10,510 --> 00:03:12,110
+Tenho uma usina
+para comandar.
+
+64
+00:03:12,810 --> 00:03:14,910
+-Sabe quem é a vítima?
+-Cameron Porter.
+
+65
+00:03:14,911 --> 00:03:18,010
+Era investigadora
+do inspetor geral.
+
+66
+00:03:18,011 --> 00:03:20,910
+Então era trabalho dela
+que tudo fosse perfeito.
+
+67
+00:03:20,911 --> 00:03:24,110
+-Ela trabalha aqui?
+-Não, cobre várias usinas.
+
+68
+00:03:24,111 --> 00:03:25,710
+Espere, espere!
+
+69
+00:03:27,910 --> 00:03:29,510
+Quero ver o rosto dela.
+
+70
+00:03:34,010 --> 00:03:36,910
+Não chegue muito perto.
+Ela está radioativa.
+
+71
+00:03:36,911 --> 00:03:38,211
+Como isso aconteceu?
+
+72
+00:03:38,212 --> 00:03:40,810
+Problema na piscina
+de combustível ontem à noite.
+
+73
+00:03:41,210 --> 00:03:43,010
+Piscina de combustível?
+
+74
+00:03:44,410 --> 00:03:46,210
+É onde o urânio
+é resfriado.
+
+75
+00:03:46,211 --> 00:03:48,610
+-Que tipo de problema?
+-Falha na vedação de ar.
+
+76
+00:03:48,611 --> 00:03:50,110
+Felizmente,
+reparamos rápido.
+
+77
+00:03:50,111 --> 00:03:52,810
+-Falha de equipamento?
+-Não, as válvulas estão novas.
+
+78
+00:03:52,811 --> 00:03:55,910
+-Não seriam trocadas tão cedo.
+-Então acha que foi sabotagem?
+
+79
+00:03:55,911 --> 00:03:58,610
+Oficialmente,
+estamos investigando.
+
+80
+00:03:58,611 --> 00:04:00,210
+E extraoficialmente?
+
+81
+00:04:01,710 --> 00:04:04,192
+Cameron tinha razões
+para estar perto da piscina?
+
+82
+00:04:04,193 --> 00:04:05,510
+Não que eu saiba.
+
+83
+00:04:05,511 --> 00:04:07,210
+Não sei
+por que ela estava aqui.
+
+84
+00:04:07,211 --> 00:04:08,610
+Segundo o inspetor geral,
+
+85
+00:04:08,611 --> 00:04:11,710
+não havia nenhuma investigação
+sobre esta usina.
+
+86
+00:04:12,810 --> 00:04:15,010
+Esta usina é um impasse
+para todos nós.
+
+87
+00:04:15,011 --> 00:04:16,810
+Abastecemos Nova Iorque.
+
+88
+00:04:16,811 --> 00:04:19,510
+Mas, infelizmente,
+também podemos destruí-la.
+
+89
+00:04:19,511 --> 00:04:22,110
+-Como?
+-Combustível sem resfriamento
+
+90
+00:04:22,111 --> 00:04:25,710
+entraria nos lençóis freáticos
+envenenando 90 km quadrados.
+
+91
+00:04:25,711 --> 00:04:27,011
+Mas não acontecerá, não é?
+
+92
+00:04:27,012 --> 00:04:28,312
+Não seu eu puder evitar.
+
+93
+00:04:28,313 --> 00:04:30,610
+Então a vítima
+está radioativa,
+
+94
+00:04:30,611 --> 00:04:33,410
+e a sabotagem ocorreu ontem.
+Foi uma coincidência?
+
+95
+00:04:33,411 --> 00:04:35,010
+Cameron não tinha
+o conhecimento
+
+96
+00:04:35,011 --> 00:04:37,048
+ou perícia
+para abrir as vedações.
+
+97
+00:04:37,049 --> 00:04:38,472
+Ela tinha razões?
+
+98
+00:04:38,473 --> 00:04:40,428
+Para dizimar Nova Iorque?
+Nunca falou.
+
+99
+00:04:40,429 --> 00:04:42,210
+Sabe se a Cameron
+tinha inimigos?
+
+100
+00:04:42,211 --> 00:04:44,610
+Ninguém gosta
+de ser vigiado.
+
+101
+00:04:44,611 --> 00:04:47,810
+Mas com suas investigações,
+ela sempre foi justa.
+
+102
+00:04:50,610 --> 00:04:52,410
+Quero ver
+as fitas de segurança.
+
+103
+00:04:52,411 --> 00:04:54,410
+Isso pode ser um problema.
+
+104
+00:04:54,411 --> 00:04:56,010
+<i>Desligamos as câmeras</i>
+do portão,
+
+105
+00:04:56,011 --> 00:04:58,910
+geradores reserva
+e piscinas 2 e 3.
+
+106
+00:04:59,610 --> 00:05:02,378
+Mau funcionamento das câmeras
+são parte da simulação?
+
+107
+00:05:02,379 --> 00:05:05,851
+Sim, para simular um ataque
+terrorista coordenado à usina.
+
+108
+00:05:05,852 --> 00:05:08,345
+-Bem, algumas delas.
+-Como assim algumas delas?
+
+109
+00:05:08,346 --> 00:05:09,942
+O sistema tem falhas.
+
+110
+00:05:09,943 --> 00:05:12,396
+Algumas das câmeras
+já estavam estragadas antes.
+
+111
+00:05:13,909 --> 00:05:15,538
+Sei o que vocês
+estão pensando.
+
+112
+00:05:15,539 --> 00:05:18,087
+A munição estava aqui dentro.
+Tenho a única chave.
+
+113
+00:05:18,088 --> 00:05:20,672
+Ninguém chegou perto
+daquilo.
+
+114
+00:05:20,673 --> 00:05:23,645
+Bom saber.
+Perguntávamos sobre as câmeras.
+
+115
+00:05:23,646 --> 00:05:26,279
+Eu documento
+tudo o que devo.
+
+116
+00:05:26,280 --> 00:05:27,752
+Eles sabem
+sobre as câmeras.
+
+117
+00:05:27,753 --> 00:05:29,649
+Sua tarefa
+é manter esta usina segura.
+
+118
+00:05:29,650 --> 00:05:31,140
+Aqui não é o exército.
+
+119
+00:05:31,141 --> 00:05:33,635
+As usinas são administradas
+por empresas privadas.
+
+120
+00:05:33,636 --> 00:05:34,990
+Eu tenho filhos.
+
+121
+00:05:34,991 --> 00:05:37,802
+Nós moramos a 1,5 Km daqui.
+Quero mantê-los seguros.
+
+122
+00:05:38,256 --> 00:05:41,406
+Mas devo pôr comida na mesa.
+Trabalho com o que tenho.
+
+123
+00:05:44,299 --> 00:05:46,333
+Fale sobre a Cameron.
+
+124
+00:05:46,335 --> 00:05:48,263
+Ela era uma das boas.
+
+125
+00:05:48,265 --> 00:05:51,824
+Alguns inspetores te reportam
+para ficarem com uma boa imagem.
+
+126
+00:05:52,178 --> 00:05:54,964
+A Cameron não.
+Ela realmente se importava.
+
+127
+00:05:55,601 --> 00:05:58,363
+Alguma ideia de que horas
+ela chegou à usina ontem?
+
+128
+00:05:59,185 --> 00:06:00,632
+Vejamos.
+
+129
+00:06:02,556 --> 00:06:05,339
+Ela passou pelo portão,
+às 22h.
+
+130
+00:06:06,378 --> 00:06:08,588
+Entendemos que você tem
+que trabalhar aqui.
+
+131
+00:06:09,227 --> 00:06:12,042
+Se quer ajudar a Cameron,
+diga-nos onde procurar.
+
+132
+00:06:21,620 --> 00:06:23,110
+Garret Sebastian.
+
+133
+00:06:23,111 --> 00:06:25,517
+Eu a vi brigando com ele
+há alguns dias.
+
+134
+00:06:25,518 --> 00:06:28,316
+O cara é só um encanador,
+vai entender.
+
+135
+00:06:28,741 --> 00:06:30,198
+Não ficamos sabendo
+por você.
+
+136
+00:06:34,832 --> 00:06:36,508
+Não tinha problemas
+com a Cameron.
+
+137
+00:06:36,509 --> 00:06:39,004
+-Viram você brigar com ela.
+-Ouviram também?
+
+138
+00:06:39,268 --> 00:06:42,022
+Pessoas intrometidas
+devem assistir o <i>show</i> inteiro.
+
+139
+00:06:42,023 --> 00:06:44,333
+Ela está morta.
+Conte sobre o que era o <i>show</i>.
+
+140
+00:06:44,334 --> 00:06:47,120
+Não foi uma briga.
+Foi uma conversa alta.
+
+141
+00:06:47,121 --> 00:06:49,122
+Sobre o que estavam
+conversando alto?
+
+142
+00:06:49,123 --> 00:06:50,873
+Ela achou
+que eu tinha algo a dizer.
+
+143
+00:06:50,874 --> 00:06:53,176
+-Sobre o quê?
+-Eu não tinha.
+
+144
+00:06:54,581 --> 00:06:57,630
+Não responder perguntas
+te faz parecer mais culpado.
+
+145
+00:06:57,631 --> 00:07:01,375
+Denúncias e entrevistas com o RH
+deveriam ser confidenciais.
+
+146
+00:07:01,376 --> 00:07:04,752
+Ela não tinha o direito
+de me questionar em público.
+
+147
+00:07:04,753 --> 00:07:08,105
+-O que ela perguntou?
+-Não sei. Interrompi ela antes.
+
+148
+00:07:09,105 --> 00:07:11,795
+Onde você estava ontem à noite?
+Durante a simulação?
+
+149
+00:07:12,661 --> 00:07:13,966
+Preciso de um advogado?
+
+150
+00:07:14,366 --> 00:07:15,853
+Não sei, você precisa?
+
+151
+00:07:17,058 --> 00:07:19,937
+Estava desobstruindo um dreno.
+Levou horas.
+
+152
+00:07:19,938 --> 00:07:21,899
+Tudo que fiz ontem
+foi o meu trabalho.
+
+153
+00:07:21,900 --> 00:07:24,854
+Se quiserem me perguntar algo
+a mais, pedirei um advogado.
+
+154
+00:07:28,656 --> 00:07:32,278
+A imprensa quer conectar Cameron
+com a sabotagem.
+
+155
+00:07:32,279 --> 00:07:34,483
+<i>Não é só a vedação
+que vaza naquela usina.</i>
+
+156
+00:07:34,484 --> 00:07:37,263
+Estou vendo a câmera
+de segurança, mas não há muito.
+
+157
+00:07:37,264 --> 00:07:39,552
+<i>Sim.</i> Eles têm problemas
+com as câmeras.
+
+158
+00:07:39,553 --> 00:07:42,145
+A companhia diz que o lugar
+está dentro das normas,
+
+159
+00:07:42,146 --> 00:07:43,920
+o que obviamente
+não é verdade.
+
+160
+00:07:44,226 --> 00:07:45,930
+O que sabemos
+sobre a Cameron?
+
+161
+00:07:45,931 --> 00:07:48,409
+<i>A Kris estava prestes</i>
+a nos atualizar. Fale.
+
+162
+00:07:48,410 --> 00:07:50,387
+37 anos,
+viciada em trabalho.
+
+163
+00:07:50,388 --> 00:07:52,894
+Morava sozinha,
+pedia muita comida chinesa.
+
+164
+00:07:52,895 --> 00:07:56,136
+-Soa familiar?
+-Prefiro comida mexicana.
+
+165
+00:07:57,267 --> 00:08:00,125
+Registros do cartão de crédito
+não indicam vida social.
+
+166
+00:08:00,126 --> 00:08:01,944
+<i>Várias férias à força
+em casa.</i>
+
+167
+00:08:01,945 --> 00:08:03,810
+<i>Nunca havia saído do país</i>
+até junho,
+
+168
+00:08:03,811 --> 00:08:06,326
+quando visitou Cuba.
+
+169
+00:08:08,424 --> 00:08:10,078
+Já temos o relato
+do legista?
+
+170
+00:08:10,079 --> 00:08:12,272
+<i>Sim, tiro de calibre .22</i>
+a pouca distância.
+
+171
+00:08:12,273 --> 00:08:14,269
+ATF está comparando
+registros de armas
+
+172
+00:08:14,270 --> 00:08:16,543
+com mil empregados
+<i>e subempreiteiros.</i>
+
+173
+00:08:16,544 --> 00:08:18,816
+Garanta que Garret Sebastian
+esteja na lista.
+
+174
+00:08:18,817 --> 00:08:21,060
+<i>Garret Sebastian?
+Por quê? Acha que foi ele?</i>
+
+175
+00:08:21,061 --> 00:08:23,190
+Não sei,
+mas tem algo de errado.
+
+176
+00:08:23,191 --> 00:08:25,887
+A perícia não achou
+nenhuma marca de arrasto.
+
+177
+00:08:25,888 --> 00:08:27,501
+Então o tiro foi
+fora na mata.
+
+178
+00:08:27,901 --> 00:08:30,293
+Mas como ela ficou molhada
+e radioativa?
+
+179
+00:08:30,294 --> 00:08:31,956
+Não temos um celular
+ainda.
+
+180
+00:08:31,957 --> 00:08:33,769
+<i>Exigimos
+os registros telefônicos.</i>
+
+181
+00:08:33,771 --> 00:08:35,815
+<i>Ontem, ela ligou duas vezes
+ao escritório</i>
+
+182
+00:08:35,816 --> 00:08:38,665
+e outra para um telefone
+descartável que está desligado.
+
+183
+00:08:38,666 --> 00:08:40,175
+Certo,
+o que estamos pensando?
+
+184
+00:08:40,176 --> 00:08:43,002
+<i>A sabotagem aconteceu</i>
+na sala da piscina.
+
+185
+00:08:43,003 --> 00:08:44,883
+Cameron estava
+na sala da piscina,
+
+186
+00:08:44,884 --> 00:08:46,561
+mas não deveria.
+
+187
+00:08:46,562 --> 00:08:48,713
+Ela pode ter pego
+o sabotador no ato.
+
+188
+00:08:48,714 --> 00:08:50,152
+Ou ela é a responsável.
+
+189
+00:08:50,153 --> 00:08:52,007
+Não. Cameron tinha acesso,
+
+190
+00:08:52,008 --> 00:08:54,279
+mas não tinha o conhecimento
+para sabotar.
+
+191
+00:08:54,280 --> 00:08:56,038
+Quem quer que tivesse
+conhecimento
+
+192
+00:08:56,039 --> 00:08:57,345
+conseguiu acesso com ela.
+
+193
+00:08:57,346 --> 00:08:59,145
+Por que ela faria isso?
+
+194
+00:08:59,191 --> 00:09:01,745
+Ideologia, coerção
+ou golpe.
+
+195
+00:09:01,746 --> 00:09:05,085
+Ela estava solteira, vulnerável.
+Isto a torna um bom alvo.
+
+196
+00:09:05,086 --> 00:09:08,219
+<i>E uma vez feito, não tinha
+por que deixar testemunhas.</i>
+
+197
+00:09:08,220 --> 00:09:09,926
+Então atiraram nela?
+
+198
+00:09:09,927 --> 00:09:11,780
+Mas a sabotagem
+não foi bem-sucedida.
+
+199
+00:09:11,781 --> 00:09:14,142
+Verdade.
+Então podem tentar de novo.
+
+200
+00:09:14,143 --> 00:09:17,045
+Nesta usina ou em outra.
+Continuem trabalhando.
+
+201
+00:09:19,588 --> 00:09:21,455
+Parece que ela morava
+dentro do carro.
+
+202
+00:09:21,456 --> 00:09:24,243
+Faz sentido. Ela vivia
+dirigindo de usina a usina.
+
+203
+00:09:24,244 --> 00:09:27,336
+Então onde está o computador?
+Arquivos, anotações?
+
+204
+00:09:28,674 --> 00:09:30,242
+Talvez ela os deixasse
+em casa.
+
+205
+00:09:33,767 --> 00:09:35,301
+Você deveria sair mais.
+
+206
+00:09:35,302 --> 00:09:38,251
+-Você primeiro.
+-Eu namoro.
+
+207
+00:09:38,733 --> 00:09:40,286
+Quis dizer a porta.
+
+208
+00:09:42,815 --> 00:09:44,166
+A porta está aberta.
+
+209
+00:09:52,772 --> 00:09:54,087
+FBI.
+
+210
+00:09:56,408 --> 00:09:59,586
+-Quem é você?
+-Valerie Borgia.
+
+211
+00:09:59,587 --> 00:10:02,472
+Eu trabalho...
+trabalhava com a Cameron.
+
+212
+00:10:02,473 --> 00:10:03,910
+O que está fazendo aqui?
+
+213
+00:10:03,911 --> 00:10:06,310
+Eu era
+a melhor amiga dela.
+
+214
+00:10:07,010 --> 00:10:09,509
+Estava abastecendo a geladeira
+para os pais dela.
+
+215
+00:10:09,510 --> 00:10:10,810
+Estão voando para cá.
+
+216
+00:10:11,310 --> 00:10:13,009
+Então tem uma cópia
+das chaves?
+
+217
+00:10:13,023 --> 00:10:14,409
+Ela tem...
+
+218
+00:10:14,410 --> 00:10:16,109
+tinha das minhas.
+
+219
+00:10:16,110 --> 00:10:17,909
+Quando falou com Cameron?
+
+220
+00:10:17,910 --> 00:10:20,309
+Ontem do escritório.
+
+221
+00:10:20,310 --> 00:10:21,910
+Como ela parecia?
+
+222
+00:10:22,310 --> 00:10:25,109
+Normal.
+Um pouco distraída, talvez.
+
+223
+00:10:25,110 --> 00:10:26,809
+Parecia com medo?
+
+224
+00:10:26,810 --> 00:10:29,609
+Não, nada que soasse
+algum alarme.
+
+225
+00:10:29,610 --> 00:10:31,109
+Sobre o que vocês falaram?
+
+226
+00:10:31,110 --> 00:10:32,410
+Coisas de trabalho.
+
+227
+00:10:32,411 --> 00:10:34,709
+Cam tinha um relatório
+para entregar.
+
+228
+00:10:34,710 --> 00:10:37,310
+Estava checando
+para saber como estava indo.
+
+229
+00:10:41,210 --> 00:10:43,110
+Não acredito
+que ela se foi.
+
+230
+00:10:44,410 --> 00:10:46,310
+O que pode me dizer
+sobre ela?
+
+231
+00:10:46,810 --> 00:10:49,309
+Cameron era tão gentil.
+
+232
+00:10:49,310 --> 00:10:52,609
+Amorosa. Não pode ter feito
+o que estão falando.
+
+233
+00:10:52,610 --> 00:10:54,309
+Como pode ter
+tanta certeza?
+
+234
+00:10:54,310 --> 00:10:55,610
+Cameron devotou sua vida
+
+235
+00:10:55,611 --> 00:10:57,509
+a manter segura
+a energia nuclear.
+
+236
+00:10:57,510 --> 00:10:59,609
+Ela era
+uma investigadora dedicada.
+
+237
+00:10:59,610 --> 00:11:02,309
+É muito difícil revelar
+corrupção e fraude.
+
+238
+00:11:02,310 --> 00:11:04,109
+E ela não recuou.
+
+239
+00:11:04,110 --> 00:11:07,009
+Ela não se importava
+com retaliações ou repercussões.
+
+240
+00:11:07,010 --> 00:11:09,110
+Conhecia alguém assim.
+
+241
+00:11:10,310 --> 00:11:12,910
+Na verdade,
+é preciso muita coragem.
+
+242
+00:11:14,010 --> 00:11:15,910
+Sou uma investigadora
+também.
+
+243
+00:11:16,310 --> 00:11:18,890
+Sei que não pode prometer
+que achará quem fez isso.
+
+244
+00:11:18,891 --> 00:11:22,209
+Não. Mas prometo
+que faremos tudo que pudermos
+
+245
+00:11:22,210 --> 00:11:24,210
+para descobrir a verdade
+por Cameron.
+
+246
+00:11:27,310 --> 00:11:29,509
+Sei que vocês têm
+um trabalho a fazer.
+
+247
+00:11:29,510 --> 00:11:31,210
+Sairei do caminho
+de vocês.
+
+248
+00:11:42,410 --> 00:11:43,910
+Quem você conhecia?
+
+249
+00:11:44,910 --> 00:11:46,210
+O quê?
+
+250
+00:11:46,211 --> 00:11:47,809
+Disse que conhecia
+alguém assim,
+
+251
+00:11:47,810 --> 00:11:49,210
+que é preciso
+muita coragem.
+
+252
+00:11:50,910 --> 00:11:52,409
+Isso não é um laptop.
+
+253
+00:11:52,410 --> 00:11:53,909
+É um kit de ovulação.
+
+254
+00:11:53,910 --> 00:11:56,009
+Talvez ela tivesse
+uma vida.
+
+255
+00:11:56,010 --> 00:11:58,209
+Ou só estava congelando
+os óvulos.
+
+256
+00:11:58,210 --> 00:11:59,809
+Quero dizer,
+é o que alguém faz
+
+257
+00:11:59,810 --> 00:12:01,210
+quando o tempo
+está passando.
+
+258
+00:12:08,910 --> 00:12:11,410
+Meu marido, Jason,
+queria filhos.
+
+259
+00:12:11,810 --> 00:12:13,510
+Eu adiei.
+
+260
+00:12:20,010 --> 00:12:22,809
+Tem mais alguém
+nessa foto.
+
+261
+00:12:22,810 --> 00:12:24,610
+Está escondida
+no porta-retrato.
+
+262
+00:12:30,810 --> 00:12:32,110
+Por que esconder
+uma foto,
+
+263
+00:12:32,111 --> 00:12:33,710
+do que parece ser
+o namorado?
+
+264
+00:12:34,110 --> 00:12:35,709
+Ele parece familiar
+para você?
+
+265
+00:12:35,710 --> 00:12:37,010
+Parece.
+
+266
+00:12:37,011 --> 00:12:38,311
+Por que eu o reconheço?
+
+267
+00:12:43,286 --> 00:12:46,209
+Senhoras e senhores, conheçam
+o sensacional Jake Fletcher.
+
+268
+00:12:46,210 --> 00:12:48,009
+Engenheiro nuclear e...
+
+269
+00:12:48,010 --> 00:12:49,909
+um dos nossos
+10 Mais Procurados.
+
+270
+00:12:49,910 --> 00:12:53,409
+Acusado de divulgar documentos
+ultrassecretos do governo.
+
+271
+00:12:53,410 --> 00:12:55,009
+Chamado
+de crime de opinião.
+
+272
+00:12:55,010 --> 00:12:57,609
+-Kris.
+-Fletcher, Jake, PhD,
+
+273
+00:12:57,610 --> 00:13:00,209
+era um inspetor residente,
+em ArrowPoint.
+
+274
+00:13:00,210 --> 00:13:02,309
+Então há 3 anos
+uma investigação interna
+
+275
+00:13:02,310 --> 00:13:04,609
+foi iniciada
+por alegações dos colegas
+
+276
+00:13:04,610 --> 00:13:06,409
+de que estava
+paranoico e agressivo.
+
+277
+00:13:06,410 --> 00:13:08,909
+O relatório confirmou
+que o ambiente ficou tóxico.
+
+278
+00:13:08,910 --> 00:13:11,509
+-Foi demitido após 6 meses.
+-Fletcher alegou armação
+
+279
+00:13:11,510 --> 00:13:13,909
+por não se calar
+sobre os problemas na usina.
+
+280
+00:13:13,910 --> 00:13:16,209
+E depois divulgou
+documentos secretos <i>online</i>.
+
+281
+00:13:16,210 --> 00:13:17,809
+Qual foi a informação
+vazada?
+
+282
+00:13:17,810 --> 00:13:20,006
+Relatórios detalhando
+as fraquezas da usina.
+
+283
+00:13:20,007 --> 00:13:22,209
+O cara quer vingança
+por ter sido demitido
+
+284
+00:13:22,210 --> 00:13:25,209
+e trai seu país, pondo em perigo
+seus compatriotas.
+
+285
+00:13:25,210 --> 00:13:26,709
+Alguns o chamam
+de delator.
+
+286
+00:13:26,710 --> 00:13:28,909
+Eu o chamaria
+de narcisista traidor.
+
+287
+00:13:28,910 --> 00:13:31,409
+De qualquer forma,
+Fletcher escapou da captura
+
+288
+00:13:31,410 --> 00:13:32,710
+e voou para Cuba,
+
+289
+00:13:32,711 --> 00:13:34,709
+onde vive
+pelos últimos 2 anos e meio.
+
+290
+00:13:34,710 --> 00:13:37,409
+Cameron e Fletcher
+já se encontraram em ArrowPoint?
+
+291
+00:13:37,410 --> 00:13:39,709
+Sem dúvida,
+por 6 meses. E...
+
+292
+00:13:39,710 --> 00:13:43,010
+A primeira investigação
+de Cameron foi o Fletcher.
+
+293
+00:13:43,011 --> 00:13:44,311
+Certo.
+
+294
+00:13:44,312 --> 00:13:47,509
+A CIA tem alguns fatos sobre
+as atividades dele em Cuba.
+
+295
+00:13:47,510 --> 00:13:49,310
+Annie, quer nos dar
+uma amostra?
+
+296
+00:13:49,710 --> 00:13:51,709
+Encontrou
+alguns engenheiros nucleares
+
+297
+00:13:51,710 --> 00:13:54,009
+de alguns países
+nada amigáveis,
+
+298
+00:13:54,010 --> 00:13:56,509
+Irã, Coréia do Norte,
+Paquistão.
+
+299
+00:13:56,510 --> 00:13:58,509
+É, então ele é um traidor.
+
+300
+00:13:58,510 --> 00:14:00,716
+Trabalhando com nossos inimigos
+por vingança.
+
+301
+00:14:00,717 --> 00:14:02,209
+A sabotagem
+aconteceu aqui.
+
+302
+00:14:02,210 --> 00:14:04,709
+E Fletcher está em Cuba,
+nem está em Nova Iorque.
+
+303
+00:14:04,710 --> 00:14:07,809
+Frank? Quer dar a má notícia
+a eles ou eu dou?
+
+304
+00:14:07,810 --> 00:14:09,192
+Há 3 dias, Fletcher cruzou
+
+305
+00:14:09,193 --> 00:14:10,948
+a fronteira canadense
+para Vermont.
+
+306
+00:14:10,949 --> 00:14:12,909
+Ele já tinha ido
+quando chegamos lá.
+
+307
+00:14:12,910 --> 00:14:14,609
+É, mas como a CIA
+
+308
+00:14:14,610 --> 00:14:16,409
+não viu Fletcher
+saindo de Cuba?
+
+309
+00:14:16,410 --> 00:14:19,309
+Traidores geralmente não voltam
+por conta própria.
+
+310
+00:14:19,310 --> 00:14:21,510
+Parece que esse voltou.
+
+311
+00:14:30,949 --> 00:14:33,048
+Certo, então a investigadora
+assassinada
+
+312
+00:14:33,049 --> 00:14:35,448
+e seu namorado fugitivo
+tentaram sabotar
+
+313
+00:14:35,449 --> 00:14:37,548
+uma usina nuclear
+e não funcionou.
+
+314
+00:14:37,549 --> 00:14:40,048
+Emitimos um alerta e divulgamos
+a foto de Fletcher
+
+315
+00:14:40,049 --> 00:14:42,148
+-na área metropolitana.
+-Ele vai aparecer.
+
+316
+00:14:42,149 --> 00:14:43,948
+Tomara que não
+tarde demais.
+
+317
+00:14:43,949 --> 00:14:45,848
+Certo, o que sabemos
+de delatores?
+
+318
+00:14:45,849 --> 00:14:48,248
+Sabemos que são atacados
+de todos os lados.
+
+319
+00:14:48,249 --> 00:14:50,948
+Amigos, até a família
+fica contra eles.
+
+320
+00:14:50,949 --> 00:14:53,148
+-Sentem-se perseguidos.
+-Perseguidos?
+
+321
+00:14:53,149 --> 00:14:55,348
+Ele divulgou segredos de Estado
+ao público.
+
+322
+00:14:55,349 --> 00:14:57,403
+Às vezes,
+o público precisa saber.
+
+323
+00:14:57,405 --> 00:14:59,795
+Depois vem a paranoia,
+a raiva dos justos.
+
+324
+00:14:59,797 --> 00:15:02,448
+Convencem a si mesmos
+que têm direito a contra-atacar.
+
+325
+00:15:02,450 --> 00:15:04,566
+Com outro ataque,
+Fletcher precisará ajuda.
+
+326
+00:15:04,568 --> 00:15:07,009
+Dinheiro, recursos.
+Um esconderijo.
+
+327
+00:15:07,011 --> 00:15:08,311
+Certo, vou ser bem clara.
+
+328
+00:15:08,313 --> 00:15:11,210
+Tudo em 96km
+dessa usina nuclear
+
+329
+00:15:11,212 --> 00:15:13,611
+é zona de perigo
+por exposição à radiação.
+
+330
+00:15:13,613 --> 00:15:15,512
+Ainda temos
+o arquivo do caso
+
+331
+00:15:15,514 --> 00:15:17,413
+do processo
+de má conduta do Fletcher?
+
+332
+00:15:17,415 --> 00:15:19,814
+É confidencial.
+Não tenho acesso <i>online</i>.
+
+333
+00:15:19,816 --> 00:15:22,615
+-Falarei com IG para a licença.
+-Eu posso ajudar.
+
+334
+00:15:22,617 --> 00:15:24,668
+Fletcher pensou
+que fazia a coisa certa.
+
+335
+00:15:24,670 --> 00:15:27,417
+Ele foi punido por isso.
+Então qual será seu objetivo?
+
+336
+00:15:27,419 --> 00:15:29,218
+Bom, pode ser apenas ego.
+
+337
+00:15:29,220 --> 00:15:31,419
+Ele soou o alarme
+de segurança nuclear.
+
+338
+00:15:31,421 --> 00:15:33,020
+Para provar
+que estava certo.
+
+339
+00:15:33,022 --> 00:15:35,539
+Eu estou dizendo,
+é uma vingança.
+
+340
+00:15:35,541 --> 00:15:37,449
+E agora ele trabalha
+para o outro lado.
+
+341
+00:15:38,049 --> 00:15:40,459
+Pessoal, encontrei
+um amigo do Fletcher.
+
+342
+00:15:40,461 --> 00:15:42,060
+Richard Cook.
+
+343
+00:15:42,062 --> 00:15:44,561
+Um mergulhador nuclear
+que trabalha na ArrowPoint.
+
+344
+00:15:44,563 --> 00:15:46,314
+Certo, todo mundo,
+foco aqui.
+
+345
+00:15:46,316 --> 00:15:48,263
+Quero todos os dados dele
+
+346
+00:15:48,265 --> 00:15:50,064
+e uma busca na casa dele.
+Vamos lá.
+
+347
+00:15:50,066 --> 00:15:52,265
+Forcem a barra.
+Descubram o que ele sabe.
+
+348
+00:15:52,267 --> 00:15:54,366
+Precisamos trazer
+o Fletcher logo.
+
+349
+00:15:56,349 --> 00:15:59,649
+<i>Ser amigo</i> do Jake não significa
+ajudá-lo a cruzar a fronteira.
+
+350
+00:15:59,650 --> 00:16:03,149
+É difícil de negar, pois você
+abasteceu a caminho de Vermont.
+
+351
+00:16:03,150 --> 00:16:06,049
+Pegou as estradas secundárias
+e evitou pedágios e câmeras.
+
+352
+00:16:06,050 --> 00:16:08,349
+Negar o quê?
+Eu gosto da natureza.
+
+353
+00:16:08,350 --> 00:16:10,850
+Como um ex-mergulhador naval
+faz amizade com alguém
+
+354
+00:16:10,851 --> 00:16:12,949
+da lista dos 10 Mais Procurados
+pelo FBI?
+
+355
+00:16:12,950 --> 00:16:14,379
+Bom, em algumas situações,
+
+356
+00:16:14,380 --> 00:16:16,749
+infringir a lei
+é a coisa certa a se fazer.
+
+357
+00:16:16,750 --> 00:16:18,349
+Quem decide isso?
+
+358
+00:16:18,350 --> 00:16:20,249
+Ele decidiu
+e está pagando por isso.
+
+359
+00:16:20,250 --> 00:16:22,668
+Não, ele está em Nova Iorque
+panejando um ataque.
+
+360
+00:16:22,669 --> 00:16:23,969
+Você está errado.
+
+361
+00:16:23,970 --> 00:16:27,349
+Jake poderia trabalhar no setor
+de energia, igual a todos.
+
+362
+00:16:27,350 --> 00:16:29,749
+Mas ao invés disso,
+ele vive com uma mochila,
+
+363
+00:16:29,750 --> 00:16:31,050
+tentando salvar o mundo.
+
+364
+00:16:31,051 --> 00:16:32,351
+Ele já matou uma pessoa.
+
+365
+00:16:32,352 --> 00:16:35,149
+Jake não é um assassino
+e não é um criminoso.
+
+366
+00:16:35,150 --> 00:16:37,349
+O que está dizendo?
+Que ele foi incriminado?
+
+367
+00:16:37,350 --> 00:16:38,749
+Eles não podiam
+controlá-lo.
+
+368
+00:16:38,750 --> 00:16:40,549
+Então eles
+se livraram dele.
+
+369
+00:16:40,949 --> 00:16:44,349
+Ele perdeu o trabalho,
+a liberdade e a reputação.
+
+370
+00:16:44,350 --> 00:16:46,249
+Então ele não tem
+nada a perder.
+
+371
+00:16:46,250 --> 00:16:47,550
+Então está sugerindo,
+
+372
+00:16:47,551 --> 00:16:49,749
+que ele iria faria
+uma sabotagem nuclear?
+
+373
+00:16:49,750 --> 00:16:52,249
+Isso vai contra tudo
+o que ele defende.
+
+374
+00:16:53,284 --> 00:16:54,744
+Acabamos?
+
+375
+00:16:57,486 --> 00:16:59,386
+-Onde ele está?
+-Eu não sei.
+
+376
+00:16:59,388 --> 00:17:01,049
+Nem sabia
+que ele havia voltado.
+
+377
+00:17:01,050 --> 00:17:02,749
+Você era amigo
+do Fletcher.
+
+378
+00:17:02,750 --> 00:17:04,649
+Você nos ajudará
+a trazê-lo vivo
+
+379
+00:17:04,650 --> 00:17:06,549
+ou isso não vai
+acabar bem pra ele.
+
+380
+00:17:07,449 --> 00:17:09,049
+Agora acabamos.
+
+381
+00:17:17,749 --> 00:17:20,249
+-Você acredita nele?
+-Eu não sei em quem acreditar.
+
+382
+00:17:20,623 --> 00:17:22,123
+Valerie Borgia
+está na Sede,
+
+383
+00:17:22,125 --> 00:17:24,624
+com o caso do Inspetor Geral
+contra Jake Fletcher.
+
+384
+00:17:30,849 --> 00:17:33,450
+Valerie. Como você está?
+
+385
+00:17:33,451 --> 00:17:35,349
+Eu estava arrumando
+a mesa da Cameron
+
+386
+00:17:35,350 --> 00:17:37,949
+quando seu chefe pediu
+o arquivo de Jake Fletcher.
+
+387
+00:17:37,950 --> 00:17:40,449
+Mas não é sobre mim,
+então...
+
+388
+00:17:40,450 --> 00:17:42,049
+como posso ajudar?
+
+389
+00:17:42,370 --> 00:17:43,770
+Por que o Inspetor Geral
+
+390
+00:17:43,772 --> 00:17:45,649
+abriu um caso
+contra Jake Fletcher?
+
+391
+00:17:45,650 --> 00:17:48,549
+Postaram reclamações anônimas
+no <i>site</i> do IG,
+
+392
+00:17:48,550 --> 00:17:50,849
+Fletcher foi acusado
+por comportamento abusivo
+
+393
+00:17:50,851 --> 00:17:53,033
+e por criar tensão
+no local de trabalho.
+
+394
+00:17:53,449 --> 00:17:55,149
+Garret Sebastian
+era um deles?
+
+395
+00:17:55,150 --> 00:17:57,249
+As reclamações
+deveriam ser anônimas.
+
+396
+00:17:57,250 --> 00:17:59,246
+Diziam que Fletcher
+estava ficando
+
+397
+00:17:59,247 --> 00:18:02,267
+imprevisível,
+instável, paranoico.
+
+398
+00:18:02,749 --> 00:18:05,649
+Sim, Fletcher tentava soar
+o alarme internamente
+
+399
+00:18:05,650 --> 00:18:06,950
+para segurança da usina.
+
+400
+00:18:06,951 --> 00:18:08,649
+O que exatamente
+Fletcher disse
+
+401
+00:18:08,650 --> 00:18:10,149
+que acontecia na usina?
+
+402
+00:18:10,649 --> 00:18:12,649
+Ele alegava
+que eles não substituíram
+
+403
+00:18:12,650 --> 00:18:14,549
+uma importante
+válvula de água.
+
+404
+00:18:14,550 --> 00:18:17,749
+Foi quando ele tornou público
+os documentos confidenciais.
+
+405
+00:18:17,750 --> 00:18:20,449
+Não se publica
+informação confidencial.
+
+406
+00:18:20,450 --> 00:18:22,349
+Cameron ficou brava.
+
+407
+00:18:22,350 --> 00:18:23,949
+Nós duas estávamos.
+
+408
+00:18:25,049 --> 00:18:27,688
+Então por que ela o visitou
+em Cuba?
+
+409
+00:18:30,049 --> 00:18:31,549
+O quê?
+
+410
+00:18:36,249 --> 00:18:39,649
+Cameron não te disse
+que ela e Fletcher namoravam?
+
+411
+00:18:48,249 --> 00:18:51,049
+Não.
+Eu não acredito nisso.
+
+412
+00:18:51,449 --> 00:18:54,449
+Ela era minha melhor amiga.
+Por que ela esconderia de mim?
+
+413
+00:18:57,249 --> 00:19:00,049
+-Muito obrigado.
+-Obrigada.
+
+414
+00:19:03,949 --> 00:19:06,349
+Nesse mundo nuclear,
+todo mundo tem segredos.
+
+415
+00:19:06,350 --> 00:19:07,849
+"Criar tensão
+no trabalho."
+
+416
+00:19:07,850 --> 00:19:09,749
+Por isso as reclamações
+são anônimas.
+
+417
+00:19:09,750 --> 00:19:11,949
+Deveriam proteger
+delatores de retaliação.
+
+418
+00:19:11,950 --> 00:19:13,849
+Delatores ou traidores?
+
+419
+00:19:14,249 --> 00:19:17,449
+Alguém trai nosso país e vaza
+informação aos nossos inimigos?
+
+420
+00:19:17,450 --> 00:19:19,749
+Acho que você tem problema
+em separar os dois.
+
+421
+00:19:19,750 --> 00:19:23,149
+Talvez. 6 meses trabalhando
+disfarçado fazem isso.
+
+422
+00:19:23,150 --> 00:19:25,249
+Nas Forças Especiais,
+um vazamento
+
+423
+00:19:25,250 --> 00:19:27,149
+e você não verá
+sua família de novo.
+
+424
+00:19:29,449 --> 00:19:31,949
+Consegui uma ordem
+para as mensagens da Cameron.
+
+425
+00:19:31,950 --> 00:19:34,149
+Ela recebeu esta na noite
+que foi morta.
+
+426
+00:19:34,150 --> 00:19:36,749
+"Encontre-me na usina.
+Eu farei o que você quer."
+
+427
+00:19:36,750 --> 00:19:39,549
+Veio do endereço
+de IP de Garret Sebastian.
+
+428
+00:19:40,049 --> 00:19:42,449
+De alguma forma os vazamentos
+levam ao encanador.
+
+429
+00:19:42,450 --> 00:19:44,046
+-Obrigada.
+-Por nada.
+
+430
+00:19:44,047 --> 00:19:46,649
+<i>Eu já tentei.</i> Apenas diga
+que eu quero falar com ele.
+
+431
+00:19:46,650 --> 00:19:47,950
+Só vai levar um segundo.
+
+432
+00:19:47,951 --> 00:19:50,549
+Eu não ligo.
+Apenas quero te dizer que ele...
+
+433
+00:19:52,250 --> 00:19:54,368
+-Ele retornará.
+-Era meu advogado!
+
+434
+00:19:54,369 --> 00:19:57,249
+Depois diga que foi preso
+por mentir ao FBI.
+
+435
+00:19:57,250 --> 00:19:59,737
+-Sobre o quê?
+-Inocentes não perguntam isso.
+
+436
+00:19:59,738 --> 00:20:01,038
+Apenas negam.
+
+437
+00:20:01,039 --> 00:20:03,948
+Sabemos que atraiu Cameron
+à usina na noite que ela morreu.
+
+438
+00:20:03,950 --> 00:20:05,250
+Do que está falando?
+
+439
+00:20:05,251 --> 00:20:06,979
+Geralmente,
+negam melhor que isso.
+
+440
+00:20:06,980 --> 00:20:08,950
+Temos as mensagens dela.
+Adiante-se.
+
+441
+00:20:08,951 --> 00:20:12,249
+-Se achamos a arma, você já era.
+-Não tenho uma arma.
+
+442
+00:20:12,250 --> 00:20:14,249
+Sobre o que discutiram?
+
+443
+00:20:14,650 --> 00:20:16,549
+-Jake Fletcher.
+-O que tem ele?
+
+444
+00:20:16,550 --> 00:20:19,149
+Ela achou que eu tinha algo
+para falar sobre ele.
+
+445
+00:20:19,150 --> 00:20:20,849
+Mas não tinha.
+Não importa.
+
+446
+00:20:20,850 --> 00:20:22,749
+Está certo, não importa.
+Está preso.
+
+447
+00:20:22,750 --> 00:20:25,049
+Não, não,
+estou sendo incriminado.
+
+448
+00:20:25,450 --> 00:20:27,849
+Você sabotou
+a usina nuclear?
+
+449
+00:20:28,549 --> 00:20:29,849
+Sim.
+
+450
+00:20:30,250 --> 00:20:32,149
+Mas não matei a Cameron.
+
+451
+00:20:33,549 --> 00:20:36,549
+Não sabia que isso aconteceria.
+Só devia deixá-la entrar.
+
+452
+00:20:36,550 --> 00:20:37,850
+Para quem?
+
+453
+00:20:39,550 --> 00:20:41,149
+Não sem o meu advogado.
+
+454
+00:20:41,550 --> 00:20:43,049
+Quero um acordo.
+
+455
+00:20:48,849 --> 00:20:50,424
+O procurador está
+esperando.
+
+456
+00:20:50,425 --> 00:20:52,327
+Melhor não ser um jogo,
+sr. Sebastian.
+
+457
+00:20:52,328 --> 00:20:54,059
+É um jogo.
+E jogaremos assim:
+
+458
+00:20:54,060 --> 00:20:56,150
+ganho imunidade,
+eu falo, todos ganham.
+
+459
+00:20:56,151 --> 00:20:58,749
+Será um jogo curto.
+Pelo detector, por favor.
+
+460
+00:21:00,749 --> 00:21:02,949
+-No chão!
+-Pare aí mesmo!
+
+461
+00:21:02,950 --> 00:21:04,949
+-O que está havendo?
+-No chão, no chão!
+
+462
+00:21:04,950 --> 00:21:06,450
+-O que está havendo?
+-No chão!
+
+463
+00:21:06,451 --> 00:21:08,349
+-No chão!
+-O que estão fazendo? O quê?
+
+464
+00:21:08,350 --> 00:21:10,849
+No chão! No chão!
+E não se mexam.
+
+465
+00:21:10,850 --> 00:21:12,649
+Maggie, fique no chão.
+
+466
+00:21:12,650 --> 00:21:15,349
+-É alerta de bomba nuclear.
+-Não se mexam!
+
+467
+00:21:15,350 --> 00:21:16,650
+RADIAÇÃO DETECTADA
+
+468
+00:21:30,053 --> 00:21:33,353
+Nossa exposição à radiação
+é bastante limitada, OA.
+
+469
+00:21:33,354 --> 00:21:34,654
+2016.
+
+470
+00:21:34,655 --> 00:21:36,753
+Disjuntores acionados,
+reator desligado.
+
+471
+00:21:36,754 --> 00:21:38,753
+Bombas de água falharam,
+sem geradores.
+
+472
+00:21:38,754 --> 00:21:40,753
+Chamaram de colapso
+quase acidental.
+
+473
+00:21:41,154 --> 00:21:44,153
+Sabe bem mais do que deveria
+sobre uma usina nuclear.
+
+474
+00:21:44,154 --> 00:21:47,553
+Estava em uma festa
+em West Point, a 24Km daqui.
+
+475
+00:21:47,554 --> 00:21:50,703
+Tudo em um raio de 80Km
+é o auge da zona de ferimentos.
+
+476
+00:21:50,704 --> 00:21:53,254
+Parece algo
+que eu deveria ignorar?
+
+477
+00:21:56,656 --> 00:21:57,956
+Como estamos?
+
+478
+00:21:57,958 --> 00:22:00,557
+-Esperando que nos diga, dr.ª.
+-Estão bem.
+
+479
+00:22:00,559 --> 00:22:04,458
+O alarme foi por radionuclídeos
+no suor de Garret Sebastian.
+
+480
+00:22:04,459 --> 00:22:07,559
+Internamos ele na UTI
+por envenenamento por radiação.
+
+481
+00:22:07,560 --> 00:22:09,959
+-Não parecia doente.
+-Pensou estar com gripe.
+
+482
+00:22:09,960 --> 00:22:12,558
+Primeiros sintomas
+são náusea, febre, calafrios.
+
+483
+00:22:12,559 --> 00:22:14,158
+Sebastian trabalha
+na usina.
+
+484
+00:22:14,159 --> 00:22:16,558
+Não saberia se fosse exposto
+a muita radiação?
+
+485
+00:22:16,559 --> 00:22:18,458
+Se soubesse
+que foi exposto na usina.
+
+486
+00:22:18,459 --> 00:22:21,658
+-Mas não acho que foi.
+-O que quer dizer?
+
+487
+00:22:21,659 --> 00:22:23,458
+Ele ingeriu.
+
+488
+00:22:23,459 --> 00:22:26,958
+Uma quantidade significativa
+de estrôncio-90 e césio-137
+
+489
+00:22:26,959 --> 00:22:29,058
+em algum momento
+nas últimas 12 horas.
+
+490
+00:22:29,059 --> 00:22:30,758
+Então ele foi envenenado.
+
+491
+00:22:30,759 --> 00:22:34,058
+Parece que sim,
+mas essa é a área de vocês.
+
+492
+00:22:36,758 --> 00:22:38,158
+Precisamos falar com ele.
+
+493
+00:22:38,159 --> 00:22:40,258
+Desculpe,
+ele não falará com ninguém.
+
+494
+00:22:40,259 --> 00:22:41,758
+Exceto com Deus.
+
+495
+00:22:44,358 --> 00:22:45,658
+<i>A perícia achou
+uma térmica</i>
+
+496
+00:22:45,659 --> 00:22:48,758
+que foi contaminada com lixo
+radioativo na casa de Sebastian.
+
+497
+00:22:48,759 --> 00:22:50,958
+Morte por cafeína,
+açúcar e isótopos.
+
+498
+00:22:50,959 --> 00:22:53,058
+Certo, para calá-lo.
+Quem foi?
+
+499
+00:22:53,059 --> 00:22:54,459
+Sabemos
+que não foi Cameron.
+
+500
+00:22:54,460 --> 00:22:56,658
+Sebastian não se mataria,
+não assim.
+
+501
+00:22:56,659 --> 00:22:58,558
+Fletcher tem motivo
+para matá-lo.
+
+502
+00:22:58,559 --> 00:23:00,558
+Fletcher
+não tem acesso a lixo nuclear.
+
+503
+00:23:00,559 --> 00:23:02,458
+A menos
+que tenha alguém de dentro.
+
+504
+00:23:02,459 --> 00:23:04,258
+Como o amigo
+mergulhador naval dele.
+
+505
+00:23:06,658 --> 00:23:08,358
+Envenenamento
+por radiação?
+
+506
+00:23:08,359 --> 00:23:09,958
+É uma forma horrível
+de morrer.
+
+507
+00:23:09,959 --> 00:23:12,058
+Quem tem acesso
+ao lixo radioativo?
+
+508
+00:23:12,059 --> 00:23:14,158
+Talvez 1/4
+dos nossos funcionários.
+
+509
+00:23:14,159 --> 00:23:15,558
+Limpa-se dos filtros.
+
+510
+00:23:15,559 --> 00:23:17,759
+HEPA, água do reator,
+piscina de combustível.
+
+511
+00:23:17,760 --> 00:23:20,258
+Tomamos medidas
+de segurança extremas.
+
+512
+00:23:20,259 --> 00:23:22,658
+Pode ser removido da usina
+sem disparar alarmes?
+
+513
+00:23:22,659 --> 00:23:25,258
+O que pode matar é levado
+ou guardado fora do local.
+
+514
+00:23:25,259 --> 00:23:27,258
+Ninguém se aproxima,
+se não for preciso.
+
+515
+00:23:27,259 --> 00:23:28,559
+Bem, alguém se aproximou.
+
+516
+00:23:28,560 --> 00:23:30,158
+Richard Cook tem acesso
+ao lixo?
+
+517
+00:23:30,159 --> 00:23:31,958
+Todos os nossos
+mergulhadores têm.
+
+518
+00:23:31,959 --> 00:23:34,058
+Quando foi
+o último mergulho do Cook?
+
+519
+00:23:35,958 --> 00:23:37,258
+Ontem.
+
+520
+00:23:37,659 --> 00:23:38,959
+Isso é estranho.
+
+521
+00:23:38,960 --> 00:23:41,458
+Ele ultrapassou
+o limite de milirem dele.
+
+522
+00:23:41,859 --> 00:23:43,159
+Tradução.
+
+523
+00:23:43,160 --> 00:23:46,458
+O nível de exposição
+à radiação dele.
+
+524
+00:23:46,459 --> 00:23:49,858
+Ele não tem o tempo de mergulho
+para os níveis serem tão altos.
+
+525
+00:23:49,859 --> 00:23:52,858
+Mexer com lixo radioativo
+elevaria seu nível de milirem?
+
+526
+00:23:54,758 --> 00:23:56,158
+Vamos vigiá-lo.
+
+527
+00:23:56,159 --> 00:23:58,158
+Cancele
+os acessos do Cook à usina.
+
+528
+00:23:58,159 --> 00:23:59,459
+Imediatamente.
+
+529
+00:24:03,258 --> 00:24:06,458
+Espere. Está apenas
+deixando suprimentos?
+
+530
+00:24:06,459 --> 00:24:08,358
+<i>Ele pode estar deixando
+para Fletcher.</i>
+
+531
+00:24:08,359 --> 00:24:10,058
+Estamos vigiando
+há uma hora.
+
+532
+00:24:10,059 --> 00:24:12,158
+Foi vasculhado.
+Não há ninguém no barco.
+
+533
+00:24:12,159 --> 00:24:15,158
+<i>Prender o Cook pode assustar
+Fletcher se estiver por perto.</i>
+
+534
+00:24:16,758 --> 00:24:18,858
+Vou entrar,
+vou checar de novo.
+
+535
+00:25:04,424 --> 00:25:07,230
+Bar Harbor, na sua direita.
+<i>Tem movimento naquele barco.</i>
+
+536
+00:25:14,491 --> 00:25:15,791
+<i>É o Fletcher.</i>
+
+537
+00:25:49,095 --> 00:25:50,395
+Tudo bem.
+
+538
+00:25:51,513 --> 00:25:54,229
+Parabéns. Capturar
+um dos 10 Mais Procurados
+
+539
+00:25:54,230 --> 00:25:56,578
+é uma grande vitória
+para o FBI e esta equipe.
+
+540
+00:25:56,579 --> 00:25:57,879
+Sem dúvida.
+
+541
+00:25:57,880 --> 00:26:00,503
+Mas acho que deveríamos ocultar
+da imprensa por ora.
+
+542
+00:26:02,120 --> 00:26:03,457
+O quê? Por quê?
+
+543
+00:26:03,458 --> 00:26:05,973
+Porque agora o que temos
+é circunstancial.
+
+544
+00:26:05,974 --> 00:26:08,370
+Sem evidência física
+que ponha Fletcher na usina
+
+545
+00:26:08,371 --> 00:26:10,203
+ou que o ligue
+a algum homicídio.
+
+546
+00:26:10,204 --> 00:26:11,703
+Então quer uma confissão.
+
+547
+00:26:11,704 --> 00:26:13,203
+Se conseguirmos.
+
+548
+00:26:14,409 --> 00:26:16,548
+Não acho que Fletcher
+seja o assassino.
+
+549
+00:26:18,017 --> 00:26:21,070
+Não acho também
+que ele tenha sabotado a usina.
+
+550
+00:26:22,322 --> 00:26:24,048
+Você concorda com Maggie?
+
+551
+00:26:28,924 --> 00:26:31,644
+Se ele não for,
+ainda existe uma ameaça à usina.
+
+552
+00:26:32,101 --> 00:26:34,096
+Talvez Fletcher saiba
+quem é.
+
+553
+00:26:34,098 --> 00:26:36,751
+A prisão ficará em segredo
+até falarem com ele.
+
+554
+00:26:36,753 --> 00:26:38,053
+Certo.
+
+555
+00:26:38,055 --> 00:26:41,112
+NSA liberou algumas fotos
+de Cameron e Fletcher em Cuba.
+
+556
+00:26:41,114 --> 00:26:43,126
+Pode ter algo útil
+para o interrogatório.
+
+557
+00:26:43,128 --> 00:26:44,428
+Tudo bem, obrigada.
+
+558
+00:26:55,966 --> 00:26:58,335
+A maioria são fotos turísticas.
+Nada especial.
+
+559
+00:27:00,829 --> 00:27:02,810
+Fora o tradicional
+buquê de casamento.
+
+560
+00:27:02,811 --> 00:27:04,111
+Não.
+
+561
+00:27:04,642 --> 00:27:06,242
+Sério, por favor.
+
+562
+00:27:06,244 --> 00:27:08,443
+Você já se apaixonou?
+
+563
+00:27:08,445 --> 00:27:10,922
+-Tem que estar brincando.
+-Olhe os rostos deles.
+
+564
+00:27:10,924 --> 00:27:13,005
+E a troca de olhares,
+as mãos deles.
+
+565
+00:27:13,007 --> 00:27:15,685
+Ele a enganou.
+Casou com ela.
+
+566
+00:27:15,686 --> 00:27:17,086
+Ele prometeu-lhe a lua.
+
+567
+00:27:17,087 --> 00:27:19,255
+Ela é solitária,
+a mentira dele funcionou.
+
+568
+00:27:19,256 --> 00:27:20,841
+E ela deu a ele
+acesso à usina.
+
+569
+00:27:21,429 --> 00:27:23,015
+Não.
+
+570
+00:27:23,016 --> 00:27:24,903
+Acho que ela acreditou
+nele.
+
+571
+00:27:24,904 --> 00:27:27,571
+E acho
+que ele realmente a amou.
+
+572
+00:27:28,601 --> 00:27:30,111
+Talvez eu esteja
+perdendo algo,
+
+573
+00:27:30,112 --> 00:27:32,023
+mas eu te apoiei lá
+com a Dana.
+
+574
+00:27:33,465 --> 00:27:35,559
+E, na verdade,
+não vejo o que você vê.
+
+575
+00:27:40,748 --> 00:27:42,835
+A perícia não achou
+isótopos radioativos
+
+576
+00:27:42,836 --> 00:27:44,762
+na pele ou roupas
+do Fletcher.
+
+577
+00:27:44,763 --> 00:27:46,437
+Então ele não envenenou
+Sebastian?
+
+578
+00:27:46,438 --> 00:27:47,903
+Parece que não.
+
+579
+00:27:52,615 --> 00:27:54,166
+Você acha
+que ele sabe quem foi?
+
+580
+00:27:55,272 --> 00:27:58,086
+Talvez. A questão é se ele vai
+nos contar ou não.
+
+581
+00:27:58,087 --> 00:28:00,781
+Certo. Você acha
+que ele amou Cameron.
+
+582
+00:28:00,782 --> 00:28:02,082
+Por que não usa isso?
+
+583
+00:28:05,381 --> 00:28:07,068
+Não tenho nada
+para dizer a vocês.
+
+584
+00:28:10,142 --> 00:28:12,882
+Bem...
+Só tenho uma pergunta.
+
+585
+00:28:15,040 --> 00:28:17,366
+Não é sobre a usina.
+É pessoal.
+
+586
+00:28:20,271 --> 00:28:21,972
+Por que se casou
+com a Cameron?
+
+587
+00:28:27,461 --> 00:28:30,473
+Ela se foi. Está morta.
+
+588
+00:28:31,278 --> 00:28:32,810
+Você vai para a prisão.
+
+589
+00:28:34,068 --> 00:28:35,839
+Nada vai mudar isto.
+
+590
+00:28:37,034 --> 00:28:38,385
+Você não tem
+nada a perder,
+
+591
+00:28:38,386 --> 00:28:40,117
+então pode ser
+honesto comigo.
+
+592
+00:28:42,443 --> 00:28:44,555
+Não é da sua conta.
+
+593
+00:28:49,025 --> 00:28:51,007
+Ela morreu sozinha.
+
+594
+00:28:52,065 --> 00:28:55,325
+No frio. Na sujeira,
+com um tiro na cabeça.
+
+595
+00:28:55,912 --> 00:28:57,607
+Isto não te incomoda?
+
+596
+00:29:00,039 --> 00:29:01,582
+Por que se casou
+com a Cameron?
+
+597
+00:29:01,583 --> 00:29:03,558
+Porque ela era o amor
+da minha vida.
+
+598
+00:29:06,016 --> 00:29:08,420
+E porque ela foi a única
+que acreditou em mim.
+
+599
+00:29:08,421 --> 00:29:10,933
+Por isso arriscou
+voltar ao país?
+
+600
+00:29:12,360 --> 00:29:13,877
+Queríamos uma família.
+
+601
+00:29:14,726 --> 00:29:16,140
+Cameron viu o médico dela.
+
+602
+00:29:16,141 --> 00:29:18,372
+Ele disse que fertilização
+era o único modo.
+
+603
+00:29:18,373 --> 00:29:19,978
+Você tinha que estar aqui.
+
+604
+00:29:21,281 --> 00:29:23,561
+O que Cameron fazia
+na usina naquela noite?
+
+605
+00:29:24,526 --> 00:29:26,305
+Ela estava voltando
+de um dos locais
+
+606
+00:29:26,306 --> 00:29:30,021
+quando recebeu uma mensagem
+de Garret Sebastian.
+
+607
+00:29:30,870 --> 00:29:33,090
+Disse estar pronto
+para ir a público.
+
+608
+00:29:33,091 --> 00:29:34,656
+Limpar meu nome.
+
+609
+00:29:34,657 --> 00:29:36,074
+O que disse a ela?
+
+610
+00:29:37,060 --> 00:29:40,061
+Achei que fosse besteira.
+Sebastian é um covarde.
+
+611
+00:29:40,063 --> 00:29:42,041
+Estava a enganando
+de novo.
+
+612
+00:29:42,362 --> 00:29:43,862
+O que ela disse?
+
+613
+00:29:43,863 --> 00:29:45,341
+Ela concordou.
+
+614
+00:29:46,537 --> 00:29:49,057
+Eu adormeci
+com a TV ligada.
+
+615
+00:29:49,816 --> 00:29:52,688
+Quando acordei,
+ela estava nela.
+
+616
+00:29:54,115 --> 00:29:56,662
+Diziam que ela tinha sido morta
+na usina.
+
+617
+00:29:57,608 --> 00:30:00,749
+Pensei que ainda...
+estava dormindo.
+
+618
+00:30:01,149 --> 00:30:02,449
+Sonhando.
+
+619
+00:30:03,472 --> 00:30:04,972
+Não acreditei
+
+620
+00:30:04,973 --> 00:30:07,972
+até que vi que nossa cama
+não estava desfeita.
+
+621
+00:30:11,572 --> 00:30:14,022
+Nunca ouvirei a voz dela
+novamente.
+
+622
+00:30:15,822 --> 00:30:17,122
+Certo.
+
+623
+00:30:17,123 --> 00:30:18,722
+Agora eu tenho
+uma pergunta.
+
+624
+00:30:18,723 --> 00:30:21,472
+Alega que vazou documentos
+nucleares confidenciais
+
+625
+00:30:21,473 --> 00:30:24,022
+-pelo interesse do público.
+-É a verdade.
+
+626
+00:30:24,023 --> 00:30:26,972
+Por que partilharia o que sabe
+com nossos inimigos?
+
+627
+00:30:30,772 --> 00:30:32,872
+Agentes estrangeiros
+de segurança nuclear
+
+628
+00:30:32,873 --> 00:30:35,222
+que vivenciaram
+o mesmo tipo de corrupção
+
+629
+00:30:35,223 --> 00:30:36,523
+que vi na ArrowPoint.
+
+630
+00:30:36,524 --> 00:30:38,972
+-É um fato?
+-Sim, é um fato.
+
+631
+00:30:38,973 --> 00:30:40,622
+Também é um fato,
+
+632
+00:30:40,623 --> 00:30:43,423
+que um incêndio na ArrowPoint
+devastaria Nova Iorque.
+
+633
+00:30:43,424 --> 00:30:45,314
+Dois incêndios
+nos últimos 5 anos
+
+634
+00:30:45,315 --> 00:30:46,722
+mal evitaram uma fusão.
+
+635
+00:30:46,723 --> 00:30:49,072
+Uma válvula aberta
+quando devia estar fechada,
+
+636
+00:30:49,073 --> 00:30:51,722
+drenando água do reator.
+O que quer que eu faça?
+
+637
+00:30:51,723 --> 00:30:55,472
+-O seu trabalho.
+-Eu tentei. Várias vezes.
+
+638
+00:30:55,473 --> 00:30:56,822
+Não adiantou nada.
+
+639
+00:30:56,823 --> 00:30:58,872
+Por que não substituíram
+a válvula?
+
+640
+00:30:58,873 --> 00:31:00,222
+É caro.
+
+641
+00:31:00,621 --> 00:31:02,571
+A usina tem 50 anos.
+
+642
+00:31:02,573 --> 00:31:04,522
+Receita anual
+de US$13 bilhões.
+
+643
+00:31:04,523 --> 00:31:06,322
+Os chefes
+não gastarão dinheiro
+
+644
+00:31:06,323 --> 00:31:08,822
+em uma usina velha
+que fechará em dois anos.
+
+645
+00:31:22,222 --> 00:31:24,022
+Comecei a ter esperança
+
+646
+00:31:24,023 --> 00:31:26,072
+quando Cameron
+veio à Cuba.
+
+647
+00:31:26,073 --> 00:31:27,922
+Ela disse
+que estava investigando
+
+648
+00:31:27,923 --> 00:31:30,822
+e percebeu que a investigação
+do inspetor era uma farsa.
+
+649
+00:31:30,823 --> 00:31:33,172
+E ela acreditava
+que eu dizia a verdade.
+
+650
+00:31:33,622 --> 00:31:36,373
+Mas qualquer esperança
+que tivemos de limpar meu nome,
+
+651
+00:31:36,672 --> 00:31:39,072
+logo descobrimos
+que era um fracasso.
+
+652
+00:31:39,472 --> 00:31:41,922
+ArrowPoint está,
+irremediavelmente corrompida.
+
+653
+00:31:42,772 --> 00:31:46,372
+Cameron compartilhou com alguém
+a suspeita sobre a usina?
+
+654
+00:31:46,373 --> 00:31:48,172
+Valerie Borgia.
+
+655
+00:31:48,622 --> 00:31:51,472
+É a única com quem Cameron falou
+quando voltei ao país.
+
+656
+00:31:55,272 --> 00:31:58,672
+11/9, terroristas planejavam
+derrubar um avião na ArrowPoint.
+
+657
+00:31:58,673 --> 00:32:01,672
+Significaria 20 milhões de vidas
+em vez de 3.500.
+
+658
+00:32:01,673 --> 00:32:04,572
+-Certo, mas não fizeram isso.
+-Só porque não perceberam
+
+659
+00:32:04,573 --> 00:32:06,323
+quão vulnerável
+a usina realmente é.
+
+660
+00:32:06,324 --> 00:32:08,272
+Agora eles sabem.
+Mas também sabemos.
+
+661
+00:32:08,273 --> 00:32:11,322
+-Maggie, ele infringiu a lei.
+-E isso faz dele um criminoso.
+
+662
+00:32:11,323 --> 00:32:13,372
+Não estou discutindo
+a legalidade disso.
+
+663
+00:32:13,373 --> 00:32:15,322
+Estou argumentando
+a moralidade.
+
+664
+00:32:15,323 --> 00:32:18,122
+Ele arriscou tudo
+para revelar informações
+
+665
+00:32:18,123 --> 00:32:20,322
+que pensou
+que salvariam vidas.
+
+666
+00:32:20,722 --> 00:32:22,472
+Não importa se salvou.
+
+667
+00:32:22,872 --> 00:32:25,072
+O que importa
+é que ele tentou.
+
+668
+00:32:35,972 --> 00:32:39,522
+Meu marido era repórter
+investigativo, do Journal.
+
+669
+00:32:39,523 --> 00:32:43,122
+Quando trabalhava em um artigo,
+passava dias sem dormir.
+
+670
+00:32:43,123 --> 00:32:44,722
+Os horários
+eram horríveis.
+
+671
+00:32:44,723 --> 00:32:47,122
+Mas ele fazia
+o que tivesse que fazer
+
+672
+00:32:47,123 --> 00:32:49,422
+para cumprir o prazo
+ou chegar à verdade.
+
+673
+00:32:49,822 --> 00:32:51,372
+Soa familiar.
+
+674
+00:32:53,324 --> 00:32:56,224
+Jason trabalhava
+em uma denúncia de Wall Street.
+
+675
+00:32:56,226 --> 00:32:58,475
+E ele foi muito
+pressionado.
+
+676
+00:32:58,477 --> 00:32:59,876
+Mas ele não...
+
+677
+00:32:59,878 --> 00:33:01,577
+Desistiria.
+
+678
+00:33:05,972 --> 00:33:07,272
+Nunca.
+
+679
+00:33:12,172 --> 00:33:13,622
+Uma noite...
+
+680
+00:33:14,172 --> 00:33:16,472
+eu estava na unidade
+do Crime Organizado.
+
+681
+00:33:16,872 --> 00:33:18,172
+Vigilância.
+
+682
+00:33:19,372 --> 00:33:21,922
+Tive que cancelar
+os planos do jantar.
+
+683
+00:33:22,575 --> 00:33:25,587
+Ele me ligou
+e não consegui atender.
+
+684
+00:33:26,522 --> 00:33:28,772
+Isso foi às 2h56 da manhã.
+
+685
+00:33:29,772 --> 00:33:31,422
+Às 3h01...
+
+686
+00:33:41,472 --> 00:33:45,822
+Às 3:01, um carro passou
+o sinal vermelho e o matou.
+
+687
+00:33:52,122 --> 00:33:53,772
+Então, eu sei...
+
+688
+00:33:53,773 --> 00:33:56,609
+como ela se sentia
+sobre ele.
+
+689
+00:33:56,822 --> 00:34:00,072
+E eu sei como ele se sentiu
+sobre ela ter morrido.
+
+690
+00:34:02,122 --> 00:34:04,322
+-Maggie...
+-Pode, por favor, me poupar
+
+691
+00:34:04,323 --> 00:34:06,022
+do discurso
+de transferência,
+
+692
+00:34:06,023 --> 00:34:09,722
+"faz só um ano"
+e "dê a si o tempo do luto."
+
+693
+00:34:11,222 --> 00:34:12,622
+Claro.
+
+694
+00:34:13,022 --> 00:34:14,322
+Obrigada.
+
+695
+00:34:24,122 --> 00:34:25,772
+<i>Eu não estou acreditando,
+Valerie.</i>
+
+696
+00:34:25,773 --> 00:34:27,372
+Cameron era minha amiga.
+
+697
+00:34:27,373 --> 00:34:29,572
+-Uma confidente?
+-Claro.
+
+698
+00:34:29,573 --> 00:34:31,672
+Sabia que ela se relacionava
+com Fletcher
+
+699
+00:34:31,673 --> 00:34:33,822
+e também
+que ele tinha voltado ao país.
+
+700
+00:34:33,823 --> 00:34:36,822
+Você omitiu essa informação
+do FBI.
+
+701
+00:34:36,823 --> 00:34:40,022
+-Isso já é um crime.
+-Está falando sério?
+
+702
+00:34:40,023 --> 00:34:42,722
+Pode ser acusada de ajudar
+e acobertar um fugitivo.
+
+703
+00:34:42,723 --> 00:34:44,822
+Fletcher estava
+entre os mais procurados.
+
+704
+00:34:44,823 --> 00:34:46,973
+Eles ficarão felizes
+em te fazer de exemplo.
+
+705
+00:34:46,974 --> 00:34:48,274
+Pare.
+
+706
+00:34:49,172 --> 00:34:50,522
+O que querem saber?
+
+707
+00:34:50,523 --> 00:34:53,823
+Sabia que Cameron ia à usina
+e sabia que era uma armadilha.
+
+708
+00:34:53,824 --> 00:34:57,222
+Sabia que Sebastian pediu
+que ela viesse. Não sabia que...
+
+709
+00:34:59,427 --> 00:35:02,072
+Você não entende.
+Ela não desistiria.
+
+710
+00:35:02,073 --> 00:35:04,022
+Era como se sofresse
+lavagem cerebral.
+
+711
+00:35:04,023 --> 00:35:06,135
+-Lavagem cerebral?
+-Para crer que a usina
+
+712
+00:35:06,136 --> 00:35:08,373
+precisava ser fechada.
+O que não aconteceria.
+
+713
+00:35:08,374 --> 00:35:10,522
+Não?
+Você é uma inspetora.
+
+714
+00:35:10,523 --> 00:35:11,972
+Então não era perigoso?
+
+715
+00:35:13,122 --> 00:35:14,522
+Não.
+
+716
+00:35:14,523 --> 00:35:16,772
+E tentamos fazê-la
+entender isso.
+
+717
+00:35:16,773 --> 00:35:18,572
+-Nós quem?
+-Todo mundo.
+
+718
+00:35:18,573 --> 00:35:20,673
+Fechando a usina,
+a empresa perde dinheiro.
+
+719
+00:35:20,674 --> 00:35:23,272
+Todos ficam sem emprego.
+Todo mundo sabe disso.
+
+720
+00:35:23,273 --> 00:35:26,522
+Quem mandou Sebastian trazer
+Cameron à usina naquela noite?
+
+721
+00:35:26,523 --> 00:35:29,272
+-A usina é segura.
+-Não foi o que perguntamos.
+
+722
+00:35:29,273 --> 00:35:31,022
+Quem, Valerie?
+
+723
+00:35:35,050 --> 00:35:36,800
+Inspetor Miller.
+
+724
+00:35:38,722 --> 00:35:41,022
+Tive que contar a ele
+sobre Fletcher.
+
+725
+00:35:41,023 --> 00:35:44,122
+Ele é como um mentor para nós.
+Estamos todos no mesmo time.
+
+726
+00:35:44,123 --> 00:35:45,597
+Não, não está.
+
+727
+00:35:45,872 --> 00:35:47,922
+Você traiu Cameron.
+
+728
+00:35:49,322 --> 00:35:50,722
+Eu juro.
+
+729
+00:35:51,622 --> 00:35:53,522
+Não sabia
+que ele faria isso.
+
+730
+00:35:53,523 --> 00:35:55,272
+Bem, isso não importa.
+
+731
+00:35:55,273 --> 00:35:58,672
+Assim que avisou Miller
+que Fletcher voltou ao país,
+
+732
+00:35:58,673 --> 00:36:00,972
+você matou
+sua melhor amiga.
+
+733
+00:36:07,272 --> 00:36:09,257
+Certo,
+Miller está investigando
+
+734
+00:36:09,258 --> 00:36:11,663
+a troca de <i>rack</i>
+de varetas nucleares na piscina.
+
+735
+00:36:11,664 --> 00:36:13,347
+Terão que entrar
+para pegá-lo.
+
+736
+00:36:13,348 --> 00:36:16,107
+-Ele não falará conosco.
+-Não temos provas.
+
+737
+00:36:16,108 --> 00:36:17,988
+Não o pegaremos
+sem uma confissão.
+
+738
+00:36:17,989 --> 00:36:19,531
+Vamos surpreendê-lo.
+
+739
+00:36:19,532 --> 00:36:20,983
+Uma emboscada.
+
+740
+00:36:20,984 --> 00:36:22,849
+Alguém
+que ele menos suspeita.
+
+741
+00:36:22,850 --> 00:36:24,782
+Precisamos
+de alguém destemido.
+
+742
+00:36:24,783 --> 00:36:26,801
+Com nada mais a perder.
+
+743
+00:36:27,608 --> 00:36:30,006
+Conhecemos a pessoa certa.
+
+744
+00:36:30,839 --> 00:36:32,321
+Faça.
+
+745
+00:36:40,507 --> 00:36:43,445
+Pensei que curaríamos o câncer
+antes das câmeras ligarem.
+
+746
+00:36:43,446 --> 00:36:46,352
+Fico feliz de ter ajudado.
+Quantas temos?
+
+747
+00:36:46,353 --> 00:36:48,999
+Todos os ângulos da piscina
+estão cobertos.
+
+748
+00:36:49,000 --> 00:36:51,490
+<i>Pessoal, temos 5 horas.</i>
+
+749
+00:36:51,491 --> 00:36:53,799
+<i>Mexam-se
+como se tivessem um propósito.</i>
+
+750
+00:36:53,800 --> 00:36:55,172
+Por que está brilhando?
+
+751
+00:36:55,173 --> 00:36:57,083
+Isótopos se juntam
+debaixo d'água.
+
+752
+00:36:57,084 --> 00:36:58,912
+Mais rápidos
+que a velocidade da luz.
+
+753
+00:36:58,913 --> 00:37:00,438
+Ótimo.
+
+754
+00:37:01,292 --> 00:37:04,006
+Faça o Miller falar
+e saia, ouviu?
+
+755
+00:37:04,007 --> 00:37:05,584
+Alto e claro.
+
+756
+00:37:05,585 --> 00:37:07,821
+Certo.
+Está no campo dele aqui.
+
+757
+00:37:07,822 --> 00:37:09,939
+Ele se sente seguro,
+confortável, poderoso.
+
+758
+00:37:09,940 --> 00:37:12,499
+<i>Ele não espera você.
+Ou que esteja com uma escuta.</i>
+
+759
+00:37:27,084 --> 00:37:28,761
+Tenha cuidado.
+
+760
+00:37:30,208 --> 00:37:32,332
+Seria trágico
+se você caísse.
+
+761
+00:37:34,849 --> 00:37:36,510
+Parece bem, cara.
+
+762
+00:37:36,511 --> 00:37:38,395
+Cuba combina com você.
+
+763
+00:37:40,318 --> 00:37:42,214
+Estou surpreso em te ver.
+
+764
+00:37:42,215 --> 00:37:43,831
+Não, não está.
+
+765
+00:37:45,080 --> 00:37:46,805
+Como entrou aqui?
+
+766
+00:37:46,807 --> 00:37:48,879
+<i>Sabia
+que eu encontraria um jeito.</i>
+
+767
+00:37:48,881 --> 00:37:52,726
+<i>Como eu sabia que conseguiria</i>
+o emprego confortável na rua K.
+
+768
+00:37:53,089 --> 00:37:54,673
+Não sabia
+que era um assassino.
+
+769
+00:37:54,674 --> 00:37:57,603
+Meu trabalho
+é proteger esta usina
+
+770
+00:37:57,604 --> 00:37:59,303
+e essas pessoas.
+
+771
+00:38:03,678 --> 00:38:05,156
+Seu trabalho
+
+772
+00:38:05,157 --> 00:38:06,757
+é proteger as pessoas
+
+773
+00:38:06,758 --> 00:38:08,430
+do que poderia dar errado.
+
+774
+00:38:10,680 --> 00:38:12,370
+Por que ela teve
+que morrer?
+
+775
+00:38:12,371 --> 00:38:13,975
+Dano colateral.
+
+776
+00:38:14,375 --> 00:38:17,280
+Dano colateral
+é um acidente.
+
+777
+00:38:17,281 --> 00:38:20,044
+Você planejou isso.
+Sabia que eu tinha voltado
+
+778
+00:38:20,045 --> 00:38:21,345
+e que Cameron investigava.
+
+779
+00:38:21,346 --> 00:38:24,128
+Então pediu ao Sebastian
+para trazê-la aqui
+
+780
+00:38:24,129 --> 00:38:25,657
+e fez
+na noite do treinamento
+
+781
+00:38:25,658 --> 00:38:27,657
+para que ninguém
+ouvisse o tiro.
+
+782
+00:38:32,145 --> 00:38:35,715
+Molhá-la com água da piscina
+foi um toque agradável.
+
+783
+00:38:36,598 --> 00:38:39,765
+Para que todos pensassem
+que a Cam fez a sabotagem.
+
+784
+00:38:40,841 --> 00:38:43,226
+Estou surpreso
+que descobriu tudo.
+
+785
+00:38:44,066 --> 00:38:45,760
+Esperem.
+
+786
+00:38:49,837 --> 00:38:52,410
+A única coisa
+que não consigo descobrir...
+
+787
+00:38:52,835 --> 00:38:55,329
+como fez com que Sebastian
+te obedecesse?
+
+788
+00:38:55,729 --> 00:38:58,135
+Ele estava com medo
+de mim.
+
+789
+00:38:58,535 --> 00:39:00,362
+Até não estar mais.
+
+790
+00:39:00,783 --> 00:39:02,789
+Então você o envenenou.
+
+791
+00:39:05,806 --> 00:39:07,559
+E agora?
+
+792
+00:39:08,283 --> 00:39:10,199
+Quer me matar também?
+
+793
+00:39:13,275 --> 00:39:15,154
+Todos sabemos agora.
+
+794
+00:39:15,155 --> 00:39:17,787
+O que você fez?
+
+795
+00:39:17,810 --> 00:39:20,129
+Fomos descobertos.
+Vão, <i>vão. Peguem-no.</i>
+
+796
+00:39:20,131 --> 00:39:22,029
+-Vai!
+-Atrás de mim.
+
+797
+00:39:29,993 --> 00:39:31,810
+Segure-se, Fletcher.
+
+798
+00:39:39,903 --> 00:39:41,481
+Segure-se, Fletcher.
+
+799
+00:39:45,712 --> 00:39:47,192
+Mexa-se, mexa-se, mexa-se.
+
+800
+00:39:47,193 --> 00:39:48,579
+OA!
+
+801
+00:39:49,352 --> 00:39:50,941
+Peguei ele,
+pegue o Miller!
+
+802
+00:39:50,942 --> 00:39:53,186
+-Abaixe-se, abaixe-se!
+-Vai, mexa-se!
+
+803
+00:39:53,187 --> 00:39:55,022
+-Abaixe-se!
+-Mexa-se!
+
+804
+00:39:58,153 --> 00:40:00,562
+Abaixe a arma ou morra.
+
+805
+00:40:03,794 --> 00:40:06,088
+Aqui, agora.
+
+806
+00:40:26,522 --> 00:40:28,162
+Agente Bell.
+
+807
+00:40:31,803 --> 00:40:33,372
+Um minuto, por favor?
+
+808
+00:40:36,601 --> 00:40:38,850
+Obrigado por capturar
+o assassino da Cameron.
+
+809
+00:40:40,303 --> 00:40:41,809
+Você me lembra dela.
+
+810
+00:40:41,810 --> 00:40:43,839
+É? Como?
+
+811
+00:40:43,840 --> 00:40:46,036
+Se ela acreditava em algo,
+ou...
+
+812
+00:40:46,037 --> 00:40:47,537
+alguém,
+
+813
+00:40:47,538 --> 00:40:49,531
+nunca abandonava.
+
+814
+00:40:50,225 --> 00:40:51,887
+Nunca desistia.
+
+815
+00:40:52,431 --> 00:40:54,277
+Não é algo ruim.
+
+816
+00:40:55,209 --> 00:40:56,753
+Nunca.
+
+817
+00:41:01,476 --> 00:41:03,796
+O que faço agora sem ela?
+
+818
+00:41:04,627 --> 00:41:07,188
+Faz o que foi feito
+para fazer.
+
+819
+00:41:08,083 --> 00:41:10,179
+Manter todos seguros.
+
+820
+00:41:43,380 --> 00:41:46,337
+Seja o pé no saco
+que sei que pode ser.
+
+821
+00:41:47,349 --> 00:41:49,167
+Isso posso fazer.
+
+822
+00:42:33,911 --> 00:42:35,453
+<i>Oi, querida.</i>
+
+823
+00:42:36,049 --> 00:42:40,620
+<i>Estou cansado.
+Indo para casa.</i>
+
+824
+00:42:41,769 --> 00:42:43,900
+<i>Mal posso esperar
+para te ver.</i>
+
+825
+00:42:45,290 --> 00:42:46,741
+<i>Eu te amo.</i>
+
+826
+00:42:47,955 --> 00:42:49,255
+<i>Tchau.</i>
+
+827
+00:42:50,710 --> 00:42:53,710
+<i>Agora tá engrenando, hein?</i>
+
