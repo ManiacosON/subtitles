@@ -1,0 +1,3108 @@
+1
+00:00:00,000 --> 00:00:02,511
+<i>Anteriormente em MAoS...</i>
+
+2
+00:00:02,512 --> 00:00:04,572
+- Paga uma bebida?
+- Por favor.
+
+3
+00:00:04,573 --> 00:00:07,146
+<i>Espero confiar em Roz.
+Eu quero isso.</i>
+
+4
+00:00:07,147 --> 00:00:09,316
+O meu pessoal
+infiltrou-se na sua base.
+
+5
+00:00:09,317 --> 00:00:12,540
+<i>Não tentam curar Inumanos,
+estão... transformando-os.</i>
+
+6
+00:00:12,541 --> 00:00:15,573
+<i>Estão dando Terrígeno ao máximo
+de pessoas que puderem.</i>
+
+7
+00:00:16,559 --> 00:00:19,009
+Distribuindo o contaminante
+como um cura...
+
+8
+00:00:19,010 --> 00:00:20,551
+- Não é...
+- Muito sinistro.
+
+9
+00:00:20,552 --> 00:00:23,384
+Não, recebo relatórios
+semanais de... Malick.
+
+10
+00:00:23,385 --> 00:00:25,273
+Milhares de anos atrás...
+
+11
+00:00:25,274 --> 00:00:26,919
+um Inumano nasceu na Terra.
+
+12
+00:00:26,920 --> 00:00:29,738
+Ele foi enviado pelo portal
+para um planeta distante.
+
+13
+00:00:29,739 --> 00:00:31,673
+A Hidra foi fundada
+com o único propósito
+
+14
+00:00:31,674 --> 00:00:33,962
+de promover o retorno dele.
+
+15
+00:00:33,963 --> 00:00:36,466
+Sei que quer vingança,
+e acabar com a S.H.I.E.L.D.
+
+16
+00:00:36,467 --> 00:00:38,582
+- Vou ajudá-lo a obter isso.
+- E em troca?
+
+17
+00:00:38,583 --> 00:00:41,833
+Vai me ajudar a saber como
+a S.H.I.E.L.D. trouxe alguém.
+
+18
+00:00:43,534 --> 00:00:45,534
+<b>Agentes:
+@helder1965 | Junio_Tk2</b>
+
+19
+00:00:45,535 --> 00:00:48,535
+<b>Agentes:
+Nano | Maraligro | Júlia_R.</b>
+
+20
+00:00:48,536 --> 00:00:50,536
+<b>Diretor:
+Tozz</b>
+
+21
+00:00:58,753 --> 00:01:00,579
+Dois X-tudos da D.J.
+
+22
+00:01:00,580 --> 00:01:02,064
+Extra bacon,
+queijo duplo.
+
+23
+00:01:02,065 --> 00:01:04,745
+Sou eu, ou todo hambúrguer
+chamado de "X-tudo"...
+
+24
+00:01:04,746 --> 00:01:06,353
+é horrível para você?
+
+25
+00:01:06,354 --> 00:01:07,757
+Não se aborreça, Phil.
+
+26
+00:01:09,510 --> 00:01:11,010
+Pub Meia Lua.
+
+27
+00:01:11,697 --> 00:01:14,163
+Não foi onde bebemos
+pela primeira vez?
+
+28
+00:01:14,164 --> 00:01:16,417
+- Vou lá direto.
+- Claro que vai.
+
+29
+00:01:17,566 --> 00:01:20,335
+Sim, não é uma lembrança
+ou algo assim.
+
+30
+00:01:20,336 --> 00:01:21,892
+São só fósforos, entendi.
+
+31
+00:01:24,151 --> 00:01:27,270
+Sabe, Banks acha
+que estou louca por...
+
+32
+00:01:28,500 --> 00:01:30,450
+continuar vendo você
+desse jeito.
+
+33
+00:01:30,451 --> 00:01:32,315
+Contou a Banks sobre nós?
+
+34
+00:01:32,316 --> 00:01:34,414
+Sim, conto tudo a Banks.
+
+35
+00:01:36,227 --> 00:01:37,868
+Não sabia que eram
+tão íntimos.
+
+36
+00:01:37,869 --> 00:01:40,346
+Bem, há muita coisa
+que você não sabe sobre mim.
+
+37
+00:01:40,347 --> 00:01:43,354
+Tanto que mandou dois agentes
+invadirem a minha casa.
+
+38
+00:01:43,355 --> 00:01:46,570
+Só para constar, tecnicamente,
+eu acertei em fazer isso.
+
+39
+00:01:46,571 --> 00:01:48,232
+Você trabalha para a Hidra.
+
+40
+00:01:48,233 --> 00:01:49,633
+E também...
+
+41
+00:01:49,634 --> 00:01:51,169
+Sinto muito.
+
+42
+00:01:51,170 --> 00:01:54,092
+Qualquer garota sensata
+iria embora neste momento.
+
+43
+00:01:54,093 --> 00:01:56,622
+Honestamente,
+não sei o que isso significa.
+
+44
+00:01:56,623 --> 00:01:58,076
+Você é mesmo
+um dinossauro.
+
+45
+00:01:58,077 --> 00:01:59,628
+Mesmo tendo
+um carro voador?
+
+46
+00:01:59,629 --> 00:02:01,335
+Pois é.
+Lá dos anos 60.
+
+47
+00:02:18,243 --> 00:02:20,849
+Fico feliz em estarmos
+comendo hambúrgueres.
+
+48
+00:02:21,939 --> 00:02:23,339
+Eu também.
+
+49
+00:02:27,446 --> 00:02:30,065
+Então, sua equipe achou
+algo novo sobre Malick?
+
+50
+00:02:30,066 --> 00:02:31,523
+Nada que já não soubéssemos.
+
+51
+00:02:31,524 --> 00:02:35,229
+Figurão influente da Capital
+em quase todas as agências.
+
+52
+00:02:35,230 --> 00:02:36,714
+Sim, incluindo a minha.
+
+53
+00:02:37,446 --> 00:02:41,034
+De onde pode levar os Inumanos
+que estavam em custódia.
+
+54
+00:02:41,035 --> 00:02:42,435
+Obrigado.
+
+55
+00:02:42,436 --> 00:02:44,283
+Espere, acha que Malick
+está se armando?
+
+56
+00:02:44,284 --> 00:02:45,937
+A única pergunta é:
+por quê?
+
+57
+00:02:45,938 --> 00:02:47,338
+Não tenho certeza.
+
+58
+00:02:47,339 --> 00:02:48,926
+Mas é o que pretendo descobrir.
+
+59
+00:02:49,911 --> 00:02:51,719
+Você vai voltar à UCAA?
+
+60
+00:02:53,432 --> 00:02:55,393
+Não posso protegê-la
+estando lá dentro.
+
+61
+00:02:57,278 --> 00:02:59,670
+Obrigado, Lancelot,
+mas ficarei bem.
+
+62
+00:03:00,261 --> 00:03:02,122
+A UCAA é meu território.
+
+63
+00:03:02,987 --> 00:03:04,466
+E com relação a Malick,
+
+64
+00:03:04,467 --> 00:03:06,307
+só estou batendo ponto
+no trabalho.
+
+65
+00:03:06,308 --> 00:03:07,708
+Ainda é um jogo perigoso.
+
+66
+00:03:07,709 --> 00:03:09,828
+Bem, então é um risco
+que terei que correr.
+
+67
+00:03:09,829 --> 00:03:12,974
+Veja bem, é o meu pessoal que
+Malick está usando como cobaia,
+
+68
+00:03:12,975 --> 00:03:16,047
+e eu sou a idiota que trabalhou
+para a Hidra esse tempo todo.
+
+69
+00:03:16,048 --> 00:03:17,797
+"Idiota" é um pouco pesado.
+
+70
+00:03:19,724 --> 00:03:21,820
+Então, qual é o plano
+quando estiver lá?
+
+71
+00:03:21,821 --> 00:03:23,569
+Apenas outro dia.
+
+72
+00:03:23,570 --> 00:03:26,239
+Mas agendei uma reunião
+com Malick, e assim...
+
+73
+00:03:34,329 --> 00:03:36,193
+Roz?
+Rosalind?
+
+74
+00:03:38,593 --> 00:03:41,015
+Não, não!
+Não.
+
+75
+00:03:41,016 --> 00:03:43,080
+Ouça.
+Fique comigo, Roz.
+
+76
+00:03:43,081 --> 00:03:45,539
+Ouça o som da minha voz!
+Olhe para mim aqui!
+
+77
+00:03:45,540 --> 00:03:47,452
+Roz! Roz!
+Preciso que respire.
+
+78
+00:03:47,453 --> 00:03:49,827
+Por favor, Roz!
+Olhe para mim! Respire!
+
+79
+00:03:50,719 --> 00:03:52,560
+<i>Roz! Respire.</i>
+
+80
+00:03:53,564 --> 00:03:54,964
+<i>Por favor, respire.</i>
+
+81
+00:03:54,965 --> 00:03:57,184
+<i>Por favor,
+apenas fique comigo.</i>
+
+82
+00:04:08,185 --> 00:04:09,885
+<b>The_Tozz e UNITED
+apresentam...</b>
+
+83
+00:04:09,886 --> 00:04:13,886
+<b>MAoS - S03E09
+"Closure"</b>
+
+84
+00:04:38,978 --> 00:04:40,702
+<i>Como se sente, Coulson?</i>
+
+85
+00:04:40,703 --> 00:04:43,367
+<i>Ver alguém que gosta sangrando
+bem na sua frente.</i>
+
+86
+00:04:43,368 --> 00:04:44,768
+Ward?
+
+87
+00:04:44,769 --> 00:04:47,794
+Ainda soa engraçado quando
+não começa com "agente".
+
+88
+00:04:47,795 --> 00:04:49,310
+O que você fez?
+
+89
+00:04:49,311 --> 00:04:52,686
+Parece que acabei de eliminar
+um vazamento na UCAA.
+
+90
+00:04:52,687 --> 00:04:55,344
+Matou Rosalind para que ela
+não investigasse Malick?
+
+91
+00:04:55,345 --> 00:04:56,994
+<i>Qual é, Coulson?</i>
+
+92
+00:04:56,995 --> 00:05:00,704
+Acha que ela impediria Malick
+de abrir outro portal?
+
+93
+00:05:00,705 --> 00:05:03,276
+Ele já abriu um antes.
+Certamente abrirá outro.
+
+94
+00:05:04,492 --> 00:05:05,892
+Não.
+
+95
+00:05:07,256 --> 00:05:08,818
+Isto é pessoal.
+
+96
+00:05:08,819 --> 00:05:11,752
+<i>A S.H.I.E.L.D. ainda envia
+os melhores atrás de mim.</i>
+
+97
+00:05:11,753 --> 00:05:14,091
+Pensei em impedir isso
+para não acontecer de novo,
+
+98
+00:05:14,092 --> 00:05:16,714
+eliminando o cara
+que os fica enviando.
+
+99
+00:05:19,128 --> 00:05:20,528
+Quer me matar?
+
+100
+00:05:20,529 --> 00:05:22,200
+Venha me pegar.
+Resolveremos isso.
+
+101
+00:05:22,201 --> 00:05:25,425
+Tenho pessoas que cuidam
+dessas coisas para mim agora.
+
+102
+00:05:25,426 --> 00:05:28,866
+Não, só queria ouvir o pânico
+em sua voz antes que morra.
+
+103
+00:05:29,853 --> 00:05:31,253
+Isso ainda não acabou.
+
+104
+00:07:06,171 --> 00:07:07,571
+Abaixe!
+
+105
+00:07:11,572 --> 00:07:12,993
+Vai, vai, vai!
+
+106
+00:07:18,299 --> 00:07:20,057
+E a Srta. Price?
+
+107
+00:07:21,722 --> 00:07:23,225
+Apenas dirija.
+
+108
+00:07:46,897 --> 00:07:48,213
+Deixe-o.
+
+109
+00:07:56,141 --> 00:07:58,621
+Coulson disse algo
+depois que saiu de lá?
+
+110
+00:07:58,622 --> 00:08:01,184
+Só para preparar
+a sala de interrogatório.
+
+111
+00:09:04,748 --> 00:09:08,556
+Sinto muito, Phil.
+Estou aqui para o que precisar.
+
+112
+00:09:08,557 --> 00:09:11,844
+Começamos pelo começo.
+Como Ward pensa?
+
+113
+00:09:12,352 --> 00:09:14,571
+Há alguma fraqueza
+que não exploramos?
+
+114
+00:09:14,856 --> 00:09:16,570
+Acha que deixamos algo?
+
+115
+00:09:16,571 --> 00:09:18,190
+Só há um jeito
+de descobrir.
+
+116
+00:09:18,191 --> 00:09:20,022
+Quero que todos
+da equipe original...
+
+117
+00:09:20,023 --> 00:09:22,123
+contem tudo que lembram
+sobre Ward,
+
+118
+00:09:22,124 --> 00:09:25,424
+Todos os detalhes possíveis,
+não importa o constrangimento.
+
+119
+00:09:32,788 --> 00:09:34,187
+Tudo bem.
+
+120
+00:09:38,405 --> 00:09:39,855
+Quando transaram...
+
+121
+00:09:39,856 --> 00:09:42,843
+ele confessou a você
+algum detalhe pessoal?
+
+122
+00:09:43,598 --> 00:09:45,320
+Não falávamos muito.
+
+123
+00:09:45,785 --> 00:09:49,115
+Como era sua relação com Ward
+depois que ele salvou sua vida?
+
+124
+00:09:49,516 --> 00:09:52,218
+- Eu estava grata.
+- Só isso?
+
+125
+00:09:54,214 --> 00:09:57,236
+Uma vez eu o vi sozinho
+no meu quarto, bem estranho.
+
+126
+00:09:57,237 --> 00:09:59,526
+- Ele estava roubando?
+- Acho que não.
+
+127
+00:09:59,527 --> 00:10:01,743
+Só estava lá sentado....
+
+128
+00:10:01,744 --> 00:10:04,075
+olhando para uma foto
+minha com minha mãe.
+
+129
+00:10:04,566 --> 00:10:07,032
+O Ward era atraente
+pois era um traumatizado.
+
+130
+00:10:07,243 --> 00:10:09,350
+Ele alguma vez falou
+o que o machucou?
+
+131
+00:10:09,351 --> 00:10:11,805
+Como eu disse,
+não falávamos muito.
+
+132
+00:10:11,806 --> 00:10:14,220
+Mas o que quer que fosse,
+era o que o alimentava.
+
+133
+00:10:14,621 --> 00:10:17,551
+Deixava-o desesperado
+para bancar o papel de herói.
+
+134
+00:10:17,552 --> 00:10:19,065
+Éramos como irmãos...
+
+135
+00:10:19,066 --> 00:10:22,119
+ao menos era o que parecia,
+mas ele só estava me usando.
+
+136
+00:10:22,120 --> 00:10:25,258
+- Usando para quê?
+- É difícil descrever.
+
+137
+00:10:25,259 --> 00:10:29,320
+Como se quisesse substituir
+algo que perdera.
+
+138
+00:10:29,730 --> 00:10:31,242
+Eu era péssima no flerte,
+
+139
+00:10:31,243 --> 00:10:34,006
+sempre rindo
+das piadas terríveis.
+
+140
+00:10:34,007 --> 00:10:35,432
+Você era atraída por ele.
+
+141
+00:10:35,433 --> 00:10:37,565
+Ele pulou de um avião
+para me salvar.
+
+142
+00:10:37,566 --> 00:10:39,144
+Já achou
+que fosse correspondida?
+
+143
+00:10:39,145 --> 00:10:41,011
+Ward não precisava
+isso de mim.
+
+144
+00:10:41,012 --> 00:10:43,303
+Era claro que ele gostava
+de outra.
+
+145
+00:10:44,878 --> 00:10:46,276
+Não sei o que dizer.
+
+146
+00:10:52,727 --> 00:10:54,362
+Então apenas responda.
+
+147
+00:10:56,246 --> 00:10:57,771
+Claro.
+
+148
+00:10:57,772 --> 00:11:00,113
+Mas duvido que haja algo
+que já não saiba.
+
+149
+00:11:00,324 --> 00:11:02,541
+Soube do que Ward sentia
+por você.
+
+150
+00:11:02,987 --> 00:11:05,132
+Agora me explique
+o que sente por ele.
+
+151
+00:11:05,496 --> 00:11:07,719
+<i>Sei que isso deve ser
+difícil para você.</i>
+
+152
+00:11:07,720 --> 00:11:10,193
+Só quero pegar o cara
+que matou Roz.
+
+153
+00:11:10,194 --> 00:11:11,616
+Nós também.
+
+154
+00:11:11,617 --> 00:11:14,058
+Por isso há duas pessoas
+que preciso que conheça.
+
+155
+00:11:18,532 --> 00:11:20,289
+Havia algo sobre ele.
+
+156
+00:11:21,198 --> 00:11:23,709
+Nós dois tivemos
+infâncias conturbadas.
+
+157
+00:11:23,710 --> 00:11:25,933
+Tornou fácil
+de se relacionar.
+
+158
+00:11:25,934 --> 00:11:27,340
+Já considerou que tudo...
+
+159
+00:11:27,341 --> 00:11:30,101
+pode ter sido fingimento
+para aproximar-se,
+
+160
+00:11:30,102 --> 00:11:32,565
+que talvez encontrou
+uma fraqueza e a explorou?
+
+161
+00:11:32,566 --> 00:11:34,490
+Não era fingimento.
+
+162
+00:11:34,491 --> 00:11:37,169
+Seja lá por qual motivo,
+Ward nunca mentiu para mim.
+
+163
+00:11:37,170 --> 00:11:39,120
+Ele só escondia
+partes de si...
+
+164
+00:11:39,121 --> 00:11:41,130
+que eu não estava pronta
+para ver ainda.
+
+165
+00:11:41,131 --> 00:11:42,561
+"Ainda"?
+
+166
+00:11:43,147 --> 00:11:46,862
+Quando se cresce como nós,
+isso muda como você vê o mundo.
+
+167
+00:11:46,863 --> 00:11:50,694
+Tudo é filtrado
+por lentes muito específicas.
+
+168
+00:11:50,695 --> 00:11:52,217
+E Ward tinha isso.
+
+169
+00:11:53,511 --> 00:11:56,171
+Por isso ele achou que poderia
+fazer-me entendê-lo.
+
+170
+00:11:56,172 --> 00:11:58,955
+- Ele estava certo?
+- Provavelmente.
+
+171
+00:11:58,956 --> 00:12:01,538
+Depois de anos
+me mudando por tudo,
+
+172
+00:12:01,539 --> 00:12:03,703
+entendo como foi fácil
+para ele
+
+173
+00:12:03,704 --> 00:12:06,072
+se envolver
+com uma figura paterna.
+
+174
+00:12:07,120 --> 00:12:10,020
+<i>Até entendo como Garrett
+o levou para a Hidra.</i>
+
+175
+00:12:10,021 --> 00:12:12,520
+Eu também fui enganada
+pela minha mãe quando...
+
+176
+00:12:12,521 --> 00:12:14,669
+Parece que está disposta
+a perdoar bastante.
+
+177
+00:12:14,954 --> 00:12:16,504
+Jamais o perdoarei.
+
+178
+00:12:17,942 --> 00:12:21,566
+Ele matou a Rosalind
+só para te atingir.
+
+179
+00:12:21,567 --> 00:12:22,965
+Ele matou Koenig...
+
+180
+00:12:25,137 --> 00:12:27,319
+Ele matou Koenig
+por minha causa.
+
+181
+00:12:27,862 --> 00:12:29,686
+Ele sabia que perderia você...
+
+182
+00:12:29,687 --> 00:12:31,684
+quando Koenig falasse
+que ele era da Hidra.
+
+183
+00:12:31,685 --> 00:12:33,186
+<i>E a parte triste...</i>
+
+184
+00:12:33,187 --> 00:12:36,285
+é que foi quando finalmente
+o entendi pela primeira vez.
+
+185
+00:12:36,781 --> 00:12:39,829
+<i>Ward não mata
+porque não sente nada.</i>
+
+186
+00:12:41,145 --> 00:12:43,300
+É porque sente demais.
+
+187
+00:12:46,587 --> 00:12:48,877
+Ward falou que Malick
+quer abrir um portal.
+
+188
+00:12:48,878 --> 00:12:50,305
+Parece familiar?
+
+189
+00:12:50,701 --> 00:12:53,034
+É o Projeto Estrela Distante.
+
+190
+00:12:53,035 --> 00:12:56,183
+O programa em que a NASA
+desenvolvia quando eu e Roz...
+
+191
+00:12:56,654 --> 00:12:59,541
+nos juntamos.
+Não nos deram muitos detalhes.
+
+192
+00:12:59,542 --> 00:13:01,885
+- Onde era a base da NASA?
+- Não era dela.
+
+193
+00:13:01,886 --> 00:13:04,428
+Uma empreiteira independente
+propôs o projeto,
+
+194
+00:13:04,429 --> 00:13:06,722
+comandava as coisas
+de um laboratório.
+
+195
+00:13:06,723 --> 00:13:10,044
+- Foi fechado há anos.
+- Talvez valha a pena olhar.
+
+196
+00:13:10,045 --> 00:13:13,343
+Precisamos adivinhar quem fundou
+a empreiteira independente?
+
+197
+00:13:13,344 --> 00:13:16,665
+Não.
+Foi Gideon Malick.
+
+198
+00:13:33,282 --> 00:13:35,518
+Todos salvem
+o herói conquistador.
+
+199
+00:13:36,249 --> 00:13:40,240
+Foi rápido. Parece que ontem
+que dei o aval.
+
+200
+00:13:40,241 --> 00:13:42,620
+Faz tempo que não atiro
+de tão longe.
+
+201
+00:13:42,621 --> 00:13:44,252
+- Foi bom.
+- Aposto que sim.
+
+202
+00:13:44,523 --> 00:13:46,713
+Acho que, no meio de tudo,
+esqueceu da parte...
+
+203
+00:13:46,714 --> 00:13:48,815
+que precisamos
+do Phil Coulson vivo.
+
+204
+00:13:50,165 --> 00:13:52,941
+- Ele sobreviveu.
+- Por pouco.
+
+205
+00:13:52,942 --> 00:13:55,003
+Que droga estava pensando...
+
+206
+00:13:55,004 --> 00:13:57,333
+mandando
+seus matadores de aluguel?
+
+207
+00:13:57,334 --> 00:13:59,380
+Queria colocar Coulson
+no ritmo.
+
+208
+00:14:00,185 --> 00:14:03,412
+Isso não é um jogo
+para deixar ao acaso.
+
+209
+00:14:03,413 --> 00:14:04,934
+Talvez não para você.
+
+210
+00:14:04,935 --> 00:14:07,712
+- Eu tinha tudo sob controle.
+- Certo.
+
+211
+00:14:08,566 --> 00:14:10,146
+Porque se Coulson
+não sobreviver,
+
+212
+00:14:10,147 --> 00:14:13,042
+você tem a conclusão
+que procura.
+
+213
+00:14:13,488 --> 00:14:17,400
+Não acredito muito
+em conclusão.
+
+214
+00:14:19,074 --> 00:14:20,472
+O que acredito...
+
+215
+00:14:22,037 --> 00:14:26,729
+É em seguir em frente.
+Nunca olhar para trás.
+
+216
+00:14:28,317 --> 00:14:32,891
+Essas 5 pedras foram extraídas
+há anos do monólito.
+
+217
+00:14:32,892 --> 00:14:36,144
+<i>A ideia é que fossem
+divididas igualmente...</i>
+
+218
+00:14:36,145 --> 00:14:38,216
+entre os líderes poderosos
+da Hidra.
+
+219
+00:14:38,217 --> 00:14:40,820
+Agora tem todas,
+graças a mim.
+
+220
+00:14:42,467 --> 00:14:43,867
+Está perdendo o foco.
+
+221
+00:14:44,539 --> 00:14:47,410
+Essas pedras são a chave
+para tudo...
+
+222
+00:14:47,411 --> 00:14:50,505
+que a Hidra almeja
+desde que foi formada.
+
+223
+00:14:50,506 --> 00:14:53,940
+E está arriscando tudo isso
+por uma banal conclusão?
+
+224
+00:14:53,941 --> 00:14:55,609
+Não se preocupe.
+
+225
+00:14:55,610 --> 00:14:58,323
+Tudo terminará
+como planejamos.
+
+226
+00:14:58,324 --> 00:15:00,307
+Como tem tanta certeza?
+
+227
+00:15:01,918 --> 00:15:04,674
+Porque conheço Coulson
+melhor que ele mesmo.
+
+228
+00:15:09,071 --> 00:15:12,900
+- Senhor, queria dizer...
+- Senhor!
+
+229
+00:15:12,901 --> 00:15:15,674
+Você devia ter matado Ward.
+Tinha uma tarefa.
+
+230
+00:15:15,675 --> 00:15:17,225
+Você falhou!
+E pessoas morreram.
+
+231
+00:15:17,428 --> 00:15:18,905
+Você precisa se acalmar!
+
+232
+00:15:25,240 --> 00:15:26,799
+Não, ele tem razão.
+
+233
+00:15:26,800 --> 00:15:29,348
+Ward não devia ter tido
+a chance de fazer o que fez.
+
+234
+00:15:30,958 --> 00:15:34,331
+Não, ela tem razão.
+
+235
+00:15:35,124 --> 00:15:37,133
+Eu que escolhi o Ward
+para a equipe.
+
+236
+00:15:37,393 --> 00:15:40,381
+Tudo que aconteceu depois
+é culpa minha.
+
+237
+00:15:42,579 --> 00:15:45,008
+Senhor, eu faria tudo
+por mais uma chance.
+
+238
+00:15:47,686 --> 00:15:50,313
+Melhor não errar desta vez.
+
+239
+00:15:52,411 --> 00:15:53,846
+Desta vez?
+
+240
+00:15:53,847 --> 00:15:56,922
+Sei como achar o Ward,
+mas será fora dos registros.
+
+241
+00:15:57,658 --> 00:15:59,093
+Minha especialidade.
+
+242
+00:15:59,094 --> 00:16:01,186
+Não sei se deve
+levar o Hunter.
+
+243
+00:16:01,187 --> 00:16:03,885
+Você também vai, agente Morse.
+Precisamos de um piloto.
+
+244
+00:16:06,814 --> 00:16:09,516
+- No que está pensando?
+- É simples, agente Mackenzie.
+
+245
+00:16:09,517 --> 00:16:11,603
+Para acabar com Ward,
+devo cruzar linhas...
+
+246
+00:16:11,604 --> 00:16:13,652
+que o diretor da S.H.I.E.L.D.
+não deveria.
+
+247
+00:16:13,653 --> 00:16:15,752
+Talvez as linhas
+não devessem ser cruzadas.
+
+248
+00:16:15,753 --> 00:16:17,758
+Talvez não,
+mas vai acontecer.
+
+249
+00:16:17,759 --> 00:16:20,950
+- Quer que substitua você?
+- Até que terminemos.
+
+250
+00:16:21,906 --> 00:16:23,651
+Por que não coloca May
+no comando?
+
+251
+00:16:23,652 --> 00:16:26,825
+Ela não está pronta depois
+de tudo que houve com Andrew.
+
+252
+00:16:26,826 --> 00:16:29,503
+Só você não tem com o Ward
+uma rixa pessoal.
+
+253
+00:16:30,607 --> 00:16:33,700
+Eu ia olhar o Estrela Distante
+com Fitz-Simmons.
+
+254
+00:16:33,701 --> 00:16:35,084
+Eles já foram.
+
+255
+00:16:35,085 --> 00:16:37,499
+Mandei-os com agente Banks
+há 20 minutos.
+
+256
+00:16:37,500 --> 00:16:38,935
+Talvez eu devesse ir.
+
+257
+00:16:38,936 --> 00:16:41,300
+Não é um pedido,
+é uma ordem.
+
+258
+00:16:42,367 --> 00:16:44,716
+Preciso que fique no meu lugar
+e faça o trabalho.
+
+259
+00:16:45,504 --> 00:16:47,339
+Significa que vai me contar
+do plano?
+
+260
+00:16:48,020 --> 00:16:49,420
+Claro que não.
+
+261
+00:17:07,166 --> 00:17:10,404
+Improvável que tenha
+algum portal aqui.
+
+262
+00:17:10,714 --> 00:17:13,081
+Não tire conclusões ainda.
+
+263
+00:17:13,082 --> 00:17:15,382
+Talvez achemos algo
+para trazer Will de volta.
+
+264
+00:17:15,383 --> 00:17:18,297
+- Não podemos trazê-lo.
+- Jemma...
+
+265
+00:17:19,275 --> 00:17:22,230
+Já sabemos onde o portal
+vai abrir em Maveth.
+
+266
+00:17:22,231 --> 00:17:24,469
+Só falta chegar
+do outro lado.
+
+267
+00:17:24,470 --> 00:17:28,299
+Não foi o que quis dizer.
+Abrir o portal é irresponsável.
+
+268
+00:17:28,300 --> 00:17:30,902
+A Hidra procura isso no planeta
+há séculos.
+
+269
+00:17:30,903 --> 00:17:33,831
+É um conto que as mães Hidra
+contam para os bebês.
+
+270
+00:17:33,832 --> 00:17:36,309
+- Mas já vi. É real.
+- O Will também.
+
+271
+00:17:36,310 --> 00:17:38,592
+E ele está preso lá,
+precisando de ajuda.
+
+272
+00:17:40,848 --> 00:17:42,652
+Não acha que quero salvá-lo?
+
+273
+00:17:43,049 --> 00:17:46,085
+Que isso não acaba comigo?
+Ele salvou minha vida.
+
+274
+00:17:47,448 --> 00:17:49,197
+Você sabe o que sinto
+por ele.
+
+275
+00:17:50,412 --> 00:17:53,368
+Mas arriscar tantas vidas
+seria egoísmo.
+
+276
+00:17:53,369 --> 00:17:54,781
+Não é egoísmo...
+
+277
+00:18:02,871 --> 00:18:04,271
+Não faça isso.
+
+278
+00:18:05,271 --> 00:18:06,670
+Não sou eu!
+
+279
+00:18:22,454 --> 00:18:24,652
+Vamos.
+O Sr. Malick está esperando.
+
+280
+00:18:32,704 --> 00:18:34,157
+Nosso alvo é
+um lugar público.
+
+281
+00:18:34,158 --> 00:18:35,860
+Cheio de olheiros,
+bem, eu imagino.
+
+282
+00:18:36,260 --> 00:18:38,464
+Fala sério sobre as opções
+que estão na mesa?
+
+283
+00:18:38,465 --> 00:18:39,917
+Você tem algo
+específico em mente?
+
+284
+00:18:39,918 --> 00:18:41,571
+Já roubou um banco antes?
+
+285
+00:18:41,572 --> 00:18:43,175
+Não posso dizer que sim.
+Você já?
+
+286
+00:18:43,176 --> 00:18:44,581
+Um conselho...
+
+287
+00:18:44,582 --> 00:18:46,634
+Nunca confie num jóquei
+que dopa o cavalo.
+
+288
+00:18:47,335 --> 00:18:49,538
+O fato é, tenho uma ideia
+que pode funcionar.
+
+289
+00:18:49,539 --> 00:18:51,593
+Bom, tempo é um luxo
+que não temos.
+
+290
+00:18:51,594 --> 00:18:53,996
+Ward e Malick já estão
+dez passos à frente.
+
+291
+00:19:00,604 --> 00:19:02,008
+Não me culpem.
+
+292
+00:19:02,308 --> 00:19:03,912
+Foi ideia dele.
+
+293
+00:19:06,915 --> 00:19:08,319
+Levantem-nos.
+
+294
+00:19:10,622 --> 00:19:12,026
+Meu pai costumava dizer:
+
+295
+00:19:12,027 --> 00:19:14,481
+"Nunca mande um garoto
+fazer o trabalho de um homem."
+
+296
+00:19:14,482 --> 00:19:16,335
+Mas honestamente,
+nunca me ocorreu
+
+297
+00:19:16,336 --> 00:19:18,639
+que deveria tentar enviar
+uma jovem.
+
+298
+00:19:19,189 --> 00:19:21,994
+Diga-me, Srta. Simmons,
+ao atravessar, você o viu?
+
+299
+00:19:23,799 --> 00:19:26,151
+Você não me disse
+que ela era tão feroz.
+
+300
+00:19:26,752 --> 00:19:28,156
+É algo novo.
+
+301
+00:19:28,406 --> 00:19:30,359
+<i>Os segredos
+que devem estar escondidos...</i>
+
+302
+00:19:30,360 --> 00:19:32,664
+nessa cabecinha linda,
+esperando ser compartilhada...
+
+303
+00:19:32,665 --> 00:19:34,418
+Nunca o ajudaremos
+com outro portal.
+
+304
+00:19:34,419 --> 00:19:36,072
+Ninguém está lhe pedindo.
+
+305
+00:19:36,073 --> 00:19:38,877
+A Hidra veio abrindo um portal
+ou outro por séculos.
+
+306
+00:19:38,878 --> 00:19:41,032
+Tudo o que precisamos
+é de algumas pedras...
+
+307
+00:19:41,033 --> 00:19:42,437
+e um edifício,
+
+308
+00:19:42,438 --> 00:19:44,441
+com a freqüência
+vibracional correta.
+
+309
+00:19:44,442 --> 00:19:45,846
+Para que tudo isso, então?
+
+310
+00:19:47,848 --> 00:19:49,252
+A outra coisa.
+
+311
+00:19:50,754 --> 00:19:52,304
+Eles não sabem
+como voltar.
+
+312
+00:19:52,305 --> 00:19:53,958
+Você realmente é
+espertinha.
+
+313
+00:19:53,959 --> 00:19:56,113
+Talvez esteja pronta
+para revelar o seu segredo.
+
+314
+00:19:56,114 --> 00:19:57,946
+Chegue mais perto
+e venha descobrir.
+
+315
+00:19:59,398 --> 00:20:01,100
+- E quanto a você?
+- Vai se catar!
+
+316
+00:20:02,802 --> 00:20:04,205
+Alguma sugestão?
+
+317
+00:20:05,206 --> 00:20:06,658
+Separe-os.
+
+318
+00:20:12,395 --> 00:20:13,897
+<i>A Hidra pegou Fitz-Simmons.</i>
+
+319
+00:20:13,898 --> 00:20:15,302
+Como isso foi possível?
+
+320
+00:20:15,552 --> 00:20:18,006
+Houve uma emboscada
+na instalação Estrela Distante.
+
+321
+00:20:18,007 --> 00:20:19,609
+E quanto ao Banks
+e os outros?
+
+322
+00:20:20,810 --> 00:20:22,215
+Eles não conseguiram.
+
+323
+00:20:22,216 --> 00:20:24,119
+Temos que pegar o Zephyr 1
+e ir até lá.
+
+324
+00:20:24,120 --> 00:20:25,873
+Não acho que seja
+o movimento certo.
+
+325
+00:20:25,874 --> 00:20:27,427
+Eles pegaram Fitz-Simmons.
+
+326
+00:20:27,428 --> 00:20:29,181
+Sei disso,
+a Hidra está longe agora,
+
+327
+00:20:29,182 --> 00:20:30,985
+não podemos perder
+recursos que temos...
+
+328
+00:20:30,986 --> 00:20:32,391
+perseguindo o próprio rabo.
+
+329
+00:20:32,392 --> 00:20:33,893
+É melhor do que
+não fazer nada.
+
+330
+00:20:35,495 --> 00:20:37,047
+Preciso ligar para o Coulson.
+
+331
+00:20:47,709 --> 00:20:49,611
+<i>- Diretor.
+- Senhor, temos um problema.</i>
+
+332
+00:20:49,612 --> 00:20:51,816
+<i>- Sequestraram Fitz-Simmons.
+- O quê?</i>
+
+333
+00:20:51,817 --> 00:20:53,620
+<i>- Por quem?
+- Hidra, pelo que parece.</i>
+
+334
+00:20:53,621 --> 00:20:55,174
+<i>Sabiam que iríamos.</i>
+
+335
+00:20:55,175 --> 00:20:57,879
+Por isso Ward falou do portal.
+Ele queria que fôssemos lá.
+
+336
+00:21:05,739 --> 00:21:07,741
+Isso significa
+que vamos mudar os planos?
+
+337
+00:21:08,142 --> 00:21:10,147
+Não. Significa que tem
+que funcionar.
+
+338
+00:21:14,153 --> 00:21:16,005
+Alguém precisa explicar
+o que fazer?
+
+339
+00:21:18,808 --> 00:21:20,610
+Não quero heróis aqui hoje,
+chapa.
+
+340
+00:21:25,115 --> 00:21:26,967
+Deus.
+Como me encontrou?
+
+341
+00:21:33,325 --> 00:21:34,776
+Não tenho medo de você.
+
+342
+00:21:35,978 --> 00:21:37,780
+Tenho que dizer,
+estou impressionado...
+
+343
+00:21:37,781 --> 00:21:40,180
+com essa vibe de Furiosa
+que está tendo.
+
+344
+00:21:40,181 --> 00:21:41,585
+Por favor, cale a boca.
+
+345
+00:21:41,586 --> 00:21:45,041
+Estar presa em um outro mundo
+deve ter muito a ver com isso.
+
+346
+00:21:45,042 --> 00:21:46,643
+Mas queria mesmo...
+
+347
+00:21:46,644 --> 00:21:49,247
+que jogar você e Fitz
+direto no mar,
+
+348
+00:21:49,248 --> 00:21:51,098
+fosse o motivo verdadeiro.
+
+349
+00:21:51,899 --> 00:21:53,649
+Você é mesmo
+o rei dos idiotas.
+
+350
+00:21:56,300 --> 00:21:58,102
+Podemos fazer isso
+de outro jeito.
+
+351
+00:21:58,103 --> 00:22:00,404
+- Faça o pior.
+- Viu? Eis o problema.
+
+352
+00:22:00,705 --> 00:22:02,506
+Se chegou mesmo
+a me conhecer,
+
+353
+00:22:02,507 --> 00:22:05,108
+saberia que nunca faria nada
+para machucá-la, Jemma.
+
+354
+00:22:07,909 --> 00:22:10,711
+Mas não posso dizer
+o mesmo dele.
+
+355
+00:22:17,814 --> 00:22:19,565
+Avise-me saber
+se mudar de ideia.
+
+356
+00:22:23,767 --> 00:22:25,417
+Quer ver um truque?
+
+357
+00:22:44,625 --> 00:22:46,029
+O que você...
+o que...
+
+358
+00:22:46,030 --> 00:22:47,434
+O que você fez
+com a Simmons?
+
+359
+00:22:47,435 --> 00:22:49,535
+Confie em mim,
+você não vai querer saber.
+
+360
+00:22:49,835 --> 00:22:52,286
+Eu vou matar você...
+seu psicopata!
+
+361
+00:22:52,867 --> 00:22:55,066
+Parece que ainda
+tem medo de mim, Fitz.
+
+362
+00:22:55,067 --> 00:22:57,472
+Não se preocupe.
+Eu não vou machucá-lo.
+
+363
+00:22:57,877 --> 00:22:59,778
+Há um modo mais fácil
+de fazê-lo falar.
+
+364
+00:23:00,978 --> 00:23:02,578
+Deixe a Simmons em paz.
+
+365
+00:23:02,579 --> 00:23:05,281
+Primeiro pensamento que tive
+quando nos conhecemos foi:
+
+366
+00:23:05,282 --> 00:23:07,684
+"Nossa, esse cara está
+mesmo apaixonado".
+
+367
+00:23:08,384 --> 00:23:09,886
+Achei meigo, mesmo.
+
+368
+00:23:10,587 --> 00:23:12,637
+Não para um adulto.
+
+369
+00:23:12,638 --> 00:23:14,739
+Mais como um cachorrinho
+de desenho animado,
+
+370
+00:23:14,740 --> 00:23:17,192
+com o coração batendo
+e saindo do peito.
+
+371
+00:23:17,792 --> 00:23:19,195
+Não faça isso.
+
+372
+00:23:19,196 --> 00:23:21,349
+Eu já lhe disse
+para fazer um movimento...
+
+373
+00:23:21,350 --> 00:23:22,752
+antes que fosse
+tarde demais.
+
+374
+00:23:23,252 --> 00:23:25,153
+Adivinha... tarde demais.
+
+375
+00:23:26,854 --> 00:23:28,257
+Por favor...
+
+376
+00:23:30,457 --> 00:23:32,787
+Só me diga como ela voltou,
+e tudo isso acaba.
+
+377
+00:23:32,788 --> 00:23:34,191
+Simples assim.
+
+378
+00:23:34,192 --> 00:23:35,595
+<i>Não!</i>
+
+379
+00:23:38,346 --> 00:23:41,298
+<i>Não! Não!</i>
+
+380
+00:23:43,199 --> 00:23:45,151
+<i>Não!</i>
+
+381
+00:23:45,152 --> 00:23:46,902
+Ou podemos apenas...
+
+382
+00:23:47,603 --> 00:23:49,005
+sentar aqui e escutar.
+
+383
+00:23:51,356 --> 00:23:53,409
+Acha que ele realmente
+vai nos levar até o Ward?
+
+384
+00:23:53,410 --> 00:23:56,112
+O que percebi nele é que
+cada coisa louca que faz...
+
+385
+00:23:56,113 --> 00:23:58,513
+é uma tentativa equivocada
+de justificar o seu passado.
+
+386
+00:24:00,720 --> 00:24:03,524
+Mas há uma coisa nele
+que ele nunca pode acertar.
+
+387
+00:24:04,727 --> 00:24:06,063
+O que é isso?
+
+388
+00:24:06,064 --> 00:24:08,002
+- Meu irmão enviou vocês?
+- Grant Ward?
+
+389
+00:24:08,204 --> 00:24:10,031
+Nem sabe que você está aqui,
+chapa.
+
+390
+00:24:11,511 --> 00:24:13,286
+Mas ele está prestes a saber.
+
+391
+00:24:16,027 --> 00:24:18,352
+Estou curioso para saber
+o que é pior para você...
+
+392
+00:24:18,353 --> 00:24:20,687
+Aqueles momentos
+em que Simmons grita...
+
+393
+00:24:20,688 --> 00:24:22,788
+ou é a longa pausa
+quando ela não grita?
+
+394
+00:24:35,833 --> 00:24:39,067
+Não esperava uma ligação
+de uma mulher morta.
+
+395
+00:24:39,068 --> 00:24:41,102
+Passei cada segundo
+desde que matou Rosalind,
+
+396
+00:24:41,103 --> 00:24:43,137
+tentando entender
+como sua mente doentia age.
+
+397
+00:24:43,138 --> 00:24:44,906
+Não deve ser tão difícil.
+
+398
+00:24:44,907 --> 00:24:46,907
+Não somos tão diferentes,
+você e eu.
+
+399
+00:24:46,908 --> 00:24:48,975
+<i>Não agimos
+em mundos diferentes, Coulson.</i>
+
+400
+00:24:48,976 --> 00:24:50,777
+<i>Nós dois temos
+sangue em nossas mãos.</i>
+
+401
+00:24:50,778 --> 00:24:53,111
+Mas nunca feri alguém
+por razões egoístas.
+
+402
+00:24:53,112 --> 00:24:54,646
+Até agora.
+
+403
+00:24:55,148 --> 00:24:57,581
+- Como assim?
+- Alguém quer dizer "olá".
+
+404
+00:24:57,915 --> 00:24:59,582
+Dê uma olhada.
+
+405
+00:25:09,489 --> 00:25:12,458
+Eu pego um dos seus,
+você pega um dos meus?
+
+406
+00:25:13,494 --> 00:25:17,063
+É como eu disse,
+dois lados, mesma moeda.
+
+407
+00:25:17,264 --> 00:25:19,699
+Só duvido
+que esteja disposto a tudo.
+
+408
+00:25:20,200 --> 00:25:22,365
+Achei que diria isso,
+por isso trouxe um amigo.
+
+409
+00:25:30,708 --> 00:25:32,407
+Se encostar um dedo
+no Thomas...
+
+410
+00:25:37,412 --> 00:25:38,813
+Desligou na cara dele?
+
+411
+00:25:39,214 --> 00:25:41,214
+É mesmo a jogada certa,
+chefe?
+
+412
+00:25:41,215 --> 00:25:43,883
+Preciso que Ward saiba
+que temos uma mão melhor.
+
+413
+00:25:43,884 --> 00:25:46,919
+Além disso...
+isso vai deixá-lo puto da vida.
+
+414
+00:25:50,055 --> 00:25:52,890
+- Aqui.
+- Por favor, não me mate.
+
+415
+00:25:52,891 --> 00:25:54,425
+Ninguém quer isso.
+
+416
+00:25:54,626 --> 00:25:57,194
+Não ajuda nada apontar
+uma arma para sua cabeça.
+
+417
+00:25:57,195 --> 00:25:59,695
+Odeio dizer isso, mas seu irmão
+não é um cara muito legal.
+
+418
+00:25:59,696 --> 00:26:01,330
+Você é que me sequestrou!
+
+419
+00:26:01,331 --> 00:26:04,066
+- Qual a de vocês?
+- Ward pegou pessoas que gosto.
+
+420
+00:26:04,067 --> 00:26:05,900
+<i>E pelo que sabemos...</i>
+
+421
+00:26:05,901 --> 00:26:08,303
+<i>Você é a única coisa no mundo
+com que ele se preocupa.</i>
+
+422
+00:26:08,304 --> 00:26:11,716
+O que significa que é
+o único meio de resgatá-los.
+
+423
+00:26:11,717 --> 00:26:13,256
+Tudo bem.
+
+424
+00:26:14,374 --> 00:26:16,491
+Mas é melhor matá-lo
+quando isso terminar.
+
+425
+00:26:17,875 --> 00:26:20,377
+Sinceramente
+não estava esperando isso.
+
+426
+00:26:20,378 --> 00:26:22,178
+É o que Grant sempre fez...
+
+427
+00:26:22,179 --> 00:26:24,014
+ferir as pessoas
+e se enganar sobre isso.
+
+428
+00:26:24,015 --> 00:26:26,616
+Então, tudo aquilo sobre
+uma infância traumática é...
+
+429
+00:26:26,617 --> 00:26:27,917
+só uma enganação?
+
+430
+00:26:27,918 --> 00:26:30,018
+O que ele disse
+sobre os nossos pais é verdade.
+
+431
+00:26:30,419 --> 00:26:33,888
+Meu pai tinha problemas
+para controlar a raiva.
+
+432
+00:26:33,889 --> 00:26:35,789
+E minha mãe...
+tinha problemas com meu pai.
+
+433
+00:26:35,790 --> 00:26:38,457
+Então eles passaram muito tempo
+descontando isso em nós.
+
+434
+00:26:38,759 --> 00:26:40,792
+E seus irmãos?
+Você era próximo deles?
+
+435
+00:26:41,193 --> 00:26:42,861
+Christian era
+muito mais velho,
+
+436
+00:26:42,862 --> 00:26:45,397
+então nunca fomos chegados,
+mas o Grant...
+
+437
+00:26:47,999 --> 00:26:49,932
+Ele era meu melhor amigo.
+
+438
+00:26:50,334 --> 00:26:53,902
+Protegeu-me dos meus pais,
+do Christian...
+
+439
+00:26:53,903 --> 00:26:55,782
+Mas um dia,
+ele não conseguiu.
+
+440
+00:26:55,783 --> 00:26:57,784
+O dia em que ele jogou você
+no poço.
+
+441
+00:26:58,974 --> 00:27:00,841
+Grant mudou totalmente
+depois disso.
+
+442
+00:27:01,142 --> 00:27:03,141
+Era como se sentisse culpado,
+mas...
+
+443
+00:27:03,142 --> 00:27:05,312
+não podia admitir
+o que tinha acontecido.
+
+444
+00:27:05,313 --> 00:27:07,913
+Em vez disso, vivia prometendo
+que ninguém me feriria de novo.
+
+445
+00:27:07,914 --> 00:27:10,798
+Ligeiramente irritante vindo
+de quem jogou você em um poço.
+
+446
+00:27:10,799 --> 00:27:14,219
+Vocês mantêm contato?
+Feriados? Essas coisas?
+
+447
+00:27:14,220 --> 00:27:15,885
+Grant tinha 17 anos
+quando queimou...
+
+448
+00:27:15,886 --> 00:27:17,920
+a casa dos meus pais
+com Christian dentro.
+
+449
+00:27:17,921 --> 00:27:20,890
+Desde então, fiz questão
+de deixá-lo bem longe.
+
+450
+00:27:21,391 --> 00:27:23,225
+Parece bem lógico,
+na verdade.
+
+451
+00:27:23,525 --> 00:27:26,560
+Bem, você não parece mesmo
+com o seu irmão.
+
+452
+00:27:26,561 --> 00:27:29,195
+Só porque cresceu numa família
+de monstros abusivos...
+
+453
+00:27:29,196 --> 00:27:31,064
+não significa
+que tenha que se tornar um.
+
+454
+00:27:31,065 --> 00:27:32,433
+Não me tornei.
+
+455
+00:27:32,834 --> 00:27:35,334
+Por favor, não me entreguem
+para o Grant.
+
+456
+00:27:35,335 --> 00:27:38,503
+Foi mal, chapa.
+Só assim para tirá-lo da toca.
+
+457
+00:27:39,405 --> 00:27:40,805
+<i>Talvez não.</i>
+
+458
+00:27:40,806 --> 00:27:42,840
+Durante a chamada,
+rastreei o telefone dele.
+
+459
+00:27:42,841 --> 00:27:45,975
+Agora só temos que enrolá-lo
+para obter a localização exata.
+
+460
+00:27:45,976 --> 00:27:47,575
+Ward não vai permitir isso.
+
+461
+00:27:47,576 --> 00:27:50,278
+Vai se deixarem
+que eu fale com ele.
+
+462
+00:27:50,279 --> 00:27:53,614
+Não é uma boa ideia,
+mesmo que... ligue de volta.
+
+463
+00:27:55,617 --> 00:27:56,982
+Ainda não é uma boa ideia.
+
+464
+00:28:05,691 --> 00:28:08,792
+Juro cortar Fitz
+da cabeça aos pés se...
+
+465
+00:28:08,793 --> 00:28:10,359
+<i>Grant?</i>
+
+466
+00:28:11,661 --> 00:28:15,098
+Thomas...
+Você está bem?
+
+467
+00:28:15,099 --> 00:28:16,999
+Tudo o que eles estão dizendo
+é verdade?
+
+468
+00:28:17,000 --> 00:28:20,234
+<i>Não dê ouvidos a eles.
+Eles são os vilões.</i>
+
+469
+00:28:20,235 --> 00:28:22,036
+Eles mataram alguém
+que eu amava muito.
+
+470
+00:28:22,037 --> 00:28:23,503
+Então, por que isso?
+
+471
+00:28:23,504 --> 00:28:26,605
+<i>Eles sabem o quanto amo você.
+Eles querem me machucar.</i>
+
+472
+00:28:28,508 --> 00:28:31,810
+- Já faz quase 15 anos.
+- Tentei ver você.
+
+473
+00:28:31,811 --> 00:28:33,912
+Mamãe e papai não deixaram.
+
+474
+00:28:33,913 --> 00:28:35,313
+Eles o mantiveram escondido.
+
+475
+00:28:35,314 --> 00:28:37,882
+Não foi a mamãe e o papai.
+Fui eu.
+
+476
+00:28:37,883 --> 00:28:41,251
+<i>Mudei meu nome e me mudei
+para que nunca me achasse.</i>
+
+477
+00:28:41,252 --> 00:28:44,618
+- Por que você faria isso?
+- Para não me ferir de novo!
+
+478
+00:28:44,854 --> 00:28:48,489
+- Foi só uma vez.
+- Sério? Uma vez?
+
+479
+00:28:48,490 --> 00:28:50,724
+Então explique o que fez
+com nossos pais?!
+
+480
+00:28:50,725 --> 00:28:52,293
+- Thomas...
+- Não, você os matou.
+
+481
+00:28:52,294 --> 00:28:55,160
+- E o Christian também!
+- Sabe como eles eram.
+
+482
+00:28:55,161 --> 00:28:57,663
+<i>Eles teriam nos ferido.
+Não permitiria isso de novo.</i>
+
+483
+00:28:57,664 --> 00:29:00,698
+Papai precisava de um andador
+para andar. Como ele faria?
+
+484
+00:29:00,699 --> 00:29:02,966
+Sei que é difícil de ouvir,
+mas, às vezes, precisa...
+
+485
+00:29:02,967 --> 00:29:04,768
+fazer coisas ruins
+pelas razões certas.
+
+486
+00:29:04,769 --> 00:29:06,769
+Pare de tentar
+de justificar o que fez.
+
+487
+00:29:06,770 --> 00:29:09,337
+Pare!
+Eles eram meus pais, também!
+
+488
+00:29:09,338 --> 00:29:12,940
+E sim, eram pessoas horríveis,
+mas você é muito pior.
+
+489
+00:29:12,941 --> 00:29:14,475
+<i>Você pôs fogo neles!</i>
+
+490
+00:29:14,476 --> 00:29:17,043
+<i>Thomas, acalme-se.
+Ouça-me por um segundo.</i>
+
+491
+00:29:17,044 --> 00:29:20,379
+- Acabou o tempo.
+- Ponha Thomas de volta.
+
+492
+00:29:20,380 --> 00:29:22,029
+Sim, isso não vai acontecer.
+
+493
+00:29:22,680 --> 00:29:25,914
+- Você rastreou a chamada.
+- E agora vamos caçar você!
+
+494
+00:29:38,995 --> 00:29:43,229
+Vai me contar tudo
+que preciso saber agora!
+
+495
+00:29:44,866 --> 00:29:48,667
+<i>Você me entende?!
+Entende?!</i>
+
+496
+00:29:49,856 --> 00:29:53,174
+<i>Não. Não!</i>
+
+497
+00:29:58,659 --> 00:30:01,058
+Aqui diz que Ward está
+no Sudoeste da Inglaterra.
+
+498
+00:30:01,059 --> 00:30:03,106
+No castelo que trouxemos
+Simmons de volta.
+
+499
+00:30:03,107 --> 00:30:04,556
+Eis o motivo do sequestro.
+
+500
+00:30:04,557 --> 00:30:07,354
+- Malick quer abrir outro portal.
+- Melhor chegarmos antes.
+
+501
+00:30:07,355 --> 00:30:09,787
+Minha vida toda fugi do Grant.
+
+502
+00:30:09,788 --> 00:30:11,655
+Como ficarei seguro agora?
+
+503
+00:30:11,656 --> 00:30:14,163
+Seguranças foram designados
+para ficar de olho em você.
+
+504
+00:30:16,554 --> 00:30:19,884
+É tudo encenação?
+Ou ele iria mesmo me machucar?
+
+505
+00:30:20,485 --> 00:30:23,116
+Manteremos contato.
+
+506
+00:30:41,045 --> 00:30:45,543
+- Daisy disse que queria falar.
+- Para pedir uma opinião.
+
+507
+00:30:45,544 --> 00:30:47,740
+Li o arquivo do Andrew
+sobre o Lincoln...
+
+508
+00:30:47,741 --> 00:30:49,375
+<i>"Temperamento perigoso...</i>
+
+509
+00:30:49,376 --> 00:30:51,274
+que foi aumentado
+por eventos recentes.
+
+510
+00:30:51,275 --> 00:30:53,507
+Minha opinião profissional
+é que não deveria...
+
+511
+00:30:53,508 --> 00:30:54,906
+estar na iniciativa."
+
+512
+00:30:54,907 --> 00:30:59,650
+O que você acha?
+
+513
+00:31:00,938 --> 00:31:03,836
+Nem sei nem se é dele.
+Talvez seja do Lash.
+
+514
+00:31:04,271 --> 00:31:06,368
+Como saberíamos a diferença?
+
+515
+00:31:09,036 --> 00:31:10,767
+Há um satélite
+sobre o castelo...
+
+516
+00:31:10,768 --> 00:31:13,533
+onde Ward e Malick
+estão mantendo Fitz-Simmons.
+
+517
+00:31:13,534 --> 00:31:16,232
+Parece que a Hidra
+tem uma dezena de tropas.
+
+518
+00:31:16,233 --> 00:31:18,107
+O maior problema é
+a artilharia pesada...
+
+519
+00:31:18,108 --> 00:31:19,408
+e os antiaéreos.
+
+520
+00:31:20,308 --> 00:31:21,863
+E nem é o pior.
+
+521
+00:31:22,397 --> 00:31:24,996
+Coulson avisou que estava indo.
+
+522
+00:31:24,997 --> 00:31:27,796
+Camuflagem não ajuda
+se sabe o que está procurando.
+
+523
+00:31:27,797 --> 00:31:29,560
+Perguntei se precisava
+de reforços, mas...
+
+524
+00:31:29,561 --> 00:31:31,094
+Coulson recusou-se a pedir.
+
+525
+00:31:31,095 --> 00:31:33,698
+Você está no comando.
+Faça isso por ele.
+
+526
+00:31:40,025 --> 00:31:43,357
+Estamos sem homens, armas
+e tempo de montar equipe...
+
+527
+00:31:43,358 --> 00:31:45,688
+que tenha alguma chance
+contra um covil da Hidra!
+
+528
+00:31:49,123 --> 00:31:51,421
+Que droga devo fazer?
+
+529
+00:31:51,422 --> 00:31:53,419
+Acho que já sabe.
+
+530
+00:32:06,784 --> 00:32:09,681
+Eis a nossa viajante espacial.
+
+531
+00:32:09,682 --> 00:32:12,247
+Estávamos prestes
+a abrir o portal.
+
+532
+00:32:12,248 --> 00:32:15,064
+Pensei que fosse
+querer ver por si.
+
+533
+00:32:21,378 --> 00:32:23,043
+Quem for até
+aquele planeta morrerá.
+
+534
+00:32:23,044 --> 00:32:25,277
+Há uma coisa naquele lado
+que enlouquece as pessoas.
+
+535
+00:32:25,877 --> 00:32:28,442
+É uma interessante teoria.
+Eis outra...
+
+536
+00:32:29,242 --> 00:32:31,106
+Ele quer voltar.
+
+537
+00:32:31,107 --> 00:32:32,573
+E após todos esses anos,
+
+538
+00:32:32,574 --> 00:32:34,539
+finalmente achamos alguém
+para trazê-lo.
+
+539
+00:32:34,540 --> 00:32:37,572
+Nunca ajudarei você a trazê-lo,
+não importa o quanto me fira.
+
+540
+00:32:37,873 --> 00:32:40,737
+Por isso concordamos
+em parar de ferir você.
+
+541
+00:32:42,039 --> 00:32:44,135
+Para que ele nos ajudasse.
+
+542
+00:32:46,103 --> 00:32:50,334
+- Fitz.
+- Sinto muito, Jemma.
+
+543
+00:32:50,335 --> 00:32:52,866
+Sempre soube que Fitz
+daria o mundo por você.
+
+544
+00:32:52,867 --> 00:32:54,967
+Parece que ele finalmente
+terá a chance.
+
+545
+00:33:00,127 --> 00:33:01,523
+Tem certeza disso?
+
+546
+00:33:01,524 --> 00:33:03,687
+Eles nem foram liberados
+para trabalho em campo.
+
+547
+00:33:03,688 --> 00:33:05,518
+Acabei de liberá-los.
+
+548
+00:33:07,382 --> 00:33:10,610
+Parece que terei uma equipe,
+afinal de contas.
+
+549
+00:33:10,611 --> 00:33:12,210
+Ouçam!
+
+550
+00:33:12,211 --> 00:33:14,208
+A Hidra está
+com Fitz e Simmons,
+
+551
+00:33:14,209 --> 00:33:16,773
+e estão pensando
+em abrir outro portal.
+
+552
+00:33:16,774 --> 00:33:18,802
+Por isso iremos impedi-los.
+
+553
+00:33:18,803 --> 00:33:22,530
+- Mas por que nós?
+- Somos tudo que eles têm.
+
+554
+00:33:23,530 --> 00:33:25,793
+Vocês dois têm poderes.
+Os outros agentes não.
+
+555
+00:33:25,794 --> 00:33:29,088
+Mas não vou mentir.
+É uma missão perigosa.
+
+556
+00:33:29,089 --> 00:33:31,121
+E as chances
+não estão a nosso favor.
+
+557
+00:33:31,122 --> 00:33:35,414
+- Não é um bom argumento.
+- Eis o negócio.
+
+558
+00:33:35,415 --> 00:33:38,645
+O que a Hidra planeja
+vai machucar muitos inocentes,
+
+559
+00:33:38,646 --> 00:33:40,242
+talvez até pessoas
+que amem.
+
+560
+00:33:40,443 --> 00:33:43,604
+Não estaria pedindo ajuda
+se não tivéssemos chance.
+
+561
+00:33:43,605 --> 00:33:46,801
+Ou vocês se levantam
+e fazem a porra do trabalho,
+
+562
+00:33:46,802 --> 00:33:50,595
+ou deixam os vilões vencerem.
+A escolha é sua.
+
+563
+00:34:05,247 --> 00:34:06,941
+Belo discurso, diretor.
+
+564
+00:34:10,405 --> 00:34:12,502
+Quanto tempo
+até chegarmos na base?
+
+565
+00:34:12,503 --> 00:34:15,398
+Por volta de 10 minutos.
+Senhor?
+
+566
+00:34:15,399 --> 00:34:19,493
+- O que houve lá trás?
+- Era o que precisávamos.
+
+567
+00:34:19,494 --> 00:34:21,724
+- Fim de história.
+- Eu entendo.
+
+568
+00:34:21,725 --> 00:34:25,588
+Mas aquele olhar em sua cara...
+Eu já o vi.
+
+569
+00:34:25,589 --> 00:34:27,851
+É o mesmo de quando Hunter
+foi atrás de Ward.
+
+570
+00:34:27,852 --> 00:34:29,815
+Não estou entendendo
+onde quer chegar.
+
+571
+00:34:29,816 --> 00:34:32,644
+É perigoso ir em uma missão
+com emoções.
+
+572
+00:34:32,645 --> 00:34:35,374
+Precisa ser capaz de separar
+o trabalho dos sentimentos.
+
+573
+00:34:35,375 --> 00:34:36,774
+Você está errada.
+
+574
+00:34:36,775 --> 00:34:39,004
+Duvidei de meus sentimentos,
+e olhe onde deu.
+
+575
+00:34:39,005 --> 00:34:42,433
+Rosalind está morta,
+Ward está com Fitz-Simmons.
+
+576
+00:34:42,434 --> 00:34:45,198
+Só me arrependo de não ter
+matado o safado quando pude.
+
+577
+00:34:45,199 --> 00:34:46,927
+- Coulson...
+- Avise ao nos aproximarmos.
+
+578
+00:34:54,120 --> 00:34:57,547
+- Está na hora.
+- Comecem sem mim.
+
+579
+00:34:57,548 --> 00:35:00,213
+Preciso me preparar
+para a S.H.I.E.L.D.
+
+580
+00:35:00,214 --> 00:35:01,776
+A S.H.I.E.L.D. não virá.
+
+581
+00:35:01,777 --> 00:35:06,670
+- Não subestime Coulson.
+- Phil não é importante.
+
+582
+00:35:06,671 --> 00:35:09,600
+Por outro lado,
+ainda tem um papel importante.
+
+583
+00:35:09,601 --> 00:35:12,230
+Do que está falando?
+
+584
+00:35:12,231 --> 00:35:15,293
+Quero que guie nosso homem
+do outro lado.
+
+585
+00:35:15,294 --> 00:35:18,389
+Não pode estar falando sério.
+
+586
+00:35:18,390 --> 00:35:21,370
+Tenho trabalhado por isso
+desde a morte da Kara.
+
+587
+00:35:21,371 --> 00:35:23,584
+- Por que eu desistiria?
+- Pois já venceu.
+
+588
+00:35:23,585 --> 00:35:25,714
+<i>A S.H.I.E.L.D. está destruída.</i>
+
+589
+00:35:25,715 --> 00:35:27,611
+Precisa mesmo
+fazer uma volta olímpica?
+
+590
+00:35:27,612 --> 00:35:31,405
+Não acabou até que eu pise
+sobre o corpo de Coulson.
+
+591
+00:35:32,541 --> 00:35:34,070
+Achei que fosse
+mais que isso.
+
+592
+00:35:34,071 --> 00:35:36,367
+Mais do que um sedento
+por sangue e vingança.
+
+593
+00:35:36,368 --> 00:35:37,998
+Achei que tinha visão.
+
+594
+00:35:37,999 --> 00:35:41,162
+O bastante para saber
+quando estou sendo manipulado.
+
+595
+00:35:41,861 --> 00:35:44,790
+Em arriscar minha vida
+pelo sonho de alguém.
+
+596
+00:35:44,791 --> 00:35:47,121
+Seu sonho? Vingança?
+
+597
+00:35:47,122 --> 00:35:50,018
+É apenas vaidade, Sr. Ward.
+É fraqueza.
+
+598
+00:35:50,019 --> 00:35:51,782
+Não me fale sobre fraqueza,
+velhote.
+
+599
+00:35:51,783 --> 00:35:55,377
+Fraqueza é seguir os outros.
+Aprendi do pior jeito.
+
+600
+00:35:55,378 --> 00:35:58,572
+Não estou pedindo que me siga.
+Quero que lidere.
+
+601
+00:36:01,758 --> 00:36:04,988
+Eu esperei esse momento
+por muito tempo, sim.
+
+602
+00:36:05,589 --> 00:36:09,754
+Mas eu achei que acharia alguém
+para aproveitá-lo comigo.
+
+603
+00:36:10,254 --> 00:36:13,351
+<i>Achei que poderia ser o Pierce,
+mas ele era sanguinário.</i>
+
+604
+00:36:13,352 --> 00:36:15,615
+Pensei que poderia ser
+John Garrett, mas...
+
+605
+00:36:15,616 --> 00:36:18,947
+a vaidade dele o levou a pensar
+apenas em si mesmo.
+
+606
+00:36:18,948 --> 00:36:21,778
+John Garrett é a única razão
+da minha fé na Hidra.
+
+607
+00:36:21,779 --> 00:36:25,575
+E é a coisa mais importante
+que ele fez por nossa causa.
+
+608
+00:36:27,143 --> 00:36:30,340
+Não sou um soldado.
+Você é o melhor que já tivemos.
+
+609
+00:36:30,341 --> 00:36:32,804
+Você é o único
+que pode fazer isso.
+
+610
+00:36:32,805 --> 00:36:34,504
+E se você atravessar...
+
+611
+00:36:35,004 --> 00:36:38,768
+vai finalmente ver que sua fé
+nunca foi errada.
+
+612
+00:36:39,369 --> 00:36:43,897
+É real.
+Vai olhá-la diretamente.
+
+613
+00:36:45,298 --> 00:36:48,395
+- E depois?
+- E depois...
+
+614
+00:36:49,296 --> 00:36:52,457
+Poderemos fazer tudo
+o que quisermos.
+
+615
+00:36:59,622 --> 00:37:02,952
+Ei! Se tocar nela,
+o acordo acabou.
+
+616
+00:37:04,353 --> 00:37:07,550
+- Fitz, não pode fazer isso.
+- Eu já decidi, Jemma.
+
+617
+00:37:07,551 --> 00:37:10,414
+Não podemos deixá-los trazer
+aquela coisa de volta!
+
+618
+00:37:11,848 --> 00:37:15,044
+Fitz, por favor,
+deixe que me matem.
+
+619
+00:37:15,045 --> 00:37:17,543
+Eu não posso.
+Eu não vou.
+
+620
+00:37:20,144 --> 00:37:21,906
+Já perdi você uma vez.
+
+621
+00:37:23,907 --> 00:37:25,572
+Não posso perder você
+de novo.
+
+622
+00:37:26,571 --> 00:37:28,171
+Eu só...
+
+623
+00:37:29,571 --> 00:37:31,933
+Não sou forte o suficiente
+para viver sem você.
+
+624
+00:37:38,964 --> 00:37:40,461
+Volte para mim.
+
+625
+00:37:43,829 --> 00:37:46,292
+Só não traga aquela coisa
+com você.
+
+626
+00:37:47,293 --> 00:37:50,422
+A única coisa
+que vou trazer é o Will, certo?
+
+627
+00:37:52,856 --> 00:37:54,952
+<i>Vamos começar com isso.</i>
+
+628
+00:37:58,152 --> 00:37:59,715
+O que está fazendo?
+
+629
+00:38:01,783 --> 00:38:03,414
+Liderando.
+
+630
+00:38:30,132 --> 00:38:32,230
+Parece que eles estão
+se preparando.
+
+631
+00:38:32,231 --> 00:38:34,196
+Eles vão levar o Fitz
+ou a Simmons.
+
+632
+00:38:34,197 --> 00:38:36,694
+É uma jogada inteligente.
+O que quiserem por lá...
+
+633
+00:38:36,695 --> 00:38:39,226
+vão ter alguém para guiá-los
+e outro como garantia.
+
+634
+00:38:39,727 --> 00:38:41,058
+Este é o Ward.
+
+635
+00:38:41,059 --> 00:38:43,090
+Como sabe disso
+só com uma assinatura de calor?
+
+636
+00:38:43,091 --> 00:38:44,455
+É ele.
+
+637
+00:38:44,856 --> 00:38:46,521
+Esperem por mim.
+
+638
+00:38:47,523 --> 00:38:49,486
+Quando chegarem lá,
+estabeleçam um perímetro.
+
+639
+00:38:49,487 --> 00:38:51,650
+Esperem por mim.
+Estou bem atrás de vocês.
+
+640
+00:38:56,949 --> 00:38:59,546
+Encontre-o,
+vá até as coordenadas de saída.
+
+641
+00:38:59,547 --> 00:39:01,845
+Ativaremos o portal
+em exatamente...
+
+642
+00:39:02,446 --> 00:39:04,743
+- 12 horas.
+- Certo.
+
+643
+00:39:05,344 --> 00:39:07,341
+Traga-o de volta,
+meu amigo.
+
+644
+00:39:07,342 --> 00:39:09,540
+Seja aquele que terminará
+o que a Hidra começou.
+
+645
+00:39:10,807 --> 00:39:12,837
+Faça história hoje.
+
+646
+00:39:17,337 --> 00:39:18,733
+Anime-se.
+
+647
+00:39:19,134 --> 00:39:21,034
+É um novo começo
+para nós dois.
+
+648
+00:39:34,559 --> 00:39:35,924
+Ele vai atravessar.
+
+649
+00:39:35,925 --> 00:39:38,221
+Se é realmente o Ward,
+chegamos tarde.
+
+650
+00:39:42,487 --> 00:39:45,183
+Pode mostrar um pouco
+de bom senso para ele?
+
+651
+00:39:47,718 --> 00:39:50,881
+Não pode fazer isso.
+Só um louco iria lá sem plano.
+
+652
+00:39:50,882 --> 00:39:54,878
+- Eu vou terminar isso.
+- Que porra.
+
+653
+00:39:54,879 --> 00:39:57,010
+Espere. Espere.
+O que está fazendo?
+
+654
+00:39:57,011 --> 00:39:59,476
+Nós dois sabemos que bom senso
+nunca foi o meu forte.
+
+655
+00:40:05,406 --> 00:40:08,535
+A Hidra nos encurralou.
+Precisamos ir.
+
+656
+00:40:13,800 --> 00:40:15,498
+Coulson, espere!
+
+657
+00:40:25,227 --> 00:40:26,990
+Desligue.
+
+658
+00:41:10,931 --> 00:41:12,483
+Não é nada!
+
+659
+00:41:14,184 --> 00:41:16,127
+Certo!
+Continue andando!
+
+660
+00:41:38,128 --> 00:41:43,128
+<b>The_Tozz e UNITED!
+Stargate Ward-1!</b>
+
