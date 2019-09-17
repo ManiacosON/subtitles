@@ -1,0 +1,3334 @@
+1
+00:00:01,227 --> 00:00:03,920
+<i>Anteriormente em MAoS...</i>
+
+2
+00:00:03,921 --> 00:00:06,600
+Que coisa é essa que se passa
+por Grant Ward?
+
+3
+00:00:06,601 --> 00:00:08,451
+<i>Ele se conecta
+aos Inumanos...</i>
+
+4
+00:00:08,452 --> 00:00:11,457
+<i>e eles imediatamente
+se juntam à colmeia.</i>
+
+5
+00:00:11,458 --> 00:00:13,962
+Tenho que voltar à base.
+Eles têm algo que queremos.
+
+6
+00:00:13,963 --> 00:00:16,235
+Daisy me mostrou
+o artefato Kree.
+
+7
+00:00:16,236 --> 00:00:17,835
+Falta uma parte.
+
+8
+00:00:17,836 --> 00:00:19,504
+<i>Eu o enterrei.
+O que é isso?</i>
+
+9
+00:00:19,505 --> 00:00:21,808
+A única coisa
+que pode me destruir.
+
+10
+00:00:21,809 --> 00:00:24,714
+- Como desinfetaremos Daisy?
+- Eis o Dr. Holden Radcliffe.
+
+11
+00:00:24,715 --> 00:00:26,383
+Só você pode salvar
+minha amiga.
+
+12
+00:00:29,658 --> 00:00:32,061
+Com a ajuda de vocês,
+redefiniremos a humanidade.
+
+13
+00:00:32,062 --> 00:00:33,463
+- Como você...
+- Recriando...
+
+14
+00:00:33,464 --> 00:00:35,299
+o experimento Kree
+que me criou.
+
+15
+00:00:37,600 --> 00:00:40,600
+<b>Agentes:
+@JBarra_ | Maraligro | Deberle</b>
+
+16
+00:00:40,601 --> 00:00:42,601
+<b>Agentes:
+@Vahainen | Jessyhmary</b>
+
+17
+00:00:42,602 --> 00:00:44,602
+<b>Agentes:
+Rodrigo Vieira | Reptarop</b>
+
+18
+00:00:45,603 --> 00:00:47,603
+<b>Agente Secreto:
+©yßë® V¡¢¡öµ§</b>
+
+19
+00:00:48,604 --> 00:00:51,604
+<b>Diretor:
+Tozz</b>
+
+20
+00:01:34,009 --> 00:01:37,147
+<i>Foi nesse momento que meu mundo
+mudou para sempre.</i>
+
+21
+00:01:41,991 --> 00:01:43,955
+<i>Ceifadores Kree
+levaram-me à nave deles...</i>
+
+22
+00:01:43,956 --> 00:01:45,833
+<i>e começaram o experimento.</i>
+
+23
+00:01:53,379 --> 00:01:55,648
+<i>Eu não sabia disso na época,
+mas os Ceifadores...</i>
+
+24
+00:01:55,649 --> 00:01:58,421
+<i>usaram o próprio sangue Kree
+para transformar o meu DNA.</i>
+
+25
+00:02:01,393 --> 00:02:03,563
+<i>Quando mudaram
+o que eu era,</i>
+
+26
+00:02:03,564 --> 00:02:05,333
+<i>os Ceifadores
+deram o passo final,</i>
+
+27
+00:02:05,334 --> 00:02:08,776
+<i>cumprindo a promessa
+do que eu me tornaria.</i>
+
+28
+00:02:19,192 --> 00:02:21,729
+Então é assim que você
+se tornou um Inumano.
+
+29
+00:02:21,730 --> 00:02:23,865
+Eu mesmo e muitos outros.
+
+30
+00:02:23,866 --> 00:02:26,538
+Feitos de experimentos Kree
+há milhares de anos.
+
+31
+00:02:26,539 --> 00:02:28,368
+<i>Esses primeiros Inumanos...</i>
+
+32
+00:02:28,769 --> 00:02:30,983
+Eram seus antepassados.
+
+33
+00:02:33,085 --> 00:02:36,590
+Seus antepassados...
+fundaram a Hidra.
+
+34
+00:02:36,591 --> 00:02:38,261
+Lutaram
+para me trazer de volta...
+
+35
+00:02:38,262 --> 00:02:40,494
+e também foram os únicos
+que escaparam...
+
+36
+00:02:40,495 --> 00:02:43,537
+após a traição covarde
+de Gideon Malick.
+
+37
+00:02:43,538 --> 00:02:46,943
+Bem... chegou o momento
+da sua recompensa.
+
+38
+00:02:46,944 --> 00:02:48,679
+Obrigado, mas...
+
+39
+00:02:49,703 --> 00:02:52,286
+O que isso tem a ver
+com a sua história?
+
+40
+00:02:52,287 --> 00:02:53,856
+Não é óbvio?
+
+41
+00:02:55,204 --> 00:02:57,928
+Trabalhamos duro para recriar
+o experimento Kree.
+
+42
+00:02:59,266 --> 00:03:01,970
+E vocês serão os próximos.
+
+43
+00:03:02,571 --> 00:03:06,071
+<b>MAoS - S03E19
+"Failed Experiments"</b>
+
+44
+00:03:10,421 --> 00:03:12,824
+- Novidades sobre Daisy?
+- Não.
+
+45
+00:03:12,825 --> 00:03:14,994
+Tentou os contatos antigos?
+
+46
+00:03:15,738 --> 00:03:17,700
+- Talvez se...
+- Estamos cuidando disso.
+
+47
+00:03:17,701 --> 00:03:19,269
+Eu só quero ajudar.
+
+48
+00:03:19,270 --> 00:03:22,809
+Se estou confinado na base,
+pelo menos deixe-me fazer algo.
+
+49
+00:03:22,810 --> 00:03:25,079
+Da última vez que você ajudou
+não foi útil.
+
+50
+00:03:26,450 --> 00:03:28,653
+Alisha tinha respostas.
+Só tentei fazê-la falar.
+
+51
+00:03:28,654 --> 00:03:31,018
+Você ameaçou torturá-la.
+E no que deu?
+
+52
+00:03:31,019 --> 00:03:33,896
+Não me desculparei por tentar
+salvar alguém que me importo.
+
+53
+00:03:33,897 --> 00:03:36,335
+Nós todos nos importamos
+com Daisy.
+
+54
+00:03:36,336 --> 00:03:38,204
+- Não é igual.
+- Não.
+
+55
+00:03:38,205 --> 00:03:40,675
+O resto de nós a conhece
+há bem mais tempo.
+
+56
+00:03:41,223 --> 00:03:43,180
+Quer mesmo ajudar?
+
+57
+00:03:43,181 --> 00:03:45,416
+Pare de tentar.
+
+58
+00:03:49,720 --> 00:03:51,367
+Isso é inútil.
+
+59
+00:03:51,368 --> 00:03:53,097
+Acalme-se, Simmons.
+
+60
+00:03:53,098 --> 00:03:56,003
+A antitoxina parece combater
+os parasitas da colmeia.
+
+61
+00:03:56,004 --> 00:03:59,292
+Sim, mas antes pode destruir
+o sistema imunológico...
+
+62
+00:03:59,293 --> 00:04:01,981
+e nem sabemos como ele reagirá
+com o DNA Inumano?
+
+63
+00:04:03,451 --> 00:04:05,187
+Bem, vou admitir
+que não é o ideal,
+
+64
+00:04:05,188 --> 00:04:07,122
+mas que outra escolha
+nós temos?
+
+65
+00:04:10,030 --> 00:04:12,200
+Você não viu a Daisy.
+
+66
+00:04:12,201 --> 00:04:14,499
+Ela agiu como se fôssemos
+os melhores amigos...
+
+67
+00:04:14,500 --> 00:04:17,910
+- enquanto ameaçava me matar.
+- Não. Tem razão. Não vi.
+
+68
+00:04:17,911 --> 00:04:20,580
+Eu estava muito ocupada
+com o repugnante Grant Ward...
+
+69
+00:04:20,581 --> 00:04:22,080
+bancando meu namorado morto.
+
+70
+00:04:22,781 --> 00:04:24,756
+- É verdade. Isso parece pior.
+- Certo.
+
+71
+00:04:24,757 --> 00:04:26,894
+Se isso fosse uma competição,
+eu ganharia.
+
+72
+00:04:26,895 --> 00:04:29,430
+Tive que atirar 3 vezes nele
+só para calá-lo.
+
+73
+00:04:30,668 --> 00:04:32,337
+- Aposto que se sentiu bem.
+- Senti.
+
+74
+00:04:32,538 --> 00:04:34,808
+Mas me sentiria melhor
+se ele tivesse morrido,
+
+75
+00:04:34,809 --> 00:04:36,978
+em vez de apenas ferí-lo.
+
+76
+00:04:36,979 --> 00:04:40,248
+E se Colmeia não puder
+ser morto? E aí?
+
+77
+00:04:41,388 --> 00:04:43,658
+Esta antitoxina pode ser
+a nossa melhor chance...
+
+78
+00:04:43,659 --> 00:04:45,295
+para tirar Daisy
+do poder dele.
+
+79
+00:04:45,296 --> 00:04:47,866
+Ou causar nela
+paradas cardíacas ou surtos.
+
+80
+00:04:47,867 --> 00:04:49,468
+Acharemos um modo
+de testá-lo.
+
+81
+00:04:49,469 --> 00:04:50,938
+E quem vai se voluntariar?
+
+82
+00:04:50,939 --> 00:04:52,942
+Precisamos de um Inumano,
+fora os escondidos...
+
+83
+00:04:52,943 --> 00:04:55,113
+sobram os dominados por ele
+que nos matariam.
+
+84
+00:04:55,114 --> 00:04:56,527
+<i>Eu testo isso.</i>
+
+85
+00:04:58,497 --> 00:05:00,187
+Você pode testá-lo em mim.
+
+86
+00:05:25,386 --> 00:05:26,688
+CONFERE
+
+87
+00:05:28,811 --> 00:05:31,445
+A filmagem é de alguma oficina
+ao sul do Wyoming.
+
+88
+00:05:31,446 --> 00:05:33,951
+- O que há por lá?
+- Não muito, pelo jeito.
+
+89
+00:05:33,952 --> 00:05:36,856
+Só uma velha cidade mineira
+onde explorava-se gás natural.
+
+90
+00:05:36,857 --> 00:05:39,927
+Mas, o afluxo de poços
+afastou quase todas as pessoas.
+
+91
+00:05:39,928 --> 00:05:42,533
+Os remanescentes venderam
+para uma empresa de fachada.
+
+92
+00:05:42,534 --> 00:05:44,871
+- De propriedade de Malick.
+- Sim.
+
+93
+00:05:44,872 --> 00:05:47,075
+E agora a cidade
+está cheia de militares.
+
+94
+00:05:47,076 --> 00:05:49,613
+Parece ser...
+a guarda pessoal...
+
+95
+00:05:49,614 --> 00:05:51,650
+que enfrentamos
+no esconderijo de Malick.
+
+96
+00:05:51,651 --> 00:05:53,720
+Eles saíram com o Colmeia,
+realocados.
+
+97
+00:05:53,721 --> 00:05:55,290
+Não será fácil salvar Daisy.
+
+98
+00:05:56,509 --> 00:05:58,162
+Sabe que é uma armadilha,
+certo?
+
+99
+00:05:58,163 --> 00:06:00,459
+Por quê?
+Temos alguma pista?
+
+100
+00:06:00,460 --> 00:06:02,510
+Porque Daisy é uma espiã
+altamente treinada.
+
+101
+00:06:02,511 --> 00:06:04,811
+Se não fosse seria pega
+pela câmera facilmente.
+
+102
+00:06:04,812 --> 00:06:06,214
+Está tentando nos despistar.
+
+103
+00:06:06,215 --> 00:06:08,715
+Daisy avisou Fitz para
+a S.H.I.E.L.D. não a seguir.
+
+104
+00:06:08,716 --> 00:06:10,766
+Por que nos atrairia agora?
+Isso não bate.
+
+105
+00:06:10,767 --> 00:06:13,267
+Nada disso bate.
+Há um Inumano antigo que...
+
+106
+00:06:13,268 --> 00:06:15,518
+está controlando
+um dos meus melhores agentes,
+
+107
+00:06:15,519 --> 00:06:17,619
+a mesma que ajudou
+a reprogramar o software
+
+108
+00:06:17,620 --> 00:06:20,231
+reconhecimento facial
+que há pouco a descobriu.
+
+109
+00:06:20,232 --> 00:06:22,870
+O quê? De repente,
+Daisy não sabe como funciona?
+
+110
+00:06:22,871 --> 00:06:24,836
+Não, eu não...
+eu não..
+
+111
+00:06:26,433 --> 00:06:27,835
+Eu...
+
+112
+00:06:28,462 --> 00:06:30,526
+Eu acho que ela quer
+que nós a resgatamos.
+
+113
+00:06:30,527 --> 00:06:32,230
+- Mack.
+- Olha, apenas me ouça.
+
+114
+00:06:32,231 --> 00:06:34,876
+Ela é muito forte para ser
+controlada sem uma luta.
+
+115
+00:06:34,877 --> 00:06:37,277
+Acho que há uma parte dela
+que resiste ao Colmeia.
+
+116
+00:06:37,278 --> 00:06:39,760
+Isto não é só realidade.
+É você projetando.
+
+117
+00:06:39,761 --> 00:06:41,761
+Fitz disse que a Daisy
+não era uma zumbi.
+
+118
+00:06:41,762 --> 00:06:43,952
+Ela ainda é ela,
+é só uma operária.
+
+119
+00:06:43,953 --> 00:06:46,155
+- Significa que ainda está lá.
+- Quero isso, Mack.
+
+120
+00:06:46,156 --> 00:06:48,707
+Mas não podemos nos levar
+pelas emoções.
+
+121
+00:06:48,708 --> 00:06:51,458
+Foi assim que Ward acabou morto
+e nós nessa confusão.
+
+122
+00:06:51,459 --> 00:06:53,409
+- Senhor...
+- Não temos para discussões.
+
+123
+00:06:53,410 --> 00:06:55,445
+Nós precisamos ficar
+do mesmo lado.
+
+124
+00:06:56,796 --> 00:06:58,682
+- Entendido.
+- Que bom.
+
+125
+00:06:58,683 --> 00:07:00,686
+Porque estou enviando
+uma equipe para lá...
+
+126
+00:07:00,687 --> 00:07:02,089
+e quero você e May
+liderando.
+
+127
+00:07:02,090 --> 00:07:03,640
+Então, estamos
+salvando a Daisy.
+
+128
+00:07:03,641 --> 00:07:05,491
+Não é um resgate,
+Agente Mackenzie.
+
+129
+00:07:05,492 --> 00:07:06,892
+É um ataque direcionado.
+
+130
+00:07:08,070 --> 00:07:09,736
+Nós vamos matar o Colmeia.
+
+131
+00:07:11,670 --> 00:07:14,450
+Esta cidade representa
+o pior da humanidade...
+
+132
+00:07:14,451 --> 00:07:16,426
+permitindo que
+a ganância de uns...
+
+133
+00:07:16,427 --> 00:07:18,179
+destrua as necessidades
+de muitos.
+
+134
+00:07:19,300 --> 00:07:21,700
+A água estava envenenada,
+por isso os expulsaram.
+
+135
+00:07:21,701 --> 00:07:24,776
+A grande falha deles foi
+a falta de vontade de se unir.
+
+136
+00:07:25,378 --> 00:07:27,617
+Às vezes,
+é difícil unir forças.
+
+137
+00:07:28,896 --> 00:07:30,347
+Você precisa de um bom líder.
+
+138
+00:07:31,503 --> 00:07:32,908
+Como o Coulson?
+
+139
+00:07:33,768 --> 00:07:36,068
+Ele foi a razão pela qual
+entrei na S.H.I.E.L.D.
+
+140
+00:07:36,069 --> 00:07:38,419
+S.H.I.E.L.D. não é melhor
+do que os Ceifadores Kree.
+
+141
+00:07:38,420 --> 00:07:41,026
+Fazendo soldados
+para suas guerras sem fim.
+
+142
+00:07:43,238 --> 00:07:45,691
+Meus amigos da S.H.I.E.L.D.
+queriam parar guerras,
+
+143
+00:07:45,692 --> 00:07:47,132
+não começá-las.
+
+144
+00:07:47,133 --> 00:07:49,833
+Construindo naves de guerra
+gigantes flutuando no céu?
+
+145
+00:07:50,052 --> 00:07:52,003
+A única razão
+da S.H.I.E.L.D. existir...
+
+146
+00:07:52,004 --> 00:07:53,512
+é para lutar guerras.
+
+147
+00:07:53,513 --> 00:07:55,337
+Mas não é por isso
+que existimos?
+
+148
+00:07:55,338 --> 00:07:58,170
+Isso é o que os Ceifadores
+esperavam para fazer, certo?
+
+149
+00:07:58,171 --> 00:07:59,580
+Soldados.
+
+150
+00:08:00,540 --> 00:08:02,200
+Que não é
+o que eu me tornei.
+
+151
+00:08:03,990 --> 00:08:07,045
+Às vezes, os maiores milagres
+do mundo acontecem por acaso.
+
+152
+00:08:10,110 --> 00:08:11,825
+O mundo em que nasci
+era primitivo.
+
+153
+00:08:11,826 --> 00:08:14,760
+Ele evoluiu a um notável ritmo,
+enquanto estive fora.
+
+154
+00:08:14,761 --> 00:08:16,412
+Então, o que houve
+naquela época,
+
+155
+00:08:16,413 --> 00:08:18,431
+para que você fosse
+expulso da Terra?
+
+156
+00:08:18,432 --> 00:08:20,932
+As pessoas viam a conexão
+que tive com outros Inumanos
+
+157
+00:08:20,933 --> 00:08:22,443
+e que fez ficarem temerosos.
+
+158
+00:08:22,444 --> 00:08:25,254
+Esse medo criou paranoia,
+o que levou a uma guerra civil.
+
+159
+00:08:25,255 --> 00:08:26,733
+Não mudou muito,
+não é mesmo.
+
+160
+00:08:26,734 --> 00:08:28,536
+Só que agora
+nós temos a capacidade...
+
+161
+00:08:28,537 --> 00:08:30,481
+para recriar
+a experiência Kree.
+
+162
+00:08:31,640 --> 00:08:33,708
+Os pacientes estão prontos,
+Dr. Radcliffe?
+
+163
+00:08:33,709 --> 00:08:36,290
+Sim... não que você
+nos fez nenhum favor
+
+164
+00:08:36,291 --> 00:08:38,299
+com a sua história
+de abdução alienígena.
+
+165
+00:08:38,300 --> 00:08:41,402
+Levou horas para convencê-los
+que não havia nenhuma sonda.
+
+166
+00:08:42,253 --> 00:08:44,495
+Bem, o seu método é
+muito mais elegante.
+
+167
+00:08:45,680 --> 00:08:47,400
+Sem mencionar
+que é mais eficiente,
+
+168
+00:08:47,401 --> 00:08:49,569
+agora que acrescentei
+os Cristais Terrígenos
+
+169
+00:08:49,570 --> 00:08:51,560
+aos compostos procariontes.
+
+170
+00:08:52,361 --> 00:08:54,710
+Pode mudar o DNA deles
+e os transformar em Inumanos?
+
+171
+00:08:54,711 --> 00:08:58,079
+- Todos ao mesmo tempo?
+- Sim. O velho dois em um.
+
+172
+00:08:58,080 --> 00:09:00,801
+Essa pequena ingenuidade
+foi minha ideia.
+
+173
+00:09:01,634 --> 00:09:03,055
+Então...
+
+174
+00:09:03,056 --> 00:09:04,458
+chegou o momento.
+
+175
+00:09:05,068 --> 00:09:07,980
+O mundo teme nosso poder
+pois nem todo mundo o tem.
+
+176
+00:09:07,981 --> 00:09:10,691
+Somente bilionários constroem
+trajes de ferro.
+
+177
+00:09:10,992 --> 00:09:13,392
+Apenas os militares podem
+fazer super-soldados.
+
+178
+00:09:13,393 --> 00:09:15,300
+Só isso já pode
+causar uma guerra.
+
+179
+00:09:15,901 --> 00:09:17,965
+Já eu planejo aplicar uma...
+
+180
+00:09:18,455 --> 00:09:20,545
+filosofia mais coletivista.
+
+181
+00:09:21,780 --> 00:09:24,082
+Será que... isso significa
+que podemos começar?
+
+182
+00:09:24,866 --> 00:09:26,209
+Pode.
+
+183
+00:09:26,610 --> 00:09:28,013
+Está bem. Que bom.
+
+184
+00:09:41,300 --> 00:09:43,788
+Deus, por favor,
+faça-o parar!
+
+185
+00:09:57,943 --> 00:09:59,363
+Quantos outros nós temos?
+
+186
+00:09:59,364 --> 00:10:01,116
+Quatro voluntários
+das operações...
+
+187
+00:10:01,117 --> 00:10:03,067
+cientes do perigo
+e todos entusiasmados.
+
+188
+00:10:03,068 --> 00:10:05,285
+Não sei se vai dar
+para acabar com Colmeia.
+
+189
+00:10:05,286 --> 00:10:06,688
+Talvez não seja.
+
+190
+00:10:06,689 --> 00:10:09,170
+Ainda bem, que Coulson
+fez Fitz abrir o armário.
+
+191
+00:10:11,070 --> 00:10:13,620
+- Senti uma vibração nisto.
+- Lamento, O'Brien.
+
+192
+00:10:13,821 --> 00:10:16,750
+Coulson o prometeu para mim.
+Está no meu contrato.
+
+193
+00:10:17,084 --> 00:10:18,520
+Prestem atenção, pessoal.
+
+194
+00:10:19,653 --> 00:10:21,955
+Colmeia é diferente de tudo
+que já enfrentaram.
+
+195
+00:10:21,956 --> 00:10:24,007
+É por isso que cada um
+vão estar equipados...
+
+196
+00:10:24,008 --> 00:10:25,358
+com o melhor da S.H.I.E.L.D.
+
+197
+00:10:25,359 --> 00:10:27,781
+Equipamentos Kevlar,
+infravermelhos de calor...
+
+198
+00:10:27,782 --> 00:10:30,756
+e bombas splinter
+que podem arrasar um exército.
+
+199
+00:10:31,540 --> 00:10:33,043
+O restante está liberado.
+
+200
+00:10:33,644 --> 00:10:36,848
+- O que a Cavalaria vai levar?
+- Se precisar de uma, eu pego.
+
+201
+00:10:36,849 --> 00:10:39,084
+Não.
+Você ficará com esta.
+
+202
+00:10:41,599 --> 00:10:43,265
+Não podemos perder
+nenhuma chance.
+
+203
+00:10:44,400 --> 00:10:45,920
+Você parece bem motivado.
+
+204
+00:10:47,440 --> 00:10:49,940
+Daisy era minha parceira.
+Isso é minha culpa.
+
+205
+00:10:49,941 --> 00:10:52,160
+Por que todo mundo
+está se culpando?
+
+206
+00:10:52,161 --> 00:10:54,013
+Porque eu deveria ter previsto,
+May.
+
+207
+00:10:54,014 --> 00:10:55,950
+Mas, entre a luta dela
+pelos Inumanos...
+
+208
+00:10:55,951 --> 00:10:58,344
+e eu me curando da saída
+de Bobbi e Hunter,
+
+209
+00:10:58,345 --> 00:11:00,033
+eu me descuidei.
+
+210
+00:11:00,034 --> 00:11:02,360
+Um bom parceiro teria visto
+que ela foi transformada.
+
+211
+00:11:02,361 --> 00:11:04,260
+Nenhum de nós viu.
+
+212
+00:11:04,930 --> 00:11:06,760
+E você precisa ficar focado.
+
+213
+00:11:07,061 --> 00:11:08,940
+<i>Esta missão não
+se trata da Daisy.</i>
+
+214
+00:11:08,941 --> 00:11:10,481
+Concordo.
+
+215
+00:11:10,482 --> 00:11:12,533
+Trata-se de mim
+acertando as coisas.
+
+216
+00:11:19,540 --> 00:11:22,041
+Não precisa estar infectado
+com os parasitas da Colmeia...
+
+217
+00:11:22,042 --> 00:11:24,292
+- para testar a antitoxina?
+- Não necessariamente.
+
+218
+00:11:24,293 --> 00:11:27,044
+Simmons me dá a droga,
+tira a uma amostra de tecido,
+
+219
+00:11:27,045 --> 00:11:28,746
+e depois,
+infecta com os parasitas.
+
+220
+00:11:28,747 --> 00:11:31,049
+A antitoxina destruirá
+seu sistema imunológico.
+
+221
+00:11:31,050 --> 00:11:33,301
+- Poderá matá-lo.
+- Não é a única médica aqui.
+
+222
+00:11:33,302 --> 00:11:35,507
+Acho que os riscos não são
+tão altos quanto diz.
+
+223
+00:11:35,508 --> 00:11:37,410
+Não finja que é
+a sua opinião médica.
+
+224
+00:11:37,411 --> 00:11:39,513
+Não estou fingindo.
+Está sendo muito cautelosa.
+
+225
+00:11:39,514 --> 00:11:42,264
+Está sendo um tolo apaixonado
+tentando fazer diferença.
+
+226
+00:11:42,564 --> 00:11:44,678
+Fitz...
+pensa em alguma coisa?
+
+227
+00:11:48,398 --> 00:11:51,210
+Concordo com a Simmons
+que a antitoxina...
+
+228
+00:11:51,211 --> 00:11:52,682
+<i>pode ser perigosa...</i>
+
+229
+00:11:53,610 --> 00:11:55,686
+mas também acho que há
+uma chance de funcionar.
+
+230
+00:11:57,810 --> 00:12:00,086
+Se o Lincoln morrer,
+quer ser o responsável?
+
+231
+00:12:00,087 --> 00:12:02,804
+Não, claro que não,
+mas isso poderia salvar Daisy.
+
+232
+00:12:02,805 --> 00:12:05,903
+Daisy não iria querer alguém
+sendo imprudente para salvá-la.
+
+233
+00:12:06,628 --> 00:12:08,253
+Que bom
+que ela não vai decidir.
+
+234
+00:12:15,364 --> 00:12:17,433
+Sinto muito,
+Agente Campbell.
+
+235
+00:12:17,434 --> 00:12:19,621
+Qual é?
+Tem que reconsiderar.
+
+236
+00:12:19,622 --> 00:12:21,194
+É a minha decisão final.
+
+237
+00:12:21,195 --> 00:12:23,409
+Fitz-Simmons, comecem
+a procurar outras opções.
+
+238
+00:12:23,410 --> 00:12:25,056
+Começaremos daí.
+
+239
+00:12:41,809 --> 00:12:44,653
+Uma Multi Bola Marciana,
+três Bumper Blasters,
+
+240
+00:12:44,654 --> 00:12:46,844
+e um 3-Way Rocket Combo.
+Bum!
+
+241
+00:12:46,845 --> 00:12:48,218
+Bate esse recorde aí!
+
+242
+00:12:48,219 --> 00:12:50,006
+Segura o chapéu aí,
+Dundee...
+
+243
+00:12:50,007 --> 00:12:52,640
+pois não sou fraca
+jogando pinball.
+
+244
+00:12:56,019 --> 00:12:57,785
+Essa cerveja está ótima.
+
+245
+00:12:57,786 --> 00:12:59,991
+Pensei que australianos
+odiassem cerveja americana.
+
+246
+00:12:59,992 --> 00:13:02,338
+Só quando temos que pagar.
+
+247
+00:13:02,339 --> 00:13:04,755
+É muito bom poder voltar
+ao mundo real de novo.
+
+248
+00:13:04,756 --> 00:13:08,171
+Por que bancou o Ted Kaczynski
+naquele trailer?
+
+249
+00:13:08,172 --> 00:13:09,523
+Na verdade, não sei.
+
+250
+00:13:09,524 --> 00:13:11,538
+Nunca achei
+a minha cara-metade.
+
+251
+00:13:11,539 --> 00:13:12,881
+Eles não gostavam de mim.
+
+252
+00:13:12,882 --> 00:13:15,344
+Não gostava deles,
+então fiz algo pro bem geral...
+
+253
+00:13:15,345 --> 00:13:17,931
+e mudei-me para o mais longe
+e humanamente possível.
+
+254
+00:13:18,428 --> 00:13:20,405
+Isso soa tão solitário.
+
+255
+00:13:22,146 --> 00:13:24,954
+É. Nunca entendi essa parte.
+
+256
+00:13:26,740 --> 00:13:28,718
+Você é um passarinho...
+
+257
+00:13:28,719 --> 00:13:31,649
+todo preparado para voar
+e que voltou a ser livre.
+
+258
+00:13:31,650 --> 00:13:33,318
+Não sou de infantilidades,
+mas...
+
+259
+00:13:33,319 --> 00:13:36,458
+esqueço tudo
+se quiser dançar comigo.
+
+260
+00:13:37,003 --> 00:13:38,416
+Está bem.
+
+261
+00:13:38,417 --> 00:13:41,055
+Guarde sua arma no coldre,
+cowboy.
+
+262
+00:13:41,056 --> 00:13:42,984
+Vamos ficar só no pinball.
+
+263
+00:13:42,985 --> 00:13:46,296
+Por favor, não diga que gosta
+do safado do Lincoln.
+
+264
+00:13:47,172 --> 00:13:49,831
+Pode não se importar
+com ninguém, James...
+
+265
+00:13:49,832 --> 00:13:52,700
+- mas nós sim.
+- Foi mal. Não quis ofender.
+
+266
+00:13:53,137 --> 00:13:56,283
+É que... você era S.H.I.E.L.D.
+
+267
+00:13:56,284 --> 00:13:58,067
+E aquelas pessoas
+com que se importava...
+
+268
+00:13:58,068 --> 00:14:00,326
+são as mesmas que querem parar
+o que fazemos aqui.
+
+269
+00:14:00,327 --> 00:14:02,744
+Não é culpa deles.
+Não sabem o que fazemos.
+
+270
+00:14:02,745 --> 00:14:05,047
+Não importa se sabem ou não...
+
+271
+00:14:05,048 --> 00:14:06,592
+eles estão do outro lado.
+
+272
+00:14:07,748 --> 00:14:10,254
+Não consigo ver outro jeito
+disso não acabar bem para eles.
+
+273
+00:14:13,672 --> 00:14:15,057
+Pode haver outra maneira.
+
+274
+00:14:15,670 --> 00:14:18,213
+Pode? E qual é?
+
+275
+00:14:20,310 --> 00:14:22,289
+Fazer com que eles entendam.
+
+276
+00:14:25,746 --> 00:14:28,919
+O material genético de Inumanos
+é incrivelmente complexo.
+
+277
+00:14:28,920 --> 00:14:31,213
+É claro
+que haveria complicações.
+
+278
+00:14:31,214 --> 00:14:34,543
+- Garantiu-me que daria certo.
+- Sim, e teria...
+
+279
+00:14:34,544 --> 00:14:36,896
+se tivesse me sido dado
+os ingredientes corretos.
+
+280
+00:14:38,091 --> 00:14:40,077
+Está dizendo
+que o erro foi meu?
+
+281
+00:14:40,909 --> 00:14:42,314
+Não.
+
+282
+00:14:42,315 --> 00:14:43,631
+Não, não.
+
+283
+00:14:44,385 --> 00:14:47,293
+Bem, sim,
+mas não um erro intencional.
+
+284
+00:14:47,294 --> 00:14:51,037
+O fato é, preciso do DNA
+de um Kree vivo...
+
+285
+00:14:51,038 --> 00:14:52,718
+para completar
+a sequência do genoma.
+
+286
+00:14:52,719 --> 00:14:55,083
+O DNA você me deu,
+o seu sangue...
+
+287
+00:14:55,084 --> 00:14:57,906
+é de um...
+hospedeiro morto.
+
+288
+00:14:57,907 --> 00:15:00,310
+Bonito, mas morto.
+
+289
+00:15:00,311 --> 00:15:01,624
+Isso não é bom.
+
+290
+00:15:01,625 --> 00:15:03,907
+É bom para você,
+mas para isso não é bom.
+
+291
+00:15:03,908 --> 00:15:06,272
+Se isso era verdade,
+por que me falou só agora?
+
+292
+00:15:06,273 --> 00:15:07,657
+Eu não tinha certeza.
+
+293
+00:15:07,658 --> 00:15:10,875
+Estava tentando!
+Eu queria mudar o mundo!
+
+294
+00:15:11,370 --> 00:15:13,339
+E além do mais,
+você é assustador.
+
+295
+00:15:14,676 --> 00:15:16,404
+Tem razão em estar assustado.
+
+296
+00:15:17,028 --> 00:15:18,372
+Não preciso de você.
+
+297
+00:15:18,373 --> 00:15:20,384
+Posso matá-lo
+e incorporar seu corpo,
+
+298
+00:15:20,385 --> 00:15:22,153
+pegar a sua mente,
+suas memórias.
+
+299
+00:15:22,154 --> 00:15:25,380
+Sim, realmente é uma má ideia.
+Pergunte ao meu terapeuta.
+
+300
+00:15:25,381 --> 00:15:27,189
+Minha infância
+foi uma bagunça total.
+
+301
+00:15:27,190 --> 00:15:29,236
+A equipe de natação
+não era legal comigo.
+
+302
+00:15:29,237 --> 00:15:31,940
+Além disso,
+eu posso isso funcionar.
+
+303
+00:15:33,152 --> 00:15:34,966
+Por que eu deveria
+acreditar em você?
+
+304
+00:15:34,967 --> 00:15:36,672
+Porque eu quero trabalhar.
+
+305
+00:15:36,673 --> 00:15:38,303
+É uma oportunidade única.
+
+306
+00:15:38,304 --> 00:15:41,089
+Dando à humanidade
+novos equipamentos.
+
+307
+00:15:41,090 --> 00:15:43,097
+Tudo que já fiz
+me levou até aqui.
+
+308
+00:15:43,816 --> 00:15:45,294
+E será mais grandioso.
+
+309
+00:15:50,321 --> 00:15:52,482
+Eu prometo que não vai
+se arrepender.
+
+310
+00:15:52,483 --> 00:15:53,875
+Sou seu cara.
+
+311
+00:15:57,113 --> 00:15:58,787
+<i>Eu estava querendo...</i>
+
+312
+00:15:59,444 --> 00:16:01,553
+perguntar sobre esses.
+
+313
+00:16:02,895 --> 00:16:04,729
+O que são, exatamente?
+
+314
+00:16:06,096 --> 00:16:08,564
+Se estava assustado antes...
+
+315
+00:16:08,565 --> 00:16:10,592
+vai ficar apavorado agora.
+
+316
+00:16:17,810 --> 00:16:21,740
+Nossa inteligência sugere
+que há ao menos 40 inimigos.
+
+317
+00:16:21,988 --> 00:16:23,448
+E o Colmeia?
+
+318
+00:16:23,449 --> 00:16:25,611
+Ainda estamos verificando
+a localização, senhor.
+
+319
+00:16:25,612 --> 00:16:26,916
+Certo.
+
+320
+00:16:26,917 --> 00:16:29,884
+O plano é simples: entrar,
+matar o Colmeia e voltar.
+
+321
+00:16:29,885 --> 00:16:32,518
+E qual o protocolo
+sobre os outros Inumanos?
+
+322
+00:16:32,719 --> 00:16:35,347
+Não façam nada a menos que seja
+realmente necessário.
+
+323
+00:16:35,348 --> 00:16:38,512
+São controladas pela Colmeia.
+Não queremos machucá-los.
+
+324
+00:16:38,513 --> 00:16:41,865
+<i>Não estarei com vocês em solo.
+Vou monitorar seus vídeo-feeds.</i>
+
+325
+00:16:42,463 --> 00:16:44,469
+Sejam espertos e cuidadosos.
+
+326
+00:16:44,470 --> 00:16:47,001
+É a nossa única chance
+de pegar Colmeia de surpresa.
+
+327
+00:16:47,002 --> 00:16:48,934
+E se na pior das hipóteses...
+
+328
+00:16:48,935 --> 00:16:50,817
+e Colmeia não puder
+ser morto?
+
+329
+00:16:50,818 --> 00:16:54,538
+Sugiro que corram,
+muito rápido.
+
+330
+00:16:58,545 --> 00:16:59,919
+Jemma.
+
+331
+00:17:00,515 --> 00:17:04,783
+Estamos bem, depois...
+sabe, nossa discussão?
+
+332
+00:17:04,784 --> 00:17:06,328
+Claro que estaremos bem.
+
+333
+00:17:06,329 --> 00:17:09,229
+Se eu quiser um namorado
+que aceite tudo que eu disser,
+
+334
+00:17:09,230 --> 00:17:10,931
+nunca teria terminado
+com o Milton.
+
+335
+00:17:12,582 --> 00:17:14,044
+Milton!
+
+336
+00:17:14,505 --> 00:17:17,553
+Ele era muito pior!
+
+337
+00:17:17,951 --> 00:17:22,114
+Aquele gordo estúpido
+cabeça de couve.
+
+338
+00:17:22,115 --> 00:17:23,778
+"Oi. Eu sou... o Milton."
+
+339
+00:17:23,779 --> 00:17:26,002
+Parecia uma couve de Bruxelas,
+na verdade.
+
+340
+00:17:26,003 --> 00:17:28,542
+Milton tinha um gênio difícil.
+Precisamos cuidar...
+
+341
+00:17:28,543 --> 00:17:32,018
+para que as brigas de trabalho
+não afetem nossa relação.
+
+342
+00:17:32,340 --> 00:17:34,055
+Concordo plenamente,
+Simmons.
+
+343
+00:17:34,056 --> 00:17:37,567
+Porque nós dois sabemos
+quem é quase sempre o melhor.
+
+344
+00:17:37,568 --> 00:17:41,332
+Está falando de quem se formou
+em primeiro na Academia?
+
+345
+00:17:41,974 --> 00:17:44,319
+Esse é o ponto,
+porque nós dois sabemos...
+
+346
+00:17:44,320 --> 00:17:47,089
+que se eu tivesse ficado
+e estudado a noite toda...
+
+347
+00:17:47,090 --> 00:17:48,489
+Lincoln.
+
+348
+00:17:50,460 --> 00:17:52,927
+Estaria cansado de discutir.
+
+349
+00:17:53,883 --> 00:17:55,282
+Lincoln, não!
+
+350
+00:18:03,600 --> 00:18:06,780
+Lincoln. Lincoln.
+
+351
+00:18:09,570 --> 00:18:11,530
+Olha para mim,
+olha para mim!
+
+352
+00:18:12,950 --> 00:18:14,370
+Só queria ajudar.
+
+353
+00:18:14,700 --> 00:18:17,399
+É um elixir
+que conterá a antitoxina.
+
+354
+00:18:17,400 --> 00:18:19,189
+Não.
+Vai funcionar.
+
+355
+00:18:19,190 --> 00:18:21,336
+Não temos tempo.
+Seu corpo está sucumbindo.
+
+356
+00:18:21,337 --> 00:18:23,399
+Posso aguentar.
+Por favor...
+
+357
+00:18:23,954 --> 00:18:25,574
+Deixe-me fazer isso.
+
+358
+00:18:34,560 --> 00:18:36,199
+<i>Está vendo isso, Coulson?</i>
+
+359
+00:18:36,200 --> 00:18:37,660
+Afirmativo.
+
+360
+00:18:37,661 --> 00:18:39,581
+Não há sinais do Colmeia
+em lugar nenhum.
+
+361
+00:18:40,420 --> 00:18:42,690
+Não temos tempo para vasculhar
+a cidade toda.
+
+362
+00:18:45,350 --> 00:18:47,710
+Não é o Inumano que Colmeia
+capturou na Dakota do Sul?
+
+363
+00:18:48,211 --> 00:18:50,701
+Sim,
+ele é bem esquentadinho.
+
+364
+00:18:53,610 --> 00:18:54,950
+Talvez funcione.
+
+365
+00:19:02,890 --> 00:19:05,686
+Essa área é autorizada
+apenas para o pessoal da Hidra.
+
+366
+00:19:05,687 --> 00:19:07,096
+Quem diabos é você?
+
+367
+00:19:07,440 --> 00:19:08,790
+Olá, gostosa.
+
+368
+00:19:10,040 --> 00:19:11,390
+Eu sou o James.
+
+369
+00:19:11,391 --> 00:19:13,911
+Solteiro, 33,
+nascido em Brisbane.
+
+370
+00:19:13,912 --> 00:19:16,055
+Sou de Leão,
+com um pouco de Escorpião...
+
+371
+00:19:16,056 --> 00:19:17,951
+para um melhor equilíbrio.
+
+372
+00:19:17,952 --> 00:19:19,836
+Gosto de drinks
+e refeições decentes,
+
+373
+00:19:19,837 --> 00:19:23,160
+e uma garota indecente.
+Não nessa ordem.
+
+374
+00:19:23,446 --> 00:19:24,746
+E você é?
+
+375
+00:19:25,105 --> 00:19:26,405
+Náusea.
+
+376
+00:19:26,840 --> 00:19:28,770
+E, imaginando o que está
+fazendo aqui.
+
+377
+00:19:28,771 --> 00:19:31,351
+Definitivamente não é
+da Hidra.
+
+378
+00:19:31,840 --> 00:19:34,980
+Trouxeram outro contratado
+após a morte do Malick?
+
+379
+00:19:35,470 --> 00:19:37,344
+Um contratado? Sério?
+
+380
+00:19:37,345 --> 00:19:38,925
+É isso que pareço ser
+para você?
+
+381
+00:19:38,926 --> 00:19:41,638
+Escuta aqui, metido.
+Isso não é um jogo.
+
+382
+00:19:41,639 --> 00:19:43,662
+Preciso que diga
+o que está fazendo aqui.
+
+383
+00:19:43,663 --> 00:19:45,193
+Prefiro mostrar
+do que falar.
+
+384
+00:20:00,410 --> 00:20:02,690
+- Você é um deles.
+- Isso mesmo.
+
+385
+00:20:02,691 --> 00:20:05,541
+Meio que escolhido a dedo
+pelo grande homem.
+
+386
+00:20:05,900 --> 00:20:07,899
+O primeiro escolhido,
+melhor dizendo.
+
+387
+00:20:07,900 --> 00:20:10,282
+Eu não fazia ideia.
+Por favor, perdoe-me.
+
+388
+00:20:10,283 --> 00:20:12,716
+Beba um drink comigo,
+talvez eu perdoe.
+
+389
+00:20:16,170 --> 00:20:18,269
+Você não é nada mal
+para uma segurança.
+
+390
+00:20:18,270 --> 00:20:19,677
+Um pouco fria.
+
+391
+00:20:19,678 --> 00:20:22,318
+Para minha sorte,
+eu não congelo.
+
+392
+00:20:22,816 --> 00:20:25,186
+Você já era assim
+antes de obter os poderes?
+
+393
+00:20:25,187 --> 00:20:27,515
+O que, 101% incrível?
+Com certeza.
+
+394
+00:20:27,516 --> 00:20:29,726
+Tornar-se Inumano não muda
+a sua personalidade.
+
+395
+00:20:30,140 --> 00:20:32,975
+Quem sabe? Talvez um dia
+você veja como é.
+
+396
+00:20:35,900 --> 00:20:38,306
+O grande homem,
+está fazendo um experimento...
+
+397
+00:20:38,307 --> 00:20:40,956
+para transformar humanos
+em Inumanos, certo?
+
+398
+00:20:40,957 --> 00:20:42,385
+Peça gentilmente...
+
+399
+00:20:42,386 --> 00:20:44,289
+talvez eu lhe ajude
+na linha de frente.
+
+400
+00:20:47,653 --> 00:20:49,832
+Talvez seja por isso
+que Colmeia pegou Radcliffe.
+
+401
+00:20:49,833 --> 00:20:51,168
+Para fazer seu exército.
+
+402
+00:20:51,169 --> 00:20:52,469
+<i>Fiquem alertas.</i>
+
+403
+00:20:53,220 --> 00:20:54,704
+Ouviu o que o Coulson disse?
+
+404
+00:20:55,105 --> 00:20:57,179
+<i>Foi mal, estava pensando
+se havia chance</i>
+
+405
+00:20:57,180 --> 00:20:58,828
+<i>de não detonar
+esse cara.</i>
+
+406
+00:20:58,829 --> 00:21:00,256
+Sem chance.
+
+407
+00:21:02,470 --> 00:21:04,320
+Alisha disse
+que queria me ver.
+
+408
+00:21:04,785 --> 00:21:06,845
+Você e eu temos
+caminhos parecidos.
+
+409
+00:21:08,730 --> 00:21:11,100
+Ambos fomos criados
+por forças externas.
+
+410
+00:21:11,730 --> 00:21:13,090
+Não estou entendendo.
+
+411
+00:21:13,091 --> 00:21:16,142
+Meus poderes vieram do Kree,
+os seus, da S.H.I.E.L.D.
+
+412
+00:21:16,143 --> 00:21:17,831
+Foram eles
+que nos fizeram.
+
+413
+00:21:17,832 --> 00:21:20,062
+Por que está preocupado
+com a S.H.I.E.L.D.?
+
+414
+00:21:23,588 --> 00:21:25,258
+Porque estou curioso...
+
+415
+00:21:25,259 --> 00:21:27,573
+se você pode derrotar
+o que a criou.
+
+416
+00:21:28,805 --> 00:21:30,879
+O pessoal da S.H.I.E.L.D.
+são meus amigos.
+
+417
+00:21:30,880 --> 00:21:32,740
+Amigos que irão se virar
+contra você.
+
+418
+00:21:32,741 --> 00:21:35,122
+Que tentarão sabotar
+a conexão que temos.
+
+419
+00:21:35,123 --> 00:21:36,525
+Só porquê não entendem...
+
+420
+00:21:36,526 --> 00:21:39,410
+mas podemos convencê-los
+a compartilhar desta conexão.
+
+421
+00:21:39,940 --> 00:21:42,570
+Quer colocar seus amigos
+no experimento do Kree.
+
+422
+00:21:43,488 --> 00:21:46,140
+Uma vez que tenha
+dado certo com Radcliffe, sim.
+
+423
+00:21:46,510 --> 00:21:47,850
+Sim, quero.
+
+424
+00:21:48,291 --> 00:21:50,940
+Talvez não sejam receptivos
+à ideia.
+
+425
+00:21:50,941 --> 00:21:52,831
+Preciso ao menos tentar.
+
+426
+00:21:52,832 --> 00:21:54,752
+É o único jeito de salvá-los.
+
+427
+00:21:56,164 --> 00:21:58,833
+E se você falhar...
+
+428
+00:21:58,834 --> 00:22:01,365
+se decidirem-se virar
+contra você...
+
+429
+00:22:01,366 --> 00:22:03,813
+para virem atrás de nós
+com suas armas de guerra.
+
+430
+00:22:03,814 --> 00:22:05,115
+Para me matar.
+
+431
+00:22:05,477 --> 00:22:06,857
+Para matar todos nós.
+
+432
+00:22:07,811 --> 00:22:09,171
+Então o quê?
+
+433
+00:22:11,550 --> 00:22:13,730
+Então eu estraçalharei
+os corações deles.
+
+434
+00:22:15,200 --> 00:22:17,570
+Ouvir isso é um alívio.
+
+435
+00:22:19,120 --> 00:22:22,220
+Especialmente agora
+que nossos planos mudaram.
+
+436
+00:22:25,210 --> 00:22:26,520
+Sinto muito.
+
+437
+00:22:27,030 --> 00:22:28,930
+Não havia outra escolha.
+
+438
+00:22:29,653 --> 00:22:31,673
+Nós dois achávamos
+que era o certo a fazer.
+
+439
+00:22:32,439 --> 00:22:35,169
+Não aja como se estivéssemos
+do mesmo lado.
+
+440
+00:22:35,170 --> 00:22:37,920
+Coulson deu-lhe uma ordem,
+e você desobedeceu.
+
+441
+00:22:37,921 --> 00:22:39,239
+Agora...
+
+442
+00:22:39,240 --> 00:22:40,931
+metade dos computadores
+queimaram.
+
+443
+00:22:41,786 --> 00:22:43,653
+Sem falar nos servidores
+destruídos.
+
+444
+00:22:43,654 --> 00:22:46,986
+Sinto muito por isso.
+De verdade.
+
+445
+00:22:47,583 --> 00:22:49,840
+Mas a antitoxina funcionará.
+
+446
+00:22:50,209 --> 00:22:51,539
+Posso sentir.
+
+447
+00:22:51,540 --> 00:22:54,510
+Não saberemos até que Simmons
+faça mais testes.
+
+448
+00:22:54,511 --> 00:22:56,964
+E para isso precisarei perfurar
+sua cabeça.
+
+449
+00:22:57,226 --> 00:22:58,609
+Espera.
+
+450
+00:22:58,610 --> 00:23:01,750
+A amostra de tecido que precisa
+é do meu cérebro?
+
+451
+00:23:02,131 --> 00:23:03,431
+Correto.
+
+452
+00:23:03,732 --> 00:23:06,175
+Algo que deveria saber
+se tivesse perguntado...
+
+453
+00:23:06,176 --> 00:23:08,060
+ao invés de agir
+pelas nossas costas.
+
+454
+00:23:08,061 --> 00:23:09,427
+Ele é todo seu, doutora.
+
+455
+00:23:14,450 --> 00:23:16,350
+Ele parece incrível.
+
+456
+00:23:17,203 --> 00:23:18,603
+Sim.
+
+457
+00:23:18,604 --> 00:23:22,860
+Ele tem essa vibe
+Ziggy Stardust.
+
+458
+00:23:22,861 --> 00:23:24,261
+É bem épico.
+
+459
+00:23:24,755 --> 00:23:27,104
+Adoraria conhecê-lo.
+
+460
+00:23:27,105 --> 00:23:30,555
+Talvez eu possa arranjar
+uma introdução para você.
+
+461
+00:23:31,344 --> 00:23:32,644
+Agora?
+
+462
+00:23:32,981 --> 00:23:34,601
+Faria isso por mim?
+
+463
+00:23:36,272 --> 00:23:38,490
+Não sei se dará certo agora.
+
+464
+00:23:38,491 --> 00:23:40,920
+Ele está meio ocupado
+mudando o mundo.
+
+465
+00:23:40,921 --> 00:23:43,936
+- Certo.
+- Não, não fique triste.
+
+466
+00:23:43,937 --> 00:23:46,337
+Talvez ele ainda esteja
+naquela mina abandonada.
+
+467
+00:23:49,810 --> 00:23:51,210
+Escutou isso?
+
+468
+00:23:52,450 --> 00:23:53,810
+Estamos indo.
+
+469
+00:23:56,180 --> 00:23:58,980
+Para que dominar uma cidade,
+e ir para os subúrbios?
+
+470
+00:23:58,981 --> 00:24:01,401
+<i>Não sei.
+Mas o motivo não deve ser bom.</i>
+
+471
+00:24:01,402 --> 00:24:02,802
+Lembrem-se, é o Colmeia.
+
+472
+00:24:02,803 --> 00:24:05,437
+Preparem-se para ir com tudo.
+Armas destravadas.
+
+473
+00:24:05,438 --> 00:24:07,206
+Nunca estiveram travadas,
+senhor.
+
+474
+00:24:10,376 --> 00:24:13,600
+Esperava poupar você disso,
+mas foi o único jeito.
+
+475
+00:24:14,380 --> 00:24:16,047
+Estão vindo nos pegar.
+
+476
+00:24:18,450 --> 00:24:21,151
+- Está ouvindo isso?
+- Parece algum tipo de rádio.
+
+477
+00:24:29,796 --> 00:24:32,030
+<i>Não é um tipo de rádio
+que eu tenha visto.</i>
+
+478
+00:24:32,031 --> 00:24:33,832
+Já vi essa escrita antes.
+
+479
+00:24:34,133 --> 00:24:35,634
+Senhor.
+
+480
+00:24:38,338 --> 00:24:39,771
+Tire todos de lá, agora!
+
+481
+00:24:39,772 --> 00:24:42,770
+Ouviram ele! Saiam!
+Vai, vai. Andem!
+
+482
+00:24:43,271 --> 00:24:45,871
+Quem está vindo?
+S.H.I.E.L.D.?
+
+483
+00:24:45,872 --> 00:24:49,848
+Não os que criaram você,
+os que me criaram.
+
+484
+00:24:49,849 --> 00:24:51,750
+Andem! Vai, vai, vai!
+
+485
+00:25:00,059 --> 00:25:01,360
+Que porra foi essa?!
+
+486
+00:25:02,161 --> 00:25:03,561
+Os Kree.
+
+487
+00:25:17,856 --> 00:25:21,100
+Os Kree estão aqui?
+Como eles nos encontraram?
+
+488
+00:25:21,101 --> 00:25:22,701
+Mandei um sinal para eles.
+
+489
+00:25:23,002 --> 00:25:24,861
+Os objetos
+no trailer do James.
+
+490
+00:25:24,862 --> 00:25:26,262
+São garantias...
+
+491
+00:25:26,263 --> 00:25:28,665
+caso o experimento Inumano
+saia de controle.
+
+492
+00:25:28,666 --> 00:25:31,167
+Em caso de emergências,
+ligue para o QG Kree.
+
+493
+00:25:31,168 --> 00:25:33,670
+Esses Kree não são
+de seu planeta natal.
+
+494
+00:25:33,671 --> 00:25:35,105
+São Ceifadores.
+
+495
+00:25:35,106 --> 00:25:37,974
+Existem apenas para caçar.
+
+496
+00:25:37,975 --> 00:25:40,143
+E encontram humanos
+para seus criadores.
+
+497
+00:25:40,144 --> 00:25:42,779
+Por milhares de anos,
+permaneceram em estase,
+
+498
+00:25:42,780 --> 00:25:44,247
+orbitando nosso
+sistema solar.
+
+499
+00:25:44,847 --> 00:25:48,003
+E vieram aqui fazer o quê?
+Consertar seus erros?
+
+500
+00:25:48,004 --> 00:25:50,120
+São as únicas coisas
+que podem derrotar você.
+
+501
+00:25:50,121 --> 00:25:51,888
+Foram suas
+próprias palavras.
+
+502
+00:25:51,889 --> 00:25:53,823
+Os Ceifadores são
+o meu maior medo.
+
+503
+00:25:54,523 --> 00:25:56,827
+Mas com sua ajuda,
+acredito que iremos...
+
+504
+00:25:57,528 --> 00:25:59,462
+arrancar seus corações.
+
+505
+00:25:59,963 --> 00:26:01,363
+São suas palavras.
+
+506
+00:26:01,364 --> 00:26:03,199
+Não foi o que quis dizer.
+
+507
+00:26:03,200 --> 00:26:05,800
+Já lutei contra um Kree.
+Não serão fácil de matar.
+
+508
+00:26:05,801 --> 00:26:07,670
+Os Ceifadores são
+ainda mais mortais.
+
+509
+00:26:07,971 --> 00:26:11,673
+O que vai tornar
+sua tarefa mais difícil.
+
+510
+00:26:11,674 --> 00:26:13,941
+- Minha tarefa?
+- Para esse experimento...
+
+511
+00:26:13,942 --> 00:26:16,213
+precisamos de sangue
+de um Kree vivo.
+
+512
+00:26:18,014 --> 00:26:20,182
+E quero que você o pegue.
+
+513
+00:26:26,422 --> 00:26:28,000
+Aquilo foi uma nave espacial?
+
+514
+00:26:28,001 --> 00:26:30,659
+É muito pequena,
+parece mais com um satélite.
+
+515
+00:26:30,660 --> 00:26:32,600
+Por que não estou aliviado?
+
+516
+00:26:33,496 --> 00:26:34,796
+Encontrou algo?
+
+517
+00:26:34,797 --> 00:26:37,766
+Apenas destroços por toda parte
+e pegadas gigantes.
+
+518
+00:26:37,767 --> 00:26:39,501
+Como pegadas
+alienígenas, certo?
+
+519
+00:26:39,502 --> 00:26:41,569
+- É isso que está falando?
+- Ótimo.
+
+520
+00:26:41,570 --> 00:26:43,538
+Agora temos
+mais concorrência.
+
+521
+00:26:43,539 --> 00:26:46,808
+Aliens acabaram de pousar.
+Não vamos dar um tempo?
+
+522
+00:26:46,809 --> 00:26:50,211
+Bem, a pergunta é,
+de que lado estão?
+
+523
+00:26:51,714 --> 00:26:54,148
+Vamos, corre.
+Vai.
+
+524
+00:26:57,386 --> 00:26:58,786
+Inumana.
+
+525
+00:26:58,787 --> 00:27:02,324
+Na verdade,
+é Inumanos, no plural.
+
+526
+00:27:15,271 --> 00:27:17,105
+Não!
+
+527
+00:27:25,247 --> 00:27:27,782
+Deveria estar orgulhoso
+do que nos tornamos.
+
+528
+00:27:33,287 --> 00:27:35,156
+Ele está eliminando
+agentes da Hidra.
+
+529
+00:27:35,157 --> 00:27:37,157
+Ou tudo que passa
+por seu caminho.
+
+530
+00:27:37,158 --> 00:27:40,360
+Isso será muito mais fácil
+se ele estiver do nosso lado.
+
+531
+00:27:40,361 --> 00:27:42,430
+Por que Colmeia
+iria chamá-los?
+
+532
+00:27:42,431 --> 00:27:46,166
+Talvez ele espere formar
+um tipo de aliança macabra.
+
+533
+00:27:46,167 --> 00:27:49,536
+Essas coisas são caçadores,
+não aliados.
+
+534
+00:27:49,537 --> 00:27:51,171
+Coulson, quais são
+nossas ordens?
+
+535
+00:27:51,172 --> 00:27:54,400
+Sigam de perto,
+mas fiquem fora de sua mira.
+
+536
+00:27:59,046 --> 00:28:00,914
+Ele está sentindo algo
+naquela igreja.
+
+537
+00:28:00,915 --> 00:28:03,016
+Sim, aposto que é o Colmeia.
+
+538
+00:28:05,319 --> 00:28:06,719
+Daisy.
+
+539
+00:28:07,388 --> 00:28:08,889
+Não são nossas ordens.
+
+540
+00:28:09,991 --> 00:28:11,858
+- Mack.
+- Tenho que tentar.
+
+541
+00:28:11,859 --> 00:28:13,659
+Encontro você
+no ponto de extração.
+
+542
+00:28:24,805 --> 00:28:26,506
+Não foi eu.
+
+543
+00:28:29,009 --> 00:28:30,476
+Sujeira Inumana.
+
+544
+00:28:46,260 --> 00:28:48,127
+Disse que tomaria conta disso.
+
+545
+00:28:48,128 --> 00:28:50,430
+- Nós dois vamos morrer!
+- Ninguém vai morrer hoje!
+
+546
+00:29:05,646 --> 00:29:07,146
+O que foi
+esse último barulho?
+
+547
+00:29:07,147 --> 00:29:08,547
+A coluna.
+
+548
+00:29:08,548 --> 00:29:10,049
+Agora, drene-o.
+
+549
+00:29:16,756 --> 00:29:19,391
+Passei milhares de anos
+imaginando o que aconteceria
+
+550
+00:29:19,392 --> 00:29:21,193
+se os anjos azuis retornassem.
+
+551
+00:29:25,931 --> 00:29:28,233
+Você está menor
+do que eu me lembro.
+
+552
+00:29:32,005 --> 00:29:34,905
+Papai Smurf está o distraindo.
+É nossa chance de atirar.
+
+553
+00:29:35,151 --> 00:29:38,310
+Não atire. O Kree deve
+até matá-lo para nós.
+
+554
+00:29:38,311 --> 00:29:39,712
+Não precisamos lutar.
+
+555
+00:29:40,213 --> 00:29:42,047
+Ainda sou grato
+por terem me criado.
+
+556
+00:29:42,048 --> 00:29:43,749
+Não devíamos tê-lo escolhido.
+
+557
+00:29:43,750 --> 00:29:47,152
+Era a providência,
+guiando sua mão.
+
+558
+00:29:47,153 --> 00:29:49,654
+Então o que guia
+minha mão agora?
+
+559
+00:29:58,464 --> 00:29:59,804
+Pobre coitado.
+
+560
+00:29:59,805 --> 00:30:01,706
+Ele não tem muito tempo.
+
+561
+00:30:01,707 --> 00:30:03,808
+Vai ter sangue o suficiente
+para que funcione?
+
+562
+00:30:03,809 --> 00:30:06,011
+Sim, com certeza.
+Você foi fantástica.
+
+563
+00:30:06,212 --> 00:30:08,313
+<i>Teremos tudo que precisamos
+dentro de uma hora.</i>
+
+564
+00:30:08,314 --> 00:30:09,981
+Fico feliz
+em poder assumir daqui.
+
+565
+00:30:09,982 --> 00:30:11,916
+Se há algum lugar
+que você precisar ir...
+
+566
+00:30:11,917 --> 00:30:14,985
+- sinta-se livre para...
+- Ela virá comigo.
+
+567
+00:30:16,554 --> 00:30:18,955
+Eu disse a Fitz
+para se afastar.
+
+568
+00:30:18,956 --> 00:30:20,390
+Não posso...
+
+569
+00:30:20,391 --> 00:30:22,326
+não quando minha parceira
+precisa de ajuda.
+
+570
+00:30:22,327 --> 00:30:23,793
+Não preciso de sua ajuda.
+
+571
+00:30:23,794 --> 00:30:26,563
+Há várias evidências
+que indicam o contrário.
+
+572
+00:30:26,564 --> 00:30:28,332
+Você não entende.
+
+573
+00:30:28,333 --> 00:30:31,001
+Estou fazendo isso
+para lhe ajudar.
+
+574
+00:30:31,002 --> 00:30:33,669
+E como assassinar
+um alien azul irá me ajudar?
+
+575
+00:30:33,670 --> 00:30:35,270
+É a única maneira
+de lhe salvar.
+
+576
+00:30:36,573 --> 00:30:38,831
+Transformaremos você
+em um Inumano.
+
+577
+00:30:44,379 --> 00:30:45,713
+Essa não é você.
+
+578
+00:30:45,714 --> 00:30:47,924
+Sei que é difícil de ouvir,
+mas sou eu.
+
+579
+00:30:47,925 --> 00:30:49,425
+Não estou mais perdida.
+
+580
+00:30:49,426 --> 00:30:51,794
+Todos na S.H.I.E.L.D. podem
+parar de tentar me salvar.
+
+581
+00:30:51,795 --> 00:30:53,495
+- Isso é diferente.
+- É mesmo?
+
+582
+00:30:53,496 --> 00:30:55,999
+Primeiro, S.H.I.E.L.D. me livra
+da Maré Crescente...
+
+583
+00:30:56,000 --> 00:30:58,300
+e depois dos meus pais
+não tão gentis...
+
+584
+00:30:58,301 --> 00:30:59,802
+e agora, mais uma vez...
+
+585
+00:30:59,803 --> 00:31:02,105
+a S.H.I.E.L.D. veio salvar
+a pobre Daisy.
+
+586
+00:31:02,106 --> 00:31:03,572
+Porque você está doente.
+
+587
+00:31:03,773 --> 00:31:07,509
+Essa coisa é um parasita.
+Está mexendo com sua cabeça.
+
+588
+00:31:07,510 --> 00:31:10,378
+É o que a S.H.I.E.L.D. faz!
+Olhe para nós, Mack!
+
+589
+00:31:10,379 --> 00:31:12,714
+Você era um mecânico,
+eu era uma hacker...
+
+590
+00:31:12,715 --> 00:31:14,649
+e agora, de algum modo,
+somos soldados?
+
+591
+00:31:14,650 --> 00:31:16,918
+O mundo está mudando.
+Tivemos de nos adaptar.
+
+592
+00:31:16,919 --> 00:31:18,486
+Não tivemos escolha!
+
+593
+00:31:18,487 --> 00:31:20,721
+S.H.I.E.L.D. nos tornou
+naquilo que ela precisava.
+
+594
+00:31:20,722 --> 00:31:23,624
+Não. Ninguém na S.H.I.E.L.D.
+fez você fazer nada.
+
+595
+00:31:23,625 --> 00:31:25,592
+Mas Coulson sabia
+que eu estava perdida,
+
+596
+00:31:25,593 --> 00:31:28,128
+então ele me ofereceu
+sua equipe de desajustados...
+
+597
+00:31:28,129 --> 00:31:31,230
+- Só para preencher o vazio.
+- A equipe se importa com você.
+
+598
+00:31:33,201 --> 00:31:35,169
+Eu me importo com você.
+
+599
+00:31:35,170 --> 00:31:38,472
+Então o que isso nos torna?
+Amigos?
+
+600
+00:31:38,473 --> 00:31:41,541
+Amigos. Parceiros.
+
+601
+00:31:41,542 --> 00:31:44,444
+Bobbi já foi sua parceira.
+E como isso terminou?
+
+602
+00:31:44,445 --> 00:31:47,213
+Sabe que saíram da S.H.I.E.L.D.
+para nos proteger.
+
+603
+00:31:47,214 --> 00:31:50,083
+Eles saíram pois não havia
+razão para ficar.
+
+604
+00:31:50,084 --> 00:31:52,651
+Pois não se importavam
+com ninguém na S.H.I.E.L.D.
+
+605
+00:31:52,652 --> 00:31:54,420
+<i>Não foi difícil sair.</i>
+
+606
+00:31:56,422 --> 00:32:00,058
+Mas eu acho que você
+deveria sair daqui, agora.
+
+607
+00:32:14,906 --> 00:32:18,808
+Parte de você quer voltar.
+Foi assim que encontramos você.
+
+608
+00:32:19,244 --> 00:32:22,079
+- Do que você está falando?
+- Há poucas horas...
+
+609
+00:32:22,080 --> 00:32:24,916
+recebemos filmagens
+de você fora dessa garagem.
+
+610
+00:32:24,917 --> 00:32:26,684
+<i>Recebemos um alerta
+no nosso sistema.</i>
+
+611
+00:32:26,685 --> 00:32:28,852
+O mesmo sistema
+que você ajudou a criar.
+
+612
+00:32:29,821 --> 00:32:32,788
+Então você acha que eu queria
+que isso acontecesse?
+
+613
+00:32:34,191 --> 00:32:36,194
+Não foi um acidente.
+
+614
+00:32:37,095 --> 00:32:39,695
+Algo dentro de você
+está resistindo.
+
+615
+00:32:41,631 --> 00:32:43,131
+Eu vacilei...
+
+616
+00:32:43,132 --> 00:32:45,802
+pois não estava mais
+pensando como uma espiã.
+
+617
+00:32:45,803 --> 00:32:49,104
+Pois eu não preciso mais
+ser uma agente da S.H.I.E.L.D.
+
+618
+00:32:49,105 --> 00:32:50,772
+- Tremor...
+- Não, Mack.
+
+619
+00:32:50,773 --> 00:32:52,308
+Também me importo com você.
+
+620
+00:32:52,309 --> 00:32:55,142
+Após o que houve com meus pais,
+precisava de alguém, e você...
+
+621
+00:32:55,778 --> 00:32:58,780
+Você era quase como
+um irmão mais velho para mim.
+
+622
+00:32:58,781 --> 00:33:00,950
+Mas vamos ser honestos...
+
+623
+00:33:00,951 --> 00:33:04,052
+Você luta para ser um
+para o que já tem.
+
+624
+00:33:04,986 --> 00:33:08,220
+- Deixe Ruben fora disso.
+- Sei como se sente.
+
+625
+00:33:09,859 --> 00:33:14,029
+Mas não precisa se sentir só.
+Podemos consertar isso.
+
+626
+00:33:14,030 --> 00:33:16,264
+O que você está sentindo...
+não é real.
+
+627
+00:33:16,265 --> 00:33:19,768
+O que sentimos é a realidade.
+
+628
+00:33:19,769 --> 00:33:21,902
+É a maneira como o mundo
+deveria ser.
+
+629
+00:33:21,903 --> 00:33:23,269
+Não o meu mundo.
+
+630
+00:33:24,539 --> 00:33:27,675
+Eu realmente queria
+lhe salvar, Mack.
+
+631
+00:33:28,876 --> 00:33:30,343
+Sim.
+
+632
+00:33:31,444 --> 00:33:32,746
+Eu também.
+
+633
+00:33:39,853 --> 00:33:41,987
+Se não posso salvá-la,
+terei que salvar os outros.
+
+634
+00:33:45,559 --> 00:33:48,526
+Não sou mais o caçador covarde
+que você encontrou anos atrás!
+
+635
+00:33:58,504 --> 00:34:01,805
+- Deveria ter ficado longe!
+- Espere!
+
+636
+00:34:04,076 --> 00:34:06,810
+Por favor.
+Não vou lutar com você.
+
+637
+00:34:28,399 --> 00:34:30,699
+Eu queria que você fosse
+parte disso.
+
+638
+00:34:38,142 --> 00:34:40,276
+O azul deve tomar
+conta dele.
+
+639
+00:34:40,277 --> 00:34:41,744
+Não tenha tanta certeza.
+
+640
+00:34:41,745 --> 00:34:44,512
+Parece que Colmeia guarda
+um rancor de mil anos.
+
+641
+00:34:47,350 --> 00:34:51,119
+Você fez algo excelente,
+algo divino...
+
+642
+00:34:52,222 --> 00:34:53,554
+e agora você quer destruí-lo!
+
+643
+00:34:59,720 --> 00:35:01,620
+Você é um experimento
+fracassado.
+
+644
+00:35:07,736 --> 00:35:10,972
+Algumas vezes,
+os maiores milagres...
+
+645
+00:35:10,973 --> 00:35:12,573
+acontecem por acidente.
+
+646
+00:35:20,381 --> 00:35:23,548
+Atire, agora!
+Repito! Atire!
+
+647
+00:35:29,590 --> 00:35:30,991
+Piper!
+
+648
+00:35:45,438 --> 00:35:47,506
+Precisamos ir! Agora!
+Agora!
+
+649
+00:35:56,181 --> 00:35:59,951
+Poderíamos ter uma conexão
+que fosse real.
+
+650
+00:36:00,552 --> 00:36:03,489
+Daisy, olhe para si mesma.
+
+651
+00:36:04,490 --> 00:36:06,190
+<i>Não precisa fazer isso.</i>
+
+652
+00:36:11,896 --> 00:36:13,830
+Preciso de uma
+saída de emergência agora!
+
+653
+00:36:24,442 --> 00:36:26,677
+Precisamos sair daqui!
+Rápido, ele está vindo!
+
+654
+00:36:26,678 --> 00:36:28,145
+<i>Ele está vindo!</i>
+
+655
+00:36:57,105 --> 00:36:59,506
+Não acredito
+que Daisy tenha feito isso.
+
+656
+00:37:02,510 --> 00:37:04,644
+Você estava certa sobre ela.
+
+657
+00:37:04,645 --> 00:37:06,513
+Eu realmente não queria estar.
+
+658
+00:37:07,114 --> 00:37:08,745
+Então...
+
+659
+00:37:09,246 --> 00:37:12,953
+Colmeia quer transformar
+qualquer humano em Inumano.
+
+660
+00:37:13,354 --> 00:37:16,623
+Independente de existir ou não
+marcadores genéticos na pessoa.
+
+661
+00:37:16,624 --> 00:37:18,022
+Poderia ter dado certo...
+
+662
+00:37:18,023 --> 00:37:19,993
+se Mack não tivesse
+detonado aquele Kree.
+
+663
+00:37:19,994 --> 00:37:21,558
+Bem, e isso importa?
+
+664
+00:37:21,559 --> 00:37:22,897
+<i>Aquela coisa...</i>
+
+665
+00:37:23,498 --> 00:37:25,498
+Não tem nada
+que possa detê-la.
+
+666
+00:37:34,909 --> 00:37:37,475
+Espera.
+O que aconteceu?
+
+667
+00:37:37,476 --> 00:37:39,244
+A Daisy está bem?
+
+668
+00:37:39,245 --> 00:37:42,514
+A missão falhou.
+Daisy ainda está viva.
+
+669
+00:37:42,515 --> 00:37:43,981
+Mas não impediram Colmeia.
+
+670
+00:37:46,918 --> 00:37:49,553
+- Quando isso aconteceu?
+- Retornaram há uma hora.
+
+671
+00:37:51,657 --> 00:37:53,224
+Uma hora?
+
+672
+00:37:53,725 --> 00:37:55,327
+E você simplesmente...
+
+673
+00:37:56,228 --> 00:37:58,362
+Você me manteve
+aqui embaixo o tempo todo?
+
+674
+00:37:58,363 --> 00:38:00,530
+- Você precisava descansar.
+- Eu precisava...
+
+675
+00:38:00,531 --> 00:38:02,865
+Estar lá em cima, ajudando!
+
+676
+00:38:02,866 --> 00:38:04,901
+E não trancado aqui
+como um prisioneiro!
+
+677
+00:38:04,902 --> 00:38:06,937
+Seu sistema imunológico
+está fraco.
+
+678
+00:38:06,938 --> 00:38:09,139
+Se alguém espirrar,
+pode matar você.
+
+679
+00:38:09,140 --> 00:38:11,740
+<i>Então, até que se recupere,
+você é um prisioneiro.</i>
+
+680
+00:38:11,741 --> 00:38:13,310
+É o meu prisioneiro.
+
+681
+00:38:17,415 --> 00:38:19,349
+Sinto muito.
+
+682
+00:38:24,054 --> 00:38:26,156
+Eu só... não sei o que fazer.
+
+683
+00:38:26,157 --> 00:38:27,589
+Nenhum de nós sabe.
+
+684
+00:38:30,292 --> 00:38:33,429
+Pelo menos disse ao Coulson
+que podemos ter uma cura?
+
+685
+00:38:33,430 --> 00:38:34,731
+Não.
+
+686
+00:38:36,132 --> 00:38:37,966
+Por que não?
+
+687
+00:38:39,235 --> 00:38:41,236
+Porque não temos.
+
+688
+00:38:41,237 --> 00:38:43,904
+Desci para lhe contar isso.
+A antitoxina...
+
+689
+00:38:44,539 --> 00:38:46,306
+Ela não funcionou.
+
+690
+00:38:49,611 --> 00:38:51,212
+Agora, descanse um pouco.
+
+691
+00:39:02,523 --> 00:39:04,291
+Arranquei este coração fora...
+
+692
+00:39:04,892 --> 00:39:07,059
+como o combinado.
+
+693
+00:39:08,496 --> 00:39:10,231
+Mas você falhou conosco.
+
+694
+00:39:12,232 --> 00:39:15,302
+- Eu tentei pará-lo.
+- E seus esforços falharam.
+
+695
+00:39:15,303 --> 00:39:17,437
+<i>Seu amigo não só destruiu
+todas as coisas...</i>
+
+696
+00:39:17,438 --> 00:39:20,338
+em que vínhamos trabalhando,
+como também, fugiu.
+
+697
+00:39:22,009 --> 00:39:24,410
+Colocamos muita confiança
+em você.
+
+698
+00:39:24,811 --> 00:39:27,314
+Seus laços com a S.H.I.E.L.D.
+são mais fortes do que diz.
+
+699
+00:39:28,315 --> 00:39:30,248
+Deixou-me com dúvidas.
+
+700
+00:39:34,754 --> 00:39:36,088
+Não.
+
+701
+00:39:38,289 --> 00:39:41,757
+Tinha razão em confiar em mim.
+Estou farta da S.H.I.E.L.D.
+
+702
+00:39:43,228 --> 00:39:46,196
+E, na verdade,
+eu tenho respostas.
+
+703
+00:39:46,197 --> 00:39:48,599
+O DNA que você precisa...
+Eu o tenho.
+
+704
+00:39:48,600 --> 00:39:50,168
+O DNA Inumano não é
+o suficiente.
+
+705
+00:39:50,169 --> 00:39:52,334
+Precisamos do sangue
+de um Kree vivo.
+
+706
+00:39:52,335 --> 00:39:54,402
+É o que está fluindo
+em minhas veias.
+
+707
+00:39:54,703 --> 00:39:58,008
+Coulson o usou em mim
+quando Quinn me baleou.
+
+708
+00:39:58,009 --> 00:39:59,775
+Ward deveria
+se lembrar disso.
+
+709
+00:40:01,212 --> 00:40:02,979
+Ele lembra.
+
+710
+00:40:03,780 --> 00:40:06,351
+Então, se você quer
+que o experimento funcione...
+
+711
+00:40:07,886 --> 00:40:09,363
+É só drená-lo de mim.
+
+712
+00:40:11,064 --> 00:40:13,564
+<b>The_Tozz e UNITED!
+Morra, Ward, Morra!</b>
+
+713
+00:40:13,600 --> 00:40:15,564
+<b>Resync:
+Rubens Oliveira</b>
+
