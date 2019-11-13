@@ -1,0 +1,334 @@
+﻿1
+00:01:37,431 --> 00:01:40,976
+LONDRES, INGLATERRA
+
+2
+00:06:33,352 --> 00:06:37,523
+UNIVERSIDADE KING EDWARD
+EGHAM, INGLATERRA
+
+3
+00:06:57,584 --> 00:06:59,419
+CAPELA
+
+4
+00:10:26,585 --> 00:10:28,003
+DIRETORIA DE INOVAÇÃO DIGITAL
+SEDE DA CIA
+
+5
+00:11:03,580 --> 00:11:04,748
+LIGAÇÃO RECEBIDA - Rupert Thorne
+LOCAL: LONDRES, INGLATERRA
+
+6
+00:11:46,498 --> 00:11:48,417
+BANCO SCHWEIZER DA SUÍÇA
+SR. MAX SCHENKEL
+
+7
+00:11:49,584 --> 00:11:50,544
+EXTRATO BANCÁRIO
+SALDO INICIAL 481.268,51
+
+8
+00:11:50,627 --> 00:11:51,461
+SALDO FINAL 729.445,30
+LIMITE DO CHEQUE ESPECIAL 2.500,00
+
+9
+00:12:00,762 --> 00:12:02,472
+19 MAIO 13h40 LONDRES
+20 MAIO 09h56 LONDRES
+
+10
+00:12:02,556 --> 00:12:03,682
+23 MAIO 10h33 FILADÉLFIA, EUA
+
+11
+00:12:05,183 --> 00:12:06,184
+ARQUIVO CARACAS
+DE: RUPERT THORNE
+
+12
+00:12:06,268 --> 00:12:07,811
+PARA: MONITOR@NORTHLAKEALLIED.COM
+1º RESOLVIDO, 2º PENDENTE
+
+13
+00:12:10,439 --> 00:12:11,940
+EMBAIXADA AMERICANA
+
+14
+00:15:02,068 --> 00:15:03,278
+Como posso ajudá-lo?
+
+15
+00:15:03,361 --> 00:15:06,281
+Viemos ver a señora Bonalde.
+
+16
+00:15:07,407 --> 00:15:08,617
+Um momento, por favor.
+
+17
+00:15:45,987 --> 00:15:47,405
+-Prazer em conhecê-la.
+-Prazer.
+
+18
+00:15:57,123 --> 00:15:58,500
+Se não se importa, señora Bonalde,
+
+19
+00:15:58,583 --> 00:16:00,669
+eu gostaria de conversar
+com seu chefe de segurança.
+
+20
+00:17:21,541 --> 00:17:22,459
+Olá, querida.
+
+21
+00:17:32,844 --> 00:17:33,970
+Está trabalhando com o Ryan.
+
+22
+00:17:34,304 --> 00:17:35,388
+Sim.
+
+23
+00:17:35,472 --> 00:17:38,266
+Para salvar a sua vida.
+
+24
+00:17:38,349 --> 00:17:39,893
+Sério, Harriet.
+
+25
+00:17:40,477 --> 00:17:43,563
+Apareceu e arruinou os meus planos.
+
+26
+00:17:44,898 --> 00:17:46,566
+Achei que me conhecia melhor que isso.
+
+27
+00:17:48,234 --> 00:17:49,110
+Por favor, Max.
+
+28
+00:17:54,616 --> 00:17:56,159
+Tenho um trabalho a terminar.
+
+29
+00:17:56,618 --> 00:17:58,161
+Este é seu único aviso.
+
+30
+00:17:58,244 --> 00:17:59,579
+Fique fora do meu caminho.
+
+31
+00:18:02,290 --> 00:18:03,792
+Deixe-o ir.
+
+32
+00:18:08,797 --> 00:18:10,507
+Ele significa algo para você.
+
+33
+00:18:13,802 --> 00:18:14,844
+Não.
+
+34
+00:18:17,180 --> 00:18:19,516
+Você me ensinou melhor que isso.
+
+35
+00:18:21,142 --> 00:18:23,019
+Obviamente, não o bastante.
+
+36
+00:18:26,189 --> 00:18:27,649
+Fique fora do meu caminho.
+
+37
+00:18:30,151 --> 00:18:31,110
+Vá para casa.
+
+38
+00:18:34,489 --> 00:18:35,615
+Adeus, Harry.
+
+39
+00:20:49,207 --> 00:20:52,251
+DISTRITO CATIA
+CARACAS, VENEZUELA
+
+40
+00:21:35,712 --> 00:21:38,631
+Catia, eu ouço vocês!
+
+41
+00:21:46,681 --> 00:21:49,517
+Meu pai era um taxista
+
+42
+00:21:50,560 --> 00:21:52,979
+e minha mãe era professora
+na escola do bairro.
+
+43
+00:21:53,688 --> 00:21:55,273
+Não éramos ricos,
+
+44
+00:21:56,232 --> 00:21:58,943
+mas nunca faltava comida na casa,
+
+45
+00:21:59,485 --> 00:22:03,614
+mesmo se isso exigisse sacrifícios.
+
+46
+00:22:04,490 --> 00:22:06,617
+Eles eram humildes.
+
+47
+00:22:07,201 --> 00:22:08,578
+Eles tinham dignidade.
+
+48
+00:22:09,579 --> 00:22:13,791
+Hoje, com a grande escassez
+de alimento e remédios,
+
+49
+00:22:14,709 --> 00:22:19,088
+torna-se impossível ter a mesma dignidade
+que meus pais tiveram.
+
+50
+00:22:19,756 --> 00:22:23,384
+A inflação desvaloriza o nosso dinheiro.
+
+51
+00:22:24,469 --> 00:22:29,474
+Blecautes deixam nosso país na escuridão.
+
+52
+00:22:30,808 --> 00:22:34,020
+O crime nos força a viver com medo.
+
+53
+00:22:34,645 --> 00:22:36,105
+A Venezuela é um país rico.
+
+54
+00:22:37,148 --> 00:22:39,275
+Não apenas em recursos naturais,
+
+55
+00:22:39,358 --> 00:22:42,737
+temos a maior reserva de petróleo
+do mundo.
+
+56
+00:22:43,613 --> 00:22:46,657
+E, mesmo assim, não temos
+como alimentar os nossos filhos.
+
+57
+00:22:47,950 --> 00:22:50,870
+Estamos morrendo de fome.
+
+58
+00:22:52,872 --> 00:22:58,419
+Nossos recursos,
+nossas riquezas, nosso sangue
+
+59
+00:22:59,170 --> 00:23:02,548
+está sendo vendido pelas nossas costas
+
+60
+00:23:03,758 --> 00:23:06,052
+por um homem que cresceu neste bairro.
+
+61
+00:23:07,053 --> 00:23:11,724
+O presidente Reyes traiu todos nós!
+
+62
+00:23:12,183 --> 00:23:14,185
+E ele tem de pagar por isso!
+
+63
+00:23:31,160 --> 00:23:32,787
+ESTAÇÃO DA RUA LIVERPOOL
+
+64
+00:25:53,094 --> 00:25:54,136
+Eu te avisei.
+
+65
+00:25:54,845 --> 00:25:56,514
+Falei para não interferir.
+
+66
+00:25:58,099 --> 00:25:59,392
+Aonde ele vai?
+
+67
+00:26:00,851 --> 00:26:02,061
+Para onde ele foi?
+
+68
+00:26:04,480 --> 00:26:05,523
+Vá pro inferno.
+
+69
+00:26:13,030 --> 00:26:14,323
+DO TERMINAL DE LONDRES
+PARA A UNIVERSIDADE KING EDWARD
+
+70
+00:29:04,827 --> 00:29:06,078
+CELULAR DA HARRIET
+
+71
+00:29:48,704 --> 00:29:52,541
+SEDE DE CAMPANHA DE BONALDE
+CARACAS, VENEZUELA
+
+72
+00:30:03,802 --> 00:30:07,223
+Precisa ver os números.
+
+73
+00:30:07,306 --> 00:30:08,390
+As últimas pesquisas.
+
+74
+00:30:09,308 --> 00:30:14,480
+Vamos concentrar nossos esforços
+em Macarao, El Valle e Libertador.
+
+75
+00:30:29,161 --> 00:30:30,371
+Um momento, Valentina.
+
+76
+00:35:12,736 --> 00:35:14,863
+Os americanos estão indo
+na direção do acampamento.
+
+77
+00:35:45,185 --> 00:35:46,186
+Mexam-se!
+
+78
+00:35:47,187 --> 00:35:48,981
+Vamos alcançá-los pela manhã.
+
