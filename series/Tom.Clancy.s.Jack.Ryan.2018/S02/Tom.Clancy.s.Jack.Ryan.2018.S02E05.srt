@@ -1,0 +1,1928 @@
+﻿1
+00:01:23,584 --> 00:01:26,754
+JACK RYAN de TOM CLANCY
+
+2
+00:01:37,431 --> 00:01:40,976
+LONDRES, INGLATERRA
+
+3
+00:01:53,072 --> 00:01:54,156
+Então, quem é ele?
+
+4
+00:01:56,033 --> 00:01:57,493
+A verdadeira identidade dele.
+
+5
+00:02:01,163 --> 00:02:02,706
+É um oficial alemão da BND.
+
+6
+00:02:02,790 --> 00:02:04,583
+Se chama Max Schenkel.
+
+7
+00:02:04,667 --> 00:02:07,211
+Ele é um cidadão alemão
+que mata gente por dinheiro.
+
+8
+00:02:07,294 --> 00:02:09,547
+E há quanto tempo você
+e Harry estão trabalhando juntos?
+
+9
+00:02:09,630 --> 00:02:10,756
+Nos conhecemos em Caracas.
+
+10
+00:02:10,840 --> 00:02:11,674
+Quando?
+
+11
+00:02:12,633 --> 00:02:13,676
+Há uma semana.
+
+12
+00:02:14,051 --> 00:02:17,471
+Eu conheço o Dr. Ryan
+há uns três anos e meio.
+
+13
+00:02:18,305 --> 00:02:21,350
+Trabalhamos em algumas operações
+interagências como esta.
+
+14
+00:02:21,433 --> 00:02:23,435
+E o que mais ela não está nos contando?
+
+15
+00:02:24,728 --> 00:02:26,480
+Me pergunto isso todos os dias.
+
+16
+00:02:26,814 --> 00:02:27,857
+Vamos.
+
+17
+00:02:28,899 --> 00:02:29,859
+Ande.
+
+18
+00:02:38,784 --> 00:02:40,035
+Vou precisar de sua arma.
+
+19
+00:02:40,578 --> 00:02:42,663
+O quê? O atirador ainda está solto.
+
+20
+00:02:42,746 --> 00:02:46,166
+Acabou pra você.
+Ela vai no próximo avião para a Alemanha.
+
+21
+00:02:46,250 --> 00:02:47,543
+Podemos continuar daqui.
+
+22
+00:02:52,840 --> 00:02:54,049
+Um conselho, Jack.
+
+23
+00:02:54,341 --> 00:02:55,759
+Fique longe dela.
+
+24
+00:02:56,427 --> 00:02:59,013
+Pode pensar que ela está do seu lado,
+mas confie em mim,
+
+25
+00:02:59,638 --> 00:03:01,557
+Harry faz o que é melhor para a Harry.
+
+26
+00:04:10,334 --> 00:04:13,128
+As imagens são desta manhã,
+mas CENTCOM acabou de enviar.
+
+27
+00:04:14,004 --> 00:04:16,215
+Ele desceu aquela encosta há uma hora.
+
+28
+00:04:16,298 --> 00:04:17,591
+Não deve ter ido muito longe.
+
+29
+00:04:17,675 --> 00:04:20,511
+Contatei Matice,
+lhe passei as coordenadas.
+
+30
+00:04:20,594 --> 00:04:22,012
+Achei que não tínhamos apoio aéreo.
+
+31
+00:04:22,096 --> 00:04:25,474
+Sem apoio pilotado. Apenas drones
+não armados do USS Peralta,
+
+32
+00:04:25,557 --> 00:04:28,143
+que fica a 17 milhas náuticas
+da costa da Venezuela.
+
+33
+00:04:33,023 --> 00:04:34,316
+Pedi um favor.
+
+34
+00:04:34,858 --> 00:04:36,568
+É um grande favor.
+
+35
+00:04:38,445 --> 00:04:40,572
+Posso ou não ter tomado vários drinques
+
+36
+00:04:40,656 --> 00:04:42,449
+com um coronel da JSOC
+que conheci em abril passado.
+
+37
+00:04:45,995 --> 00:04:46,954
+Abril?
+
+38
+00:04:47,371 --> 00:04:48,956
+Um mês depois da nossa separação?
+
+39
+00:04:50,124 --> 00:04:51,667
+Gosto de homem de uniforme.
+
+40
+00:04:53,544 --> 00:04:54,712
+-Vejam só.
+-Legal.
+
+41
+00:04:55,713 --> 00:04:57,172
+-Pode aproximar?
+-Sim.
+
+42
+00:05:02,594 --> 00:05:03,887
+Tem alguém queimando algo.
+
+43
+00:05:04,346 --> 00:05:05,806
+Deve ser para onde ele vai.
+
+44
+00:05:05,931 --> 00:05:07,016
+Ligue de volta pro Matice.
+
+45
+00:05:10,561 --> 00:05:11,562
+Estou pronto.
+
+46
+00:05:12,479 --> 00:05:15,357
+-Pode enviar.
+-Latitude 7863,
+
+47
+00:05:15,441 --> 00:05:17,276
+longitude 2547.
+
+48
+00:05:18,193 --> 00:05:19,737
+Entendido. Estamos a caminho.
+
+49
+00:05:20,654 --> 00:05:22,531
+Muito bem, pessoal, mudança de planos.
+
+50
+00:05:23,657 --> 00:05:25,951
+-Aparentemente ele viu fumaça.
+-Fumaça?
+
+51
+00:05:26,035 --> 00:05:27,619
+Sim, e está indo na direção dela.
+
+52
+00:05:28,412 --> 00:05:30,039
+Provavelmente uma tribo indígena.
+
+53
+00:05:32,291 --> 00:05:35,335
+Parece que podemos poupar tempo
+se cortarmos pela ravina.
+
+54
+00:05:35,419 --> 00:05:36,670
+E abandonar o terreno mais alto?
+
+55
+00:05:36,754 --> 00:05:40,507
+Podemos andar pelo leito do córrego
+ou cortar a mata por três dias.
+
+56
+00:05:40,591 --> 00:05:41,592
+Muito bem,
+
+57
+00:05:41,675 --> 00:05:44,344
+mas quando acharmos o idiota,
+tem de deixar eu atirar nele.
+
+58
+00:05:44,428 --> 00:05:46,889
+Só um ferimento leve.
+Talvez na barriga da perna.
+
+59
+00:05:46,972 --> 00:05:49,224
+Não, vamos atirar na mão dele.
+A que usa pra se masturbar.
+
+60
+00:05:50,517 --> 00:05:51,560
+É.
+
+61
+00:05:52,269 --> 00:05:53,604
+Gosto da ideia da mão.
+
+62
+00:06:33,352 --> 00:06:37,523
+UNIVERSIDADE KING EDWARD
+EGHAM, INGLATERRA
+
+63
+00:06:57,584 --> 00:06:59,419
+CAPELA
+
+64
+00:07:27,573 --> 00:07:29,825
+Disse pra nunca sentar
+de costas para a porta.
+
+65
+00:07:30,617 --> 00:07:32,369
+Me sinto seguro aqui.
+
+66
+00:07:34,246 --> 00:07:35,414
+Olá, Annabelle.
+
+67
+00:07:36,039 --> 00:07:37,166
+Venha aqui.
+
+68
+00:07:43,547 --> 00:07:44,882
+O que houve com o seu olho?
+
+69
+00:07:45,757 --> 00:07:48,385
+Eu estava cortando lenha e uma farpa
+
+70
+00:07:48,468 --> 00:07:50,512
+me acertou no olho. Burrice.
+
+71
+00:07:54,224 --> 00:07:55,601
+Trouxe algo para você.
+
+72
+00:08:03,525 --> 00:08:04,776
+Que bonito.
+
+73
+00:08:05,611 --> 00:08:06,653
+De onde é?
+
+74
+00:08:06,737 --> 00:08:09,323
+Creio que da América do Sul.
+
+75
+00:08:11,575 --> 00:08:13,744
+É lindo. Obrigada.
+
+76
+00:08:17,247 --> 00:08:19,583
+-Como vão as aulas?
+-Difíceis.
+
+77
+00:08:19,666 --> 00:08:22,836
+Exceto de cinema.
+Qualquer idiota se sai bem nela.
+
+78
+00:08:22,920 --> 00:08:23,921
+Você acha?
+
+79
+00:08:24,796 --> 00:08:26,131
+Achei que tinha parado.
+
+80
+00:08:26,798 --> 00:08:28,550
+Vou parar depois das provas.
+
+81
+00:08:29,009 --> 00:08:30,427
+Muito estresse agora.
+
+82
+00:08:35,933 --> 00:08:38,185
+Como vai você?
+
+83
+00:08:38,977 --> 00:08:40,312
+Como vai o trabalho?
+
+84
+00:08:40,395 --> 00:08:41,939
+Na verdade, é por isso que estou aqui.
+
+85
+00:08:42,564 --> 00:08:45,067
+Tenho de partir em breve, provavelmente
+por mais tempo do que o normal.
+
+86
+00:08:45,150 --> 00:08:46,401
+Está tudo bem?
+
+87
+00:08:48,612 --> 00:08:50,739
+Sim, claro. Está tudo bem.
+
+88
+00:08:50,822 --> 00:08:51,990
+Só quero garantir que
+
+89
+00:08:52,074 --> 00:08:53,825
+tenha tudo de que precisa
+na minha ausência.
+
+90
+00:08:55,619 --> 00:08:57,079
+Use este celular se precisar me contatar.
+
+91
+00:08:58,413 --> 00:09:00,999
+Coloquei o número nos contatos
+sob o nome "Ripley".
+
+92
+00:09:02,751 --> 00:09:04,127
+Tem certeza de que está bem?
+
+93
+00:09:04,836 --> 00:09:06,588
+Sei como cuidar de mim mesmo.
+
+94
+00:09:20,727 --> 00:09:21,561
+Obrigado.
+
+95
+00:09:36,034 --> 00:09:37,077
+Olá?
+
+96
+00:09:47,879 --> 00:09:48,880
+Olá?
+
+97
+00:10:25,417 --> 00:10:26,501
+Jack Ryan.
+
+98
+00:10:26,585 --> 00:10:28,003
+DIRETORIA DE INOVAÇÃO DIGITAL
+SEDE DA CIA
+
+99
+00:10:28,086 --> 00:10:30,005
+Já viu meu plano de negócios?
+Me dê boas notícias.
+
+100
+00:10:30,589 --> 00:10:32,716
+Quer saber? Não tive tempo para isso.
+
+101
+00:10:32,799 --> 00:10:34,343
+Estive meio ocupado.
+
+102
+00:10:34,801 --> 00:10:37,429
+Certo, olhe, não quero pressionar,
+
+103
+00:10:37,512 --> 00:10:41,391
+mas minha mãe é minha sócia
+e ela está pirando...
+
+104
+00:10:41,475 --> 00:10:44,895
+Eu entendo completamente. Que tal assim?
+Dou uma olhada amanhã. Prometo.
+
+105
+00:10:44,978 --> 00:10:46,313
+Por que não olha agora mesmo?
+
+106
+00:10:46,730 --> 00:10:49,816
+No momento, estou tentando entrar
+em um sistema operacional.
+
+107
+00:10:50,609 --> 00:10:51,610
+Pode me ajudar?
+
+108
+00:10:53,528 --> 00:10:54,571
+Certo.
+
+109
+00:10:54,821 --> 00:10:56,823
+Pode ligar para meu número
+de um telefone fixo?
+
+110
+00:11:03,580 --> 00:11:04,748
+LIGAÇÃO RECEBIDA - Rupert Thorne
+LOCAL: LONDRES, INGLATERRA
+
+111
+00:11:04,831 --> 00:11:05,707
+Londres?
+
+112
+00:11:05,791 --> 00:11:08,168
+Cara, estudei um semestre em Londres.
+
+113
+00:11:08,251 --> 00:11:09,669
+Estudou? Isso é...
+
+114
+00:11:09,753 --> 00:11:12,005
+Vou levar um segundo 
+para verificar os dados obtidos.
+
+115
+00:11:12,089 --> 00:11:13,882
+Já fez o passeio do Jack, o Estripador?
+
+116
+00:11:14,925 --> 00:11:15,759
+Não.
+
+117
+00:11:15,842 --> 00:11:18,470
+Mano, é sinistro. Sabe o que dizem, né?
+
+118
+00:11:19,096 --> 00:11:20,055
+O quê?
+
+119
+00:11:20,138 --> 00:11:23,850
+Que pode ter sido
+um membro da família real.
+
+120
+00:11:25,477 --> 00:11:27,312
+-O quê?
+-Pois é.
+
+121
+00:11:28,438 --> 00:11:31,066
+Certo. Desabilitei o firewall.
+
+122
+00:11:31,149 --> 00:11:33,860
+Procure sites bancários
+que o Thorne visitou.
+
+123
+00:11:33,944 --> 00:11:36,613
+Nomes, números de conta,
+transferências realizadas.
+
+124
+00:11:37,239 --> 00:11:38,407
+Certo.
+
+125
+00:11:40,826 --> 00:11:42,369
+Esta. Tente essa.
+
+126
+00:11:46,498 --> 00:11:48,417
+BANCO SCHWEIZER DA SUÍÇA
+SR. MAX SCHENKEL
+
+127
+00:11:49,584 --> 00:11:50,544
+EXTRATO BANCÁRIO
+SALDO INICIAL 481.268,51
+
+128
+00:11:50,627 --> 00:11:51,461
+SALDO FINAL 729.445,30
+LIMITE DO CHEQUE ESPECIAL 2.500,00
+
+129
+00:11:53,296 --> 00:11:54,339
+Volte pra esta.
+
+130
+00:12:00,762 --> 00:12:02,472
+19 MAIO 13h40 LONDRES
+20 MAIO 09h56 LONDRES
+
+131
+00:12:02,556 --> 00:12:03,682
+23 MAIO 10h33 FILADÉLFIA, EUA
+
+132
+00:12:03,765 --> 00:12:05,100
+Certo, a próxima.
+
+133
+00:12:05,183 --> 00:12:06,184
+ARQUIVO CARACAS
+DE: RUPERT THORNE
+
+134
+00:12:06,268 --> 00:12:07,811
+PARA: MONITOR@NORTHLAKEALLIED.COM
+1º RESOLVIDO, 2º PENDENTE
+
+135
+00:12:10,439 --> 00:12:11,940
+EMBAIXADA AMERICANA
+
+136
+00:12:14,025 --> 00:12:15,485
+-Entre.
+-Tem um minuto?
+
+137
+00:12:15,569 --> 00:12:18,530
+Sim. Só pagando metade do aluguel
+da minha casa de praia,
+
+138
+00:12:18,613 --> 00:12:19,739
+que nunca uso.
+
+139
+00:12:20,740 --> 00:12:24,536
+Eu assino 12 cheques de pensão de uma vez
+com datas diferentes.
+
+140
+00:12:24,619 --> 00:12:26,037
+É como tirar um band-aid.
+
+141
+00:12:27,456 --> 00:12:30,250
+-Em que está pensando?
+-Fui ver a Gloria ontem.
+
+142
+00:12:31,960 --> 00:12:32,794
+O quê?
+
+143
+00:12:33,795 --> 00:12:35,630
+Se tratando pelo primeiro nome.
+É engraçado.
+
+144
+00:12:35,714 --> 00:12:37,132
+Não seja babaca.
+
+145
+00:12:38,008 --> 00:12:38,884
+O que é isso?
+
+146
+00:12:38,967 --> 00:12:41,178
+Veio do cofre da casa de Sergio Bonalde.
+
+147
+00:12:42,012 --> 00:12:43,763
+Acho que foi o que causou
+o seu desaparecimento.
+
+148
+00:12:44,681 --> 00:12:46,308
+É coltan.
+
+149
+00:12:47,434 --> 00:12:50,020
+É o minério do qual o tântalo é extraído.
+
+150
+00:12:50,103 --> 00:12:51,396
+Que diabos é tântalo?
+
+151
+00:12:51,480 --> 00:12:54,566
+É essencial em todo tipo de fabricação.
+
+152
+00:12:54,649 --> 00:12:58,695
+Placas de circuito impresso,
+sistema de GPS, motores de jatos.
+
+153
+00:12:59,154 --> 00:13:00,238
+Uma lista bem longa.
+
+154
+00:13:00,322 --> 00:13:03,617
+Até agora, todas as fontes conhecidas
+estavam na China e no Congo.
+
+155
+00:13:03,992 --> 00:13:05,785
+Chamam de "Ouro Azul".
+
+156
+00:13:07,954 --> 00:13:09,748
+Acha que encontraram um depósito aqui?
+
+157
+00:13:09,831 --> 00:13:10,790
+Sim.
+
+158
+00:13:11,917 --> 00:13:14,377
+Ryan disse que o satélite
+do mar da China Meridional
+
+159
+00:13:14,878 --> 00:13:17,088
+foi lançado
+por uma empresa chamada Vogler.
+
+160
+00:13:17,339 --> 00:13:19,090
+Eles patentearam uma tecnologia de imagem
+
+161
+00:13:19,174 --> 00:13:21,968
+que permite localizar depósitos minerais
+debaixo do solo.
+
+162
+00:13:22,052 --> 00:13:23,345
+Chama-se Flash Lidar.
+
+163
+00:13:24,387 --> 00:13:26,097
+Disse que é valioso.
+De quanto estamos falando?
+
+164
+00:13:26,181 --> 00:13:27,224
+Trilhões.
+
+165
+00:13:27,599 --> 00:13:28,433
+O quê?
+
+166
+00:13:28,517 --> 00:13:31,186
+No momento,
+a China tem o monopólio de tântalo.
+
+167
+00:13:32,020 --> 00:13:33,522
+Se fecharem a torneira,
+
+168
+00:13:33,605 --> 00:13:35,857
+toda a indústria de tecnologia
+vai a falência, no mundo inteiro.
+
+169
+00:13:35,941 --> 00:13:37,984
+Mas e se houvesse outra fonte?
+
+170
+00:13:38,652 --> 00:13:40,862
+E se Vogler quebrasse o monopólio?
+
+171
+00:13:42,697 --> 00:13:44,157
+Causaria um grande impacto, certo?
+
+172
+00:13:44,824 --> 00:13:45,951
+Sim.
+
+173
+00:13:46,952 --> 00:13:48,078
+Sim, causaria.
+
+174
+00:13:50,872 --> 00:13:52,916
+Bom trabalho. Me mantenha informado.
+
+175
+00:13:52,999 --> 00:13:54,042
+Tenho de ir.
+
+176
+00:14:03,260 --> 00:14:04,344
+Ei, Mike.
+
+177
+00:14:05,428 --> 00:14:07,847
+Queria conversar sobre mais uma coisa.
+
+178
+00:14:07,931 --> 00:14:08,974
+O que foi?
+
+179
+00:14:09,349 --> 00:14:11,726
+Gloria me falou ontem
+que um dos homens do Reyes
+
+180
+00:14:11,810 --> 00:14:13,478
+deu um projétil à filha dela.
+
+181
+00:14:14,396 --> 00:14:15,230
+Credo.
+
+182
+00:14:15,313 --> 00:14:18,525
+Eu queria levar alguém lá
+e treinar os seguranças dela.
+
+183
+00:14:18,608 --> 00:14:21,611
+Quase todos são voluntários,
+fazendeiros, motoristas de táxi.
+
+184
+00:14:22,529 --> 00:14:25,615
+Quero lhes dar uma chance
+de protegê-la até a eleição.
+
+185
+00:14:25,699 --> 00:14:28,910
+Muito bem. Leve o José. Ele é bom.
+
+186
+00:14:28,994 --> 00:14:30,453
+-Obrigado.
+-Greer.
+
+187
+00:14:32,205 --> 00:14:33,373
+Não oficialmente.
+
+188
+00:14:33,456 --> 00:14:34,291
+Claro.
+
+189
+00:15:02,068 --> 00:15:03,278
+Como posso ajudá-lo?
+
+190
+00:15:03,361 --> 00:15:06,281
+Viemos ver a señora Bonalde.
+
+191
+00:15:07,407 --> 00:15:08,617
+Um momento, por favor.
+
+192
+00:15:13,663 --> 00:15:15,165
+Obrigada por vir, señor Greer.
+
+193
+00:15:15,540 --> 00:15:16,499
+Subam.
+
+194
+00:15:20,253 --> 00:15:22,005
+Tem um maldito elevador ali.
+
+195
+00:15:34,726 --> 00:15:36,269
+-Sr. Greer.
+-Señora.
+
+196
+00:15:38,104 --> 00:15:39,397
+Sim, obrigado.
+
+197
+00:15:43,735 --> 00:15:44,861
+Este é José Marzan.
+
+198
+00:15:45,987 --> 00:15:47,405
+-Prazer em conhecê-la.
+-Prazer.
+
+199
+00:15:47,489 --> 00:15:49,407
+O Sr. Marzan é
+um dos nossos agentes locais.
+
+200
+00:15:49,491 --> 00:15:50,659
+Ele entende das coisas.
+
+201
+00:15:52,077 --> 00:15:53,495
+Um homem?
+
+202
+00:15:53,578 --> 00:15:54,621
+É só?
+
+203
+00:15:57,123 --> 00:15:58,500
+Se não se importa, señora Bonalde,
+
+204
+00:15:58,583 --> 00:16:00,669
+eu gostaria de conversar
+com seu chefe de segurança.
+
+205
+00:16:04,255 --> 00:16:06,466
+José vai passar uns dias
+com os seus homens,
+
+206
+00:16:06,549 --> 00:16:09,803
+treinando-os, para que possam proteger
+a senhora e sua família.
+
+207
+00:16:09,886 --> 00:16:13,139
+Considerando a política envolvida,
+receio que é tudo que posso lhe oferecer.
+
+208
+00:16:15,308 --> 00:16:16,643
+Queria poder fazer mais.
+
+209
+00:16:20,397 --> 00:16:21,439
+Por favor.
+
+210
+00:16:26,277 --> 00:16:28,238
+Não quis parecer ingrata.
+
+211
+00:16:30,990 --> 00:16:32,117
+Posso lhe perguntar uma coisa?
+
+212
+00:16:33,993 --> 00:16:35,161
+Por que me ligou?
+
+213
+00:16:36,413 --> 00:16:39,082
+Este é um país muito pobre, Sr. Greer,
+
+214
+00:16:40,333 --> 00:16:42,836
+e precisava de alguém
+que Reyes não pudesse comprar.
+
+215
+00:16:44,587 --> 00:16:45,964
+E gosto de pensar
+
+216
+00:16:47,257 --> 00:16:49,342
+que sei julgar bem o caráter das pessoas.
+
+217
+00:16:55,306 --> 00:16:56,933
+Vai me ajudar a fazer as malas também?
+
+218
+00:16:57,016 --> 00:16:58,518
+Tenho ordens de não perdê-la de vista
+
+219
+00:16:58,601 --> 00:16:59,728
+até que esteja no voo para Berlim.
+
+220
+00:17:21,541 --> 00:17:22,459
+Olá, querida.
+
+221
+00:17:32,844 --> 00:17:33,970
+Está trabalhando com o Ryan.
+
+222
+00:17:34,304 --> 00:17:35,388
+Sim.
+
+223
+00:17:35,472 --> 00:17:38,266
+Para salvar a sua vida.
+
+224
+00:17:38,349 --> 00:17:39,893
+Sério, Harriet.
+
+225
+00:17:40,477 --> 00:17:43,563
+Apareceu e arruinou os meus planos.
+
+226
+00:17:44,898 --> 00:17:46,566
+Achei que me conhecia melhor que isso.
+
+227
+00:17:48,234 --> 00:17:49,110
+Por favor, Max.
+
+228
+00:17:54,616 --> 00:17:56,159
+Tenho um trabalho a terminar.
+
+229
+00:17:56,618 --> 00:17:58,161
+Este é seu único aviso.
+
+230
+00:17:58,244 --> 00:17:59,579
+Fique fora do meu caminho.
+
+231
+00:18:02,290 --> 00:18:03,792
+Deixe-o ir.
+
+232
+00:18:08,797 --> 00:18:10,507
+Ele significa algo para você.
+
+233
+00:18:13,802 --> 00:18:14,844
+Não.
+
+234
+00:18:17,180 --> 00:18:19,516
+Você me ensinou melhor que isso.
+
+235
+00:18:21,142 --> 00:18:23,019
+Obviamente, não o bastante.
+
+236
+00:18:26,189 --> 00:18:27,649
+Fique fora do meu caminho.
+
+237
+00:18:30,151 --> 00:18:31,110
+Vá para casa.
+
+238
+00:18:31,194 --> 00:18:32,779
+Max? Max!
+
+239
+00:18:34,489 --> 00:18:35,615
+Adeus, Harry.
+
+240
+00:19:01,307 --> 00:19:03,852
+Vi todas as transações do Thorne
+no computador dele,
+
+241
+00:19:03,935 --> 00:19:06,104
+e achei esta conta.
+
+242
+00:19:06,187 --> 00:19:07,438
+É do Max Schenkel.
+
+243
+00:19:07,522 --> 00:19:08,773
+Algo útil?
+
+244
+00:19:08,857 --> 00:19:10,817
+Todos os pagamentos passam 
+por uma conta fantasma.
+
+245
+00:19:10,900 --> 00:19:14,070
+Thorne mentiu descaradamente quando falou
+que só fazia as apresentações.
+
+246
+00:19:14,153 --> 00:19:17,365
+Adivinhe quem fez um grande depósito
+na conta dele
+
+247
+00:19:17,448 --> 00:19:19,033
+no dia anterior ao assassinato do Moreno?
+
+248
+00:19:19,742 --> 00:19:20,910
+CincoPalmas.
+
+249
+00:19:20,994 --> 00:19:23,496
+Tudo passa pela advogada
+de quem eu te falei.
+
+250
+00:19:23,580 --> 00:19:25,331
+Sim, Monica Herrera.
+
+251
+00:19:25,415 --> 00:19:26,624
+Estou investigando-a.
+
+252
+00:19:26,708 --> 00:19:27,834
+Algo mais?
+
+253
+00:19:28,251 --> 00:19:29,586
+Depois eu te ligo.
+
+254
+00:19:30,295 --> 00:19:31,337
+Harry?
+
+255
+00:19:33,798 --> 00:19:35,258
+Ele tem uma filha?
+
+256
+00:19:35,800 --> 00:19:38,303
+Sim. Annabelle.
+
+257
+00:19:39,095 --> 00:19:40,847
+Por que não me contou desde o começo,
+
+258
+00:19:40,930 --> 00:19:42,849
+antes de Jeremy, antes de Thorne?
+
+259
+00:19:42,932 --> 00:19:44,517
+Pode ser difícil para você entender,
+
+260
+00:19:44,601 --> 00:19:46,311
+mas há limites que não ultrapasso.
+
+261
+00:19:46,394 --> 00:19:48,771
+-Usar crianças como isca é um deles.
+-Sério?
+
+262
+00:19:48,855 --> 00:19:51,190
+-Fez isso agora.
+-É isso, ou você morre.
+
+263
+00:19:51,733 --> 00:19:52,609
+Eu?
+
+264
+00:19:53,026 --> 00:19:54,819
+Por que ele não te matou no elevador?
+
+265
+00:19:56,029 --> 00:19:59,240
+A única coisa que ele sempre disse
+foi para não se importar com ninguém.
+
+266
+00:20:00,325 --> 00:20:01,451
+Mas ele se importa.
+
+267
+00:20:02,827 --> 00:20:04,370
+Ele se importa comigo,
+
+268
+00:20:04,454 --> 00:20:05,788
+com a Annabelle.
+
+269
+00:20:05,872 --> 00:20:07,040
+E você?
+
+270
+00:20:13,338 --> 00:20:14,797
+Eu aprendi com os erros dele.
+
+271
+00:20:25,391 --> 00:20:26,935
+Como vamos encontrá-la?
+
+272
+00:20:31,314 --> 00:20:32,398
+Ela está na universidade.
+
+273
+00:20:33,691 --> 00:20:34,692
+Na King Edward.
+
+274
+00:20:41,240 --> 00:20:43,034
+Podemos chegar lá mais rápido de trem.
+
+275
+00:20:49,207 --> 00:20:52,251
+DISTRITO CATIA
+CARACAS, VENEZUELA
+
+276
+00:21:35,712 --> 00:21:38,631
+Catia, eu ouço vocês!
+
+277
+00:21:46,681 --> 00:21:49,517
+Meu pai era um taxista
+
+278
+00:21:50,560 --> 00:21:52,979
+e minha mãe era professora
+na escola do bairro.
+
+279
+00:21:53,688 --> 00:21:55,273
+Não éramos ricos,
+
+280
+00:21:56,232 --> 00:21:58,943
+mas nunca faltava comida na casa,
+
+281
+00:21:59,485 --> 00:22:03,614
+mesmo se isso exigisse sacrifícios.
+
+282
+00:22:04,490 --> 00:22:06,617
+Eles eram humildes.
+
+283
+00:22:07,201 --> 00:22:08,578
+Eles tinham dignidade.
+
+284
+00:22:09,579 --> 00:22:13,791
+Hoje, com a grande escassez
+de alimento e remédios,
+
+285
+00:22:14,709 --> 00:22:19,088
+torna-se impossível ter a mesma dignidade
+que meus pais tiveram.
+
+286
+00:22:19,756 --> 00:22:23,384
+A inflação desvaloriza o nosso dinheiro.
+
+287
+00:22:24,469 --> 00:22:29,474
+Blecautes deixam nosso país na escuridão.
+
+288
+00:22:30,808 --> 00:22:34,020
+O crime nos força a viver com medo.
+
+289
+00:22:34,645 --> 00:22:36,105
+A Venezuela é um país rico.
+
+290
+00:22:37,148 --> 00:22:39,275
+Não apenas em recursos naturais,
+
+291
+00:22:39,358 --> 00:22:42,737
+temos a maior reserva de petróleo
+do mundo.
+
+292
+00:22:43,613 --> 00:22:46,657
+E, mesmo assim, não temos
+como alimentar os nossos filhos.
+
+293
+00:22:47,950 --> 00:22:50,870
+Estamos morrendo de fome.
+
+294
+00:22:52,872 --> 00:22:58,419
+Nossos recursos,
+nossas riquezas, nosso sangue
+
+295
+00:22:59,170 --> 00:23:02,548
+está sendo vendido pelas nossas costas
+
+296
+00:23:03,758 --> 00:23:06,052
+por um homem que cresceu neste bairro.
+
+297
+00:23:07,053 --> 00:23:11,724
+O presidente Reyes traiu todos nós!
+
+298
+00:23:12,183 --> 00:23:14,185
+E ele tem de pagar por isso!
+
+299
+00:23:31,160 --> 00:23:32,787
+ESTAÇÃO DA RUA LIVERPOOL
+
+300
+00:24:56,329 --> 00:24:57,330
+Encontre Annabelle.
+
+301
+00:25:39,956 --> 00:25:41,624
+Saia do carro. Saia.
+
+302
+00:25:47,088 --> 00:25:47,964
+Saia.
+
+303
+00:25:53,094 --> 00:25:54,136
+Eu te avisei.
+
+304
+00:25:54,845 --> 00:25:56,514
+Falei para não interferir.
+
+305
+00:25:58,099 --> 00:25:59,392
+Aonde ele vai?
+
+306
+00:26:00,851 --> 00:26:02,061
+Para onde ele foi?
+
+307
+00:26:02,561 --> 00:26:03,521
+Max.
+
+308
+00:26:04,480 --> 00:26:05,523
+Vá pro inferno.
+
+309
+00:26:13,030 --> 00:26:14,323
+DO TERMINAL DE LONDRES
+PARA A UNIVERSIDADE KING EDWARD
+
+310
+00:26:39,932 --> 00:26:40,933
+Annabelle.
+
+311
+00:26:42,935 --> 00:26:43,978
+Eu te conheço?
+
+312
+00:26:44,061 --> 00:26:46,647
+Me chamo Jack Ryan.
+Eu gostaria de conversar sobre o seu pai.
+
+313
+00:26:48,774 --> 00:26:50,318
+Te encontro depois.
+
+314
+00:26:51,736 --> 00:26:53,487
+-Tem certeza?
+-Está tudo bem.
+
+315
+00:27:02,747 --> 00:27:04,832
+Posso ver algum documento?
+
+316
+00:27:04,915 --> 00:27:06,000
+Claro.
+
+317
+00:27:14,091 --> 00:27:15,801
+Trabalha para o governo americano?
+
+318
+00:27:16,093 --> 00:27:17,261
+Departamento do Estado.
+
+319
+00:27:18,220 --> 00:27:19,597
+Como me encontrou?
+
+320
+00:27:19,680 --> 00:27:21,682
+Sua colega de quarto me disse
+onde você estudava.
+
+321
+00:27:23,017 --> 00:27:24,143
+O que quer com o Max?
+
+322
+00:27:25,478 --> 00:27:27,563
+Ele está em apuros, Annabelle.
+Preciso encontrá-lo.
+
+323
+00:27:28,814 --> 00:27:31,567
+Se ele está em apuros,
+por que a BND não o está ajudando?
+
+324
+00:27:33,486 --> 00:27:36,155
+Não sou burra. Sei no que ele trabalha.
+
+325
+00:27:36,238 --> 00:27:37,365
+Certo.
+
+326
+00:27:38,657 --> 00:27:41,535
+Bem, é complicado.
+
+327
+00:27:42,578 --> 00:27:45,498
+Mas ele tem informação que podemos usar,
+então eu posso ajudá-lo.
+
+328
+00:27:46,165 --> 00:27:48,918
+Não sei onde ele está.
+Não o vejo há meses.
+
+329
+00:27:49,001 --> 00:27:50,336
+Mas tem como contatá-lo.
+
+330
+00:27:50,419 --> 00:27:52,713
+Ele me contata. Sempre foi assim.
+
+331
+00:27:52,797 --> 00:27:54,924
+-Annabelle, por favor.
+-Não posso ajudá-lo, está bem?
+
+332
+00:27:56,509 --> 00:27:57,760
+Tenho de ir.
+
+333
+00:28:00,012 --> 00:28:01,680
+Ficou sabendo da Leicester Square?
+
+334
+00:28:02,473 --> 00:28:04,642
+Sobre o tiroteio,
+sobre o homem que foi morto?
+
+335
+00:28:04,725 --> 00:28:06,143
+Seu pai o matou.
+
+336
+00:28:09,980 --> 00:28:12,608
+Só estou pedindo que ligue para ele.
+
+337
+00:28:30,042 --> 00:28:32,128
+Socorro!
+
+338
+00:28:33,921 --> 00:28:34,964
+Pare.
+
+339
+00:28:37,133 --> 00:28:38,676
+Eu vou soltá-la,
+
+340
+00:28:38,759 --> 00:28:41,512
+e preciso que não grite.
+
+341
+00:28:44,306 --> 00:28:45,599
+Só preciso que ligue para o seu pai.
+
+342
+00:28:46,267 --> 00:28:47,351
+Ou o quê?
+
+343
+00:28:48,018 --> 00:28:49,103
+Vai atirar em mim?
+
+344
+00:28:50,104 --> 00:28:51,939
+Annabelle, ele não é quem você pensa.
+
+345
+00:28:53,274 --> 00:28:55,317
+Ele saiu da BND há dois anos,
+
+346
+00:28:55,693 --> 00:28:58,446
+e agora ele mata gente por dinheiro.
+
+347
+00:29:00,448 --> 00:29:01,699
+Está mentindo.
+
+348
+00:29:02,658 --> 00:29:04,118
+Acho que sabe que não estou.
+
+349
+00:29:04,827 --> 00:29:06,078
+CELULAR DA HARRIET
+
+350
+00:29:06,912 --> 00:29:09,582
+-Ei, onde você está?
+-Quero falar com a minha filha.
+
+351
+00:29:12,251 --> 00:29:13,377
+Onde ela está?
+
+352
+00:29:13,461 --> 00:29:15,880
+Eu dei a ela uma chance de se afastar,
+ela não a usou.
+
+353
+00:29:17,381 --> 00:29:20,342
+Ponha a Annabelle no telefone.
+Preciso saber que ela está bem.
+
+354
+00:29:20,426 --> 00:29:23,095
+Você não determina o que vai acontecer.
+Eu determino.
+
+355
+00:29:25,181 --> 00:29:26,056
+O que você quer?
+
+356
+00:29:27,016 --> 00:29:29,185
+Me diga quem o contratou
+para matar o Moreno,
+
+357
+00:29:29,977 --> 00:29:32,104
+e eu deixo a Annabelle ir
+e o deixo em paz.
+
+358
+00:29:33,898 --> 00:29:34,982
+Pessoalmente,
+
+359
+00:29:35,941 --> 00:29:37,276
+assim eu sei que vai deixá-la ir.
+
+360
+00:29:38,235 --> 00:29:39,737
+Presumo que saiba onde estou.
+
+361
+00:29:44,658 --> 00:29:45,868
+Vamos.
+
+362
+00:29:48,704 --> 00:29:52,541
+SEDE DE CAMPANHA DE BONALDE
+CARACAS, VENEZUELA
+
+363
+00:30:03,802 --> 00:30:07,223
+Precisa ver os números.
+
+364
+00:30:07,306 --> 00:30:08,390
+As últimas pesquisas.
+
+365
+00:30:09,308 --> 00:30:14,480
+Vamos concentrar nossos esforços
+em Macarao, El Valle e Libertador.
+
+366
+00:30:14,563 --> 00:30:17,525
+Não desconsidere El Hatillo e Sucre.
+
+367
+00:30:17,942 --> 00:30:20,819
+As pesquisas indicam
+que são os pontos fortes do Reyes.
+
+368
+00:30:20,903 --> 00:30:22,988
+A rede social diz outra coisa.
+
+369
+00:30:23,906 --> 00:30:25,199
+A maré está mudando.
+
+370
+00:30:25,699 --> 00:30:26,992
+Ainda pode derrotá-lo.
+
+371
+00:30:29,161 --> 00:30:30,371
+Um momento, Valentina.
+
+372
+00:30:32,831 --> 00:30:34,542
+Obrigada por enviar o José.
+
+373
+00:30:35,292 --> 00:30:36,835
+Ele tem sido bem detalhista.
+
+374
+00:30:37,711 --> 00:30:39,797
+Parece que não houve mais ameaças.
+
+375
+00:30:39,880 --> 00:30:41,298
+Nada novo.
+
+376
+00:30:42,424 --> 00:30:44,510
+Mas é difícil não me preocupar
+com meus filhos,
+
+377
+00:30:45,636 --> 00:30:48,681
+que algo possa acontecer a eles por causa
+de minha decisão de me candidatar.
+
+378
+00:30:50,224 --> 00:30:53,435
+Mas imagino que eles também são
+o motivo de ter-se candidatado.
+
+379
+00:30:55,271 --> 00:30:57,356
+Parece que também tem filhos.
+
+380
+00:30:58,315 --> 00:31:01,694
+Tenho um filho, JJ,
+vai fazer 16 anos em dois meses,
+
+381
+00:31:01,777 --> 00:31:04,822
+e uma filha, Monique, de 13 anos.
+
+382
+00:31:05,823 --> 00:31:06,699
+E sua esposa?
+
+383
+00:31:07,408 --> 00:31:08,617
+Somos divorciados.
+
+384
+00:31:09,660 --> 00:31:11,328
+Pelo menos, teve um final.
+
+385
+00:31:13,330 --> 00:31:15,332
+Não consigo imaginar estar
+na sua situação.
+
+386
+00:31:17,209 --> 00:31:18,669
+Não sei o que é melhor.
+
+387
+00:31:20,212 --> 00:31:21,589
+Ter esperança
+
+388
+00:31:22,590 --> 00:31:23,632
+ou seguir em frente.
+
+389
+00:31:24,842 --> 00:31:26,927
+Na minha experiência
+com essas situações...
+
+390
+00:31:34,685 --> 00:31:36,270
+esperança não é algo ruim.
+
+391
+00:31:40,232 --> 00:31:41,984
+É melhor eu deixá-la voltar ao trabalho.
+
+392
+00:31:50,409 --> 00:31:52,745
+-Obrigada por sua ajuda.
+-Boa sorte com tudo.
+
+393
+00:31:52,828 --> 00:31:54,705
+Sua gente merece uma líder como você.
+
+394
+00:32:02,588 --> 00:32:03,422
+Greer.
+
+395
+00:32:04,298 --> 00:32:06,842
+Acabei de interceptar uma ligação
+do Ubarri à esposa.
+
+396
+00:32:08,552 --> 00:32:09,678
+A gravação funcionou.
+
+397
+00:32:10,262 --> 00:32:12,014
+Ele sabe que está ficando sem opções.
+
+398
+00:32:12,473 --> 00:32:14,350
+Vou visitá-lo hoje à noite.
+
+399
+00:33:25,421 --> 00:33:28,006
+Seu chefe está começando a duvidar
+de sua lealdade.
+
+400
+00:33:34,388 --> 00:33:35,764
+Já esteve em Miami?
+
+401
+00:33:37,391 --> 00:33:40,978
+Creio que é uma das melhores cidades
+nos EUA se seu inglês não é bueno.
+
+402
+00:33:44,898 --> 00:33:47,025
+Acho que Cassandra
+e Maria iam gostar de lá.
+
+403
+00:33:49,069 --> 00:33:51,905
+Podemos proteger a você
+e a sua família em troca de cooperação.
+
+404
+00:33:52,322 --> 00:33:54,450
+Podia ter causado a minha morte
+
+405
+00:33:55,159 --> 00:33:57,953
+e agora veio ser meu salvador.
+
+406
+00:34:01,665 --> 00:34:03,876
+Temos aviões em operações antinarcóticos
+
+407
+00:34:03,959 --> 00:34:05,294
+saindo de Curaçao.
+
+408
+00:34:05,669 --> 00:34:07,796
+Leve sua família a férias na praia.
+
+409
+00:34:07,880 --> 00:34:10,924
+No instante que estiver em terra,
+o colocaremos em um voo para os EUA.
+
+410
+00:34:13,719 --> 00:34:15,763
+O custo dessa passagem de avião
+é informação
+
+411
+00:34:15,846 --> 00:34:18,515
+sobre a operação de mineração
+do Reyes na selva
+
+412
+00:34:18,974 --> 00:34:21,268
+e como isso está ligado
+à morte de um senador americano.
+
+413
+00:34:29,985 --> 00:34:33,113
+Ou posso contar ao Reyes
+
+414
+00:34:33,197 --> 00:34:35,532
+que a CIA me abordou.
+
+415
+00:34:40,704 --> 00:34:42,706
+Quem falou em CIA?
+
+416
+00:34:50,255 --> 00:34:51,340
+Bom apetite.
+
+417
+00:35:12,736 --> 00:35:14,863
+Os americanos estão indo
+na direção do acampamento.
+
+418
+00:35:23,205 --> 00:35:25,707
+Estou dizendo,
+tenho um mau pressentimento, cara.
+
+419
+00:35:25,791 --> 00:35:27,835
+O quê? Virou vidente agora?
+
+420
+00:35:27,918 --> 00:35:30,712
+Fiz um teste genealógico. Sou parte hindu.
+
+421
+00:35:30,796 --> 00:35:31,964
+Beleza, bem...
+
+422
+00:35:32,506 --> 00:35:34,132
+Vou na frente por enquanto.
+
+423
+00:35:35,551 --> 00:35:37,427
+Pode dar um descanso à sua imaginação.
+
+424
+00:35:45,185 --> 00:35:46,186
+Mexam-se!
+
+425
+00:35:47,187 --> 00:35:48,981
+Vamos alcançá-los pela manhã.
+
+426
+00:36:16,717 --> 00:36:17,759
+Pare.
+
+427
+00:36:28,353 --> 00:36:29,396
+Pode ir.
+
+428
+00:36:30,981 --> 00:36:32,774
+Tudo vai ficar bem.
+
+429
+00:36:39,448 --> 00:36:40,616
+Me diga quem o contratou.
+
+430
+00:36:41,617 --> 00:36:44,745
+Nunca o encontrei pessoalmente.
+Tudo foi feito eletronicamente.
+
+431
+00:36:45,579 --> 00:36:46,538
+Foi o Reyes.
+
+432
+00:36:47,539 --> 00:36:49,583
+Foi o que pensou esse tempo todo?
+
+433
+00:36:50,959 --> 00:36:52,085
+Faria sentido.
+
+434
+00:36:52,169 --> 00:36:54,129
+Posso ver o quanto significaria se fosse.
+
+435
+00:36:55,172 --> 00:36:56,548
+Está dizendo que não foi ele?
+
+436
+00:36:58,467 --> 00:36:59,301
+Não.
+
+437
+00:37:01,303 --> 00:37:02,179
+Quem foi?
+
+438
+00:37:03,180 --> 00:37:06,266
+Sr. Ryan, não vim aqui
+para aliviar seu sofrimento.
+
+439
+00:37:07,851 --> 00:37:10,354
+Mas ver a sua dor é um feliz acidente.
+
+440
+00:37:33,502 --> 00:37:35,754
+-Harry...
+-Não tive escolha.
+
+441
+00:37:36,421 --> 00:37:37,464
+Você tem de ir.
+
+442
+00:37:39,049 --> 00:37:40,050
+Agora.
+
+443
+00:37:40,926 --> 00:37:41,969
+Vá.
+
+444
+00:37:42,970 --> 00:37:43,804
+Vá!
+
+445
+00:38:06,994 --> 00:38:08,036
+Papai!
+
+446
+00:38:11,581 --> 00:38:12,416
+Papai!
+
+447
+00:38:14,710 --> 00:38:16,586
+Ele o matou.
+
+448
+00:38:17,254 --> 00:38:18,922
+Sinto muito não poder chegar antes.
+
+449
+00:38:21,008 --> 00:38:23,135
+O que ele disse
+
+450
+00:38:24,052 --> 00:38:27,055
+sobre o meu pai, o que ele fazia,
+não era verdade. Não era.
+
