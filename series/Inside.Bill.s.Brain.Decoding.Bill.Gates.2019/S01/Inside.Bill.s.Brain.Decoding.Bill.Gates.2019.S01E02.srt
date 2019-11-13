@@ -1,0 +1,3677 @@
+1
+00:00:09,300 --> 00:00:10,802
+Bill está em uma missão.
+
+2
+00:00:12,429 --> 00:00:15,807
+Ele precisa desvendar os mistérios 
+do computador PDP10.
+
+3
+00:00:18,018 --> 00:00:20,228
+Mas os adultos não dão o código-fonte
+
+4
+00:00:20,311 --> 00:00:21,604
+ao Bill de 13 anos.
+
+5
+00:00:23,523 --> 00:00:25,692
+Então ele recrutou 
+seu velho amigo Paul Allen.
+
+6
+00:00:26,359 --> 00:00:29,571
+Juntos, têm a ousadia 
+de fazer o que ninguém fez antes.
+
+7
+00:00:33,241 --> 00:00:34,826
+Se acharem o código-fonte,
+
+8
+00:00:35,493 --> 00:00:38,371
+Bill e Paul finalmente poderão  
+controlar o computador.
+
+9
+00:00:46,254 --> 00:00:48,048
+Os dois amigos conseguiram.
+
+10
+00:00:54,429 --> 00:00:55,972
+Oi, eu sou Bill Gates.
+
+11
+00:00:58,558 --> 00:00:59,434
+Neste vídeo,
+
+12
+00:00:59,517 --> 00:01:00,894
+você verá o futuro.
+
+13
+00:01:01,061 --> 00:01:02,228
+Sr. Bill Gates.
+
+14
+00:01:02,645 --> 00:01:05,231
+A  Forbes  diz que Bill Gates  
+é a pessoa mais rica dos EUA.
+
+15
+00:01:05,315 --> 00:01:07,901
+-US$ 6,3 bilhões.  
+- Ele vale US$ 40 bilhões.
+
+16
+00:01:08,109 --> 00:01:09,819
+US$ 100 bilhões.
+
+17
+00:01:10,028 --> 00:01:11,988
+Ele é uma das pessoas mais notáveis...
+
+18
+00:01:12,072 --> 00:01:14,365
+-Arrogante, ganancioso. 
+-...que conheço.
+
+19
+00:01:14,532 --> 00:01:16,743
+-Um gênio predador capitalista. 
+-Um demônio.
+
+20
+00:01:16,826 --> 00:01:17,994
+Otimista impaciente.
+
+21
+00:01:18,078 --> 00:01:19,871
+-Seu cérebro é uma CPU?  
+-Sim.
+
+22
+00:01:19,954 --> 00:01:21,539
+Ele prospera na complexidade.
+
+23
+00:01:21,623 --> 00:01:24,501
+-Ele é uma pessoa muito inteligente. 
+-Ele largou a faculdade.
+
+24
+00:01:24,584 --> 00:01:27,378
+Vocês nunca entenderam nada sobre isso.
+
+25
+00:01:27,462 --> 00:01:30,298
+O maior empresário americano 
+da geração dele.
+
+26
+00:01:30,381 --> 00:01:31,883
+Ele mudou o mundo com softwares.
+
+27
+00:01:32,258 --> 00:01:35,303
+Bill Gates está dificultando 
+a inovação tecnológica?
+
+28
+00:01:35,386 --> 00:01:37,055
+É para ficarem com inveja e agitados.
+
+29
+00:01:37,388 --> 00:01:40,308
+Bill quer que achem que ele é Edison,  
+mas ele é Rockefeller.
+
+30
+00:01:40,391 --> 00:01:41,226
+Chega.
+
+31
+00:01:41,309 --> 00:01:42,602
+ERRO. CONTATE O ADMINISTRADOR.
+
+32
+00:01:42,685 --> 00:01:44,521
+Se fosse Edison, seria menos perigoso.
+
+33
+00:01:45,855 --> 00:01:47,941
+Posso fazer mais uma pergunta?
+
+34
+00:01:48,024 --> 00:01:49,943
+O Bill Gates verdadeiro...
+
+35
+00:01:50,068 --> 00:01:52,320
+-Maldito Bill.  
+-...poderia se levantar?
+
+36
+00:01:55,448 --> 00:01:57,450
+ISTO ENCERRARÁ SUA SESSÃO DO WINDOWS. 
+OK
+
+37
+00:01:59,452 --> 00:02:01,538
+A série é chamada  Inside Bill's Brain.
+
+38
+00:02:01,621 --> 00:02:02,872
+-Sim. 
+-E pergunto...
+
+39
+00:02:03,832 --> 00:02:05,959
+-O que é tão engraçado? 
+-É engraçado.
+
+40
+00:02:06,334 --> 00:02:09,629
+Não acho tão interessante 
+estar dentro do cérebro do meu marido.
+
+41
+00:02:09,712 --> 00:02:10,630
+É engraçado.
+
+42
+00:02:10,964 --> 00:02:12,215
+Desculpa.
+
+43
+00:02:13,133 --> 00:02:14,801
+Como descreveria o cérebro dele?
+
+44
+00:02:16,636 --> 00:02:19,430
+Desculpa, não consigo parar de rir 
+dessa parte.
+
+45
+00:02:19,514 --> 00:02:21,558
+-Está bem, olhe... 
+-Por que está rindo?
+
+46
+00:02:21,850 --> 00:02:23,560
+Porque é um caos!
+
+47
+00:02:23,643 --> 00:02:25,895
+Tem tanta complexidade lá dentro.
+
+48
+00:02:25,979 --> 00:02:27,105
+É um caos!
+
+49
+00:02:27,438 --> 00:02:28,815
+Estou rindo porque...
+
+50
+00:02:28,898 --> 00:02:31,234
+eu não queria estar naquele cérebro.
+
+51
+00:02:31,317 --> 00:02:32,193
+Por quê?
+
+52
+00:02:32,277 --> 00:02:34,612
+Tem tanta coisa acontecendo o tempo todo.
+
+53
+00:02:34,737 --> 00:02:37,073
+Não para?
+
+54
+00:02:37,198 --> 00:02:40,827
+Sim, é inacreditável.
+
+55
+00:02:50,128 --> 00:02:52,797
+Bill consegue lidar 
+com muita complexidade.
+
+56
+00:02:54,132 --> 00:02:55,633
+Ele gosta de complexidade
+
+57
+00:02:55,717 --> 00:02:58,344
+e prospera na complexidade.
+
+58
+00:03:01,514 --> 00:03:04,225
+Então, quando Bill para e fica quieto,
+
+59
+00:03:04,309 --> 00:03:07,228
+com os pensamentos complexos incríveis 
+que tem,
+
+60
+00:03:07,312 --> 00:03:09,606
+as formas como ele vê o mundo
+
+61
+00:03:09,689 --> 00:03:13,234
+e como organiza as ideias 
+que as outras pessoas não veem,
+
+62
+00:03:13,735 --> 00:03:15,653
+é quando ele pensa melhor.
+
+63
+00:03:17,447 --> 00:03:18,823
+Por que ele foi à  Think Week?
+
+64
+00:03:18,907 --> 00:03:20,074
+Ele se acalmou
+
+65
+00:03:20,158 --> 00:03:23,161
+e teve tempo de se concentrar 
+e desacelerar,
+
+66
+00:03:23,536 --> 00:03:25,288
+e, então, escrever
+
+67
+00:03:25,371 --> 00:03:27,457
+e liderar do jeito que ele queria.
+
+68
+00:03:29,626 --> 00:03:32,337
+Bill começou a tirar  Think Weeks 
+nos anos 90,
+
+69
+00:03:32,420 --> 00:03:34,255
+quando ainda administrava a Microsoft.
+
+70
+00:03:35,131 --> 00:03:38,301
+Ele viajava pelo Hood Canal 
+e passava uma semana lá sozinho,
+
+71
+00:03:38,509 --> 00:03:39,802
+lendo e pensando.
+
+72
+00:03:40,470 --> 00:03:43,223
+Ele absorvia uma pilha de livros 
+e textos técnicos,
+
+73
+00:03:43,514 --> 00:03:46,017
+qualquer coisa que o ajudasse 
+a entender o futuro.
+
+74
+00:03:49,395 --> 00:03:50,897
+É tempo de CPU.
+
+75
+00:03:50,980 --> 00:03:52,857
+Quando você pensa sobre as coisas.
+
+76
+00:03:52,941 --> 00:03:55,109
+A  CPU é uma unidade central 
+de processamento,
+
+77
+00:03:55,193 --> 00:03:58,029
+a qual executa as instruções 
+de um programa de computador.
+
+78
+00:03:59,239 --> 00:04:01,741
+Sem ela, o computador não pode calcular
+
+79
+00:04:01,824 --> 00:04:03,159
+ou decidir como funcionar.
+
+80
+00:04:05,203 --> 00:04:07,497
+Quando você escreve coisas para pensar,
+
+81
+00:04:07,580 --> 00:04:09,832
+como o código,
+
+82
+00:04:10,166 --> 00:04:12,210
+ou quando as taxas de juro baixas 
+vão acabar?
+
+83
+00:04:12,293 --> 00:04:14,128
+Por que a clínica não funciona melhor?
+
+84
+00:04:14,212 --> 00:04:16,297
+O setor privado é bom nisso?
+
+85
+00:04:16,673 --> 00:04:18,132
+Eles têm essa capacidade?
+
+86
+00:04:18,216 --> 00:04:20,551
+Para quantas cidades ela vai?
+
+87
+00:04:20,635 --> 00:04:22,178
+Como fazemos testes de segurança?
+
+88
+00:04:22,262 --> 00:04:24,013
+Nós subestimamos isso?
+
+89
+00:04:24,555 --> 00:04:26,849
+O que tem nos dejetos humanos?
+
+90
+00:04:27,392 --> 00:04:30,144
+Depois você pensa: 
+"Preciso ler livros sobre isso?
+
+91
+00:04:30,228 --> 00:04:32,355
+Com quem converso sobre isso?"
+
+92
+00:04:32,730 --> 00:04:36,150
+E há algumas coisas que só preciso pensar, 
+digo a mim mesmo.
+
+93
+00:04:37,610 --> 00:04:38,945
+Seu cérebro é uma CPU?
+
+94
+00:04:39,237 --> 00:04:40,071
+É.
+
+95
+00:04:49,747 --> 00:04:52,750
+Conhecendo Bill nessa nova fase,
+
+96
+00:04:53,251 --> 00:04:57,672
+parece que ele tornou a vida dele toda 
+em uma  Think Week  longa e constante.
+
+97
+00:05:00,717 --> 00:05:03,803
+Mas, hoje, ele está focado 
+em outras coisas.
+
+98
+00:05:17,066 --> 00:05:19,694
+Por mais de uma década, 
+Bill e sua sócia Melinda
+
+99
+00:05:19,777 --> 00:05:22,697
+têm investido bilhões de dólares  
+na erradicação da pólio.
+
+100
+00:05:28,202 --> 00:05:29,412
+Mas não imaginavam
+
+101
+00:05:29,495 --> 00:05:30,872
+o quanto seria difícil.
+
+102
+00:05:31,831 --> 00:05:34,584
+ERRADICAÇÃO DA PÓLIO 
+CAMPANHA E APROVAÇÃO DE ESTUDIOSOS
+
+103
+00:05:40,548 --> 00:05:41,799
+Para o mundo ocidental,
+
+104
+00:05:42,550 --> 00:05:44,052
+a pólio é uma vaga lembrança.
+
+105
+00:05:45,386 --> 00:05:47,305
+ALA DE POLIOMIELITE 
+PARE! SEM VISITANTES
+
+106
+00:05:53,144 --> 00:05:54,354
+Esquecemos o terror.
+
+107
+00:05:55,772 --> 00:05:56,731
+E o sofrimento.
+
+108
+00:05:59,233 --> 00:06:00,193
+Em 1955,
+
+109
+00:06:00,276 --> 00:06:02,153
+quando a vacina Salk foi criada,
+
+110
+00:06:02,320 --> 00:06:04,989
+conseguimos acabar com a pólio 
+nos países desenvolvidos.
+
+111
+00:06:06,240 --> 00:06:09,243
+Mas, em países pobres,  
+ainda há crianças com a doença,
+
+112
+00:06:09,327 --> 00:06:10,828
+que é muito contagiosa
+
+113
+00:06:10,912 --> 00:06:13,164
+e se espalha devido à falta de saneamento.
+
+114
+00:06:13,414 --> 00:06:15,249
+É terrível ter pólio.
+
+115
+00:06:15,416 --> 00:06:17,585
+É terrível ficar paralisado.
+
+116
+00:06:18,044 --> 00:06:21,047
+É ainda pior se estiver em um país pobre.
+
+117
+00:06:24,342 --> 00:06:25,968
+Eles não têm muletas.
+
+118
+00:06:26,052 --> 00:06:27,804
+Se tiverem, são feitas por eles.
+
+119
+00:06:27,887 --> 00:06:31,766
+Então, considerando que sua participação  
+na sociedade
+
+120
+00:06:31,849 --> 00:06:33,393
+será limitada
+
+121
+00:06:33,476 --> 00:06:35,186
+se você teve uma pólio grave
+
+122
+00:06:35,269 --> 00:06:37,313
+e tiver paralisia em um país pobre...
+
+123
+00:06:37,397 --> 00:06:39,399
+É uma doença terrível.
+
+124
+00:06:42,276 --> 00:06:46,197
+Vejo uma vida que será muito limitada.
+
+125
+00:06:46,697 --> 00:06:48,741
+É uma tragédia terrível
+
+126
+00:06:48,825 --> 00:06:50,076
+para a família toda.
+
+127
+00:06:55,331 --> 00:06:57,333
+Você cresceu em um mundo confortável.
+
+128
+00:06:57,417 --> 00:06:58,251
+Muito.
+
+129
+00:06:58,793 --> 00:07:02,213
+-Você não precisou de nada. 
+-Não, meus pais tinham dinheiro.
+
+130
+00:07:04,465 --> 00:07:06,676
+Meu pai era um advogado bem-sucedido,
+
+131
+00:07:06,759 --> 00:07:08,511
+nos levava a viagens ótimas.
+
+132
+00:07:08,594 --> 00:07:10,012
+A nossa casa era muito boa...
+
+133
+00:07:11,139 --> 00:07:12,974
+Tive tanta sorte
+
+134
+00:07:13,057 --> 00:07:15,435
+com todas essas oportunidades...
+
+135
+00:07:17,728 --> 00:07:18,563
+Onde estamos?
+
+136
+00:07:18,813 --> 00:07:20,189
+Este é o Lakeside.
+
+137
+00:07:20,523 --> 00:07:26,320
+Foi onde passei a maior parte do 7o ano 
+até o 3o ano do ensino médio.
+
+138
+00:07:28,739 --> 00:07:31,075
+Estudei em escola pública até o 6o ano,
+
+139
+00:07:31,284 --> 00:07:32,785
+e meus pais decidiram
+
+140
+00:07:32,869 --> 00:07:34,912
+que eu devia ir a uma escola particular.
+
+141
+00:07:35,288 --> 00:07:37,540
+Lembro que pensei:  
+"Quero ir para essa escola?"
+
+142
+00:07:37,623 --> 00:07:39,000
+Era uma escola para meninos,
+
+143
+00:07:39,292 --> 00:07:42,920
+e eu era o palhaço da sala.
+
+144
+00:07:43,004 --> 00:07:46,340
+Eu não sabia se aquele nicho 
+existia naquela escola,
+
+145
+00:07:46,424 --> 00:07:48,301
+porque parecia muito rígido.
+
+146
+00:07:48,384 --> 00:07:51,846
+Quando fiz o teste, pensei:  
+"Quero passar no teste ou não?"
+
+147
+00:07:51,929 --> 00:07:55,766
+Não consegui me conter 
+e fiz o melhor que pude.
+
+148
+00:07:56,058 --> 00:07:58,436
+Passou pela sua cabeça 
+ir mal de propósito?
+
+149
+00:07:58,519 --> 00:08:00,688
+Sim, para não passar no teste,
+
+150
+00:08:01,939 --> 00:08:03,065
+mas não fiz isso. Eu...
+
+151
+00:08:03,149 --> 00:08:05,651
+-Não conseguiu se conter. 
+-Não consegui.
+
+152
+00:08:07,236 --> 00:08:09,447
+Bill é sempre visto 
+como uma pessoa singular,
+
+153
+00:08:10,072 --> 00:08:13,493
+mas a vida dele é definida 
+por uma série de parcerias.
+
+154
+00:08:14,243 --> 00:08:18,247
+No Lakeside, as primeiras amizades  
+surgiram no laboratório de informática.
+
+155
+00:08:20,416 --> 00:08:21,876
+Tinha uma salinha
+
+156
+00:08:21,959 --> 00:08:25,880
+perto da entrada do prédio.  
+Era o laboratório de informática.
+
+157
+00:08:27,590 --> 00:08:30,968
+O Grupo de Programadores do Lakeside 
+foi fundado por dois alunos do 2o ano:
+
+158
+00:08:31,302 --> 00:08:33,346
+Paul Allen e Ric Weiland.
+
+159
+00:08:34,055 --> 00:08:36,182
+-Este é o Paul Allen. 
+-Sim.
+
+160
+00:08:36,265 --> 00:08:39,268
+Aqui estou eu, parecendo muito maduro.
+
+161
+00:08:39,977 --> 00:08:43,773
+-Ele parece 20 anos mais velho que você. 
+-Sim. Tinha dois anos a mais que eu.
+
+162
+00:08:44,398 --> 00:08:47,109
+Bill e seu amigo Kent Evans 
+entraram para o clube
+
+163
+00:08:47,193 --> 00:08:48,986
+quando estavam apenas no 8o ano.
+
+164
+00:08:49,070 --> 00:08:51,072
+Na verdade, Paul me procurou,
+
+165
+00:08:51,155 --> 00:08:54,242
+porque fui muito bem 
+no teste nacional de matemática.
+
+166
+00:08:54,492 --> 00:08:56,077
+Achei muito legal.
+
+167
+00:08:57,662 --> 00:08:59,664
+Paul era mais descolado que eu.
+
+168
+00:08:59,747 --> 00:09:01,874
+Ele tinha uma jaqueta de veludo
+
+169
+00:09:01,958 --> 00:09:04,835
+e também uma jaqueta de couro, 
+muito legal.
+
+170
+00:09:05,628 --> 00:09:07,797
+Paul cativava o pessoal  
+do ensino fundamental
+
+171
+00:09:07,880 --> 00:09:09,757
+com computadores e programação.
+
+172
+00:09:10,591 --> 00:09:13,678
+Foi ele que me explicou sobre placas
+
+173
+00:09:13,761 --> 00:09:17,682
+e sobre a mágica de aumentar 
+a capacidade das placas.
+
+174
+00:09:17,765 --> 00:09:19,642
+Os meninos eram tão bons em programação
+
+175
+00:09:19,725 --> 00:09:22,562
+que uma firma os contratou 
+para fazer o programa de pagamento.
+
+176
+00:09:23,312 --> 00:09:24,605
+Mas os mais velhos
+
+177
+00:09:24,689 --> 00:09:27,024
+não sabiam o que fazer 
+com os jovens Bill e Kent.
+
+178
+00:09:27,108 --> 00:09:30,027
+Sei que os amigos deles 
+pensavam que era estranho
+
+179
+00:09:30,111 --> 00:09:33,072
+nós ficarmos indo lá.
+
+180
+00:09:33,489 --> 00:09:35,324
+-E... 
+-Então implicavam com eles
+
+181
+00:09:35,408 --> 00:09:37,535
+-por trabalharem com garotos mais novos? 
+-É.
+
+182
+00:09:37,618 --> 00:09:40,162
+Depois decidiram que eles iam fazer.
+
+183
+00:09:40,246 --> 00:09:41,789
+-Paul e Ric? 
+-Paul e Ric.
+
+184
+00:09:43,749 --> 00:09:46,460
+Então expulsaram eu e Kent do projeto.
+
+185
+00:09:47,670 --> 00:09:50,798
+Eu disse: "Acho que não imagina 
+o quanto isso é difícil.
+
+186
+00:09:51,549 --> 00:09:53,467
+Se me pedir para voltar,
+
+187
+00:09:53,551 --> 00:09:58,014
+vou ficar no controle disso 
+e de tudo que me pedir para fazer...
+
+188
+00:09:58,389 --> 00:10:01,851
+Depois de semanas de trabalho, 
+Paul viu que Bill estava certo.
+
+189
+00:10:02,727 --> 00:10:05,187
+Então ele pediu ajuda,  
+e Bill assumiu o controle.
+
+190
+00:10:05,271 --> 00:10:07,398
+Era mais natural para mim
+
+191
+00:10:07,690 --> 00:10:08,816
+ficar no comando.
+
+192
+00:10:09,692 --> 00:10:12,028
+Mas, espere, nessa época, 
+Kent, e não Paul,
+
+193
+00:10:12,111 --> 00:10:13,946
+-era seu melhor amigo, certo? 
+-Isso.
+
+194
+00:10:14,030 --> 00:10:15,948
+E vocês iam à casa um do outro?
+
+195
+00:10:16,282 --> 00:10:18,576
+E conversávamos no telefone direto.
+
+196
+00:10:18,951 --> 00:10:20,828
+Ainda sei o número do Kent.
+
+197
+00:10:21,245 --> 00:10:23,748
+-Qual é o número? 
+-5257-851.
+
+198
+00:10:24,665 --> 00:10:27,460
+Kent sempre carregava uma pasta grande,
+
+199
+00:10:27,543 --> 00:10:30,421
+tipo pasta de advogado, 
+com um monte de coisa,
+
+200
+00:10:30,504 --> 00:10:32,256
+revistas e outras coisas.
+
+201
+00:10:32,840 --> 00:10:35,801
+Ele era o melhor aluno da nossa sala.
+
+202
+00:10:35,926 --> 00:10:38,387
+Era inteligente, lia coisas diferentes.
+
+203
+00:10:38,471 --> 00:10:41,432
+Estávamos sempre planejando 
+o que a gente ia fazer
+
+204
+00:10:41,515 --> 00:10:44,101
+em cinco, seis anos, e todo mundo dizia:
+
+205
+00:10:44,185 --> 00:10:46,854
+"Por que não relaxam?"
+
+206
+00:10:53,944 --> 00:10:56,322
+Kent se interessava em negócios,
+
+207
+00:10:56,405 --> 00:10:59,075
+então ele me fez ler a  Fortune Magazine.
+
+208
+00:11:00,409 --> 00:11:03,245
+Pensávamos: se para fosse entrar 
+no serviço público,
+
+209
+00:11:03,329 --> 00:11:05,665
+o que faríamos? Deveríamos ser CEOs?
+
+210
+00:11:06,374 --> 00:11:08,125
+Que tipo de impacto teríamos?
+
+211
+00:11:09,001 --> 00:11:10,836
+Deveríamos ser generais?
+
+212
+00:11:12,254 --> 00:11:14,131
+Deveríamos ser embaixadores?
+
+213
+00:11:20,888 --> 00:11:23,516
+A ideia de que algumas pessoas 
+são muito bem-sucedidas
+
+214
+00:11:23,683 --> 00:11:25,101
+era interessante.
+
+215
+00:11:25,184 --> 00:11:28,396
+O que eles sabiam? O que fizeram?
+
+216
+00:11:29,230 --> 00:11:31,774
+O que as levou a ter esse tipo de sucesso?
+
+217
+00:11:33,734 --> 00:11:36,696
+E por que alguns setores 
+tinham poucas empresas grandes
+
+218
+00:11:36,779 --> 00:11:39,365
+e outros tinham várias empresas pequenas?
+
+219
+00:11:42,451 --> 00:11:45,204
+Os dois bons amigos acreditaram que um dia
+
+220
+00:11:45,287 --> 00:11:47,081
+fariam coisas extraordinárias...
+
+221
+00:11:47,748 --> 00:11:48,582
+juntos.
+
+222
+00:11:49,542 --> 00:11:52,336
+Bill e eu não escolhemos o sistema.
+
+223
+00:11:52,420 --> 00:11:55,256
+-Vamos jogar o seu sistema, Warren. 
+-Está bem.
+
+224
+00:11:55,589 --> 00:11:57,466
+Por que adoram jogar bridge?
+
+225
+00:11:57,925 --> 00:11:59,552
+Considero um jogo fantástico.
+
+226
+00:12:01,846 --> 00:12:04,640
+É um jogo de parceria, 
+diferente de muitos jogos,
+
+227
+00:12:04,724 --> 00:12:07,893
+então você precisa trabalhar 
+com outra pessoa.
+
+228
+00:12:08,561 --> 00:12:12,064
+Se por algum motivo 
+você não se conectar bem com a pessoa,
+
+229
+00:12:12,148 --> 00:12:14,775
+não funciona. Não dá para jogar sozinho.
+
+230
+00:12:16,944 --> 00:12:19,280
+-Uma espada. 
+-Passo.
+
+231
+00:12:19,363 --> 00:12:22,199
+Parceiros de bridge 
+devem se comunicar sem falar.
+
+232
+00:12:22,408 --> 00:12:25,411
+A única forma de ganhar 
+é pensando como o seu parceiro.
+
+233
+00:12:26,370 --> 00:12:27,705
+Você e Bill são parceiros?
+
+234
+00:12:27,788 --> 00:12:30,124
+Somos, sim. Somos grandes parceiros,
+
+235
+00:12:30,207 --> 00:12:35,045
+em filantropia e, de certa forma, 
+parceiros em negócios,
+
+236
+00:12:35,129 --> 00:12:38,924
+porque o destino de Berkshire 
+é uma parte importante dos recursos
+
+237
+00:12:39,008 --> 00:12:41,135
+da Fundação Gates ao longo do tempo.
+
+238
+00:12:41,260 --> 00:12:44,513
+-Se Berkshire vai bem, a Fundação vai bem? 
+-Fica melhor. É.
+
+239
+00:12:45,389 --> 00:12:48,350
+Em 1991, quando a mãe de Bill disse 
+para ele encontrar Buffet,
+
+240
+00:12:48,934 --> 00:12:51,020
+o investidor mais bem-sucedido do mundo,
+
+241
+00:12:51,604 --> 00:12:53,939
+Bill respondeu que estava ocupado.
+
+242
+00:12:54,857 --> 00:12:56,066
+A mãe dele insistiu.
+
+243
+00:12:56,317 --> 00:12:59,403
+Falei: "Está bem. 
+Vou pegar um helicóptero e vou lá,
+
+244
+00:12:59,487 --> 00:13:03,407
+mas, depois de 90 minutos, 
+vou trabalhar com softwares."
+
+245
+00:13:04,200 --> 00:13:06,285
+Quando os dois se encontraram,
+
+246
+00:13:07,453 --> 00:13:08,829
+conversaram por horas.
+
+247
+00:13:09,955 --> 00:13:11,957
+Ele me perguntava coisas como:
+
+248
+00:13:12,249 --> 00:13:14,752
+"Por que a IBM não poderia 
+superar a Microsoft?
+
+249
+00:13:14,835 --> 00:13:16,712
+Como era a parte financeira da Microsoft?
+
+250
+00:13:16,796 --> 00:13:19,173
+Como achamos pessoas inteligentes 
+na nossa área?
+
+251
+00:13:19,256 --> 00:13:20,549
+Como estipulamos os preços?"
+
+252
+00:13:20,633 --> 00:13:24,720
+Eu esperava encontrar pessoas 
+que me perguntariam aquilo,
+
+253
+00:13:24,804 --> 00:13:26,222
+mas ele foi o primeiro.
+
+254
+00:13:27,389 --> 00:13:29,642
+Bill encontrou poucas pessoas na vida dele
+
+255
+00:13:29,725 --> 00:13:31,811
+com mentes parecidas com a dele.
+
+256
+00:13:34,021 --> 00:13:37,316
+É muito importante ter os amigos certos.
+
+257
+00:13:38,359 --> 00:13:41,237
+Se eles fazem você ser uma pessoa melhor,
+
+258
+00:13:41,445 --> 00:13:42,613
+não há nada melhor.
+
+259
+00:13:42,696 --> 00:13:45,741
+Depois de décadas acumulando 
+uma das maiores fortunas que existe,
+
+260
+00:13:46,283 --> 00:13:48,077
+Warren ofereceu mais da metade,
+
+261
+00:13:48,452 --> 00:13:50,287
+US$ 31 bilhões,
+
+262
+00:13:50,371 --> 00:13:52,039
+à Fundação Bill e Melinda Gates.
+
+263
+00:13:53,499 --> 00:13:56,752
+Como decidiu 
+dar todo esse dinheiro a Bill e Melinda?
+
+264
+00:13:56,836 --> 00:14:01,298
+Quando você tem uma premissa 
+de que toda vida humana tem o mesmo valor,
+
+265
+00:14:01,549 --> 00:14:04,677
+isso direciona
+
+266
+00:14:05,052 --> 00:14:06,095
+muito do que você...
+
+267
+00:14:06,178 --> 00:14:09,765
+tanto seu dinheiro quanto seu esforço, 
+e a pessoa que atrai,
+
+268
+00:14:09,849 --> 00:14:11,976
+e tudo relacionado a isso.
+
+269
+00:14:13,769 --> 00:14:17,106
+Bill, você se sente pressionado 
+a fazer o que é certo com a doação dele?
+
+270
+00:14:17,815 --> 00:14:18,774
+Com certeza.
+
+271
+00:14:18,858 --> 00:14:19,775
+De certa forma,
+
+272
+00:14:20,317 --> 00:14:23,237
+se eu desperdiçar meu dinheiro,
+
+273
+00:14:23,988 --> 00:14:25,364
+sinto menos culpa
+
+274
+00:14:25,447 --> 00:14:27,533
+do que se desperdiçasse 
+o dinheiro do Warren.
+
+275
+00:14:33,330 --> 00:14:34,665
+Há alguns anos,
+
+276
+00:14:34,748 --> 00:14:39,503
+mostrei um vídeo de pólio à minha filha, 
+porque eu queria que ela entendesse
+
+277
+00:14:39,587 --> 00:14:42,172
+que estávamos fazendo 
+algo grande e arriscado
+
+278
+00:14:42,256 --> 00:14:44,717
+para ajudar a erradicar a pólio.
+
+279
+00:14:45,259 --> 00:14:47,136
+E o vídeo termina com a menina
+
+280
+00:14:47,344 --> 00:14:49,096
+que tinha paralisia
+
+281
+00:14:49,179 --> 00:14:52,641
+mancando pela rua 
+com uma muleta simples de madeira.
+
+282
+00:14:52,975 --> 00:14:54,852
+Então, minha filha me disse:
+
+283
+00:14:54,935 --> 00:14:56,270
+"O que você fez?"
+
+284
+00:14:56,478 --> 00:14:58,105
+Eu disse: "Vamos erradicar isso."
+
+285
+00:14:58,188 --> 00:15:00,024
+E ela: "Não, o que fez por ela?"
+
+286
+00:15:05,654 --> 00:15:07,114
+Melinda e eu geralmente...
+
+287
+00:15:08,240 --> 00:15:11,076
+achamos muito difícil
+
+288
+00:15:11,535 --> 00:15:14,496
+ver crianças morrendo.
+
+289
+00:15:16,665 --> 00:15:18,834
+Mas há milhões assim.
+
+290
+00:15:19,710 --> 00:15:22,296
+Devia ser um milhão de vezes 
+mais comovente,
+
+291
+00:15:22,671 --> 00:15:25,966
+mas ninguém pode ficar 
+milhões de vezes mais triste
+
+292
+00:15:26,050 --> 00:15:28,302
+do que quando está ali vendo um caso.
+
+293
+00:15:31,847 --> 00:15:34,099
+Mas a conexão emocional  
+é sempre reduzida.
+
+294
+00:15:34,725 --> 00:15:37,978
+Mesmo que queira fazer alguma diferença,
+
+295
+00:15:38,062 --> 00:15:40,773
+é melhor pensar em uma escala maior,
+
+296
+00:15:40,856 --> 00:15:43,984
+com grandezas dez elevado a seis, 
+dez elevado a sete.
+
+297
+00:15:44,860 --> 00:15:46,153
+Ouvir você dizer isso
+
+298
+00:15:46,236 --> 00:15:48,197
+porque é mais lucrativo
+
+299
+00:15:48,489 --> 00:15:50,282
+não é inspirador, Bill.
+
+300
+00:15:51,617 --> 00:15:52,660
+Que pena...
+
+301
+00:15:52,743 --> 00:15:54,954
+Meu objetivo não é ser inspirador.
+
+302
+00:15:55,037 --> 00:15:57,665
+O mundo tem recursos limitados.
+
+303
+00:15:57,748 --> 00:15:59,875
+Então, se não faz coisas 
+para ser inspirador,
+
+304
+00:15:59,959 --> 00:16:01,418
+por que faz?
+
+305
+00:16:01,502 --> 00:16:02,628
+Otimização.
+
+306
+00:16:07,466 --> 00:16:10,052
+Com a erradicação de uma doença,
+
+307
+00:16:10,177 --> 00:16:13,514
+se você chegar a zero, é ótimo.
+
+308
+00:16:13,597 --> 00:16:16,475
+Porque, então, nos anos depois disso,
+
+309
+00:16:16,558 --> 00:16:20,187
+não terá nenhum custo com prevenção.
+
+310
+00:16:20,270 --> 00:16:23,857
+Não terá tratamento ou nenhuma tragédia.
+
+311
+00:16:24,191 --> 00:16:28,821
+Mas, se tentar erradicar e falhar,
+
+312
+00:16:29,446 --> 00:16:31,740
+é péssimo, porque você mancha
+
+313
+00:16:32,074 --> 00:16:34,451
+a reputação e a credibilidade
+
+314
+00:16:34,535 --> 00:16:36,495
+do esforço pela saúde mundial.
+
+315
+00:16:38,205 --> 00:16:41,792
+Varíola é a única doença 
+que foi erradicada.
+
+316
+00:16:43,335 --> 00:16:46,171
+Depois de ter sido eliminada  
+do planeta em 1980,
+
+317
+00:16:46,338 --> 00:16:49,758
+um grupo de organizações 
+decidiu que pólio seria a próxima.
+
+318
+00:16:51,301 --> 00:16:53,679
+Quando a Fundação de Bill 
+e Melinda se juntou à luta,
+
+319
+00:16:53,804 --> 00:16:55,556
+centenas de milhões de dólares
+
+320
+00:16:55,639 --> 00:16:58,017
+foram usados para salvar 
+centenas de milhares de vidas.
+
+321
+00:16:58,100 --> 00:16:59,560
+REGIÕES ENDÊMICAS E LIVRES DE PÓLIO
+
+322
+00:16:59,643 --> 00:17:02,312
+Mas o progresso estagnou e, na Nigéria,
+
+323
+00:17:02,521 --> 00:17:06,483
+o número de casos de pólio 
+quase triplicou em apenas um ano.
+
+324
+00:17:08,610 --> 00:17:10,237
+Havia uma encruzilhada...
+
+325
+00:17:10,738 --> 00:17:13,449
+Então, diremos que não vai funcionar?
+
+326
+00:17:15,034 --> 00:17:17,077
+Na reunião seguinte de orçamento 
+da fundação,
+
+327
+00:17:17,244 --> 00:17:19,663
+a equipe do pólio pediu ao Bill 
+para dobrar a verba.
+
+328
+00:17:21,790 --> 00:17:27,421
+Eu disse: "Acho que você pediu o máximo 
+que achou que podia pedir,
+
+329
+00:17:27,504 --> 00:17:29,089
+mas não pediu
+
+330
+00:17:29,173 --> 00:17:32,760
+o que é preciso para ter 
+uma probabilidade alta de sucesso."
+
+331
+00:17:33,844 --> 00:17:35,304
+Pediram 200 milhões.
+
+332
+00:17:36,722 --> 00:17:38,265
+Bill aumentou para 400,
+
+333
+00:17:39,433 --> 00:17:42,102
+mas disse que queria ver o programa.
+
+334
+00:17:47,941 --> 00:17:50,652
+Líderes religiosos espalhavam boatos
+
+335
+00:17:50,736 --> 00:17:52,654
+de que as vacinas eram um plano secreto
+
+336
+00:17:52,738 --> 00:17:56,241
+das nações ocidentais 
+para esterilizar as crianças,
+
+337
+00:17:56,325 --> 00:17:59,953
+chamando as pessoas que lutavam 
+contra a pólio de Hitlers modernos.
+
+338
+00:18:00,329 --> 00:18:02,998
+As campanhas foram suspensas.
+
+339
+00:18:05,459 --> 00:18:07,961
+Quando Bill chegou ao palácio  
+do sultão de Sokoto,
+
+340
+00:18:08,128 --> 00:18:10,255
+ele se reuniu com líderes da região.
+
+341
+00:18:10,756 --> 00:18:12,674
+Ele ouviu e fez perguntas.
+
+342
+00:18:17,096 --> 00:18:19,056
+Horas depois, concordaram em ajudar.
+
+343
+00:18:23,435 --> 00:18:24,853
+Mas havia outro problema.
+
+344
+00:18:25,437 --> 00:18:28,107
+Mesmo onde os vacinadores 
+tinham permissão de ir,
+
+345
+00:18:28,190 --> 00:18:29,525
+as crianças tinham pólio.
+
+346
+00:18:32,027 --> 00:18:33,445
+Bill queria descobrir por quê.
+
+347
+00:18:38,033 --> 00:18:42,037
+Ele descobriu que algumas colônias 
+não foram visitadas por vacinadores
+
+348
+00:18:42,121 --> 00:18:43,163
+por anos.
+
+349
+00:18:44,206 --> 00:18:47,209
+Aquilo me chocou muito.
+
+350
+00:18:47,543 --> 00:18:51,922
+A campanha perdeu seu objetivo.
+
+351
+00:18:55,134 --> 00:18:58,720
+Quando Bill e Kent estavam no 2o ano, 
+o diretor do Lakeside os chamou
+
+352
+00:18:58,804 --> 00:19:00,764
+para resolver um problema difícil.
+
+353
+00:19:01,598 --> 00:19:04,643
+O Lakeside tinha se juntado 
+a um colégio local só de meninas.
+
+354
+00:19:05,310 --> 00:19:09,314
+Com um corpo discente espalhado 
+em dois campi,
+
+355
+00:19:09,398 --> 00:19:12,401
+ninguém conseguia  
+fazer o cronograma das aulas.
+
+356
+00:19:12,734 --> 00:19:15,654
+Fui a escolas no começo da minha carreira, 
+e eram feitos à mão.
+
+357
+00:19:15,737 --> 00:19:19,616
+Umas duas pessoas passavam 
+o verão todo trabalhando nisso.
+
+358
+00:19:20,200 --> 00:19:21,660
+Então pediram a Bill e Kent,
+
+359
+00:19:21,910 --> 00:19:23,078
+dois adolescentes,
+
+360
+00:19:23,328 --> 00:19:25,998
+para organizarem o cronograma 
+de mais de 400 alunos.
+
+361
+00:19:26,290 --> 00:19:28,709
+O número de restrições era inacreditável.
+
+362
+00:19:32,421 --> 00:19:34,214
+Havia um certo número de matérias
+
+363
+00:19:34,298 --> 00:19:36,425
+oferecidas do ensino fundamental ao médio.
+
+364
+00:19:40,762 --> 00:19:43,682
+Não podia ter aula de bateria 
+no andar de cima e o coral embaixo,
+
+365
+00:19:43,765 --> 00:19:45,767
+porque o isolamento acústico 
+não dava conta.
+
+366
+00:19:47,352 --> 00:19:48,854
+Todos querem prioridade.
+
+367
+00:19:48,937 --> 00:19:51,481
+Os alunos faziam de cinco a sete matérias.
+
+368
+00:19:51,773 --> 00:19:55,110
+Diziam: 
+"Não ponha esses dois alunos juntos."
+
+369
+00:19:55,527 --> 00:19:58,530
+E um professor não podia dar 
+quatro aulas seguidas.
+
+370
+00:19:59,114 --> 00:20:00,782
+Tinha de ter horário de almoço.
+
+371
+00:20:01,200 --> 00:20:02,868
+Tinha de terminar às 15h15.
+
+372
+00:20:03,994 --> 00:20:07,998
+Colocavam 48 pessoas 
+em uma matéria dividida em três grupos
+
+373
+00:20:08,081 --> 00:20:10,751
+e garantiam aos pais 
+que não teria mais de 16 em cada.
+
+374
+00:20:11,043 --> 00:20:14,171
+Kent e eu ficamos preocupados, porque,
+
+375
+00:20:14,588 --> 00:20:16,131
+em vez de dizer a eles:
+
+376
+00:20:16,215 --> 00:20:18,217
+"Esse cara não pode fazer 
+aula de bateria",
+
+377
+00:20:18,300 --> 00:20:20,177
+diríamos: "Ele não pode fazer física,
+
+378
+00:20:20,260 --> 00:20:23,347
+porque não sei como 
+ele vai conseguir ir à aula de física,
+
+379
+00:20:23,430 --> 00:20:26,558
+e física é requisito para se formar."
+
+380
+00:20:27,142 --> 00:20:29,811
+Pensei por algumas semanas e disse: "Não,
+
+381
+00:20:31,355 --> 00:20:33,190
+esse problema é muito difícil."
+
+382
+00:20:34,524 --> 00:20:37,236
+Então, por que você e Kent 
+não trabalharam juntos mais?
+
+383
+00:20:38,028 --> 00:20:40,030
+Nós teríamos trabalhado juntos...
+
+384
+00:20:40,489 --> 00:20:43,116
+Sei que teríamos ido 
+para a faculdade juntos.
+
+385
+00:20:45,202 --> 00:20:48,163
+Kent não era
+
+386
+00:20:48,247 --> 00:20:50,707
+do tipo atlético. Era meio  geek.
+
+387
+00:20:50,791 --> 00:20:53,669
+Então, ele fez um curso de alpinismo.
+
+388
+00:20:53,752 --> 00:20:58,006
+Era algo clássico do Kent, 
+querer ampliar os horizontes.
+
+389
+00:20:58,090 --> 00:21:01,134
+E ele decidiu 
+que fazer uma atividade física
+
+390
+00:21:01,218 --> 00:21:03,679
+era algo importante.
+
+391
+00:21:03,762 --> 00:21:08,725
+Então se inscreveu 
+em uma aula de alpinismo.
+
+392
+00:21:10,143 --> 00:21:13,021
+Quando eles estavam praticando,
+
+393
+00:21:13,105 --> 00:21:16,692
+ele caiu da montanha e morreu.
+
+394
+00:21:22,739 --> 00:21:24,241
+Deve ter sido horrível.
+
+395
+00:21:26,034 --> 00:21:27,619
+Foi, sim. Foi tão...
+
+396
+00:21:31,164 --> 00:21:34,751
+inesperado... Tão estranho.
+
+397
+00:21:40,507 --> 00:21:42,634
+As pessoas não sabiam o que dizer...
+
+398
+00:21:43,635 --> 00:21:45,887
+a mim ou aos pais do Kent.
+
+399
+00:21:48,807 --> 00:21:52,519
+Eu me lembro de ter chorado na capela,
+
+400
+00:21:52,602 --> 00:21:55,731
+e o professor de arte da escola,
+
+401
+00:21:56,189 --> 00:21:57,566
+chamado Bob Fulghum,
+
+402
+00:21:57,649 --> 00:21:59,693
+foi muito eloquente.
+
+403
+00:21:59,818 --> 00:22:04,531
+Eu me lembro de ter sido consolado por ele
+
+404
+00:22:04,614 --> 00:22:06,158
+na frente da capela.
+
+405
+00:22:07,576 --> 00:22:11,288
+Mas você e Kent tinham grandes planos. 
+Tinham sonhos.
+
+406
+00:22:11,538 --> 00:22:14,291
+Você não quis largar tudo e desistir?
+
+407
+00:22:15,250 --> 00:22:16,835
+Não, eu...
+
+408
+00:22:18,337 --> 00:22:21,381
+Pensei: "Está bem. 
+Agora vou fazer as coisas
+
+409
+00:22:21,465 --> 00:22:23,383
+que Kent e eu planejamos, mas...
+
+410
+00:22:24,343 --> 00:22:26,553
+vou fazer sem Kent."
+
+411
+00:22:34,519 --> 00:22:37,564
+Acho que ele ficou com um grande vazio.
+
+412
+00:22:41,151 --> 00:22:45,781
+Mas Bill é muito focado.
+
+413
+00:22:47,199 --> 00:22:49,576
+Acredito que, por isso, 
+ele conseguia esconder.
+
+414
+00:22:55,540 --> 00:22:57,125
+Ele me falou
+
+415
+00:22:57,209 --> 00:23:00,504
+sobre os pensamentos dele 
+e sobre mover coisas na mente,
+
+416
+00:23:00,587 --> 00:23:03,131
+extrair coisas 
+de compartimentos diferentes.
+
+417
+00:23:05,217 --> 00:23:10,180
+Ele se interessa por muitos assuntos, 
+então faz uma estrutura na mente
+
+418
+00:23:10,263 --> 00:23:13,141
+e, assim, começa a encaixar a informação.
+
+419
+00:23:14,810 --> 00:23:15,644
+Na Nigéria,
+
+420
+00:23:15,727 --> 00:23:18,897
+você achava pólio em um lugar 
+e reagia agressivamente.
+
+421
+00:23:19,022 --> 00:23:21,441
+Parecia que tinha sido eliminada 
+naquele local,
+
+422
+00:23:21,525 --> 00:23:24,903
+mas a pólio aparecia em outros distritos.
+
+423
+00:23:25,404 --> 00:23:28,073
+Era como enxugar gelo.
+
+424
+00:23:29,616 --> 00:23:32,744
+O mesmo aluno está 
+em duas matérias seguidas?
+
+425
+00:23:33,620 --> 00:23:35,122
+O problema eram os conflitos.
+
+426
+00:23:36,248 --> 00:23:37,707
+Em muitos lugares,
+
+427
+00:23:38,250 --> 00:23:41,253
+os mapas mais recentes 
+que você achava do norte da Nigéria
+
+428
+00:23:41,336 --> 00:23:44,047
+era algo feito pelos britânicos 
+por volta de 1945.
+
+429
+00:23:47,050 --> 00:23:49,803
+Qual é o melhor algoritmo 
+para o cronograma?
+
+430
+00:23:52,931 --> 00:23:56,977
+Os vacinadores precisavam ir 
+a todas as casas onde houvesse criança,
+
+431
+00:23:57,352 --> 00:23:59,896
+e os únicos mapas que tinham 
+eram feitos à mão.
+
+432
+00:24:00,564 --> 00:24:03,358
+Eu podia fazer 
+uma matriz de conflito uma vez.
+
+433
+00:24:03,859 --> 00:24:06,611
+Você pode ver. Há um aluno em comum?
+
+434
+00:24:06,987 --> 00:24:09,656
+Há poucos vacinadores, então você precisa
+
+435
+00:24:09,739 --> 00:24:12,659
+mandá-los exatamente 
+ao lugar em que precisam mais.
+
+436
+00:24:13,743 --> 00:24:15,787
+É um problema de limitação de recursos.
+
+437
+00:24:20,125 --> 00:24:23,503
+É como se Bill tivesse uma planilha Excel  
+imensa na cabeça dele,
+
+438
+00:24:23,879 --> 00:24:25,714
+e tudo tem um lugar certo.
+
+439
+00:24:31,803 --> 00:24:34,931
+Ele tende a olhar os problemas 
+de ângulos muito singulares.
+
+440
+00:24:38,393 --> 00:24:41,563
+Bill achou que tinha conseguido 
+resolver o problema dos horários.
+
+441
+00:24:42,439 --> 00:24:44,232
+Mas sabia que precisava de ajuda.
+
+442
+00:24:44,608 --> 00:24:46,610
+Então, chamei Paul
+
+443
+00:24:46,776 --> 00:24:48,695
+e disse: "Preciso da sua ajuda."
+
+444
+00:24:51,406 --> 00:24:53,158
+Eles não tinham muito tempo.
+
+445
+00:24:55,577 --> 00:24:57,829
+As aulas começavam em duas semanas.
+
+446
+00:25:00,290 --> 00:25:04,711
+Acabou sendo mais difícil 
+do que eu esperava.
+
+447
+00:25:05,545 --> 00:25:07,547
+Levaram camas dobráveis para o laboratório
+
+448
+00:25:08,006 --> 00:25:09,883
+e trabalharam sem parar.
+
+449
+00:25:19,434 --> 00:25:20,560
+Ele programa muito bem.
+
+450
+00:25:20,644 --> 00:25:22,062
+Às vezes ele dormia,
+
+451
+00:25:22,145 --> 00:25:25,232
+simplesmente deitava a cabeça 
+no teclado e dormia.
+
+452
+00:25:25,440 --> 00:25:28,610
+Ele acordava meio grogue, olhava a tela
+
+453
+00:25:28,693 --> 00:25:31,279
+e continuava a digitar 
+exatamente de onde parou.
+
+454
+00:25:32,280 --> 00:25:35,784
+Paul mudava a programação do Bill 
+e vice-versa.
+
+455
+00:25:35,867 --> 00:25:39,996
+Eles tinham uma relação muito cooperativa.
+
+456
+00:25:41,456 --> 00:25:42,791
+Faltando poucas horas,
+
+457
+00:25:43,124 --> 00:25:44,626
+conseguiram rodar o programa.
+
+458
+00:25:45,252 --> 00:25:46,878
+Os cronogramas estavam prontos.
+
+459
+00:25:53,802 --> 00:25:56,555
+Logo depois, outros colégios 
+pediram ajuda com os horários.
+
+460
+00:25:57,472 --> 00:25:59,599
+Foi divertido. Eu nunca tinha ficado...
+
+461
+00:26:00,976 --> 00:26:03,645
+bêbado, e Paul me embebedou, 
+e todo tipo de...
+
+462
+00:26:04,437 --> 00:26:06,606
+-Foi... 
+-Espere, vamos conversar sobre isso.
+
+463
+00:26:06,690 --> 00:26:09,693
+-Por que ele te embebedou? 
+-Paul gostava do Jimi Hendrix.
+
+464
+00:26:09,776 --> 00:26:12,487
+E tinha aquela música 
+"Are You Experienced?"
+
+465
+00:26:15,574 --> 00:26:17,158
+Paul queria ver...
+
+466
+00:26:17,242 --> 00:26:19,744
+Olha o Bill bêbado 
+e aqui ele fumando maconha.
+
+467
+00:26:21,663 --> 00:26:23,957
+Fizeram um programa 
+para analisar o tráfego.
+
+468
+00:26:25,542 --> 00:26:28,670
+Na noite em que me embebedou com uísque, 
+eu não quis ir para casa,
+
+469
+00:26:28,753 --> 00:26:32,465
+então dormi na capela do Lakeside.
+
+470
+00:26:32,632 --> 00:26:35,594
+Quando uma hidrelétrica não conseguia 
+informatizar o sistema...
+
+471
+00:26:35,802 --> 00:26:37,846
+Alguém disse: "Tem o Gates e o Allen".
+
+472
+00:26:41,099 --> 00:26:42,809
+Chegamos à entrevista e eles:
+
+473
+00:26:42,892 --> 00:26:44,603
+"Espere aí! São crianças!"
+
+474
+00:26:44,686 --> 00:26:46,313
+Ele saiu do colégio por um semestre
+
+475
+00:26:46,396 --> 00:26:48,523
+e se mudou com Paul 
+para Vancouver, Washington,
+
+476
+00:26:48,607 --> 00:26:51,109
+para programar o computador 
+da companhia de água e luz.
+
+477
+00:26:51,192 --> 00:26:54,738
+Tinha um bairro de negros, Alameda, 
+que tinha um cinema.
+
+478
+00:26:54,821 --> 00:26:56,906
+Geralmente éramos 
+os únicos brancos no cinema
+
+479
+00:26:56,990 --> 00:26:59,534
+e assistíamos a filmes como  Super Fly.
+
+480
+00:26:59,618 --> 00:27:01,911
+Não consigo imaginar 
+dois caras mais brancos...
+
+481
+00:27:01,995 --> 00:27:03,079
+Éramos os mais brancos.
+
+482
+00:27:03,163 --> 00:27:05,206
+Fomos ver  Motorista de Táxi.
+
+483
+00:27:05,290 --> 00:27:06,875
+"Quem? Está falando comigo?
+
+484
+00:27:06,958 --> 00:27:09,794
+Com quem acha que está falando?"
+
+485
+00:27:11,921 --> 00:27:13,882
+É como o irmão que te mete em encrenca?
+
+486
+00:27:14,299 --> 00:27:16,718
+Com certeza. Tinha algo do tipo.
+
+487
+00:27:16,801 --> 00:27:18,470
+Eu e Paul éramos muito amigos...
+
+488
+00:27:19,638 --> 00:27:22,766
+antes daquilo, eu ia à casa dele, 
+íamos ao cinema,
+
+489
+00:27:22,849 --> 00:27:26,102
+mas nossa amizade se intensificou
+
+490
+00:27:26,645 --> 00:27:28,063
+naquele verão.
+
+491
+00:27:28,521 --> 00:27:30,857
+Paul se tornou meu melhor amigo.
+
+492
+00:27:33,652 --> 00:27:35,695
+Bill sabia que a erradicação ia fracassar
+
+493
+00:27:36,196 --> 00:27:39,616
+sem mais voluntários. 
+Mas precisavam de mapas melhores.
+
+494
+00:27:41,326 --> 00:27:43,578
+Usando imagens de satélite 
+de alta resolução,
+
+495
+00:27:43,953 --> 00:27:46,373
+algoritmos e computadores mais potentes,
+
+496
+00:27:46,456 --> 00:27:49,209
+a equipe de Bill ajudou 
+a criar mapas detalhados da Nigéria.
+
+497
+00:27:51,878 --> 00:27:54,506
+Finalmente conseguiram ver o país.
+
+498
+00:27:56,216 --> 00:27:59,052
+Percebemos que as pessoas 
+que moravam nas fronteiras
+
+499
+00:27:59,135 --> 00:28:01,262
+dos distritos não recebiam a vacina,
+
+500
+00:28:01,346 --> 00:28:04,140
+porque esse distrito achou 
+que outro cara viria aqui
+
+501
+00:28:04,224 --> 00:28:06,142
+e o outro achou que eles iriam.
+
+502
+00:28:06,226 --> 00:28:09,688
+Vimos que a chance 
+de ter paralisia era maior
+
+503
+00:28:09,771 --> 00:28:11,940
+se você vivia nessas fronteiras.
+
+504
+00:28:13,358 --> 00:28:14,401
+Em terra,
+
+505
+00:28:14,484 --> 00:28:17,404
+os vacinadores estavam armados 
+com planos precisos.
+
+506
+00:28:19,614 --> 00:28:21,491
+Bill queria mais eficiência.
+
+507
+00:28:22,742 --> 00:28:25,620
+Focando em áreas de alto risco primeiro 
+podia salvar vidas.
+
+508
+00:28:27,956 --> 00:28:31,292
+Uma das grandes questões era 
+como usar análises quantitativas
+
+509
+00:28:31,376 --> 00:28:33,211
+para entender como ir de...
+
+510
+00:28:34,254 --> 00:28:36,297
+baixo índice de pólio para zero pólio.
+
+511
+00:28:37,841 --> 00:28:40,885
+Bill perguntou à equipe  
+se podiam prever surtos futuros.
+
+512
+00:28:42,929 --> 00:28:45,223
+Então processaram 
+uma enorme quantidade de dados,
+
+513
+00:28:45,598 --> 00:28:46,850
+índices de vacinação
+
+514
+00:28:46,933 --> 00:28:48,560
+e mudanças na população,
+
+515
+00:28:49,227 --> 00:28:52,313
+para identificar onde os profissionais 
+de saúde deviam ir primeiro.
+
+516
+00:28:53,773 --> 00:28:55,024
+Era muito preciso.
+
+517
+00:28:56,359 --> 00:28:57,819
+A seguir em  Eye Witness News,
+
+518
+00:28:57,902 --> 00:29:01,364
+Benjamin Franklin nunca sonhou 
+que um teclado pudesse fazer isso.
+
+519
+00:29:02,240 --> 00:29:04,826
+Muitas pessoas acreditam
+
+520
+00:29:04,909 --> 00:29:07,954
+que vai ter lojas de software 
+como tem lojas de discos hoje,
+
+521
+00:29:08,037 --> 00:29:10,707
+e vai ter milhares de softwares,
+
+522
+00:29:10,790 --> 00:29:12,375
+e acho que concordo.
+
+523
+00:29:14,043 --> 00:29:15,879
+Bill estava no segundo ano em Harvard
+
+524
+00:29:15,962 --> 00:29:17,505
+quando Paul deu a ele uma cópia
+
+525
+00:29:17,589 --> 00:29:19,716
+da revista  Popular Electronics,
+
+526
+00:29:19,841 --> 00:29:23,011
+e, na capa, havia em destaque 
+um computador agora lendário.
+
+527
+00:29:23,303 --> 00:29:25,555
+Parece que a revolução começou 
+sem a gente.
+
+528
+00:29:25,638 --> 00:29:28,475
+Bill e Paul começaram a programar 
+para o computador novo.
+
+529
+00:29:30,685 --> 00:29:34,063
+Então, trabalhamos noite e dia 
+e, poucos meses depois,
+
+530
+00:29:34,147 --> 00:29:36,941
+perfuramos o programa numa fita de papel.
+
+531
+00:29:37,066 --> 00:29:39,569
+Quando Paul foi a Albuquerque 
+demonstrar o novo software
+
+532
+00:29:39,652 --> 00:29:41,070
+aos fabricantes do Altair,
+
+533
+00:29:41,613 --> 00:29:43,239
+ele percebeu que tinha um problema.
+
+534
+00:29:43,990 --> 00:29:46,326
+Esqueceram de escrever a inicialização.
+
+535
+00:29:46,659 --> 00:29:50,497
+Sem ela, não poderia fazer o upload 
+do programa no computador novo.
+
+536
+00:29:51,039 --> 00:29:53,458
+Então ele escreveu durante o voo.
+
+537
+00:29:54,209 --> 00:29:57,462
+Paul se sentou 
+e inseriu todas as informações.
+
+538
+00:29:57,962 --> 00:30:00,465
+Se tivesse um erro sequer, 
+não funcionaria.
+
+539
+00:30:05,470 --> 00:30:09,307
+Todos olhavam enquanto Paul 
+carregava o código no Altair.
+
+540
+00:30:10,934 --> 00:30:13,686
+Ele digitou dois mais dois.
+
+541
+00:30:14,020 --> 00:30:16,147
+Um comando simples para testar o programa.
+
+542
+00:30:20,193 --> 00:30:23,112
+IMPRIMIR 2 + 2 
+4 - OK
+
+543
+00:30:23,822 --> 00:30:25,156
+A impressora imprimiu quatro.
+
+544
+00:30:25,532 --> 00:30:26,699
+Funcionou perfeitamente.
+
+545
+00:30:26,783 --> 00:30:30,036
+Funcionou perfeitamente de primeira.
+
+546
+00:30:30,703 --> 00:30:32,330
+Até então, ninguém tinha rodado
+
+547
+00:30:32,413 --> 00:30:33,540
+um programa comercial
+
+548
+00:30:33,623 --> 00:30:35,124
+em um computador pessoal.
+
+549
+00:30:35,458 --> 00:30:36,835
+E nascia a Microsoft.
+
+550
+00:30:36,918 --> 00:30:38,211
+MICROSOFT 
+WILLIAM H. GATES - PRESIDENTE
+
+551
+00:30:38,461 --> 00:30:39,712
+MICROSOFT 
+PAUL G. ALLEN - VICE-PRESIDENTE
+
+552
+00:30:39,796 --> 00:30:42,882
+Bill abandonou Harvard 
+e se mudou com Paul para Albuquerque.
+
+553
+00:30:42,966 --> 00:30:45,635
+Arrumamos um apartamento barato.
+
+554
+00:30:45,718 --> 00:30:48,096
+Depois colocamos mais umas pessoas lá.
+
+555
+00:30:48,179 --> 00:30:49,556
+Não foi uma boa ideia.
+
+556
+00:30:50,932 --> 00:30:52,725
+Era praticamente um cortiço.
+
+557
+00:30:53,268 --> 00:30:57,313
+Não me lembro de lavar roupa. 
+Acho que ninguém lavava.
+
+558
+00:30:57,814 --> 00:31:00,149
+Bill tinha um quarto. Paul tinha outro.
+
+559
+00:31:00,233 --> 00:31:02,110
+E, adivinha? Fiquei com o sofá.
+
+560
+00:31:02,735 --> 00:31:04,904
+Paul tinha uma guitarra.
+
+561
+00:31:04,988 --> 00:31:08,283
+Bill ficava de saco cheio 
+com as músicas do Jimi Hendrix
+
+562
+00:31:08,366 --> 00:31:10,785
+e queria qualquer coisa, menos Hendrix.
+
+563
+00:31:13,454 --> 00:31:14,873
+Estávamos pulando de alegria.
+
+564
+00:31:14,956 --> 00:31:15,957
+A gente mal dormia.
+
+565
+00:31:16,040 --> 00:31:18,710
+Parávamos um pouco para comer algo rápido
+
+566
+00:31:18,793 --> 00:31:20,628
+e trabalhávamos até as 3h.
+
+567
+00:31:24,215 --> 00:31:25,884
+Éramos intensos.
+
+568
+00:31:25,967 --> 00:31:28,595
+Se está trabalhando num programa, 
+termine logo.
+
+569
+00:31:28,678 --> 00:31:30,805
+Não se preocupe se vai dormir.
+
+570
+00:31:32,015 --> 00:31:35,101
+Naquela época, para dar um pouco 
+de adrenalina ou algo do tipo,
+
+571
+00:31:35,184 --> 00:31:36,603
+eu comprava Tang,
+
+572
+00:31:36,686 --> 00:31:39,314
+uma bebida adocicada de laranja
+
+573
+00:31:39,397 --> 00:31:40,607
+que levaram à Lua,
+
+574
+00:31:40,690 --> 00:31:42,567
+e, em vez de fazer refeições,
+
+575
+00:31:42,650 --> 00:31:44,944
+eu despejava Tang na minha mão
+
+576
+00:31:45,028 --> 00:31:47,822
+e lambia enquanto trabalhava.
+
+577
+00:31:47,906 --> 00:31:50,825
+Minha cara ficava toda pintada 
+de laranja e...
+
+578
+00:31:50,909 --> 00:31:54,621
+É para você pôr num copo de água, mexer
+
+579
+00:31:54,704 --> 00:31:55,580
+e beber.
+
+580
+00:31:56,039 --> 00:31:59,709
+Mas não precisa de água, 
+porque o corpo já tem água.
+
+581
+00:31:59,792 --> 00:32:01,711
+É só pôr na mão e lamber.
+
+582
+00:32:01,794 --> 00:32:05,423
+-E o teclado não ficava alaranjado? 
+-É um problema, sim.
+
+583
+00:32:06,007 --> 00:32:11,512
+Adoro ir trabalhar, 
+ e aquele trabalho é a minha vida.
+
+584
+00:32:11,596 --> 00:32:13,181
+Mas Paul tinha outros interesses.
+
+585
+00:32:13,264 --> 00:32:16,601
+Paul adorava todas as coisas 
+que não tinham a ver
+
+586
+00:32:16,684 --> 00:32:19,145
+com o foco da empresa.
+
+587
+00:32:19,228 --> 00:32:22,190
+Ele adorava ficção científica.
+
+588
+00:32:22,273 --> 00:32:23,691
+Lia de forma obsessiva.
+
+589
+00:32:23,775 --> 00:32:25,360
+Adorava Shakespeare.
+
+590
+00:32:25,443 --> 00:32:29,155
+E era um guitarrista talentoso. 
+Ele tocava muito.
+
+591
+00:32:29,238 --> 00:32:33,284
+Minha maior vantagem era ser fanático,
+
+592
+00:32:33,368 --> 00:32:36,496
+ou seja, usar todas as minhas habilidades,
+
+593
+00:32:36,913 --> 00:32:38,122
+dia e noite,
+
+594
+00:32:38,206 --> 00:32:41,834
+e focar em criar um programa bom.
+
+595
+00:32:42,627 --> 00:32:44,504
+Eu amava ser fanático.
+
+596
+00:32:44,796 --> 00:32:46,381
+No final, eu passei a gostar.
+
+597
+00:32:46,631 --> 00:32:50,301
+Não ligava para fins de semana 
+ou férias.
+
+598
+00:32:51,803 --> 00:32:55,556
+Bill tinha mais intensidade e motivação 
+que todos que conheço.
+
+599
+00:32:57,600 --> 00:33:00,603
+Para muitas pessoas, 
+não era o lugar ideal para trabalhar.
+
+600
+00:33:00,687 --> 00:33:03,189
+Éramos agitados, exigentes.
+
+601
+00:33:03,815 --> 00:33:06,401
+Se você dissesse que levaria 
+uma semana para fazer algo,
+
+602
+00:33:06,484 --> 00:33:09,237
+"Faço isso num dia! 
+Por que não trabalha tanto quanto eu?"
+
+603
+00:33:09,320 --> 00:33:12,782
+Não, alguém está confuso. 
+Não está pensando.
+
+604
+00:33:12,865 --> 00:33:14,659
+Eu era famoso por dizer:
+
+605
+00:33:15,034 --> 00:33:17,495
+"É a ideia mais idiota que já ouvi."
+
+606
+00:33:17,787 --> 00:33:20,289
+E, claro, as pessoas perguntavam: 
+"Como pode?
+
+607
+00:33:20,373 --> 00:33:22,917
+Ele ouviu uma outra há apenas duas horas.
+
+608
+00:33:23,001 --> 00:33:27,422
+Essa é mais idiota do que todas as outras 
+que ele ouviu antes?"
+
+609
+00:33:27,505 --> 00:33:29,757
+Que absurdo! Não vou usar isso.
+
+610
+00:33:29,841 --> 00:33:32,260
+Bill costumava dizer 
+que o melhor da Microsoft
+
+611
+00:33:32,343 --> 00:33:33,928
+era poder trabalhar meio período.
+
+612
+00:33:34,012 --> 00:33:36,472
+Pode escolher as 12 horas 
+que vai trabalhar.
+
+613
+00:33:36,556 --> 00:33:38,933
+Não, vocês não entendem. Vocês não...
+
+614
+00:33:39,017 --> 00:33:40,435
+Nunca entenderam.
+
+615
+00:33:40,518 --> 00:33:43,146
+Vocês nunca entenderam nada sobre isso.
+
+616
+00:33:43,229 --> 00:33:45,690
+Eu era tão extremo.
+
+617
+00:33:46,274 --> 00:33:48,776
+Eu sabia a placa dos carros de todo mundo,
+
+618
+00:33:48,860 --> 00:33:51,320
+então eu andava pelo estacionamento
+
+619
+00:33:51,404 --> 00:33:53,823
+e sabia quem estava lá e quem não estava.
+
+620
+00:34:01,080 --> 00:34:02,582
+Em abril de 1981,
+
+621
+00:34:03,041 --> 00:34:06,044
+enquanto os EUA esperavam o lançamento 
+do primeiro ônibus espacial,
+
+622
+00:34:06,127 --> 00:34:08,379
+Bill e Paul estavam programando 
+para a IBM,
+
+623
+00:34:08,880 --> 00:34:10,757
+a maior empresa de informática do mundo.
+
+624
+00:34:11,215 --> 00:34:12,759
+As coisas estavam crescendo.
+
+625
+00:34:13,176 --> 00:34:16,471
+Mas eles entregaram 
+o primeiro trabalho atrasado.
+
+626
+00:34:16,721 --> 00:34:18,973
+Eu apressava o Paul.
+
+627
+00:34:19,348 --> 00:34:22,060
+Mas Paul só falava 
+sobre o lançamento do ônibus.
+
+628
+00:34:22,560 --> 00:34:25,938
+Eu sabia que o pessoal estava dizendo 
+que ia ser legal de assistir.
+
+629
+00:34:26,022 --> 00:34:26,856
+Bem,
+
+630
+00:34:26,939 --> 00:34:30,735
+Paul não me perguntou 
+se poderia desaparecer por três dias
+
+631
+00:34:30,818 --> 00:34:31,944
+para ir assistir.
+
+632
+00:34:32,737 --> 00:34:34,489
+Porque eu diria não.
+
+633
+00:34:35,490 --> 00:34:38,534
+Mas Paul foi ver o lançamento.
+
+634
+00:34:40,870 --> 00:34:42,663
+Depois de programar nas madrugadas,
+
+635
+00:34:42,747 --> 00:34:44,207
+Bill entregou o programa à IBM.
+
+636
+00:34:44,290 --> 00:34:46,125
+...dois, um.
+
+637
+00:34:47,418 --> 00:34:48,836
+O lançamento foi um sucesso.
+
+638
+00:34:50,171 --> 00:34:52,924
+O MS-DOS foi um sucesso para a Microsoft,
+
+639
+00:34:53,800 --> 00:34:55,593
+alcançando milhões de pessoas.
+
+640
+00:34:58,930 --> 00:35:01,808
+Os vacinadores alcançavam 
+áreas críticas na Nigéria.
+
+641
+00:35:02,391 --> 00:35:03,351
+VACINAÇÃO
+
+642
+00:35:03,976 --> 00:35:06,896
+O trabalho de Bill e sua equipe 
+fazia diferença.
+
+643
+00:35:08,272 --> 00:35:10,274
+É incrível como a população local,
+
+644
+00:35:10,358 --> 00:35:14,320
+a maior parte mulheres, era corajosa 
+e prestativa e entrou nas equipes.
+
+645
+00:35:14,654 --> 00:35:17,323
+Em 2010, a erradicação  
+estava muito próxima.
+
+646
+00:35:19,242 --> 00:35:22,203
+Em breve, a Índia, um país 
+com mais de um bilhão de pessoas,
+
+647
+00:35:22,745 --> 00:35:25,331
+uma região que todos diziam 
+ser impossível ajudar,
+
+648
+00:35:25,915 --> 00:35:27,166
+estaria livre de pólio.
+
+649
+00:35:30,753 --> 00:35:34,841
+E, na Nigéria, o número de crianças 
+com a doença caía rapidamente.
+
+650
+00:35:35,007 --> 00:35:37,135
+388 CASOS - 21 CASOS
+
+651
+00:35:46,435 --> 00:35:47,270
+Naquele setembro,
+
+652
+00:35:47,520 --> 00:35:50,940
+cinquenta militantes armados invadiram 
+a prisão Bauchi no norte da Nigéria.
+
+653
+00:35:53,568 --> 00:35:58,489
+Libertaram quase 150 membros 
+da organização terrorista Boko Haram.
+
+654
+00:36:00,950 --> 00:36:03,619
+Uma nova onda de terrorismo 
+ se alastrou pela Nigéria.
+
+655
+00:36:07,456 --> 00:36:09,417
+No norte da Nigéria,
+
+656
+00:36:09,500 --> 00:36:14,172
+pode haver homens do Boko Haram 
+no posto de controle, e eles te matam.
+
+657
+00:36:17,008 --> 00:36:19,802
+O Boko Haram tomou o controle 
+de vilas e ruas,
+
+658
+00:36:20,094 --> 00:36:21,470
+restringindo o acesso
+
+659
+00:36:21,554 --> 00:36:23,556
+e, o mais importante, a informação.
+
+660
+00:36:24,473 --> 00:36:26,559
+Então, uma das coisas que se estimava
+
+661
+00:36:26,642 --> 00:36:29,395
+era o tamanho da população total
+
+662
+00:36:29,645 --> 00:36:31,939
+que estava efetivamente nessa bolha.
+
+663
+00:36:32,356 --> 00:36:35,193
+E a resposta poderia ser 
+dois milhões de pessoas.
+
+664
+00:36:36,652 --> 00:36:38,863
+Apesar de todos os sistemas 
+implantados por Bill,
+
+665
+00:36:39,238 --> 00:36:41,365
+ainda havia surtos de pólio.
+
+666
+00:36:43,159 --> 00:36:44,410
+Mas eles não viam.
+
+667
+00:36:46,913 --> 00:36:50,791
+Devíamos ter previsto 
+que esses lugares instáveis
+
+668
+00:36:50,875 --> 00:36:54,420
+controlados por terroristas 
+seriam o último lugar na Terra
+
+669
+00:36:54,503 --> 00:36:56,005
+que teriam pólio.
+
+670
+00:36:56,088 --> 00:36:57,506
+E não era apenas a Nigéria.
+
+671
+00:36:59,133 --> 00:37:01,052
+No Paquistão e no Afeganistão,
+
+672
+00:37:01,427 --> 00:37:03,596
+o ressurgente Talibã ameaçou a campanha.
+
+673
+00:37:07,350 --> 00:37:10,394
+Em grande parte do mundo, 
+as pessoas veem estrangeiros
+
+674
+00:37:10,478 --> 00:37:11,896
+de uma forma suspeita.
+
+675
+00:37:11,979 --> 00:37:15,858
+A vacinação de pólio é muito mais difícil
+
+676
+00:37:15,942 --> 00:37:18,986
+se não conseguir 
+cooperação total das comunidades.
+
+677
+00:37:19,904 --> 00:37:21,739
+Foi um conflito que permitiu
+
+678
+00:37:21,822 --> 00:37:23,324
+que a pólio continuasse.
+
+679
+00:37:25,034 --> 00:37:28,454
+Bill viu o inimaginável acontecer.
+
+680
+00:37:31,040 --> 00:37:33,334
+Uma bomba na estrada matou vacinadores.
+
+681
+00:37:34,752 --> 00:37:37,630
+Mataram um policial que protegia 
+o pessoal da vacinação.
+
+682
+00:37:41,300 --> 00:37:45,554
+Dois homens usaram uma criança como isca 
+para achar e matar voluntários.
+
+683
+00:37:47,223 --> 00:37:49,850
+Mataram uma mãe de oito filhos 
+que ia de casa em casa
+
+684
+00:37:49,934 --> 00:37:51,936
+para administrar a vacina.
+
+685
+00:37:57,316 --> 00:37:59,485
+As pessoas diziam 
+ao Bill que não valia a pena.
+
+686
+00:37:59,735 --> 00:38:02,154
+Que a pólio nunca seria erradicada.
+
+687
+00:38:12,123 --> 00:38:14,000
+Bill é do tipo que se arrisca.
+
+688
+00:38:15,126 --> 00:38:16,627
+Ele deslocou o ombro
+
+689
+00:38:16,711 --> 00:38:19,422
+surfando em uma montanha no Equador.
+
+690
+00:38:20,298 --> 00:38:21,924
+Quando ele anda de bicicleta,
+
+691
+00:38:22,008 --> 00:38:24,176
+ele vai com tudo
+
+692
+00:38:24,260 --> 00:38:26,470
+descendo uma ladeira
+
+693
+00:38:26,554 --> 00:38:28,973
+sem medo algum.
+
+694
+00:38:29,515 --> 00:38:31,183
+O mesmo com esqui.
+
+695
+00:38:32,226 --> 00:38:33,602
+Não tem medo de nada.
+
+696
+00:38:36,105 --> 00:38:38,190
+Ele faria algo muito extremo.
+
+697
+00:38:39,442 --> 00:38:40,526
+Em 2013,
+
+698
+00:38:41,027 --> 00:38:42,737
+quando as pessoas alertavam Bill
+
+699
+00:38:42,820 --> 00:38:44,405
+que pólio era uma causa perdida,
+
+700
+00:38:44,989 --> 00:38:47,450
+ele voou para Abu Dhabi 
+e fez um comunicado oficial.
+
+701
+00:38:48,034 --> 00:38:50,202
+Decidimos avançar
+
+702
+00:38:50,286 --> 00:38:52,204
+para um novo nível
+
+703
+00:38:52,496 --> 00:38:53,956
+quanto ao nosso compromisso.
+
+704
+00:38:54,457 --> 00:38:56,959
+Era chamado "Plano Estratégico Final".
+
+705
+00:38:57,251 --> 00:38:59,295
+Bill e uma parceria feita com organizações
+
+706
+00:38:59,378 --> 00:39:01,047
+planejaram erradicar a pólio
+
+707
+00:39:01,130 --> 00:39:02,506
+em apenas seis anos.
+
+708
+00:39:02,923 --> 00:39:03,758
+Para isso,
+
+709
+00:39:03,924 --> 00:39:06,135
+gastariam quase seis bilhões de dólares.
+
+710
+00:39:07,345 --> 00:39:10,139
+Com todas as demandas 
+das despesas da fundação,
+
+711
+00:39:10,431 --> 00:39:12,600
+Bill teve de pedir ajuda a amigos.
+
+712
+00:39:13,517 --> 00:39:14,518
+Ótimo!
+
+713
+00:39:15,519 --> 00:39:16,812
+Obrigado. Excelente.
+
+714
+00:39:17,688 --> 00:39:18,522
+Muito bem.
+
+715
+00:39:25,321 --> 00:39:30,618
+Descobri o que eu gostava de comer 
+quando eu tinha seis anos.
+
+716
+00:39:31,535 --> 00:39:34,288
+Desde então, não precisei mais 
+ficar experimentando.
+
+717
+00:39:34,372 --> 00:39:38,751
+Continuo botando um monte de sal 
+no hambúrguer e mando ver.
+
+718
+00:39:41,545 --> 00:39:44,215
+Seu médico implica com o sal?
+
+719
+00:39:44,799 --> 00:39:48,386
+Eles desistiram. 
+Minha filha fica tirando fotos de mim.
+
+720
+00:39:48,469 --> 00:39:51,764
+Ela tirou uma foto minha outro dia 
+botando um monte de maionese em algo
+
+721
+00:39:51,847 --> 00:39:54,392
+e mandou e-mail para os meus médicos.  
+São uns quatro.
+
+722
+00:39:55,142 --> 00:39:56,977
+Eles respondem na mesma hora.
+
+723
+00:39:58,687 --> 00:40:03,025
+Ela também tira foto 
+de batata com um monte de molho.
+
+724
+00:40:04,735 --> 00:40:07,488
+Gosto de analisar as coisas.
+
+725
+00:40:08,697 --> 00:40:13,160
+Comecei com apostas de cavalo. 
+Então, como está com a pólio?
+
+726
+00:40:13,244 --> 00:40:14,745
+Vai conseguir?
+
+727
+00:40:14,829 --> 00:40:17,081
+Sabe, de certa forma,
+
+728
+00:40:17,164 --> 00:40:19,583
+coloquei a reputação da fundação em risco.
+
+729
+00:40:19,667 --> 00:40:22,837
+Temos de usar a cabeça 
+e fazer o que for preciso.
+
+730
+00:40:23,504 --> 00:40:26,507
+Estou muito otimista.
+
+731
+00:40:27,091 --> 00:40:29,635
+Se precisa ser feito, você faz.
+
+732
+00:40:33,139 --> 00:40:35,683
+É uma grande responsabilidade.
+
+733
+00:40:35,766 --> 00:40:38,561
+Pense no Warren Buffett.
+
+734
+00:40:38,644 --> 00:40:41,147
+Ele pegou...
+
+735
+00:40:41,856 --> 00:40:43,899
+uma grande quantia
+
+736
+00:40:44,150 --> 00:40:45,943
+da fortuna dele e disse:
+
+737
+00:40:46,026 --> 00:40:47,528
+"Conto com você, Bill,
+
+738
+00:40:47,611 --> 00:40:49,405
+para fazer esse dinheiro
+
+739
+00:40:49,488 --> 00:40:51,991
+ter um impacto fenomenal."
+
+740
+00:40:52,533 --> 00:40:54,410
+Se fracassar, alguém pode dizer:
+
+741
+00:40:54,618 --> 00:40:55,828
+Bill continuou firme.
+
+742
+00:40:55,911 --> 00:40:57,496
+Ele fez uma grande aposta
+
+743
+00:40:57,746 --> 00:40:59,081
+e não quis sair da rodada.
+
+744
+00:41:00,124 --> 00:41:02,960
+-Bem... 
+-Porque ele é um otimista incansável.
+
+745
+00:41:03,335 --> 00:41:05,963
+E você deixa na mão os amigos 
+que emprestaram dinheiro.
+
+746
+00:41:06,046 --> 00:41:07,506
+-Você põe... 
+-Só se fracassar.
+
+747
+00:41:07,590 --> 00:41:09,592
+Não, só se fracassarmos.
+
+748
+00:41:10,843 --> 00:41:15,890
+Bill se dedicava 110% à Microsoft, 
+365 dias por ano.
+
+749
+00:41:15,973 --> 00:41:18,726
+Paul era assim no começo,
+
+750
+00:41:18,809 --> 00:41:21,729
+mas foi diminuindo.
+
+751
+00:41:21,812 --> 00:41:24,356
+Bill viu que Paul não estava mais
+
+752
+00:41:24,648 --> 00:41:26,358
+se esforçando tanto.
+
+753
+00:41:27,568 --> 00:41:29,361
+Quando a empresa cresceu,
+
+754
+00:41:29,445 --> 00:41:32,239
+o trabalho se tornou mais 
+que apenas programar.
+
+755
+00:41:34,241 --> 00:41:38,287
+Eu tinha de lidar com clientes  e entender
+
+756
+00:41:38,370 --> 00:41:41,248
+como trabalhar no Japão e Europa.
+
+757
+00:41:43,250 --> 00:41:46,587
+Bill assumiu uma responsabilidade incrível
+
+758
+00:41:46,670 --> 00:41:48,339
+de uma empresa pequena.
+
+759
+00:41:48,422 --> 00:41:49,840
+Estava sempre preocupado.
+
+760
+00:41:50,341 --> 00:41:53,385
+Estou contratando essas pessoas. 
+Pago o salário delas.
+
+761
+00:41:53,886 --> 00:41:56,430
+Vamos conseguir pagar no mês seguinte?
+
+762
+00:41:57,973 --> 00:42:00,059
+Eu queria ter dinheiro suficiente 
+no banco,
+
+763
+00:42:00,392 --> 00:42:03,312
+porque, mesmo se não recebêssemos 
+nada por um ano,
+
+764
+00:42:03,395 --> 00:42:04,897
+eu poderia pagar os salários.
+
+765
+00:42:05,397 --> 00:42:07,566
+As pessoas na empresa me viam
+
+766
+00:42:07,816 --> 00:42:09,777
+rabiscando atrás de um envelope,
+
+767
+00:42:09,860 --> 00:42:12,988
+calculando quanto dinheiro 
+tínhamos no banco.
+
+768
+00:42:14,782 --> 00:42:16,951
+Paul não queria
+
+769
+00:42:17,034 --> 00:42:19,119
+dirigir uma empresa grande,
+
+770
+00:42:19,203 --> 00:42:21,121
+e a Microsoft estava, claramente,
+
+771
+00:42:21,205 --> 00:42:22,373
+crescendo.
+
+772
+00:42:24,041 --> 00:42:26,001
+Bill e eu éramos yin e yang.
+
+773
+00:42:26,627 --> 00:42:28,546
+Havia uma diferença de estilo
+
+774
+00:42:28,629 --> 00:42:30,589
+em termos de intensidade.
+
+775
+00:42:33,300 --> 00:42:37,763
+Paul cansou de virar noites 
+trabalhando direto.
+
+776
+00:42:39,473 --> 00:42:41,016
+Eu era rígido com Paul.
+
+777
+00:42:41,100 --> 00:42:42,893
+Foram muitos anos lá.
+
+778
+00:42:42,977 --> 00:42:43,936
+Eu era o patrão dele
+
+779
+00:42:44,019 --> 00:42:46,772
+e dizia: "Precisa se esforçar mais."
+
+780
+00:42:48,649 --> 00:42:50,276
+Discutiam às vezes.
+
+781
+00:42:50,359 --> 00:42:52,194
+Dava para ouvir lá fora.
+
+782
+00:42:53,445 --> 00:42:54,697
+Era porque...
+
+783
+00:42:55,281 --> 00:42:57,992
+Bill tinha uma opinião, Paul tinha outra.
+
+784
+00:42:58,075 --> 00:42:59,493
+Bum!
+
+785
+00:43:00,661 --> 00:43:03,122
+É a dicotomia de startups pequenas
+
+786
+00:43:03,205 --> 00:43:06,542
+como a Microsoft. 
+Nós nos conhecemos no colégio.
+
+787
+00:43:06,667 --> 00:43:08,836
+Começa como uma família.
+
+788
+00:43:09,962 --> 00:43:12,798
+Daí você vê que algumas pessoas 
+são melhores que outras.
+
+789
+00:43:14,633 --> 00:43:16,135
+Bill decidiu que queria contratar
+
+790
+00:43:16,218 --> 00:43:18,053
+um presidente para a Microsoft.
+
+791
+00:43:18,220 --> 00:43:20,848
+Bem, o presidente tomou 
+o escritório do Paul.
+
+792
+00:43:22,349 --> 00:43:24,727
+Aquilo gerou uma separação
+
+793
+00:43:24,810 --> 00:43:26,145
+entre Bill e Paul.
+
+794
+00:43:26,228 --> 00:43:28,480
+Paul estava fazendo o trabalho dele,
+
+795
+00:43:28,564 --> 00:43:30,858
+enquanto Bill estava ocupado 
+dirigindo a empresa.
+
+796
+00:43:34,236 --> 00:43:35,904
+No outono de 1982,
+
+797
+00:43:36,322 --> 00:43:37,406
+Paul foi diagnosticado
+
+798
+00:43:37,489 --> 00:43:39,617
+com linfoma de Hodgkin em estágio inicial.
+
+799
+00:43:41,201 --> 00:43:43,078
+No ano seguinte, ele saiu da Microsoft.
+
+800
+00:43:47,416 --> 00:43:50,544
+Havia épocas em que Bill e Paul 
+estavam mais próximos,
+
+801
+00:43:50,628 --> 00:43:52,212
+em outras menos...
+
+802
+00:43:53,672 --> 00:43:54,840
+Aquela tensão
+
+803
+00:43:54,965 --> 00:43:57,009
+aumentava e diminuía com os anos.
+
+804
+00:43:58,927 --> 00:43:59,887
+Paul ficava distante,
+
+805
+00:43:59,970 --> 00:44:02,097
+e não se sabia por quê. 
+Então Paul explicava.
+
+806
+00:44:02,181 --> 00:44:04,099
+Mas ele não deixava Bill resolver,
+
+807
+00:44:04,183 --> 00:44:05,684
+e levaria tempo.
+
+808
+00:44:05,768 --> 00:44:08,646
+E por fim descobriam 
+uma forma de resolver.
+
+809
+00:44:11,565 --> 00:44:14,652
+Às vezes, passávamos horas com Paul.
+
+810
+00:44:14,735 --> 00:44:18,113
+Eram como dois meninos rindo juntos 
+de histórias antigas.
+
+811
+00:44:18,822 --> 00:44:21,825
+Quando a mãe do Bill, Mary, faleceu,
+
+812
+00:44:22,076 --> 00:44:25,788
+um dos primeiros a ir à casa 
+do pai do Bill foi Paul.
+
+813
+00:44:30,501 --> 00:44:33,462
+Os últimos dois anos foram difíceis 
+para os dois.
+
+814
+00:44:33,962 --> 00:44:34,880
+Este livro
+
+815
+00:44:34,963 --> 00:44:37,341
+é o motivo por que Paul ficou com raiva.
+
+816
+00:44:37,591 --> 00:44:41,595
+Bill disse coisas que Paul 
+deve ter achado incorretas e maldosas.
+
+817
+00:44:41,679 --> 00:44:45,599
+E Paul disse coisas que Bill 
+deve ter achado incorretas e maldosas.
+
+818
+00:44:46,517 --> 00:44:49,228
+E os dois deixaram passar...
+
+819
+00:44:50,354 --> 00:44:51,230
+muito tempo.
+
+820
+00:44:59,363 --> 00:45:00,948
+Se arrepende de algo com Paul?
+
+821
+00:45:07,621 --> 00:45:10,457
+Em 2018, o câncer de Paul voltou.
+
+822
+00:45:15,963 --> 00:45:20,718
+Antes de Bill saber da doença de Paul, 
+eles tentaram se aproximar,
+
+823
+00:45:20,843 --> 00:45:22,845
+mas... não se aproximaram.
+
+824
+00:45:22,928 --> 00:45:26,724
+E, quando Paul comunicou 
+que estava doente de novo,
+
+825
+00:45:27,015 --> 00:45:29,017
+Bill entrou em contato e, por fim,
+
+826
+00:45:29,476 --> 00:45:30,686
+se abriu totalmente.
+
+827
+00:45:31,520 --> 00:45:32,730
+Bill foi honesto
+
+828
+00:45:33,188 --> 00:45:35,858
+sobre o que sentia, 
+sobre o quanto ele amava Paul,
+
+829
+00:45:35,941 --> 00:45:38,318
+e a amizade era mais importante
+
+830
+00:45:38,402 --> 00:45:39,987
+que qualquer coisa
+
+831
+00:45:40,070 --> 00:45:42,948
+que pode ter feito 
+um dos dois ficarem com raiva.
+
+832
+00:45:43,991 --> 00:45:45,200
+O amor é duradouro.
+
+833
+00:45:45,451 --> 00:45:47,453
+E raiva tende a diminuir.
+
+834
+00:45:53,876 --> 00:45:58,964
+PAUL ALLEN, COFUNDADOR DA MICROSOFT, 
+DONO DA SEAHAWKS, MORRE AOS 65 ANOS
+
+835
+00:46:00,007 --> 00:46:02,009
+Foi um grande avanço,
+
+836
+00:46:02,092 --> 00:46:03,719
+e estavam prestes
+
+837
+00:46:03,802 --> 00:46:05,846
+a ficar juntos
+
+838
+00:46:06,305 --> 00:46:07,222
+de novo, mas...
+
+839
+00:46:07,306 --> 00:46:09,433
+-Bill o viu antes de ele morrer? 
+-Não.
+
+840
+00:46:13,437 --> 00:46:14,396
+Não.
+
+841
+00:46:20,903 --> 00:46:22,112
+Em 2018,
+
+842
+00:46:22,529 --> 00:46:26,158
+havia 33 casos novos de pólio 
+registrados no mundo...
+
+843
+00:46:28,327 --> 00:46:30,329
+mas Bill não tinha a intenção de desistir.
+
+844
+00:46:32,372 --> 00:46:33,457
+Não importava o custo.
+
+845
+00:49:58,453 --> 00:50:01,790
+Legendas: Ticiana Massi Grenga
